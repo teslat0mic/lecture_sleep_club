@@ -1,0 +1,3404 @@
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:06,719
+There's one piece left over from last time, and we will do that first.
+
+2
+00:00:06,719 --> 00:00:20,560
+That is, we haven't gone from existential spatiality to physical, that is, Cartesian or whatever your current science is, view of space and nature.
+
+3
+00:00:20,560 --> 00:00:22,479
+And we have to go through that.
+
+4
+00:00:22,479 --> 00:00:35,439
+It's interesting because Heidegger goes, I'll show you, and it helps to remember exactly the same moves he goes through when he gets from the ready-to-hand to the present-at-hand in equipment.
+
+5
+00:00:35,440 --> 00:00:49,119
+He's going to get from ready-to-hand dealing with things space, spatiality, as he calls it, to get from spatiality to present-at-hand, Cartesian space.
+
+6
+00:00:49,439 --> 00:00:51,679
+So we'll do it.
+
+7
+00:00:51,999 --> 00:00:58,799
+And he's going to show a founding relation, as he calls it.
+
+8
+00:00:58,799 --> 00:01:06,319
+That is, he's going to show, as I understand founding relation, it's about intelligibility, not about causality.
+
+9
+00:01:06,319 --> 00:01:10,079
+So it's not a question to begin with.
+
+10
+00:01:10,079 --> 00:01:11,759
+We'll get back to it at the end.
+
+11
+00:01:11,760 --> 00:01:18,599
+What's the causal relation between Cartesian space and everyday spatiality.
+
+12
+00:01:18,759 --> 00:01:24,279
+The ontological question is: which can you make sense of which from?
+
+13
+00:01:24,279 --> 00:01:26,039
+That is intelligibility.
+
+14
+00:01:26,039 --> 00:01:42,839
+Can you make Cartesian space intelligible by relating it to lived space, of existential spatiality, or do you make existential spatiality somehow intelligible by relating it to extension?
+
+15
+00:01:42,839 --> 00:02:10,439
+And of course, the answer, which is no big secret by now, it's really if once you describe the phenomena in its holism and in its richness, you discover that you can't build up the phenomena of existential spatiality out of the phenomena of minimal elements in an atomistic nature where you're just putting pieces together and so forth.
+
+16
+00:02:10,440 --> 00:02:13,240
+That we need to do it in detail.
+
+17
+00:02:13,240 --> 00:02:16,359
+So starting on 145 now.
+
+18
+00:02:22,440 --> 00:02:26,759
+So we're coming to the end of the spatiality chapter.
+
+19
+00:02:26,760 --> 00:02:32,839
+At the top of 145, we get section 24: space and Dasein spatiality.
+
+20
+00:02:32,839 --> 00:02:35,399
+That's just what I've been talking about.
+
+21
+00:02:35,399 --> 00:02:48,999
+And now he tells us about six or seven lines down in that section that starts at the top of 145, that is in the middle of 110 in the German.
+
+22
+00:02:49,000 --> 00:03:01,999
+He says, we have now shown that circumspective being in the world is spatial, and only because Dasein is spatial in the way of de-distancing and directionality.
+
+23
+00:03:01,479 --> 00:03:03,839
+Sorry, I haven't put the accent in the wrong.
+
+24
+00:03:04,080 --> 00:03:13,999
+And only because Dasein is spatial, in the way of de-distancing and directionality, can what is ready to hand within the world be encountered in its spatiality.
+
+25
+00:03:13,999 --> 00:03:16,080
+That's the first part.
+
+26
+00:03:16,080 --> 00:03:29,439
+And then, skipping to the beginning of the next paragraph, the space which is thus disclosed with the worldhood of the world lacks the pure multiplicity of the three dimensions.
+
+27
+00:03:29,440 --> 00:03:38,559
+I mean, it hasn't got this homogeneous, every direction is equal, no here, no up and down, no right and left.
+
+28
+00:03:38,800 --> 00:03:40,320
+It doesn't have any of that.
+
+29
+00:03:40,320 --> 00:03:42,640
+It's funny to say lax as I read it.
+
+30
+00:03:46,479 --> 00:03:50,240
+The worldhood of the world lacks the pure multiplicity of the three dimensions.
+
+31
+00:03:50,239 --> 00:03:51,199
+I'd have to go back and look.
+
+32
+00:03:51,200 --> 00:03:52,719
+Who's got the German?
+
+33
+00:03:53,039 --> 00:03:53,919
+What?
+
+34
+00:03:54,880 --> 00:03:56,079
+Hot nicht.
+
+35
+00:03:56,080 --> 00:03:57,120
+Hot nicht.
+
+36
+00:03:57,359 --> 00:03:58,800
+Well, that pretty well could be.
+
+37
+00:03:58,800 --> 00:03:59,760
+Doesn't have.
+
+38
+00:03:59,760 --> 00:04:01,360
+Yeah, that's right, not lax.
+
+39
+00:04:01,359 --> 00:04:01,839
+Good.
+
+40
+00:04:01,839 --> 00:04:02,720
+Doesn't have.
+
+41
+00:04:02,719 --> 00:04:09,119
+I mean, lax makes it sound like, boy, this rich space of Descartes.
+
+42
+00:04:10,320 --> 00:04:10,800
+Sorry.
+
+43
+00:04:10,800 --> 00:04:20,080
+No, it looks like if you say lax, the meaningful existential space is missing these meaningless three dimensions.
+
+44
+00:04:20,080 --> 00:04:23,039
+Boy, if it had them, just think where it would be.
+
+45
+00:04:23,040 --> 00:04:24,399
+But that's ridiculous.
+
+46
+00:04:24,399 --> 00:04:26,080
+It isn't missing them.
+
+47
+00:04:26,080 --> 00:04:27,520
+It doesn't lack them.
+
+48
+00:04:27,520 --> 00:04:30,399
+You wouldn't know what to do with them and had them in science.
+
+49
+00:04:30,640 --> 00:04:31,920
+It just doesn't have them.
+
+50
+00:04:31,920 --> 00:04:32,880
+That's good.
+
+51
+00:04:32,880 --> 00:04:34,640
+Nice to have the German back there.
+
+52
+00:04:34,640 --> 00:04:36,319
+Okay, so now we can go on.
+
+53
+00:04:36,960 --> 00:04:44,799
+The space that so-and-so, wait, I'm going to write it in so next time I won't get upset about it.
+
+54
+00:04:47,719 --> 00:04:54,279
+Hot niched doesn't have, okay, doesn't have the pure multiplicity of the three dimensions.
+
+55
+00:04:54,279 --> 00:05:05,479
+In this disclosedness, which is closest to us, space as the pure we're in in which positions are ordered by measurement and the situation of things are determined, what is all that?
+
+56
+00:05:05,479 --> 00:05:07,479
+That still remains hidden.
+
+57
+00:05:07,719 --> 00:05:13,480
+You notice there's always it's veiled, it's hidden, it's there, it's underlying.
+
+58
+00:05:13,479 --> 00:05:17,719
+And we saw that with the way the present at hand underlies the ready-to-hand.
+
+59
+00:05:17,719 --> 00:05:20,520
+So we haven't got to it yet.
+
+60
+00:05:20,520 --> 00:05:22,599
+It still remains hidden.
+
+61
+00:05:22,599 --> 00:05:27,560
+And now we're going to, so to speak, find it and hide it and so forth.
+
+62
+00:05:27,560 --> 00:05:33,800
+While I'm on it, I want to say something in answer to Curtis, who isn't over there today, maybe.
+
+63
+00:05:33,800 --> 00:05:41,000
+But in any case, I mean, he was right to keep pushing me about the causal underlying.
+
+64
+00:05:42,440 --> 00:05:46,199
+It isn't that, just don't even think about Heidegger.
+
+65
+00:05:46,200 --> 00:05:48,439
+Just think about reality.
+
+66
+00:05:48,440 --> 00:05:59,480
+It isn't as if we have a story about an account in science of how the space of science, whether, let's call it just Newtonian space.
+
+67
+00:05:59,479 --> 00:06:03,079
+I'm just talking about Curtis, trying to answer you.
+
+68
+00:06:03,239 --> 00:06:04,520
+Your timing is perfect.
+
+69
+00:06:04,520 --> 00:06:05,000
+Okay.
+
+70
+00:06:05,000 --> 00:06:20,120
+It isn't as if we understand that the space that underlies the existential space, where I mean by underlies, and this is what I should have said, simply you couldn't get along without it.
+
+71
+00:06:20,120 --> 00:06:34,799
+If there wasn't Cartesian space, there wouldn't be the kind of basic distance of things from things, which underlies the more, much more complicated notion of what's really close and what isn't on the basis of interest in coping and so forth.
+
+72
+00:06:34,799 --> 00:06:42,560
+But there is closeness and betweenness and certain basic structural things, and they underlie the existential space.
+
+73
+00:06:43,120 --> 00:06:44,640
+We couldn't have it without it.
+
+74
+00:06:44,640 --> 00:06:46,479
+And back to the hammer.
+
+75
+00:06:46,479 --> 00:06:57,840
+When I don't mean to say that the shank of the hammer made of wood and the blob of the hammer made of steel are somehow causally related to the hammers being able to be a hammer.
+
+76
+00:06:58,080 --> 00:07:06,000
+You can't make causal laws from natural kinds of wood and metal that relate that to hammers.
+
+77
+00:07:06,000 --> 00:07:09,520
+I mean, there's no, that just does, they're not in the same dimensions.
+
+78
+00:07:09,520 --> 00:07:21,120
+I mean, hammers can come in all sorts of shapes and they can be made of other plastic instead of wood, and it's where they fit in the referential totality that makes them hammers.
+
+79
+00:07:21,119 --> 00:07:29,839
+But nonetheless, the properties of whatever the hammer is made of make it possible for the hammer to hammer.
+
+80
+00:07:29,839 --> 00:07:42,319
+You can't make the hammer out of butter or pillows, or you can't, it's got to be rigid, and it's got to be balanced, and those are physical characteristics.
+
+81
+00:07:42,320 --> 00:07:45,360
+So don't say causally underlies.
+
+82
+00:07:45,359 --> 00:07:46,640
+That's my mistake.
+
+83
+00:07:46,640 --> 00:07:49,519
+Then you start looking for laws, explanations.
+
+84
+00:07:49,519 --> 00:07:59,680
+There are no laws and explanations about how the natural kinds and their causal properties, namely that metal has causal properties and wood has causal properties.
+
+85
+00:07:59,680 --> 00:08:07,200
+There's not going to be a story how you get from those natural kinds with their causal properties to how you get to hammering.
+
+86
+00:08:07,999 --> 00:08:19,160
+You will have some kind of general theory about why the metal is har why metal is hard and so forth, but you won't be, there's no laws relating them.
+
+87
+00:08:19,160 --> 00:08:21,719
+Okay, so the same thing is going to be true about the space thing.
+
+88
+00:08:16,640 --> 00:08:22,839
+That's why I went back to it.
+
+89
+00:08:23,160 --> 00:08:42,359
+Whatever you're going to say about the space, whether it's Cartesian or Newtonian or Einsteinian, now it's curved and it's got time in it, whatever you're going to say about that underlies the fact that anything can be a distance from anything else, where distance is, remember, this physical story.
+
+90
+00:08:42,680 --> 00:08:48,360
+And if it weren't for things being distant from other things, you couldn't have them being near or far.
+
+91
+00:08:48,359 --> 00:08:51,160
+You couldn't bring them into the near-far business.
+
+92
+00:08:51,160 --> 00:08:54,120
+You couldn't be trying to get a nearer, better grip on them.
+
+93
+00:08:54,119 --> 00:09:00,040
+All of that presupposes that there is this physical underlying structure.
+
+94
+00:09:00,040 --> 00:09:07,800
+This is very important to me, and I'll say something, one more thing about it, which is never, I mean, I really shouldn't, but I can't resist.
+
+95
+00:09:08,040 --> 00:09:35,800
+The big disagreement between me and Bill Blattner, which isn't going to come out in this course, but I'm going to say it anyway, is it only comes out in Division II, and it comes out when Blattner claims that Heidegger is trying to get all the properties of lived time, namely that it's a world time, it's shared time, there's a right time for doing things, it's got lots of existential properties.
+
+96
+00:09:35,800 --> 00:09:48,920
+And he says Heidegger fails to get one of the essential properties of time out of our, make sense of it in terms of our existential temporality, namely, succession.
+
+97
+00:09:48,920 --> 00:09:52,120
+Succession is for time, what distance is for space.
+
+98
+00:09:52,119 --> 00:09:55,719
+I think for Heidegger, succession is in the universe.
+
+99
+00:09:55,719 --> 00:09:57,080
+It's got to be there.
+
+100
+00:09:57,080 --> 00:10:10,400
+And then on the then that underlies the fact that we can have earlier and later, we can have a now, and all the stuff that isn't in succession is built on succession.
+
+101
+00:10:10,639 --> 00:10:15,680
+And so this fascinating thing, Blattner in two pages says, well, Heidegger can't explain succession.
+
+102
+00:10:15,680 --> 00:10:28,400
+He fails to do what he's trying to do, namely explain every aspect of temporality, give an account of every aspect of temporality on the basis of lived time.
+
+103
+00:10:28,400 --> 00:10:30,479
+Therefore, Heidegger's idealism fails.
+
+104
+00:10:30,479 --> 00:10:32,800
+That's why Heidegger didn't finish being in time.
+
+105
+00:10:32,800 --> 00:10:43,440
+That's why Heidegger gave up on the whole project and all on the assumption that Heidegger has to explain succession without physical time.
+
+106
+00:10:43,440 --> 00:10:45,680
+And I'm going to say the same thing is here for space.
+
+107
+00:10:45,680 --> 00:10:57,680
+Heidegger does not have to explain distance, physical distance, in terms of something else, but lived, namely our interest or our coping capacities or anything else.
+
+108
+00:10:57,680 --> 00:10:59,440
+Distance is really there.
+
+109
+00:10:59,440 --> 00:11:06,560
+It's now I'm back to my this whole lecture, that whole little speech, that whole aria is about remains hidden.
+
+110
+00:11:06,560 --> 00:11:10,080
+I mean, the space of distance remains hidden.
+
+111
+00:11:10,560 --> 00:11:25,040
+It's there all along, back to what I'm saying, underlying the fact that we have lived space because we're in the world, there is this lived spatial world.
+
+112
+00:11:25,040 --> 00:11:30,560
+And moreover, you can't explain the lived spatial world in terms of distance.
+
+113
+00:11:30,560 --> 00:11:37,440
+But you can't explain nearness and remoteness without distance, either.
+
+114
+00:11:37,440 --> 00:11:43,360
+And you can't explain physical distance in terms of nearness and remoteness, I don't think.
+
+115
+00:11:43,359 --> 00:11:48,839
+And I think, at least that's what Heidegger, I think Heidegger and I agree against Bill on this.
+
+116
+00:11:49,320 --> 00:11:51,719
+I have to tell Bill to listen to this podcast.
+
+117
+00:11:46,640 --> 00:11:54,039
+See if we get a response.
+
+118
+00:11:54,359 --> 00:11:57,560
+Okay, anyway, that's now where are we?
+
+119
+00:11:57,560 --> 00:12:23,960
+So we're going to now strip away the levels of intelligibility that we as Dasein, with our meaningful dealing with things, have you don't want to say sort of projected on the basic existential onto the Cartesian space.
+
+120
+00:12:23,960 --> 00:12:25,560
+There's hardly any way to talk about it.
+
+121
+00:12:25,560 --> 00:12:34,839
+I mean, how could you project your interests onto this totally directionless, meaningless, no here kind of space?
+
+122
+00:12:35,080 --> 00:12:37,879
+You just got to try to get your head inside of this.
+
+123
+00:12:37,879 --> 00:12:40,280
+It's very, very interesting, but complicated.
+
+124
+00:12:40,599 --> 00:12:42,280
+And it gets even worse with temporality.
+
+125
+00:12:42,279 --> 00:12:43,640
+But stick to space.
+
+126
+00:12:43,640 --> 00:12:53,000
+I mean, it isn't as if somehow you put here, hereness, you know, we've got a space that's got a here in it.
+
+127
+00:12:52,999 --> 00:12:58,519
+It isn't any, it isn't somehow, you can't sort of project the here on Cartesian space.
+
+128
+00:12:58,519 --> 00:12:59,720
+It's just different.
+
+129
+00:12:59,719 --> 00:13:03,160
+There is Cartesian space, and it hasn't got any here in it.
+
+130
+00:13:03,160 --> 00:13:12,760
+But insofar as there are human beings, and human beings are in the world, there is spatiality, and it's got here and in it, and near and far and so forth.
+
+131
+00:13:12,759 --> 00:13:16,360
+And they depend on us as Daseins.
+
+132
+00:13:16,359 --> 00:13:28,200
+And how they're just, there's nothing you can say about how that relates to physical space that isn't going to get you into trouble, except maybe underlies something very, very minimal.
+
+133
+00:13:28,200 --> 00:13:31,960
+Okay, I'm falling back into this issue which obsesses me.
+
+134
+00:13:32,160 --> 00:13:36,160
+Okay, so we're going to strip away intelligibility.
+
+135
+00:13:36,160 --> 00:13:47,040
+We're going to strip away live spatiality bit by bit and get to pure, meaningless, minimal Cartesian space.
+
+136
+00:13:47,040 --> 00:13:49,600
+So this starts on 137.
+
+137
+00:13:51,200 --> 00:14:01,040
+I'm just going to go through it now because it's a kind of review of what happens with equipment, what happens with temporality beyond where you're going to be, and so forth.
+
+138
+00:14:01,040 --> 00:14:11,360
+So on page 137, we start out just below 104, about five lines.
+
+139
+00:14:11,359 --> 00:14:22,640
+Dasein, in its very being, has this being as an issue, and its concern discovers beforehand those regions in which some involvement is decisive.
+
+140
+00:14:22,639 --> 00:14:24,399
+It's so interesting and weird.
+
+141
+00:14:24,400 --> 00:14:25,839
+I mean, it discovers it.
+
+142
+00:14:25,839 --> 00:14:31,280
+Well, discovers it, but it wasn't there before Dasein came around and discovered it.
+
+143
+00:14:31,280 --> 00:14:32,399
+It's not what's hidden.
+
+144
+00:14:32,400 --> 00:14:33,599
+He's so tricky.
+
+145
+00:14:33,599 --> 00:14:35,599
+I mean, the regions aren't hidden.
+
+146
+00:14:36,160 --> 00:14:39,040
+They in Cartesian space.
+
+147
+00:14:39,359 --> 00:14:47,040
+They're just, there are only regions, like workshops and sunny sides of the house when Dasein's around.
+
+148
+00:14:47,039 --> 00:14:48,719
+Anyway, so here we are.
+
+149
+00:14:48,719 --> 00:15:03,760
+Dasein, the discovery of regions beforehand, that is, it's always already the space of regions, regions, is co-determined by the totality of involvements for which the ready-to-hand, if something encountered, is freed.
+
+150
+00:15:03,759 --> 00:15:08,879
+Now, we won't sink back into freed from last time, although that was all illuminating.
+
+151
+00:15:08,879 --> 00:15:15,599
+And I will come back to it later when we read a certain word, which is going to cause lots of new confusions.
+
+152
+00:15:15,599 --> 00:15:17,400
+But anyway, let's go on right now here.
+
+153
+00:15:16,719 --> 00:15:23,240
+The readiness to hand, which belongs to any such region beforehand, has the character of inconspicuous familiarity.
+
+154
+00:15:23,560 --> 00:15:30,520
+I just want you to realize that you start always at the ground floor of familiarity.
+
+155
+00:15:30,519 --> 00:15:36,440
+That's got in it our understanding of being, as he says at the end of the worldhood chapter.
+
+156
+00:15:36,440 --> 00:15:39,720
+That's the, you like the familiarity of the room.
+
+157
+00:15:39,719 --> 00:15:51,960
+The fact that we are just always in a world in which everything is already near and far and right and left and up and down and front and back and every, all that, we don't even notice it.
+
+158
+00:15:51,960 --> 00:15:53,400
+We take it for granted.
+
+159
+00:15:53,400 --> 00:15:57,000
+That's the inconspicuousness of the familiarity.
+
+160
+00:15:56,999 --> 00:15:57,960
+And it's got to be.
+
+161
+00:15:57,960 --> 00:15:58,440
+That's right.
+
+162
+00:15:58,440 --> 00:16:00,200
+We're not going to be paying attention to that.
+
+163
+00:16:00,200 --> 00:16:10,839
+We've got business to pay attention to on the basis of the way the space is already, always already beforehand, they talk like here, familiar to us.
+
+164
+00:16:10,839 --> 00:16:20,920
+That, of course, it was, we weren't born that way, but by the time we get to be grown up or adolescent Daseine, it's all always already familiar to us.
+
+165
+00:16:21,239 --> 00:16:31,479
+So now, so we start there, and now, and that's also tied up with the ready-to-hand, which has its own inconspicuous familiarity.
+
+166
+00:16:31,479 --> 00:16:45,080
+You remember, it withdraws the more the hammer working well, and the more skill you have with the hammer, the more familiarity you have with that kind of hammer and that kind of wood, the more the whole thing can be done without paying any attention at all.
+
+167
+00:16:45,400 --> 00:16:57,400
+But then something starts, it can go wrong, or even, I imagine, go well, in which it's so much better than you ever had it before that you notice that it's good that it is.
+
+168
+00:16:57,400 --> 00:17:00,999
+Of course, if you do, you spoil it, and you won't be in flow anymore.
+
+169
+00:17:00,999 --> 00:17:06,960
+But anyway, something happens to call your attention to the unready-to-hand.
+
+170
+00:17:06,960 --> 00:17:10,000
+And that's on 138 as he starts talking about that.
+
+171
+00:17:12,880 --> 00:17:18,399
+Once you look for these things, they're sort of scattered around, but you can put them together in a coherent story.
+
+172
+00:17:18,400 --> 00:17:26,079
+And start at the very bottom of 137, in the German on 104, about a third of the way down.
+
+173
+00:17:26,079 --> 00:17:29,999
+The regions itself become visible in a conspicuous manner.
+
+174
+00:17:29,999 --> 00:17:40,799
+Remember, conspicuous is the name for what happens when something goes wrong or isn't normal, and what you're doing, you have to pay attention to what you're doing.
+
+175
+00:17:40,799 --> 00:17:49,920
+The region itself becomes visible in a conspicuous manner only when one discovers the ready-to-hand circumspectively and does so in the deficient mode of concern.
+
+176
+00:17:49,920 --> 00:17:57,359
+Remember, deficient mode means you're not just swinging along in flow, but there's problems.
+
+177
+00:17:57,360 --> 00:18:04,479
+Often, the region of a place does not become accessible explicitly as such a region until one fails to find something in its place.
+
+178
+00:18:04,479 --> 00:18:05,680
+That's nice.
+
+179
+00:18:06,079 --> 00:18:11,999
+He talked about the problem of failing to find the hammer and how that makes the hammer in the workshop show up.
+
+180
+00:18:11,999 --> 00:18:19,839
+And now he's saying, and if you don't find the hammer, it also makes the place where the hammer ought to be show up, as the place where the hammer ought to be.
+
+181
+00:18:19,840 --> 00:18:30,399
+The space which is discovered in circumspective being in the world is the spatiality of the totality of equipment always belongs to entities themselves as the place of that totality.
+
+182
+00:18:30,400 --> 00:18:33,519
+The bare space itself is still veiled over.
+
+183
+00:18:33,840 --> 00:18:44,399
+When you look for it, that refrain is constantly there, telling you, well, there's Cartesian space there all along, but we haven't got to it yet, and so we'll go further.
+
+184
+00:18:44,640 --> 00:18:46,960
+On 146, he takes it up again.
+
+185
+00:18:49,799 --> 00:18:58,440
+So at the bottom in German, doesn't seem to have any German page.
+
+186
+00:18:59,079 --> 00:19:01,319
+Very near the bottom of 111.
+
+187
+00:19:01,319 --> 00:19:16,440
+Okay, at the bottom paragraph for us on 146, the spatiality of what is proximately uncountered in circumspection can become a theme for circumspection itself, as well as a task for calculation and measurement, as in building and surveying.
+
+188
+00:19:16,440 --> 00:19:17,479
+Now that's interesting.
+
+189
+00:19:18,519 --> 00:19:25,640
+That's not necessarily a breakdown, but that is sort of calling attention to what is usually just familiar and taken for granted.
+
+190
+00:19:25,640 --> 00:19:35,479
+You can start measuring your living room for the carpet you're going to get, where you're no longer in the walking on the carpet transparently, familiarly just dealing with it.
+
+191
+00:19:35,479 --> 00:19:39,000
+You are paying attention to it, but you're still involved.
+
+192
+00:19:39,160 --> 00:19:41,080
+And remember, that's the crucial thing.
+
+193
+00:19:41,079 --> 00:19:43,160
+You're going to see the switchover in a minute.
+
+194
+00:19:43,319 --> 00:19:52,119
+All the unready-to-hand stuff is always on the background of wanting to make it useful and easy to use and so forth.
+
+195
+00:19:52,120 --> 00:20:02,039
+It's always, it's deficient in the sense that it's not working transparently and well as it should be, and then it becomes conspicuous.
+
+196
+00:20:02,039 --> 00:20:06,440
+And one of the ways it can become conspicuous isn't a kind of breakdown.
+
+197
+00:20:06,440 --> 00:20:17,880
+I want you to get over the idea which Heidegger makes you into by bringing up the first examples of deficiency and the first transition to the unready-to-hand by breakdown.
+
+198
+00:20:17,880 --> 00:20:22,279
+Remember, something gets in the way, can't find the hammer, and so forth.
+
+199
+00:20:22,279 --> 00:20:30,520
+But he does already mention, but way, I point way back in the book, to the fact that not all unready-to-hand stuff has to be breaking down.
+
+200
+00:20:30,519 --> 00:20:36,160
+There's inspecting, he says, how's the assembly line doing and whatever.
+
+201
+00:20:36,479 --> 00:20:48,159
+And here, again, so building and surveying isn't a kind of breakdown, but it's still some, but it's something we do that makes something that was before inconspicuous conspicuous, and we can measure it.
+
+202
+00:20:48,160 --> 00:20:50,479
+That's at the bottom of 146.
+
+203
+00:20:50,479 --> 00:20:56,160
+The space thus shows itself to be studied purely by beholding it.
+
+204
+00:20:56,160 --> 00:21:03,920
+If one gives up what was formerly the only possibility of access to it, circumspective calculation, that is a very fast move.
+
+205
+00:21:03,920 --> 00:21:07,839
+I think probably very few of you will see it until you're looking for it.
+
+206
+00:21:07,840 --> 00:21:13,680
+He's just gone from unready-to-hand to presence at hand.
+
+207
+00:21:13,680 --> 00:21:20,479
+What he later, way back on page 114, makes big of a fuss about, namely the switchover, the deworlding.
+
+208
+00:21:20,479 --> 00:21:38,079
+Instead of building and surveying, which is measuring all right, but it's measuring in the interest of knowing how much, how far you have to build your fence or where your property line is and all that, part of our everyday way of life.
+
+209
+00:21:38,079 --> 00:21:43,680
+You can just stare at them and it's the purely by looking at it.
+
+210
+00:21:43,680 --> 00:21:54,239
+Whenever you get that, purely by looking at it, you've gone out of your world of circumspective concern into a world of just plain observing.
+
+211
+00:21:54,239 --> 00:22:01,039
+And then he says, so the space which thus shows up.
+
+212
+00:22:01,039 --> 00:22:03,839
+So you see what I'm now hope I haven't messed it up.
+
+213
+00:22:03,840 --> 00:22:05,599
+I think it sounds like I have it.
+
+214
+00:22:06,079 --> 00:22:06,559
+I mustn't.
+
+215
+00:22:06,559 --> 00:22:07,120
+Let's see.
+
+216
+00:22:07,120 --> 00:22:14,640
+Such thematization of the spatiality of the environment is still predominantly, ah, good, an act of circumspection by which space becomes into view in a certain way.
+
+217
+00:22:14,640 --> 00:22:15,039
+Good.
+
+218
+00:22:15,039 --> 00:22:17,560
+The space which less those up can be studied.
+
+219
+00:22:17,559 --> 00:22:24,279
+Now, the next move can also be studied in a different way purely by looking at it.
+
+220
+00:22:24,279 --> 00:22:26,599
+Boom, we're done with building and surveying.
+
+221
+00:22:26,600 --> 00:22:36,599
+And that's what gives us if one gives up what was formerly the only possible access to it, namely circumspective calculation.
+
+222
+00:22:36,600 --> 00:22:40,279
+So you give up circumspection, that's deworlding.
+
+223
+00:22:40,519 --> 00:22:47,160
+Now you're looking at space intuitively, formally, as formal relations, and so forth.
+
+224
+00:22:48,120 --> 00:22:55,719
+And I think, I mean, there's this access word which is very important too.
+
+225
+00:22:55,719 --> 00:23:07,160
+So the only way to get at space when you're measuring and building is in the context of circumspection, background stuff, skills, taking for granted.
+
+226
+00:23:07,160 --> 00:23:14,599
+But once you get into this pure looking, that gives you access to pure space.
+
+227
+00:23:15,160 --> 00:23:15,960
+That's science.
+
+228
+00:23:15,960 --> 00:23:17,639
+That's pure discovery.
+
+229
+00:23:19,160 --> 00:23:22,680
+Okay, so let's go on now that we've got that.
+
+230
+00:23:22,680 --> 00:23:24,200
+We did the switchover.
+
+231
+00:23:24,200 --> 00:23:27,239
+On 146.
+
+232
+00:23:28,759 --> 00:23:30,519
+Now I say go to 138.
+
+233
+00:23:30,519 --> 00:23:31,960
+He's going to summarize it.
+
+234
+00:23:31,960 --> 00:23:34,919
+I go back and forth because he goes back and forth.
+
+235
+00:23:35,640 --> 00:23:39,319
+So 138.
+
+236
+00:23:40,600 --> 00:23:45,799
+Okay, yes, he's summarizing before he begins to actually do it what he's going to be doing.
+
+237
+00:23:45,799 --> 00:23:52,200
+And that's at the last chunk, ten lines before section 23.
+
+238
+00:23:52,519 --> 00:24:08,479
+The environment does not arrange itself in a space which has been given in advance, but its specific worldhood, in its significance, articulates the concept, context of involvement, which belongs to some current totality of circumspective allotted places.
+
+239
+00:24:08,479 --> 00:24:13,519
+The world at such a time always reveals the spatiality of the space which belongs to it.
+
+240
+00:24:13,519 --> 00:24:21,120
+The encounter to encounter the ready-to-hand in its environmental space remains ontically possible only because Dasein is spatial.
+
+241
+00:24:21,120 --> 00:24:23,839
+Wow, I don't know why I'm reading that.
+
+242
+00:24:24,400 --> 00:24:25,680
+Let me see on page one.
+
+243
+00:24:25,680 --> 00:24:27,119
+Why am I saying this?
+
+244
+00:24:27,200 --> 00:24:28,319
+I say that's a summary.
+
+245
+00:24:28,319 --> 00:24:29,520
+It doesn't seem to me a summary.
+
+246
+00:24:30,239 --> 00:24:33,279
+Sorry, don't worry about page 138 right now.
+
+247
+00:24:35,680 --> 00:24:38,559
+I'm still should be staying in the unready to hand.
+
+248
+00:24:38,559 --> 00:24:40,559
+I got way too quickly.
+
+249
+00:24:40,559 --> 00:24:43,440
+So there's always sort of the difficulties of things.
+
+250
+00:24:43,440 --> 00:25:00,479
+I just wanted to, like the hammer being too heavy, if you look at the bottom of 140, you find that this is German 106, you find a pathway which is long objectively can be shorter than the one which is shorter, objectively shorter, but which is perhaps hard going.
+
+251
+00:25:00,479 --> 00:25:02,479
+See, it's hard going.
+
+252
+00:25:02,479 --> 00:25:04,559
+That's like it's too heavy.
+
+253
+00:25:05,680 --> 00:25:08,719
+It makes the unready to hand show up.
+
+254
+00:25:10,640 --> 00:25:16,160
+He's not stressing that there, but I just wanted to keep this parallel in mind.
+
+255
+00:25:17,120 --> 00:25:19,200
+And now we get to the switchover.
+
+256
+00:25:19,200 --> 00:25:22,319
+I don't want to say, I got there too soon.
+
+257
+00:25:22,319 --> 00:25:25,200
+Not that anything went wrong, because he did switch over there.
+
+258
+00:25:25,200 --> 00:25:26,399
+I don't take it back.
+
+259
+00:25:26,400 --> 00:25:30,399
+It's just that I hadn't finished what I wanted to do before he switched over.
+
+260
+00:25:30,400 --> 00:25:32,719
+Now I'm the bottom of 146.
+
+261
+00:25:36,319 --> 00:25:40,719
+And at the bottom of 146, the part I just read is the switchover.
+
+262
+00:25:40,719 --> 00:25:42,399
+I won't read it again.
+
+263
+00:25:42,640 --> 00:25:53,799
+And so at the top of 147, you get in the second paragraph of 147 the whole story, and which he sort of now he's summing up.
+
+264
+00:25:54,120 --> 00:25:55,719
+So let me try that.
+
+265
+00:25:55,719 --> 00:26:06,999
+When space is discovered non-circumspectively by just looking at it, you see, we're just taking up where I should have been, the environmental regions get neutralized to pure dimensions.
+
+266
+00:26:06,999 --> 00:26:16,039
+Places, and indeed the whole circumspectively oriented totality of places belonging to equipment ready to hand gets reduced to a multiplicity of positions for random things.
+
+267
+00:26:16,039 --> 00:26:17,559
+You recognize what's happening.
+
+268
+00:26:17,559 --> 00:26:19,719
+You're getting physical space.
+
+269
+00:26:19,719 --> 00:26:25,319
+The spatiality of what is ready to hand within the world loses its involvement character, and so does the ready-to-hand.
+
+270
+00:26:25,319 --> 00:26:27,639
+The world loses its specific aroundness.
+
+271
+00:26:27,640 --> 00:26:29,639
+I mean, there's no here anymore.
+
+272
+00:26:29,640 --> 00:26:32,200
+The environment becomes the world of nature.
+
+273
+00:26:32,200 --> 00:26:43,000
+The world, as the totality of equipment ready-to-hand becomes spatialized to a context of extended things which are just present at hand and no more, the homogeneous space of nature shows itself.
+
+274
+00:26:42,999 --> 00:26:44,599
+Now it's not hidden anymore.
+
+275
+00:26:44,600 --> 00:26:53,160
+Only when the entities we encounter are discovered in such a way that the worldly character of the ready-to-hand gets specifically deprived of its worldhood.
+
+276
+00:26:53,160 --> 00:26:56,839
+See, I jumped ahead and talked about deworlding at the bottom of 46.
+
+277
+00:26:57,319 --> 00:27:05,559
+It was already there at that last sentence on 46, but he makes it explicit here on 147.
+
+278
+00:27:05,880 --> 00:27:08,119
+And now we've got the switch over.
+
+279
+00:27:08,600 --> 00:27:12,440
+And I think I don't need to say more about it.
+
+280
+00:27:14,999 --> 00:27:18,040
+And yet I have, as if I had something more to say about it.
+
+281
+00:27:18,039 --> 00:27:19,399
+So let me think a minute.
+
+282
+00:27:19,719 --> 00:27:21,639
+147.
+
+283
+00:27:22,920 --> 00:27:24,999
+Oh, yes.
+
+284
+00:27:24,999 --> 00:27:25,559
+Okay.
+
+285
+00:27:25,559 --> 00:27:26,520
+Yes, I do.
+
+286
+00:27:26,519 --> 00:27:28,359
+At the top of 147.
+
+287
+00:27:28,360 --> 00:27:32,719
+You're not going to understand this because we're not mathematicians or geometers.
+
+288
+00:27:32,719 --> 00:27:41,519
+But Heidegger just decides to sort of show off and run through a bunch of mathematical things, which he presumably understands.
+
+289
+00:27:41,519 --> 00:27:51,440
+He gets it from a student of his named Otto Becker, who he, one of the few students of his, he actually writes, has sort of got something right, learned something important.
+
+290
+00:27:51,440 --> 00:27:58,479
+And Becker did a whole book about the various levels of space that you could get by leaving out more and more, apparently.
+
+291
+00:27:58,479 --> 00:28:09,440
+So at the top of 147, he says, one may go through a series of stages in laying bare pure homogeneous space, passing from pure morphology of spatial shapes to analysis in situs.
+
+292
+00:28:09,440 --> 00:28:10,639
+I don't know what all this means.
+
+293
+00:28:10,640 --> 00:28:13,839
+And finally, to the purely metrical science of space.
+
+294
+00:28:13,840 --> 00:28:18,639
+In our present study, we shall not consider how these are all interconnected.
+
+295
+00:28:18,640 --> 00:28:37,359
+Our problematic, the ontological one, is to designate, is merely designed to establish ontologically the phenomenal basis upon which one can take the discovery of pure space as a theme of investigation and work it in, which we just sort of half did.
+
+296
+00:28:37,360 --> 00:28:39,919
+I mean, that's as far as he wants to go with it.
+
+297
+00:28:39,920 --> 00:28:44,479
+Now, I have to go back and see.
+
+298
+00:28:46,239 --> 00:28:49,680
+Oh, yeah, then he sums it up one more time on 413.
+
+299
+00:28:49,680 --> 00:28:51,680
+Remember, it's always back there.
+
+300
+00:28:51,680 --> 00:28:58,319
+You're going to go if you're interested in these questions, because that's where he starts on 412 with the hammer, and then he does the hammer is too heavy.
+
+301
+00:28:58,319 --> 00:29:01,999
+And I thought it would be nice to go the rest of the way with him.
+
+302
+00:29:02,319 --> 00:29:09,519
+And that means on 413, the middle paragraph in German uh 361.
+
+303
+00:29:09,519 --> 00:29:11,759
+I'm going to read some of it.
+
+304
+00:29:11,719 --> 00:29:30,680
+Um I don't see what I want to read yet.
+
+305
+00:29:30,680 --> 00:29:32,519
+Okay, I think it's here with the hammer.
+
+306
+00:29:32,519 --> 00:29:38,680
+Yes, starting in the second sentence of that middle paragraph, he brings it together with the hammer.
+
+307
+00:29:38,680 --> 00:29:47,880
+In the physical assertion the hammer is heavy, we overlook not only the tool character of the entity we encounter, but something that belongs to any ready-to-hand equipment, its place.
+
+308
+00:29:47,880 --> 00:29:50,519
+So now he's going to do it for space.
+
+309
+00:29:50,519 --> 00:29:52,520
+Its place becomes a matter of indifference.
+
+310
+00:29:52,519 --> 00:29:59,719
+This does not mean that what is present at hand loses its location altogether, but its place becomes a spatiotemporal position.
+
+311
+00:29:59,719 --> 00:30:14,279
+See, it's no longer the hammer's got a place in the workshop, and it must be four feet from here and five, I don't know, three feet from the floor or something and so forth.
+
+312
+00:30:14,840 --> 00:30:16,039
+But that's all that's left.
+
+313
+00:30:16,039 --> 00:30:17,880
+It's not the place of the hammer anymore.
+
+314
+00:30:17,880 --> 00:30:20,200
+It's just a place like any other place.
+
+315
+00:30:20,200 --> 00:30:25,879
+It's just got its longitude and latitude or whatever coordinates you've got.
+
+316
+00:30:25,880 --> 00:30:26,920
+So let's go there.
+
+317
+00:30:26,920 --> 00:30:28,119
+Let's see now.
+
+318
+00:30:30,039 --> 00:30:32,119
+Place becomes a matter of indifference.
+
+319
+00:30:32,120 --> 00:30:42,279
+This does not mean that what is present at hand loses its location altogether, but its place becomes a spatiotemporal position, a world point, which is in no way distinguishable from any other.
+
+320
+00:30:43,559 --> 00:30:47,080
+Now comes something we're going to have to argue about or worry about for just a moment.
+
+321
+00:30:47,079 --> 00:31:01,319
+This implies not only that the multiplicity of places of equipment ready to hand within the confines of the environment becomes modified to pure multiplicity of positions, but that the entities of the environment are altogether released from such confinement.
+
+322
+00:31:02,479 --> 00:31:06,079
+The aggregate of the present hand becomes the theme.
+
+323
+00:31:06,079 --> 00:31:07,440
+Isn't that interesting?
+
+324
+00:31:07,440 --> 00:31:14,960
+I mean, that's what I like or puzzle, I don't know whether I'm liking it or puzzled by it, this released business.
+
+325
+00:31:16,160 --> 00:31:27,039
+It seems like just as you can free the chalk by taking it up and using it and then let it do its thing, now comes something that's like that and yet just the opposite of that.
+
+326
+00:31:27,039 --> 00:31:43,360
+You can release geometrical space by taking away from it everything that has to do with using it, deworlding it, taking it out of circumspection, and then you release, I think it's a different word than, I mean, I'm sure it's a different German word than free.
+
+327
+00:31:43,360 --> 00:31:44,239
+What is it?
+
+328
+00:31:46,160 --> 00:31:49,359
+And shrinked out of being bound up.
+
+329
+00:31:49,360 --> 00:31:53,200
+So, but the important thing is, and release is a good translation.
+
+330
+00:31:53,200 --> 00:32:11,279
+So, the important thing is there's two different stories, but they've got the same idea that there's some phenomenon which is got to be covered up and kept in the background, and then, but you can bring it into the foreground and notice it and pay attention to it.
+
+331
+00:32:11,680 --> 00:32:16,879
+With freeing the chalk, that means I take it, start picking it up and getting ready to use it.
+
+332
+00:32:17,200 --> 00:32:21,359
+And now we discover you can do the opposite thing.
+
+333
+00:32:21,360 --> 00:32:28,639
+You can just take away all Dasein relative characteristics, and just what's left?
+
+334
+00:32:28,640 --> 00:32:35,999
+Well, just pure homogeneous space, and that's now released, meaning uncovered.
+
+335
+00:32:35,999 --> 00:32:39,120
+I guess the I mean, uncovered does a good job.
+
+336
+00:32:39,120 --> 00:32:39,839
+Yeah.
+
+337
+00:32:47,239 --> 00:32:48,600
+We deworld them.
+
+338
+00:32:43,120 --> 00:32:49,879
+Yes, we deworld them.
+
+339
+00:32:45,360 --> 00:32:54,359
+The entities, we see the hammer by just sheer looking at it.
+
+340
+00:32:54,360 --> 00:32:57,799
+We don't see it as something for hammering anymore.
+
+341
+00:32:57,799 --> 00:33:07,719
+And we just see it as this, the way the Bushman in the Gods Must Be Crazy would see it, just as a physical thing with physical properties.
+
+342
+00:33:07,719 --> 00:33:24,359
+And that means that both we have deworlded it in that we've now sort of looked at it without any respect to any use the Dasein could put of it, could put it in.
+
+343
+00:33:24,360 --> 00:33:29,880
+And we're not revealing its worldhood.
+
+344
+00:33:29,880 --> 00:33:33,479
+We're revealing its way of being as present at hand.
+
+345
+00:33:33,880 --> 00:33:37,559
+To reveal worldhood, you've got to have something more dramatic.
+
+346
+00:33:38,039 --> 00:33:39,800
+You've got to really have a breakdown, I think.
+
+347
+00:33:39,800 --> 00:33:41,079
+This is illuminating.
+
+348
+00:33:41,079 --> 00:33:47,960
+I mean, when the hammer is missing and you can't hammer anymore, then the worldhood of the world obtrudes itself, I think.
+
+349
+00:33:47,960 --> 00:33:49,719
+That's the phrase Heidegger uses.
+
+350
+00:33:49,720 --> 00:34:00,840
+Because there you see the workshop and all the stuff is organized in terms of a referential totality, and it's all the way you, the carpenter, are trying to take a stand on your being, and all of that's not working.
+
+351
+00:34:00,840 --> 00:34:02,119
+And so you notice it.
+
+352
+00:34:02,440 --> 00:34:02,999
+I take it.
+
+353
+00:34:03,880 --> 00:34:11,719
+And the other way which you'll get to that you can notice worldhood is again when it's not working, and that's in anxiety.
+
+354
+00:34:11,720 --> 00:34:13,640
+And we'll have a lot to say about that.
+
+355
+00:34:13,800 --> 00:34:15,960
+And that's where that phrase comes from.
+
+356
+00:34:15,960 --> 00:34:19,400
+Then the pure presence at hand obtrudes itself.
+
+357
+00:34:19,400 --> 00:34:20,359
+That's the phrase.
+
+358
+00:34:21,479 --> 00:34:24,519
+And then we confront worldhood.
+
+359
+00:34:24,920 --> 00:34:28,440
+So that's, there has to be a really, really, I think this is right.
+
+360
+00:34:28,440 --> 00:34:30,199
+I have never really thought about it this way.
+
+361
+00:34:30,199 --> 00:34:49,920
+There's got to be a really dramatic, total breakdown before world and familiarity's got to be wiped out, for instance, before worldhood can stop being inconspicuous and withdrawn and show up just because it isn't working for you anymore.
+
+362
+00:34:50,320 --> 00:35:08,160
+It's like a piece of equipment which is when worldhoods make when you no longer can use the stuff in the world to take a stand on your own being, then the whole referential totality looks like a piece of broken equipment, namely broken equipment for t using stuff to take a stand on your being.
+
+363
+00:35:08,159 --> 00:35:09,999
+And then you're in real trouble.
+
+364
+00:35:09,999 --> 00:35:12,319
+And then when we get to anxiety, yeah, yeah.
+
+365
+00:35:12,880 --> 00:35:14,160
+Two comments.
+
+366
+00:35:15,039 --> 00:35:15,519
+I don't know.
+
+367
+00:35:15,519 --> 00:35:21,840
+I just wonder if there's a if I can think there between space and place.
+
+368
+00:35:22,159 --> 00:35:23,679
+The ending attract us now.
+
+369
+00:35:23,840 --> 00:35:30,639
+Whether they use space and descriptive instead of mental underlyingly, definitely.
+
+370
+00:35:30,639 --> 00:35:33,599
+Positions, I think, is the word for what you get instead of space.
+
+371
+00:35:33,840 --> 00:35:34,479
+And place.
+
+372
+00:35:34,479 --> 00:35:35,839
+Place is definitely.
+
+373
+00:35:41,280 --> 00:35:41,999
+It's always.
+
+374
+00:35:42,479 --> 00:35:46,560
+Place is always the place for the hammer, the place in the workshop, and so forth.
+
+375
+00:35:46,559 --> 00:35:48,960
+And position, I think, is the would be the word.
+
+376
+00:35:48,960 --> 00:35:53,840
+I don't know where he uses it for the the deworlded one.
+
+377
+00:35:53,840 --> 00:35:54,880
+That's good, yeah.
+
+378
+00:35:54,880 --> 00:36:07,680
+The other thing is, it seems like he's he's only interested in space and that underlying insofar as we're able to encounter it from some phenomenal basis, namely from that.
+
+379
+00:36:07,920 --> 00:36:09,999
+Given familiarity that we're having.
+
+380
+00:36:09,999 --> 00:36:10,400
+Right, yeah.
+
+381
+00:36:15,559 --> 00:36:18,759
+What are the conditions for the principle that you have our being able to come?
+
+382
+00:36:21,800 --> 00:36:23,479
+Space, geospatiality.
+
+383
+00:36:27,320 --> 00:36:42,199
+Yeah, in the extensive spatiality, we can encounter space as homogeneous, homogeneous, and empty when we just stare at it in this theoretical attitude and deworld it.
+
+384
+00:36:46,999 --> 00:36:48,120
+Yes, right.
+
+385
+00:36:48,519 --> 00:36:49,319
+Yes.
+
+386
+00:36:51,800 --> 00:36:53,639
+And how else could it come up?
+
+387
+00:36:53,639 --> 00:37:00,360
+I mean, if it came up in a kind of naturalism way, Heidegger would just say you just haven't studied the phenomenon.
+
+388
+00:37:00,360 --> 00:37:13,080
+If you did, you'd see how hard, how impossible it was to capture that holistic, meaningful phenomenon in terms of explaining it, in terms of the stuff moving around.
+
+389
+00:37:13,720 --> 00:37:13,880
+Yeah.
+
+390
+00:37:14,119 --> 00:37:19,880
+Which is why the, I mean, in principle, there can be no story about.
+
+391
+00:37:19,880 --> 00:37:20,599
+That's right.
+
+392
+00:37:20,599 --> 00:37:22,599
+I keep wanting to back down on that.
+
+393
+00:37:22,599 --> 00:37:22,920
+Right.
+
+394
+00:37:22,920 --> 00:37:27,479
+There's nothing to no story to tell, except that it is underlying.
+
+395
+00:37:27,479 --> 00:37:30,840
+And if you miss that, you're in the Bill Blattner mess, it seems to me.
+
+396
+00:37:30,840 --> 00:37:39,720
+Namely, you think Heidegger's got to explain distance and succession as somehow based on our existential something or other.
+
+397
+00:37:39,720 --> 00:37:41,960
+And I think Heidegger thinks that you don't.
+
+398
+00:37:41,960 --> 00:37:46,519
+By the way, if you want the nearest thing of evidence for my position, it's a funny sentence.
+
+399
+00:37:46,519 --> 00:37:49,360
+At the end of the history of the concept of time.
+
+400
+00:37:49,360 --> 00:37:51,319
+Look at the end of the history of the concept of time.
+
+401
+00:37:51,320 --> 00:37:56,679
+This is what I consider sort of devastating objection to Bill Blattner.
+
+402
+00:37:56,679 --> 00:38:01,960
+Heidegger talks about the time-free movements of nature, quote-unquote.
+
+403
+00:38:02,479 --> 00:38:13,440
+I take it what that means is, if time for him is like temporality, meaning human-related, time is like spatiality.
+
+404
+00:38:13,840 --> 00:38:20,080
+That's complicated because space for him is non-human related, and spatiality is human-related.
+
+405
+00:38:20,479 --> 00:38:23,200
+That's why the time chapter is so much harder.
+
+406
+00:38:23,199 --> 00:38:27,120
+For Heidegger, temporality is like spatiality.
+
+407
+00:38:27,119 --> 00:38:32,639
+But temporality is also called time, because being in time really is being in temporality.
+
+408
+00:38:32,639 --> 00:38:35,920
+It's not being in clock time.
+
+409
+00:38:35,920 --> 00:38:48,640
+So now what I'm trying to say is the time-free movements of nature, at the end of the basic problems, is just succession without any earlier and later and without any now.
+
+410
+00:38:48,639 --> 00:38:50,399
+And boy, is that hard to think.
+
+411
+00:38:50,400 --> 00:38:53,120
+But that point isn't whether we can think it or not.
+
+412
+00:38:53,119 --> 00:39:08,479
+The point is that it's clear that something like succession is still left, even when temporality, namely all this about earlier and later and now and stuff, is gone and you're in nature.
+
+413
+00:39:09,119 --> 00:39:13,920
+And so, anyway, so it's again, it's this interesting story.
+
+414
+00:39:13,920 --> 00:39:23,280
+And enough, I obsess about this because I respect Bill so much, and I think he's by far got the deepest understanding of anybody of being in time.
+
+415
+00:39:23,280 --> 00:39:26,960
+But on this crunching point, I don't believe him.
+
+416
+00:39:26,960 --> 00:39:29,440
+Okay, somebody had a hand up over here?
+
+417
+00:39:30,400 --> 00:39:31,360
+Oh, back in the back.
+
+418
+00:39:31,360 --> 00:39:32,319
+Tyler, yeah.
+
+419
+00:39:38,639 --> 00:39:45,679
+Well, that's what I suspected, and I sort of hinted that we would fall back into the free discussion if we didn't even look at this, but let's hope so.
+
+420
+00:39:46,079 --> 00:39:46,720
+How?
+
+421
+00:39:51,240 --> 00:39:51,880
+Okay, good.
+
+422
+00:39:51,880 --> 00:39:52,680
+Let's try.
+
+423
+00:39:52,679 --> 00:40:04,840
+When something is freed or released, as I want to put it, it becomes accessible to our phenomenological investigation, at least.
+
+424
+00:40:05,880 --> 00:40:07,159
+But that's not the whole story.
+
+425
+00:40:07,720 --> 00:40:21,639
+But whatever it is that's been withdrawn and doing its job by being essentially inconspicuous is no, scratch that, both of those things.
+
+426
+00:40:21,639 --> 00:40:22,680
+That's not right.
+
+427
+00:40:22,679 --> 00:40:23,719
+I have to try again.
+
+428
+00:40:23,720 --> 00:40:27,800
+When the chalk is freed, I don't know.
+
+429
+00:40:28,360 --> 00:40:29,880
+Give me time to think about it.
+
+430
+00:40:29,880 --> 00:40:32,679
+I just don't know how to what more to say about it.
+
+431
+00:40:32,679 --> 00:40:34,519
+Yeah, Curtis, you want to try?
+
+432
+00:40:34,519 --> 00:40:35,159
+Yeah, I'm sorry.
+
+433
+00:40:36,679 --> 00:40:38,840
+Freed the first sense.
+
+434
+00:40:39,880 --> 00:40:42,360
+They're freed for our circumspective concern.
+
+435
+00:40:42,519 --> 00:40:43,479
+That's right.
+
+436
+00:40:43,720 --> 00:40:46,519
+They see where you actually evolve it.
+
+437
+00:40:46,840 --> 00:40:56,039
+Freed in the first sense is an existential already being in the world, already free for our circumspective concerns.
+
+438
+00:40:56,119 --> 00:41:01,639
+In this sense, it's an ontic example, where we're actually releasing evolving.
+
+439
+00:41:02,280 --> 00:41:03,719
+I would have said just the other way around.
+
+440
+00:41:05,320 --> 00:41:06,679
+I'm not going to talk about it anymore.
+
+441
+00:41:06,679 --> 00:41:11,719
+To come and talk to me in office hours or make an appointment, I just don't really have.
+
+442
+00:41:12,440 --> 00:41:15,640
+What's bothering me isn't what's bothering everybody else, I think.
+
+443
+00:41:15,639 --> 00:41:19,559
+I just want to understand these words sort of intuitively.
+
+444
+00:41:19,559 --> 00:41:22,200
+Why would he say that the chalk was free?
+
+445
+00:41:22,599 --> 00:41:24,599
+And I think it's ontically freed.
+
+446
+00:41:24,599 --> 00:41:28,040
+I think it's when we pick it up and write with it that it's freed.
+
+447
+00:41:28,039 --> 00:41:28,999
+But freed?
+
+448
+00:41:29,800 --> 00:41:30,999
+I'm not going to go back over it.
+
+449
+00:41:30,999 --> 00:41:32,319
+And now released?
+
+450
+00:41:31,240 --> 00:41:38,960
+I mean, so the three dimensions of Cartesian space are released where have they been before they were released?
+
+451
+00:41:39,119 --> 00:41:40,560
+I mean, I just don't get it.
+
+452
+00:41:40,720 --> 00:41:46,479
+I think Heidi was pretty careful with the sort of nuances of his language.
+
+453
+00:41:46,479 --> 00:41:49,440
+And I just find that is wait, let's hear about the German.
+
+454
+00:41:54,639 --> 00:41:58,560
+Given for, okay, well, that's freed, all right.
+
+455
+00:42:00,479 --> 00:42:01,599
+Removing limits.
+
+456
+00:42:01,599 --> 00:42:08,560
+So it's been, it's Einschronk, it's been sort of contained within these limits, and now we're going to take the limits off.
+
+457
+00:42:08,559 --> 00:42:09,839
+And that's a little better.
+
+458
+00:42:09,840 --> 00:42:12,719
+But I mean, it's all, it's funny.
+
+459
+00:42:12,720 --> 00:42:14,960
+I'll say this, which will really confuse everybody.
+
+460
+00:42:15,280 --> 00:42:22,640
+Because if you look at the German, you could translate all of our dealing with objects as objects encounter us.
+
+461
+00:42:23,280 --> 00:42:24,639
+Unspagnen.
+
+462
+00:42:24,960 --> 00:42:27,040
+And how weird that is.
+
+463
+00:42:27,039 --> 00:42:40,720
+But I think that weird is the right kind of weird, because I think he thinks that the objects are drawing us in and so forth, that they're much more active in our everyday world than Cartesian objects, which just lie around.
+
+464
+00:42:40,720 --> 00:42:44,079
+So now there's a neat use, only our translator covers it up.
+
+465
+00:42:44,559 --> 00:42:50,719
+Whenever you're looking at it, if you think about objects, how objects encounter us, it sometimes is helpful.
+
+466
+00:42:50,720 --> 00:42:57,359
+Now, but I don't see that the free giving freedom or taking away limits is what's happening.
+
+467
+00:42:57,999 --> 00:43:00,239
+That points towards something phenomenological.
+
+468
+00:43:00,240 --> 00:43:01,839
+I knew we would fall into limits.
+
+469
+00:43:01,840 --> 00:43:02,720
+Yes.
+
+470
+00:43:05,280 --> 00:43:05,999
+Ah.
+
+471
+00:43:07,840 --> 00:43:08,800
+Oh, good.
+
+472
+00:43:08,800 --> 00:43:09,679
+So it's a little serious.
+
+473
+00:43:09,760 --> 00:43:18,280
+He's saying, like, okay, Frei Gaben, you guys will have to discuss this, is not giving freedom, but the Freyan would be giving freedom.
+
+474
+00:43:16,720 --> 00:43:19,799
+Liberate a person.
+
+475
+00:43:19,960 --> 00:43:22,519
+Okay, and Freigabin, what is that?
+
+476
+00:43:26,440 --> 00:43:29,639
+It seems that somebody did a good username and somebody in a hospital.
+
+477
+00:43:30,760 --> 00:43:32,040
+It's fun block.
+
+478
+00:43:32,679 --> 00:43:34,039
+Making available.
+
+479
+00:43:34,039 --> 00:43:35,720
+Wow, unblocking.
+
+480
+00:43:35,720 --> 00:43:36,279
+Good.
+
+481
+00:43:36,760 --> 00:43:39,639
+So you can't, I'm repeating what Eugene has just said.
+
+482
+00:43:39,639 --> 00:43:46,120
+So you can Freigabin, you can set free damsels in distress and prisoners.
+
+483
+00:43:46,360 --> 00:43:49,479
+And that's what I'm getting in my way with the, what?
+
+484
+00:43:49,559 --> 00:43:51,400
+That gets in the way of the other one.
+
+485
+00:43:51,400 --> 00:43:57,079
+You can't set free chalk, damsels, and prisoners in distress, all with the same verb.
+
+486
+00:43:57,079 --> 00:43:59,239
+So that's, okay, that's Freigabin.
+
+487
+00:44:03,079 --> 00:44:04,999
+Ah, is this seat free?
+
+488
+00:44:04,999 --> 00:44:05,719
+That's neat.
+
+489
+00:44:05,720 --> 00:44:06,280
+Yes.
+
+490
+00:44:07,079 --> 00:44:08,599
+Desponiva in French.
+
+491
+00:44:08,599 --> 00:44:10,359
+I don't know how to say it in English.
+
+492
+00:44:10,920 --> 00:44:12,919
+But anyway, so that's it.
+
+493
+00:44:13,079 --> 00:44:15,159
+Well, you had another way of putting it with free in it.
+
+494
+00:44:15,240 --> 00:44:16,999
+You say it again.
+
+495
+00:44:21,479 --> 00:44:22,679
+Making available.
+
+496
+00:44:25,800 --> 00:44:26,439
+Great.
+
+497
+00:44:26,440 --> 00:44:28,760
+So you're not freeing it from anything.
+
+498
+00:44:29,159 --> 00:44:30,279
+I think that's wonderful.
+
+499
+00:44:30,280 --> 00:44:33,079
+Just remember, all this discussion has been worth it.
+
+500
+00:44:33,079 --> 00:44:37,479
+If every time you hear freeing the chalk, you hear, is this seat free?
+
+501
+00:44:37,800 --> 00:44:42,599
+Because you don't want to say, well, is this, see, I've been in prison and you've just rescued it.
+
+502
+00:44:43,720 --> 00:44:45,720
+But you mean, is it available?
+
+503
+00:44:45,720 --> 00:44:47,720
+So the chalk becomes available.
+
+504
+00:44:47,720 --> 00:44:48,359
+What?
+
+505
+00:44:48,360 --> 00:44:49,320
+Terrific.
+
+506
+00:44:49,320 --> 00:44:50,919
+Okay, now we can go on.
+
+507
+00:44:51,079 --> 00:44:52,600
+It was worth going back.
+
+508
+00:44:53,720 --> 00:44:54,519
+But where are we?
+
+509
+00:44:54,519 --> 00:44:57,880
+I'm very near the end of this because I want to go on to the next thing.
+
+510
+00:44:57,880 --> 00:45:00,999
+So we did that.
+
+511
+00:45:00,999 --> 00:45:08,640
+And I want to just write down here, just in case I should forget this, which I doubt.
+
+512
+00:45:09,280 --> 00:45:10,799
+Is this seat free?
+
+513
+00:45:10,800 --> 00:45:11,920
+Great.
+
+514
+00:45:13,199 --> 00:45:14,799
+So I have to think, is this chalk free?
+
+515
+00:45:14,800 --> 00:45:15,999
+But you can get there.
+
+516
+00:45:16,960 --> 00:45:19,840
+Maybe it was somebody else's chalk and they didn't want anybody to use it.
+
+517
+00:45:19,840 --> 00:45:20,479
+Okay.
+
+518
+00:45:20,720 --> 00:45:24,319
+Note that Tartesian space has been there all along, I say, in my notes.
+
+519
+00:45:24,320 --> 00:45:26,720
+Haven't I said that a dozen times already?
+
+520
+00:45:26,720 --> 00:45:31,519
+But let's look at 136 and see why I feel that I should go on.
+
+521
+00:45:31,519 --> 00:45:33,839
+I have nauseum about this point.
+
+522
+00:45:34,320 --> 00:45:36,079
+136.
+
+523
+00:45:40,240 --> 00:45:40,960
+See?
+
+524
+00:45:42,159 --> 00:45:42,880
+It's the same.
+
+525
+00:45:42,880 --> 00:45:43,919
+Oh, I got it.
+
+526
+00:45:43,920 --> 00:45:45,519
+Yes, I've done that quote.
+
+527
+00:45:45,519 --> 00:45:46,320
+So let's go on.
+
+528
+00:45:46,559 --> 00:45:49,040
+It underlies, doesn't cause, I've done that.
+
+529
+00:45:49,679 --> 00:45:50,400
+Oh, yeah.
+
+530
+00:45:50,400 --> 00:45:55,280
+The last thing I just want to say, I said it already, but this time I'm ready to say it again.
+
+531
+00:45:55,280 --> 00:45:59,040
+It's important that Descartes got something right.
+
+532
+00:45:59,360 --> 00:46:08,080
+His talk about race extensa is really a deep understanding of the way natural science works and should work.
+
+533
+00:46:08,079 --> 00:46:24,320
+I want to keep repeating this because it looks like you'd think that Descartes who invented both subjects and objects, though there were substances but no objects, and there were people and souls but no subjects until Descartes came along and defined these interesting terms.
+
+534
+00:46:24,320 --> 00:46:30,239
+But I've got to keep reminding you, he's got it all wrong, and we're going to come back to that in a minute, about us.
+
+535
+00:46:30,559 --> 00:46:35,200
+We are not going to be treatable as present-at-hand substances.
+
+536
+00:46:35,199 --> 00:46:45,439
+And whenever he tries to do it, you get this, you know, self-contained minds, and you're at at Husserl or Searle or Leibniz or Kant or whoever.
+
+537
+00:46:45,440 --> 00:46:50,759
+Anyway, so Descartes just got it wrong about us, about Dasein.
+
+538
+00:46:46,479 --> 00:46:53,320
+But that doesn't mean that he's got it wrong about objects.
+
+539
+00:46:53,639 --> 00:47:13,239
+In fact, he made a big help, a big breakthrough away from Aristotle and Galileo by giving us a description of nature as it is, absolutely independent of us and our access practices and our interests and our bodies and perception and everything.
+
+540
+00:47:13,559 --> 00:47:23,160
+And now he didn't get it right because he didn't have any good ontology for it, but he got it right in that he was on the right track.
+
+541
+00:47:23,159 --> 00:47:24,279
+So let me read that.
+
+542
+00:47:24,679 --> 00:47:31,720
+Starting on the very end of the previous section, above section C, on page 134.
+
+543
+00:47:32,039 --> 00:47:52,759
+But if we recall that spatiality is manifestly one of the constituents of entities within the world, then in the end, the Cartesian analysis of the world can still be rescued, quote, around world because it's the totality of entities, quote, around rescued because it was never really in trouble, I take it.
+
+544
+00:47:52,760 --> 00:48:05,159
+Now, skipping a little, within certain limits, the analysis of the extensio, res extensa, the extended something or other, remains independent of Descartes.
+
+545
+00:48:05,159 --> 00:48:10,840
+That is his neglecting to provide an explicit interpretation of the being of extended entities.
+
+546
+00:48:11,079 --> 00:48:24,199
+Heidegger's got a whole place for the present at hand, and what kind of being that is, and how that's related to us, namely related to us by not being related to us.
+
+547
+00:48:24,199 --> 00:48:26,120
+But there's a whole story about that.
+
+548
+00:48:26,360 --> 00:48:28,279
+But Descartes hasn't got that.
+
+549
+00:48:28,720 --> 00:48:56,879
+But so there's some phenomenal justification for regarding the extensio as a basic characteristic of the world, with quotes, even if by recourse to this, neither the spatiality of the world, and that means the human spatial world, nor the entities we encounter in our environment, a spatiality which is proximately discovered, nor even that of Dasein himself can be conceived ontologically.
+
+550
+00:48:57,679 --> 00:49:13,360
+That is, Descartes hasn't got a whole ontology in which the present-at-hand nature of the extended, meaningless, homogeneous space fits into a whole picture of how they make each other intelligible and so forth.
+
+551
+00:49:13,360 --> 00:49:14,479
+But he's right.
+
+552
+00:49:14,800 --> 00:49:16,239
+But there was another quote.
+
+553
+00:49:16,240 --> 00:49:17,920
+I wonder why I don't have it.
+
+554
+00:49:18,720 --> 00:49:25,440
+Maybe it was because I was seeing it in basic problems or in the history of the concept of time.
+
+555
+00:49:25,999 --> 00:49:27,119
+Does it say that here?
+
+556
+00:49:27,119 --> 00:49:31,599
+That he thereby lays the basis for physics as the modern physics?
+
+557
+00:49:31,599 --> 00:49:33,920
+I think it does, but I haven't found it.
+
+558
+00:49:35,039 --> 00:49:39,279
+He prepared the way for, yeah, I've got a little earlier I skipped it.
+
+559
+00:49:39,280 --> 00:49:45,840
+He prepared the way for the understanding of something a priori whose content was established with greater penetration.
+
+560
+00:49:45,840 --> 00:49:52,720
+That is, he understood that there was this basic structure.
+
+561
+00:49:52,720 --> 00:49:55,120
+That isn't even that isn't what I want.
+
+562
+00:49:55,519 --> 00:50:01,999
+Right around here somewhere, he says that well, the point is simply that Descartes was in.
+
+563
+00:50:19,079 --> 00:50:27,880
+I guess it's in that there's just phenomenal justification for regarding extensio as a basic characteristic of the world and so forth, period.
+
+564
+00:50:27,880 --> 00:50:36,600
+I mean, in other words, it's Descartes got something right, there is an underlying something or other, and it is a homogeneous underlying something or other.
+
+565
+00:50:36,599 --> 00:50:43,560
+And if he understood that there were other modes of being, he could say the mode of being of it was presence of hand, and that would be illuminating.
+
+566
+00:50:43,559 --> 00:50:46,920
+But he's on the right track toward modern science.
+
+567
+00:50:46,920 --> 00:50:55,320
+Remember, just to make this clear, maybe, Aristotle thought that things had natural places, that places were part of nature.
+
+568
+00:50:55,320 --> 00:51:08,679
+And Descartes and Galileo had to fight this big battle to get rid of the idea that there was an up and a down in nature and the things, the heavy things, had their natural place at the center of the earth and so forth.
+
+569
+00:51:08,679 --> 00:51:11,880
+Descartes wiped places out of nature.
+
+570
+00:51:11,880 --> 00:51:13,479
+And that's a big achievement.
+
+571
+00:51:13,479 --> 00:51:14,840
+And you don't want to knock him for it.
+
+572
+00:51:14,840 --> 00:51:16,279
+You want to congratulate him for it.
+
+573
+00:51:16,280 --> 00:51:17,400
+That's what Heidegger thinks.
+
+574
+00:51:17,400 --> 00:51:17,559
+Yeah.
+
+575
+00:51:34,519 --> 00:51:35,960
+Well, let's not talk about that.
+
+576
+00:51:35,960 --> 00:51:38,599
+I see that it's true that he's saying that.
+
+577
+00:51:39,240 --> 00:51:40,920
+I can't understand why he's saying it.
+
+578
+00:51:40,920 --> 00:51:42,119
+That's why I skipped it.
+
+579
+00:51:42,119 --> 00:51:52,839
+Because it isn't as if Descartes, as if Heidegger believes that never, I think, thinks that time is really an a priori form of our intuition.
+
+580
+00:51:52,840 --> 00:51:54,200
+Heaven forbid.
+
+581
+00:51:54,199 --> 00:51:55,960
+So we'll talk about it later.
+
+582
+00:51:55,960 --> 00:51:56,759
+Puzzling.
+
+583
+00:51:56,760 --> 00:51:59,319
+Okay, I'm ready to go on to the whole next section.
+
+584
+00:51:59,960 --> 00:52:01,239
+Everybody clear their heads.
+
+585
+00:52:01,240 --> 00:52:02,479
+We finished space.
+
+586
+00:52:01,800 --> 00:52:05,760
+It's really fascinating, but we've got to go on.
+
+587
+00:52:08,800 --> 00:52:17,440
+My bottom line, summing up, is that Descartes is right about the res extensa, but he's wrong about the res cogitans.
+
+588
+00:52:17,440 --> 00:52:27,519
+And what you can't, and then the bottom line of this is you can't account for the richness of existential space by putting together anything you can find in physical space.
+
+589
+00:52:30,479 --> 00:52:52,640
+The only way to make things intelligible is to see the physical space is arrived at by leaving out the richness of the original of spatiality, and that you can't get that richness back from the underlying physical space.
+
+590
+00:52:53,199 --> 00:52:54,639
+That's the picture.
+
+591
+00:52:54,639 --> 00:52:55,440
+Very sense.
+
+592
+00:52:55,519 --> 00:52:57,759
+Heidegger's being very sensible.
+
+593
+00:52:57,760 --> 00:53:01,920
+Whenever Heidegger gets to science, it seems to me, he's always being very sensible.
+
+594
+00:53:02,320 --> 00:53:06,639
+But now, here's a big transition to the next thing.
+
+595
+00:53:06,960 --> 00:53:08,079
+So this is fine with me.
+
+596
+00:53:08,079 --> 00:53:17,279
+I want to do other minds roughly today and do the chapter on the they Tuesday so that you have time.
+
+597
+00:53:17,280 --> 00:53:23,120
+And that's the end of the part that the paper topics are on, so that you have time to digest all that.
+
+598
+00:53:23,440 --> 00:53:28,320
+So here's a sort of orienting comment I want to make.
+
+599
+00:53:28,320 --> 00:53:42,879
+There seem to be four separate attacks on the ego or the cogito or the self-sufficient mind or whatever, the subject, all those bad Cartesian things.
+
+600
+00:53:45,360 --> 00:53:52,999
+There's an attack on the mind or the ego as a container of intentional contents.
+
+601
+00:53:52,999 --> 00:54:11,880
+Whenever you hear this phrase, which all my colleagues use with such facility, the intentional content of this or that, you've got to realize that the notion of content, in Husserl anyway, really means that it's inside the mind, that it's be there whether there was any world or not.
+
+602
+00:54:11,880 --> 00:54:27,799
+So Heinheid is going to get us out of this notion of intentional content, and he's going to get us out of the notion that all meaning somehow has to be accounted for in terms of the intentional content, which Searle thinks, calls the intrinsic meaning that the mind has and puts on everything.
+
+603
+00:54:27,800 --> 00:54:30,440
+And Husserl certainly had that view too.
+
+604
+00:54:30,440 --> 00:54:45,960
+So he's going and he's going to show that there just isn't any such self-contained mind which is the source of meaning.
+
+605
+00:54:45,960 --> 00:54:48,999
+And now I'm going to say there are four ways he does it.
+
+606
+00:54:48,999 --> 00:54:52,360
+And we've seen two of them so far and we're going to see two of them now.
+
+607
+00:54:52,360 --> 00:55:02,519
+So far, he's argued, and this is my favorite part, that there's a more primordial kind of intentionality than the kind that has intentional content.
+
+608
+00:55:02,519 --> 00:55:31,600
+That is, a kind of intentionality that isn't trying to do something, doesn't have goals, doesn't have conditions of satisfaction, but is our holistic background familiarity with the world, which is not directed toward objects, doesn't have any goals, not a kind of intentionality at all, but is the condition of the possibility of the the normal Husserl-Searrell kind of intentionality.
+
+609
+00:55:31,240 --> 00:55:36,799
+I really smushed two things together there, which I now wonder whether I have to sort them out.
+
+610
+00:55:37,840 --> 00:55:39,680
+I'd have five if I did that.
+
+611
+00:55:39,679 --> 00:55:41,039
+I guess I have to have five.
+
+612
+00:55:41,039 --> 00:55:42,160
+Oh, my goodness.
+
+613
+00:55:42,159 --> 00:55:45,840
+Okay, let me divide that into two.
+
+614
+00:55:45,840 --> 00:55:58,800
+There is, first he makes the move, this is just a review, from the kind of intentionality that Husserl and Searle is talking about, which is every normal intentionality, to what he calls more primordial intentionality.
+
+615
+00:55:58,800 --> 00:56:02,320
+And that gets you to coping, through dealing.
+
+616
+00:56:02,320 --> 00:56:13,279
+That's the kind of intentionality in flow, in which it's already true there that you're not trying to do anything, not trying to do anything, but you have conditions of satisfaction.
+
+617
+00:56:13,280 --> 00:56:20,479
+You either succeed in winning the chess game or making the tennis point or getting through the door or you don't.
+
+618
+00:56:20,479 --> 00:56:37,999
+Then there's this weird thing that if you put together these primordial intentionality copings so that they are all in a big hole, like coping with the room, then it no longer is a kind of dealing or coping that has a goal and that you can try to do.
+
+619
+00:56:37,999 --> 00:56:41,359
+Just try to cope with the room, and what would that be like?
+
+620
+00:56:41,519 --> 00:56:43,599
+Could you succeed or coping with the room?
+
+621
+00:56:43,599 --> 00:56:51,680
+Maybe you could fail by sort of tripping over the benches and falling flat on your face, but you don't, that's pretty, that'd be pretty peculiar.
+
+622
+00:56:51,679 --> 00:57:19,560
+So there is now not only, first you go from Husserl intentionality, which is all intentional content and subject-oriented, to primordial intentionality, which is Dasein dealing in an openness with the world kind of intentionality, to familiarity, which isn't even a kind of intentionality at all, but which is a kind of background know-how that is there making both other kinds of intentionality possible.
+
+623
+00:57:16,800 --> 00:57:22,759
+That's move one and two.
+
+624
+00:57:23,880 --> 00:57:27,320
+And then three, these are all things we've done already.
+
+625
+00:57:27,320 --> 00:57:29,800
+The self and the world are interdefined.
+
+626
+00:57:29,800 --> 00:57:40,680
+So he's going to keep telling you that the self is the stand you take on yourself, and you can't take a stand on yourself except by using shared equipment in a shared world.
+
+627
+00:57:40,679 --> 00:57:53,400
+And so then, again, not only have you gotten rid of the subject, which is the first and second one, you get rid of the self, which is a broader notion.
+
+628
+00:57:54,199 --> 00:57:56,839
+Whatever there is, self, soul, so forth.
+
+629
+00:57:57,240 --> 00:57:59,879
+The first one is ego and subject.
+
+630
+00:58:00,039 --> 00:58:05,320
+Second one, he's getting rid of the self because he says it's defined in terms of the world.
+
+631
+00:58:05,320 --> 00:58:10,280
+You know, the slogan I keep saying, Dasein is its world existingly, is there.
+
+632
+00:58:10,599 --> 00:58:13,320
+Okay, now we're going to do two new stages.
+
+633
+00:58:13,320 --> 00:58:23,800
+One, Dasein is not an isolated, self-subsistent, independent entity because being with is an existentiale.
+
+634
+00:58:23,800 --> 00:58:25,799
+So now it's a whole new angle.
+
+635
+00:58:26,199 --> 00:58:31,880
+You can't have these private, self-subsistent, independent minds.
+
+636
+00:58:32,440 --> 00:58:38,519
+A human mind is already intrinsically bound up with there being other human beings.
+
+637
+00:58:38,519 --> 00:58:42,440
+That's being with, and that's what we're going to talk about in a minute.
+
+638
+00:58:42,440 --> 00:58:48,039
+And then the last one, my really favorite, well, I don't know, I have so many favorites here.
+
+639
+00:58:48,360 --> 00:58:49,479
+But I want to.
+
+640
+00:58:54,679 --> 00:59:07,440
+The final coup de grace, where he's going to destroy the whole thing that the tradition has, is that it's the mind and the ego and the subject are not the source of meaning and intelligibility.
+
+641
+00:59:08,079 --> 00:59:16,320
+That's even you could say individual Gaussines are not the source of meaning and intelligibility.
+
+642
+00:59:16,320 --> 00:59:21,120
+And yet there has to be some source of meaning and intelligibility.
+
+643
+00:59:21,119 --> 00:59:22,720
+What could it be?
+
+644
+00:59:22,720 --> 00:59:23,920
+Well, I'm not going to tell you.
+
+645
+00:59:23,920 --> 00:59:28,239
+You try to figure it out because we're not going to get there until next time on that one.
+
+646
+00:59:30,159 --> 00:59:32,800
+But that's the fascinating one.
+
+647
+00:59:32,800 --> 00:59:37,519
+Where does the intelligibility of us and the world come from anyway?
+
+648
+00:59:37,760 --> 00:59:40,880
+And Heidegger's got a really interesting idea about that.
+
+649
+00:59:40,880 --> 00:59:46,080
+But now, back to the old problems, which I think are less interesting.
+
+650
+00:59:46,079 --> 00:59:51,680
+And I think he does too, because they don't get a whole big discussion like the last one.
+
+651
+00:59:51,679 --> 00:59:57,360
+But he's got, he wants to deal with the problem of other minds.
+
+652
+00:59:57,360 --> 01:00:09,279
+Once you get Descartes, you get problems that keep philosophy going and nobody ever solves, and it makes philosophy into a kind of normal science with a kind of booming business.
+
+653
+01:00:09,280 --> 01:00:19,679
+Heidegger gets really upset about this in a course that he's giving in 1923 or something called Ontology, what is it, the facticity?
+
+654
+01:00:20,639 --> 01:00:22,400
+The hermeneutics of facticity.
+
+655
+01:00:22,400 --> 01:00:26,479
+Anyway, and he talks about how all these other philosophers have problems.
+
+656
+01:00:26,479 --> 01:00:29,760
+And then you get ahead and you get tenure by solving these problems.
+
+657
+01:00:29,760 --> 01:00:33,999
+And what you ought to do is, in effect, dissolve these problems.
+
+658
+01:00:33,999 --> 01:00:39,440
+These are all problems that come only because you got the wrong phenomenological starting point.
+
+659
+01:00:39,440 --> 01:00:53,399
+And two of the best problems, and one that Berkeley used to be famous for spending its time worrying about, but the people who, the main person who worried about it has retired and isn't around anymore, and Tom Clark.
+
+660
+01:00:53,400 --> 01:00:56,920
+But that was the problem of the external world and skepticism.
+
+661
+01:00:56,920 --> 01:01:00,199
+It's the Barry Stroud carries on that to some extent.
+
+662
+01:01:00,519 --> 01:01:06,120
+So there is the problem of how we ever know anything about the external world.
+
+663
+01:01:06,119 --> 01:01:09,319
+There is the problem, and that keeps people busy.
+
+664
+01:01:09,320 --> 01:01:10,759
+It's a full-time job.
+
+665
+01:01:10,760 --> 01:01:17,560
+And Heidegger just sort of has fits and bones at the mouth when he thinks of all these colleagues getting ahead and getting tenure.
+
+666
+01:01:17,559 --> 01:01:20,920
+So we're trying to solve these non-existent problems.
+
+667
+01:01:20,920 --> 01:01:22,999
+You should dissolve them, not solve them.
+
+668
+01:01:22,999 --> 01:01:25,159
+And that he's just like Wittgenstein.
+
+669
+01:01:25,159 --> 01:01:33,800
+He thinks that the whole, and that's, and in that sense, Stroud is not in the issue.
+
+670
+01:01:33,800 --> 01:01:40,120
+He is not trying to solve the problem of the external world and solve and find the answer to skepticism.
+
+671
+01:01:40,920 --> 01:01:49,400
+Apparently, there were plenty of people doing that when I was a graduate student, and apparently it was a full-time industry when Heidegger was beginning teacher.
+
+672
+01:01:49,400 --> 01:01:50,840
+So what do you do?
+
+673
+01:01:51,639 --> 01:01:53,400
+Some light just go out?
+
+674
+01:01:53,720 --> 01:01:55,079
+I don't think so.
+
+675
+01:01:55,079 --> 01:01:59,160
+Anyway, so what's happening, really?
+
+676
+01:01:59,880 --> 01:02:13,080
+And to get people, we never should have been in the problem of other minds because we never had this special access to our mind, which was somehow our secret, private world of experience.
+
+677
+01:02:13,079 --> 01:02:20,680
+And then we have to know how we could ever get to know other people's private secret world of experience, or they could get to know ours.
+
+678
+01:02:20,679 --> 01:02:24,680
+It's another way to put it: it's the inner versus outer.
+
+679
+01:02:24,679 --> 01:02:46,240
+As soon as you think of Dasein as an inner, and they're sort of trying to get out, trying to transcend toward an outer, you've got the problem of the external world, which we'll get to later, but you've also got the problem of how any Dasein ever gets to know any other Dasein, and that's the one he happens to be starting with now.
+
+680
+01:02:46,559 --> 01:02:48,079
+So let's go over that.
+
+681
+01:02:48,079 --> 01:02:55,360
+So we were going to start now with these presuppositions that we just take for granted in philosophy.
+
+682
+01:02:55,360 --> 01:02:59,039
+This is one reason why you need to have 25B.
+
+683
+01:02:59,039 --> 01:03:00,479
+How many of you finally really have 20?
+
+684
+01:03:00,559 --> 01:03:01,920
+You have to have 25B.
+
+685
+01:03:01,920 --> 01:03:03,440
+I mean, you're supposed to, at least.
+
+686
+01:03:03,440 --> 01:03:05,279
+I'm not going to throw anybody out at this point.
+
+687
+01:03:05,280 --> 01:03:06,239
+It's too late.
+
+688
+01:03:06,400 --> 01:03:07,279
+You're on your own.
+
+689
+01:03:07,280 --> 01:03:11,759
+But anyway, that ought to help you understand this inner-outer thing.
+
+690
+01:03:11,760 --> 01:03:23,920
+I mean, all 25B, as far as I can imagine, as long as it's worrying about Hume and Kant and Leibniz and who else, Spinoza, and so forth, they've all got the inner-outer story.
+
+691
+01:03:23,920 --> 01:03:26,880
+And now Heidegger's going to try to get us out of it.
+
+692
+01:03:26,880 --> 01:03:36,400
+And so look on page, this is the beginning of section 25, page 150 in the German 114.
+
+693
+01:03:37,999 --> 01:03:41,600
+And I've got to go a little bit into formal indication here, but not much.
+
+694
+01:03:41,599 --> 01:03:49,599
+The answer to the question of who Dasein is is one that is seemingly given in section 9, where we formally indicated the basic characteristics of Dasein.
+
+695
+01:03:49,599 --> 01:03:58,479
+Remember that was said that we will provisionally say that the essence of Dasein is that it's the being that takes a stand on its being.
+
+696
+01:03:58,479 --> 01:04:05,920
+And we've said it provisionally, because we have to write all of being in time and show how it all hangs together to have the right to say that.
+
+697
+01:04:06,240 --> 01:04:12,080
+So he goes on, Dasein is an entity in which each case myself, its being is, in each case, mine.
+
+698
+01:04:12,079 --> 01:04:16,159
+This and then, let me, that's not really what I want to talk about.
+
+699
+01:04:16,159 --> 01:04:17,719
+So let's go skip a little.
+
+700
+01:04:16,639 --> 01:04:23,160
+The question of the who answers itself in terms of the I, the subject, the self.
+
+701
+01:04:23,479 --> 01:04:30,840
+The who is what maintains itself as something identical through changes in its experiences.
+
+702
+01:04:30,840 --> 01:04:34,440
+And that must be Erlebnis with a capital E, I presume.
+
+703
+01:04:34,440 --> 01:04:37,560
+Did I ever say that there are two words for experience?
+
+704
+01:04:37,559 --> 01:04:39,079
+I think, didn't I, way back?
+
+705
+01:04:39,079 --> 01:04:40,279
+Or am I imagining it?
+
+706
+01:04:40,280 --> 01:04:42,359
+Erleubnis and Erfarung?
+
+707
+01:04:42,360 --> 01:04:45,080
+No, well, I better say that because it's very important.
+
+708
+01:04:45,559 --> 01:04:48,440
+There's a normal word for experience.
+
+709
+01:04:52,360 --> 01:04:53,400
+I mean, I don't.
+
+710
+01:04:53,720 --> 01:04:54,920
+Is that wrong?
+
+711
+01:04:55,240 --> 01:04:56,280
+That's right?
+
+712
+01:04:56,280 --> 01:04:57,079
+Great.
+
+713
+01:04:57,079 --> 01:05:00,759
+Okay, and that's some people call, say, objective experience.
+
+714
+01:05:00,760 --> 01:05:04,920
+Maybe I don't like that because I think, how about everyday experience?
+
+715
+01:05:04,920 --> 01:05:11,400
+So it's like, well, how was the experience in Philosophy 185 today?
+
+716
+01:05:11,400 --> 01:05:15,159
+Or, well, or, you know, whatever.
+
+717
+01:05:15,159 --> 01:05:25,160
+All just a kind of normal use of experience in which it's a public shared thing that everybody can experience.
+
+718
+01:05:25,479 --> 01:05:33,640
+And then there is Erlebnis, which is a term that Husserl, as far as I know, brings in, that probably is around in German already.
+
+719
+01:05:33,639 --> 01:05:39,319
+And that's something like private experience.
+
+720
+01:05:39,960 --> 01:05:44,999
+I mean, there isn't any such thing, so it's hard to explain it to you.
+
+721
+01:05:45,559 --> 01:05:48,999
+But if you have 25B, you've had lots of people who believed it.
+
+722
+01:05:48,999 --> 01:06:05,679
+Erlebnitz means each person has their own private stream of experience, their stream of what Kant called inner sense, and what Joyce was trying to write about, what's going on privately in Bloom's mind all the time.
+
+723
+01:06:06,400 --> 01:06:07,599
+What does that used to be called?
+
+724
+01:06:07,840 --> 01:06:10,479
+The flow, there's a word for that.
+
+725
+01:06:10,479 --> 01:06:13,039
+Inner stream of consciousness.
+
+726
+01:06:13,039 --> 01:06:17,680
+Yeah, the people who write stream of consciousness though are writing about Erlebnis.
+
+727
+01:06:17,679 --> 01:06:32,400
+And Heidegger is saying that if you believe the Cartesian picture, then there is this identical something that holds together the changes in these experiences.
+
+728
+01:06:32,400 --> 01:06:43,600
+I'm pretty sure I'd be shocked if it isn't that this one is written in lowercase E, and this one is written in half of E in the translation.
+
+729
+01:06:43,599 --> 01:06:45,760
+So keep your eye open for that.
+
+730
+01:06:45,760 --> 01:06:47,119
+It's the other way around, right?
+
+731
+01:06:47,119 --> 01:06:47,759
+I just got it.
+
+732
+01:06:48,079 --> 01:06:49,840
+Didn't I get it reversed just now?
+
+733
+01:06:49,840 --> 01:06:50,319
+I don't know.
+
+734
+01:06:50,320 --> 01:06:51,759
+We'd have to look at the footnote.
+
+735
+01:06:51,760 --> 01:06:55,840
+When he first introduces it, I don't know.
+
+736
+01:06:55,840 --> 01:06:57,920
+Now I don't know where the footnote is either.
+
+737
+01:06:57,920 --> 01:07:03,760
+So unless we have to, we have to go look, because I can't leave you confused.
+
+738
+01:07:04,079 --> 01:07:11,200
+So we have to look in the German under Erlebnis, and then we'll find out in the footnote what's going on.
+
+739
+01:07:16,720 --> 01:07:21,519
+Erleben, Erlebnis, footnote on page Heidegger 46.
+
+740
+01:07:21,519 --> 01:07:24,880
+Okay, let's go to Heidegger 46.
+
+741
+01:07:25,519 --> 01:07:28,319
+You can't find your way through the book without it.
+
+742
+01:07:33,039 --> 01:07:37,840
+Okay, here at the bottom of seventy-two, Erlebnis, and so forth.
+
+743
+01:07:37,840 --> 01:07:43,999
+The connection between Leibniz and Erlebnis, oh, capital E, I guess I have it, is lost in translation.
+
+744
+01:07:43,999 --> 01:07:50,039
+And Erlebnis is not just any experience, which is Erfarung, but one which we feel deeply and live through.
+
+745
+01:07:46,800 --> 01:07:51,800
+The live through is the important thing.
+
+746
+01:07:52,119 --> 01:07:54,840
+That you could say in German, Dasfahn Erlebnis.
+
+747
+01:07:54,920 --> 01:08:00,439
+That means, wow, was that a moving private experience?
+
+748
+01:08:00,439 --> 01:08:09,159
+We shall translate Erlebnis and Erleben by capital E and reserving small E for experience for Erfarung.
+
+749
+01:08:09,159 --> 01:08:10,119
+Did I do it right?
+
+750
+01:08:10,119 --> 01:08:16,039
+So there's so yeah, he's going to use a small E for this and a capital E for that.
+
+751
+01:08:16,039 --> 01:08:17,159
+Okay.
+
+752
+01:08:17,480 --> 01:08:19,399
+Now I can go back to where I was.
+
+753
+01:08:19,399 --> 01:08:31,479
+So there's this whole wrong view on 150 again that there is this private ego or self or subject and it has in it this stream of experience and it holds them all together, the unity of the stream of experience.
+
+754
+01:08:31,480 --> 01:08:41,159
+People from 25D again know the people like Kant and Hume were all worried about how it is that the subject unifies its stream of experience.
+
+755
+01:08:41,159 --> 01:08:46,119
+All this is just a big misunderstanding of the phenomena, Heidegger says.
+
+756
+01:08:46,760 --> 01:08:53,319
+But he's still going on with this, what he says, the who maintains itself as identical through changes in experiences.
+
+757
+01:08:53,319 --> 01:08:54,199
+It's a substance.
+
+758
+01:08:54,199 --> 01:09:05,399
+It's self-contained and it's identical through all of the changes and through ways of behavior which relate and which relates itself to this changing multiplicity in so doing.
+
+759
+01:09:05,399 --> 01:09:06,840
+That's the s subject.
+
+760
+01:09:06,840 --> 01:09:14,359
+Ontologically we understand it as something which is in each case already constantly present at hand, both in and for a closed realm.
+
+761
+01:09:14,600 --> 01:09:17,880
+You see that's the inner, which lies at the basis.
+
+762
+01:09:17,880 --> 01:09:21,239
+In a very special sense, it is the subjectum.
+
+763
+01:09:21,239 --> 01:09:25,960
+That literally means that which underlies.
+
+764
+01:09:25,960 --> 01:09:29,479
+But don't get it confused with all this talk about underlies earlier.
+
+765
+01:09:29,480 --> 01:09:31,960
+Here, the subject underlies its properties.
+
+766
+01:09:32,480 --> 01:09:41,999
+So, the special subject is like a substance which underlies all the mental states that it has and holds together.
+
+767
+01:09:42,319 --> 01:09:44,960
+And that's it.
+
+768
+01:09:44,960 --> 01:09:51,519
+Okay, now, so you have to go back to the phenomena now and try to find a way out of this.
+
+769
+01:09:51,520 --> 01:09:55,679
+That's what he's talking about at the top of 151.
+
+770
+01:09:56,319 --> 01:10:25,039
+If in arriving at ontico-ontological assertions, one is to exhibit the phenomena in terms of the kind of being which the entities themselves possess, and if this way of exhibiting is to retain its priority over even the most usual and obvious answers and over whatever ways of formulating problems have been derived from those answers, then the phenomenological interpretation of Dasein must be defended against the perversion of our problematic when we come to the questions we're about to formulate.
+
+771
+01:10:25,039 --> 01:10:35,760
+That is, don't think that there's anything important about these private experiences of the I.
+
+772
+01:10:35,760 --> 01:10:44,399
+Then comes a murky paragraph on 151, which I don't think you should worry about, in which he's trying to give some place to poor old Husserl.
+
+773
+01:10:45,199 --> 01:10:51,439
+And he says, well, there must be some place for what he calls at the end, in quotes, a formal phenomenology of consciousness.
+
+774
+01:10:51,439 --> 01:10:57,359
+And what that's going to have to be is some kind of derivative innerness.
+
+775
+01:10:57,359 --> 01:11:00,479
+Sometimes you do have inner experiences.
+
+776
+01:11:00,480 --> 01:11:07,920
+And on reflection, you can contemplate your feelings or your moods or your thoughts and so forth.
+
+777
+01:11:07,920 --> 01:11:16,519
+And if you do that kind of reflecting, you can get this sort of derivative inner domain, he says.
+
+778
+01:11:16,520 --> 01:11:18,599
+And that's what Husserl thinks it's all about.
+
+779
+01:11:15,999 --> 01:11:21,079
+That's what Husserl does in his phenomenology.
+
+780
+01:11:21,399 --> 01:11:24,760
+But that's exactly what's not what he wants to do.
+
+781
+01:11:24,760 --> 01:11:34,999
+He says in the next paragraph there, this kind of giving which we have is a mere formal reflective awareness of the I, and perhaps what it gives is indeed evidence and so forth.
+
+782
+01:11:34,999 --> 01:11:37,719
+But that's not what he's interested in.
+
+783
+01:11:38,359 --> 01:11:40,519
+He wants to question all of that.
+
+784
+01:11:40,680 --> 01:11:50,599
+Now it's very clear what I'm saying in the next paragraph, where he does it, this is the bottom of 115, second sentence in the bottom paragraph.
+
+785
+01:11:50,600 --> 01:11:59,159
+Is it then obvious a priori that access to Dasein must be gained only by mere reflective analysis of the I of acts?
+
+786
+01:11:59,480 --> 01:12:02,119
+Acts are not actions.
+
+787
+01:12:02,119 --> 01:12:04,679
+Actions are public things, so it's bad translation.
+
+788
+01:12:04,680 --> 01:12:09,639
+I mean, actions are things like standing up here and lecturing or walking across the street.
+
+789
+01:12:09,640 --> 01:12:17,319
+Acts is a technical term made up by Husserl to describe what, in Searle language, are mental states.
+
+790
+01:12:17,319 --> 01:12:25,479
+Acts are our thinking and seeing and everything that's supposedly going on inside.
+
+791
+01:12:25,800 --> 01:12:34,840
+And he wants to say, is that the best thing to do to start with these intentional states, these acts?
+
+792
+01:12:34,840 --> 01:12:37,880
+And he says, and this is the crucial rhetorical question.
+
+793
+01:12:37,880 --> 01:12:46,199
+What if this kind of giving itself on the part of Dasein should lead our existential analytic astray and in a manner grounded in the being of Dasein itself?
+
+794
+01:12:46,199 --> 01:12:51,559
+Well, I don't, I'm not sure he ever explains very well why it's grounded in Dasein itself.
+
+795
+01:12:51,560 --> 01:12:54,519
+You might want to keep your eye open and see if you can find out.
+
+796
+01:12:54,520 --> 01:12:55,479
+I never have.
+
+797
+01:12:55,800 --> 01:13:01,960
+Somehow, Dasein has a tendency to treat itself as a substance, as a subject, as an ego.
+
+798
+01:13:02,239 --> 01:13:16,639
+I doubt it, because there was a long period of time in the history of the world, in the history of the West, for sure, where Daseine did not treat itself as an ego, a subject with inner experiences at all.
+
+799
+01:13:16,640 --> 01:13:32,239
+I will tell you this story because it helps you realize how hard it was to con us into thinking that we've got this inner stream of consciousness and that we can, that we find on reflection, and it was there all along, and that's really what we are, and so forth.
+
+800
+01:13:32,239 --> 01:13:34,719
+I'll tell you the following story.
+
+801
+01:13:35,760 --> 01:13:39,039
+I don't think I've told it here, although I told it in office hours a few times.
+
+802
+01:13:39,520 --> 01:13:46,079
+If you can keep your eye open for this, you can see how gradually people came to think that they had an inner.
+
+803
+01:13:46,079 --> 01:13:50,880
+It starts, I'm sure there's a lot more to say about it, probably a book to say about it.
+
+804
+01:13:50,880 --> 01:14:01,920
+But I noticed it first in Homer when at one point Homer says about Odysseus, who was at a big fancy dinner party, as they all are most of the time when they're not fighting.
+
+805
+01:14:01,920 --> 01:14:06,800
+And he's hearing the stories of the times when they were fighting, which is what they did at the dinner party.
+
+806
+01:14:07,680 --> 01:14:08,720
+It was a nice culture.
+
+807
+01:14:08,720 --> 01:14:10,479
+It was all very integrated.
+
+808
+01:14:12,560 --> 01:14:23,999
+And Homer says Odysseus was sitting there and he was crying inwardly, but he had this special trick that he could cry inwardly and his eyes remained dry as bone.
+
+809
+01:14:23,999 --> 01:14:30,239
+That is, he could actually feel emotions without publicly emoting.
+
+810
+01:14:30,239 --> 01:14:37,359
+And only Odysseus could do it, because he was so extremely clever that he could do tricks that nobody else could do.
+
+811
+01:14:37,359 --> 01:14:39,999
+So there's the first instance I know of the inner.
+
+812
+01:14:39,999 --> 01:14:48,519
+The next one that's really dramatic is Augustine in his confessions, who says that people came from miles around to watch St.
+
+813
+01:14:46,640 --> 01:14:52,279
+Jerome reading the Bible.
+
+814
+01:14:52,600 --> 01:14:57,639
+And the question is: what was so fascinating about Saint Jerome reading the Bible?
+
+815
+01:14:57,800 --> 01:14:59,399
+You will never imagine.
+
+816
+01:14:59,399 --> 01:15:01,800
+He was not moving his lips.
+
+817
+01:15:01,800 --> 01:15:03,960
+He was not making any noise.
+
+818
+01:15:03,960 --> 01:15:06,039
+He was not reading out loud.
+
+819
+01:15:06,039 --> 01:15:13,159
+He was doing something inner, Augustine said, in which the meaning of the text went directly to inside his mind.
+
+820
+01:15:13,159 --> 01:15:15,720
+And people didn't know how to read out loud.
+
+821
+01:15:15,960 --> 01:15:23,319
+And they didn't think of this as a kind of private event, reading and getting the meaning into your mind.
+
+822
+01:15:23,319 --> 01:15:31,559
+But we, and Augustine also, Augustine is very busy trying to make us aware of the inner.
+
+823
+01:15:31,560 --> 01:15:40,920
+He talks about afterimages at some point where you think you see something in the world, something on the wall after you stared at something else, but it's really not on the wall.
+
+824
+01:15:40,920 --> 01:15:41,880
+Where is it then?
+
+825
+01:15:41,880 --> 01:15:43,960
+Well, it must be in your mind.
+
+826
+01:15:43,960 --> 01:15:49,559
+I mean, later, I think Heidegger's going to say, no, no, it's over there by the wall in lived space.
+
+827
+01:15:49,560 --> 01:15:56,119
+It isn't over there by the wall in physical space, but we're not talking about physical space when we're talking about after images.
+
+828
+01:15:56,119 --> 01:16:03,319
+And then there's a whole complicated thing where Augustine tries to get you to realize that all your memories must be inside your mind.
+
+829
+01:16:03,319 --> 01:16:06,920
+And again, I think Heidegger's going to say, no, no, your memories are in the past.
+
+830
+01:16:06,920 --> 01:16:08,439
+You have access to the past.
+
+831
+01:16:08,439 --> 01:16:19,960
+It's not the past that went by with the last electrons, but it's the lived past is a long thing, and you're at a certain point in it, and you have access to the past and the future.
+
+832
+01:16:19,960 --> 01:16:24,519
+Anyway, so it took a long time to make a case for the inner.
+
+833
+01:16:24,920 --> 01:16:40,559
+And Heidegger's trying to say now: just you have to go back to the phenomena, and you have to realize this business that this idea that there's a self behind all of these inner experiences is what's going to lead us astray.
+
+834
+01:16:40,560 --> 01:16:45,759
+And one last sentence, summing up on 151, where it says 116 in the margin.
+
+835
+01:16:45,760 --> 01:16:57,999
+And what if the aforementioned approach, starting with the givenness of the I to Dasein and with a rather patent self-interpretation of Dasein, should lead the existential analytic, as it were, into a pitfall?
+
+836
+01:16:57,999 --> 01:17:00,559
+And that's exactly right.
+
+837
+01:17:00,880 --> 01:17:02,479
+One more, I can't resist at the very bottom.
+
+838
+01:17:02,480 --> 01:17:03,439
+We have two minutes.
+
+839
+01:17:03,920 --> 01:17:16,960
+The word I is to be understood only in the sense of a non-committal formal indicator, indicating something that may perhaps reveal itself as its opposite in some particular phenomenological context of being.
+
+840
+01:17:16,960 --> 01:17:19,279
+That is, we don't know what the I is yet.
+
+841
+01:17:19,279 --> 01:17:23,199
+And we're not going to assume that it's this inner something.
+
+842
+01:17:23,199 --> 01:17:29,199
+Although we can start by saying it's what we think of now, given how we've been corrupted, as this inner something.
+
+843
+01:17:29,199 --> 01:17:37,920
+But formal indication, you start with what you got to indicate, and you're all thinking maybe, I hope, of your sort of inner world.
+
+844
+01:17:37,920 --> 01:17:53,679
+And then you indicate whatever that subject or that's the wrong word, whatever that Dasein is, let's indicate it, starting as what people have talked about as private stuff.
+
+845
+01:17:53,680 --> 01:18:08,239
+But since you're doing it provisionally, that's what formal indication is, you should be ready to discover that the way you characteristics you thought you used in designating it turn out not to be really true of it.
+
+846
+01:18:08,239 --> 01:18:12,399
+And other characteristics that you didn't even notice turn out to be true.
+
+847
+01:18:12,399 --> 01:18:20,439
+That's what it will reveal itself as the opposite of in some in the in the everyday phenomenological context of what you thought of it.
+
+848
+01:18:21,319 --> 01:18:28,999
+And now that's enough to prepare us for the next section, being with, which we'll start with that next time.
+
+849
+01:18:28,999 --> 01:18:35,800
+But go ahead and read now the part on the they too, because I'm going to get to the part on the they before the end next time.

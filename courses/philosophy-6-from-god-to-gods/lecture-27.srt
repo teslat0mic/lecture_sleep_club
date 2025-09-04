@@ -1,0 +1,3243 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:07,200
+So, okay, now I'm going to start with a few, just quick remarks about last time, because there were loose ends last time.
+
+2
+00:00:08,399 --> 00:00:18,839
+The funny, this one is very unimportant, but this palsied universe, which seems like palsy but must mean pale, isn't in the dictionary in my computer.
+
+3
+00:00:18,839 --> 00:00:30,679
+It seems to be a word that either, on page 189, it must be in, I take it a word that Melville either made up or has gone out of existence since 1850.
+
+4
+00:00:30,680 --> 00:00:37,159
+And I'm sure it means paled, and it's got to do just with another way of saying white.
+
+5
+00:00:37,159 --> 00:00:58,200
+But the other thing I wanted to say was that I realized, I don't think I said it, I think I just wrote it in the margin, that Homer, I'm thinking about Homer and Melville for a minute, that Homer likes light, and therefore he fears the ocean as dark and dangerous.
+
+6
+00:00:58,200 --> 00:01:02,519
+And Poseidon is Odysseus' enemy.
+
+7
+00:01:02,519 --> 00:01:12,839
+And whereas Melville likes the dark and the deep, he agrees that the ocean is dark and deep and dangerous, but he likes it for that reason.
+
+8
+00:01:12,839 --> 00:01:30,839
+That's a very important difference between a deep, deep difference, because I think it means that Homer really wants everything to be clear and representable and in the light and spelled out, and that Melville thinks that that's impossible.
+
+9
+00:01:30,839 --> 00:01:43,479
+He sees that the background is what's most important in many ways, which we'll keep coming back to, is unrepresentable, undescribable, indefinite, and so forth.
+
+10
+00:01:43,479 --> 00:01:47,880
+And therefore, he thinks the ocean is the best place to be.
+
+11
+00:01:47,880 --> 00:01:48,679
+Yeah.
+
+12
+00:01:48,999 --> 00:01:53,560
+Melville, Homer would like the sky, of course.
+
+13
+00:01:53,560 --> 00:01:59,359
+It's where the light comes from, and that's all very clear and manifest and out in the open.
+
+14
+00:01:59,359 --> 00:02:04,240
+I don't can't think of Melville talking about the sky.
+
+15
+00:02:04,240 --> 00:02:05,680
+Of course, he talks about the rainbow.
+
+16
+00:02:05,680 --> 00:02:06,959
+We'll come back to that.
+
+17
+00:02:06,959 --> 00:02:09,120
+But that's different than the sky.
+
+18
+00:02:11,039 --> 00:02:14,080
+No, he does earth, he does see.
+
+19
+00:02:14,080 --> 00:02:15,280
+Keep your eyes open.
+
+20
+00:02:15,279 --> 00:02:20,719
+If you find him giving an interpretation of the sky, tell me about it.
+
+21
+00:02:20,719 --> 00:02:27,519
+Because it may be that there's so many interpretations of so many things going on that he will do it someplace, and I just missed it.
+
+22
+00:02:27,519 --> 00:02:30,880
+Or maybe I even knew it once but forgot it.
+
+23
+00:02:31,200 --> 00:02:33,279
+So just think about it.
+
+24
+00:02:33,279 --> 00:02:49,440
+Okay, so the other thing I wrote down was there were a quote that I don't remember that somebody mentioned to me, I think, after class, because otherwise I would have said it, that a place where he says that the whale is chaos at the bottom of 125.
+
+25
+00:02:49,440 --> 00:03:03,839
+Remember, I was listing all the various ways the whale is indescribable, indeterminate, has no face, makes incomprehensible gestures with its tail and is covered with hieroglyphics that nobody could read.
+
+26
+00:03:03,839 --> 00:03:13,760
+And at about 10 lines from the bottom of 125, he says the classification of the constituents of a chaos, nothing here, nothing less is here as said.
+
+27
+00:03:13,760 --> 00:03:23,520
+That is, if you try to classify the whale, do a science of the whale, do cetology, which is whale science, you can't do it.
+
+28
+00:03:24,080 --> 00:03:34,959
+And that was the other thing I wanted to read because I think last time I got to the point where I wanted to say science can't get a grip on the whale, but I couldn't find the pages.
+
+29
+00:03:34,959 --> 00:03:38,159
+I don't know if that's familiar, but that's how I remember it.
+
+30
+00:03:38,160 --> 00:03:39,479
+So I found the pages.
+
+31
+00:03:39,479 --> 00:04:02,440
+On 126 he talks about the field of whale studies is very very messed up and they can't even decide whether the whale is a fish or a mammal, because it's certainly sort of in one sense a mammal, but Melville says or Ishmael says for him it's a fish.
+
+32
+00:04:02,440 --> 00:04:11,959
+Anyway, and he says at the top of 126, all these incomplete indications but serve to torture us naturalists.
+
+33
+00:04:11,959 --> 00:04:13,159
+That's not what he says.
+
+34
+00:04:13,160 --> 00:04:15,959
+He's quoting a naturalist who says that, a scientist.
+
+35
+00:04:15,959 --> 00:04:25,720
+The scientists who want to get clear about things are naturally going to be driven crazy by the indeterminateness of Moby Dick.
+
+36
+00:04:25,719 --> 00:04:29,160
+And then I did, if I've read these, stop me.
+
+37
+00:04:29,160 --> 00:04:38,520
+On 127, the top paragraph, last sentence, and yet the sperm whale, scientific or poetic, lives not complete in any literature.
+
+38
+00:04:38,520 --> 00:04:42,440
+Far above all other hunted whales, his is an unwritten life.
+
+39
+00:04:42,440 --> 00:04:45,080
+I don't think I ever read that or found that.
+
+40
+00:04:45,080 --> 00:04:55,400
+In the middle of 127, I promise nothing complete because any human thing supposed to be complete must for that very reason infallibly be faulty.
+
+41
+00:04:55,399 --> 00:05:00,520
+That's a very, that's just halfway down almost exactly on 127.
+
+42
+00:05:00,520 --> 00:05:16,600
+And that's that's certainly that's that accounts for the crazy organization of all these higgly-piggly extracts at the beginning and all the stories that the completeness is totalizing, is getting the whole story.
+
+43
+00:05:16,599 --> 00:05:19,639
+It's what philosophers try, making the whole story clear.
+
+44
+00:05:19,639 --> 00:05:21,560
+That's what philosophers try to do.
+
+45
+00:05:21,560 --> 00:05:41,280
+Science tries to do, in on onto theology to, in Dante, anyway, tries to do, he finally gets a clear, upfront vision of the ultimate meaning of things when he sees God and how all the weeds of the universe are bound together in one clear unity.
+
+46
+00:05:41,280 --> 00:05:44,640
+And Melville thinks that's just impossible.
+
+47
+00:05:44,639 --> 00:05:47,840
+Reality doesn't add up to anything.
+
+48
+00:05:47,839 --> 00:05:49,520
+There is no complete story.
+
+49
+00:05:49,520 --> 00:05:52,080
+It's not that it's complete and we just can't know it.
+
+50
+00:05:52,080 --> 00:05:54,400
+It's a much more radical view.
+
+51
+00:05:54,400 --> 00:06:01,680
+There isn't any right answer at all, whether no one could know it, because there is nothing that it all adds up to.
+
+52
+00:06:01,680 --> 00:06:03,200
+It's chaos.
+
+53
+00:06:03,520 --> 00:06:08,880
+And all there are, finally, are interpretations.
+
+54
+00:06:08,879 --> 00:06:11,600
+That's the moral of today's lecture.
+
+55
+00:06:11,599 --> 00:06:17,600
+So now, having sort of caught up, I'm going on, onward.
+
+56
+00:06:17,920 --> 00:06:24,159
+So first, I'm going to review the whiteness chapter because that's so central.
+
+57
+00:06:24,160 --> 00:06:28,640
+Remember, he says that if you don't understand that chapter, you just don't understand the book.
+
+58
+00:06:28,639 --> 00:06:32,640
+So it won't hurt to go through it again because it's rather complicated.
+
+59
+00:06:32,639 --> 00:06:34,880
+So to begin with, it's complicated.
+
+60
+00:06:34,879 --> 00:06:37,119
+Well, color equals meaning.
+
+61
+00:06:37,119 --> 00:06:39,360
+That's sort of basic.
+
+62
+00:06:39,839 --> 00:06:45,920
+And whiteness equals, therefore, in a certain way, somehow, meaningless.
+
+63
+00:06:46,560 --> 00:06:49,359
+And I can't explain that exactly.
+
+64
+00:06:49,359 --> 00:07:04,000
+I think that's sort of intuitive, that meanings are various colorations, and that something white would be something that you couldn't say anything about or get any grip on or make any picture of or anything.
+
+65
+00:07:03,959 --> 00:07:06,479
+So, but there are two kinds of whiteness.
+
+66
+00:07:06,479 --> 00:07:13,320
+That's the first re reason you might be confused, and I have to unconfuse you before it's too late.
+
+67
+00:07:13,639 --> 00:07:18,040
+So, nature is blank.
+
+68
+00:07:18,359 --> 00:07:20,920
+It's just white.
+
+69
+00:07:21,719 --> 00:07:29,400
+And science tells us that all colors and smells and feels and so forth are just subjective.
+
+70
+00:07:29,400 --> 00:07:44,840
+Out there, there's just a bunch of electrons and quarks and strings or whatever running around and bumping into each other, and that's meaningless and literally colorless.
+
+71
+00:07:44,839 --> 00:07:53,320
+And then we project onto it, onto this what's sometimes now called disenchanted nature.
+
+72
+00:07:53,320 --> 00:07:57,320
+I mean, nature was full of color for Homer, presumably.
+
+73
+00:07:57,320 --> 00:08:12,840
+I mean, they saw it as having living gods all over it and whooshing up and having pros and con views toward human beings and so forth.
+
+74
+00:08:12,839 --> 00:08:26,360
+But once you get Galileo and Newton and all of our modern science, nature becomes disenchanted, which is, I say, it's a word that an important guy named Weber uses, but we don't need to talk about that.
+
+75
+00:08:26,680 --> 00:08:33,480
+In Melville language, nature is real, we realize that nature is blank.
+
+76
+00:08:33,479 --> 00:09:03,200
+And yet, it looks colorful to us, and that's because it fools us, and that's because it operates on our blank brains, blank meaning just neurons and meaningless things, and there's all this energy coming in, more blank, meaningless stuff, and when they get together, we see all this, color and people, and chairs and tables, but all that is just a cover-up.
+
+77
+00:09:03,200 --> 00:09:21,520
+Painting like a harlot for him means that this ugly pale woman has put on makeup and lipstick and jewelry and so forth, but that's all just to cover up the absolute minimalness, blankness of it.
+
+78
+00:09:21,520 --> 00:09:22,320
+Is that okay?
+
+79
+00:09:22,320 --> 00:09:25,279
+I mean, you should, that's not going to turn out to be important.
+
+80
+00:09:25,280 --> 00:09:32,560
+You just have to get that out of the way because that's not the kind of whiteness that interests him.
+
+81
+00:09:33,440 --> 00:09:35,520
+There's no answer to that kind of whiteness.
+
+82
+00:09:35,520 --> 00:09:39,359
+Nature just is like that for us right now.
+
+83
+00:09:39,680 --> 00:09:54,720
+There's this amazing passage where he considers that nature might get re-enchanted, and then it would be full of meaning and color again, like it was for the polytheist Greeks.
+
+84
+00:09:54,719 --> 00:09:58,560
+But for us now, it's disenchanted.
+
+85
+00:09:59,680 --> 00:10:01,999
+If I could turn to it, I would read it now.
+
+86
+00:10:01,999 --> 00:10:07,600
+I wasn't going to read this right now, but it seems so relevant.
+
+87
+00:10:07,599 --> 00:10:09,600
+Whereas maybe I can find it.
+
+88
+00:10:09,599 --> 00:10:10,800
+I doubt it.
+
+89
+00:10:10,800 --> 00:10:15,280
+If I don't find it in a minute, I won't try because I'm going to come back to it anyway.
+
+90
+00:10:15,280 --> 00:10:23,040
+But what's sort of striking is the way he hopes color would come back to nature, so to speak.
+
+91
+00:10:23,040 --> 00:10:26,879
+Anyway, right now, it's white.
+
+92
+00:10:26,879 --> 00:10:29,360
+Let's go on to the whiteness of Moby Dick.
+
+93
+00:10:29,680 --> 00:10:34,560
+The whiteness of Moby Dick isn't just a blank whiteness.
+
+94
+00:10:34,560 --> 00:10:39,600
+It's a whiteness, a blankness, as he puts it, full of meaning.
+
+95
+00:10:39,800 --> 00:10:43,080
+And that's where everything gets very interesting.
+
+96
+00:10:43,080 --> 00:10:46,280
+That's not nature that's a blankness full of meaning.
+
+97
+00:10:46,280 --> 00:10:51,880
+That's something like reality is a dumb blankness full of meaning.
+
+98
+00:10:52,520 --> 00:10:54,680
+Or no, that's not even quite right.
+
+99
+00:10:55,479 --> 00:10:56,840
+Whiteness.
+
+100
+00:10:57,160 --> 00:11:05,560
+If reality is understood as whiteness, then reality is understood as a dumb blankness full of meaning.
+
+101
+00:11:05,560 --> 00:11:14,359
+That is, and that's the funny thing that's so deep and strange, and Melville doesn't sort of emphasize it very much.
+
+102
+00:11:14,759 --> 00:11:29,320
+Either it's so obvious to him that he doesn't need to say it, or I think it's probably something that he intuits so sort of directly and practically and physically that he doesn't even know he's saying it.
+
+103
+00:11:30,200 --> 00:11:36,599
+But the dumb blankness full of meaning is the whiteness which you get when you put the rainbow together.
+
+104
+00:11:36,599 --> 00:11:45,639
+Remember, what you see in the white, in the spout of white Moby Dick is a rainbow.
+
+105
+00:11:45,639 --> 00:11:50,519
+And that means that there is a lot of color in reality.
+
+106
+00:11:50,520 --> 00:11:56,599
+If you could only get attuned to it, resonate to it, and see it.
+
+107
+00:11:56,599 --> 00:12:03,959
+And it's only by when you try to add up all these colors that you get whiteness.
+
+108
+00:12:04,280 --> 00:12:16,439
+Or you glom onto one of the colors and then you get this kind of unified color, but that's not you you miss with a really colorful, meaningfulness of reality.
+
+109
+00:12:17,000 --> 00:12:25,080
+And in order to not see the blankness, remember, of the whiteness of the snow, for instance, people wear colored glasses.
+
+110
+00:12:25,599 --> 00:12:32,560
+That means people interpret it under one under one description or one color or another.
+
+111
+00:12:32,879 --> 00:12:37,680
+And that's monotheism.
+
+112
+00:12:38,240 --> 00:12:46,080
+That leads to having one unified, overall interpretation that there's only one meaning.
+
+113
+00:12:46,399 --> 00:13:06,159
+And Melville is a polytheist in the sense that he thinks there's all these multiple meanings, which you can, if you don't try to add up all the colors and don't get fixed on one of the colors, you can see the rainbow.
+
+114
+00:13:06,159 --> 00:13:25,040
+And that means, I have to keep repeating it because it's all so interesting and strange, that means to see the rainbow is to have a kind of sensitivity to the moods of all sorts of different situations and to have intuitions about all sorts of different situations.
+
+115
+00:13:25,040 --> 00:13:30,719
+And Melville says explicitly that's what he's got.
+
+116
+00:13:30,720 --> 00:13:41,199
+That's, I mean, I would think that I made up this sort of story if it wasn't that for several moments he tells you explicitly what he's up to on 362.
+
+117
+00:13:41,520 --> 00:13:45,599
+I read this last time, but it's so important that I'm going to read it again.
+
+118
+00:13:46,560 --> 00:14:04,240
+And what's hardly amazing to me always is he tells you these extremely important things just on the same level and with the same sort of virtuosity and sort of over overkill language, then he tells you everything else.
+
+119
+00:14:04,280 --> 00:14:07,040
+It's been the middle of 362.
+
+120
+00:14:07,040 --> 00:14:14,599
+And now we go back to the to the rainbow and how nobly it raises our conceit of the mighty, misty monster.
+
+121
+00:14:14,839 --> 00:14:17,879
+Did you ever notice that he's just mad for alliteration?
+
+122
+00:14:18,520 --> 00:14:25,399
+I don't know if that tells us anything deep about Melville, but I notice it more every time I read it.
+
+123
+00:14:25,399 --> 00:14:27,240
+And here's just another example.
+
+124
+00:14:27,240 --> 00:14:28,279
+You know what alliteration is?
+
+125
+00:14:28,280 --> 00:14:30,119
+It all sounds with M's here.
+
+126
+00:14:30,119 --> 00:14:53,399
+The conceit of the mighty, misty monster, to behold him solemnly sailing, more alliteration, through a calm tropical sea, his vast, vile head overhung by a canopy of vapor engendered by his incommunicable contemplations, and that vapor, as you will sometimes see it, glorified by a rainbow, as if heaven itself had put a seal upon his thoughts.
+
+127
+00:14:53,399 --> 00:15:16,439
+Now, wait a minute, before, lest you think that then that it is that I made up the connection between the rainbow and this polytheistic sensitivity to all the different moods that you could have, like all the different gods, remember, moods of erotic moods and aggressive moods and domestic moods and parsimony mood.
+
+128
+00:15:16,439 --> 00:15:18,039
+I don't have a word for that.
+
+129
+00:15:18,040 --> 00:15:23,560
+Anyway, so for he says, for do you see rainbows do not visit the clear air.
+
+130
+00:15:23,560 --> 00:15:24,919
+They only irradiate vapor.
+
+131
+00:15:25,000 --> 00:15:26,200
+That doesn't happen.
+
+132
+00:15:26,199 --> 00:15:27,239
+And now we go on.
+
+133
+00:15:27,240 --> 00:15:35,800
+And so through all the thickness of the dim doubts in my mind, divine intuitions now and then shoot, enkindling my fog with a heavenly ray.
+
+134
+00:15:35,800 --> 00:15:39,080
+And for this I thank God, for all have doubts.
+
+135
+00:15:39,080 --> 00:15:40,200
+Many deny.
+
+136
+00:15:40,199 --> 00:15:41,480
+The doubts are denials.
+
+137
+00:15:41,480 --> 00:15:44,679
+Few of them have intuitions.
+
+138
+00:15:45,080 --> 00:15:49,399
+Doubts of all things earthly and intuitions of some things heavenly.
+
+139
+00:15:49,399 --> 00:15:55,080
+This combination makes neither a believer nor an infidel, but makes a man who regards them both with equal eye.
+
+140
+00:15:56,080 --> 00:16:05,359
+That is, he's not a believer, a Dante kind of onto theologist, and he's not an infidel that is a disbeliever, an atheist.
+
+141
+00:16:05,359 --> 00:16:13,839
+He's got his own sensitivity to the rainbow.
+
+142
+00:16:13,839 --> 00:16:20,560
+And you'll see it in another way in a minute, and you'll see it in another way next time, next Tuesday.
+
+143
+00:16:20,560 --> 00:16:24,560
+I'll be talking about some of the different moods he gets into.
+
+144
+00:16:25,199 --> 00:16:35,359
+The moods of Ishmael, there is a whole bunch of them, and he goes into each of them full blast, and really it colors his whole world for a while.
+
+145
+00:16:35,439 --> 00:16:40,000
+Then he gets into a different mood, and that colors a different mood for a while.
+
+146
+00:16:40,320 --> 00:16:47,919
+On the paper topics, Dave, didn't I quote something from a letter to at the bottom of the top, the old paper topics that I have in there?
+
+147
+00:16:47,919 --> 00:16:52,560
+I think I quoted something which I'd like to quote again now from a letter, right?
+
+148
+00:16:52,879 --> 00:16:54,959
+Yeah, can I see that?
+
+149
+00:16:56,879 --> 00:17:00,720
+Because there's a place where he says to Hawthorne, but I've just forgotten it.
+
+150
+00:17:01,119 --> 00:17:02,639
+Okay, thanks.
+
+151
+00:17:02,639 --> 00:17:03,599
+Yeah.
+
+152
+00:17:03,919 --> 00:17:09,760
+So this kind of polytheistic thing again, he says, I read this part.
+
+153
+00:17:09,760 --> 00:17:14,640
+I would sit down and dine with you and all the gods in old Rome's pantheon.
+
+154
+00:17:14,639 --> 00:17:15,999
+But I didn't read this.
+
+155
+00:17:16,000 --> 00:17:20,800
+I feel that the Godhead is broken up like the bread at supper and that we are the pieces.
+
+156
+00:17:21,199 --> 00:17:24,560
+Again, it's no unified view.
+
+157
+00:17:24,560 --> 00:17:28,239
+Then he says, this is a long letter, but you are not bound to answer it.
+
+158
+00:17:28,240 --> 00:17:29,439
+This is the new part.
+
+159
+00:17:29,439 --> 00:17:34,800
+Possibly, if you do answer it and direct it to Herman Melville, you will missend it.
+
+160
+00:17:34,800 --> 00:17:43,239
+For the very fingers that now guide this pen, as Melville writes his letter, are not precisely the same that took it up and put it on this paper.
+
+161
+00:17:43,240 --> 00:17:46,919
+Lord, when shall we be done changing?
+
+162
+00:17:46,919 --> 00:17:50,679
+So, I mean, that's the changeable moodiness of him.
+
+163
+00:17:50,679 --> 00:17:53,480
+There's no one Melville.
+
+164
+00:17:53,480 --> 00:17:57,479
+And when he's under the influence of Ahab, he thinks like Ahab.
+
+165
+00:17:57,480 --> 00:18:02,999
+And when he's under the influence of other things, he feels and senses like they do.
+
+166
+00:18:03,240 --> 00:18:04,040
+Here, thanks.
+
+167
+00:18:04,280 --> 00:18:05,640
+But now we're going on.
+
+168
+00:18:05,639 --> 00:18:08,679
+That was still getting up to where we were last time.
+
+169
+00:18:08,679 --> 00:18:10,999
+I just want to catch up with myself.
+
+170
+00:18:11,000 --> 00:18:13,000
+So you don't find meaning in nature.
+
+171
+00:18:13,000 --> 00:18:15,399
+There isn't any now anyway.
+
+172
+00:18:15,399 --> 00:18:17,080
+And not in Revelation.
+
+173
+00:18:17,080 --> 00:18:22,359
+He's very suspicious of Revelation because it looks like that's supposed to be the true answer.
+
+174
+00:18:22,359 --> 00:18:26,119
+But you get in tune with all the manifestations of the sacred.
+
+175
+00:18:26,119 --> 00:18:28,999
+Each one is worth cultivating in its own right.
+
+176
+00:18:29,000 --> 00:18:46,839
+So getting in sync with as many various moods, various divine intuitions, as he calls them, as possible is what you should be doing once you understood the reality, namely what Moby Dick's whiteness means.
+
+177
+00:18:46,839 --> 00:18:56,040
+You would want to get a whole spectrum of meanings, a rainbow of colors, which only looks white if you try mistakenly to add them all up.
+
+178
+00:18:56,040 --> 00:19:00,119
+I want to say a word about the mistaken people who try to add them all up.
+
+179
+00:19:00,119 --> 00:19:04,759
+I don't see anybody in the book who is like that.
+
+180
+00:19:04,760 --> 00:19:08,599
+But we've got them around us more now.
+
+181
+00:19:08,599 --> 00:19:15,720
+If you see anybody who is trying to add all the colors to have one unified view in the book, let me know.
+
+182
+00:19:15,720 --> 00:19:22,119
+As I say, the book is so rich, having read it a few times doesn't mean that I in any way got a grip on it.
+
+183
+00:19:22,119 --> 00:19:30,800
+But the people who try to add it all up are people who say, Well, all religions are really about the same thing.
+
+184
+00:19:30,800 --> 00:19:34,320
+We're all climbing the same mountain just from various sides.
+
+185
+00:19:34,320 --> 00:19:40,240
+I think Houston Smith says that in his famous book in the religions of the world or whatever.
+
+186
+00:19:40,720 --> 00:19:45,680
+You know, Houston Smith's book that everybody reads and pays attention to.
+
+187
+00:19:45,679 --> 00:20:08,560
+Anyway, and in a way, I think Joseph Campbell thinks that, and the Jungians think that, and there are all these people who think that every, there is this seeming variety of religions around, all over the world, weird, complicated, different, primitive, and all that, but they're really all getting at the same thing.
+
+188
+00:20:08,560 --> 00:20:10,399
+They're all getting at the same truth.
+
+189
+00:20:10,399 --> 00:20:16,080
+That's the great discovery of the West, in a way.
+
+190
+00:20:16,480 --> 00:20:18,320
+That's onto theology.
+
+191
+00:20:18,720 --> 00:20:21,919
+And one of its versions.
+
+192
+00:20:21,919 --> 00:20:25,359
+And very famous people.
+
+193
+00:20:25,599 --> 00:20:32,000
+So there's somebody I almost want to sort of reschedule class to go here a week from Thursday.
+
+194
+00:20:32,000 --> 00:20:34,159
+I haven't made up my mind what to do about that.
+
+195
+00:20:34,159 --> 00:20:43,679
+Robert Bella, who was a very famous sociologist who gave the sociology of religion here for many, many years.
+
+196
+00:20:43,679 --> 00:20:48,959
+He's now retired, but he's going to talk about, in effect, multiple worlds.
+
+197
+00:20:49,359 --> 00:20:57,760
+And I know from having talked to Bella over the years, and he's an authority, particularly on Japanese religion, which is as polytheistic as you can get.
+
+198
+00:20:57,760 --> 00:20:58,800
+He hates it.
+
+199
+00:20:59,280 --> 00:21:04,159
+He's an authority on it, but he thinks that there's one unified answer.
+
+200
+00:21:04,159 --> 00:21:19,560
+There's something called the Axial Age, which is supposed to have happened, what, about 300 BC, when Buddhism, Christianity, Jehovah, the Creator God, all gave out their unifying pronouncements.
+
+201
+00:21:19,560 --> 00:21:29,080
+And people like Bella think that there is one truth and that these people, these different religions, all saw that same deep insight.
+
+202
+00:21:29,080 --> 00:21:29,960
+There's one truth.
+
+203
+00:21:29,960 --> 00:21:34,519
+They describe it differently, but the important insight is the unity of it.
+
+204
+00:21:34,520 --> 00:21:37,639
+That's the view Melville is against.
+
+205
+00:21:38,280 --> 00:21:56,839
+And the other person who thinks that you may hear about, or maybe you heard about it, if you happen to listen to the news, Charles Taylor, who just got a prize of one and a half million dollars for having a spiritual approach to sociology.
+
+206
+00:21:56,839 --> 00:22:05,080
+I think Charles Taylor is a wonderful person and a wonderful philosopher, but on this deep issue, we differ.
+
+207
+00:22:05,080 --> 00:22:08,920
+I mean, he, like Bella, thinks that the great news is the axial age.
+
+208
+00:22:08,919 --> 00:22:19,399
+And if you're a polytheist, like I am, sort of, you think that that was a big disaster, that they lost everything when they thought that there was one unified understanding of everything.
+
+209
+00:22:19,399 --> 00:22:21,080
+At least that's Melville's view.
+
+210
+00:22:21,080 --> 00:22:23,800
+And when I'm teaching Melville, I believe Melville.
+
+211
+00:22:23,800 --> 00:22:25,959
+When I teach Kierkegaard, I believe Kierkegaard.
+
+212
+00:22:26,760 --> 00:22:30,199
+That only shows that I'm really a polytheist at heart, anyway, I think.
+
+213
+00:22:30,199 --> 00:22:33,560
+Okay, so much for that.
+
+214
+00:22:33,560 --> 00:22:40,999
+We're ready to go on now to the question: where does this rainbow of meanings come from?
+
+215
+00:22:41,560 --> 00:22:51,400
+If there isn't some unified God behind it that produced it all, created it, or maybe it's been there all along, like for Buddhism.
+
+216
+00:22:51,399 --> 00:23:01,199
+But if there isn't some unifying principle in that case, like karma behind it all, then you wouldn't, then why is there all this?
+
+217
+00:23:03,359 --> 00:23:09,040
+What's a kind of creation story when you don't believe in a creator?
+
+218
+00:23:09,040 --> 00:23:14,800
+But you've got all this stuff around and you want to know sort of why is it there?
+
+219
+00:23:14,800 --> 00:23:17,119
+Well, he's got an answer to that.
+
+220
+00:23:17,119 --> 00:23:20,159
+And it's a very strange and interesting answer.
+
+221
+00:23:20,159 --> 00:23:33,519
+And it comes, and it's my, it's what convinces me that the rainbow story and the whiteness story are central to the book.
+
+222
+00:23:33,520 --> 00:23:36,879
+Because if that's all I had to go on, I'd be suspicious.
+
+223
+00:23:36,879 --> 00:23:47,599
+If I were you, you should be suspicious of all these pages, what, 600 and something, that he comes up so infrequently talking about the whiteness and the rainbow.
+
+224
+00:23:47,599 --> 00:23:52,959
+Whenever he does, he says it's crucial, like he just said in the thing about divine intuitions.
+
+225
+00:23:53,359 --> 00:23:56,720
+So here's another variation, and it's a funny one.
+
+226
+00:23:56,720 --> 00:23:58,320
+It's on 432.
+
+227
+00:23:58,320 --> 00:24:00,560
+It's in chapter 102.
+
+228
+00:24:00,560 --> 00:24:04,639
+If it had anything to do with the plot and the characters, I wouldn't read it, but it doesn't.
+
+229
+00:24:04,639 --> 00:24:12,639
+It's sheer Melville, I would say Melville metaphysics, but of course he would hate metaphysics because that's unifying philosophy.
+
+230
+00:24:13,760 --> 00:24:16,399
+But it's sheer Melville whatever.
+
+231
+00:24:16,399 --> 00:24:18,080
+I don't know what to even call it.
+
+232
+00:24:18,879 --> 00:24:24,719
+It's his understanding of the basic way things get the way they are.
+
+233
+00:24:24,720 --> 00:24:28,239
+Okay, and now, and what is it that he discovered?
+
+234
+00:24:28,720 --> 00:24:31,839
+What does he describe when he wants to describe that?
+
+235
+00:24:31,839 --> 00:24:41,080
+Well, it's amazing because what he describes in a variation which is pretty so incredible that he would come up with it.
+
+236
+00:24:41,080 --> 00:24:52,359
+We've been hearing about Moby Dick in the ocean, how you can't understand what he looks like when he's swimming around, and you can't when you fish him out because he's all limp and woggly then.
+
+237
+00:24:52,359 --> 00:24:55,800
+And so, then, but what about this?
+
+238
+00:24:55,800 --> 00:24:58,999
+The skeleton of the whale on the land.
+
+239
+00:24:59,000 --> 00:25:07,240
+That's what he takes up in this peculiar chapter, which is called A Bower in the Arsaka Caiades.
+
+240
+00:25:07,240 --> 00:25:09,720
+I can't pronounce it, so I won't try anymore.
+
+241
+00:25:09,720 --> 00:25:14,759
+So, in 434, he's telling about what he found there.
+
+242
+00:25:14,760 --> 00:25:19,399
+There was a, and he, the things that he sees, what is chief among these?
+
+243
+00:25:19,399 --> 00:25:28,520
+Lots of wonderful things there were, and that they chief among the things they collected was a great sperm whale.
+
+244
+00:25:28,520 --> 00:25:42,999
+These are strange primitive people, which, after an unusual, long, raging gale, had been found dead and stranded with his head against a coconut tree, whose plumage-like, tufted dropings seemed his verdant jet.
+
+245
+00:25:43,000 --> 00:26:03,399
+When the last body had at last been stripped of its fathom-deep enfoldings, and the bones became dusty and dry in the sun, then the skeleton was carefully transposed up the Pupella Glen, that's the name of this place, where a grand temple of lordly palms now shelters it.
+
+246
+00:26:03,399 --> 00:26:07,479
+So now it's a kind of god in a temple of palms.
+
+247
+00:26:07,480 --> 00:26:09,800
+And that's a new version.
+
+248
+00:26:11,320 --> 00:26:17,080
+It's another version of the rainbow of meanings, but you won't see it right away.
+
+249
+00:26:17,080 --> 00:26:19,719
+But I think I can convince you.
+
+250
+00:26:20,679 --> 00:26:37,040
+And so there we are, it's a kind of temple, and now the ribs were hung with trophies, the vertebrae carved with animals of that country that I can't pronounce, in strange hieroglyphics.
+
+251
+00:26:37,040 --> 00:26:39,119
+And that's the name.
+
+252
+00:26:39,119 --> 00:26:41,519
+I'm just reading on 434.
+
+253
+00:26:41,520 --> 00:26:51,920
+The vertebrae were so-and-so in the in the skull, the priest kept up an unextinguished aromatic flame so that the mystic head sent forth its vapory spout.
+
+254
+00:26:51,919 --> 00:26:59,759
+That's the same vapory spout that has the rainbow in it, but it's not in it now because it's a different angle we're going to get.
+
+255
+00:26:59,760 --> 00:27:02,719
+And it was a wondrous sight.
+
+256
+00:27:02,720 --> 00:27:07,200
+And now comes something that's important, but you never know it.
+
+257
+00:27:07,199 --> 00:27:10,800
+The wood was green as mosses of the icy glen.
+
+258
+00:27:11,839 --> 00:27:16,080
+The trees stood high in half feeling their living sap.
+
+259
+00:27:16,080 --> 00:27:26,639
+The industrious earth beneath was as a weaver's loom with a gorgeous carpet on it, whereof the ground trend drills formed the warp and woof.
+
+260
+00:27:26,639 --> 00:27:28,959
+Keep your eye out for weavers.
+
+261
+00:27:29,280 --> 00:27:36,720
+The weaver metaphor is his deepest sense of reality.
+
+262
+00:27:37,040 --> 00:27:49,839
+He does it another time, which I'm not going to talk about, where he gives you the warp and warp, warp and woof of the way you make a carpet with vertical and cross threads as a description of free will and determinism.
+
+263
+00:27:49,839 --> 00:27:51,839
+I don't think that's very interesting.
+
+264
+00:27:51,839 --> 00:27:58,800
+But what's very interesting is what happens to the weaver story, the loon story here.
+
+265
+00:27:58,800 --> 00:28:02,640
+And why you know it's important is because it's about God.
+
+266
+00:28:02,960 --> 00:28:10,280
+It turns out, insofar as there's a God, and there isn't really, of course, God is a weaver.
+
+267
+00:28:09,760 --> 00:28:16,440
+And that is the ultimate principle behind it all is weaving.
+
+268
+00:28:16,679 --> 00:28:18,520
+A very peculiar idea.
+
+269
+00:28:18,839 --> 00:28:21,080
+You think somebody lost their mind.
+
+270
+00:28:21,080 --> 00:28:33,560
+But about 15 lines from the bottom of 434, the weaver God he weaves, and now comes a new thing, and by that weaving he is deafened, and he hears no mortal voice.
+
+271
+00:28:33,560 --> 00:28:39,080
+And by that humming, we too who look at the womb, the loom, are deafened.
+
+272
+00:28:39,080 --> 00:28:46,919
+And only when we escape it shall we hear the thousand voices that speak through it.
+
+273
+00:28:46,919 --> 00:28:49,880
+Does anybody see what's happening there?
+
+274
+00:28:49,880 --> 00:28:53,800
+Do you see the relation of this to the whiteness of the whale?
+
+275
+00:28:54,119 --> 00:28:57,879
+It took me ages to see it, but it's staring you in the face.
+
+276
+00:28:57,880 --> 00:28:59,800
+Suppose I give you a clue.
+
+277
+00:28:59,799 --> 00:29:03,160
+You've heard something called white noise.
+
+278
+00:29:03,159 --> 00:29:04,680
+Well, that's what this is about.
+
+279
+00:29:04,679 --> 00:29:07,080
+It's about the whiteness of the noise.
+
+280
+00:29:08,360 --> 00:29:17,240
+What happens is that if the weaving, which is the way the world works, so to speak, I'll talk more about the weaving in a minute, makes a lot of noise.
+
+281
+00:29:17,239 --> 00:29:21,799
+It's like putting out a lot of colors, and we're deafened by it.
+
+282
+00:29:21,799 --> 00:29:22,679
+What does that mean?
+
+283
+00:29:22,679 --> 00:29:25,639
+Well, that's like being blinded by the whiteness.
+
+284
+00:29:26,360 --> 00:29:34,440
+You can't hear the many different voices unless you get a certain distance from it.
+
+285
+00:29:34,440 --> 00:29:37,720
+And then it turns out it isn't white noise at all.
+
+286
+00:29:37,719 --> 00:29:40,599
+It's a spectrum of voices.
+
+287
+00:29:40,920 --> 00:29:51,480
+In other words, it's the rainbow story told in sound instead of in light, and told on the land instead of on the water.
+
+288
+00:29:51,480 --> 00:29:56,639
+I don't think there's any interesting correlation between why, water, why, land.
+
+289
+00:29:56,960 --> 00:30:05,279
+But what it is interesting is he's got this variation that keeps the same structure as the whiteness story.
+
+290
+00:30:06,560 --> 00:30:07,920
+Let me see.
+
+291
+00:30:08,880 --> 00:30:10,719
+So it's like a mystic head.
+
+292
+00:30:11,360 --> 00:30:14,159
+It's got 434.
+
+293
+00:30:14,159 --> 00:30:15,040
+I am here.
+
+294
+00:30:15,279 --> 00:30:20,000
+Okay, there's the mystic head, the vapor, the weaving, the humming.
+
+295
+00:30:20,000 --> 00:30:22,239
+I think I've got to where I want to be.
+
+296
+00:30:22,560 --> 00:30:24,319
+So keep your eye out.
+
+297
+00:30:24,319 --> 00:30:26,160
+This is just a note to me.
+
+298
+00:30:26,480 --> 00:30:32,399
+We'll get there by the end of today, I think, for another time when you see God as the weaver.
+
+299
+00:30:32,560 --> 00:30:35,440
+What does it mean to say you see God as a weaver?
+
+300
+00:30:35,440 --> 00:30:42,799
+Well, I must admit, I would have no clue if it weren't that Heidegger is in the back of my mind, as you know every once in a while.
+
+301
+00:30:42,799 --> 00:30:55,440
+Heidegger has this peculiar idea that the basic, this thing that accounts for all the meaning and color and order and so forth, is what he calls gathering.
+
+302
+00:30:55,440 --> 00:31:14,639
+He says that logos, which is this word that John has for the structure, this Greek word for the structure of everything, is really legame in its original form, which means the way seeds of wheat are bound together.
+
+303
+00:31:14,639 --> 00:31:26,480
+But what Heidegger makes out of it is that gathering is the ultimate way the world is, if you could say created, created.
+
+304
+00:31:26,480 --> 00:31:27,439
+The way the world works.
+
+305
+00:31:27,440 --> 00:31:28,000
+How about that?
+
+306
+00:31:28,000 --> 00:31:30,080
+The way the world works is by gathering.
+
+307
+00:31:30,080 --> 00:31:32,000
+But now, what does that mean?
+
+308
+00:31:32,000 --> 00:31:34,000
+Well, and by the way, he has another word for it.
+
+309
+00:31:34,000 --> 00:31:35,440
+Now, I shouldn't even tell you, but I will.
+
+310
+00:31:35,759 --> 00:31:40,360
+It's because it's a German word that nobody understands how to translate.
+
+311
+00:31:40,360 --> 00:31:42,279
+So it doesn't help much to tell you.
+
+312
+00:31:42,360 --> 00:31:43,720
+Erignis.
+
+313
+00:31:39,679 --> 00:31:47,159
+But the idea that Melville is so close to Heidegger just amazes me.
+
+314
+00:31:47,400 --> 00:31:55,000
+Eragnis means, as best anybody can translate it, things coming into their own by belonging together.
+
+315
+00:31:55,000 --> 00:31:56,199
+And that's a mouthful.
+
+316
+00:31:56,199 --> 00:32:16,360
+But here's what the idea is that sounds so puzzling and bizarre: is that it's our practices, remember, our many ways of behaving, of talking, of standing, of eating, of fishing and cooking, but also building and maybe having lectures.
+
+317
+00:32:16,360 --> 00:32:18,839
+All these practices that we have.
+
+318
+00:32:19,159 --> 00:32:25,080
+We have them because our practices tend to get organized.
+
+319
+00:32:25,080 --> 00:32:26,520
+That's the gathering.
+
+320
+00:32:26,520 --> 00:32:36,599
+So the fishing practices gather more and more fishing practices, and the eating practices go from very crude to being like French eating practices, very complicated.
+
+321
+00:32:36,920 --> 00:32:44,280
+And teaching certainly went from just people teaching their children to the gurus teaching to professors teaching.
+
+322
+00:32:44,279 --> 00:32:48,040
+And all those are ways that the teaching practices gather.
+
+323
+00:32:48,040 --> 00:32:57,639
+That's, I take it, unless Melville is just raving, is what he sort of senses when he thinks that there's a weaver God.
+
+324
+00:32:58,759 --> 00:33:01,400
+And that's already pretty amazing.
+
+325
+00:33:01,400 --> 00:33:05,080
+And then he adds this other thing, which is really not Heideggerian.
+
+326
+00:33:05,080 --> 00:33:16,280
+It's just sheer Melvillian, that the weaving makes a lot of noise, and the noise is a white noise, and thereby wipes out all meaning.
+
+327
+00:33:16,279 --> 00:33:35,599
+But if you get far enough away from the weaving, that is, get a kind of open, detached, but ready-to-be drawn in by it, the Ishmael sensitivity to the divine intuitions, you can hear thousands of voices in the white noise.
+
+328
+00:33:35,599 --> 00:33:37,279
+That really isn't white noise.
+
+329
+00:33:37,279 --> 00:33:39,280
+It's really full of meaning.
+
+330
+00:33:39,279 --> 00:33:44,480
+So it's the white noise of the weaving is a dumb blankness full of meaning again.
+
+331
+00:33:44,480 --> 00:33:50,000
+It's amazing that he pulls this off in two different registers like that.
+
+332
+00:33:50,159 --> 00:33:53,919
+So he must care about it, whether he really understands it.
+
+333
+00:33:53,920 --> 00:34:02,320
+I love to say, Herman, I mean, did you know what you were doing when you put in this chapter on the skeleton and the weaver and the noise?
+
+334
+00:34:02,319 --> 00:34:04,799
+I don't know, but it's the way he thinks about it.
+
+335
+00:34:04,799 --> 00:34:06,560
+There's no doubt about it.
+
+336
+00:34:07,840 --> 00:34:12,240
+So the blankness is what you get when you try to make a total picture, remember.
+
+337
+00:34:12,239 --> 00:34:15,199
+Then you get a kind of noise and you can't hear anything.
+
+338
+00:34:16,000 --> 00:34:17,439
+That's what he's saying.
+
+339
+00:34:18,719 --> 00:34:40,800
+But if you the spoken words that are inaudible, I'm at the bottom of 434 now, among the flying spindles, that is the noisy stuff that's doing the weaving, those same words are plainly heard without the walls, that is outside the walls of the weaving factory, bursting from the opening casements, and so forth.
+
+340
+00:34:41,759 --> 00:34:51,439
+Ah, mortal, then, be heedful, for so in all this din of the great world's loom, the subtlest things may be overheard afar.
+
+341
+00:34:51,440 --> 00:34:53,040
+That's his view.
+
+342
+00:34:53,279 --> 00:34:54,960
+That's the way the world works.
+
+343
+00:34:54,960 --> 00:35:04,960
+It's a loom, and you have to get in the right relation to it to hear what's going on, and not just this noise.
+
+344
+00:35:04,960 --> 00:35:26,760
+And that's then if you get in the right relation, you see the polytheistic multiplicity of meanings, and in this case, voices, in the other one, colors, that's available to you if you don't try to sum them all up, if you don't get too close, if you don't get right inside the whale.
+
+345
+00:35:27,719 --> 00:35:29,000
+Let's see.
+
+346
+00:35:29,000 --> 00:35:32,040
+And for an hour, I gotta go at the bottom.
+
+347
+00:35:32,040 --> 00:35:43,159
+Now, amid the green, lithe, restless loom of that something, are the Arcadian, I'm gonna say wood, and the great white worship skeleton.
+
+348
+00:35:43,159 --> 00:35:45,080
+So the skeleton's white too, naturally.
+
+349
+00:35:45,080 --> 00:35:54,439
+The noise is white, and the Moby Dick is white, and the skeleton is white, all because they're a dumb, some they're all dumb blankness full of meaning.
+
+350
+00:35:55,080 --> 00:36:06,200
+Yet, as the ever-woven, bourbon, wharf, verdant wharf, and woof intermixed and hung around him, the mighty idler seemed the cunning weaver.
+
+351
+00:36:06,199 --> 00:36:20,599
+That is, the skeleton of Moby Dick is worshipped as a kind of paradigm or instance or something, symbol, I don't know how to write to put it, of the weaver God.
+
+352
+00:36:20,599 --> 00:36:25,160
+And that's that's the amazing move he pulls here.
+
+353
+00:36:25,319 --> 00:36:30,119
+Let me see if I want to s and you need, I think, a kind of calm openness.
+
+354
+00:36:30,119 --> 00:36:41,000
+That's the sort of distance not to be pulled in too much by some kind of intense involvement if you're going to be able to hear all these voices.
+
+355
+00:36:41,000 --> 00:36:43,639
+I I'm not clear about that.
+
+356
+00:36:43,639 --> 00:36:46,999
+But um and now, so much for that.
+
+357
+00:36:47,159 --> 00:36:48,759
+Does anybody have something to say about that?
+
+358
+00:36:48,759 --> 00:36:49,000
+Good.
+
+359
+00:36:49,000 --> 00:36:50,839
+You'll him then you.
+
+360
+00:36:50,840 --> 00:36:51,800
+Go ahead.
+
+361
+00:36:53,560 --> 00:36:54,159
+Yeah?
+
+362
+00:36:57,119 --> 00:36:57,839
+Interesting.
+
+363
+00:36:53,880 --> 00:36:59,599
+I think that's very interesting.
+
+364
+00:36:59,679 --> 00:37:04,000
+I have to think about it and I have to say it so people on the podcast can hear it.
+
+365
+00:37:04,000 --> 00:37:13,840
+So he says that he asked the important question, which I never asked myself, but I see that it's a sensible question.
+
+366
+00:37:13,840 --> 00:37:28,960
+What does Melville mean in this kind of extended metaphor or simile about the weaver and the skeleton to say that as you get further away, you can hear the multiple voices.
+
+367
+00:37:28,960 --> 00:37:47,040
+And it could be that the people who are right up close to the whale and the weaving don't hear it because they're but it's just sort of taken for granted and becomes the background white noise for them.
+
+368
+00:37:47,040 --> 00:38:05,839
+But if you travel around like Ishmael and visit all these various cultures like this one and then you have a certain distance and you're not in the noise, then each of these cultures you visit will be like a different voice and you will be able to respond to thousands of them.
+
+369
+00:38:05,840 --> 00:38:07,440
+That's what you're saying.
+
+370
+00:38:07,440 --> 00:38:09,200
+Well that's an interesting thing to say.
+
+371
+00:38:09,199 --> 00:38:14,080
+I mean I think I think it's you need some kind of story, although you don't want to push it too far.
+
+372
+00:38:14,080 --> 00:38:19,200
+I mean his metaphor might just break down before we get to the point he's making.
+
+373
+00:38:19,199 --> 00:38:21,520
+But it's Kevin's there right.
+
+374
+00:38:22,000 --> 00:38:23,119
+Kevin's making.
+
+375
+00:38:24,319 --> 00:38:40,080
+But if you have to make a sense of this distance thing, you might as well bring it around to the sense that Ishmael has, and Melville has, that you don't lose something when you visit strange cultures.
+
+376
+00:38:40,440 --> 00:38:49,560
+You are able to see and hear and respond to a sense of the sacred that the people who are in the culture are so close to they can't see it.
+
+377
+00:38:49,560 --> 00:38:51,320
+Well, I think that's interesting.
+
+378
+00:38:51,719 --> 00:38:53,480
+Okay, Dave, your turn.
+
+379
+00:38:54,759 --> 00:39:01,960
+I feel a little worried about whether it's not your meaning of void.
+
+380
+00:39:05,319 --> 00:39:07,399
+The dumb blankness full of meaning these.
+
+381
+00:39:09,880 --> 00:39:11,719
+Why would you better fire us?
+
+382
+00:39:12,040 --> 00:39:17,639
+Okay, there's a good meaning.
+
+383
+00:39:19,480 --> 00:39:20,839
+No center, no one meaning.
+
+384
+00:39:22,440 --> 00:39:23,719
+No real void of meaning.
+
+385
+00:39:23,719 --> 00:39:24,199
+That's right.
+
+386
+00:39:25,080 --> 00:39:26,359
+I see everything is.
+
+387
+00:39:26,360 --> 00:39:38,119
+Well, I think it makes sense to be worried about it, that somehow I'm getting rid of the real horror, the kind of total, final, groundless void.
+
+388
+00:39:38,440 --> 00:39:40,839
+Well, I'm putting together my case.
+
+389
+00:39:40,840 --> 00:39:43,080
+I mean, of course, that goes with being a polytheist.
+
+390
+00:39:43,080 --> 00:39:46,599
+It goes with thinking that there's color everywhere, even in nature.
+
+391
+00:39:46,599 --> 00:39:48,599
+I mean, we just don't see it.
+
+392
+00:39:48,599 --> 00:39:52,679
+And it only looks, I mean, I'm just repeating my view, and you're repeating your worry.
+
+393
+00:39:52,679 --> 00:40:03,399
+I mean, I mean, my view is it only looks like a blankness and a void to somebody like Ahab who wants it to be completely determinate and settled.
+
+394
+00:40:03,400 --> 00:40:05,240
+Then it looks groundless.
+
+395
+00:40:05,239 --> 00:40:20,199
+And it's a kind of, I think Melville thinks, I think Heidegger thinks, that it's a kind of metaphysical impulse of wanting a kind of meaning that we can't have, namely an answer that settles things, that tells us really what it all means.
+
+396
+00:40:20,199 --> 00:40:22,680
+I mean, Dante is my model of it.
+
+397
+00:40:22,920 --> 00:40:33,440
+You finally get the vision in which every single detail of the universe has its place and makes sense in one unified book that God has created, He's written.
+
+398
+00:40:33,440 --> 00:40:35,359
+But I mean, that's just the extreme version.
+
+399
+00:40:35,360 --> 00:40:48,240
+I mean, every metaphysics, every philosopher of the old-fashioned sort thought that they had some solid, coherent meaning story to tell.
+
+400
+00:40:48,239 --> 00:40:53,599
+And if you think that you need that, then it looks blank and hopeless because you can't have that.
+
+401
+00:40:53,599 --> 00:41:01,440
+It's bottomless, the ocean and the whiteness blank from that perspective, the perspective that wants an answer.
+
+402
+00:41:01,440 --> 00:41:30,080
+But I really do think, and I'm more sort of driven than ever now, to find, if I read you a passage that said that the old gods could come back and the now unhaunted hill could be re-colored, so to speak, it would, I mean, I'm trying to argue that Melville doesn't think that there is a void.
+
+403
+00:41:30,080 --> 00:41:32,960
+Yeah, I'll just sum up what I think, but I can't find that passage.
+
+404
+00:41:32,960 --> 00:41:36,159
+But anyway, I'll find it probably today.
+
+405
+00:41:36,159 --> 00:41:47,119
+But anyway, I think Melville is not the kind of atheist who thinks that ultimately behind it all, there's nothing.
+
+406
+00:41:47,119 --> 00:41:49,040
+There's a kind of void.
+
+407
+00:41:49,040 --> 00:41:54,080
+That he thinks is a result of looking for the wrong sort of something.
+
+408
+00:41:54,400 --> 00:42:01,599
+And there is, and if you're looking for this positive meaning that's settled and won, you're not going to find it.
+
+409
+00:42:01,599 --> 00:42:02,800
+It's empty.
+
+410
+00:42:02,799 --> 00:42:09,200
+But what you do find, oh, we've got to go on, because I'm going to give you my next argument.
+
+411
+00:42:09,239 --> 00:42:16,040
+I mean, the question is, what if you actually saw God's weaving going on?
+
+412
+00:42:16,040 --> 00:42:17,719
+And would that help convince you?
+
+413
+00:42:17,719 --> 00:42:25,960
+And what if it turned out when God is weaving, he's weaving a whole sort of random carpet of all sorts of colors?
+
+414
+00:42:26,360 --> 00:42:28,119
+That would be important.
+
+415
+00:42:28,119 --> 00:42:34,200
+I mean, that would, I mean, it would suggest that if you got to the bottom of it, well, let me do it.
+
+416
+00:42:34,920 --> 00:42:35,959
+That's the next issue.
+
+417
+00:42:35,960 --> 00:42:38,040
+You're perfectly right on.
+
+418
+00:42:38,040 --> 00:42:53,639
+We've got to understand, I mean, in my way of putting it, sort of how much of a very, very modern kind of nihilist could you read Nelville as being, that there really isn't any meaning at all at the bottom of everything.
+
+419
+00:42:53,639 --> 00:42:57,880
+And that's what I think you shouldn't do.
+
+420
+00:42:57,880 --> 00:43:00,760
+And maybe I'm framing you in a wrong way.
+
+421
+00:43:01,159 --> 00:43:03,239
+But good.
+
+422
+00:43:03,239 --> 00:43:03,799
+I like that.
+
+423
+00:43:03,799 --> 00:43:17,959
+Yes, I mean, since he's always qualifying everything he says, and since he's capable of every possible mood, I think he certainly wants to say he's also capable of the mood, though I don't believe he ever tells you that he's in it in the book.
+
+424
+00:43:17,960 --> 00:43:19,639
+Okay, here's a new challenge.
+
+425
+00:43:19,639 --> 00:43:21,000
+Here's this rich book.
+
+426
+00:43:21,000 --> 00:43:30,279
+Does he ever get in, actually put himself, be in a situation, not sort of describing whiteness, but when he's describing Ishmael's goings on?
+
+427
+00:43:30,279 --> 00:43:33,239
+Ishmael gets into an intense relation to Ahab.
+
+428
+00:43:33,239 --> 00:43:43,159
+He gets in a tense relation to his fellow sailors and describes that in the very important chapter called The Squeezing of the Sperm, which we have to talk about next time, maybe.
+
+429
+00:43:44,199 --> 00:43:48,760
+And he gets in a very intense relation to Kuique, of course.
+
+430
+00:43:48,759 --> 00:43:57,840
+And anyway, the question is: do we actually see him confronting the experience of the meaninglessness of everything?
+
+431
+00:43:57,840 --> 00:44:03,920
+I mean, he does describe the whiteness as having that terrifying aspect.
+
+432
+00:44:03,920 --> 00:44:16,240
+But my hunch is he's never, of all the divine intuitions he has, he never has, and he even has demonic intuitions when he gets in line with Ahab.
+
+433
+00:44:16,239 --> 00:44:21,519
+But I don't think he ever has the, it's altogether meaningless intuition.
+
+434
+00:44:21,520 --> 00:44:22,320
+I don't know.
+
+435
+00:44:22,319 --> 00:44:28,480
+I see, well, I'm going to, I have to pile in enough stuff to try to counteract that, or else you could have that.
+
+436
+00:44:28,799 --> 00:44:39,839
+I mean, we can always reach a reconciliation that that's one possible perspective, because I'm being very stubborn in saying that it's not even a possible perspective from Ishmael's point of view.
+
+437
+00:44:39,920 --> 00:44:41,040
+It's a mistake.
+
+438
+00:44:41,040 --> 00:44:43,280
+And now that's what we have to decide.
+
+439
+00:44:43,279 --> 00:44:44,799
+Okay, but anyway, here we go.
+
+440
+00:44:44,799 --> 00:44:46,639
+We're going to talk about Pip now.
+
+441
+00:44:46,639 --> 00:44:54,479
+Pip is the black boy who is a kind of, I don't know what the word is.
+
+442
+00:44:54,480 --> 00:44:55,919
+I don't think we're ever told what he is.
+
+443
+00:44:55,920 --> 00:45:02,560
+He's like, in the movie business, a gopher, somebody who goes for things and gets them for people and so forth.
+
+444
+00:45:02,560 --> 00:45:05,839
+He just runs errands, as far as I can tell.
+
+445
+00:45:06,400 --> 00:45:12,000
+Pip is a normal, sensitive person, we're told.
+
+446
+00:45:12,000 --> 00:45:21,359
+And so his experience of the ultimate reality of things is going to turn out to be extremely important.
+
+447
+00:45:21,360 --> 00:45:22,799
+And we just have half an hour.
+
+448
+00:45:22,799 --> 00:45:24,159
+We can probably do it.
+
+449
+00:45:24,159 --> 00:45:39,759
+So in 399, first we're just set up for Pitt being just a nice little black boy from, and at the top of about 10 lines down, I write that this little black, where are we?
+
+450
+00:45:39,880 --> 00:45:41,400
+Was brilliant.
+
+451
+00:45:41,400 --> 00:45:43,959
+For his blackness has its brilliancy.
+
+452
+00:45:43,960 --> 00:45:45,799
+For even blackness has its brilliancy.
+
+453
+00:45:45,799 --> 00:45:50,040
+Behold, the lustrous ebony paralleled in king's cabinets.
+
+454
+00:45:50,279 --> 00:46:03,319
+But Pip loved life and all life's peaceable securities, so that the panic-striking business in which he was somehow unaccountably becoming trapped had most sadly blurred his brightness.
+
+455
+00:46:03,319 --> 00:46:10,599
+That is, he likes to be comfortable and secure, and out on the ocean is not a place to be comfortable and secure.
+
+456
+00:46:10,599 --> 00:46:16,360
+And even worse, in a whale boat, which is where we're going to find him, chasing a whale.
+
+457
+00:46:16,360 --> 00:46:19,560
+It's very uncomfortable and insecure.
+
+458
+00:46:19,560 --> 00:46:24,599
+And therefore, when he's out in the whaleboat chasing a whale, he jumps out.
+
+459
+00:46:24,599 --> 00:46:26,920
+This is the bottom of 400.
+
+460
+00:46:27,560 --> 00:46:30,119
+But we are all in the hands of the gods.
+
+461
+00:46:30,119 --> 00:46:31,240
+Isn't that interesting?
+
+462
+00:46:31,239 --> 00:46:33,960
+He's writing God's plural with a capital G.
+
+463
+00:46:34,279 --> 00:46:38,199
+I suppose that's that, I don't know what he's doing there.
+
+464
+00:46:39,000 --> 00:46:42,440
+We are all in the hands of the gods, and Pip jumped again.
+
+465
+00:46:42,440 --> 00:46:49,399
+It was under very similar circumstances to the first performance, but this time he did not breast out the line.
+
+466
+00:46:49,400 --> 00:46:51,480
+I forget what that means.
+
+467
+00:46:51,960 --> 00:46:59,159
+And hence, when the whale started to run, Pip was left behind on the sea like a hurried traveler's trunk.
+
+468
+00:46:59,159 --> 00:47:04,599
+I guess he didn't get hold of the line so that he would go along with the boat.
+
+469
+00:47:04,599 --> 00:47:13,960
+And then, the 12 lines down on 401, roughly, no boat knife was lifted when he fell so rapidly astern.
+
+470
+00:47:13,960 --> 00:47:24,599
+Stubbs, that's another one of the sailors, inexorable back was turned, inexorable back was turned upon him, and the whale, and the whale was winged.
+
+471
+00:47:24,599 --> 00:47:26,719
+That is, woo, very fast.
+
+472
+00:47:26,719 --> 00:47:30,879
+In three minutes, a whole mile of shoreless ocean was between Pip and Stubbs.
+
+473
+00:47:24,840 --> 00:47:40,000
+Out from the center of the sea, poor Bip turned his crisp, curly, black head to the sun, another lonely castaway through the loftiest and the brightest.
+
+474
+00:47:40,000 --> 00:47:43,599
+Well, Pip is now lost in the gigantic ocean.
+
+475
+00:47:43,599 --> 00:47:44,799
+But I just want to comment.
+
+476
+00:47:44,799 --> 00:47:46,639
+Melville is so consistent.
+
+477
+00:47:46,639 --> 00:47:53,919
+So Pip has an interpretation of the sun from his point of view as a fellow, lost, castaway.
+
+478
+00:47:54,239 --> 00:47:57,519
+And in a certain way, I don't know if Melville is thinking about this.
+
+479
+00:47:57,520 --> 00:48:02,319
+The sun is just another star lost in the millions of stars in the universe.
+
+480
+00:48:02,319 --> 00:48:04,960
+It's not the center anymore.
+
+481
+00:48:04,960 --> 00:48:07,279
+So, but Pip, I don't think, knows that.
+
+482
+00:48:07,279 --> 00:48:11,360
+Pip just reads his own situation into the sun.
+
+483
+00:48:11,360 --> 00:48:19,920
+And now in calm weather, to swim in the open ocean is as easy to the practiced swimmer as to ride in the spring carriage ashore.
+
+484
+00:48:19,920 --> 00:48:22,399
+But the awful loneliness is intolerable.
+
+485
+00:48:22,719 --> 00:48:24,080
+This is what happens to Pip.
+
+486
+00:48:24,080 --> 00:48:29,920
+The intense concentration of self in the middle of such a heartless immensity, my God, who can tell it.
+
+487
+00:48:29,920 --> 00:48:31,680
+So what happens to Pip?
+
+488
+00:48:31,679 --> 00:48:36,080
+He goes crazy at the bottom, about ten lines from the bottom.
+
+489
+00:48:36,080 --> 00:48:41,280
+Pip's ringed horizon began to expand around him miserably.
+
+490
+00:48:41,279 --> 00:48:43,119
+And then he gets rescued.
+
+491
+00:48:43,119 --> 00:48:48,160
+But from that hour, the little negro went about the deck an idiot.
+
+492
+00:48:48,159 --> 00:48:50,879
+Such at last they said he was.
+
+493
+00:48:51,199 --> 00:48:52,960
+That is, he went crazy.
+
+494
+00:48:52,960 --> 00:48:59,280
+The sea had jeeringly kept his finite body up, but drowned the infinite of his soul.
+
+495
+00:48:59,279 --> 00:49:01,599
+Not drowned entirely, though.
+
+496
+00:49:01,599 --> 00:49:03,360
+And now comes the interesting part.
+
+497
+00:49:03,360 --> 00:49:20,680
+Rather, carried down alive to wondrous depths, where strange shapes of the unwarped primal world glided to and fro before his passive eyes, the miser, and the miser Merman, whatever that is, wisdom, revealed his hoarded heaps.
+
+498
+00:49:20,679 --> 00:49:26,279
+And among the joyless, heartless, ever-juvenile eternity, Pip saw the multitudinous.
+
+499
+00:49:26,279 --> 00:49:31,960
+And now comes, now Pip gets to have a vision of the ultimate basis of everything.
+
+500
+00:49:31,960 --> 00:49:40,360
+Pip saw the multitudinous, God-omnipresent coral insects that out of the firmament of waters heaved the colossal orbs.
+
+501
+00:49:40,360 --> 00:49:45,639
+He saw God's foot upon the treadle of the loom, believe it or not, and spoke it.
+
+502
+00:49:45,639 --> 00:49:48,599
+And therefore his shipmates called him mad.
+
+503
+00:49:49,719 --> 00:49:51,879
+I would finish the paragraph before I start talking about it.
+
+504
+00:49:51,880 --> 00:50:08,679
+So man's intense insanity is heaven sense, and wandering from all mortal reason, man comes at last to that celestial thought which to reason is absurd and frantic, and wheel and woe, woe, feels then uncompromised, indifferent as is God, as usual.
+
+505
+00:50:08,679 --> 00:50:11,159
+God is indifferent, indeterminate, and so forth.
+
+506
+00:50:11,159 --> 00:50:16,360
+The crucial thing is what he saw when he saw God's foot upon the loom.
+
+507
+00:50:16,360 --> 00:50:32,520
+Well, he saw again that gathering was what the ultimate principle that accounts for the order in the practices, that accounts for the various cultures, that that accounts for the way things show up, and that accounts for what it makes sense to do.
+
+508
+00:50:32,520 --> 00:50:37,800
+He saw all that Heideggerian stuff, but now he saw also the coral insects.
+
+509
+00:50:37,799 --> 00:50:53,879
+I've got to tell you a story about that because it's my lifelong tribute to some person who, when I gave this course two times ago, there was a middle-aged engineer who was either, I don't know where he was taking it or auditing it.
+
+510
+00:50:53,880 --> 00:51:07,440
+He sat in the front row with his feet up on one of the seats and constantly made comments without even raising his hand, which were usually absolutely hopeless, not stupid, but just facts.
+
+511
+00:51:07,440 --> 00:51:10,080
+And here we were in this high level of abstraction.
+
+512
+00:51:10,239 --> 00:51:15,999
+He was telling me, I don't know, Melville was born on a certain day or that he got married and had how many children.
+
+513
+00:51:17,679 --> 00:51:26,720
+But when I got to this thing that I never understood the coral insects, he spoke up and said, it's the many colors of the rainbow again.
+
+514
+00:51:26,719 --> 00:51:28,319
+And he's absolutely right.
+
+515
+00:51:28,319 --> 00:51:29,199
+I was stunned.
+
+516
+00:51:29,199 --> 00:51:32,080
+I mean, I've been telling my TAs, they kept saying, shut him up.
+
+517
+00:51:32,080 --> 00:51:35,040
+And I kept saying, no, one day he's going to say something interesting.
+
+518
+00:51:35,040 --> 00:51:36,880
+And he did.
+
+519
+00:51:36,880 --> 00:51:41,599
+And because I couldn't understand what are these coral insects doing?
+
+520
+00:51:41,599 --> 00:51:47,760
+Well, they're sort of randomly making the beautiful colored coral, which is like the rainbow.
+
+521
+00:51:47,759 --> 00:51:53,040
+And or like the music of all, well, no, never mind.
+
+522
+00:51:53,040 --> 00:51:54,319
+It's like the rainbow.
+
+523
+00:51:54,319 --> 00:51:55,599
+Stick to the rainbow.
+
+524
+00:51:55,599 --> 00:51:58,400
+So he sees, where is it now?
+
+525
+00:51:58,400 --> 00:52:08,240
+The colossal, out of the coral insects, you get all of the heavenly bodies and the world and culture and everything.
+
+526
+00:52:08,239 --> 00:52:13,119
+God weaves all that color together.
+
+527
+00:52:13,119 --> 00:52:17,679
+And that's the bottom line, literally at the bottom of the ocean.
+
+528
+00:52:17,679 --> 00:52:20,080
+That's what Pip understands.
+
+529
+00:52:20,080 --> 00:52:23,279
+I want to say one more thing, and I forgot it as I was talking just to.
+
+530
+00:52:23,520 --> 00:52:24,319
+Oh, yeah.
+
+531
+00:52:24,639 --> 00:52:27,680
+And that it's all contingent and random.
+
+532
+00:52:27,679 --> 00:52:41,319
+I mean, it's not as if there's a unified something behind all those coral insects who are just crawling around, every one of them at random, or God's foot on the treadmill, on the treadle of the loom, just weaving anything to anything.
+
+533
+00:52:41,639 --> 00:52:47,799
+It's all random, and yet it adds up to the spectrum of the colors or to the color of the coral.
+
+534
+00:52:47,799 --> 00:52:51,880
+I think that's Melville's intuition.
+
+535
+00:52:51,880 --> 00:53:03,080
+And Pip is a genius for having seen it because he understands better than anybody else the bottom line of the book, in a sense.
+
+536
+00:53:03,080 --> 00:53:15,880
+That is, how are we supposed to relate to this world woven in this sort of random way, in a colorful way, out of all of this random insects or woven out of whatever.
+
+537
+00:53:15,880 --> 00:53:18,280
+Then let's go on.
+
+538
+00:53:18,279 --> 00:53:27,480
+So he's left behind, he's lost, he's gone crazy, he's totally alone, see how horrible it all is to be alone.
+
+539
+00:53:27,480 --> 00:53:37,560
+He sees, and then he sees the what I just said in 401, okay, the coral insects.
+
+540
+00:53:37,880 --> 00:53:39,000
+What did he see then?
+
+541
+00:53:39,000 --> 00:53:43,080
+What is the truth about, quote, creation, the way the world works?
+
+542
+00:53:43,080 --> 00:53:51,400
+That the world is the random result of the random actions of all these little insects, and it adds up to a beautiful bunch of colors.
+
+543
+00:53:51,719 --> 00:53:55,639
+There was no plan, but there's a rainbow anyway.
+
+544
+00:53:55,960 --> 00:53:58,280
+And what is his attitude?
+
+545
+00:53:58,279 --> 00:54:05,560
+Well, he's a hero, you know, oddly enough, or maybe not so odd, because he has seen the deepest truth.
+
+546
+00:54:05,560 --> 00:54:10,599
+And so you get that on way back on page 115, the first description.
+
+547
+00:54:10,599 --> 00:54:15,639
+Black little Pip, he never came back.
+
+548
+00:54:15,639 --> 00:54:21,480
+He went before, poor Alabama boy, on the grim Pequad's forecastle.
+
+549
+00:54:21,560 --> 00:54:38,480
+You shall ere long see him beating his tambourine, prelusive of the eternal time, when sent for, this is all wild, when sent for to the great quarterdeck on high, he was bid strike in with the angels and beat his tambourine in glory, called a coward here, hailed a hero there.
+
+550
+00:54:39,040 --> 00:54:47,200
+That is, he saw the truth about the way the universe is lined up, and that's the sense in which he's a hero.
+
+551
+00:54:47,199 --> 00:54:53,040
+He didn't demand any more meaning, and he didn't have any less meaning.
+
+552
+00:54:53,040 --> 00:54:57,519
+I mean, he gets hooked up with Ahab, and it's too early to tell you how they hang together.
+
+553
+00:54:57,759 --> 00:55:03,599
+Ahab demands a total meaning, an answer to what the universe is all about.
+
+554
+00:55:03,599 --> 00:55:08,959
+And Pip is the hero who doesn't make any demands on the universe.
+
+555
+00:55:08,960 --> 00:55:15,520
+And together, they form a kind of team that somewhere the truth lies between them.
+
+556
+00:55:15,520 --> 00:55:24,880
+But Pip is so much more of a hero than Ahab because Pip accepts completely that there is no meaning.
+
+557
+00:55:24,880 --> 00:55:31,200
+And in the end, he accepts that there is no Pip because this is so completely blowing his mind.
+
+558
+00:55:31,199 --> 00:55:35,040
+He says on the top of 500, Pip, whom call ye Pip?
+
+559
+00:55:35,040 --> 00:55:37,040
+Pip jumped from the whale boat.
+
+560
+00:55:37,040 --> 00:55:38,560
+Pip is missing.
+
+561
+00:55:38,560 --> 00:55:42,879
+And that is, he's lost his identity.
+
+562
+00:55:42,880 --> 00:55:44,320
+He's lost his mind.
+
+563
+00:55:44,319 --> 00:55:51,280
+He's seen the total sort of wonder and randomness of the whole thing.
+
+564
+00:55:51,279 --> 00:55:53,760
+And now, let's see.
+
+565
+00:55:54,159 --> 00:55:57,680
+I write down here when I'm trying to explain this to myself.
+
+566
+00:55:59,920 --> 00:56:03,840
+This is not a deep interpretation of what it all means.
+
+567
+00:56:04,159 --> 00:56:10,000
+It just says that all there is is a proliferation of colors or intuitions or perspectives.
+
+568
+00:56:11,000 --> 00:56:15,080
+And they're all equally okay, and they don't add up to anything.
+
+569
+00:56:15,080 --> 00:56:18,280
+And Pip has seen it.
+
+570
+00:56:18,279 --> 00:56:23,320
+And he is, in a way, crazy by his openness.
+
+571
+00:56:23,319 --> 00:56:26,359
+And Ahab is crazy by his demanding an answer.
+
+572
+00:56:26,360 --> 00:56:28,680
+That's what you get at the top of 501.
+
+573
+00:56:28,679 --> 00:56:31,560
+There go two daft ones, muttered the old Manksman.
+
+574
+00:56:31,560 --> 00:56:35,639
+One daft with strength, that's Ahab, and the other daft with weakness.
+
+575
+00:56:35,639 --> 00:56:36,599
+That's Pip.
+
+576
+00:56:36,599 --> 00:56:40,759
+But weakness isn't a bad thing, because he's a hero, Pip.
+
+577
+00:56:40,920 --> 00:56:47,320
+Weakness, when you understand it, is openness and facing reality as it really is.
+
+578
+00:56:47,319 --> 00:56:51,800
+Pip's got it, whereas Ahab can't buy it.
+
+579
+00:56:51,799 --> 00:56:59,800
+Now, we're going to get to where Pip understands the way the book works.
+
+580
+00:56:59,799 --> 00:57:03,160
+What do we do if we're in a world like that?
+
+581
+00:57:03,799 --> 00:57:05,160
+What's our job?
+
+582
+00:57:05,159 --> 00:57:06,440
+And how do we do it right?
+
+583
+00:57:06,440 --> 00:57:07,800
+And how do we do it wrong?
+
+584
+00:57:07,799 --> 00:57:10,839
+It's all told in the story of the Debloon.
+
+585
+00:57:10,840 --> 00:57:13,000
+Now we have to talk about that.
+
+586
+00:57:13,000 --> 00:57:30,280
+Again, late in the book and utterly independent of the plot, Ahab comes out one day and puts a doubloon up on the mast, nails this gold coin up on the mast, and says he'll give it to whoever is the first one to spot Moby Dick.
+
+587
+00:57:30,279 --> 00:57:35,080
+And so the coin becomes a kind of symbol of Moby Dick.
+
+588
+00:57:35,239 --> 00:57:46,599
+The top of 416, now it says about five lines down: the mariners revered it, that's the doubloon, the gold coin, as the white whale's talisman.
+
+589
+00:57:46,599 --> 00:57:49,560
+That is the white whale's representative.
+
+590
+00:57:49,880 --> 00:58:03,440
+And then what happens is, and this then the whole chapter, each important character comes up to the doubloon and makes it sees something in it.
+
+591
+00:58:03,440 --> 00:58:13,119
+So and I can't go into too much detail because you don't know the people yet who are coming up, presumably, but I have to just say enough.
+
+592
+00:58:13,119 --> 00:58:19,839
+So Ahab comes up to it at the bottom of 416, and it's got a big description of what it is.
+
+593
+00:58:19,840 --> 00:58:27,199
+It's got towers and peaks, and it's got words, Republic to Ecuador to Quito, and it's got a flame and a zodiac.
+
+594
+00:58:27,199 --> 00:58:28,720
+It's full of stuff.
+
+595
+00:58:29,040 --> 00:58:32,639
+It's very rich and colorful, you might say, the coin.
+
+596
+00:58:32,639 --> 00:58:36,400
+And everybody comes up and sees something in it.
+
+597
+00:58:36,400 --> 00:58:40,400
+And so Ahab sees in it at the bottom of 416.
+
+598
+00:58:40,719 --> 00:58:44,720
+There's something ever egotistical in mountaintops and towers.
+
+599
+00:58:45,119 --> 00:58:48,080
+These three peaks are as proud as Lucifer.
+
+600
+00:58:48,080 --> 00:58:49,920
+That fern tower is Ahab.
+
+601
+00:58:49,920 --> 00:58:51,439
+The volcano is Ahab.
+
+602
+00:58:51,440 --> 00:58:54,480
+Ahab is all Ahab.
+
+603
+00:58:54,480 --> 00:59:05,040
+And this round coin is but the image of the rounder globe, which, like a magician's glass, to each and every man in turn puts, but mirrors back his own mysterious self.
+
+604
+00:59:05,040 --> 00:59:20,159
+So Ahab is saying, I'm projecting my meaning on this coin, and that's exactly what the coin shows you, that there is, that proud Ahab is interpreting the coin.
+
+605
+00:59:20,159 --> 00:59:23,440
+It's a kind of reflexive thing.
+
+606
+00:59:23,440 --> 00:59:37,520
+And then Starbuck, who you will hear a lot more about, who's a religious Christian, comes up and gives it an interpretation on 417 that the peaks are the Trinity.
+
+607
+00:59:37,520 --> 00:59:46,519
+And yet, and this is, Starbuck is always sort of worried he's going to lose his faith surrounded by people like Ishmael and even worse like Ahab.
+
+608
+00:59:46,520 --> 00:59:51,159
+So in the middle of 417, he says, yet, oh, the great sun is no fixture.
+
+609
+00:59:51,159 --> 00:59:57,080
+And if at midnight we would fain snatch some sweet solace from him, we gaze for him in vain.
+
+610
+00:59:57,080 --> 01:00:01,799
+This coin speaks wisely, mildly, truly, but still sadly to me.
+
+611
+01:00:01,799 --> 01:00:04,680
+I'll quit it, lest truth shake me falsely.
+
+612
+01:00:04,679 --> 01:00:07,240
+So there goes Starbuck.
+
+613
+01:00:07,239 --> 01:00:10,759
+Now Stubb looks at it and gives a fatalist interpretation.
+
+614
+01:00:10,759 --> 01:00:12,920
+There's no reason to tell you about that now.
+
+615
+01:00:12,920 --> 01:00:21,959
+Flask, the lowest level, sort of simple-minded materialist, looks at it and gives it an interpretation, which is sort of funny.
+
+616
+01:00:21,960 --> 01:00:36,280
+He says, well, it's got so much weight of gold, and at the bottom of 418, I see nothing here but the round thing made of gold, and whoever raises a certain white whale, this round thing belongs to him.
+
+617
+01:00:36,279 --> 01:00:39,240
+So what's all this staring been about?
+
+618
+01:00:39,239 --> 01:00:41,719
+It's worth $16, and that's true.
+
+619
+01:00:41,719 --> 01:00:45,480
+At two cents a cigar, that's 960 cigars.
+
+620
+01:00:45,480 --> 01:00:56,119
+So from these, there are these lofty interpretations and these sort of middle interpretations with Christian had been there, this total materialist interpretation.
+
+621
+01:00:56,119 --> 01:01:01,080
+Queque comes up, and you'd think he would do something important.
+
+622
+01:01:01,080 --> 01:01:02,840
+And in a way, he does.
+
+623
+01:01:02,840 --> 01:01:08,359
+He compares the writing on the balloon to the tattooing all over his body.
+
+624
+01:01:08,360 --> 01:01:11,480
+This is two-thirds of the way down in 419.
+
+625
+01:01:11,480 --> 01:01:17,720
+But since we haven't, I'm pretty sure, talked about Quequeg and the tattooing all over his body, have we?
+
+626
+01:01:17,719 --> 01:01:18,599
+I don't think so.
+
+627
+01:01:18,599 --> 01:01:20,279
+No, we won't talk about that yet.
+
+628
+01:01:20,279 --> 01:01:22,119
+That's important, very important.
+
+629
+01:01:22,119 --> 01:01:24,440
+So Quequeg compares it to that.
+
+630
+01:01:24,440 --> 01:01:28,560
+But then I did all this to make sure we get to Pip in time.
+
+631
+01:01:28,560 --> 01:01:30,239
+And now we get back to Pip.
+
+632
+01:01:24,679 --> 01:01:31,520
+He's been watching all this.
+
+633
+01:01:31,840 --> 01:01:35,119
+And now he says his own story.
+
+634
+01:01:36,880 --> 01:01:39,359
+At the very bottom, oh, more and more.
+
+635
+01:01:39,360 --> 01:01:40,560
+This way comes Pip.
+
+636
+01:01:40,560 --> 01:01:43,520
+Although the Manxman is watching and commenting on it.
+
+637
+01:01:43,520 --> 01:01:47,359
+Poor boy, would he had died, or I.
+
+638
+01:01:47,679 --> 01:01:49,520
+He's half horrible to me.
+
+639
+01:01:50,080 --> 01:01:52,880
+He too has been watching all these interpreters.
+
+640
+01:01:52,880 --> 01:02:05,280
+Remember, all these are interpretations of this one talisman, as he calls it, sort of representative of Moby Dick the white whale.
+
+641
+01:02:05,279 --> 01:02:16,080
+And they're all reading it from some angle, as if they are putting on some colored classes or other to giving it an interpretation from their point of view.
+
+642
+01:02:16,080 --> 01:02:19,920
+So he's been watching all these interpreters, myself included.
+
+643
+01:02:19,920 --> 01:02:23,760
+And look now, he comes to read with that unearthly idiot face.
+
+644
+01:02:23,759 --> 01:02:26,239
+Stand away again and hear him, Ark.
+
+645
+01:02:26,560 --> 01:02:28,400
+Now, what does he say?
+
+646
+01:02:28,719 --> 01:02:30,879
+He says the sort of moral of the book.
+
+647
+01:02:30,880 --> 01:02:32,400
+You could put it at the beginning.
+
+648
+01:02:32,400 --> 01:02:36,080
+I look, you look, he looks, we look, ye look, they look.
+
+649
+01:02:36,400 --> 01:02:37,680
+That's what he said.
+
+650
+01:02:37,679 --> 01:02:43,840
+And the guy commenting says, upon my soul, he's been studying Murray's grammar, improving his mind, poor fellow.
+
+651
+01:02:43,840 --> 01:02:44,959
+But that's what he says.
+
+652
+01:02:44,960 --> 01:02:49,520
+And then he says it again: I look, you look, he looks, we look, ye look, they look.
+
+653
+01:02:49,520 --> 01:02:53,680
+And he says it again.
+
+654
+01:02:54,000 --> 01:02:57,599
+And then now we have to stop.
+
+655
+01:02:58,159 --> 01:02:59,359
+What does that say?
+
+656
+01:02:59,359 --> 01:03:08,960
+That says each person reads his own interpretation into the white whale, into the universe, onto the doubloon.
+
+657
+01:03:08,960 --> 01:03:11,879
+All there are are perspectives.
+
+658
+01:03:12,199 --> 01:03:19,159
+There's no right answer to what the doubloon says, but each of them thinks they've got the answer to.
+
+659
+01:03:19,159 --> 01:03:23,880
+And this reflects their way of interpreting themselves in their world.
+
+660
+01:03:24,199 --> 01:03:32,599
+But of course, they can't all be right, and it certainly doesn't add up to any interpretation.
+
+661
+01:03:32,600 --> 01:03:34,119
+And that's what Pip sees.
+
+662
+01:03:34,119 --> 01:03:40,920
+He says, and you, and I, and you, and he, and we, and ye, and they are all bats.
+
+663
+01:03:40,920 --> 01:03:45,159
+And I'm a crow, especially when I stand atop this pine tree.
+
+664
+01:03:45,159 --> 01:03:47,479
+Now, that's pretty weird.
+
+665
+01:03:47,880 --> 01:03:52,839
+I didn't understand that for a long time, but now I think I sort of do understand that.
+
+666
+01:03:52,840 --> 01:03:57,479
+To say that they're all bats is to say what we say when we say somebody's bats.
+
+667
+01:03:57,479 --> 01:04:00,519
+They're crazy and they're blind.
+
+668
+01:04:01,800 --> 01:04:05,559
+They don't see that theirs is just an interpretation.
+
+669
+01:04:05,559 --> 01:04:10,040
+And they take very seriously their interpretation.
+
+670
+01:04:10,040 --> 01:04:12,759
+That's their craziness and blindness.
+
+671
+01:04:12,760 --> 01:04:14,439
+But Pip's a crow.
+
+672
+01:04:14,439 --> 01:04:16,359
+Now, why is he a crow?
+
+673
+01:04:16,359 --> 01:04:21,159
+Well, again, it took a long time to decipher that one, but he gives you the clue to that one.
+
+674
+01:04:21,159 --> 01:04:25,799
+He says he's a crow when he stands atop the pine tree there.
+
+675
+01:04:25,960 --> 01:04:27,000
+What does that mean?
+
+676
+01:04:27,000 --> 01:04:33,879
+The pine tree there is the mast, and he is a crow when he's in the crow's nest at the top.
+
+677
+01:04:33,880 --> 01:04:37,319
+And why is he, and what does that mean?
+
+678
+01:04:37,319 --> 01:04:41,559
+Well, that means that he doesn't have an interpretation.
+
+679
+01:04:41,559 --> 01:04:58,799
+He's been blasted out of all interpretations when he saw the absolute blankness of, well, when he knows, no, that's the wrong way to put it, when he saw God's foot and saw the coral insects and lost any particular interpretation and lost himself.
+
+680
+01:04:54,840 --> 01:05:01,759
+So he hasn't got a particular interpretation.
+
+681
+01:05:02,080 --> 01:05:03,439
+What's he got?
+
+682
+01:05:03,439 --> 01:05:07,519
+He's got what you could call, in Foss, if he talked, a meta-interpretation.
+
+683
+01:05:07,519 --> 01:05:15,599
+That is, he's got the interpretation that I've just been giving you, that it's all interpretations, that I look, we look, they look, and so forth.
+
+684
+01:05:15,600 --> 01:05:18,719
+And he's got it from a meta-perspective.
+
+685
+01:05:18,720 --> 01:05:29,279
+That is, whereas they're all down horizontal, each one looking at the doubloon and reading their thing into it and believing that that's the right story.
+
+686
+01:05:29,279 --> 01:05:35,920
+And he is looking from the top, and he's not adding them all up, not at all.
+
+687
+01:05:35,920 --> 01:05:46,719
+He's just drawing the conclusion: well, all there are is lots of interpretations, and everybody's got their own different interpretation, and that's all there is to it.
+
+688
+01:05:46,720 --> 01:05:49,199
+That's what he sees from the crow's nest.
+
+689
+01:05:50,319 --> 01:05:54,719
+There are many interpretations.
+
+690
+01:05:54,720 --> 01:05:57,439
+There is nothing but interpretations.
+
+691
+01:05:57,439 --> 01:06:02,639
+And he can see that because he hasn't got any interpretation of a normal sort.
+
+692
+01:06:02,640 --> 01:06:06,080
+He's got an interpretation that it's all interpretations.
+
+693
+01:06:06,080 --> 01:06:09,840
+And that gives him a higher perspective.
+
+694
+01:06:09,840 --> 01:06:10,319
+Aha.
+
+695
+01:06:10,479 --> 01:06:15,359
+And you wanted to say something earlier, a long time ago, as, oh, I'm sorry.
+
+696
+01:06:15,359 --> 01:06:16,399
+When he's up there.
+
+697
+01:06:17,840 --> 01:06:19,759
+We don't hear that he's uncomfortable.
+
+698
+01:06:19,760 --> 01:06:31,840
+I don't think he's, let's put it this way, he's certainly not nearly as uncomfortable as when he's in the whaling boat or even when he's in the ocean, relative to his normal difficult situations.
+
+699
+01:06:31,840 --> 01:06:35,359
+I don't think he's complaining about being in the crow's nest.
+
+700
+01:06:35,359 --> 01:06:37,119
+He just says he's a crow.
+
+701
+01:06:37,119 --> 01:06:50,040
+And when he's a crow, it looks like he has just succeeded in stating Melville's view of reality, that there's nothing but interpretations.
+
+702
+01:06:50,040 --> 01:06:53,319
+And by the way, this is also Nietzsche's view.
+
+703
+01:06:53,319 --> 01:07:03,239
+And when Nietzsche says it in the Gay Science, which is one of his books, Nietzsche then says, of course, you'll tell me that that's just another interpretation.
+
+704
+01:07:03,239 --> 01:07:05,399
+And he says, so much the better.
+
+705
+01:07:05,399 --> 01:07:15,399
+I mean, again, so Melville will say something like, yeah, but Pip's interpretation is somehow better than all the individual interpretations.
+
+706
+01:07:15,399 --> 01:07:17,159
+But it's still only an interpretation.
+
+707
+01:07:17,319 --> 01:07:20,199
+Melville's very consistent about that, I think.
+
+708
+01:07:20,199 --> 01:07:23,479
+And just as Melville always says, whatever he says is an interpretation.
+
+709
+01:07:23,479 --> 01:07:24,519
+This is what I think now.
+
+710
+01:07:24,519 --> 01:07:26,199
+This is the mood I'm in now.
+
+711
+01:07:26,199 --> 01:07:29,239
+This is the intuition I've got now.
+
+712
+01:07:29,559 --> 01:07:34,519
+But Pip's got the truest intuition, if you could say that.
+
+713
+01:07:34,519 --> 01:07:49,559
+He's got the deepest interpretation or something like that of anybody in the book because he's seen that all there is is the weaver and the coral interest and insects, that's half the story.
+
+714
+01:07:49,559 --> 01:07:53,719
+And he's seen that everybody reads their interpretation into the doubloon.
+
+715
+01:07:53,720 --> 01:07:55,799
+That's the other half of the story.
+
+716
+01:07:55,800 --> 01:08:10,279
+That's Melville's Melville's view of what the world is up to, what the world is, how it works, and our role, and how we should relate to it, how we do relate to it, and how we should relate to it.
+
+717
+01:08:10,279 --> 01:08:15,639
+We do relate to it, like all the people who came up and read one meaning into the world or the doubloon.
+
+718
+01:08:15,640 --> 01:08:21,960
+Those are the fanatics, the religious people like Starbuck, the monomaniacs.
+
+719
+01:08:22,519 --> 01:08:32,239
+And then there's the other possibility of how we should relate to it, namely the enjoy the whole rainbow, travel around and see the sacred everywhere.
+
+720
+01:08:32,239 --> 01:08:33,519
+And then there's poor Pip.
+
+721
+01:08:33,519 --> 01:08:36,479
+It's not even a story of how he gets a lot out of it.
+
+722
+01:08:36,479 --> 01:08:46,080
+He just happens to, it's not even pleasant being crazy and having no identity, but he does have the deepest understanding of what everybody else is doing.
+
+723
+01:08:46,080 --> 01:08:48,479
+Okay, now, you want to say more?
+
+724
+01:08:48,479 --> 01:08:49,680
+No, you want to say more, Kevin.
+
+725
+01:08:49,680 --> 01:08:49,920
+Okay.
+
+726
+01:08:49,920 --> 01:08:50,880
+I've got to come up closer.
+
+727
+01:08:50,960 --> 01:08:52,080
+You've got to talk louder.
+
+728
+01:08:55,119 --> 01:09:03,920
+Mine looked really nice with what we were talking about earlier with believer-dye meetings and distance mountains rounding around the line.
+
+729
+01:09:04,399 --> 01:09:05,040
+Good.
+
+730
+01:09:05,040 --> 01:09:05,519
+Yeah.
+
+731
+01:09:05,519 --> 01:09:15,519
+I mean, I see what Kevin is saying is the idea that you should get sort of as many, hear as many voices and see as many colors as possible.
+
+732
+01:09:15,519 --> 01:09:21,839
+That's what makes life worth living, so to speak, and makes as much meaning as you can get.
+
+733
+01:09:21,840 --> 01:09:25,199
+There's another whole story about another kind of meaning you can also get.
+
+734
+01:09:25,199 --> 01:09:28,799
+So that I haven't, I can't go into yet.
+
+735
+01:09:29,119 --> 01:09:31,839
+So there are really two stories of what you could do.
+
+736
+01:09:31,840 --> 01:09:33,119
+But that's one of them.
+
+737
+01:09:33,600 --> 01:09:37,199
+And Pip has this sort of way of doing things.
+
+738
+01:09:37,199 --> 01:09:38,880
+Why didn't this ever happen before?
+
+739
+01:09:38,880 --> 01:09:40,159
+I mean, somehow or other.
+
+740
+01:09:40,159 --> 01:09:40,559
+I see.
+
+741
+01:09:40,559 --> 01:09:43,599
+They've scheduled something after this, which they don't usually do.
+
+742
+01:09:43,840 --> 01:09:56,239
+Anyway, so you're saying, Kevin is saying, you can, Pip can see, it's like traveling around, except, I mean, I'm just saying, of course, he's not getting anything out of it from up there.
+
+743
+01:09:56,239 --> 01:09:59,920
+It's not as if he takes on one or another of any of these interpretations.
+
+744
+01:09:59,920 --> 01:10:02,319
+So he's got only half the story.
+
+745
+01:10:02,319 --> 01:10:11,719
+Everything is an interpretation, and the more interpretations you can visit or see and observe and so forth, the better.
+
+746
+01:10:12,040 --> 01:10:21,639
+But while you're, and this is important, when you visit these, then for the time being, you immerse yourself in them, presumably.
+
+747
+01:10:21,640 --> 01:10:30,920
+The way you'll see, he immerses himself in Ahab's monomania and in a lot of other interesting situations.
+
+748
+01:10:30,920 --> 01:10:34,199
+Have I disagreed with you, or just that, oh, you meant something different.
+
+749
+01:10:34,199 --> 01:10:34,599
+We'll try it.
+
+750
+01:10:34,600 --> 01:10:36,599
+Don't do it, say it again.
+
+751
+01:10:37,319 --> 01:10:38,439
+The earlier idea.
+
+752
+01:10:38,439 --> 01:10:39,720
+Did you have another little bit?
+
+753
+01:10:40,199 --> 01:10:42,679
+Okay, I didn't mean to get rid of that.
+
+754
+01:10:42,680 --> 01:10:44,359
+You've got to be, but you're right.
+
+755
+01:10:44,359 --> 01:10:45,399
+I didn't get it clear.
+
+756
+01:10:45,399 --> 01:10:56,439
+What Kevin has said is that you've got to have a distance from the weaver god so that it doesn't just blast you with white noise in order to be able to appreciate all the many voices.
+
+757
+01:10:56,439 --> 01:11:04,199
+And that, but I'm just saying that's true, but we mustn't think that Pip has got that because he's not going to hear anything.
+
+758
+01:11:07,239 --> 01:11:17,080
+He's beyond the white noise, he's beyond the many voices, he's just in the face of the weaving, I guess, or the, I don't know what he's in the face of.
+
+759
+01:11:17,159 --> 01:11:17,799
+Yeah.
+
+760
+01:11:18,199 --> 01:11:21,639
+Okay, Dan, Dave, you get the last word.
+
+761
+01:11:24,760 --> 01:11:26,279
+We're all blind.
+
+762
+01:11:26,279 --> 01:11:28,439
+I don't like that, but I'm glad you brought it up.
+
+763
+01:11:28,439 --> 01:11:30,599
+I wish he hadn't included himself.
+
+764
+01:11:30,600 --> 01:11:33,799
+I wish he had just left himself in the crow's nest.
+
+765
+01:11:34,119 --> 01:11:39,319
+Because he isn't bats in the sense that he doesn't read an interpretation into the bloom.
+
+766
+01:11:39,880 --> 01:11:44,679
+So why he's a bat, blind, I don't know.
+
+767
+01:11:44,680 --> 01:11:49,319
+I mean, I could make up a very clever story, but I think it's too clever by half, but I'll say it.
+
+768
+01:11:49,319 --> 01:11:53,960
+I mean, there are these two meanings of bats: crazy and blind.
+
+769
+01:11:53,960 --> 01:11:56,159
+He's bats in the sense he's crazy.
+
+770
+01:11:56,159 --> 01:11:57,279
+Everybody says that.
+
+771
+01:11:55,000 --> 01:11:59,920
+I mean, he can't live in the normal world anymore.
+
+772
+01:12:00,239 --> 01:12:04,880
+I hope he's not blind as a bat, because I don't know how to understand him as blind.
+
+773
+01:12:04,880 --> 01:12:06,719
+Do you have a view about it?
+
+774
+01:12:18,159 --> 01:12:20,000
+I hope that's not what it means, but it might.
+
+775
+01:12:20,319 --> 01:12:21,279
+I can't answer it.
+
+776
+01:12:21,279 --> 01:12:22,159
+You get the last word.
+
+777
+01:12:22,159 --> 01:12:24,080
+It's one minute till five.
+
+778
+01:12:24,080 --> 01:12:24,800
+Uh-huh.
+
+779
+01:12:25,920 --> 01:12:27,119
+That's interesting.
+
+780
+01:12:27,119 --> 01:12:27,759
+Wow.
+
+781
+01:12:27,760 --> 01:12:29,119
+Full of surprises.
+
+782
+01:12:29,119 --> 01:12:30,879
+Bats can see at night.
+
+783
+01:12:30,880 --> 01:12:31,679
+I love it.
+
+784
+01:12:31,680 --> 01:12:32,960
+Wouldn't that be neat?
+
+785
+01:12:32,960 --> 01:12:38,799
+Bats are blind if they're trying to see in the bright light and see the answer.
+
+786
+01:12:38,800 --> 01:12:42,399
+If they come out at night, they're okay.
+
+787
+01:12:43,279 --> 01:12:47,199
+I can't I Melville is just so smart and he's not even thinking.
+
+788
+01:12:47,199 --> 01:12:48,880
+I mean, Melville is beyond thinking.
+
+789
+01:12:48,880 --> 01:12:50,319
+He may have that in mind.
+
+790
+01:12:50,319 --> 01:12:52,000
+Anyway, I I like it.
+
+791
+01:12:52,000 --> 01:12:53,439
+Okay, time is up.

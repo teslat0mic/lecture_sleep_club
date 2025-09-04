@@ -1,0 +1,3615 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:00,001
+We're ready for a whole new unit, so to speak, or issue, which we haven't talked about much at all.
+
+2
+00:00:00,000 --> 00:00:02,321
+And that's Dostoevsky's view of suffering.
+
+3
+00:00:02,321 --> 00:00:05,441
+That's why I've given you out the suffering chart.
+
+4
+00:00:07,201 --> 00:00:14,480
+Amazingly enough, it took me years to realize that Dostoevsky had an interesting view about suffering.
+
+5
+00:00:14,480 --> 00:00:29,920
+And more peculiarly, I didn't realize, I don't know for how long anymore, for 10 years or something, that, of course, he's got to existentialize the crucifixion and the resurrection, not just the incarnation.
+
+6
+00:00:29,920 --> 00:00:40,641
+And the Christian story, after all, it's a big deal that God became flesh in Jesus, but it's also a big deal that Jesus was crucified and then resurrected.
+
+7
+00:00:40,641 --> 00:00:44,081
+How many have seen the Patron movie?
+
+8
+00:00:44,400 --> 00:00:52,961
+Okay, well, it's a hot topic, not quite so hot this year as the previous year, but certainly there's a lot of suffering in the Christian story.
+
+9
+00:00:54,040 --> 00:01:00,360
+And of course, Dostoevsky's going to have to make sense of it in his existentializing way.
+
+10
+00:01:00,360 --> 00:01:05,081
+So from now on, we're going to hear about crucifixion and resurrection.
+
+11
+00:01:05,081 --> 00:01:14,281
+And of course, you will also hear when I tell you, and you'll see it yourself when you read it or if you've read it, that there are points when Dostoevsky just hits you over the head with it.
+
+12
+00:01:14,441 --> 00:01:17,240
+He's talking about crucifixion and resurrection.
+
+13
+00:01:17,240 --> 00:01:19,400
+How I could have missed it, I don't know.
+
+14
+00:01:19,400 --> 00:01:31,641
+A student, I'll dedicate this lecture to her named Pamela Minkler about 15 years ago wrote a paper saying, look, it's all this stuff about crucifixion and resurrection.
+
+15
+00:01:31,641 --> 00:01:32,761
+And that's right.
+
+16
+00:01:32,761 --> 00:01:34,201
+So here we go.
+
+17
+00:01:34,201 --> 00:01:39,480
+There turns out to be two kinds of suffering, basically, for Dostoevsky.
+
+18
+00:01:39,480 --> 00:01:42,761
+One of them is what gets translated as lacerations.
+
+19
+00:01:42,761 --> 00:01:44,921
+I think that's not a very good translation.
+
+20
+00:01:44,920 --> 00:01:47,400
+Another translation says strains.
+
+21
+00:01:47,400 --> 00:02:01,480
+I don't know what the Russian is, but it's clearly about a kind of self-torment that people can do, making themselves more and more miserable, brooding about what bad things have happened to them.
+
+22
+00:02:01,480 --> 00:02:11,161
+And then, and that's a kind of masochistic martyrdom kind of suffering that Dostoevsky has no sympathy with.
+
+23
+00:02:11,880 --> 00:02:21,401
+An extreme case of it is Father Faripon, who tortures himself and lives this miserable life because he thinks that's what he's supposed to do.
+
+24
+00:02:21,401 --> 00:02:35,801
+Another example is Yvonne's story in the where the Grand Inquisitor said that he's born the cross and lived in the desert and eaten, lived on locusts, like and so forth.
+
+25
+00:02:35,801 --> 00:02:43,681
+And there's lots of suffering that Katerina has and that Yvonne goes through.
+
+26
+00:02:44,000 --> 00:02:50,481
+They're all forms of the wrong kind of suffering, of this kind of self-torment.
+
+27
+00:02:50,480 --> 00:03:06,961
+Now, Dostoevsky has an interesting way of arguing when it turns out that somebody, like in this case, you might think Nietzsche, though he hadn't read Nietzsche, but anybody could say, look at this miserable masochistic religion Christianity is.
+
+28
+00:03:06,961 --> 00:03:09,201
+You've got all this talk about suffering.
+
+29
+00:03:09,201 --> 00:03:16,881
+You've got a God that gets crucified and nailed to the cross, and then you've got all these martyrs that get burned and shot full of arrows.
+
+30
+00:03:16,880 --> 00:03:23,601
+And gruesome paintings of bleeding, headless martyrs and so forth.
+
+31
+00:03:24,240 --> 00:03:26,481
+What a sick religion this is.
+
+32
+00:03:26,480 --> 00:03:30,961
+And Dostoevsky, very interestingly, doesn't deny it.
+
+33
+00:03:30,961 --> 00:03:40,481
+He shows you what that masochistic strain is that is in Christianity in Farrapon, in the Grand Inquisitor, and so forth.
+
+34
+00:03:40,480 --> 00:03:44,561
+But he says that's not the right kind of suffering.
+
+35
+00:03:45,441 --> 00:03:51,921
+That's not the kind of suffering that leads to joy.
+
+36
+00:03:51,921 --> 00:04:11,681
+And Christianity is really about a different kind of suffering, a kind of suffering that doesn't isn't self-torture, but is sort of based on real problems for which people really ought to suffer and do suffer.
+
+37
+00:04:11,681 --> 00:04:17,601
+And if you suffer the right way, then you will be end up joyful.
+
+38
+00:04:17,600 --> 00:04:22,001
+You will be crucified, but you will also be resurrected.
+
+39
+00:04:22,000 --> 00:04:29,481
+Whereas the wrong kind of suffering, the laceration kind, I'm going to call it the torment kind.
+
+40
+00:04:29,480 --> 00:04:31,241
+I forget what I called it on the card.
+
+41
+00:04:31,240 --> 00:04:34,281
+Did I use the translation or call it what I call it?
+
+42
+00:04:41,801 --> 00:04:45,241
+He called it torment laceration dash on the far right.
+
+43
+00:04:45,240 --> 00:04:46,681
+Very sensible of me.
+
+44
+00:04:46,681 --> 00:04:50,840
+Now, I split the difference with the translators.
+
+45
+00:04:51,321 --> 00:04:59,801
+So those people will be reborn, resurrected, and joyful.
+
+46
+00:04:59,801 --> 00:05:07,321
+And they're the existentialized, right kind of Christianity, according to Dostoevsky's thinking about it.
+
+47
+00:05:07,880 --> 00:05:09,640
+It's just a brilliant kind of argument.
+
+48
+00:05:09,640 --> 00:05:22,920
+If somebody points out something wrong with what you like, you could either deny it or defend it or admit that the best thing you could do is say, yeah, that's right, but that's not the whole story.
+
+49
+00:05:23,961 --> 00:05:29,241
+That is one kind of strain in Christianity, but there's another, and the real one is this.
+
+50
+00:05:29,561 --> 00:05:38,281
+By making this distinction, you've managed to do justice to the phenomena and defend the existentialized view that you want to.
+
+51
+00:05:38,280 --> 00:05:40,121
+That's what Dostoevsky does.
+
+52
+00:05:40,120 --> 00:05:43,401
+He gives you both negative and positive suffering.
+
+53
+00:05:43,401 --> 00:05:49,401
+He gives you a detailed description and analysis of the motivations behind each.
+
+54
+00:05:49,401 --> 00:06:05,481
+He shows you that one of them leads to joyful, life-affirming connectedness, and the other, the martyr kind, the masochistic kind, leads to suffering of a kind that leads to isolation and finally to death.
+
+55
+00:06:05,480 --> 00:06:13,361
+That leads to, and I think we'll get to that today, I expect to, a kind of crucifixion which doesn't lead to resurrection, you just die.
+
+56
+00:06:13,681 --> 00:06:20,321
+And that's certainly a possibility.
+
+57
+00:06:20,321 --> 00:06:40,881
+Now, and so we've so we've seen, just to review, the incarnation story, the existentializing of Jesus as the way God's love enters the world and shows up as something people can do.
+
+58
+00:06:40,880 --> 00:06:49,600
+You see it in Markle, coming from Markle to Zosima, and from Zosima to Alyasha, and from Alyasha, this love goes out into the world.
+
+59
+00:06:49,600 --> 00:06:56,801
+Now we're going to see how there is a kind of redeeming suffering, and it produces a new man.
+
+60
+00:06:57,120 --> 00:07:14,241
+And just as Alyasha is part of the incarnation story, sort of the culmination of the way the connectedness gets into the world, so you should know who's the main character who's going to demonstrate the right way to suffer.
+
+61
+00:07:15,280 --> 00:07:15,921
+You don't know.
+
+62
+00:07:15,921 --> 00:07:18,161
+I feel very unhappy.
+
+63
+00:07:18,561 --> 00:07:19,521
+Don't look at the chart.
+
+64
+00:07:19,520 --> 00:07:21,121
+That's cheating.
+
+65
+00:07:23,360 --> 00:07:25,760
+Well, I'm puzzled.
+
+66
+00:07:27,120 --> 00:07:28,321
+No, no, no, sorry.
+
+67
+00:07:28,321 --> 00:07:29,121
+That's not what I mean.
+
+68
+00:07:29,441 --> 00:07:30,161
+Maybe it's my question.
+
+69
+00:07:30,161 --> 00:07:30,961
+It was stupid.
+
+70
+00:07:30,961 --> 00:07:33,041
+Which character, which brother?
+
+71
+00:07:33,681 --> 00:07:34,401
+Ah, good.
+
+72
+00:07:34,401 --> 00:07:35,521
+It's my fault.
+
+73
+00:07:35,520 --> 00:07:40,241
+Yes, Dimitri demonstrates the right kind of suffering.
+
+74
+00:07:40,240 --> 00:07:48,321
+And remember that Zosima bows down to Dimitri and says he bows down to him for the great suffering in store for him.
+
+75
+00:07:48,321 --> 00:07:52,321
+Way early in the book already, it's clear that Dimitri is going to suffer.
+
+76
+00:07:52,321 --> 00:07:54,840
+He's got three things to suffer for.
+
+77
+00:07:55,161 --> 00:08:04,361
+He's got to suffer because he's more upset by and tortured by the split self than any of the others.
+
+78
+00:08:04,360 --> 00:08:13,321
+That is, this problem of being both going for sodom and Madonna, being an insect and an angel.
+
+79
+00:08:13,321 --> 00:08:15,161
+That's torturing him.
+
+80
+00:08:15,161 --> 00:08:22,121
+And then, lot wise, he has other things to torture him, desiring the death of his father.
+
+81
+00:08:22,441 --> 00:08:32,040
+And then he gets, and this is where I think Dostoevsky is sort of murky and not too successful, but we'll have to look at it and talk about it.
+
+82
+00:08:32,041 --> 00:08:39,881
+Finally, he gets, Dimitri does, a kind of suffering, which is suffering for all of humanity.
+
+83
+00:08:40,520 --> 00:08:48,921
+And that's really the existentialized crucifixion.
+
+84
+00:08:48,921 --> 00:08:51,880
+And I don't understand it.
+
+85
+00:08:52,041 --> 00:08:53,400
+I'm not convinced by it.
+
+86
+00:08:53,401 --> 00:08:55,881
+And I'll show you where I'm not.
+
+87
+00:08:55,880 --> 00:08:58,440
+And maybe some of you will understand it and are.
+
+88
+00:08:58,600 --> 00:09:06,120
+You'll complete what Pamela Minkler almost taught me, where I can get a really positive grip on this story.
+
+89
+00:09:06,120 --> 00:09:08,761
+But we've got to get there little by little.
+
+90
+00:09:11,161 --> 00:09:19,881
+So, to begin with, Zostima distinguishes two kinds of suffering very early on already in the book.
+
+91
+00:09:19,880 --> 00:09:25,561
+They just get planted there, but Dostoevsky doesn't do much with them for quite a while.
+
+92
+00:09:25,561 --> 00:09:41,041
+So on page 57, he talks about a kind of suffering that just leads to worse and worse suffering at the top of the page, the first big paragraph, at the end of that paragraph, 57.
+
+93
+00:09:41,041 --> 00:09:43,601
+Here he calls it lamentations.
+
+94
+00:09:44,000 --> 00:09:51,840
+I don't know whether that's the same Russian word as the one for lacerations.
+
+95
+00:09:51,840 --> 00:09:52,881
+I doubt it.
+
+96
+00:09:52,880 --> 00:10:00,880
+Because I think lamentations are, they're both people who suffer, lamentation people and laceration people.
+
+97
+00:10:00,880 --> 00:10:04,160
+But lamentation people have a real reason for suffering.
+
+98
+00:10:04,640 --> 00:10:08,721
+The example is the woman who's lost her child and she's in grief.
+
+99
+00:10:08,720 --> 00:10:13,521
+Whereas lacerations, it turns out, are a special product of pride.
+
+100
+00:10:13,681 --> 00:10:23,921
+I don't think the peasant woman shows pride, but she does have a kind of suffering that wallows in its own grief, and that's why it's like lacerations.
+
+101
+00:10:23,921 --> 00:10:28,321
+And Zosima says, lamentations comfort only by lacerating the heart.
+
+102
+00:10:29,280 --> 00:10:30,801
+That is the same word.
+
+103
+00:10:30,801 --> 00:10:31,681
+Still more.
+
+104
+00:10:32,240 --> 00:10:33,921
+Lacerating the heart still more.
+
+105
+00:10:33,921 --> 00:10:36,801
+Such grief does not desire consolation.
+
+106
+00:10:36,880 --> 00:10:38,561
+See, that's what it has in common.
+
+107
+00:10:40,000 --> 00:10:42,560
+What, for instance, Katerina is doing.
+
+108
+00:10:42,560 --> 00:10:44,720
+Such grief does not desire consolation.
+
+109
+00:10:44,720 --> 00:10:47,040
+It feeds on the sense of its hopelessness.
+
+110
+00:10:47,040 --> 00:10:51,841
+Lamentations spring only from the constant craving to reopen the womb.
+
+111
+00:10:53,361 --> 00:10:59,201
+That's the woundishness is where the laceration and strain translation comes in.
+
+112
+00:10:59,201 --> 00:11:03,921
+But I think that self-torment is still closer.
+
+113
+00:11:03,921 --> 00:11:05,441
+Okay, that's one kind.
+
+114
+00:11:05,760 --> 00:11:18,961
+And then he talks about another kind of suffering on 51, no, not 51, 58, which at the very bottom, which leads to a kind of quiet joy instead of sort of wallowing in its grief.
+
+115
+00:11:18,961 --> 00:11:32,520
+At the bottom, only every time that you weep, he says to the woman who lost her child, be sure to remember that your little son is one of the angels of God, that he looks down from there at you and rejoices at your tears and points them out to the Lord.
+
+116
+00:11:32,520 --> 00:11:40,840
+And then he goes on, a long while yet will you keep that great mother's grief, but it will turn into the end into quiet joy.
+
+117
+00:11:40,841 --> 00:11:46,921
+See, you don't see that in Katerina or Yvonne or Father Farrakhan or any of these other people.
+
+118
+00:11:48,280 --> 00:11:57,480
+You turn into quiet joy, and your bitter tears will be the only tears, will be only tears of sorrow that purify the heart and deliver it from sin.
+
+119
+00:11:57,480 --> 00:12:06,520
+Well, that's nice because that's so one kind of suffering, if you get stuck in it and wallow in it, it just gets worse and worse.
+
+120
+00:12:06,520 --> 00:12:28,280
+Another kind, if you live it the right way with faith, it's Zosima's kind of faith, it's a kind of magical faith from Dostoevsky's point of view, that the child is still there looking down on the parents from heaven and looking at the mother and feeling glad that the mother is remembering the child.
+
+121
+00:12:28,280 --> 00:12:29,961
+That's too Zosima-like.
+
+122
+00:12:30,520 --> 00:12:47,240
+But if you can get an existentialized version of it, if you suffer in a way that keeps you open to God, which is namely the connectedness of you, it will turn into some kind of positive suffering.
+
+123
+00:12:47,240 --> 00:12:49,800
+You'll hear a lot more about that in a minute.
+
+124
+00:12:49,800 --> 00:12:50,760
+But there was one more thing.
+
+125
+00:12:50,760 --> 00:12:58,360
+Oh, yeah, I just noticed this time looking, reading the text, that I had something little thing I hadn't noticed before.
+
+126
+00:12:58,361 --> 00:12:59,961
+Maybe you all noticed it.
+
+127
+00:12:59,961 --> 00:13:02,840
+Maybe it's not noticed anywhere else.
+
+128
+00:13:02,841 --> 00:13:07,240
+But it turns out that the child who died is named Alexei.
+
+129
+00:13:07,240 --> 00:13:09,760
+That's Alyasha's nickname, right?
+
+130
+00:13:07,720 --> 00:13:11,201
+I think so.
+
+131
+00:13:11,520 --> 00:13:14,801
+And do we know that that means the man of God before that?
+
+132
+00:13:14,800 --> 00:13:16,560
+Does he say that anywhere else?
+
+133
+00:13:16,560 --> 00:13:17,921
+And that's nice.
+
+134
+00:13:17,921 --> 00:13:20,801
+See, what he says here is: what's the name of your child?
+
+135
+00:13:20,800 --> 00:13:25,201
+Alexei, Father, a sweet name after Alexei, the man of God.
+
+136
+00:13:25,201 --> 00:13:36,161
+I don't know whether that's a particular person or whether it means man of God, but it's the right name for Alyasha, and I just never noticed that he had that, what that name meant.
+
+137
+00:13:37,361 --> 00:13:40,800
+So now, onward with this.
+
+138
+00:13:44,401 --> 00:13:56,961
+The first question is: sort of, sure, there are kinds of suffering where something really bad has happened to somebody, like the mother whose child dies, but we want, those are extreme cases.
+
+139
+00:13:56,961 --> 00:14:08,720
+We want a story about why everyone must suffer, because we want to hear about some kind of way of making everyone's suffering into a source of joy.
+
+140
+00:14:09,601 --> 00:14:12,161
+That's what we're going to get at the end.
+
+141
+00:14:12,480 --> 00:14:16,480
+So there's at least one way, and I've already mentioned it.
+
+142
+00:14:18,080 --> 00:14:29,201
+In Dimitri, one kind of suffering that everybody has is that the human self is a contradiction, and that until you get it together, you're going to be in despair and suffer.
+
+143
+00:14:29,841 --> 00:14:36,480
+So, and if you do get it together in the right way, then you get a kind of purification.
+
+144
+00:14:36,480 --> 00:14:43,681
+That is, the dark side becomes not a bad side, but a good side.
+
+145
+00:14:43,681 --> 00:14:47,761
+It doesn't anymore be the insect and the lackey and so forth.
+
+146
+00:14:48,000 --> 00:14:55,560
+It's the earth, it's positive, it's sensuous, it's fruitful, and it turns into something positive.
+
+147
+00:14:55,881 --> 00:15:03,401
+That's what happens when you finally are able to suffer it enough, look at it enough, and purify it.
+
+148
+00:15:03,401 --> 00:15:05,400
+Remember, that's what Zosima says to Mrs.
+
+149
+00:15:05,401 --> 00:15:06,601
+Holocaust.
+
+150
+00:15:06,921 --> 00:15:15,961
+So remember, too, that that's not like the Old Testament where you only suffer by expiating your actual crimes.
+
+151
+00:15:15,961 --> 00:15:35,720
+But once you get an ethics that says you're responsible for your desires and your feelings, and you've got impurity by it, then you've got to purify them so that the dark, selfish side turns into something positive, which it does.
+
+152
+00:15:35,720 --> 00:15:41,961
+Remember, these factors in the self are different depending on how you understand them.
+
+153
+00:15:41,961 --> 00:15:47,720
+So you can understand this earthy side as this bad Karamatsov side.
+
+154
+00:15:47,881 --> 00:15:55,961
+You can also understand it as the warm, impulsive, loving, sensuous side, which is what happens.
+
+155
+00:15:55,961 --> 00:15:58,520
+That's what the purification does.
+
+156
+00:15:58,841 --> 00:16:20,361
+Now, and Dimitri is the great sufferer, starting, I presume, with the idea that no matter what he does, no matter what actions he performs, no matter what desires he has, even, he's a sufferer sort of all the way down because he's got this problem with the self.
+
+157
+00:16:20,361 --> 00:16:25,641
+I mentioned it, but I'll just remind you where it is on 81, two-thirds of the way down.
+
+158
+00:16:25,641 --> 00:16:33,400
+You don't have to look at it, but that's where we get Zosima bowing so that his head touches the ground in front of Dimitri.
+
+159
+00:16:33,401 --> 00:16:45,600
+And it's later on 486 that he explains why he bowed like that.
+
+160
+00:16:50,080 --> 00:16:55,760
+And he says, it's on 486, he says, it's for the great suffering in store for him.
+
+161
+00:16:56,641 --> 00:16:59,840
+About a third of the way down.
+
+162
+00:17:00,161 --> 00:17:01,600
+Where is it?
+
+163
+00:17:02,720 --> 00:17:03,841
+That isn't where it is.
+
+164
+00:17:03,841 --> 00:17:04,400
+Just a second.
+
+165
+00:17:04,401 --> 00:17:08,640
+I gotta find 274.
+
+166
+00:17:08,641 --> 00:17:15,600
+I just looked at the wrong place.
+
+167
+00:17:15,921 --> 00:17:24,961
+So at the bottom, very bottom of 274, Zosima says, I bowed down yesterday to the great suffering in store for him.
+
+168
+00:17:25,601 --> 00:17:30,800
+I think I better try.
+
+169
+00:17:30,961 --> 00:17:32,240
+I know what I did to the mic.
+
+170
+00:17:34,560 --> 00:17:35,040
+Yeah.
+
+171
+00:17:37,601 --> 00:17:38,640
+Try that.
+
+172
+00:17:38,641 --> 00:17:40,240
+You can still hear me, I hope.
+
+173
+00:17:40,401 --> 00:17:41,760
+I don't keep bumping into it.
+
+174
+00:17:41,760 --> 00:17:43,201
+Okay, so now.
+
+175
+00:17:43,841 --> 00:17:46,961
+So he bows down to the great suffering in store for him.
+
+176
+00:17:46,961 --> 00:17:59,040
+And then just because these kind of things happen in here, and you should keep your eyes open, remember, of course, Grushenka is the double or Dimitri.
+
+177
+00:17:59,040 --> 00:18:01,441
+And this comes out in two ways.
+
+178
+00:18:01,441 --> 00:18:10,161
+One, well, first, sorry, 486.
+
+179
+00:18:10,161 --> 00:18:15,040
+Before I get to Grushenka, she since she's the double, we better get to him first.
+
+180
+00:18:15,040 --> 00:18:26,441
+So here's what, we're back on 486, where I jumped ahead, about a third of the way down, where Dimitri says, I accept the torture of accusation, my public shame.
+
+181
+00:18:22,800 --> 00:18:29,560
+I want to suffer because by suffering I'll be purified.
+
+182
+00:18:30,441 --> 00:18:37,640
+And then more, I accept my punishment, not because I killed him, but because I meant to kill him, and so forth.
+
+183
+00:18:37,641 --> 00:18:41,240
+So he's suffering because he needs to be purified.
+
+184
+00:18:41,240 --> 00:18:45,400
+He's suffering because he has this particular bad desire.
+
+185
+00:18:45,401 --> 00:18:50,120
+And later we'll see he's just suffering for all humanity some way or other.
+
+186
+00:18:50,121 --> 00:19:02,520
+And now what's interesting is Grushenka, being a double of his, one, she makes the same kind of bow as Zasima to him when he says that at the top of 487.
+
+187
+00:19:02,841 --> 00:19:06,520
+It says Grushenka made a deep bow to Dmitri.
+
+188
+00:19:06,520 --> 00:19:08,600
+But that's not what's so interesting.
+
+189
+00:19:08,601 --> 00:19:19,161
+Not only does she repeat the bow, but in a way that's a bit inscrutable, but you can see what Dostoevsky's trying to do, and he just asks you to believe it.
+
+190
+00:19:26,601 --> 00:19:30,441
+553, I say, but I don't believe it.
+
+191
+00:19:30,441 --> 00:19:31,880
+That's not it.
+
+192
+00:19:32,201 --> 00:19:33,240
+Hmm.
+
+193
+00:19:33,881 --> 00:19:35,401
+What could it be?
+
+194
+00:19:40,520 --> 00:19:42,521
+Every once in a while I just write down the wrong thing.
+
+195
+00:19:43,080 --> 00:19:45,000
+I doubt if anybody can just find it.
+
+196
+00:19:45,000 --> 00:19:47,240
+She's become a new woman.
+
+197
+00:19:48,361 --> 00:19:50,520
+As soon as Dimitri, let's go back to where we were.
+
+198
+00:19:50,520 --> 00:19:53,800
+As soon as Dmitri is, she bows down to him.
+
+199
+00:19:53,800 --> 00:19:55,320
+Maybe you'll find it.
+
+200
+00:19:55,321 --> 00:19:56,520
+She, ah, there we are.
+
+201
+00:19:56,520 --> 00:19:57,001
+I don't know.
+
+202
+00:19:57,000 --> 00:19:58,520
+It's 533.
+
+203
+00:19:58,520 --> 00:20:02,041
+Okay, well, I wonder I can't find it because it isn't there.
+
+204
+00:20:02,040 --> 00:20:05,720
+Okay, 533.
+
+205
+00:20:06,040 --> 00:20:16,480
+What happens is, in a way that sort of loose ends, anytime I find these loose ends, there's probably some better thing to say, so you should be ready to dump in and help.
+
+206
+00:20:16,480 --> 00:20:20,000
+We're just told like this, the following.
+
+207
+00:20:20,000 --> 00:20:27,600
+Three days after Dmitry's arrest, at the top of 533, Grushenka was taken very ill and was ill for nearly five weeks.
+
+208
+00:20:27,601 --> 00:20:30,000
+For one whole week, she was unconscious.
+
+209
+00:20:30,000 --> 00:20:38,720
+Well, that's typical Dostoevsky, sort of mixing physical sickness with spiritual insight.
+
+210
+00:20:38,720 --> 00:20:46,000
+After all, Markle has brain fever, and he discovers that we should love everything and everybody and be servants to everybody.
+
+211
+00:20:46,000 --> 00:20:53,201
+And the mysterious visitor has heart problems because he's gotten too much love all of a sudden and so forth.
+
+212
+00:20:53,201 --> 00:20:59,921
+Grushenka has suffering problems, and she's suffering from some disease or other, which knocks her out.
+
+213
+00:20:59,921 --> 00:21:07,201
+And when she comes out of the sickness, because it's really a spiritual as well as a physical sickness, she's transformed.
+
+214
+00:21:07,201 --> 00:21:10,561
+She was very much changed, thinner and a little sallow.
+
+215
+00:21:10,560 --> 00:21:15,600
+So she was for the, though she had for the past two weeks been well enough to go out.
+
+216
+00:21:15,600 --> 00:21:21,921
+And to Alyasha, her face was even more attractive than before, and he liked to meet her eyes when he visited her.
+
+217
+00:21:22,161 --> 00:21:25,360
+Recognize why Dostoevsky throws that in?
+
+218
+00:21:25,361 --> 00:21:27,120
+Somebody might think.
+
+219
+00:21:28,720 --> 00:21:29,280
+That's right.
+
+220
+00:21:29,520 --> 00:21:30,080
+Who says this?
+
+221
+00:21:30,080 --> 00:21:31,520
+So yes, he wouldn't look at her.
+
+222
+00:21:31,520 --> 00:21:33,201
+He was afraid to look at her before.
+
+223
+00:21:33,201 --> 00:21:37,360
+Now she's transformed and he's transformed and so they can look at each other.
+
+224
+00:21:37,361 --> 00:21:40,560
+A look of firmness and purpose had developed in her face.
+
+225
+00:21:40,560 --> 00:21:47,760
+There were signs of, guess what, a spiritual transformation in her, a steadfast, fine, and humble determination.
+
+226
+00:21:47,760 --> 00:21:59,881
+She has suffered in a kind of micro way and been reborn in a kind of micro way, just the way you want with a double for Dimitri, except that it's all sort of thrown at you there and you just either take it or not.
+
+227
+00:21:59,881 --> 00:22:05,081
+It doesn't, Boston doesn't go to any trouble to spell it out or get you to believe it.
+
+228
+00:22:05,080 --> 00:22:08,840
+But that's because he's going to spell it out at endless length with Dimitri.
+
+229
+00:22:08,841 --> 00:22:15,000
+And with her, he's just keeping his existential doubles intact, I think.
+
+230
+00:22:15,000 --> 00:22:23,720
+So then, okay, now, so we've got, everybody has to suffer and purify themselves of their dark side.
+
+231
+00:22:23,720 --> 00:22:34,041
+They come into the world with a sinful lust, sort of animal-ish or insect-ish dark side, and they have to fix it.
+
+232
+00:22:34,040 --> 00:22:35,880
+That's the first reason to suffer.
+
+233
+00:22:36,201 --> 00:22:41,000
+But then there's another reason, namely expiating your crimes.
+
+234
+00:22:41,000 --> 00:22:44,600
+And now that's got a lot of sub-parts, which I'll come back to next time.
+
+235
+00:22:44,601 --> 00:22:47,800
+By the way, next time I will have to tell you who did it.
+
+236
+00:22:47,800 --> 00:22:52,040
+And how many already have got far enough to know who did it?
+
+237
+00:22:52,040 --> 00:22:52,681
+Oh, good.
+
+238
+00:22:52,681 --> 00:22:57,401
+Well, the rest of you are in for big, you'd spoil fun if you don't hurry and read it.
+
+239
+00:22:57,401 --> 00:23:02,201
+Because it's certainly one of the most convoluted and surprising murder mysteries ever written.
+
+240
+00:23:02,201 --> 00:23:06,841
+You still, by the time you're on page, I don't know, 600, you're still going to know who did it.
+
+241
+00:23:06,841 --> 00:23:08,840
+But I have to tell you pretty soon.
+
+242
+00:23:08,841 --> 00:23:15,961
+So, anyway, but not right now, because expiation could be that you have bad desires.
+
+243
+00:23:15,961 --> 00:23:19,240
+Dimitri certainly desired to kill his father.
+
+244
+00:23:19,240 --> 00:23:24,600
+It could be because you actually sort of hire somebody to do it.
+
+245
+00:23:25,401 --> 00:23:27,400
+I won't tell you who that might be.
+
+246
+00:23:27,961 --> 00:23:31,081
+It could be because you really do it, kill somebody.
+
+247
+00:23:31,080 --> 00:23:42,881
+I mean, all these are forms of guilt or doing something morally wrong for which you've got to expiate because, and all the whole mysterious visitor story comes in.
+
+248
+00:23:43,601 --> 00:24:06,160
+As long as you don't, you're cut off from everybody because you have to live a lie because you have to hide the fact that you had this bad desire and still defines part of who you are, or that you hired somebody to do this terrible thing, like in Woody Allen's Crimes and Misdemeanors, which I mention every once in a while, but you guys haven't seen.
+
+249
+00:24:06,161 --> 00:24:09,201
+He hires a mafia person to kill his mistress.
+
+250
+00:24:09,201 --> 00:24:17,280
+And once you do something like that, you can't really relate to other people in an honest and intimate way because they don't really know who you are.
+
+251
+00:24:17,280 --> 00:24:19,681
+So that's the mysterious visitor thing.
+
+252
+00:24:19,681 --> 00:24:31,921
+So all these forms of morally wrong behavior, from desire to outright murder, are something that you've got to suffer to get over.
+
+253
+00:24:32,560 --> 00:24:43,280
+You have to accept the suffering for your criminal deeds because the crime tears you out of the web of interconnectedness and puts you into the hell of isolation.
+
+254
+00:24:43,280 --> 00:24:50,161
+And only by confession, you get out of that hell back into heaven of connectedness to human beings.
+
+255
+00:24:50,161 --> 00:24:53,600
+That's just a review, really, of the mysterious visitor.
+
+256
+00:24:53,601 --> 00:25:01,120
+Now comes the hard part, the part I wish I could sort of convince you of, but I can't because I'm not convinced of it.
+
+257
+00:25:01,121 --> 00:25:02,961
+And I don't know if Dostoevsky is.
+
+258
+00:25:02,961 --> 00:25:04,000
+He tries hard.
+
+259
+00:25:04,000 --> 00:25:14,641
+But the sacrament, the Christian, important Christian view, which he's trying to existentialize, is pretty weird.
+
+260
+00:25:14,641 --> 00:25:16,161
+I mean, I can't get it.
+
+261
+00:25:16,161 --> 00:25:18,000
+And usually I can.
+
+262
+00:25:18,000 --> 00:25:22,961
+I mean, it's that when Jesus suffered on the cross, he suffered for everybody.
+
+263
+00:25:23,881 --> 00:25:31,240
+And he was an innocent who took on the guilt and suffering and somehow took it away from the other people.
+
+264
+00:25:31,240 --> 00:25:34,681
+That can't quite be right, but that's how it looks.
+
+265
+00:25:34,681 --> 00:25:39,321
+And of course, that's how Alyosha understands it.
+
+266
+00:25:39,320 --> 00:25:50,201
+When after the Grand Inquisitor story, remember, he says to Yvonne, Ah, but we can make up for all that suffering, because there is the innocent one who suffered for all of us.
+
+267
+00:25:50,201 --> 00:25:55,880
+Now, at least Dostoevsky is not going to believe that it's an innocent one who suffered for us.
+
+268
+00:25:55,881 --> 00:25:58,520
+He thinks that's just plain wrong.
+
+269
+00:25:58,520 --> 00:26:04,280
+But we've gone over that, as in the idiot and so forth.
+
+270
+00:26:04,681 --> 00:26:09,400
+If you are really innocent, you can't suffer for anybody, do any good.
+
+271
+00:26:10,040 --> 00:26:14,520
+But there is still the somebody takes on the suffering for all of us.
+
+272
+00:26:14,520 --> 00:26:24,600
+And I don't understand how anybody could do this, or why anybody would want to do this, or why anybody would want anybody to do this.
+
+273
+00:26:24,601 --> 00:26:28,601
+Because if you don't suffer your own suffering, how are you going to be purified?
+
+274
+00:26:28,601 --> 00:26:31,561
+How are you going to get back in touch with people and so forth?
+
+275
+00:26:31,560 --> 00:26:43,161
+It doesn't seem to me somebody else suffering on the cross is going to purify me or get me back in touch with the people whose close friends I just killed or some once killed and so forth.
+
+276
+00:26:43,161 --> 00:26:44,361
+So this is puzzling.
+
+277
+00:26:44,361 --> 00:26:46,841
+But Dostoevsky bravely takes it on.
+
+278
+00:26:46,841 --> 00:26:59,640
+Dimitri is going to suffer to be purified, to expiate his criminal desire, and somehow take on the suffering of everybody.
+
+279
+00:26:59,800 --> 00:27:00,840
+I have a quote here.
+
+280
+00:27:00,841 --> 00:27:03,601
+I guess I may never have read it.
+
+281
+00:27:03,480 --> 00:27:03,921
+I know.
+
+282
+00:27:03,560 --> 00:27:08,320
+I don't know.
+
+283
+00:27:08,800 --> 00:27:11,840
+People listening on the iPod, I'm sorry for you guys.
+
+284
+00:27:12,800 --> 00:27:14,240
+Okay, now let's see.
+
+285
+00:27:14,240 --> 00:27:20,480
+On page one that I didn't read on 486, or at least I don't think I read it.
+
+286
+00:27:24,961 --> 00:27:25,840
+Oh, yes, I did.
+
+287
+00:27:25,841 --> 00:27:26,800
+I thought maybe I did, too.
+
+288
+00:27:26,800 --> 00:27:28,161
+That's why I got confused.
+
+289
+00:27:28,161 --> 00:27:33,681
+It's, yeah, he's taking on this guilt for having desired the death of his father.
+
+290
+00:27:33,681 --> 00:27:37,520
+I accept my punishment not because I killed him, because I meant to.
+
+291
+00:27:38,320 --> 00:27:44,321
+Of course, all through this, we don't know whether those of you who haven't gotten there don't know whether to believe Dimitri or not.
+
+292
+00:27:44,320 --> 00:27:47,120
+Some of the people think he really did kill old Karamatsov.
+
+293
+00:27:47,120 --> 00:27:48,160
+He just won't admit it.
+
+294
+00:27:48,160 --> 00:27:50,241
+Some people didn't do it.
+
+295
+00:27:50,241 --> 00:27:52,080
+I'm not telling this time.
+
+296
+00:27:52,080 --> 00:27:53,601
+But next time I will.
+
+297
+00:27:53,600 --> 00:27:55,280
+Okay, so let's see.
+
+298
+00:27:55,281 --> 00:27:58,640
+So now, now we get to the big deal thing.
+
+299
+00:27:58,640 --> 00:28:06,561
+Dimitri is going to suffer for everybody, and he's going to, by way of that, become a new man, be resurrected.
+
+300
+00:28:06,560 --> 00:28:20,401
+This is the real existentializing, the effort anyway, of Postoevsky to existentialize why Jesus had to suffer on the cross and why, when he did suffer on the cross, he's resurrected.
+
+301
+00:28:20,401 --> 00:28:29,681
+So at the end of the Passion movie, I gather you see him there recovered completely from all the bad suffering you've just gone through.
+
+302
+00:28:29,680 --> 00:28:31,361
+So let's look at it.
+
+303
+00:28:32,000 --> 00:28:35,120
+To begin with, this isn't something I made up.
+
+304
+00:28:35,441 --> 00:28:46,721
+Dimitri is already, when he's convicted by the court and he's going to go to Siberia, he constantly calls this a a crucifixion.
+
+305
+00:28:47,040 --> 00:28:51,360
+And he says he's not going to run away from his crucifixion on 563.
+
+306
+00:28:51,361 --> 00:29:00,361
+I mean, this is just Dostoevsky hitting you over the head with what sacrament, what Christian belief he's fixing.
+
+307
+00:29:02,281 --> 00:29:03,560
+Let's see, maybe not this one.
+
+308
+00:29:03,721 --> 00:29:07,560
+On 563, yeah, starting at the bottom.
+
+309
+00:29:07,881 --> 00:29:17,800
+I would have, if he goes, if he doesn't go to Siberia and escapes, which is what Yvonne wants him to do, I would have run away from suffering.
+
+310
+00:29:17,801 --> 00:29:19,080
+The sign has come.
+
+311
+00:29:19,080 --> 00:29:20,681
+I reject the sign.
+
+312
+00:29:20,680 --> 00:29:23,560
+I have a way of salvation and I turn my back on it.
+
+313
+00:29:23,560 --> 00:29:27,000
+That is, if he doesn't suffer and doesn't go to Siberia.
+
+314
+00:29:27,000 --> 00:29:31,401
+Yvonne says that in America, with goodwill, I can be of more use than in the underground.
+
+315
+00:29:31,401 --> 00:29:33,721
+But what becomes of our hymn from the underground?
+
+316
+00:29:33,721 --> 00:29:34,520
+What's America?
+
+317
+00:29:34,520 --> 00:29:36,281
+America is vanity again.
+
+318
+00:29:36,281 --> 00:29:39,000
+But there's a lot of swindling in America, too.
+
+319
+00:29:39,401 --> 00:29:40,761
+Never mind all that.
+
+320
+00:29:41,080 --> 00:29:44,441
+I should have run away from crucifixion.
+
+321
+00:29:44,441 --> 00:29:46,280
+You see, there it is.
+
+322
+00:29:46,281 --> 00:29:50,040
+Dostoevsky is telling you that's what Yvonne is up to.
+
+323
+00:29:50,120 --> 00:29:52,681
+That's what Yvonne's suffering is about.
+
+324
+00:29:52,680 --> 00:29:57,240
+So now we have to follow it more and see what goes on with it.
+
+325
+00:30:00,281 --> 00:30:05,881
+Unless that's not enough, so on 717, we get it all over again.
+
+326
+00:30:05,881 --> 00:30:11,161
+Instead of talking about the crucifixion, we talked about carrying a cross, which is very interesting.
+
+327
+00:30:11,160 --> 00:30:21,721
+And that's on page 717 at the bottom.
+
+328
+00:30:24,281 --> 00:30:28,201
+So, Alyasha is talking to Dimitri and Prison, three lines down.
+
+329
+00:30:28,200 --> 00:30:33,721
+What you're not ready to go to Siberia.
+
+330
+00:30:33,721 --> 00:30:35,881
+Such a cross is not for you.
+
+331
+00:30:35,881 --> 00:30:41,601
+What's more, you needn't need such a martyr's cross when you are not ready for it.
+
+332
+00:30:41,921 --> 00:30:46,401
+If you had murdered our father, it would disturb me that you rejected your punishment.
+
+333
+00:30:46,401 --> 00:30:48,240
+By the way, don't think that proves that he hasn't.
+
+334
+00:30:48,401 --> 00:30:50,480
+Alyasha never thought he had.
+
+335
+00:30:50,480 --> 00:30:53,681
+But you are innocent, and such a cross is too much for you.
+
+336
+00:30:53,680 --> 00:30:56,881
+You wanted to make yourself into a new man by suffering.
+
+337
+00:30:56,881 --> 00:31:03,441
+I say only remember that that other man always, all your life, and wherever you go, and that will be enough for you.
+
+338
+00:31:03,441 --> 00:31:09,520
+Your refusal to carry that great cross will only serve to make you feel all your life an even greater duty.
+
+339
+00:31:09,520 --> 00:31:14,161
+That will do more to make a new man of you than if you went there.
+
+340
+00:31:14,160 --> 00:31:21,361
+So just as sort of desiring to commit a crime is as bad as committing the crime.
+
+341
+00:31:21,361 --> 00:31:30,080
+So being willing, eager to suffer for that crime can be as good as actually suffering for it.
+
+342
+00:31:30,080 --> 00:31:32,641
+That seems to be what Alyasha is saying here.
+
+343
+00:31:32,881 --> 00:31:35,680
+That it's enough that Dmitry remembers that.
+
+344
+00:31:35,680 --> 00:31:39,120
+He was eager to go to Siberia and suffer.
+
+345
+00:31:39,281 --> 00:31:43,921
+This hasn't got us to the heart of the puzzle yet, but we're getting there.
+
+346
+00:31:44,560 --> 00:31:57,040
+Now here we go when we really, Dostoevsky tries to existentialize the crucifixion and what's sometimes called the vicarious suffering of Jesus, suffering for everybody.
+
+347
+00:31:57,361 --> 00:32:00,081
+675.
+
+348
+00:32:00,401 --> 00:32:05,841
+The only thing I can think, the only way I can defend Dostoevsky is that he doesn't really believe it.
+
+349
+00:32:05,841 --> 00:32:08,080
+I mean, because it never really happens.
+
+350
+00:32:08,080 --> 00:32:16,641
+He doesn't show you anybody who suffers for everybody and helps them attain joy.
+
+351
+00:32:16,640 --> 00:32:22,361
+This is what Dmitri is thinking about doing, going to Siberia and so forth.
+
+352
+00:32:22,000 --> 00:32:29,000
+But I don't know why he doesn't actually do it, except that Dostoevsky doesn't know what it would be to do it.
+
+353
+00:32:29,321 --> 00:32:33,561
+Therefore, neither do I, because I learned all this from Dostoevsky.
+
+354
+00:32:33,560 --> 00:32:36,600
+So, on 560, what is it?
+
+355
+00:32:38,040 --> 00:32:39,561
+560.
+
+356
+00:32:40,200 --> 00:32:41,961
+Well, let me go and look.
+
+357
+00:32:44,040 --> 00:32:45,560
+Looks like 560.
+
+358
+00:32:45,560 --> 00:32:47,161
+Let's try that.
+
+359
+00:32:52,921 --> 00:32:55,081
+Okay, all this talk now.
+
+360
+00:32:55,080 --> 00:32:56,120
+Then I'm going to let you talk.
+
+361
+00:32:56,120 --> 00:33:01,000
+So be prepared to say something about this so we can make some progress on this together.
+
+362
+00:33:01,000 --> 00:33:04,841
+But here's what he's up to at the top of 560.
+
+363
+00:33:04,841 --> 00:33:06,760
+Why was it I dreamed of that babe?
+
+364
+00:33:06,761 --> 00:33:11,401
+He was dreaming of a hungry child and the crying mother and all that.
+
+365
+00:33:12,361 --> 00:33:14,361
+Where was I at that such a moment?
+
+366
+00:33:14,361 --> 00:33:16,441
+Why is the babe so pure?
+
+367
+00:33:16,441 --> 00:33:17,160
+Poor.
+
+368
+00:33:17,160 --> 00:33:27,000
+That was a sign to me at that moment that it's for the babe I'm going, because we are all responsible for all, for all the babes.
+
+369
+00:33:27,000 --> 00:33:30,361
+For there are big children as well as little children, all the babes.
+
+370
+00:33:30,361 --> 00:33:33,881
+I go for all because someone must go for all.
+
+371
+00:33:34,200 --> 00:33:35,961
+Now that's the funny line.
+
+372
+00:33:35,961 --> 00:33:37,961
+What in the world is it to go for all?
+
+373
+00:33:37,961 --> 00:33:39,560
+What good does it do the babe?
+
+374
+00:33:39,560 --> 00:33:43,561
+What good does it do anybody that Dimitri goes for them?
+
+375
+00:33:43,560 --> 00:33:45,480
+I just don't get it.
+
+376
+00:33:45,480 --> 00:33:48,520
+I mean, so let's go on.
+
+377
+00:33:52,200 --> 00:33:52,841
+Skipping a little.
+
+378
+00:33:52,921 --> 00:33:56,440
+Oh, yes, we shall be in chains in Siberia, and there will be no freedom.
+
+379
+00:33:56,441 --> 00:34:00,121
+But then, in our great sorrow, we shall rise again to joy.
+
+380
+00:34:00,120 --> 00:34:01,720
+Rise again to joy.
+
+381
+00:34:01,721 --> 00:34:03,321
+That's the resurrection.
+
+382
+00:34:03,321 --> 00:34:17,041
+Having gone to Siberia, taken on the suffering of all the suffering people of the world, and done it for them somehow, he will be joyful, and so will everybody else.
+
+383
+00:34:17,040 --> 00:34:18,641
+Skipping a little.
+
+384
+00:34:19,200 --> 00:34:21,841
+And then we men underground to the end of the paragraph.
+
+385
+00:34:21,841 --> 00:34:28,000
+And then we men underground will sing from the bowels of the earth a glorious hymn to God with whom is joy.
+
+386
+00:34:28,321 --> 00:34:31,280
+And that's the idea.
+
+387
+00:34:32,881 --> 00:34:37,280
+Now, anybody got any idea where, what's missing?
+
+388
+00:34:37,281 --> 00:34:51,041
+I mean, somehow the conviction that I feel about the incarnation story and the confession and baptism, which is pretty amazing and brilliant, far-fetched, with the doctor and the nuts and so forth.
+
+389
+00:34:51,040 --> 00:34:52,480
+I don't get it with this.
+
+390
+00:34:52,480 --> 00:34:53,600
+I can't convince you.
+
+391
+00:34:54,000 --> 00:34:56,321
+I have no feel for it.
+
+392
+00:34:56,321 --> 00:35:00,160
+And I don't know whether it's me or Dostoevsky or what.
+
+393
+00:35:00,160 --> 00:35:01,441
+Yeah, say something.
+
+394
+00:35:08,480 --> 00:35:09,760
+But I don't like it.
+
+395
+00:35:17,841 --> 00:35:18,720
+Yes, of course.
+
+396
+00:35:18,801 --> 00:35:20,480
+I think that's very interesting what you're saying.
+
+397
+00:35:20,480 --> 00:35:21,760
+Let's see if I got it right.
+
+398
+00:35:21,761 --> 00:35:40,801
+I mean, he could suffer for everyone in the sense of an example of how to suffer right, not taking the place of their suffering, not even taking on their suffering, but being the paradigm example of how to suffer in a non-lacerating, non-tormenting, accepting way.
+
+399
+00:35:40,801 --> 00:35:45,760
+And thereby, he becomes joyful and he becomes an example for everybody else.
+
+400
+00:35:45,761 --> 00:35:46,800
+That's terrific.
+
+401
+00:35:46,801 --> 00:35:48,561
+It's a step forward.
+
+402
+00:35:50,080 --> 00:35:50,880
+Anybody?
+
+403
+00:35:50,881 --> 00:35:52,081
+I mean, yeah.
+
+404
+00:35:56,281 --> 00:35:57,881
+Talking like what?
+
+405
+00:35:59,480 --> 00:36:00,440
+Yes, yes.
+
+406
+00:36:00,441 --> 00:36:02,840
+In the sense that he is, that's what she's saying too, right?
+
+407
+00:36:02,841 --> 00:36:07,081
+That he is, remember, I think I said Kierkegaard says Jesus is the paradigm.
+
+408
+00:36:07,080 --> 00:36:09,241
+That is, he's the perfect example.
+
+409
+00:36:09,401 --> 00:36:24,601
+So far, we saw Marco, while playing Jesus was the perfect example of the complete connectedness to everything, even the animals and the birds, and of the amazing joy it brings you, meaningly being in paradise.
+
+410
+00:36:24,600 --> 00:36:38,841
+So now Demetri ought to be the paradigm of how to suffer, accepting your suffering and accepting it and thereby turning it into finally into some kind of joy.
+
+411
+00:36:38,841 --> 00:36:43,961
+He's the, I think she's got it right, you both have got it right, he's the paradigm.
+
+412
+00:36:44,200 --> 00:36:47,801
+That's the sense in which he suffers for everybody.
+
+413
+00:36:47,801 --> 00:36:51,880
+Not that he takes on their suffering, certainly not that he's innocent.
+
+414
+00:36:52,761 --> 00:36:57,961
+Those are all wrong ways of thinking about the crucifixion, Dostoevsky would say.
+
+415
+00:36:58,520 --> 00:37:02,441
+He can't pay the debt for other people who did wrong things.
+
+416
+00:37:02,441 --> 00:37:04,601
+They've got to suffer themselves.
+
+417
+00:37:04,600 --> 00:37:10,840
+But he can show what that would look like, thereby existentializing.
+
+418
+00:37:10,841 --> 00:37:13,161
+I think that's, you think you two have got it.
+
+419
+00:37:13,160 --> 00:37:15,720
+Anybody else want to finish the job?
+
+420
+00:37:16,200 --> 00:37:17,801
+I knew we would, I fell through.
+
+421
+00:37:17,801 --> 00:37:19,880
+I was just about to finally get it.
+
+422
+00:37:19,961 --> 00:37:26,000
+Now we's one part of the story.
+
+423
+00:37:26,281 --> 00:37:37,520
+And that is that a big part of the of the message of the investigative crucifixion can be innocent because I'm doing for others is that this is additional functions.
+
+424
+00:37:37,761 --> 00:37:42,160
+Because the people and skills don't have the ability to respond to their own sense.
+
+425
+00:37:37,241 --> 00:37:43,200
+They need to step.
+
+426
+00:37:43,680 --> 00:37:54,561
+And so you can put it back element by saying then that is what's already that also the infant can't do it so I can not in any way.
+
+427
+00:37:54,560 --> 00:37:57,440
+There has to be more functionality.
+
+428
+00:37:57,761 --> 00:37:58,401
+That's good.
+
+429
+00:37:58,401 --> 00:37:59,361
+That's right.
+
+430
+00:37:59,361 --> 00:38:02,240
+You can't, that's part of what Dimitri demonstrates.
+
+431
+00:38:02,241 --> 00:38:03,360
+We've got to add it.
+
+432
+00:38:03,361 --> 00:38:08,241
+He demonstrates that you can suffer, that it isn't up to you.
+
+433
+00:38:08,241 --> 00:38:13,441
+You have to accept the situation and the kind of suffering that the situation brings you.
+
+434
+00:38:13,441 --> 00:38:15,120
+But it doesn't, you'll have no problem with that.
+
+435
+00:38:15,120 --> 00:38:17,441
+Everybody's got the kind of self that will make them suffer.
+
+436
+00:38:17,441 --> 00:38:20,961
+Everybody's got desires for which they should suffer.
+
+437
+00:38:21,361 --> 00:38:28,000
+But Dimitri shows that you've got to accept the situation and the suffering that comes to you.
+
+438
+00:38:28,000 --> 00:38:29,921
+And then you do it in the right way.
+
+439
+00:38:29,921 --> 00:38:34,640
+You can't just sort of march in and take it over willfully that you're going to suffer.
+
+440
+00:38:34,640 --> 00:38:35,680
+That's what you're saying.
+
+441
+00:38:35,680 --> 00:38:37,041
+Yeah, accept it.
+
+442
+00:38:37,680 --> 00:38:40,240
+Be receptive to the suffering that's around.
+
+443
+00:38:40,241 --> 00:38:43,681
+So he's going to be a paradigm of three things, it looks like.
+
+444
+00:38:43,680 --> 00:38:46,561
+Be receptive to the suffering that's around.
+
+445
+00:38:47,441 --> 00:38:55,361
+Then fully suffer and accept it.
+
+446
+00:38:55,361 --> 00:39:02,961
+So be receptive to it, accept it and throw yourself into it, and then you can become joyful.
+
+447
+00:39:02,961 --> 00:39:04,721
+He chose all three.
+
+448
+00:39:05,040 --> 00:39:08,800
+I still think we don't get it shown very well.
+
+449
+00:39:08,801 --> 00:39:10,721
+We get it talked about a lot.
+
+450
+00:39:11,120 --> 00:39:12,560
+That's the different problem.
+
+451
+00:39:12,560 --> 00:39:17,601
+I mean, Dostoevsky's clearly got the right idea of what he wants to existentialize.
+
+452
+00:39:18,080 --> 00:39:20,961
+And Dimitri makes lots of speeches about it.
+
+453
+00:39:22,120 --> 00:39:30,921
+And I think the excuse for Dostoevsky is he tended to do this in the, he was going to do this in the second volume of the Brothers, which he didn't write.
+
+454
+00:39:30,921 --> 00:39:32,441
+He's got to end this one.
+
+455
+00:39:32,441 --> 00:39:36,520
+It's already 900 pages long or whatever, depending on your book.
+
+456
+00:39:36,520 --> 00:39:47,720
+And he's got plenty of room in the second one to show, well, Alyasha's got to suffer for his demons, and Lisa's got to suffer her demons, and Yvonne certainly has to suffer.
+
+457
+00:39:47,721 --> 00:39:52,041
+We'll hear more about him before the end, but we won't hear how he ever did it right.
+
+458
+00:39:52,361 --> 00:39:56,520
+Though there's one sentence that suggests that Yvonne finally got it right.
+
+459
+00:39:56,520 --> 00:39:58,120
+I'll tell you when we get there.
+
+460
+00:39:58,441 --> 00:40:02,441
+Anyway, I think the whole suffering issue must be put off for the next book.
+
+461
+00:40:02,441 --> 00:40:04,761
+And all we get really here is speeches.
+
+462
+00:40:04,761 --> 00:40:10,121
+But at least now we understand what the speeches are saying, and that's a step forward, all right?
+
+463
+00:40:10,120 --> 00:40:11,160
+So where were we?
+
+464
+00:40:11,401 --> 00:40:14,040
+On 560, is that where we are?
+
+465
+00:40:14,040 --> 00:40:14,760
+Yes.
+
+466
+00:40:15,721 --> 00:40:19,480
+And all the people are going to sing this hymn of praise.
+
+467
+00:40:21,000 --> 00:40:24,360
+So now I'll read you my old notes, but maybe they're wrong now.
+
+468
+00:40:24,361 --> 00:40:25,080
+Maybe they're not.
+
+469
+00:40:25,080 --> 00:40:26,041
+Let's see.
+
+470
+00:40:27,241 --> 00:40:40,761
+So we're supposed to think like Zosima, that even if you're innocent of any specific crime, you should feel responsible for all the suffering in the world and want to make whatever sacrifices are necessary to help.
+
+471
+00:40:40,761 --> 00:40:48,601
+Now, if that's just empty talk, like it is with Zosima, because he just stays in the monastery, that's not very convincing.
+
+472
+00:40:48,600 --> 00:41:12,721
+But if you think of somebody like Mother Teresa, who suffers her whole life, gives up her comfortable life to live with and help the untouchables in India, then you can see she's not trying to help all the sufferers in the world, but she's trying, she gives her whole life to help the sufferers that are in her world, that are near enough for her to be able to do something about it.
+
+473
+00:41:12,721 --> 00:41:15,760
+And she does that presumably with love and joy.
+
+474
+00:41:15,761 --> 00:41:20,800
+I don't know much about the life of Mother Teresa, but that must be the right sort of guess.
+
+475
+00:41:20,801 --> 00:41:24,480
+If anybody knows more and says I'm wrong, then I better fix it.
+
+476
+00:41:24,480 --> 00:41:26,081
+So he's like that.
+
+477
+00:41:26,080 --> 00:41:30,640
+Dimitri understands sort of applied zosima.
+
+478
+00:41:30,640 --> 00:41:41,761
+In the real world, you suffer the suffering that you've got and fix the suffering around you as much as you can, even if that makes you suffer more.
+
+479
+00:41:41,761 --> 00:41:46,801
+That's the story about how he's going to have to go to Siberia to help with prisoners.
+
+480
+00:41:49,120 --> 00:41:55,041
+But it's wrong to say that that helps other people because he's suffering for them, for all.
+
+481
+00:41:55,040 --> 00:41:58,880
+See, now we've got their interpretation of for all.
+
+482
+00:41:58,881 --> 00:42:02,881
+Not that he's taking on their suffering, he's showing them how to suffer.
+
+483
+00:42:02,881 --> 00:42:04,801
+In that sense, he suffers for all.
+
+484
+00:42:04,961 --> 00:42:05,921
+Like it.
+
+485
+00:42:08,480 --> 00:42:11,681
+He shows how to suffer the right way.
+
+486
+00:42:11,680 --> 00:42:16,400
+To suffer then with humility, not with pride.
+
+487
+00:42:18,160 --> 00:42:32,480
+I'm putting Yvonne aside for a while, but Yvonne and Katerina are, and particularly Yvonne, Katerina's kind of existential double for Yvonne, that Yvonne is the perfect example of how not to suffer.
+
+488
+00:42:32,480 --> 00:42:34,160
+And we'll see how that will.
+
+489
+00:42:34,480 --> 00:42:38,160
+And he also thinks he's being crucified.
+
+490
+00:42:38,480 --> 00:42:41,200
+But Yvonne isn't going to be resurrected in joy.
+
+491
+00:42:41,200 --> 00:42:42,881
+Yvonne is going to die.
+
+492
+00:42:43,040 --> 00:42:45,681
+But I don't want to jump ahead.
+
+493
+00:42:47,281 --> 00:42:49,041
+So let's see now.
+
+494
+00:42:51,281 --> 00:42:53,401
+So we're all guilty.
+
+495
+00:42:53,401 --> 00:42:55,160
+We should all ask forgiveness.
+
+496
+00:42:52,721 --> 00:42:58,441
+We should all make sacrifices to make the world a better place.
+
+497
+00:42:58,761 --> 00:43:04,201
+In that sense, now I'm adding, and in that sense, Dimitri does suffer for all.
+
+498
+00:43:06,040 --> 00:43:10,841
+And so the question is, will Dimitri manage to pull this off?
+
+499
+00:43:10,841 --> 00:43:16,040
+Will he be able to accept three kinds of suffering and show them in the right way?
+
+500
+00:43:16,040 --> 00:43:21,880
+Purification, expiation, and what I'm now going to call exemplary sacrifice.
+
+501
+00:43:21,881 --> 00:43:25,320
+That's the sort of paradigm kind of suffering.
+
+502
+00:43:26,600 --> 00:43:29,480
+And if he does, will he be resurrected?
+
+503
+00:43:29,480 --> 00:43:32,281
+Will he start singing a hymn and be joyful?
+
+504
+00:43:32,281 --> 00:43:35,161
+And now comes this very funny part.
+
+505
+00:43:35,160 --> 00:43:36,601
+I think it's really neat.
+
+506
+00:43:37,321 --> 00:43:49,000
+Whenever anybody gets into one of these big deal existential situations where they've got to make a choice, and it isn't really just a simple choice, it's where their whole life has to go in one direction or another.
+
+507
+00:43:49,000 --> 00:43:50,361
+Guess what happens?
+
+508
+00:43:50,361 --> 00:43:53,641
+You get a battle of the angel and the devil.
+
+509
+00:43:54,200 --> 00:44:02,201
+The God and the devil are fighting, and we now would change it to the angel and the devil are fighting, and the soul of man is the battlefield.
+
+510
+00:44:02,200 --> 00:44:12,281
+So now everything turns on whether he's going to accept suffering as the right kind of crucifixion and get resurrected, and who should show up?
+
+511
+00:44:12,281 --> 00:44:14,441
+But who's the devil?
+
+512
+00:44:14,441 --> 00:44:16,601
+Ratitin shows up.
+
+513
+00:44:18,520 --> 00:44:21,241
+And tries to convince him out of it.
+
+514
+00:44:21,241 --> 00:44:23,401
+Alyasha has said, yeah, you've got to do it.
+
+515
+00:44:23,401 --> 00:44:28,520
+You've got to suffer, or at least be willing to suffer and remember that you were willing to suffer.
+
+516
+00:44:28,520 --> 00:44:37,360
+But then we get a scene, and this is where I think Dostoevsky has this weird sense of humor, and loves doing this devil story.
+
+517
+00:44:37,361 --> 00:44:41,041
+555.
+
+518
+00:44:41,040 --> 00:44:54,080
+So in 555, Alyasha goes to visit Dmitry in prison, and in the middle of 555, you get a scene where something interesting happens.
+
+519
+00:44:54,080 --> 00:44:55,520
+You see what you think.
+
+520
+00:44:55,520 --> 00:45:02,480
+As Alyasha entered the room, set aside for interviews, he came upon Rakitin, who was just saying goodbye to Dmitry.
+
+521
+00:45:02,480 --> 00:45:04,081
+They were both talking loudly.
+
+522
+00:45:04,080 --> 00:45:06,881
+Dimitri was laughing while Rakitin seemed to be grumbling.
+
+523
+00:45:06,881 --> 00:45:11,281
+Rakitin did not like meeting Alyasha, especially of late.
+
+524
+00:45:11,281 --> 00:45:13,361
+Devils don't like meeting angels.
+
+525
+00:45:13,361 --> 00:45:18,161
+He secretly spoke, he scarcely spoke to him and bowed to him stiffly.
+
+526
+00:45:18,160 --> 00:45:26,560
+Seeing Alyasha enter now, he frowned and looked away, as though he were entirely absorbed in buttoning his big warm fur-trimmed overcoat.
+
+527
+00:45:26,560 --> 00:45:28,000
+You see why that's funny?
+
+528
+00:45:28,000 --> 00:45:29,761
+He goes out like this.
+
+529
+00:45:29,761 --> 00:45:43,841
+I mean, the official devil pose when the angel comes in all of a sudden and catches him there trying to fix, undermine Dimitri's crucifixion plan.
+
+530
+00:45:44,401 --> 00:45:45,761
+And how does he do it?
+
+531
+00:45:45,761 --> 00:45:50,000
+Well, how is Rakitin doing it, or has he already done it?
+
+532
+00:45:50,000 --> 00:46:00,000
+Well, by telling Dimitri about the discovery in Paris by Claude Bernard of neurons.
+
+533
+00:46:00,321 --> 00:46:08,480
+And he's told him about neurons because he's going to tell him, well, as long as we're just a bunch of neurons, it doesn't matter whether you expiate it or not.
+
+534
+00:46:08,480 --> 00:46:22,441
+All this existential, he didn't put it this way, Rakitin, but he was, his idea is all this big deal existential business about love and expiation and suffering and joy, that's just a sort of epiphenomenal, philosophers would say.
+
+535
+00:46:22,160 --> 00:46:24,840
+All you really got is a lot of neurons firing.
+
+536
+00:46:25,080 --> 00:46:32,200
+So you might as well just do whatever is most fun because you might as well make your, you know, jiggle your neurons in the best, most pleasant way.
+
+537
+00:46:33,000 --> 00:46:36,441
+Secrete the most dopamine would be the latest version, I guess.
+
+538
+00:46:36,441 --> 00:46:39,321
+But so that's all what's going on.
+
+539
+00:46:39,321 --> 00:46:47,081
+And you, you, and Dimitri sort of admits it on 672.
+
+540
+00:46:47,401 --> 00:46:49,561
+Getting these wrong 557.
+
+541
+00:46:49,560 --> 00:46:51,641
+Okay, here, 557.
+
+542
+00:46:52,281 --> 00:47:01,320
+So when, after Rakitin slinks out and he is driven away by the angel way, then Dimitri tries to explain what they've been talking about.
+
+543
+00:47:01,321 --> 00:47:05,561
+And he says, I'm sorry to lose God.
+
+544
+00:47:05,961 --> 00:47:09,321
+And Alyasha says, what do you mean by sorry to lose God?
+
+545
+00:47:09,321 --> 00:47:14,920
+Then Dimitri, who isn't very bright, but a nice guy, but this is too much for him.
+
+546
+00:47:14,921 --> 00:47:17,801
+He says, imagine inside the nerves in the head.
+
+547
+00:47:17,801 --> 00:47:20,921
+That is, these nerves are there in the brain, damn them.
+
+548
+00:47:20,921 --> 00:47:26,520
+There are sort of little tails, little tails of the nerves, and as soon as they begin quivering, that is, you see.
+
+549
+00:47:26,520 --> 00:47:30,840
+I look at something with my eyes, and they begin quivering, the little tails.
+
+550
+00:47:30,921 --> 00:47:33,401
+When they quiver, then an image appears.
+
+551
+00:47:33,401 --> 00:47:39,480
+It doesn't appear at once, but an instant of second passes, and then something like a movement appears.
+
+552
+00:47:39,480 --> 00:47:41,480
+Not a movement, but not a movement.
+
+553
+00:47:41,480 --> 00:47:44,280
+Devil take the moment and so forth.
+
+554
+00:47:44,281 --> 00:47:46,280
+If it's funny in there, the devil take the moment.
+
+555
+00:47:46,281 --> 00:47:48,681
+That's the Rakitan influence all that.
+
+556
+00:47:48,680 --> 00:47:49,800
+Then he jumps a little.
+
+557
+00:47:49,801 --> 00:47:53,320
+Rakitin explained it all to me yesterday, and it bowled me over.
+
+558
+00:47:53,321 --> 00:47:55,881
+It's wonderful, Alyasha, this science.
+
+559
+00:47:55,881 --> 00:47:58,680
+A new man arising, that I understand.
+
+560
+00:47:58,761 --> 00:48:00,520
+Yet I'm sorry to lose God.
+
+561
+00:48:00,520 --> 00:48:04,040
+The new man arising is this typical Dostoevsky move.
+
+562
+00:48:04,040 --> 00:48:07,081
+There are two versions of the new man arising.
+
+563
+00:48:07,080 --> 00:48:17,841
+The Christian version, being reborn with joy and purity and closeness to others, and the Enlightenment new man.
+
+564
+00:48:17,841 --> 00:48:27,600
+That is, the new man who is completely understood by physics and chemistry and can control his genes and his life and is autonomous and so forth.
+
+565
+00:48:27,600 --> 00:48:37,441
+That new man, in some version, materialist or Kantian or whatever, is the view that Alyasha, that Dostoevsky is against.
+
+566
+00:48:37,761 --> 00:48:39,200
+But they sound the same.
+
+567
+00:48:39,200 --> 00:48:45,121
+So Rakitin's been proposing a resurrection of a sort, the new man arising.
+
+568
+00:48:46,721 --> 00:48:48,401
+Let's see now.
+
+569
+00:48:50,000 --> 00:48:55,841
+And we're going to get into in a minute something very interesting, how Alyasha is going to deal with this.
+
+570
+00:48:57,120 --> 00:49:06,000
+Of course, well, let's see what does Dostoevsky think about this latest news from physics and chemistry and physiology about the neurons.
+
+571
+00:49:06,000 --> 00:49:17,760
+Does he think it must be wrong, the way some people think that evolution must be wrong, and get into a hand-on collision with science and have to claim that there aren't any neurons underlying all our thinking and seeing?
+
+572
+00:49:17,761 --> 00:49:19,761
+Dostoevsky would never do that.
+
+573
+00:49:19,761 --> 00:49:29,201
+He thinks simply that the neurons are doing their wiggling thing, and that's fine, and that's the causal basis of all of our mental states.
+
+574
+00:49:29,200 --> 00:49:32,480
+But it doesn't contradict the existential truth.
+
+575
+00:49:33,921 --> 00:49:42,881
+It doesn't contradict the experience and the meaning that we have, that it's got a material basis in neuron activity.
+
+576
+00:49:42,841 --> 00:49:45,520
+So, and does he try to explain that to Dmitry?
+
+577
+00:49:45,520 --> 00:49:48,000
+No, Dimitri wouldn't understand that for sure.
+
+578
+00:49:48,000 --> 00:49:53,961
+What he does is sort of interesting, but it's sort of subtle because you can't actually say it or see it.
+
+579
+00:49:52,801 --> 00:49:56,041
+He just changes the subject.
+
+580
+00:49:56,361 --> 00:50:02,520
+He just refuses to engage in a discussion of neurons and whether that, and the new man and all that.
+
+581
+00:50:02,520 --> 00:50:08,441
+And within a paragraph, what's this?
+
+582
+00:50:08,600 --> 00:50:10,281
+Dimitri has forgotten it.
+
+583
+00:50:10,281 --> 00:50:11,961
+Well, maybe it's two pages.
+
+584
+00:50:11,961 --> 00:50:13,080
+He's gotten over it.
+
+585
+00:50:13,080 --> 00:50:15,160
+I don't know exactly where he gets over it.
+
+586
+00:50:15,160 --> 00:50:18,121
+I think almost instantly he starts thinking about something else.
+
+587
+00:50:18,120 --> 00:50:19,801
+Yeah, let's just read a little further.
+
+588
+00:50:19,801 --> 00:50:21,961
+When he says, I'm sorry to lose God.
+
+589
+00:50:21,961 --> 00:50:24,280
+Well, that's a good thing, anyway, said Alyasha.
+
+590
+00:50:24,281 --> 00:50:25,881
+That's his whole comment on it.
+
+591
+00:50:25,881 --> 00:50:27,320
+Then I'm sorry to lose God.
+
+592
+00:50:27,321 --> 00:50:28,841
+It's chemistry, Alyasha.
+
+593
+00:50:28,841 --> 00:50:29,320
+Chemistry.
+
+594
+00:50:29,321 --> 00:50:30,921
+There's no help for it, Your Reverence.
+
+595
+00:50:30,921 --> 00:50:32,280
+You must make way for chemistry.
+
+596
+00:50:32,281 --> 00:50:34,281
+And Rakitin dislikes God.
+
+597
+00:50:34,281 --> 00:50:36,361
+Oh, doesn't he dislike him?
+
+598
+00:50:36,361 --> 00:50:40,120
+Well, naturally, he isn't really Satan.
+
+599
+00:50:40,120 --> 00:50:41,321
+He's a devil.
+
+600
+00:50:41,321 --> 00:50:44,600
+The devil, a devil, dislikes God.
+
+601
+00:50:46,200 --> 00:50:51,961
+And then he goes on about without God, no immortality, and so forth.
+
+602
+00:50:51,961 --> 00:50:55,961
+But by the next page, no, let's see when it really changes.
+
+603
+00:50:59,401 --> 00:51:01,721
+Oh, yeah, he's by the top of the next page.
+
+604
+00:51:01,721 --> 00:51:04,280
+He's off talking about his poem.
+
+605
+00:51:04,281 --> 00:51:10,281
+And the poem is all about, it takes him away thinking from the way he was thinking before.
+
+606
+00:51:10,921 --> 00:51:19,961
+By the bottom of 559, about two-thirds down, Dimitri's forgotten all about the neurons, and he's back existentialized.
+
+607
+00:51:20,600 --> 00:51:27,081
+Alyasha, these last two months I found in myself a new man, a new man risen up in me.
+
+608
+00:51:27,080 --> 00:51:28,520
+Well, arisen.
+
+609
+00:51:28,520 --> 00:51:34,041
+I mean, there you get the very, if you didn't know that this was about the resurrection, that's the clue.
+
+610
+00:51:34,040 --> 00:51:36,520
+Just like they've been talking about the cross up to now.
+
+611
+00:51:36,520 --> 00:51:39,361
+Now they're going to talk about the new man arising.
+
+612
+00:51:39,361 --> 00:51:43,920
+And when they do, they're done talking about the neurons.
+
+613
+00:51:44,721 --> 00:51:52,000
+And he gives the story, which I've already read, about how he's going to go for everyone, because somebody must go for all, and so forth.
+
+614
+00:51:52,000 --> 00:52:05,520
+He certainly doesn't put it very well, but whether given not as well as you put it, and you put it, but either Dostoevsky is being true to the fact that Dimitri is not very bright, or Dostoevsky can't do any better.
+
+615
+00:52:05,520 --> 00:52:06,320
+I don't know which.
+
+616
+00:52:06,321 --> 00:52:14,160
+My hunch is, I'm really such a Dostoevsky fan, that he knows perfectly well that Dimitri isn't quite getting it right, and he's got a whole second book, he thinks.
+
+617
+00:52:14,160 --> 00:52:15,520
+He doesn't know he's going to die.
+
+618
+00:52:15,520 --> 00:52:17,840
+And he'll get it right in the second book.
+
+619
+00:52:17,841 --> 00:52:18,720
+He'll show it.
+
+620
+00:52:18,721 --> 00:52:19,760
+He'll explain it.
+
+621
+00:52:19,921 --> 00:52:25,681
+Anyway, here, all we've got is Dimitri's somewhat simple-minded view of it.
+
+622
+00:52:25,680 --> 00:52:28,241
+But now let's see.
+
+623
+00:52:29,841 --> 00:52:37,121
+So there you get the new man, and not the enlightenment kind of new man.
+
+624
+00:52:37,441 --> 00:52:40,480
+And that we just read.
+
+625
+00:52:43,520 --> 00:52:59,361
+And so it's this acceptance of all of this that Dimitri can say that the new man has arisen, because that is the existentialized resurrection story.
+
+626
+00:52:59,361 --> 00:53:15,201
+That's that everybody will come out of the suffering, connected with everybody else, and experiencing joy and knowing that they're in paradise here and now, if they can only do it right, and now, given what you guys say, and Dimitri's going to show them how to do it right.
+
+627
+00:53:15,200 --> 00:53:15,680
+Okay.
+
+628
+00:53:16,000 --> 00:53:22,120
+Now, there's something I can keep thinking in the back of my head I wanted to say about this, which I thought was funny.
+
+629
+00:53:22,600 --> 00:53:23,641
+Lost it.
+
+630
+00:53:21,841 --> 00:53:26,761
+Well, when I remember, I'll come back to it.
+
+631
+00:53:27,080 --> 00:53:30,681
+But I wanted, we have just time to do what I wanted to finish today.
+
+632
+00:53:30,680 --> 00:53:32,760
+But I mean, we have time too for discussion always.
+
+633
+00:53:32,761 --> 00:53:34,441
+So, anybody want to say anything?
+
+634
+00:53:34,441 --> 00:53:43,240
+I think we've now finished the right way of thinking about the resurrection, crucifixion, the crucifixion and resurrection.
+
+635
+00:53:44,680 --> 00:53:47,321
+But we want to see now the wrong way.
+
+636
+00:53:47,640 --> 00:53:52,841
+And we want to see whether the wrong way also is called crucifixion.
+
+637
+00:53:52,841 --> 00:54:03,321
+Because it should be, because Dostoevsky, remember, I started the lecture saying there are two, there's the masochistic side to Christianity, and there's the joy side.
+
+638
+00:54:03,321 --> 00:54:08,121
+And both of them have a claim on the crucifixion and the suffering.
+
+639
+00:54:08,120 --> 00:54:10,841
+So what would it be to get the suffering wrong?
+
+640
+00:54:10,841 --> 00:54:14,120
+Well, I've said already who, but I just want to ensure you are listening.
+
+641
+00:54:14,120 --> 00:54:16,841
+Who is the model for getting the suffering wrong?
+
+642
+00:54:17,160 --> 00:54:17,961
+Yeah.
+
+643
+00:54:17,961 --> 00:54:18,681
+Huh?
+
+644
+00:54:18,680 --> 00:54:20,120
+Yvonne, exactly.
+
+645
+00:54:20,120 --> 00:54:25,881
+So now we're switching to Yvonne and masochistic martyrdom as a parody of crucifixion.
+
+646
+00:54:25,881 --> 00:54:27,641
+That's what's going to happen there.
+
+647
+00:54:27,640 --> 00:54:31,080
+But it's still, it's very tightly related to crucifixion.
+
+648
+00:54:31,080 --> 00:54:33,641
+It's just our wrong way to do it.
+
+649
+00:54:34,600 --> 00:54:36,120
+Oh, now here's the funny thing.
+
+650
+00:54:36,120 --> 00:54:37,880
+No wonder I hadn't quite got to it.
+
+651
+00:54:37,881 --> 00:54:39,801
+I think it's really, really weird.
+
+652
+00:54:39,801 --> 00:54:44,441
+So Dostoevsky, this is one of the weirdest moves Dostoevsky makes.
+
+653
+00:54:44,441 --> 00:54:47,561
+What goes on in his head is unbelievable.
+
+654
+00:54:47,560 --> 00:54:58,520
+So he would like to establish early on in the book this certain relation between Yvonne and Dimitri, which he's going to cash out, say, 500 pages later.
+
+655
+00:54:58,520 --> 00:55:02,840
+So in 257, something really strange happens.
+
+656
+00:55:02,921 --> 00:55:10,961
+I don't know whether I found this or somebody else found this, but I always thought it's one of the funniest little things that Dostoevsky's tucked in here.
+
+657
+00:55:07,640 --> 00:55:14,640
+Okay, on 257, that first full paragraph.
+
+658
+00:55:14,961 --> 00:55:25,841
+They've just been talking about rebellion and Yvonne's despair that he's going to commit suicide later, age of 30.
+
+659
+00:55:25,841 --> 00:55:29,920
+And now Yvonne turned suddenly and went his way without looking back.
+
+660
+00:55:29,921 --> 00:55:34,801
+It was just as Dmitri had left Alyasha the day before, though the parting had been very different.
+
+661
+00:55:34,801 --> 00:55:38,000
+So now we get Yvonne and Dmitry associated.
+
+662
+00:55:38,000 --> 00:55:44,641
+The strange resemblance flashed like an arrow through Alyasha's mind in the distress and rejection of that moment.
+
+663
+00:55:44,640 --> 00:55:47,121
+He waited a little looking after his brother.
+
+664
+00:55:47,120 --> 00:55:51,920
+He noticed that Yvonne swayed as he walked and that his right shoulder was lower than his left.
+
+665
+00:55:51,921 --> 00:55:53,681
+He never noticed it before.
+
+666
+00:55:54,000 --> 00:55:56,000
+What is he doing?
+
+667
+00:55:56,000 --> 00:55:57,041
+Huh?
+
+668
+00:55:57,680 --> 00:56:01,121
+Why is he telling you this ridiculous detail?
+
+669
+00:56:01,761 --> 00:56:04,080
+Well, his right shoulder is lower than his left.
+
+670
+00:56:04,080 --> 00:56:04,560
+What is he?
+
+671
+00:56:04,721 --> 00:56:06,401
+He's carrying a cross.
+
+672
+00:56:06,401 --> 00:56:07,761
+That's what's happening.
+
+673
+00:56:07,761 --> 00:56:12,321
+And he's just planting that there, and nobody's going to notice.
+
+674
+00:56:13,040 --> 00:56:20,401
+And he's putting Yvonne and Dmitri both together as two different versions of carrying a cross, and he's just throwaway.
+
+675
+00:56:22,721 --> 00:56:23,520
+Period.
+
+676
+00:56:23,520 --> 00:56:30,561
+But now, so 500 pages later, he's ready to deal with it head on on 742.
+
+677
+00:56:33,120 --> 00:56:33,760
+74?
+
+678
+00:56:33,841 --> 00:56:35,681
+I'm always on 616.
+
+679
+00:56:35,680 --> 00:56:39,760
+I've got different pages in here for a different version, different translation.
+
+680
+00:56:40,241 --> 00:56:42,000
+I'll keep looking at the wrong ones.
+
+681
+00:56:42,000 --> 00:56:43,681
+6.16.
+
+682
+00:56:43,680 --> 00:57:00,281
+So, just to show you that Yvonne also thinks in terms of crucifixion, he says he's going to go, I'm getting way ahead of where some of you are, but it's not going to affect the who done it part of the story.
+
+683
+00:57:00,921 --> 00:57:12,520
+But Yvonne is going to go to the trial of Dimitri, and he's going to confess his responsibility for the death of old Karamat.
+
+684
+00:57:12,520 --> 00:57:16,921
+So, he says, tomorrow, the cross, not the gallows.
+
+685
+00:57:16,921 --> 00:57:23,880
+Well, we don't know what I can't explain what that means, but that he sees what he's going to do at the trial as the crucifixion.
+
+686
+00:57:23,881 --> 00:57:26,200
+So, he's got his own version of the cross.
+
+687
+00:57:26,200 --> 00:57:27,881
+That's the important thing.
+
+688
+00:57:28,441 --> 00:57:55,241
+And Yvonne is going to suffer, he thinks, by confessing at the trial that his own selfish impulses, his specific evil desires, namely that old Karamat subject, get killed.
+
+689
+00:57:59,160 --> 00:58:02,120
+But Yvonne can't really take it.
+
+690
+00:58:02,921 --> 00:58:09,161
+He wants to face his dark side, confess his involvement, so forth, suffer for it.
+
+691
+00:58:09,480 --> 00:58:18,041
+But instead, out of pride, he decides, he tries to punish himself and thereby show that he's better than everybody else.
+
+692
+00:58:18,600 --> 00:58:31,000
+Instead of seeing that he's as bad as everybody else, he has this funny move that if he sees and shows that he's as bad as everybody else, that makes him better than everybody else.
+
+693
+00:58:31,000 --> 00:58:33,400
+Because they aren't just seeing it and showing it.
+
+694
+00:58:33,401 --> 00:58:39,520
+So he's turning his confession into a kind of, I'm better than you are.
+
+695
+00:58:37,560 --> 00:58:41,281
+You can see this on 188.
+
+696
+00:58:44,160 --> 00:58:53,681
+First, you see it in his telling Katerina something which applies to him because he can understand it because it's him too.
+
+697
+00:58:53,680 --> 00:59:00,880
+He says at the top of 188, your life, Katerina, will be spent in painful brooding over your own feelings, your own heroism, and your own suffering.
+
+698
+00:59:01,200 --> 00:59:03,120
+But in the end, that suffering will be softened.
+
+699
+00:59:03,120 --> 00:59:06,320
+This is a kind of parody of what Zasma tells the peasant woman.
+
+700
+00:59:06,721 --> 00:59:14,400
+But in the end, that suffering will be softened and will pass into contemplation of the fulfillment of a bold and proud design.
+
+701
+00:59:14,401 --> 00:59:15,280
+See, this is proud.
+
+702
+00:59:15,281 --> 00:59:19,681
+Yes, proud it certainly is, and desperate in any case, but a triumph for you.
+
+703
+00:59:19,680 --> 00:59:26,641
+And the consciousness of it will at last be a source of complete satisfaction and will make you resigned to everything else.
+
+704
+00:59:27,361 --> 00:59:34,561
+It turns into a weird kind of joy to have managed to pull off this prideful thing.
+
+705
+00:59:34,560 --> 00:59:39,840
+And this is all part of this masochistic parody of true crucifixion.
+
+706
+00:59:43,680 --> 00:59:49,921
+He's telling Katerina that her prideful pain is going to be good for her.
+
+707
+00:59:51,040 --> 01:00:00,641
+And I don't think I need to read this.
+
+708
+01:00:02,881 --> 01:00:05,441
+No, no, I think not, just a second.
+
+709
+01:00:10,560 --> 01:00:16,081
+Well, just so you can see the connection, 249, I put it in here for something.
+
+710
+01:00:16,080 --> 01:00:24,280
+I mean, the Grand Inquisitor, remember I said, thinks of carrying the cross as this kind of masochistic suffering.
+
+711
+01:00:24,281 --> 01:00:26,840
+So he says about 15 lines from the bottom.
+
+712
+01:00:27,160 --> 01:00:28,760
+They had borne their cross.
+
+713
+01:00:28,761 --> 01:00:33,640
+They had endured scores of years in the barren, hungry wilderness, living on locusts and roots.
+
+714
+01:00:33,640 --> 01:00:43,720
+I mean, not, you know, confessing to their fellow human beings and going to prison and expiating their crimes and trying to fix the suffering in the world like Mother Teresa.
+
+715
+01:00:43,721 --> 01:00:48,041
+They just go out and eat lots of ugly things, living on locusts and roots.
+
+716
+01:00:48,040 --> 01:00:56,280
+And thou mayest indeed point with pride at those children of freedom, of free love, of free and splendid sacrifice in thy name, and so forth.
+
+717
+01:00:56,281 --> 01:01:01,480
+Well, that's the wrong view clearly presented by Yvonne.
+
+718
+01:01:01,480 --> 01:01:03,000
+He sees it in Katerina.
+
+719
+01:01:03,000 --> 01:01:04,760
+He sees it in the Grand Inquisitor.
+
+720
+01:01:04,761 --> 01:01:07,081
+And now we've got to see it in him.
+
+721
+01:01:07,080 --> 01:01:16,681
+So on 569, it's all got to do with his sense of involvement in the murder.
+
+722
+01:01:25,640 --> 01:01:32,600
+About 10 lines down, Alyasha is telling him, I only know one thing, Alyasha went on, still almost in a whisper.
+
+723
+01:01:32,600 --> 01:01:34,601
+It wasn't you killed father.
+
+724
+01:01:34,600 --> 01:01:36,200
+What do you mean, not you?
+
+725
+01:01:36,200 --> 01:01:37,881
+Yvonne was thunderstruck.
+
+726
+01:01:37,881 --> 01:01:41,160
+It was not you who killed father, not you, Alyasha repeated.
+
+727
+01:01:41,801 --> 01:01:44,281
+The silence lasted for half a minute.
+
+728
+01:01:44,281 --> 01:01:45,401
+I know I didn't.
+
+729
+01:01:45,401 --> 01:01:46,200
+Are you raving?
+
+730
+01:01:46,200 --> 01:01:48,601
+said Yvonne, with a pale, distorted smile.
+
+731
+01:01:48,600 --> 01:01:50,361
+His eyes were riveted on Alyasha.
+
+732
+01:01:50,361 --> 01:01:52,281
+They were standing under a lamppost.
+
+733
+01:01:52,281 --> 01:01:56,600
+No, Yvonne, you told yourself several times that you're the murderer.
+
+734
+01:01:56,601 --> 01:02:00,601
+And there's something else.
+
+735
+01:02:00,601 --> 01:02:01,320
+Let's see.
+
+736
+01:02:01,481 --> 01:02:02,680
+Let me skip a little.
+
+737
+01:02:03,000 --> 01:02:09,280
+He was speaking now, as it were, not of himself, not of his own will, but obeying some irresistible command.
+
+738
+01:02:07,881 --> 01:02:14,801
+You have accused yourself and have confessed to yourself that you are the murderer and no one else, that you didn't do it.
+
+739
+01:02:15,120 --> 01:02:16,000
+You're mistaken.
+
+740
+01:02:16,000 --> 01:02:16,961
+You are not the murderer.
+
+741
+01:02:16,961 --> 01:02:17,520
+Do you hear?
+
+742
+01:02:17,521 --> 01:02:18,560
+It was not you.
+
+743
+01:02:18,561 --> 01:02:20,640
+God has sent me to tell you.
+
+744
+01:02:20,881 --> 01:02:35,520
+Where God always means, I think, just the connectedness, the power of the true connectedness is what makes Alyaka able to see these things and say these things that other people can't see and say.
+
+745
+01:02:41,921 --> 01:02:53,680
+And after that, Yvonne, who you know can't ever face anybody who sees anything wrong with him, and he thinks, it's so weird, I realize.
+
+746
+01:02:53,681 --> 01:03:02,560
+Yvonne wants to take on the crime just to show that he's better than anybody else because he at least admits that he did it.
+
+747
+01:03:02,801 --> 01:03:06,881
+And so Alyasha is sort of throwing cold water on this plan of Yvonne.
+
+748
+01:03:06,961 --> 01:03:22,160
+So at the top of 570, in the second paragraph, as soon as Alyasha's told him this, he says, Alyasha, he said with a cold smile, I can't endure prophets and epileptics, messengers from God especially, and you know that only too well.
+
+749
+01:03:22,160 --> 01:03:24,240
+I don't want to see you again from this moment on.
+
+750
+01:03:24,240 --> 01:03:25,360
+Leave me at this turning.
+
+751
+01:03:26,000 --> 01:03:28,000
+It's the way to your rooms.
+
+752
+01:03:28,000 --> 01:03:30,000
+You don't come to see me tonight.
+
+753
+01:03:30,160 --> 01:03:30,801
+So forth.
+
+754
+01:03:30,801 --> 01:03:33,040
+So that he breaks with Alyasha.
+
+755
+01:03:33,440 --> 01:03:37,120
+And now all kinds of interesting things happen to Yvonne.
+
+756
+01:03:38,080 --> 01:03:50,720
+But first, just to show you that he wants to confess, because he wants to show that he's the aloof, perfect judge of himself and everybody else in the universe.
+
+757
+01:03:51,360 --> 01:04:05,801
+It's on page 586, about ten lines down.
+
+758
+01:04:05,801 --> 01:04:11,160
+He decided to sacrifice 30,000 on arranging Dimitri's escape.
+
+759
+01:04:11,160 --> 01:04:15,560
+On his return from seeing him, he was very mournful and dispirited.
+
+760
+01:04:15,561 --> 01:04:24,680
+He suddenly began to feel that he was anxious for Dimitri's escape, not only to heal that so replaced by sacrificing 30,000, but for other reasons.
+
+761
+01:04:24,681 --> 01:04:26,761
+It's because I am as much a murderer.
+
+762
+01:04:27,080 --> 01:04:29,160
+Is it because I'm as much a murderer at heart?
+
+763
+01:04:29,160 --> 01:04:30,360
+He asked himself.
+
+764
+01:04:30,360 --> 01:04:34,040
+Something very deep down seemed burning and rankling in his soul.
+
+765
+01:04:34,040 --> 01:04:36,200
+His pride above all suffered cruelly.
+
+766
+01:04:36,841 --> 01:04:39,000
+He's got this complicated pride.
+
+767
+01:04:39,000 --> 01:04:43,320
+One, he doesn't want to think that he's like Dimitri, a murderer.
+
+768
+01:04:43,320 --> 01:04:49,881
+Two, he wants to think, yes, he's a murderer, but he's such a generous murderer that he's going to confess it.
+
+769
+01:04:49,881 --> 01:04:58,921
+You'll see in a minute that the devil, who knows exactly what's going on, tells him that on 599, maybe.
+
+770
+01:04:59,080 --> 01:05:00,680
+I owe you a quote.
+
+771
+01:05:00,921 --> 01:05:05,961
+This kind of funny reversal that he's doing in his head.
+
+772
+01:05:09,481 --> 01:05:18,681
+Well, just the first paragraph of section 9 on 599, he's going to justify himself to himself, it says at the end of the paragraph.
+
+773
+01:05:18,681 --> 01:05:20,921
+That's what he has to do, he thinks.
+
+774
+01:05:20,921 --> 01:05:24,440
+But that's not still the best quote for it.
+
+775
+01:05:24,440 --> 01:05:27,720
+Christ 6.18.
+
+776
+01:05:27,721 --> 01:05:29,400
+Now that's what the devil tells him.
+
+777
+01:05:29,400 --> 01:05:34,440
+And the devil says the right thing to him.
+
+778
+01:05:35,160 --> 01:05:39,360
+I'm going to talk next time about Yvonne's whole encounter with the devil.
+
+779
+01:05:39,921 --> 01:05:45,280
+But just the devil is very smart about Yvonne for reasons that we'll see when you get there.
+
+780
+01:05:45,280 --> 01:05:49,600
+But then he says, at the bottom of 6.17, you are going from pride, he says.
+
+781
+01:05:49,601 --> 01:05:52,400
+You'll stand up and say, it was I that killed him.
+
+782
+01:05:52,400 --> 01:05:54,240
+And why do you writhe with horror?
+
+783
+01:05:54,240 --> 01:05:55,040
+You are lying.
+
+784
+01:05:55,040 --> 01:05:56,320
+I despise your opinion.
+
+785
+01:05:56,320 --> 01:05:57,841
+I despise your horror.
+
+786
+01:05:57,841 --> 01:05:59,120
+He said that about me.
+
+787
+01:05:59,120 --> 01:06:00,801
+The devil said that about Yvonne.
+
+788
+01:06:00,801 --> 01:06:02,961
+And do you know you are long, now the devil again?
+
+789
+01:06:02,961 --> 01:06:05,360
+And do you know you are longing for praise?
+
+790
+01:06:05,360 --> 01:06:07,520
+Quote, he's a criminal, a murderer.
+
+791
+01:06:07,521 --> 01:06:08,881
+But what nobility?
+
+792
+01:06:08,881 --> 01:06:12,240
+He wanted to save his brother, and he confessed.
+
+793
+01:06:12,641 --> 01:06:17,600
+And so that's his convoluted motives in all this.
+
+794
+01:06:18,561 --> 01:06:30,480
+And he's also jealous of Dimitri because Dimitri can accept his crime, not out of pride, but out of proper humility.
+
+795
+01:06:30,481 --> 01:06:33,921
+That's his way on 7.14, way, way at the end.
+
+796
+01:06:33,921 --> 01:06:34,801
+It doesn't matter.
+
+797
+01:06:34,801 --> 01:06:36,720
+He doesn't give away anything.
+
+798
+01:06:38,000 --> 01:06:43,360
+This is Katerina explaining what's going on in Yvonne's crazy head.
+
+799
+01:06:43,360 --> 01:06:46,080
+He talked about, first full paragraph.
+
+800
+01:06:46,080 --> 01:06:48,160
+He talked about some hymn.
+
+801
+01:06:48,160 --> 01:06:54,961
+He went on, some hymn she went on again, some cross he has to bear, some duty.
+
+802
+01:06:54,961 --> 01:06:58,480
+I remember Yvonne told me a great deal about it.
+
+803
+01:06:58,801 --> 01:07:04,961
+And if you knew how he taught, Katerina cried suddenly with feelings she could not repress.
+
+804
+01:07:04,961 --> 01:07:14,640
+If you only knew how he loved that wretched man at the moment and how he hated him at the same time, that's because he both knows how to suffer and not know.
+
+805
+01:07:15,280 --> 01:07:16,561
+Dimitri knows how to suffer.
+
+806
+01:07:16,561 --> 01:07:18,400
+Yvonne can't get it right.
+
+807
+01:07:18,400 --> 01:07:22,400
+But they're both trying to get the right suffering for this crime.
+
+808
+01:07:22,681 --> 01:07:30,040
+So Dmitry could turn it into joy by confessing and asking forgiveness, humbling himself, and so forth.
+
+809
+01:07:30,040 --> 01:07:40,520
+But Yvonne, back to lacerations, only creates more suffering because he's got into this state of saying he wants to spit in the faces of the jurors.
+
+810
+01:07:40,521 --> 01:07:41,160
+I haven't read that.
+
+811
+01:07:41,160 --> 01:07:42,680
+It will come across that.
+
+812
+01:07:43,000 --> 01:07:48,440
+Now, I want to say one more thing, because it's such a funny kind of thing.
+
+813
+01:07:48,440 --> 01:07:49,720
+I'll leave you with that.
+
+814
+01:07:50,681 --> 01:07:59,720
+We're going to go back now to where Yvonne is on his way to see Shmerzhakov, and something really weird happens.
+
+815
+01:07:59,721 --> 01:08:01,961
+This is not typical Dostoevsky.
+
+816
+01:08:01,961 --> 01:08:04,681
+This is so bizarre that even Dostoevsky wouldn't come.
+
+817
+01:08:04,681 --> 01:08:07,160
+It's the wrong kind of bizarre, maybe, but it's interesting.
+
+818
+01:08:07,160 --> 01:08:09,561
+Ivan suddenly came upon a drunken peasant.
+
+819
+01:08:09,561 --> 01:08:10,520
+He's walking along.
+
+820
+01:08:10,521 --> 01:08:15,640
+He was wearing a coarse patched coat and was walking zigzag, grumbling, and swearing to himself.
+
+821
+01:08:15,641 --> 01:08:21,000
+Then suddenly he began singing in a husky, drunken voice: Ah, Vanka's gone to Petersburg.
+
+822
+01:08:21,000 --> 01:08:23,400
+I won't wait till he comes back.
+
+823
+01:08:23,881 --> 01:08:25,881
+You cipher that?
+
+824
+01:08:26,200 --> 01:08:28,600
+Why does that upset Yvonne so much?
+
+825
+01:08:29,561 --> 01:08:31,560
+It's really, really weird.
+
+826
+01:08:31,881 --> 01:08:35,640
+The peasant is singing, in fact, go ahead.
+
+827
+01:08:35,961 --> 01:08:37,961
+Yes, but why this particular thing?
+
+828
+01:08:37,961 --> 01:08:41,000
+I mean, what's so striking about what the peasant is singing?
+
+829
+01:08:41,000 --> 01:08:43,160
+Why does it apply to Yvonne?
+
+830
+01:08:45,721 --> 01:08:46,440
+Yes.
+
+831
+01:08:46,440 --> 01:08:55,641
+One, Yvonne went to Moscow, so one plan has it, and leaves so that Dmitry could murder old Karamatsov.
+
+832
+01:08:55,641 --> 01:08:59,801
+That's got translated into gone to Petersburg and I won't wait till he comes back.
+
+833
+01:08:59,801 --> 01:09:00,921
+But who's Vanka?
+
+834
+01:09:00,921 --> 01:09:02,760
+That's the funny part.
+
+835
+01:09:02,761 --> 01:09:06,360
+Isn't Vanka a nicknamed for Yvonne on that handout?
+
+836
+01:09:06,360 --> 01:09:08,080
+Okay, so there, it's right on.
+
+837
+01:09:07,801 --> 01:09:08,801
+I mean, I don't know.
+
+838
+01:09:08,961 --> 01:09:16,881
+I mean, I think Dostoevsky, who was usually a realist, who really pushed it a bit there, but the peasant is actually singing the guilt of Yvonne.
+
+839
+01:09:16,881 --> 01:09:20,320
+And of course, Yvonne is very, very annoyed about that.
+
+840
+01:09:20,320 --> 01:09:22,480
+I'm just going to finish this paragraph.
+
+841
+01:09:22,801 --> 01:09:26,240
+Yvonne felt an intense hatred for him before he had thought about him.
+
+842
+01:09:26,240 --> 01:09:29,440
+He realized his presence and he knocked him down.
+
+843
+01:09:29,921 --> 01:09:31,520
+He had an impulse to knock him down.
+
+844
+01:09:31,521 --> 01:09:37,440
+At that moment, they met, and the peasant, with a violent lurch, fell against Yvonne, who pushed him back furiously.
+
+845
+01:09:37,440 --> 01:09:39,921
+And he gave an oof and he fall to the ground.
+
+846
+01:09:39,921 --> 01:09:41,520
+And Yvonne stepped up to him.
+
+847
+01:09:41,521 --> 01:09:43,921
+He was lying on his back, unconscious.
+
+848
+01:09:43,921 --> 01:09:48,320
+He will freeze to death, thought Yvonne, and he went on his way to Smersh.
+
+849
+01:09:48,320 --> 01:09:56,000
+Now, that's sort of a chance he had to do something good.
+
+850
+01:09:56,000 --> 01:10:08,320
+And it's just one more thing that when it reminds him of his guilt, he gets in, he feels, he resists doing anything about it.
+
+851
+01:10:08,320 --> 01:10:14,160
+But let me just try a tiny bit more, because I will finish a kind of unit here.
+
+852
+01:10:14,481 --> 01:10:18,961
+So he's left him lying on the ground on 587.
+
+853
+01:10:19,601 --> 01:10:27,120
+And suddenly he feels on 598 a desire to confess.
+
+854
+01:10:29,521 --> 01:10:39,360
+And all of a sudden, for, we'll see how long, Yvonne is in the saved, it looks like he's in a savable dimension.
+
+855
+01:10:39,360 --> 01:10:42,000
+The snowstorm, the middle of 598.
+
+856
+01:10:42,000 --> 01:10:43,520
+The snowstorm was still raging.
+
+857
+01:10:43,521 --> 01:10:47,040
+He walked the first few steps boldly, but suddenly he began staggering.
+
+858
+01:10:47,040 --> 01:10:49,120
+It's something physical, he thought, with a grin.
+
+859
+01:10:49,120 --> 01:10:51,440
+Something like joy was springing up in his heart.
+
+860
+01:10:51,440 --> 01:10:53,721
+He was conscious of unbounded resolution.
+
+861
+01:10:52,881 --> 01:10:57,160
+He would make an end to this wavering that had so tortured him of late.
+
+862
+01:10:57,400 --> 01:11:02,120
+His determination was taken, and now it will not be changed, he thought with relief.
+
+863
+01:11:02,120 --> 01:11:04,841
+At that moment, he stumbled against something and almost fell down.
+
+864
+01:11:04,841 --> 01:11:10,440
+Stopping short, he saw at his feet the peasant who he had knocked down, still lying unconscious and motionless.
+
+865
+01:11:10,440 --> 01:11:12,921
+The snow had almost covered his face.
+
+866
+01:11:12,921 --> 01:11:14,841
+Yvonne lifted him in his arms.
+
+867
+01:11:14,841 --> 01:11:15,961
+Can you believe it?
+
+868
+01:11:15,961 --> 01:11:20,120
+He's never touched another human being in the course of the book, as far as I know.
+
+869
+01:11:20,120 --> 01:11:27,160
+And now he's got his arms around, and he's practically hugging and carrying the unconscious peasant.
+
+870
+01:11:27,481 --> 01:11:37,160
+And it looks like, and he's going to go confess, really confess, not out of pride, but out of trying to suffer for what he did that was wrong, in the right way.
+
+871
+01:11:37,160 --> 01:11:40,120
+But, this is the last comment, it doesn't last.
+
+872
+01:11:40,120 --> 01:11:47,961
+Just as he reached his own house, he stopped short, asking himself suddenly if he'd better not go at once to the prosecutor and tell him.
+
+873
+01:11:47,961 --> 01:11:50,120
+He decided the question quickly.
+
+874
+01:11:50,120 --> 01:11:53,560
+Everything together tomorrow, he whispered to himself.
+
+875
+01:11:53,561 --> 01:11:59,480
+And strange to say, almost all his gladness and self-satisfaction passed in an instant.
+
+876
+01:11:59,481 --> 01:12:12,921
+As he entered his room, he felt something like a touch of ice on his heart, like a recollection, or more exactly, a reminder of something agonizing and revolting that was in the room at that moment and had been there before.
+
+877
+01:12:13,240 --> 01:12:13,801
+Who's that?
+
+878
+01:12:13,801 --> 01:12:16,200
+Anybody read far enough to know?
+
+879
+01:12:16,521 --> 01:12:17,801
+That's the devil.
+
+880
+01:12:17,801 --> 01:12:25,080
+I mean, and why is it that he suddenly lost his resolution to confess?
+
+881
+01:12:25,080 --> 01:12:33,240
+Because Dostoevsky has the idea that you can only do it impulsively, because otherwise all your bad character will take over.
+
+882
+01:12:33,240 --> 01:12:39,681
+And he had this impulsive moment when he was going to go and confess right away to the police, and then he thought, wait till tomorrow.
+
+883
+01:12:40,000 --> 01:12:43,440
+As soon as he thought, wait till tomorrow, he lost his momentum.
+
+884
+01:12:43,440 --> 01:12:45,200
+He's not going to confess.
+
+885
+01:12:45,200 --> 01:12:52,881
+In fact, he's going to go into a very bad direction next time because he gets to see the devil.

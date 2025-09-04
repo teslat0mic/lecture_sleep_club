@@ -1,0 +1,2918 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:10,479
+Remember, I started off last time saying the phenomena that he starts out being interested in in this chapter is the phenomena of perceptual constancy.
+
+2
+00:00:10,799 --> 00:00:26,639
+And he thinks that if you understand properly the phenomena of perceptual constancy, then you'll have a chance at understanding the phenomenon of experiencing objects as real objects, the way we do in our everyday lived experience.
+
+3
+00:00:26,639 --> 00:00:34,320
+And I went through and I said there's two different kinds of wrong ways to account for the phenomena of perceptual constancy.
+
+4
+00:00:34,320 --> 00:00:55,559
+The empiricist way that, at least in the Herder version, fails to make the distinction between experiencing, say, the size of the door to be a certain size, on the one hand, and experiencing that size in a certain way as I get closer to and farther away from the door.
+
+5
+00:00:55,560 --> 00:00:59,239
+So the empiricist failed to make that basic distinction.
+
+6
+00:00:59,239 --> 00:01:10,760
+It seems pretty clear that there is a distinction between the size that the door looks to be and the way I experience that size or the way that size looks in the given context.
+
+7
+00:01:10,760 --> 00:01:38,680
+Then I said the intellectualist does make that distinction, but what the intellectualist fails to notice is that when I experience the, for instance, distance to, when I take into account the distance to the object in order to see the way its size looks here, I take it into account by experiencing it as a determinate value, 13.
+
+8
+00:01:38,680 --> 00:02:03,479
+And Velopolti wants to insist that there's an essential kind of indeterminacy in my experience of these contextual features, like the distance to the object, like the experience of the lighting context in which the color is presented, and like the experience of the orientation of the object with respect to me.
+
+9
+00:02:03,480 --> 00:02:05,720
+So there's an essential kind of indeterminacy.
+
+10
+00:02:05,720 --> 00:02:15,159
+So the intellectualists were right between the size that I see the thing to be and the way that size looks at the current distance.
+
+11
+00:02:15,159 --> 00:02:20,199
+But they didn't make the distinction in a way that accords with the phenomenon.
+
+12
+00:02:20,199 --> 00:02:43,040
+So we need to say something about what Mario Holti means when he says that I experience the distance to an object, or I experience the lighting context, and he talks about lighting a lot in this, in relation to this, or I experience the orientation of the object indeterminately.
+
+13
+00:02:43,039 --> 00:02:44,560
+We need to say something about what that means.
+
+14
+00:02:44,560 --> 00:02:50,959
+And I said last time, we don't want it working to experience, say, the distance to something determinately.
+
+15
+00:02:50,959 --> 00:02:57,760
+The real estate agent might be able to do that once she walks into the room and says 17 by 21.
+
+16
+00:02:57,760 --> 00:03:01,839
+But that's not the way we normally experience the distance to something.
+
+17
+00:03:01,839 --> 00:03:10,240
+So how do we normally experience the distance to something in our average everyday engaged experiences?
+
+18
+00:03:10,240 --> 00:03:22,800
+And in order to introduce that, I pointed towards the passage on my page 302, which is the passage about the painting.
+
+19
+00:03:22,799 --> 00:03:24,000
+351.
+
+20
+00:03:24,320 --> 00:03:26,800
+351 in your version.
+
+21
+00:03:29,839 --> 00:03:31,440
+352, okay.
+
+22
+00:03:31,600 --> 00:03:38,159
+I'll just start, so I'll start the new stuff today by reading this passage again.
+
+23
+00:03:38,480 --> 00:03:50,639
+So remember, right above where he starts talking about the painting, he says, for science and objective thought, an apparently small object, I would have that passage.
+
+24
+00:03:50,639 --> 00:03:51,360
+I don't see it.
+
+25
+00:03:51,360 --> 00:03:55,279
+In my version, it's about 10 lines down from the top of 302.
+
+26
+00:03:55,279 --> 00:03:58,239
+351, two-thirds of the way to the bottom.
+
+27
+00:03:58,240 --> 00:04:03,760
+For science and objective thought, and apparently small objects seen 100 yards away.
+
+28
+00:04:04,399 --> 00:04:05,159
+I got it, you wanted to.
+
+29
+00:04:05,279 --> 00:04:06,079
+Okay, yes.
+
+30
+00:04:06,079 --> 00:04:06,639
+Okay.
+
+31
+00:04:06,639 --> 00:04:07,679
+Three quarters of the way.
+
+32
+00:04:07,839 --> 00:04:08,479
+Three quarters.
+
+33
+00:04:09,800 --> 00:04:21,880
+For science for science and objective thought, and apparently small objects seen 100 yards away is indistinguishable from the same object seen ten yards away at a greater angle.
+
+34
+00:04:22,199 --> 00:04:25,719
+So this is the the kind of empiricist view.
+
+35
+00:04:25,719 --> 00:04:34,359
+There's no difference between the the size it looks to be and the way that size looks at 100 yards as opposed to at 10 yards.
+
+36
+00:04:34,599 --> 00:04:36,440
+The object is nothing, okay.
+
+37
+00:04:36,440 --> 00:04:45,959
+But but for me, the perceiver, the object 100 yards away, is not as real and present in the sense in which it is at 10 yards.
+
+38
+00:04:45,959 --> 00:04:58,359
+And I identify the object in all its positions, at all distances, at all appearances, insofar as all the perspectives converge towards the perception, which I attain at a certain distance and with a certain typical orientation.
+
+39
+00:04:58,360 --> 00:05:01,480
+So I'm going to stop there for just a second before we get to the painting.
+
+40
+00:05:01,480 --> 00:05:06,600
+So at 100 yards, the object's not as real and present.
+
+41
+00:05:06,919 --> 00:05:13,639
+Realness and presence of an object, that doesn't seem to be anything like a determinate quantity.
+
+42
+00:05:13,959 --> 00:05:21,159
+It's not like experiencing the distance to the object to be 17 feet or the size of the object to be 6 feet.
+
+43
+00:05:21,159 --> 00:05:36,280
+Somehow, the way in which I experience the distance to an object, 100 yards in this case, is in terms of how real and present the object at 100 yards is for me.
+
+44
+00:05:36,600 --> 00:05:49,720
+And to say that it's not as real and present as I'd like it to be, or as it is at 10 yards, is to say in some sense that I can't get a very good perceptual grip on it.
+
+45
+00:05:49,720 --> 00:05:51,480
+I can't see it very well.
+
+46
+00:05:51,480 --> 00:05:54,280
+I can't get a good experience of it.
+
+47
+00:05:54,279 --> 00:06:00,440
+If I'm trying to get a sense of what size it is, this is too far away for me to be able to do that.
+
+48
+00:06:00,720 --> 00:06:01,200
+Okay?
+
+49
+00:06:01,519 --> 00:06:12,480
+And now I think it's in the context of that understanding of the experience of distance that you can understand properly what he means when he starts to talk about the picture.
+
+50
+00:06:12,480 --> 00:06:20,159
+This crucial perception ensures the unity of the perceptual process and draws into it all other appearances.
+
+51
+00:06:20,159 --> 00:06:32,639
+For each object, as for each picture in a knowledge gallery, there's an optimum distance from which it requires to be seen, a direction viewed from which it vouchsafes most of itself.
+
+52
+00:06:32,639 --> 00:06:38,800
+At a shorter or greater distance, we have merely a perception blurred through excess or deficiency.
+
+53
+00:06:38,799 --> 00:06:45,600
+We therefore tend towards the maximum of visibility and seek a better focus as with a microscope.
+
+54
+00:06:45,600 --> 00:06:58,880
+Tending towards the maximum visibility, that's this notion of maximum grip, that Mel Polty is always working in the background from L, but that he very rarely makes explicit.
+
+55
+00:06:58,880 --> 00:07:09,040
+That's this notion of the idea that if it's 100 yards away, I find myself drawn to get a bit closer in order to see its size well.
+
+56
+00:07:09,039 --> 00:07:21,120
+Or if I'm in the museum, you're in the museum, you're walking by, there's an enormous painting on the wall, you see it, and you automatically find yourself stepping back in order to see the painting better.
+
+57
+00:07:21,600 --> 00:07:22,960
+In order to see the painting better.
+
+58
+00:07:22,960 --> 00:07:29,760
+Of course, what the appropriate distance is will depend on which aspect of the object you're interested in.
+
+59
+00:07:30,480 --> 00:07:38,160
+What the appropriate distance for a ta for a particular task is, will depend upon what aspect of the object you're trying to focus on.
+
+60
+00:07:38,159 --> 00:07:43,600
+But the object itself will be understood in terms of these sort of background norms.
+
+61
+00:07:43,600 --> 00:08:04,600
+Now, someone asked last time, what's the difference between this optimum distance, the optimum distance at which I feel myself to be able to see the thing best, and the optimum that the empiricists think is the distance that presents the true size of the object.
+
+62
+00:08:04,600 --> 00:08:17,960
+And I said something last time about how the optimum distance for the empiricist could just be a statistical norm, whereas the optimum distance for the right phenomenological view is a felt norm.
+
+63
+00:08:17,960 --> 00:08:22,760
+I immediately feel myself drawn in in order to see the picture a little bit better.
+
+64
+00:08:23,000 --> 00:08:27,399
+I find myself having to go back in order to see the picture better.
+
+65
+00:08:27,399 --> 00:08:52,919
+And if you look now on page, well, my 299, which is the opening page of the chapter, for you it is, okay, so the second paragraph, the second full sentence, he says, these are no truer than any other.
+
+66
+00:08:53,240 --> 00:08:55,800
+So, well, let's read the first sentence.
+
+67
+00:08:56,760 --> 00:08:58,360
+We'll read from the beginning of the paragraph.
+
+68
+00:08:58,360 --> 00:09:16,039
+What's presented to us in the case of each object, the psychologist will assert, this is the empiricist, are sizes and shapes which always vary with the perspective, and it's conventional to regard as true the size which the object has within reach, when within reach, or the shape which it assumes when it's in a plane parallel to the frontal elevation.
+
+69
+00:09:16,039 --> 00:09:24,440
+So the empiricist might actually say that, agree with the phenomenologist about what the optimum context is.
+
+70
+00:09:24,440 --> 00:09:28,919
+It's just that they understand that optimum differently than the phenomenologist.
+
+71
+00:09:28,919 --> 00:09:33,760
+For the empiricist, these presentations are no truer than any other.
+
+72
+00:09:30,680 --> 00:09:45,360
+But since this distance and this aspect are both typical, that's to say they're the statistical norm, that's when the subject makes the most accurate kinds of judgments about size and shape.
+
+73
+00:09:45,360 --> 00:09:51,200
+And evolved with the help of our body, we can always recognize them and they provide standard in that sense.
+
+74
+00:09:51,200 --> 00:09:51,440
+Yeah.
+
+75
+00:09:52,000 --> 00:09:59,040
+Where the ponies and understanding is that the optimal group is developed into the individual who's experiencing the things of a certain distance, right?
+
+76
+00:09:59,200 --> 00:10:07,279
+The empiricist can bring you that this is a universal set of statistical boundaries in which...
+
+77
+00:10:07,600 --> 00:10:10,079
+I don't think the empiricist has to claim that.
+
+78
+00:10:10,080 --> 00:10:17,120
+The empiricist could be perfectly happy saying, yeah, no, there's a different statistical norm for different subjects.
+
+79
+00:10:17,120 --> 00:10:24,079
+For a person who can't see the thing very well, they make more accurate judgments at this closer distance.
+
+80
+00:10:24,079 --> 00:10:29,840
+And sort of the person with 20-20 vision, they make more accurate judgments at this further distance.
+
+81
+00:10:29,840 --> 00:10:38,399
+I think both of them can account for the fact that what counts as a norm for me might be different than what counts as a norm for you.
+
+82
+00:10:38,399 --> 00:10:47,840
+The difference is going to be that the empiricist can only say that as a matter of statistical fact, whereas the phenomenologist says that as a matter of felt phenomenological fact.
+
+83
+00:10:47,840 --> 00:10:54,320
+For the phenomenologist, it's not just true that I make better judgments when standing a little bit closer.
+
+84
+00:10:54,319 --> 00:11:09,360
+It's that when I'm looking at the thing, I immediately find myself compelled to walk a little bit closer in order to now immediate compulsion to do something in response to the presentation of the object.
+
+85
+00:11:09,360 --> 00:11:13,680
+That's a very funny phenomenon.
+
+86
+00:11:14,000 --> 00:11:26,520
+And one of the things that's very funny about it is that it only seems to work when I'm not paying attention to whether it's going to work or not.
+
+87
+00:11:27,000 --> 00:11:41,720
+So I only find myself coordinating my distance appropriately with respect to the painting when it's the painting that I'm looking at and I'm not trying to pay attention to how far away from it I am.
+
+88
+00:11:41,720 --> 00:11:52,440
+If I'm trying to pay attention to how far away I am from the painting, to what my distance to it is, then I start to try to do something more like what a real estate agent does.
+
+89
+00:11:52,439 --> 00:11:58,040
+I try to approximate the distance and give it a determinate value.
+
+90
+00:11:58,039 --> 00:12:16,600
+But what's important about these kinds of about this sort of normative force of the contextual features or what Marlowe Fonti sometimes calls the normative force of the atmosphere, where that means the lighting context and the distance to the object and the orientation with which it's presented.
+
+91
+00:12:16,600 --> 00:12:26,760
+What's important about the normative force of these atmospheric elements of the situation is that they've only got a certain kind of normative force.
+
+92
+00:12:26,760 --> 00:12:43,000
+They only draw me to act in a certain way when I'm not when they're in the background, when I'm not paying attention to them, but paying attention to the way in which those contextual features allow me to get a better or worse experience of the thing that I'm focused on.
+
+93
+00:12:47,799 --> 00:12:49,800
+I'm not even paying attention to that.
+
+94
+00:12:49,799 --> 00:12:51,159
+They're just acting there.
+
+95
+00:12:51,480 --> 00:13:01,200
+And what I'm paying attention to is the thing that I'm looking at, the size of the door or the painting or the color presented in a certain lighting context.
+
+96
+00:13:01,439 --> 00:13:03,039
+That's what I'm paying attention to.
+
+97
+00:13:03,039 --> 00:13:04,320
+That's the figure.
+
+98
+00:13:00,680 --> 00:13:06,240
+That's the thing that I'm focused on.
+
+99
+00:13:06,559 --> 00:13:10,000
+Of course, it's always presented in a certain context.
+
+100
+00:13:10,480 --> 00:13:13,440
+The color is always presented in a certain lighting context.
+
+101
+00:13:13,760 --> 00:13:17,200
+The size of the object is always presented at a certain distance.
+
+102
+00:13:17,200 --> 00:13:28,960
+And I have to be taking into account those contextual features in some way in order for me to experience the size or shape or color of the object.
+
+103
+00:13:28,960 --> 00:13:36,240
+But the way in which I'm taking them into account is not by focusing on them, but allowing them to direct my activity with respect to the circumstances.
+
+104
+00:13:36,319 --> 00:13:38,880
+Okay, this is a puzzling claim.
+
+105
+00:13:38,880 --> 00:13:46,159
+So what I'm going to try to do is spend most of the lecture today developing that claim.
+
+106
+00:13:46,159 --> 00:13:47,679
+That's the idea, though.
+
+107
+00:13:47,679 --> 00:14:10,559
+The basic idea to repeat, is that the sense in which I experience, say, the distance to an object indeterminately, rather than determinately, as the real estate agent and the intellectualist thinks, is just the sense in which I experience how well that distance allows me to see the thing I'm really focused on.
+
+108
+00:14:10,559 --> 00:14:20,399
+And the how well here isn't itself experienced, except insofar as it draws me to act in a certain way, to get closer or to get further away from the painting.
+
+109
+00:14:20,720 --> 00:14:41,199
+Now, Melvin thinks that maybe the best example of this kind of atmospheric element that has to act in this normative way, sort of atmospheric, environmental, contextual element that's part of my experience, that has to act in this normative way is the example of the lighting context.
+
+110
+00:14:41,200 --> 00:14:45,000
+And he talks about the lighting context quite quite a lot.
+
+111
+00:14:44,720 --> 00:14:47,720
+Before I do, let me just back up for a second.
+
+112
+00:14:48,359 --> 00:15:06,519
+You might remember that from the very beginning of the book, Manel Ponti talks about how the Gestalt psychologists have discovered that the most basic kind of visual experience that you can have is the experience of a figure against the ground.
+
+113
+00:15:07,240 --> 00:15:14,839
+So that might be, for instance, the experience of a color in a lighting context or an object against a visual background.
+
+114
+00:15:14,839 --> 00:15:20,839
+But the most basic kind of experience I can have is the experience of a figure against the ground.
+
+115
+00:15:20,839 --> 00:15:40,760
+And he complains that almost all the psychologists and philosophers who've come before him, pretty much all of them, have failed to make any essential important distinction between the way in which I experience the figure and the way in which I experience the visual background.
+
+116
+00:15:41,079 --> 00:15:55,720
+And the important distinction, Manel Ponti thinks, is supposed to be that the visual background is something that I'm constantly taking account of, even if I'm not focused on it in the way that I'm focused on the figure that I'm looking at.
+
+117
+00:15:55,720 --> 00:16:08,440
+So when I look at an object against a visual background and I'm really focused on it, the visual background, this other stuff in my visual field, is part of my experience.
+
+118
+00:16:08,760 --> 00:16:13,559
+But it doesn't play the role in my experience that the thing I'm focused on does.
+
+119
+00:16:13,559 --> 00:16:17,799
+And you need to make some sense of what that distinction is.
+
+120
+00:16:17,799 --> 00:16:36,720
+And that distinction is going to be the same as the distinction between the way in which the color that I'm focused on figures in my experience and the way in which the lighting context does, or the way in which the size that I'm focused on figures in my experience, and the way in which my distance to it does.
+
+121
+00:16:36,720 --> 00:16:43,039
+So all these contextual elements, these atmospheric elements, are elements of the background.
+
+122
+00:16:43,039 --> 00:16:45,119
+They figure in my experience.
+
+123
+00:16:45,119 --> 00:16:54,559
+I take them into account in some sense or another, but they don't figure in my experience determinately the way the foreground does.
+
+124
+00:16:54,559 --> 00:16:58,000
+Let me now let me move to the lighting.
+
+125
+00:16:58,000 --> 00:17:02,159
+Because the lighting, I think, is where Melo Monti thinks they've got the best chance of making.
+
+126
+00:17:02,319 --> 00:17:08,079
+So Melo Monti starts talking about the lighting on my page 309.
+
+127
+00:17:08,079 --> 00:17:09,279
+Pages down.
+
+128
+00:17:11,039 --> 00:17:12,319
+360.
+
+129
+00:17:13,119 --> 00:17:18,799
+So the paragraph begins, but this functional relation has so far failed to make clear.
+
+130
+00:17:22,240 --> 00:17:23,599
+59.
+
+131
+00:17:23,599 --> 00:17:24,079
+Yeah.
+
+132
+00:17:24,400 --> 00:17:24,880
+Okay.
+
+133
+00:17:25,599 --> 00:17:32,960
+And there's some introductory stuff that leads up to the question: what finally is lighting?
+
+134
+00:17:32,960 --> 00:17:34,720
+About six sentences in.
+
+135
+00:17:37,519 --> 00:17:45,200
+And then about another six or seven sentences down, he says, what's peculiar about it, about lighting?
+
+136
+00:17:45,200 --> 00:17:47,599
+What's strange about lighting?
+
+137
+00:17:48,559 --> 00:17:51,439
+Does everyone see what's peculiar about it?
+
+138
+00:17:53,279 --> 00:18:00,480
+What occurs when a certain patch of light is taken as lighting instead of being taken for granted?
+
+139
+00:18:00,480 --> 00:18:07,039
+When lighting is taken for granted, it's part of the atmosphere, it's part of the environment, it's part of the background.
+
+140
+00:18:07,039 --> 00:18:13,279
+It's something that allows me to focus on something else, but it's not something that I'm focused on itself.
+
+141
+00:18:14,000 --> 00:18:14,399
+Go here.
+
+142
+00:18:14,480 --> 00:18:16,680
+And taken 180 degrees wrong here.
+
+143
+00:18:17,240 --> 00:18:19,159
+Read that sentence again, what occurs?
+
+144
+00:18:19,160 --> 00:18:24,119
+What occurs when a certain patch of light is taken as lighting instead of being taken for granted?
+
+145
+00:18:24,119 --> 00:18:27,079
+And then it's come out now instead of in its own right.
+
+146
+00:18:28,440 --> 00:18:31,160
+Am I meaning that's the opposite?
+
+147
+00:18:32,200 --> 00:18:33,720
+That's you have.
+
+148
+00:18:35,400 --> 00:18:37,559
+Yes, mine is older than those.
+
+149
+00:18:40,839 --> 00:18:42,760
+But it's completely wrong, business.
+
+150
+00:18:42,760 --> 00:18:45,799
+Taking it in its own right is one thing.
+
+151
+00:18:45,799 --> 00:18:46,679
+And what was the other one?
+
+152
+00:18:46,680 --> 00:18:48,440
+Taking it for lighting.
+
+153
+00:18:49,000 --> 00:18:49,559
+As lighting.
+
+154
+00:18:50,440 --> 00:18:59,800
+When it's taken as lighting, as opposed to taking for granted, I think what matters is what you understand to him to mean that it's taken as lighting.
+
+155
+00:19:00,039 --> 00:19:03,000
+Lighting could either be the thing that you're looking at or the context.
+
+156
+00:19:03,480 --> 00:19:04,679
+So they've just switched.
+
+157
+00:19:04,680 --> 00:19:11,000
+Taking instead in its own right means for me to be focused on.
+
+158
+00:19:11,000 --> 00:19:13,640
+But it could mean doing its job in the background.
+
+159
+00:19:14,279 --> 00:19:16,679
+And how is the lighting?
+
+160
+00:19:16,839 --> 00:19:17,880
+Taken for granted.
+
+161
+00:19:17,879 --> 00:19:18,679
+That's much better.
+
+162
+00:19:18,680 --> 00:19:19,079
+Yeah.
+
+163
+00:19:19,079 --> 00:19:19,959
+That's not ambiguous.
+
+164
+00:19:20,200 --> 00:19:23,159
+Yeah, but the first term is ambiguous too.
+
+165
+00:19:23,160 --> 00:19:27,720
+Taken as lighting could mean either taken for granted is good.
+
+166
+00:19:27,720 --> 00:19:28,760
+That clarifies.
+
+167
+00:19:28,760 --> 00:19:32,599
+If you don't see the distinction yet, this conversation won't have made any sense.
+
+168
+00:19:32,599 --> 00:19:35,319
+So we need to get the distinction on the table.
+
+169
+00:19:35,319 --> 00:19:40,439
+Roughly the distinction, lighting is something that in certain contexts you can look at.
+
+170
+00:19:41,319 --> 00:20:00,399
+If the movie projector sort of sends a code of light, or the flashlight sends a code of light, you can either look at the code of light, right, and then you're looking at the light itself, or you can be within the code of light, and the light helps you to see other things.
+
+171
+00:19:58,440 --> 00:20:05,119
+And when the light's helping you to see other things, that's when it's taken for granted.
+
+172
+00:20:05,440 --> 00:20:09,199
+It's the background that allows you to see the rest of the stuff.
+
+173
+00:20:09,200 --> 00:20:17,599
+When it's just like another object, when it's a cone of light, then it's something different, and our experience of it is something different.
+
+174
+00:20:17,599 --> 00:20:20,720
+We see it as figure instead of seeing it as background.
+
+175
+00:20:20,720 --> 00:20:34,000
+And Melbourne is interested in that distinction, and in particular, he wants to know what it is to experience the light when we're taking it for granted and it's allowing us to see everything else.
+
+176
+00:20:34,480 --> 00:20:36,480
+That's what he wants to try to explain.
+
+177
+00:20:36,480 --> 00:20:48,000
+In order to explain it, he wants to make this distinction between looking at the light like you might look at an object and allowing the light to let you look at other objects.
+
+178
+00:20:48,000 --> 00:20:54,079
+So then he has this interesting anecdote, which explains something funny that I'll tell you, or might explain it.
+
+179
+00:20:54,079 --> 00:21:06,640
+Only after centuries of painting did artists perceive that reflection on that reflection on the eye, without which the eye remains dull and sightless, as in the paintings of the early masters.
+
+180
+00:21:06,640 --> 00:21:14,879
+So if you look at early 15th century paintings, portraits of people, the eyes are just little black dots.
+
+181
+00:21:14,879 --> 00:21:19,839
+And I think it's more or less right to say, the faces look dull and lifeless.
+
+182
+00:21:19,839 --> 00:21:22,480
+They don't look like they're faces of real people.
+
+183
+00:21:22,480 --> 00:21:47,880
+At a certain point in the Renaissance, right around 1500, Amrish Dürer is usually credited with this discovery, painters started noticing that if you paint the reflections that occur in someone's eye, so if the lighting is coming from over there, they might paint a little reflection from out the window, they might paint a little reflection of a window on this part of the eye.
+
+184
+00:21:48,279 --> 00:21:50,359
+Just a tiny little thing.
+
+185
+00:21:50,359 --> 00:21:56,519
+And Dürer does it in a self-portrait that he paints of himself in around 1500.
+
+186
+00:21:56,519 --> 00:21:59,720
+That's not, oh, do you have a French version?
+
+187
+00:22:00,599 --> 00:22:03,319
+Can you show me the cover of it?
+
+188
+00:22:04,519 --> 00:22:05,799
+No, the front cover.
+
+189
+00:22:05,799 --> 00:22:12,039
+The front cover has a painting, a self-portrait of Dürer, painted by Dürer.
+
+190
+00:22:12,599 --> 00:22:16,039
+No, it's not the one that has the little reflections in the eyes.
+
+191
+00:22:16,039 --> 00:22:17,799
+This is an earlier painting.
+
+192
+00:22:18,680 --> 00:22:24,039
+The one that's most famous, where I started to paint these reflections, is painted about seven years after that one.
+
+193
+00:22:24,359 --> 00:22:25,799
+But we give these people credit.
+
+194
+00:22:25,799 --> 00:22:27,879
+Maybe that's what they were thinking when they put him on the.
+
+195
+00:22:29,240 --> 00:22:45,720
+And what's supposed to happen, art historians always tell us this, and if you look at the paintings, there's something to it, is that when they paint these little reflections in the eye, even if you don't notice the reflection, somehow the face becomes more lively.
+
+196
+00:22:45,720 --> 00:22:53,399
+It looks like it's a sort of living, a painting of a living person instead of a dull, flat, and lifeless representation of something.
+
+197
+00:22:53,399 --> 00:22:57,879
+So Merofonte says, the reflection is not seen as such.
+
+198
+00:22:57,879 --> 00:23:10,279
+So when you're looking at the painting, you don't notice this little reflection there, at least for a while, just as the painters up until then never noticed that people have these little reflections in their eyes.
+
+199
+00:23:10,279 --> 00:23:26,839
+The reflection is not seen as such, since it was, in fact, able to remain unnoticed for so long, and yet it has its function in perception, since its mere absence deprives objects and faces of all life and expression.
+
+200
+00:23:26,839 --> 00:23:42,879
+So, here's a case where we're taking account of this little bit of lighting, not in the sense that we're in its environment, but in the sense that it livens up the figure, it livens up the representation of the face.
+
+201
+00:23:42,879 --> 00:23:53,519
+So, this is to show there's a way of taking account of lighting that's not a way of noticing it as lighting, that changes our experience of the thing that we're looking at.
+
+202
+00:23:53,519 --> 00:24:03,519
+And that's another version of the distinction that Melapulty wants to make between two different ways in which we can take account of lighting.
+
+203
+00:24:03,519 --> 00:24:12,400
+It can be part of our environment and it changes the way we perceive the thing that we're really focused on, or it can be something that we're focused on itself.
+
+204
+00:24:12,400 --> 00:24:14,160
+And in the painting, you can do that.
+
+205
+00:24:14,160 --> 00:24:18,960
+You can focus on the little reflection of the window that's in the eye.
+
+206
+00:24:18,960 --> 00:24:23,119
+Okay, so the reflection is seen only incidentally.
+
+207
+00:24:23,119 --> 00:24:25,279
+It's not something I focused on.
+
+208
+00:24:25,279 --> 00:24:39,199
+It's not presented to our perception as an objective, as something that I can come to focus on, something that's got determinate qualities, but rather as an auxiliary or as a mediating element.
+
+209
+00:24:39,200 --> 00:24:47,760
+It's something that helps me to understand the thing I'm focused on differently, or helps me to experience the thing I'm focused on differently.
+
+210
+00:24:48,079 --> 00:24:53,119
+It's not seen itself, but causes us to see the rest.
+
+211
+00:24:54,079 --> 00:25:03,919
+I think that should probably be motivating, if he were using his terminology right, because it's not a causal fact, it's an intentional fact.
+
+212
+00:25:03,920 --> 00:25:05,279
+But you get the idea.
+
+213
+00:25:05,279 --> 00:25:06,880
+It's not something that we focus on.
+
+214
+00:25:06,879 --> 00:25:13,039
+We don't focus on the little reflection in the eye, but it changes the way we see the whole portrait.
+
+215
+00:25:13,359 --> 00:25:23,000
+And the fact that it changes the way we see the whole portrait tells us that it's something we're taking account of, even if we're not focused on it.
+
+216
+00:25:24,119 --> 00:25:33,399
+Now, and then he goes on and says that reflections and lighting and photography are often badly reproduced because they're transformed into things.
+
+217
+00:25:33,400 --> 00:25:37,799
+They're things that are represented as objects, as things that I can focus on.
+
+218
+00:25:37,799 --> 00:25:45,640
+Sometimes you see in an old sort of early master painting, you see the lighting coming into the window and it's a cone.
+
+219
+00:25:45,640 --> 00:25:47,000
+It's a cone of light.
+
+220
+00:25:47,559 --> 00:25:51,639
+Sometimes that happens in photographs as well.
+
+221
+00:25:52,200 --> 00:26:05,960
+And if in a film, for example, a person goes into a cellar holding a lamp, holding a flashlight, say, we don't see the beam of light as an immaterial entity exploring the darkness and picking out objects.
+
+222
+00:26:05,960 --> 00:26:08,199
+In other words, they're not part of our environment.
+
+223
+00:26:08,200 --> 00:26:11,399
+It's not something that helps us to see things better.
+
+224
+00:26:11,400 --> 00:26:17,320
+Rather, it becomes solidified and can no longer display to us the object at its far end.
+
+225
+00:26:17,319 --> 00:26:24,039
+We see it as an object instead of something that helps us to experience objects.
+
+226
+00:26:25,960 --> 00:26:36,359
+Okay, well, light moving over a wall produces only pools of dazzling brightness which are localized not on the wall, but on the surface of the screen in this bad sort of film example.
+
+227
+00:26:36,359 --> 00:26:47,800
+And then here's the really essential characterization of what it is for the light to play this normative role in the environment and in an eye stage.
+
+228
+00:26:47,799 --> 00:27:05,440
+Lighting and reflection, lighting when it's our environment, when it's not something we're focused on, and the reflection on the eye when I'm looking at the face of the portrait, then play their part only if they remain in the background as discreet intermediaries.
+
+229
+00:27:05,440 --> 00:27:14,399
+So they have to be not the thing that I'm focused on, but the thing that I'm taking account of in focusing on this other stuff.
+
+230
+00:27:14,960 --> 00:27:20,079
+And they have to lead our gaze instead of arresting it.
+
+231
+00:27:20,079 --> 00:27:27,199
+The lighting leads our gaze in just the way that the distance to the picture leaves me.
+
+232
+00:27:27,200 --> 00:27:37,519
+It causes me to move closer to see or motivates me to move closer to see the painting better or to move back to see it better.
+
+233
+00:27:38,559 --> 00:27:41,039
+Okay, then he asks a natural question.
+
+234
+00:27:41,440 --> 00:27:43,039
+What do we mean by that?
+
+235
+00:27:43,839 --> 00:27:45,599
+What am I talking about?
+
+236
+00:27:45,920 --> 00:27:49,039
+And then he gives this sort of interesting example.
+
+237
+00:27:49,039 --> 00:28:02,320
+He says, when I'm led to a strange apartment towards its owner, you don't understand the example unless you live in a world where apartments are such that the butler opens the door and leads you in to see the owner, right?
+
+238
+00:28:02,319 --> 00:28:04,240
+But I think that's what he's thinking of.
+
+239
+00:28:04,240 --> 00:28:07,199
+I'm led to a strange apartment towards the owner.
+
+240
+00:28:07,440 --> 00:28:17,439
+When I am led to a strange apartment towards the owner, there's someone who knows on my behalf, the butler who's leading me through this labyrinthine apartment.
+
+241
+00:28:17,599 --> 00:28:23,359
+There's someone who knows on my behalf for whom the unfolding of the visual spectacle has a meaning.
+
+242
+00:28:23,680 --> 00:28:27,439
+He understands where we're going and I'm just following him.
+
+243
+00:28:27,680 --> 00:28:33,920
+And who moves towards a goal and I entrust or lend myself to this knowledge, which I do not possess.
+
+244
+00:28:33,920 --> 00:28:35,359
+So I just follow him.
+
+245
+00:28:35,359 --> 00:28:40,399
+I'm led by him, and I don't know where we're going, but I trust that he knows where we're going.
+
+246
+00:28:40,400 --> 00:28:43,039
+This is the kind of metaphor that Manel Poltzy's got.
+
+247
+00:28:43,039 --> 00:28:45,760
+And he thinks that lighting is just that way.
+
+248
+00:28:45,879 --> 00:28:56,439
+Or, here's another example: when some detail in a landscape which I've been unable to distinguish alone is pointed out to me, there's someone who has already seen it.
+
+249
+00:28:56,440 --> 00:29:01,720
+So there we are looking at this beautiful landscape, and your friend says, Oh, you notice that little tip of the mountain?
+
+250
+00:29:02,760 --> 00:29:06,679
+It looks like the man in the mountain lying down sleeping, or something like that.
+
+251
+00:29:07,079 --> 00:29:13,240
+It's pointed out to me, there's someone who's already seen it, who already knows where to stand and where to look in order to see it.
+
+252
+00:29:13,240 --> 00:29:15,720
+And the lighting is like that, he says.
+
+253
+00:29:15,720 --> 00:29:22,919
+The lightning directs my gaze and causes me to see the object so that, in a sense, it knows.
+
+254
+00:29:22,920 --> 00:29:29,000
+The lighting knows, and it sees, the lighting sees the object.
+
+255
+00:29:29,319 --> 00:29:34,199
+And when I think about this passage, I think about a slightly different example.
+
+256
+00:29:34,200 --> 00:29:37,880
+I think, imagine yourself looking at a table.
+
+257
+00:29:38,519 --> 00:29:46,599
+This is not a uniform color, but at a table that's a uniform color, a wall that's a uniform color, but that's unevenly lit.
+
+258
+00:29:46,920 --> 00:29:52,360
+And it's unevenly lit in such a way that you don't see the shadows as shadows.
+
+259
+00:29:52,359 --> 00:29:54,359
+You don't see them as objects.
+
+260
+00:29:54,359 --> 00:29:58,119
+But nevertheless, the lighting is a little better over here and a little worse over here.
+
+261
+00:29:58,120 --> 00:30:00,760
+And ask, put yourself in that situation.
+
+262
+00:30:00,760 --> 00:30:05,960
+And then imagine that someone says, well, look at the color of that wall.
+
+263
+00:30:05,960 --> 00:30:08,039
+Tell me about the color of the wall.
+
+264
+00:30:08,359 --> 00:30:10,199
+I think this is what happens.
+
+265
+00:30:10,200 --> 00:30:17,559
+I think you go and you look at a certain part of the wall and it doesn't feel like it's presented well.
+
+266
+00:30:17,559 --> 00:30:21,000
+It doesn't feel like you can get a very good sense of the color of the wall.
+
+267
+00:30:21,000 --> 00:30:28,600
+And you find your eyes going to someplace else, to some other part of the wall, as if they're away.
+
+268
+00:30:28,599 --> 00:30:30,279
+You're not moving them, really.
+
+269
+00:30:31,200 --> 00:30:32,960
+You certainly don't know what you're doing.
+
+270
+00:30:33,200 --> 00:30:41,039
+You're certainly not thinking, hmm, there's 12-foot candles of light over there, and that's about the right lighting context.
+
+271
+00:30:41,519 --> 00:30:43,519
+You don't have any knowledge like that.
+
+272
+00:30:43,519 --> 00:30:50,399
+You just find your eyes moving to where the lighting is best in order to pay attention to the color.
+
+273
+00:30:50,720 --> 00:30:51,039
+Yeah?
+
+274
+00:30:58,799 --> 00:31:00,960
+Yeah, just about.
+
+275
+00:31:01,359 --> 00:31:02,640
+I'm going to talk about that.
+
+276
+00:31:02,640 --> 00:31:08,879
+I mean, what in this passage, there's someone who leads us is the lighting.
+
+277
+00:31:09,520 --> 00:31:21,919
+Now, the lighting speaks directly to me through sort of, who's speaking to my motor intentional capacities, which are the capacities that I have in virtue of my understanding of my body schema.
+
+278
+00:31:21,919 --> 00:31:26,080
+So the body schema is sort of very, very relevant here.
+
+279
+00:31:26,080 --> 00:31:32,799
+But strictly speaking, in the analogy that he's drawing in this passage, what leads is the lighting.
+
+280
+00:31:33,200 --> 00:31:36,959
+Because it's the lighting that knows where I can see the color best.
+
+281
+00:31:36,959 --> 00:31:52,319
+And my eyes, through no really determinate effort of my own, I just find my eyes going to that part of the wall where the lighting is best for me to see the color and not lingering over here where it's not very good to see the color.
+
+282
+00:31:52,319 --> 00:31:52,639
+Yeah.
+
+283
+00:31:53,120 --> 00:32:00,240
+The light knows the feeling of the compulsion is l as a cat you believe.
+
+284
+00:32:00,479 --> 00:32:01,919
+That's a good, good point.
+
+285
+00:32:01,919 --> 00:32:03,199
+Yeah, that's exactly right.
+
+286
+00:32:03,200 --> 00:32:16,600
+What he means, at least at this point, is not, or at least not necessarily, that there's some weird spooky claim, like the lighting is this magical thing.
+
+287
+00:32:15,600 --> 00:32:21,000
+What he means is that I experience the lighting that way.
+
+288
+00:32:21,319 --> 00:32:30,439
+When it's in the background, when it's the atmosphere that allows me to see things, other things, how do I experience it?
+
+289
+00:32:30,439 --> 00:32:35,799
+Well, I don't experience it as an object, as I do when it's a code of light that I can look at.
+
+290
+00:32:35,799 --> 00:32:37,880
+I experience it some other way.
+
+291
+00:32:37,879 --> 00:32:45,399
+And the other way that I experience it is in terms of how well it allows me to see the thing that it's letting me focus on.
+
+292
+00:32:45,399 --> 00:32:46,360
+Yeah, exactly.
+
+293
+00:32:46,359 --> 00:32:54,519
+So it's not, it doesn't at least yet have to be a spooky claim about, you know, light's not really photons.
+
+294
+00:32:54,520 --> 00:32:57,319
+It's, you know, it's butlers or something.
+
+295
+00:32:57,640 --> 00:33:00,040
+It doesn't have to be a spooky claim like that.
+
+296
+00:33:00,200 --> 00:33:09,159
+It's a claim about the difference between the way, what it's like to experience light as an object and what it's like to experience it as an atmosphere or an environment.
+
+297
+00:33:09,160 --> 00:33:11,319
+Yeah, that's a great, great question.
+
+298
+00:33:11,319 --> 00:33:21,079
+Now, Melvulke does think, though, that the phenomenology is a guide to the ontology.
+
+299
+00:33:21,080 --> 00:33:32,519
+And in the very late works, he's going to end up saying something like, well, you know, we really can't do an ontology of subjects and objects because it's not adequate to the phenomenology.
+
+300
+00:33:32,520 --> 00:33:34,919
+And really, we need a different kind of ontology.
+
+301
+00:33:34,919 --> 00:33:45,719
+What there is, too cool, what there is full stop is, and he's going to have an intermediate ontological category, something between subject and object that he calls the flesh.
+
+302
+00:33:45,720 --> 00:33:54,520
+I'll read a passage from From the Visible and the Invisible, which is the link book in just a second that's related to that.
+
+303
+00:33:56,600 --> 00:34:11,840
+Okay, so now what's important about the lighting then, when I experienced it as the environmental context, when I experienced it as something that allows me to see everything else, when I experience it as the background, is that it's got this normative force.
+
+304
+00:34:11,839 --> 00:34:18,480
+I experienced it in terms of how well it allows me to see something, something else, right?
+
+305
+00:34:18,479 --> 00:34:24,799
+And I experience it as leading me to the place where it's best, where the lighting is best.
+
+306
+00:34:24,799 --> 00:34:40,080
+Now, why does Maril Colti say that I experience the lighting as being or knowing what's out there in the environment?
+
+307
+00:34:40,080 --> 00:34:41,599
+Being or knowing the thing?
+
+308
+00:34:41,600 --> 00:34:42,959
+Well, we've sort of said it.
+
+309
+00:34:43,120 --> 00:35:00,399
+The reason is that it's wrong to say, phenomenologically wrong to say that in that context, when I experience the lighting as environment or atmosphere, I experience myself as going to see where the lighting is best.
+
+310
+00:35:00,959 --> 00:35:03,440
+That's just a bad account of the phenomenology.
+
+311
+00:35:03,439 --> 00:35:09,519
+Instead, the right thing to say is that I feel myself drawn by what?
+
+312
+00:35:09,520 --> 00:35:11,679
+Well, by the lighting in some sense.
+
+313
+00:35:11,680 --> 00:35:18,319
+I feel myself drawn to look at the color of the wall over here where the lighting is the best.
+
+314
+00:35:18,319 --> 00:35:36,560
+So that is a way of saying that in order to do the best account, in order to give the best account that you can of the phenomenology, you really need to say that the way I experience the world is as imbued with this meaningful stuff.
+
+315
+00:35:36,879 --> 00:35:47,160
+The way I experience lighting, when it allows me to see other stuff, is in terms of its drawing me to a certain place in order to focus on it.
+
+316
+00:35:47,160 --> 00:35:59,319
+And you can see why that he might be drawn to say something like that, because it really is wrong to say when my eyes, when I find my eyes going over there, that I've done it.
+
+317
+00:35:59,640 --> 00:36:04,919
+It's also wrong to say that it was done completely non-intentionally.
+
+318
+00:36:04,919 --> 00:36:06,599
+It's not like it's a reflex.
+
+319
+00:36:06,600 --> 00:36:09,640
+I mean, there's really a right and a wrong place to look.
+
+320
+00:36:09,640 --> 00:36:13,799
+And I'm sensitive to the fact that that's a better place to look than the other.
+
+321
+00:36:13,799 --> 00:36:23,079
+And when my eyes are circling around looking for the best place to see the color, there's a sense in which I get that this is better than that.
+
+322
+00:36:23,160 --> 00:36:32,520
+So it's really supposed to be an intentional fact that my eyes are drawn to look there rather than there, not just a motor reflex.
+
+323
+00:36:32,760 --> 00:36:37,479
+But it's not an intentional fact that belongs, it's not my intentionality.
+
+324
+00:36:38,200 --> 00:36:45,639
+One doesn't have to have knowledge of how the lighting gets seeing a good color, but does one have to have knowledge of what the good color is in the first place, what they're looking at?
+
+325
+00:36:45,640 --> 00:36:53,799
+I mean, yeah, you have to actually be aware of, you know, the goal of the passive being or that.
+
+326
+00:36:54,040 --> 00:36:58,680
+Yeah, and I think this is another good and slightly complicated vector.
+
+327
+00:36:58,680 --> 00:37:00,920
+So there's two things to say about it.
+
+328
+00:37:00,919 --> 00:37:08,520
+One is that it takes a while developmentally for you to be able to focus on colors.
+
+329
+00:37:08,760 --> 00:37:11,879
+Many aren't so good at focusing on colors.
+
+330
+00:37:12,520 --> 00:37:25,399
+And if you don't perfectly know the difference between various colors, then you also won't have really any good sense of what it is for a color to be well lit as opposed to poorly lit.
+
+331
+00:37:25,720 --> 00:37:27,879
+So there's some indoctrination.
+
+332
+00:37:28,600 --> 00:37:35,919
+It takes some time to gather the habit of responding to the normative total of the light.
+
+333
+00:37:36,160 --> 00:37:37,760
+So that's one thing.
+
+334
+00:37:37,760 --> 00:37:53,680
+But the other thing is that when you do have knowledge of the lighting and colors, once you're sort of a fully grown human being, like we are, and phenomenology really tends to focus on phenomenology for grown-ups, right?
+
+335
+00:37:54,640 --> 00:38:04,799
+Once you're someone like that, there's not going to be a very simple all-purpose account of when the lighting is best and when it's poor.
+
+336
+00:38:04,799 --> 00:38:15,440
+Because as a matter of fact, what counts as good lighting for seeing a particular color is going to depend upon what color it is that you're seeing.
+
+337
+00:38:15,439 --> 00:38:19,279
+For darker colors, you need brighter light to see them well.
+
+338
+00:38:19,600 --> 00:38:24,559
+And for lighter colors, you need a little dimmer light to see them well.
+
+339
+00:38:24,560 --> 00:38:29,360
+So the whole hardware kind of takes for granted that we know what a good blue looks like.
+
+340
+00:38:29,359 --> 00:38:44,719
+Yeah, well, not only a good blue, but it takes for granted the fact that I'm sensitive in being led by this light to what a good context is for seeing this very shade of blue, not just the generic blue, but this very shade of light.
+
+341
+00:38:44,720 --> 00:38:45,359
+That's right.
+
+342
+00:38:45,359 --> 00:38:49,279
+I mean, there's a lot of bootstrapping that goes on here.
+
+343
+00:38:49,279 --> 00:39:08,480
+Because to see that as the best place to see the color of the wall, that lighting context says the best place to see the color of the wall, is already to see the color of the wall as one shade of off-white rather than another shade of off-white.
+
+344
+00:39:08,479 --> 00:39:20,120
+If that were the best place to see the color of the wall, well, that could only be because the color of the wall is different, because that lighting context, so there is this sort of thing that goes on.
+
+345
+00:39:20,279 --> 00:39:22,119
+No, I don't think it's a weakness at all.
+
+346
+00:39:22,120 --> 00:39:27,159
+I think it's, I but I'll try to spell it out.
+
+347
+00:39:27,479 --> 00:39:40,040
+It's not meant to be a reductive account, and that's one reason that it's not, it doesn't count as a weakness, not to be a description of the way in which I experience the lighting context when presented with the color.
+
+348
+00:39:40,600 --> 00:39:42,519
+So that's one reason that it's not a weakness.
+
+349
+00:39:42,520 --> 00:39:45,720
+But I'll try to say a little something more about it in just a second.
+
+350
+00:39:45,879 --> 00:39:46,440
+Yeah.
+
+351
+00:39:46,760 --> 00:39:48,839
+Isn't there an element of pasticity as well?
+
+352
+00:39:48,839 --> 00:40:00,999
+Because things that land on GM tests and other color tests show that if I take some particular object, like one of the posters out there, and I dial down the sound for light, that it will still look blue.
+
+353
+00:40:00,999 --> 00:40:04,600
+You know, even if, you know, whatever, yeah.
+
+354
+00:40:05,080 --> 00:40:10,839
+But if I look at a swatch, you know, and where if I really was going to focus on a particular green, they might, you know, all change the color.
+
+355
+00:40:11,240 --> 00:40:12,200
+Yeah, so, okay.
+
+356
+00:40:12,200 --> 00:40:14,120
+So let me try to say a few things about that.
+
+357
+00:40:14,120 --> 00:40:25,080
+One is that it's absolutely true that as the lighting gets, you know, a little bit dimmer or a little bit brighter, I continue to see this thing to be the same color.
+
+358
+00:40:25,080 --> 00:40:29,479
+That's the phenomenon of color constancy that we're starting out with, right?
+
+359
+00:40:29,799 --> 00:40:32,119
+So I do see it to be the same color.
+
+360
+00:40:32,120 --> 00:40:34,920
+I see that wall to be a uniform color.
+
+361
+00:40:35,720 --> 00:40:47,079
+And yet, when I'm seeing it, there's no denying that the color it looks to be looks a little bit different where poorly lit than where well it lives.
+
+362
+00:40:47,319 --> 00:40:52,760
+I guess what I meant to say is, I mean, even as you shine out of the light on it, you know, such stack and even hoard it, it could be horrible.
+
+363
+00:40:52,640 --> 00:40:57,160
+It wouldn't look good, like, it doesn't look even simple but holding.
+
+364
+00:40:57,720 --> 00:40:59,479
+Yeah, that's right.
+
+365
+00:40:59,479 --> 00:41:05,360
+I mean, so that's the talk that's to say that the bounds of the color constancy effect are pretty radical.
+
+366
+00:41:00,600 --> 00:41:07,120
+But I mean, that's so that's the thing.
+
+367
+00:41:07,359 --> 00:41:17,919
+You could make it a lot dimmer, and it still wouldn't look like it changed color unless, and this is the second thing to say about it, unless you took it out of context, which is what happens when you take the photograph, right?
+
+368
+00:41:17,919 --> 00:41:28,480
+The way in which the color constant effect works is that I need to be looking at the whole scene in order to see the color of the thing that has the constant uniform color.
+
+369
+00:41:28,879 --> 00:41:33,600
+And if you just focus on a little bit of it, you lose the constancy.
+
+370
+00:41:35,040 --> 00:41:57,999
+Meleponce talks about this a little bit when he quotes Cesar, I think it's in this chapter, when he quotes Cesar as saying, look, the amazing thing, or maybe it's Lonet, I think he quotes Lonay as saying, look, the amazing thing is that here I am painting this beautiful blue sea, and all I have to do is put a dull of yellow up in this corner, and the whole color of the sea changes, right?
+
+371
+00:41:57,999 --> 00:42:02,560
+I mean, it is a contact, it is a whole, there's a whole, what he calls field effect.
+
+372
+00:42:02,560 --> 00:42:10,480
+It's because I see it in the context of this broader organized field that I see the constant color to be one thing rather than another thing.
+
+373
+00:42:10,479 --> 00:42:16,079
+And when you take away the, when you take it in bits, you lose that whole.
+
+374
+00:42:16,399 --> 00:42:23,120
+So the main thing we were talking about was the kind of intentionality involved in the claim that the lighting leads the gaze.
+
+375
+00:42:23,120 --> 00:42:34,000
+And in the phenomenology of perception, he puts the intentionality out in the world and says, the way I experience it is as if it's the lighting that knows and sees the thing.
+
+376
+00:42:33,999 --> 00:42:50,200
+Later on, in this late sort of book that Meleoponzi never finished because he died, this book called The Visible and the Invisible, Melopolti says something a little bit different.
+
+377
+00:42:45,680 --> 00:42:53,159
+I'll just read you a quick passage from the visible and the invisible.
+
+378
+00:42:53,240 --> 00:43:02,920
+He says, the look, or the gaze, envelops, palpates, and espouses the visible thing.
+
+379
+00:43:02,919 --> 00:43:07,400
+So think again of the case where you're looking at the color of the wall.
+
+380
+00:43:07,399 --> 00:43:10,520
+The look envelops, palpates, and espouses the visible thing.
+
+381
+00:43:10,520 --> 00:43:16,840
+As though it were in a relation of pre-established harmony with them, as though it knew them before knowing them.
+
+382
+00:43:16,839 --> 00:43:20,440
+It moves in its own way with its abrupt and imperious style.
+
+383
+00:43:20,439 --> 00:43:23,000
+And yet the views taken are not desultory.
+
+384
+00:43:22,999 --> 00:43:26,120
+I don't look at a chaos, but I look at things.
+
+385
+00:43:26,120 --> 00:43:28,919
+I experience the world as filled with things.
+
+386
+00:43:28,919 --> 00:43:36,120
+So that finally one cannot say if it's the look or if it's the things that command.
+
+387
+00:43:36,680 --> 00:43:40,760
+Now this is a slightly different account of the phenomenology.
+
+388
+00:43:40,760 --> 00:43:48,920
+In this case, it's not the stuff out in the world that's got the intentionality that leads my eyes to see it well.
+
+389
+00:43:49,319 --> 00:43:55,960
+But you can't say whether the intentionality belongs out of the world or belongs here in me.
+
+390
+00:43:55,959 --> 00:43:58,999
+But in some sense, it doesn't really belong in either place.
+
+391
+00:43:58,999 --> 00:44:24,920
+And that's why, I think that's the key to why Melopolty in the late work thinks that you need this new ontological category that's neither the subject that's the seed of all intentionality, nor the object that's the completely non-intentional stuff, but you need an intermediate thing that he calls the flesh, and that's where intentionality resides.
+
+392
+00:44:25,240 --> 00:44:35,520
+Now, let me say something a little bit more about this weird phenomenon of being led without knowing, without focusing on the fact that you're being led.
+
+393
+00:44:36,479 --> 00:44:48,319
+I think it's something that happens all the time, and I think that it happens, another name for it in Marvel Pulsey's terminology is a phenomenon of motor intentionality.
+
+394
+00:44:48,319 --> 00:44:55,279
+When my eyes are being led by the lighting, it's a motor intentional phenomenon.
+
+395
+00:44:55,439 --> 00:45:00,159
+That's the thing, it's a motor phenomenon, it's my eyes that are responding to the feed.
+
+396
+00:45:00,160 --> 00:45:04,240
+But it's an intentional phenomenon because there's correctness conditions.
+
+397
+00:45:04,240 --> 00:45:06,720
+They can respond to it properly or not properly.
+
+398
+00:45:06,959 --> 00:45:13,680
+Explicitly, not a cognitive intentional phenomenon, but a bodily intentional phenomenon.
+
+399
+00:45:13,680 --> 00:45:26,639
+And there's a lot of, I think, interesting evidence, contemporary evidence from neuroscientists, that there really is a phenomenon that you might call motor intentionality.
+
+400
+00:45:26,640 --> 00:45:29,760
+And I think that you haven't talked about this explicitly.
+
+401
+00:45:29,760 --> 00:45:30,240
+Is that right?
+
+402
+00:45:30,240 --> 00:45:30,880
+Okay.
+
+403
+00:45:33,760 --> 00:45:49,760
+So, neuroscientists in the last 10 years or so have done a lot of work distinguishing the function of two different pathways in the brain, two different pathways for visual information flow in the brain.
+
+404
+00:45:49,760 --> 00:46:06,319
+There's a dorsal stream path, this is the occipital cortex, this is where the visual information starts, goes into the retina, goes straight back here, and then gets fed forward either on a dorsal pathway up this way, or on a ventral pathway, that weird forced the temples.
+
+405
+00:46:07,279 --> 00:46:17,559
+And people have known anatomically for about 30 years now that the information flows along these two different pathways.
+
+406
+00:46:17,560 --> 00:46:27,000
+But they haven't had a good sense of what the function of these two pathways is, how these two pathways treat visual information differently.
+
+407
+00:46:27,319 --> 00:46:38,439
+And in the last 10 years or so, there's been a lot of work on a particular subject who had a lesion in a ventral stream of information flow.
+
+408
+00:46:39,319 --> 00:46:45,160
+So this ventral stream, one of the pathways, couldn't process information in the way that it needed to.
+
+409
+00:46:45,160 --> 00:46:51,560
+And the only information that got processed in her went along the dorsal stream.
+
+410
+00:46:51,560 --> 00:46:54,600
+So this is a, neuroscientists love this kind of case.
+
+411
+00:46:54,600 --> 00:46:56,279
+It's a vocal lesion.
+
+412
+00:46:56,279 --> 00:46:59,719
+It's sort of very narrow and it doesn't stop messy.
+
+413
+00:46:59,720 --> 00:47:06,359
+And it gives you pretty good evidence for what it would be just to have the dorsal stream pathway functioning.
+
+414
+00:47:06,359 --> 00:47:11,319
+So that's supposed to give you a pretty good account of what it is that the dorsal stream does.
+
+415
+00:47:11,319 --> 00:47:20,999
+Now, this patient, she's known as DF in the literature, she, I think, she has a version of pure motor intentionality.
+
+416
+00:47:20,999 --> 00:47:36,760
+She has a relation to the environment, by means of which the environment leads her to act in certain ways, despite the fact that she can't focus on the determinate features of the environment that are leading her to act that way.
+
+417
+00:47:37,240 --> 00:47:57,880
+So she can't, for us, this is not like the case that I'll tell you about, but in the lighting case, we are led to look over here in order to see the color of the wall well, despite the fact that I can't focus while I'm being led to look over here on the determinate amount of light.
+
+418
+00:47:57,879 --> 00:48:02,799
+So I'm led by the light, but not in virtue of seeing it as a determinate quantity.
+
+419
+00:48:03,120 --> 00:48:05,760
+My eyes are just drawn over here to see the color well.
+
+420
+00:48:06,080 --> 00:48:13,920
+Well, it turns out almost all of her experience of gifts is like that.
+
+421
+00:48:13,919 --> 00:48:25,999
+It's very hard for us to imagine, but DF has a deficit that's called visual form diagnosia.
+
+422
+00:48:25,999 --> 00:48:39,520
+So that means that she can't see or doesn't have any knowledge of, she's without knowledge, that means bodily knowledge or perceptual knowledge, without any knowledge of visual forms, of the shapes of things.
+
+423
+00:48:39,839 --> 00:48:46,160
+And it's hard to imagine what it would be like not to be able to see the shapes of things.
+
+424
+00:48:46,160 --> 00:48:51,840
+She can see the colors of things, and she can see their texture.
+
+425
+00:48:52,240 --> 00:48:57,040
+To some extent, she can say how much light there is falling on a thing.
+
+426
+00:48:57,200 --> 00:49:02,240
+She gets luminosity information, but she can't see any of the shapes of things.
+
+427
+00:49:02,240 --> 00:49:14,799
+So if you ask her, you know, what shape this was, she'd be just as likely to say that it was a triangle, as a square, as a circle, as a pyramid.
+
+428
+00:49:14,799 --> 00:49:17,440
+She has no idea what shape it is.
+
+429
+00:49:17,439 --> 00:49:25,600
+If you ask her to draw, to look at this and copy that shape, she'd end up with, you know, something like that.
+
+430
+00:49:27,200 --> 00:49:34,680
+If you ask her to compare it to uh another set of shapes over here.
+
+431
+00:49:34,680 --> 00:49:40,160
+I'll ask her which one it's most bright, she's equally likely to answer this one as that.
+
+432
+00:49:40,160 --> 00:49:47,639
+And uh even more amazingly, it turns out she can't see the orientation of a line.
+
+433
+00:49:43,680 --> 00:49:52,440
+I mean her deficit is so extreme that she can't see the orientation of a line.
+
+434
+00:49:52,760 --> 00:49:59,080
+So you give her a line, you say, is this a vertical line or a horizontal line?
+
+435
+00:49:59,399 --> 00:50:00,839
+Her answers are at random.
+
+436
+00:50:00,839 --> 00:50:07,080
+She doesn't know whether she can't see it as a vertical line or a horizontal line.
+
+437
+00:50:07,640 --> 00:50:09,160
+And that's true.
+
+438
+00:50:09,160 --> 00:50:11,240
+It's not just a reporting problem.
+
+439
+00:50:11,240 --> 00:50:17,080
+It's not that she sees that it's a vertical line but just can't tell you that.
+
+440
+00:50:17,479 --> 00:50:24,920
+Because they ask her in lots and lots of different ways to report it and she's completely hopeless in all of them.
+
+441
+00:50:24,919 --> 00:50:28,919
+So they ask her to say what orientation lines at, can't do it.
+
+442
+00:50:28,999 --> 00:50:32,199
+Ask her to turn her hand so that it lines up with the orientation.
+
+443
+00:50:32,359 --> 00:50:33,160
+Can't do it.
+
+444
+00:50:33,160 --> 00:50:37,240
+Turn a knob that's got a a dial that's got a line on it.
+
+445
+00:50:37,240 --> 00:50:38,360
+She can't do it.
+
+446
+00:50:39,160 --> 00:50:40,760
+She can't report it in any way.
+
+447
+00:50:40,760 --> 00:50:45,399
+And that leads them to believe that she doesn't really see it as in one orientation or another.
+
+448
+00:50:45,720 --> 00:50:51,640
+But it turns out she can act differentially with respect to it.
+
+449
+00:50:51,640 --> 00:50:56,440
+And I think this is a pure form of motor intentional activity.
+
+450
+00:50:56,439 --> 00:51:16,040
+So if you take a piece of plywood like this and you put a slot in it, a rectangular slot, and no, not just a picture of a piece of plywood, but a real thing, and you put her about an arm's length away and you say, well, there's a piece of plywood with a slot in it, and your hand fits through the slot nicely.
+
+451
+00:51:16,040 --> 00:51:19,959
+What I want you to do is to post your hand through the slot.
+
+452
+00:51:20,279 --> 00:51:24,040
+It turns out she's about 98% accurate.
+
+453
+00:51:24,040 --> 00:51:28,279
+It turns out that you put it at zero degrees, boom, she does it this way.
+
+454
+00:51:28,279 --> 00:51:32,560
+Put it at 45 degrees, she does it that way, 90 degrees, does it that way?
+
+455
+00:51:32,560 --> 00:51:43,279
+So here's a case of a subject who can be led to act in a certain way with respect to features of the environment.
+
+456
+00:51:43,279 --> 00:51:48,560
+She can be drawn by the environment to perform differential activities.
+
+457
+00:51:48,560 --> 00:52:01,279
+Despite the fact that she can't, doesn't have any determinate focus, doesn't have any determinate awareness of what those features in the environment law are that are leading her to act that way.
+
+458
+00:52:01,279 --> 00:52:09,839
+That seems to me very much what Meloponty is after when he describes the way the lighting leads the gaze.
+
+459
+00:52:09,839 --> 00:52:20,960
+I don't have a determinate experience of how much light there is, just as she doesn't have a determinate experience of what orientation the slot is in.
+
+460
+00:52:20,959 --> 00:52:33,840
+But nevertheless, I find myself being led to act in a certain way, rather than some different way, in the presence of that light when given a task that involves it, that involves my taking it into account.
+
+461
+00:52:33,839 --> 00:52:46,880
+So this kind of motor intentional activity, it seems to me, is something that's crucial in Melopoli's account of the perceptual constancies.
+
+462
+00:52:47,200 --> 00:53:15,760
+Because it seems to me that what Meloponty thinks is that the way we experience the background features, like the lighting context, or the distance to an object, or the angle of presentation of a shape of an object, is in terms of how well they allow me to focus on the size or the shape or the color of the thing I'm trying to focus on.
+
+463
+00:53:16,359 --> 00:53:27,879
+And that, and I experience that, I experience how well I experience this normative fact just by being drawn to act motor intentionally in one way or another.
+
+464
+00:53:28,359 --> 00:53:47,879
+Seems to me that's what Merlot Pulti is after when he says that the way I experience the lighting, when I experience it as the environment, not as an object itself, is in terms of how well it leads me, or in terms of how it leads me to the place where I can see the color best.
+
+465
+00:53:48,760 --> 00:53:57,720
+Well, by no explicit grasp of the environment, I mean no grasp of the environment in its determinate features.
+
+466
+00:53:57,720 --> 00:54:10,839
+So an explicit grasp, the intellectualist who we talked about before, posits some understanding of the distance to the object as a determinate quantity, like the real estate age.
+
+467
+00:54:11,160 --> 00:54:21,560
+And Merlin Polti says, no, it's true about taking into account the distance to the picture in the art museum, but I'm not taking it, I don't experience it as a determinate quantity.
+
+468
+00:54:21,560 --> 00:54:24,200
+I experience it indeterminately.
+
+469
+00:54:24,200 --> 00:54:30,680
+And my reading of what it means that he says I experience it indeterminately is that what he says about the lighting.
+
+470
+00:54:30,680 --> 00:54:37,399
+I experience it as leading me to do this, that, and the next thing in order to focus on the picture.
+
+471
+00:54:37,799 --> 00:54:40,279
+So indeterminately just means not determinately.
+
+472
+00:54:40,279 --> 00:54:41,799
+It doesn't help us much.
+
+473
+00:54:42,040 --> 00:54:43,879
+What we really mean, I think, is normatively.
+
+474
+00:54:45,240 --> 00:54:46,519
+That's a better way to say it.
+
+475
+00:54:46,520 --> 00:54:51,560
+The way in which I take it into account in my experience is by being led by it.
+
+476
+00:54:53,319 --> 00:54:59,120
+The way in which it is taken into account, that's outside of the scope of what I'm experiencing, right?
+
+477
+00:54:59,120 --> 00:55:02,319
+Is that I'm experience myself being led.
+
+478
+00:55:02,319 --> 00:55:02,879
+Yeah.
+
+479
+00:55:00,600 --> 00:55:04,479
+DF and Schneider have.
+
+480
+00:55:05,040 --> 00:55:08,720
+Well, Schneider was a much more complicated case.
+
+481
+00:55:08,720 --> 00:55:14,080
+Schneider has been shot up in World War I.
+
+482
+00:55:14,080 --> 00:55:17,520
+And so his lesions were not particularly focal.
+
+483
+00:55:17,839 --> 00:55:31,760
+But I think that Merlopoltzy is trying to focus on the distinction that's clearer in the case of DF between what you get in roughly what you get in ventral streams.
+
+484
+00:55:31,760 --> 00:55:47,600
+When about Schneider, he has the discussion around page 98 in my book, the discussion in chapter 3 of the spatiality of lungs on body.
+
+485
+00:55:47,839 --> 00:55:49,839
+And so it's 112.
+
+486
+00:55:50,479 --> 00:55:53,360
+98 is the beginning of the chapter.
+
+487
+00:55:55,600 --> 00:56:01,839
+When he talks there about the difference between pointing and grasping, and that's where he introduces Schneider.
+
+488
+00:56:01,839 --> 00:56:08,560
+And he says, look, the interesting thing about Schneider is that he can grasp things, but he can't really point at them.
+
+489
+00:56:08,560 --> 00:56:19,920
+So, and Merlopolti thinks the difference between grasping and pointing is that grasping is what he calls a concrete activity and pointing is an abstract activity.
+
+490
+00:56:19,919 --> 00:56:26,319
+Grasping is what you do when you're already brought up into the context, tied up in the context.
+
+491
+00:56:26,319 --> 00:56:30,880
+So, and DF can grasp things.
+
+492
+00:56:30,879 --> 00:56:31,399
+DF.
+
+493
+00:56:31,520 --> 00:56:37,040
+can form a grasp that's appropriate to the size and shape of the thing that she's picking up.
+
+494
+00:56:37,040 --> 00:56:39,040
+She can pick things up perfectly well.
+
+495
+00:56:39,040 --> 00:56:41,120
+You ask her to pick up a coffee mug, no problem.
+
+496
+00:56:41,200 --> 00:56:41,839
+She picks it up.
+
+497
+00:56:41,839 --> 00:56:43,999
+You ask her to pick up the bread knife, no problem.
+
+498
+00:56:43,999 --> 00:56:44,720
+She picks it up.
+
+499
+00:56:44,799 --> 00:56:47,319
+She might pick it up from the wrong end.
+
+500
+00:56:47,560 --> 00:56:48,999
+There's something funny about that.
+
+501
+00:56:45,600 --> 00:56:52,520
+She doesn't seem to be able to see its function.
+
+502
+00:56:53,240 --> 00:56:57,400
+But she picks it up perfectly efficiently in such a way that she won't drop it.
+
+503
+00:56:57,399 --> 00:56:59,080
+And Schneider can do that too.
+
+504
+00:56:59,080 --> 00:57:00,760
+That's the sense in which D.F.
+
+505
+00:57:00,760 --> 00:57:02,279
+and Schneider are similar.
+
+506
+00:57:02,279 --> 00:57:04,200
+Schneider can also do that.
+
+507
+00:57:04,200 --> 00:57:07,879
+What Schneider can't do is point at things.
+
+508
+00:57:07,879 --> 00:57:09,079
+That's what Merlin Paul T.
+
+509
+00:57:09,080 --> 00:57:09,639
+talks about.
+
+510
+00:57:09,640 --> 00:57:13,240
+I mean, that's one of the many things he can't do, is point at things.
+
+511
+00:57:13,240 --> 00:57:20,440
+And I think that's a little bit like the fact that DF can't make judgments about the sizes and shapes of things.
+
+512
+00:57:20,439 --> 00:57:24,120
+So there's some similarity, but DF is a sort of updated case.
+
+513
+00:57:24,919 --> 00:57:26,200
+Somewhere in the back, and I'm going to.
+
+514
+00:57:35,720 --> 00:57:36,999
+Ah, about DF.
+
+515
+00:57:37,319 --> 00:57:50,279
+Well, there is no intellectualist, cognitive scientist story yet about DF because the kinds of stories that you get are the stories that cognitive neuroscientists give.
+
+516
+00:57:50,279 --> 00:58:05,559
+And these are the nice thing about the cognitive neuroscientists is that they tend not to have much I might not take this back, but they tend not to have much sort of high-level theoretical faggot.
+
+517
+00:58:05,560 --> 00:58:10,440
+Really what they're trying to do is figure out what things she can and can't do.
+
+518
+00:58:10,839 --> 00:58:14,439
+So they're so they're doing all sorts of experiments, and this was one of them.
+
+519
+00:58:14,439 --> 00:58:15,720
+They did this experiment.
+
+520
+00:58:15,720 --> 00:58:24,760
+They try to figure out what kinds of things she can and can't do without trying to explain why it is that she can and can't do them, except for the fact that, well, she's got lesions here and not there.
+
+521
+00:58:25,240 --> 00:58:35,360
+So they don't have the kind of high-level psychological theoretical apparatus that's, according to the phenomenologist, likely to mislead them.
+
+522
+00:58:35,359 --> 00:58:37,120
+They've just got the data.
+
+523
+00:58:37,120 --> 00:58:44,720
+And they think, well, okay, so now what we're learning is what the dorsal stream allows you to do and what as opposed to what the ventral stream allows you to do.
+
+524
+00:58:44,720 --> 00:58:52,080
+Without giving a further story at a sort of higher level of abstraction, which is what the psychologist wants, that explains that.
+
+525
+00:58:52,080 --> 00:58:54,959
+Sooner or later, no doubt, they'll get their hands on it.
+
+526
+00:58:56,240 --> 00:58:56,399
+Yeah.
+
+527
+00:58:58,479 --> 00:59:00,960
+I can tell you one thing, and this is interesting.
+
+528
+00:59:00,959 --> 00:59:16,960
+You could, and most of the cognitive neuroscientists who work with DF do, you could sort of take all this stuff that she does and find it really interesting and lay it out and still buy into Marvel Fulty's account of motor intentionality.
+
+529
+00:59:17,200 --> 00:59:18,880
+Here's the easy way to do it.
+
+530
+00:59:18,879 --> 00:59:24,240
+You just say, well, when she's posting her hands through the slot, totally unconscious.
+
+531
+00:59:24,240 --> 00:59:25,760
+It has nothing to do with her at all.
+
+532
+00:59:25,760 --> 00:59:28,080
+It's not intentional in any way.
+
+533
+00:59:28,080 --> 00:59:30,079
+It's just a motor reflex.
+
+534
+00:59:31,120 --> 00:59:32,959
+I guess that's maybe what you're looking for.
+
+535
+00:59:33,439 --> 00:59:35,119
+And there is a big issue there.
+
+536
+00:59:35,120 --> 00:59:55,040
+I mean, I've talked to them a lot, and it's very hard to get them to notice that this ought to push you to think that there's need for a category that's somewhere between the motor reflex, the non-intentional motor reflex category, and the fully cognitive and sort of regular old intentionality category.
+
+537
+00:59:55,040 --> 00:59:58,559
+That it really ought to be a category in between that's called motor intentionality.
+
+538
+00:59:58,560 --> 01:00:00,319
+They just think, no, no, it's just the reflex.
+
+539
+01:00:00,319 --> 01:00:01,999
+It's just she's totally unconscious of it.
+
+540
+01:00:01,999 --> 01:00:05,519
+She doesn't have any sense of what she's doing.
+
+541
+01:00:05,520 --> 01:00:06,799
+She doesn't have any awareness.
+
+542
+01:00:06,799 --> 01:00:08,399
+There are no correctness conditions.
+
+543
+01:00:08,279 --> 01:00:13,040
+It's just, it's like having your kneecap tapped and your foot going up.
+
+544
+01:00:13,040 --> 01:00:14,239
+That's the, yeah.
+
+545
+01:00:14,240 --> 01:00:19,399
+And they do think that the dorsal stream, so this is another way of saying it.
+
+546
+01:00:19,399 --> 01:00:36,600
+They do, one of the ways they chop it up is they say that means that the ventral stream gives you conscious information, information that could serve as input to perceptual judgments about size and shape and color, whereas the dorsal stream is just reflexes and just tells you, it just makes your body move in certain ways.
+
+547
+01:00:36,600 --> 01:00:39,479
+That's the other, the good, that's a helpful clarification.
+
+548
+01:00:39,479 --> 01:00:39,799
+Yeah, right.
+
+549
+01:00:40,040 --> 01:00:51,399
+So like along these lines of things like verbal findings trying to be anticipated is possible because there it is this problem of either empiricist feel or the intellectual steel or a high movie.
+
+550
+01:00:51,399 --> 01:00:51,720
+Yeah.
+
+551
+01:00:51,720 --> 01:00:53,799
+And there it's like along these lines.
+
+552
+01:00:53,799 --> 01:00:58,279
+What I wanted to ask was what's the relation between motor intentionality and consciousness?
+
+553
+01:00:58,839 --> 01:01:08,359
+And depending on what that relation is, is it really accurate to say that DF is a case of pure motor intentionality rather than deformed motor intentionality.
+
+554
+01:01:08,600 --> 01:01:09,559
+Right, okay, good.
+
+555
+01:01:09,560 --> 01:01:23,240
+I mean, it might be that any case of pure motor intentionality is a case of deformed motor intentionality, just because it's not motor intentionality that serves as the background for the rest of our conscious life, but motor intentionality full stop.
+
+556
+01:01:23,240 --> 01:01:26,839
+And so that maybe that's what you're pushing on.
+
+557
+01:01:26,839 --> 01:01:28,839
+Well, that way you're creating all those things with pensioners.
+
+558
+01:01:28,839 --> 01:01:30,359
+I don't think I misunderstood what you said.
+
+559
+01:01:30,839 --> 01:01:34,200
+What I want to highlight is perhaps there is something qualitatively different.
+
+560
+01:01:34,200 --> 01:01:34,519
+Yeah.
+
+561
+01:01:36,439 --> 01:01:37,080
+Yeah.
+
+562
+01:01:37,399 --> 01:01:40,120
+And if there is something qualitatively different, then GF is.
+
+563
+01:01:40,520 --> 01:01:47,319
+I think I, well, she is messed up, and I think she tells us something about motor intentionality, but this is a good issue.
+
+564
+01:01:47,560 --> 01:01:48,600
+This is a good issue.
+
+565
+01:01:49,399 --> 01:01:51,480
+Here's what I think I can say about it.
+
+566
+01:01:52,520 --> 01:01:58,440
+Here's a way in which DF is messed up, in which this isn't really a very good case.
+
+567
+01:01:58,999 --> 01:02:11,520
+The way I described the phenomenon of the lighting leading the gaze was that you had to make sure you weren't focused on it, on the lighting, in order for it to do its job properly.
+
+568
+01:02:11,999 --> 01:02:14,720
+So it's always got to be in the background.
+
+569
+01:02:15,040 --> 01:02:21,439
+And what it is for it to be in the background is in some sense for me to be taking account of it, but not focused on it.
+
+570
+01:02:22,080 --> 01:02:35,599
+Now, there's a sort of sense in which when DF is consciously engaged in this activity of following the instructions, post your hands through the slots, it's not exactly an activity that's in the background.
+
+571
+01:02:35,999 --> 01:02:39,040
+That is the activity that she's trying to perform.
+
+572
+01:02:39,040 --> 01:02:46,880
+It's just that it may be that the way she has to perform it is by not focusing, for instance, on what her arm is doing.
+
+573
+01:02:47,200 --> 01:02:50,080
+She can sometimes focus on what her arm is doing.
+
+574
+01:02:50,879 --> 01:03:01,120
+There are these stories about how one of the ways they asked her to record the orientation of the slot was by turning her hand so that it lined up with the orientation of the slot.
+
+575
+01:03:01,120 --> 01:03:10,319
+And she came after a lot of trials to notice that she was really good at posting her hands through the slots, but she wasn't so good at just turning her hand so that it lined up with the slot.
+
+576
+01:03:10,319 --> 01:03:16,960
+She got frustrated, and when they asked her to line her hand up with the slot, she'd do something like this.
+
+577
+01:03:16,959 --> 01:03:18,240
+Sort of like that.
+
+578
+01:03:19,120 --> 01:03:22,160
+In other words, she'd try to post it, and it would end up about that.
+
+579
+01:03:22,240 --> 01:03:25,680
+She wouldn't go all the way through and say, yeah, I guess that's about right.
+
+580
+01:03:25,680 --> 01:03:35,120
+So she could come to focus on the act, can come to focus on the activity, but it's supposed to be this thing that's going on while it's not the thing that you're paying attention to.
+
+581
+01:03:35,120 --> 01:03:39,360
+It's not the thing that you're doing as a task.
+
+582
+01:03:40,399 --> 01:03:50,439
+I focused on the task of seeing the color of the wall when the lighting's leading my gaze, where she seems to be focused on the very task that's supposed to be the example of motor intentional activity.
+
+583
+01:03:51,640 --> 01:03:54,519
+That's a bad, I mean, that's a disanalogy.
+
+584
+01:03:54,680 --> 01:03:56,439
+Maybe there was something else that you're thinking of.
+
+585
+01:03:57,080 --> 01:03:59,879
+He did my original question, like, like, where is consciousness from the end?
+
+586
+01:03:59,959 --> 01:04:00,279
+Oh, right.
+
+587
+01:04:03,879 --> 01:04:07,879
+And in re-reading this, it seems like Milo Ponchi really wants to reduce that.
+
+588
+01:04:07,879 --> 01:04:12,359
+And he does talk about consciousness in a way which is both problematic but perhaps informative.
+
+589
+01:04:12,359 --> 01:04:15,959
+But here's cases where it really does matter that you're conscious.
+
+590
+01:04:15,959 --> 01:04:16,359
+Yeah.
+
+591
+01:04:16,600 --> 01:04:18,839
+I mean, we're organizing these panels.
+
+592
+01:04:19,160 --> 01:04:19,799
+Yeah, good.
+
+593
+01:04:19,799 --> 01:04:27,079
+The way I say it, and the way Melopolchi says it sometimes, let's see, I was just, I did find a passage where he says something.
+
+594
+01:04:27,080 --> 01:04:29,480
+I think I read a passage where he says something like this.
+
+595
+01:04:29,479 --> 01:04:38,680
+The way I say it, usually, and I think this is a phrase that Meloponci uses, or that maybe Gervich uses it too, it needs to occur at the margins of awareness.
+
+596
+01:04:38,680 --> 01:04:42,199
+It's something that we're not focused on, but it's still part of our awareness.
+
+597
+01:04:42,200 --> 01:04:45,480
+Now, how can you tell that it's still part of our awareness?
+
+598
+01:04:45,479 --> 01:04:48,679
+Well, I take it here's one way you can tell.
+
+599
+01:04:49,479 --> 01:04:56,520
+If it turned out, I mean, here's a motor intentional activity, you and I are walking along, and I reach out to grab the doorknob.
+
+600
+01:04:56,680 --> 01:05:03,000
+And one of Bert's favorite ones, that I reach out to grab the doorknob, and my grip forms itself to the shape of the doorknob.
+
+601
+01:05:02,999 --> 01:05:05,399
+If it's a handle like that, I do one thing.
+
+602
+01:05:05,479 --> 01:05:07,960
+If it's a knob like this, I do a different thing.
+
+603
+01:05:08,680 --> 01:05:11,720
+But I'm not paying attention to the fact that I'm doing it.
+
+604
+01:05:11,720 --> 01:05:15,400
+But it's part of my awareness in the following sense.
+
+605
+01:05:15,399 --> 01:05:28,439
+If all of a sudden, everything went black, and I went from being here to standing at the door with my hand on the doorknob, that's what it would be like for none of that activity to be part of my awareness at all.
+
+606
+01:05:28,440 --> 01:05:31,919
+That's what it would be momentarily to become a zombie.
+
+607
+01:05:32,560 --> 01:05:42,879
+So there's some sense in which my activity of walking towards the doorknob and reaching out to grab it is part of that's something that I'm taking account of.
+
+608
+01:05:42,879 --> 01:05:45,199
+It's something that's at the margins of my awareness.
+
+609
+01:05:45,199 --> 01:05:50,159
+It's not completely absent because if it were, it wouldn't make any difference to me if all of a sudden I were there.
+
+610
+01:05:50,799 --> 01:05:54,879
+There's something that's part of my awareness, but it's not something that I'm focused on.
+
+611
+01:05:54,879 --> 01:05:55,760
+I'm not paying attention.
+
+612
+01:05:55,839 --> 01:05:56,560
+I couldn't do that.
+
+613
+01:05:56,560 --> 01:06:02,159
+I could pay attention to where my feet are going and how my hand is forming its grasp and so on and so forth.
+
+614
+01:06:03,520 --> 01:06:07,999
+So the way that Megalovi says it, the way I think it's right to stand, is that it's at the margins of awareness.
+
+615
+01:06:08,079 --> 01:06:43,279
+Let me say one other thing, I don't know where I have another question or two, but one other thing is this really interesting fact that these kinds of motor intentional activities, these ways that our body has of taking account of features of the environment, are apparently things, activities that can, if we learn to pay attention to them in the right way, can give us determinate information about the environment.
+
+616
+01:06:43,280 --> 01:06:44,479
+It's very rare.
+
+617
+01:06:44,480 --> 01:06:46,959
+But this is the case that I'm thinking of.
+
+618
+01:06:47,520 --> 01:06:49,440
+Does everybody know what blindsight is?
+
+619
+01:06:49,440 --> 01:06:50,879
+What the phenomenon of blindsight is?
+
+620
+01:06:50,879 --> 01:07:00,879
+Blindsight is a phenomenon where it usually happens in one hemifield, in one half of the visual field, and you get it as a result of a stroke or a certain kind of lesion.
+
+621
+01:07:01,520 --> 01:07:08,559
+And so blindsiders have no experience of the right half of their visual, of things in the right half of their visual field.
+
+622
+01:07:08,560 --> 01:07:12,879
+And yet, they can make judgments about what's there.
+
+623
+01:07:12,879 --> 01:07:19,879
+You say to them, there's either an X or an O over here in the right half of your visual field.
+
+624
+01:07:20,119 --> 01:07:21,720
+What do you think it is?
+
+625
+01:07:21,879 --> 01:07:27,480
+Now they have no experience at all, and so they say, well, geez, I don't know, I can't see it, Doc.
+
+626
+01:07:27,959 --> 01:07:29,239
+How am I supposed to know?
+
+627
+01:07:29,239 --> 01:07:30,680
+And you say, no, guess.
+
+628
+01:07:30,680 --> 01:07:31,799
+Take a guess.
+
+629
+01:07:31,799 --> 01:07:37,720
+And when they guess, they turn out to be very accurate, sometimes as much as 90, 95% accurate.
+
+630
+01:07:37,720 --> 01:07:41,560
+Now, it turns out, so that's the canonical case of blindsight.
+
+631
+01:07:41,560 --> 01:07:45,079
+It turns out there's two different kinds, though, of blindsight.
+
+632
+01:07:45,079 --> 01:08:00,039
+That one is called type 1 blind sight, and there's another called type 2 blind sight, where the crucial difference is that for type 2 blindsiders, they say, well, I'll tell you what, Doc, you say, there's an X or an O there, what do you think it is?
+
+633
+01:08:00,039 --> 01:08:04,680
+And they say, well, I'll tell you what, Doc, I can't see anything over there.
+
+634
+01:08:04,680 --> 01:08:07,720
+But god darn it, I got a hunch.
+
+635
+01:08:08,280 --> 01:08:11,640
+I sort of have a sense, and I think it's an X.
+
+636
+01:08:11,959 --> 01:08:16,039
+And they're just as accurate, sometimes more accurate than the type 1 blindsiders.
+
+637
+01:08:16,039 --> 01:08:24,199
+But the big difference is that although they don't have any visual experience of what's going on in the blind half of the visual field, they have a hunch.
+
+638
+01:08:24,199 --> 01:08:25,159
+They have a feeling.
+
+639
+01:08:25,159 --> 01:08:25,959
+They have a get.
+
+640
+01:08:26,839 --> 01:08:28,199
+It's not just a guess.
+
+641
+01:08:29,239 --> 01:08:31,959
+It feels like this is the right thing to say.
+
+642
+01:08:31,959 --> 01:08:42,600
+And one of the explanations for what's going on is that usually the type 2 blindsiders are subjects who've been blindsided for a long time.
+
+643
+01:08:42,600 --> 01:08:44,760
+They've had this problem for a long time.
+
+644
+01:08:44,760 --> 01:08:56,279
+And one of the explanations is that your eyes respond differently when they're presented with a sort of smooth, round thing than when they're presented with a jagged, too-crossed thing.
+
+645
+01:08:56,280 --> 01:08:59,079
+So your eyes deal with the object differently.
+
+646
+01:08:59,079 --> 01:09:04,879
+That's supposed to be a motor-intentional fact, something that happens without your paying attention to the fact that it's happening.
+
+647
+01:09:05,199 --> 01:09:23,999
+And the suggestion is that the type 2 insiders get this hunch about what's in the environment because they somehow learn to pay attention, even if not explicitly, they somehow learn to pay attention to what their eyes are doing for them in response to the presentation of something in the environment.
+
+648
+01:09:23,999 --> 01:09:37,919
+Now, that's the kind of thing where you may not, they're aware in that case, if this account is right, this is a life-highness account, they're aware in that case of what their eyes are doing for them, though not because they're paying attention to where their eyes are going.
+
+649
+01:09:37,919 --> 01:09:39,600
+They're just sort of, it's at the margin.
+
+650
+01:09:39,680 --> 01:09:41,199
+They don't even, they wouldn't even say that.
+
+651
+01:09:41,199 --> 01:09:41,999
+Okay.
+
+652
+01:09:42,640 --> 01:09:43,119
+All right.
+
+653
+01:09:43,119 --> 01:09:45,680
+Well, I'll say my punchline then.
+
+654
+01:09:46,879 --> 01:09:53,519
+We have a story about the way in which the background is present to us in our experience of the figure.
+
+655
+01:09:53,520 --> 01:09:58,799
+Now there's a question: how is it that the figure is present to us?
+
+656
+01:09:58,799 --> 01:10:10,239
+So if it's really true that the way I take account of the lighting when I focused on the color is in terms of how it leads me to focus on the thing, then you'd like to know, how is it that I experience the color?
+
+657
+01:10:10,239 --> 01:10:13,359
+We know what the background, what the experience of the background is like.
+
+658
+01:10:13,360 --> 01:10:15,760
+So what's the experience of the figure then?
+
+659
+01:10:16,079 --> 01:10:22,079
+The amazing thing is that I think Merloponci gets this right exactly once.
+
+660
+01:10:22,400 --> 01:10:25,600
+And he gets it wrong most of the rest of the time.
+
+661
+01:10:26,079 --> 01:10:30,239
+But I think everything in his view leads him to this account.
+
+662
+01:10:30,239 --> 01:10:31,360
+And so I'm going to read it.
+
+663
+01:10:31,360 --> 01:10:33,600
+Now I'm on page 305.
+
+664
+01:10:33,600 --> 01:10:39,760
+On 305, he says, the long paragraph.
+
+665
+01:10:39,760 --> 01:10:41,600
+It starts with the qualities of the thing.
+
+666
+01:10:41,600 --> 01:10:43,359
+It's color, for example.
+
+667
+01:10:43,360 --> 01:10:46,919
+But I'm about a page and a half into that.
+
+668
+01:10:47,560 --> 01:10:48,680
+Below the Mowories.
+
+669
+01:10:45,440 --> 01:10:50,680
+The Mowories have 3,000 names of colors.
+
+670
+01:10:52,919 --> 01:11:03,559
+Okay, so the Maoris have 3,000 names of colors, he says, not because they perceive a great many, but on the contrary, because they fail to identify them when they belong to objects structurally different from each other.
+
+671
+01:11:03,560 --> 01:11:11,319
+The woolly blue for them isn't the same, or the woolly red isn't the same as the shiny red of the fire engine, the woolly red of the carpet.
+
+672
+01:11:11,400 --> 01:11:15,879
+They have a different name for the woolly red of the carpet than for the shiny red of the fire engine.
+
+673
+01:11:16,199 --> 01:11:21,319
+As Taylor puts it, perception goes straight to the thing and bypasses the color.
+
+674
+01:11:21,320 --> 01:11:31,720
+But we shall not succeed in understanding perception unless we take into account a color function which may remain even when the qualitative appearance is modified.
+
+675
+01:11:31,720 --> 01:11:34,999
+That's just a statement of the color conferency effect.
+
+676
+01:11:34,999 --> 01:11:40,600
+Even though the lighting conditions change, the color seems to be the same.
+
+677
+01:11:40,919 --> 01:11:48,999
+I say that my fountain pen is black, and I see it as black under the sun's rays, but also in the electric lighting of the room.
+
+678
+01:11:48,999 --> 01:11:59,479
+But this blackness, the way I experience the real color, the real constant color of the fountain pen, is less the sensible quality of blackness.
+
+679
+01:11:59,480 --> 01:12:09,079
+It's not something that you see the way you might see a color chip or something, or a qualia in the contemporary philosophy of minds sense.
+
+680
+01:12:09,079 --> 01:12:19,319
+It's less the sensible quality of blackness than a somber power which radiates from the object even when it's overlaid with reflected light.
+
+681
+01:12:19,320 --> 01:12:23,879
+And it's visible only in the sense in which moral blackness is visible.
+
+682
+01:12:23,879 --> 01:12:29,640
+It's not something you can focus on, but it's something that you can see when presented with it, nevertheless.
+
+683
+01:12:29,720 --> 01:12:44,319
+Then, this is the important sentence: the real color, the real constant color that I see an object to be throughout variations in lighting persists beneath appearances as the background persists beneath the figure.
+
+684
+01:12:44,640 --> 01:12:50,720
+So, the real color itself is experienced as a background, not as a figure.
+
+685
+01:12:50,959 --> 01:12:57,519
+That is not as a seen or thought-of quality, but through a non-sensory presence.
+
+686
+01:12:57,520 --> 01:12:58,879
+So, what does he mean by that?
+
+687
+01:12:58,879 --> 01:13:01,919
+Let's try the case of size constancy.
+
+688
+01:13:01,919 --> 01:13:17,839
+What it is to experience the size of this object as constant throughout variations in my distance to it is for me constantly to be taking into account the distance to it by automatically being drawn to walk closer or further away to see what?
+
+689
+01:13:17,839 --> 01:13:23,360
+Well, to see that size well, well, what does it mean to see that size well?
+
+690
+01:13:23,360 --> 01:13:25,999
+All I ever get is an appearance of it at this distance.
+
+691
+01:13:25,999 --> 01:13:38,559
+Well, the way in which I experience the size is as that thing that's better presented when I get closer to it and a little worse presented when I get further away from it.
+
+692
+01:13:38,560 --> 01:13:47,600
+It's itself not something that I can focus on, but something in terms of which I experience any particular presentation of the size.
+
+693
+01:13:47,600 --> 01:14:06,079
+So, to, with color, what it is to experience the color of this wall as a particular shade of light is to experience it as that shade which is, well, not so well presented over here, but uh-huh, it's better presented over here and a little better over here, and so on and so forth.
+
+694
+01:14:06,079 --> 01:14:22,199
+So, the real constant color or shape or size of an object is itself something like the background against which I experience any particular presentation of the size or shape or color.
+
+695
+01:14:22,520 --> 01:14:29,319
+And I mentioned that I think he gets it right in this sentence and wrong in lots of other places in the in the book.
+
+696
+01:14:29,320 --> 01:14:31,559
+Here's one way to get it wrong.
+
+697
+01:14:31,560 --> 01:14:40,279
+You might think that the real color is just a color as I see it to be when I'm looking at the at the best at the place where it's best lit.
+
+698
+01:14:40,280 --> 01:14:45,640
+But that's not really what Maria Polki ought to say, though he does say it sometimes.
+
+699
+01:14:45,640 --> 01:15:08,600
+What he ought to say is, no, that's a case where I experience the current presentation of the colour to be, well, a presentation that doesn't deviate very much from what the real color is, maybe doesn't even deviate at all, but nonetheless isn't the real color itself, because the real color has all these projectable properties.
+
+700
+01:15:08,600 --> 01:15:13,799
+It's the thing against that allows me to understand any particular presentation.
+
+701
+01:15:14,600 --> 01:15:16,199
+Isn't this another right statement of it?
+
+702
+01:15:16,600 --> 01:15:18,439
+We have a 352.
+
+703
+01:15:18,600 --> 01:15:19,879
+I'm going to tell you where you live.
+
+704
+01:15:20,119 --> 01:15:22,439
+I'm seeing on 20302.
+
+705
+01:15:22,440 --> 01:15:22,919
+Okay.
+
+706
+01:15:23,079 --> 01:15:28,919
+The middle of 352, the distance from me to the object is not a size which increases or decreases.
+
+707
+01:15:29,159 --> 01:15:31,959
+Yeah, a tension which fluctuates around a normal.
+
+708
+01:15:31,959 --> 01:15:34,279
+Well, that's what no, uh no.
+
+709
+01:15:34,600 --> 01:15:34,999
+No.
+
+710
+01:15:34,999 --> 01:15:40,600
+But that's, I mean, it is what I've been saying until the until you asked me to give the punchline.
+
+711
+01:15:40,600 --> 01:15:46,039
+The distance from me to the object is not a size which increases or decreases, but a tension which fluctuates around a norm.
+
+712
+01:15:46,199 --> 01:15:52,039
+That's a story about how I experience the distance, not a story about how I experience the size presented at me.
+
+713
+01:15:52,600 --> 01:15:53,479
+Yes, absolutely.
+
+714
+01:15:53,879 --> 01:15:54,600
+That is the punchline.
+
+715
+01:15:55,159 --> 01:15:55,959
+That is the punchline.
+
+716
+01:15:56,039 --> 01:15:56,440
+Yeah, yeah.
+
+717
+01:15:56,760 --> 01:16:00,480
+But this is not I mean, this is just about the distance, not about the size presented out over it.
+
+718
+01:16:00,959 --> 01:16:01,360
+Okay, thanks.
+
+719
+01:16:01,600 --> 01:16:02,239
+Okay, good.
+
+720
+01:16:00,440 --> 01:16:03,359
+Thank you guys very much.

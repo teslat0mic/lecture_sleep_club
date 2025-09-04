@@ -1,0 +1,3160 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:11,280
+And what I want to cover today is meaning, which I had already talked about once, but I want to say a little more about it.
+
+2
+00:00:11,280 --> 00:00:19,359
+And then going on to understanding and interpretation, which I've already said a lot about, but I still need to say something more about it.
+
+3
+00:00:19,359 --> 00:00:28,479
+And finally, to discourse, which is the section you were supposed to read for this week, about which there's lots to say, and I will start on it.
+
+4
+00:00:29,519 --> 00:00:31,999
+There it goes, being in time.
+
+5
+00:00:34,239 --> 00:00:36,559
+It is decomposed.
+
+6
+00:00:36,880 --> 00:00:40,479
+Okay, let me recompose it.
+
+7
+00:00:46,239 --> 00:00:48,319
+Yeah, okay, maybe.
+
+8
+00:00:48,320 --> 00:00:59,119
+So, meaning is so strange a chapter in here.
+
+9
+00:00:59,119 --> 00:01:25,199
+I told you, Heidegger is just trying to take over this, the word zen in German, the word for meaning, take it over from this inner mental content that it has for Ussero, and as it has for Searle, and as it has had in Heidegger's time anyway, for the Germans and the analytic continent, Anglo-American philosophers, and give it a new meaning.
+
+10
+00:01:26,079 --> 00:01:39,160
+And it's because he wants to say that things are intelligible on the basis, not of some inner content, but, and we'll come back to this again from all kinds of angles.
+
+11
+00:01:39,160 --> 00:01:46,359
+But the familiar world is rock bottom for him as to what is intelligible.
+
+12
+00:01:46,359 --> 00:01:51,479
+And the familiar world, and what right has he got to say that the familiar world is intelligible?
+
+13
+00:01:51,479 --> 00:02:04,439
+Well, he would just say, just look, I'm doing the phenomenology I'm describing, I'm telling you that you just look at the familiar, the everyday world, and you will see that it's intelligible.
+
+14
+00:02:05,319 --> 00:02:09,879
+You would help to see it if I could see the page numbers here that I want to read.
+
+15
+00:02:13,080 --> 00:02:19,400
+I want to read 193, but I, for a minute, when those pages have disappeared.
+
+16
+00:02:19,400 --> 00:02:21,720
+Aha, here we are.
+
+17
+00:02:22,280 --> 00:02:23,639
+Things.
+
+18
+00:02:27,080 --> 00:02:28,679
+Looking promising, yes.
+
+19
+00:02:28,679 --> 00:02:29,160
+Okay.
+
+20
+00:02:29,479 --> 00:02:34,120
+On 193, I'm just trying to explain what he says.
+
+21
+00:02:37,720 --> 00:02:38,679
+Oh, yeah, okay.
+
+22
+00:02:38,840 --> 00:02:44,280
+I'm trying to explain this italics, this very obscure-sounding sentence.
+
+23
+00:02:44,280 --> 00:02:47,800
+We're starting on the third line on 193.
+
+24
+00:02:47,799 --> 00:02:51,640
+I'm in the lower half of 151 in the German.
+
+25
+00:02:51,640 --> 00:02:55,239
+So, top of 193, very top, I'll start.
+
+26
+00:02:55,239 --> 00:02:59,559
+Meaning is that wherein the intelligibility of something maintains itself.
+
+27
+00:02:59,559 --> 00:03:04,280
+That's supposed to be such a general definition that it could cover anybody.
+
+28
+00:03:04,280 --> 00:03:07,559
+But then he's got his own version, skipping a sentence.
+
+29
+00:03:07,879 --> 00:03:17,679
+The concept of meaning embraces, this is his concept, the formal existential structure of what necessarily belongs to that which an understanding interpretation articulates.
+
+30
+00:03:17,999 --> 00:03:31,440
+And then in italics, meaning is the, on the basis of which, of a projection, in terms of which something becomes intelligible as something.
+
+31
+00:03:31,760 --> 00:03:38,239
+Now, that I had read already last time, but I just wanted to tell you that then comes this new thing.
+
+32
+00:03:38,239 --> 00:03:43,439
+It gets its structure from forehaving foresight and foreconception.
+
+33
+00:03:43,919 --> 00:03:53,360
+I felt I couldn't just leave you with those words, which seemed to be saying something important, without telling you why they got suddenly dumped in here.
+
+34
+00:03:53,359 --> 00:03:56,239
+He hasn't said anything about that before.
+
+35
+00:03:56,559 --> 00:04:06,239
+It's a new vocabulary for talking about this ultimate background structure of the familiar world.
+
+36
+00:04:06,559 --> 00:04:21,679
+And as he says, insofar as understanding, next sentence, insofar as understanding and interpretation make up the existential state of being the there, meaning is the formal existential framework of the disclosiveness which belongs to understanding.
+
+37
+00:04:21,679 --> 00:04:24,160
+Now, all this is just saying the same thing over and over again.
+
+38
+00:04:24,160 --> 00:04:27,200
+He's named this worldhood already.
+
+39
+00:04:27,199 --> 00:04:30,960
+He's called it, he's talked about disclosing already.
+
+40
+00:04:30,960 --> 00:04:34,720
+And he said that those belong to the basic structure of Dasein.
+
+41
+00:04:34,720 --> 00:04:38,799
+Now he says it again, meaning is an existentiale of Dasein.
+
+42
+00:04:38,799 --> 00:04:54,479
+But now he's contrasting it with the usual sense, not a property attaching to entities, lying behind them or floating somewhere in an indeterminate domain, which is where they were for Husserl, some kind of strange abstract entities.
+
+43
+00:04:54,799 --> 00:04:59,119
+For him, he's trying to say, no, that's just the structure of the world.
+
+44
+00:04:59,439 --> 00:05:10,280
+The phenomenon of everyday dealing has its own structure, and now Heidegger's going to name this structure in a new way.
+
+45
+00:05:10,280 --> 00:05:12,999
+It's got forehaving.
+
+46
+00:05:12,999 --> 00:05:14,999
+Where does he first say that now?
+
+47
+00:05:14,999 --> 00:05:15,960
+Oh, yeah, right up there.
+
+48
+00:05:15,960 --> 00:05:19,559
+It gets its structure from forehaving, foresight, and foreconception.
+
+49
+00:05:19,559 --> 00:05:21,559
+I'll say a word about each one.
+
+50
+00:05:21,559 --> 00:05:25,479
+I'm not terribly sure what they all mean because he doesn't tell you.
+
+51
+00:05:25,479 --> 00:05:28,040
+He just sort of dumps them into the discussion.
+
+52
+00:05:28,760 --> 00:05:31,479
+But it's always good to have a guess as to what they mean.
+
+53
+00:05:31,479 --> 00:05:40,119
+And then if it turns out that there's some passage somewhere that makes this interpretation wrong or supports it, you've got something to go on.
+
+54
+00:05:40,119 --> 00:05:43,400
+Forehaving is the most basic.
+
+55
+00:05:43,400 --> 00:05:50,679
+And it's something that you've always got, and you're always already in it.
+
+56
+00:05:50,679 --> 00:05:53,559
+Or I even like to think it's not something you have.
+
+57
+00:05:53,559 --> 00:05:56,040
+It's more like what has you.
+
+58
+00:05:57,720 --> 00:05:59,160
+And what would that be?
+
+59
+00:05:59,160 --> 00:06:01,080
+Well, I guess that's familiarity.
+
+60
+00:06:01,079 --> 00:06:06,759
+That is, another way to put it is, we're always already in a network of solicitations.
+
+61
+00:06:06,760 --> 00:06:17,720
+It's the same thing, I think, that he calls primary understanding, except he's talking about the whole of it and not one example of it.
+
+62
+00:06:17,720 --> 00:06:26,599
+And the whole of primary understanding, all the interrelated network of solicitations, is the familiarity you've got with the world.
+
+63
+00:06:26,599 --> 00:06:36,840
+I mean, the door is soliciting you to go out when that's appropriate, and the windows to close them when that's appropriate, and the seats to sit in when that's appropriate, and the floor to walk on when that's appropriate.
+
+64
+00:06:36,839 --> 00:06:42,199
+All of that added up, adds up to familiarity, and you've always already got it.
+
+65
+00:06:42,199 --> 00:06:47,199
+That doesn't mean that you were born understanding doors and windows and chairs and all that.
+
+66
+00:06:47,439 --> 00:07:04,000
+You got it gradually, and as you got Dasein gradually, from the moment you came out of the womb until you were had enough familiarity to have a world, and you were you, and period, for that.
+
+67
+00:07:04,640 --> 00:07:07,280
+And now, and what is foresight?
+
+68
+00:07:07,599 --> 00:07:20,160
+Well, it's probably got to do with circumspection, which is a way of picking up some aspect of the familiarity.
+
+69
+00:07:20,160 --> 00:07:27,280
+So, in familiar rooms, doors solicit us to go out when it's appropriate, and chairs to sit on when it's appropriate.
+
+70
+00:07:27,280 --> 00:07:34,080
+And we can notice the chairs and make assertions about them as comfortable or not.
+
+71
+00:07:34,079 --> 00:07:40,640
+But that's going to come up again on page 199, but I don't want to jump to it there here.
+
+72
+00:07:40,640 --> 00:07:42,320
+And foreconception.
+
+73
+00:07:42,319 --> 00:07:52,799
+Well, to begin with, the German is for griff, and it's true that a concept is a budgriff in German, but for conception hasn't got anything to do with concepts.
+
+74
+00:07:52,799 --> 00:07:55,120
+It's supposed to be more basic than concepts.
+
+75
+00:07:55,120 --> 00:07:58,320
+So, we have to call it something like a four grass.
+
+76
+00:07:58,319 --> 00:08:01,599
+But then we have to make up some kind of story.
+
+77
+00:08:01,599 --> 00:08:03,679
+What could he have in mind there?
+
+78
+00:08:03,679 --> 00:08:10,880
+These are all kinds of subtle distinctions in which he's just describing the same thing over and over, emphasizing different angles.
+
+79
+00:08:10,880 --> 00:08:14,400
+So, he's got familiarity, he's got circumspection.
+
+80
+00:08:14,400 --> 00:08:17,120
+This one might be assignment.
+
+81
+00:08:17,599 --> 00:08:24,240
+That is, remember, that we've got a four, the door has a four watt, namely to go in and out.
+
+82
+00:08:24,240 --> 00:08:55,000
+And the whole assignment structure is having done the sort of in circumspection, that means sort of seeing around, having done the whole aroundness of the background, which with all of its system of solicitations, he's now going to pick out the fact that it's some you're you're noticing or responding to something that's also not, if you could sort of help, if it helps to have this sort of spatial thing, it's not what you see around you.
+
+83
+00:08:55,400 --> 00:09:06,280
+The four concept, the foregrings is where you are placed in the chain of in order-to's.
+
+84
+00:09:06,280 --> 00:09:12,439
+That is, that now we're going to emphasize that the door is the to go out, and the latch, well, let's start.
+
+85
+00:09:12,439 --> 00:09:42,840
+The latch is to open the door, the door is to go out, the to go out leads to the front steps, and that goes toward this, leads you toward the street and toward the grocer, and that's, and finally, it leads you to getting to the for the sake of which, for getting something to eat, and ultimately to the ultimate for the sake of which, if you've gone out the door and go through all that to get to the grocer, because you understand yourself as the family provider.
+
+86
+00:09:42,839 --> 00:10:06,679
+So, in that chain, you have a chain of assignments, and those are, and anywhere in that chain, you can talk about the foregrasp, because wherever you are in the chain, the whole chain is already being taken into account in what you're doing.
+
+87
+00:10:06,679 --> 00:10:09,640
+I don't find that, I mean, and it may be my fault, I don't know.
+
+88
+00:10:09,640 --> 00:10:15,560
+If you don't find this very illuminating, it's somebody's fault, either Heidegger's or mine.
+
+89
+00:10:15,599 --> 00:10:26,080
+I mean, it seems to me it's just renaming phenomena that we already know, and I don't really see that it, and I'm not sure how he's renaming them, and I'm not sure why he's renaming them.
+
+90
+00:10:26,079 --> 00:10:30,320
+So, but I've done the best I can since you have to deal with this.
+
+91
+00:10:30,319 --> 00:10:34,160
+And every once in a while, he brings up the forehaving and the foreseeing.
+
+92
+00:10:34,160 --> 00:10:34,800
+Yeah.
+
+93
+00:10:55,199 --> 00:10:57,600
+Well, there are yes and no.
+
+94
+00:10:58,079 --> 00:11:02,240
+I didn't want to think back into this, but I'll say it one more time.
+
+95
+00:11:02,719 --> 00:11:12,560
+There's a certain way in which, yes, you're always seeing as, and you're always picking up the as structure of the world and responding to it.
+
+96
+00:11:12,559 --> 00:11:18,000
+So, in some way, you're taking account of the door as to go out.
+
+97
+00:11:18,000 --> 00:11:31,519
+But in your actual experience, when you're most in flow, when you're most dealing, and everything is going fine, that doesn't show up in your experience that there's a door.
+
+98
+00:11:31,520 --> 00:11:49,119
+Here, the way to think about it is that to go out is what you experience, and you don't need to experience, well, better, and so there is a solicitation to go out, but you don't experience it as a solicitation, you just experience the pull to go out.
+
+99
+00:11:49,120 --> 00:11:55,520
+You're just pulled to go out, and you don't experience it as a solicitation by the door.
+
+100
+00:11:55,520 --> 00:12:04,280
+That is, you don't experience it in terms of the solicitor, but all you do is you respond to the pull to go out.
+
+101
+00:12:00,799 --> 00:12:07,559
+And the government, not as the pull to go out, you just respond.
+
+102
+00:12:08,040 --> 00:12:17,160
+And that's so on the level of describing what goes on when you're most coping or dealing, the as structure isn't in there.
+
+103
+00:12:17,160 --> 00:12:35,560
+But on the other hand, when you spell it out from either by your reflecting on it, and the door gets stuck and you realize that you've been taking it as a door, or when somebody else sees what you're doing, they would say, well, you're going out and you're doing that by taking the door as a door.
+
+104
+00:12:35,559 --> 00:12:36,439
+That's fine.
+
+105
+00:12:36,439 --> 00:12:37,480
+Don't worry about it.
+
+106
+00:12:37,480 --> 00:12:48,440
+I mean, he just, they're just two different ways of talking about or levels or something.
+
+107
+00:12:48,439 --> 00:12:51,720
+And I don't think we want to, I don't want to talk about it anymore.
+
+108
+00:12:52,359 --> 00:13:15,799
+The main point is: if there's anything new, it's just a new sort of polemical point that once you see the structure of everyday familiarity and everyday coping, which we just did, see, in terms of this new language, what he calls the force structure of those three somethings.
+
+109
+00:13:15,799 --> 00:13:27,720
+Once you see that, then you see that you don't need to introduce any intentional content to explain the way we relate to things.
+
+110
+00:13:27,719 --> 00:13:29,479
+You just need to describe it.
+
+111
+00:13:29,480 --> 00:13:47,440
+It's only if you think of us as minds apart from a meaning a world, that then you have to worry about how the mind gets directed towards the objects in the world and how the objects in the world get taken to be something and as something.
+
+112
+00:13:47,439 --> 00:13:50,720
+But all that's, so to speak, always already done.
+
+113
+00:13:50,880 --> 00:13:54,560
+And you don't have to ask how we do it.
+
+114
+00:13:54,559 --> 00:13:58,960
+Now, I always want to say that doesn't mean that you can't ask how the brain does it.
+
+115
+00:13:58,959 --> 00:14:11,680
+It's always important to realize that there may be, there is presumably another level of description of all this, but the philosopher's mistake is to ask how the mind does it.
+
+116
+00:14:11,679 --> 00:14:13,360
+And the mind doesn't do it.
+
+117
+00:14:13,599 --> 00:14:14,960
+Dasein does it.
+
+118
+00:14:14,959 --> 00:14:21,440
+And Dasein is this being that's already grown up in a familiar world.
+
+119
+00:14:21,439 --> 00:14:28,800
+So it's a kind of, as I call it, a myth of the mental, to think that you need what?
+
+120
+00:14:28,799 --> 00:14:37,040
+You need something in the mind, which Husserl called intentional content, and Searle calls intentional content, and so does a lot of people in analytic.
+
+121
+00:14:38,240 --> 00:14:56,319
+And intentional content is this mental something that is self-sufficient and inner, and it's the content of a mind, and it directs the mind toward objects in the world.
+
+122
+00:14:56,319 --> 00:15:09,520
+And Heidegger thinks you don't need it, and also he thinks that if you had it, it wouldn't do you any good because it's just sort of renaming what is equally still mysterious.
+
+123
+00:15:09,520 --> 00:15:11,120
+Husserl thought it was mysterious.
+
+124
+00:15:11,119 --> 00:15:14,160
+He thought it was Linderbar, and there was nothing you could say about it.
+
+125
+00:15:14,159 --> 00:15:23,199
+Isn't it amazing that the intentional content in the mind reaches out and directs our mind toward objects in the external world?
+
+126
+00:15:23,200 --> 00:15:26,240
+But that's, Heidegger would say, that's not helpful.
+
+127
+00:15:26,240 --> 00:15:33,319
+I mean, you just invented something that's supposed to do the job, but you can't even explain how it does the job, and you don't need it.
+
+128
+00:15:34,440 --> 00:15:43,719
+This is what he's saying when he says, I just read it, meaning is an existentiale, not a property, attending to entities lying behind them, and so forth and so forth.
+
+129
+00:15:43,720 --> 00:15:45,799
+None of that would do any good.
+
+130
+00:15:45,799 --> 00:15:48,040
+Okay, Dave, yeah.
+
+131
+00:15:49,319 --> 00:15:50,119
+What do you think?
+
+132
+00:15:52,839 --> 00:15:56,439
+Might there be a danger as a myth of fruit crack.
+
+133
+00:15:57,079 --> 00:16:00,839
+In other words, do you think that meaning is simply a fruit bracket?
+
+134
+00:16:03,399 --> 00:16:05,400
+Yes, but I don't think it's a myth.
+
+135
+00:16:05,399 --> 00:16:09,559
+I mean, I think the question is: this is phenomenology.
+
+136
+00:16:09,559 --> 00:16:10,520
+What do you think?
+
+137
+00:16:10,520 --> 00:16:17,399
+Do you think, how do you experience this as a presumably as a room with seats that are appropriate to sit in?
+
+138
+00:16:17,399 --> 00:16:23,079
+And, you know, going through all that litany of, again, but I mean, that's not a myth.
+
+139
+00:16:24,119 --> 00:16:25,880
+It's hardly even a fact.
+
+140
+00:16:25,879 --> 00:16:27,079
+It's a phenomenon.
+
+141
+00:16:27,079 --> 00:16:31,639
+It's something that in Heidegger jargon shows itself as it is in itself.
+
+142
+00:16:31,639 --> 00:16:35,720
+And I think the point is supposed to be, and that's where you start.
+
+143
+00:16:35,720 --> 00:17:00,600
+Now, if there's some reason to doubt the phenomenon, if somebody convinces you on the basis of after images or dreams, like Descartes tried to do, that you couldn't be really open to a world, because although you could have the same experiences if you were asleep or if there were no world or if you were in the matrix, then if you then you have to sort of defend, you have to argue against that view.
+
+144
+00:17:00,599 --> 00:17:06,359
+You have to say, well, that's all parasitical on my general openness to the world, or something like that.
+
+145
+00:17:06,359 --> 00:17:12,640
+And you've got to say, well, if you've got that problem, Descartes, then you've got a big problem.
+
+146
+00:17:12,639 --> 00:17:20,960
+And saying, well, thanks to intentional content, it's all going to be, we're going to get out of this somehow isn't helpful.
+
+147
+00:17:21,200 --> 00:17:24,719
+Now, you, yeah, I don't understand, so I don't understand what you're thinking.
+
+148
+00:17:28,559 --> 00:17:37,040
+You say, yes, there's meaning, but in order to account for me, and that forest structure is a structure of subjection.
+
+149
+00:17:42,960 --> 00:17:46,799
+Do you give an account of, in effect, the genesis of a topic?
+
+150
+00:17:48,399 --> 00:17:51,359
+Oh, well, I'm not convinced of this at all.
+
+151
+00:17:51,599 --> 00:17:55,599
+I don't think the forest structure he calls it projection.
+
+152
+00:17:56,079 --> 00:17:57,760
+That's his name for it.
+
+153
+00:17:57,760 --> 00:18:04,879
+But for him, projection isn't something that the inner mind projects with its meaning on the external world.
+
+154
+00:18:04,879 --> 00:18:08,639
+So it doesn't, I mean, how does it help any?
+
+155
+00:18:08,639 --> 00:18:19,839
+How could it be true that this familiarity, which we've always had already as long as we've been Dasein, could be anything that we project on the bare facts?
+
+156
+00:18:20,159 --> 00:18:22,400
+There's no reason to think there are any bare facts.
+
+157
+00:18:22,559 --> 00:18:24,079
+We got to that last time.
+
+158
+00:18:24,240 --> 00:18:30,240
+No brute given, and there's nothing for us to do to make the brute given meaningful.
+
+159
+00:18:30,559 --> 00:18:33,760
+There's no space in there for a problem, he thinks.
+
+160
+00:18:37,040 --> 00:18:44,479
+It seems like in the way the artwork shows the point that's out of sign is displois or for frameworks explosion and so forth.
+
+161
+00:18:44,480 --> 00:18:49,679
+But that the idea of displays would be in place on it.
+
+162
+00:19:01,879 --> 00:19:04,520
+Yes, something like that is fine.
+
+163
+00:19:05,399 --> 00:19:12,359
+Clearly, if it weren't for us, Daseins, there wouldn't be a shared, meaningful world.
+
+164
+00:19:12,359 --> 00:19:19,719
+There would just be brute stuff, electrons and galaxies and trees and dogs and stuff.
+
+165
+00:19:19,960 --> 00:19:30,839
+And there's certain, and even, I'm not even sure how much, that might be the wrong way to describe them, the way you've got to describe them, the way Searle does in this orifice making the acoustic blast.
+
+166
+00:19:30,839 --> 00:19:33,240
+But there would just be meaningless stuff.
+
+167
+00:19:33,240 --> 00:19:38,199
+And thanks to Dasein being around, there isn't meaningless stuff.
+
+168
+00:19:38,200 --> 00:19:49,399
+And I think the mistake is to think that you need some kind of explanation of how Dasein does it, how Dasein does this disclosing.
+
+169
+00:19:49,399 --> 00:19:51,559
+Because I don't think he's got an explanation.
+
+170
+00:19:51,559 --> 00:20:03,079
+He just keeps telling you the structure of the disclosing, that it's familiarity, it's got a referential totality, it's got, and now it's, and our relation to it has got a force structure.
+
+171
+00:20:03,079 --> 00:20:18,040
+But none of that, I think, sort of tells you anything like explaining how there is this disclosed world.
+
+172
+00:20:18,760 --> 00:20:26,040
+Those are just all descriptive versions of aspects and structures of this disclosed world.
+
+173
+00:20:26,040 --> 00:20:29,480
+And that's the, but it's important to discuss this.
+
+174
+00:20:29,480 --> 00:20:38,359
+That's why he says this, why he wants to have this notion of meaning as basic, because that's something that they all seem to agree on.
+
+175
+00:20:38,359 --> 00:20:47,119
+We somehow put meaning onto things or into things, but you've got to be so careful.
+
+176
+00:20:47,440 --> 00:21:05,760
+You don't want there's meaning is the upon which of a projection, in terms of which something becomes intelligible as something, and that's it's the most general statement you can say.
+
+177
+00:21:05,760 --> 00:21:14,879
+And in turn, I'm just trying to hear this from your perspective, which is important.
+
+178
+00:21:14,879 --> 00:21:26,479
+Meaning is the on the basis of which of a projection, in terms of which something becomes intelligible as something.
+
+179
+00:21:37,520 --> 00:21:44,079
+And now, what I'm still trying to get used to this, and it's an existential of Dasein.
+
+180
+00:21:44,079 --> 00:21:46,000
+That's the important thing.
+
+181
+00:21:46,000 --> 00:21:50,240
+And that means as soon as there's Dasein, there's meaning.
+
+182
+00:21:50,559 --> 00:21:53,999
+And without Dasein, there wouldn't be any meaning.
+
+183
+00:21:54,000 --> 00:21:55,520
+And that's all right.
+
+184
+00:21:55,520 --> 00:21:57,760
+I mean, that's true.
+
+185
+00:21:57,760 --> 00:22:11,839
+And it doesn't now help to jump in with a story like you get in, let's say, Kant, of how the mind structures the data to give us a meaningful world.
+
+186
+00:22:11,839 --> 00:22:16,799
+Or you don't have, I mean, or Husserl or any of these philosophers.
+
+187
+00:22:17,680 --> 00:22:32,119
+It's only just Dasein as not individual Daseins, but Dasein, that there's Dasein at all, that makes it have this meaningful, makes, discloses a meaningful structure.
+
+188
+00:22:30,960 --> 00:22:33,160
+I don't know if that's any help.
+
+189
+00:22:34,040 --> 00:22:43,319
+You just got to resist trying to give an explanation of it in terms of some kind of inter inner mental content.
+
+190
+00:22:43,319 --> 00:22:46,040
+Yeah, Tyler, do you want to say something about this?
+
+191
+00:23:07,559 --> 00:23:09,240
+I think your brain said everything.
+
+192
+00:23:10,839 --> 00:23:12,520
+Ah, interesting.
+
+193
+00:23:12,839 --> 00:23:13,639
+That's good.
+
+194
+00:23:13,639 --> 00:23:14,919
+I see what you're saying.
+
+195
+00:23:14,920 --> 00:23:24,520
+Yes, there's something mysterious about how light dawns gradually over the whole, that you can't give, nobody can give a story.
+
+196
+00:23:24,520 --> 00:23:44,520
+The clearest example of the mystery that's still left when Heidegger's got his story is nobody knows a story of how language could develop, because it looks like you've always got to be at least sensitive to language to start out with, but you can't understand how you could, where that comes from.
+
+197
+00:23:44,920 --> 00:23:48,920
+And you don't understand either, step by step, how light dawns on the whole.
+
+198
+00:23:48,920 --> 00:23:55,399
+Nobody's got a story about how any civilization developed the language that it's got.
+
+199
+00:23:55,720 --> 00:23:59,479
+So the developmental story is still mysterious.
+
+200
+00:24:00,280 --> 00:24:03,399
+And there must be one, I suppose.
+
+201
+00:24:03,400 --> 00:24:08,520
+I'm not sure whether there must be one or not, but I don't see why not.
+
+202
+00:24:08,839 --> 00:24:14,040
+It's funny that if there is, nobody's come across it or even claims to have it.
+
+203
+00:24:14,040 --> 00:24:17,760
+But whatever, it's a different kind of mystery.
+
+204
+00:24:17,760 --> 00:24:19,359
+And I just try this.
+
+205
+00:24:19,599 --> 00:24:22,559
+You're throwing these interesting hard things at me.
+
+206
+00:24:23,119 --> 00:24:31,760
+It's not the kind of mystery to which you can find some kind of mental solution.
+
+207
+00:24:32,399 --> 00:24:41,199
+That's what he's got against the literal Kant, thorough intellectualist, Merlot Ponty would call it, approach to all this.
+
+208
+00:24:41,760 --> 00:24:45,680
+It's let me see if I can say more about it.
+
+209
+00:24:45,680 --> 00:24:51,840
+So, oh, oh, yeah, and it's the kind of mystery which he can just put a shove aside.
+
+210
+00:24:51,839 --> 00:24:53,119
+That's the important thing.
+
+211
+00:24:53,119 --> 00:24:55,040
+He's going to say, I'm doing phenomenology.
+
+212
+00:24:55,040 --> 00:24:57,119
+I'm not going to do this developmental stuff.
+
+213
+00:24:57,119 --> 00:24:59,200
+Sure, it's hard.
+
+214
+00:24:59,760 --> 00:25:06,639
+You can call it a mystery if you want, depending on whether you've got some kind of argument that you couldn't get the developmental story right about language.
+
+215
+00:25:06,639 --> 00:25:08,879
+But it's not my business, he wants to say.
+
+216
+00:25:09,040 --> 00:25:10,960
+And that's important, I think.
+
+217
+00:25:11,760 --> 00:25:18,479
+The mystery can be shoved off on neuroscience, which hasn't a clue, but might get an answer on its level someday.
+
+218
+00:25:18,480 --> 00:25:22,879
+Developmental psychology, which hasn't a clue, but maybe it could get an answer someday.
+
+219
+00:25:22,879 --> 00:25:28,240
+But Heidegger wants to say that's certainly, whatever it is, it's not philosopher's business.
+
+220
+00:25:28,240 --> 00:25:47,520
+And the mistake of the myth of the mental is to think that there must be a story about how each of us, with our minds, imposes this order on some kind of unstructured, what Husserl calls hyletic, meaning matter, unstructured matter, and Kant has unstructured matter, and Husserl has unstructured matter.
+
+221
+00:25:47,520 --> 00:25:51,200
+But that's just a story from Heidegger's point of view.
+
+222
+00:25:51,200 --> 00:25:56,160
+We never got any experience of unstructured matter and imposing order on it.
+
+223
+00:25:56,159 --> 00:25:56,399
+Yeah.
+
+224
+00:26:20,200 --> 00:26:21,399
+That's a helpful point.
+
+225
+00:26:22,680 --> 00:26:23,160
+Okay.
+
+226
+00:26:25,799 --> 00:26:28,919
+That's good.
+
+227
+00:26:29,000 --> 00:26:32,520
+That's another way to repeat the same point, but importantly, another way.
+
+228
+00:26:32,520 --> 00:26:34,599
+That's the solicitation story.
+
+229
+00:26:35,240 --> 00:26:44,120
+There isn't sort of solicitations don't come divided up into the object doing the soliciting and the mind being solicited.
+
+230
+00:26:44,119 --> 00:26:55,399
+When we are involved and absorbed in coping, there is just the two go out and the going out is all one experience.
+
+231
+00:26:55,399 --> 00:27:02,280
+That's another way of saying, at his level of description, this issue of how to do it.
+
+232
+00:27:02,280 --> 00:27:09,559
+I mean, explaining it doesn't matter because he's got a phenomenological description, and that's all he needs.
+
+233
+00:27:09,559 --> 00:27:11,639
+And I keep coming back to this.
+
+234
+00:27:11,639 --> 00:27:24,199
+If the intellectualists, the cognitive scientists, the neuroscientists, if they had some story about how it would happen, I don't think he would mind.
+
+235
+00:27:24,839 --> 00:27:26,840
+But he would still say, yeah, but I don't care.
+
+236
+00:27:26,839 --> 00:27:28,839
+I'm doing the phenomenology of this.
+
+237
+00:27:28,839 --> 00:27:30,359
+And congratulations.
+
+238
+00:27:30,359 --> 00:27:32,520
+Well, not to the intellectualist.
+
+239
+00:27:32,520 --> 00:27:34,040
+I mean, I take that back.
+
+240
+00:27:34,040 --> 00:27:38,679
+The intellectualist is making up a story about how the mind does it.
+
+241
+00:27:38,679 --> 00:27:48,079
+And he's going to resist that because he thinks that after, from Descartes through Husserl, people have had that story and it doesn't work and we don't need it.
+
+242
+00:27:48,079 --> 00:27:49,600
+Somebody down here wants to say something.
+
+243
+00:27:49,599 --> 00:27:50,159
+Yeah.
+
+244
+00:27:52,319 --> 00:27:55,520
+You were saying that the mind imposes meaning of things.
+
+245
+00:27:55,520 --> 00:27:58,319
+If you're pleased up with the brain, that wouldn't find it.
+
+246
+00:27:58,879 --> 00:27:59,760
+Well, I think so.
+
+247
+00:27:59,760 --> 00:28:03,280
+Though I realize I'm going way out on a limb.
+
+248
+00:28:06,799 --> 00:28:22,319
+The reason I think so is tied up with what won't really come up until the reality chapter, that whether Heidegger thinks that there is a universe out there which has the natural kinds in it with causal properties.
+
+249
+00:28:22,319 --> 00:28:27,119
+I mean, I think he thinks, yeah, the brain is a part of the universe, and it has its causal properties.
+
+250
+00:28:27,119 --> 00:28:33,359
+And if we only understood it, maybe we'd understand how it causes us to have experiences.
+
+251
+00:28:33,920 --> 00:28:39,280
+The one thing he would resist, it's important to add, is he wouldn't be a reductionist.
+
+252
+00:28:39,280 --> 00:28:45,600
+He wouldn't say, aha, then now we understand meaning and world and all that.
+
+253
+00:28:46,159 --> 00:28:49,360
+The phenomena would be as unintelligible as ever.
+
+254
+00:28:49,359 --> 00:28:53,199
+We would just understand the causal basis of it, and that would be nice.
+
+255
+00:28:53,200 --> 00:29:03,200
+Just as what it is to be a hammer can't be reduced to the shank and the blob and the physical properties of shanks and blobs and nails.
+
+256
+00:29:04,240 --> 00:29:19,919
+And Heidegger wouldn't nothing science could come up would convince Heidegger that the world disclosed by Dasein could be explained by any present-of-hand facts about nature.
+
+257
+00:29:19,920 --> 00:29:21,799
+He says that in Norman or something.
+
+258
+00:29:23,559 --> 00:29:26,479
+Worldhood can never be understood in terms of nature.
+
+259
+00:29:26,480 --> 00:29:31,040
+That is something like we're going to get to today in another version.
+
+260
+00:29:31,319 --> 00:29:43,799
+The richness of meaning is something that you can't ever understand in the impoverishedness of the present-of-hand and its law-like relations.
+
+261
+00:29:43,799 --> 00:29:49,079
+So even if you had them, you couldn't use them to get back the richness of meaning.
+
+262
+00:29:49,079 --> 00:29:53,079
+I think I will jump to a quote which I think is very important and interesting.
+
+263
+00:29:53,079 --> 00:29:58,119
+I didn't expect to get here till much later, but why not read it right now?
+
+264
+00:30:00,599 --> 00:30:15,879
+If I could find it, I would find 121.
+
+265
+00:30:16,920 --> 00:30:20,839
+This is apropos of what we've been talking about.
+
+266
+00:30:20,839 --> 00:30:28,439
+About 10 lines from the bottom, middle of 88 in the German, on page 121 at the bottom in English.
+
+267
+00:30:28,440 --> 00:30:37,639
+The context of assignments or references, which as significance is constituted for worldhood, can be taken formally in the sense of a system of relations.
+
+268
+00:30:37,639 --> 00:30:51,000
+But one must note that such formalizations and phenomena get leveled off when their real phenomenal content, by the way, this is not against science.
+
+269
+00:30:51,000 --> 00:30:55,240
+This happens to be against some cognitivist AI view.
+
+270
+00:30:55,240 --> 00:31:01,000
+But you could talk about either doing it with rules, informal, or with laws.
+
+271
+00:31:01,000 --> 00:31:02,439
+It would be the same thing.
+
+272
+00:31:02,440 --> 00:31:10,040
+But we note that such formalizations, the phenomena get leveled off so that their real phenomenal content gets lost.
+
+273
+00:31:10,359 --> 00:31:12,280
+That's how it is in German.
+
+274
+00:31:12,599 --> 00:31:15,960
+Especially in the case of such simple relations as lurk and significance.
+
+275
+00:31:16,799 --> 00:31:28,719
+The phenomenal content of these relations in Relata, the in order to, the for the sake of, the with-which, and involvement, is such that they resist any sort of mathematical functionalization.
+
+276
+00:31:28,720 --> 00:31:33,119
+I think that means mathematical science and also artificial intelligence.
+
+277
+00:31:33,119 --> 00:31:37,440
+Nor are they merely something thought, first posited in an act of thinking.
+
+278
+00:31:37,440 --> 00:31:43,599
+That is, they're not sort of organized by concepts.
+
+279
+00:31:43,599 --> 00:31:49,119
+They are relationships in which concernful circumspection as such already dwells.
+
+280
+00:31:49,599 --> 00:31:59,200
+That's just another way of saying he realizes that he's got a story which and that's the story we're going to have today, so this is all a kind of overture.
+
+281
+00:31:59,199 --> 00:32:05,920
+He's got a story about how much you have to leave out to get to science and logic.
+
+282
+00:32:05,920 --> 00:32:11,040
+This one happens to be about logic, but any formalization.
+
+283
+00:32:11,199 --> 00:32:13,599
+You have to decontextualize.
+
+284
+00:32:13,599 --> 00:32:15,280
+You have to de-world.
+
+285
+00:32:15,279 --> 00:32:37,840
+You have to leave so much out that you can't, there would be, there's no reason to think, and every reason to doubt that you could ever get it back, get the world back, meaning back, and the hammering back from the residue that science and logic operate with.
+
+286
+00:32:37,840 --> 00:32:40,719
+That's an important, important claim.
+
+287
+00:32:40,719 --> 00:32:41,119
+Yeah.
+
+288
+00:32:53,119 --> 00:32:58,319
+Well, this must be what currents everything has the brain to do it, right?
+
+289
+00:32:58,320 --> 00:33:06,200
+But if all this complicated meaning and things are possible in the brain and they only function for the business, why not everything?
+
+290
+00:33:08,119 --> 00:33:09,079
+That's hard.
+
+291
+00:33:09,079 --> 00:33:09,959
+That's hard.
+
+292
+00:33:09,960 --> 00:33:19,000
+It's that when you describe, and it's important, but unfortunately, we shouldn't spend too much time on it because Heidegger doesn't.
+
+293
+00:33:19,000 --> 00:33:28,199
+But there's some there though he would say that the is it's sort of how many have had Davidson in any course?
+
+294
+00:33:29,079 --> 00:33:51,480
+It's a kind of it's a kind of it's a kind of point that says he would make the point that this holism of meaning, even if it's somehow underlain causally by a holism in the brain, can be, the two holisms can't be mapped upon each other in any law-like way.
+
+295
+00:33:51,480 --> 00:33:52,839
+That's the Davidson argument.
+
+296
+00:33:52,840 --> 00:33:54,040
+That's what you'd have to say.
+
+297
+00:33:54,440 --> 00:34:08,439
+So you've got sort of, to talk like David said, any given experience would be identical with something going on in the brain, but there'd be no law-like description of how all of experience is related to all of what's going on in the brain.
+
+298
+00:34:09,000 --> 00:34:09,880
+You see that.
+
+299
+00:34:09,880 --> 00:34:11,720
+Okay, now I saw another hand.
+
+300
+00:34:11,719 --> 00:34:13,719
+But this is really, this last question.
+
+301
+00:34:13,719 --> 00:34:16,040
+Let's hear this, but then I have to go on.
+
+302
+00:34:18,440 --> 00:34:22,760
+No amount of empirical evidence could support the intellectual conclusion.
+
+303
+00:34:23,880 --> 00:34:25,960
+He's asking, okay.
+
+304
+00:34:26,279 --> 00:34:32,679
+Stephen is asking, is Heidegger saying that no amount of evidence could support the intellectualist conclusion?
+
+305
+00:34:32,679 --> 00:34:50,160
+The intellectualist being the one who thinks that there are these meanings in the mind, these rules that the mind uses to organize the hyletic data, the unstructured matter that we experience when the world impinges on us.
+
+306
+00:34:50,320 --> 00:34:52,400
+What would Heidegger say about it?
+
+307
+00:34:55,279 --> 00:34:56,880
+Well, isn't it interesting?
+
+308
+00:34:56,880 --> 00:35:02,960
+I mean, I think Heidegger would say, and I think I've got the place, I was reading you, in effect, the place where he says it.
+
+309
+00:35:02,960 --> 00:35:04,800
+But first, I'll say it my way.
+
+310
+00:35:04,800 --> 00:35:19,120
+You can't prove that artificial intelligence, that is, to explain, give the whole logical structure of intelligibility in terms of formal relations, you can't prove that that's impossible.
+
+311
+00:35:19,119 --> 00:35:22,719
+And you can't prove that cognitivism is impossible.
+
+312
+00:35:22,719 --> 00:35:27,920
+If you could, you could write the proof and they could read it, and then they would all have to go home and give up.
+
+313
+00:35:28,159 --> 00:35:43,520
+What you can do is tell a story in which it looks terribly implausible and list all the ways that they failed and are failing to do it, and point out that that's just the sort of failures you'd expect if it was, it turns out, that you can't do it.
+
+314
+00:35:43,520 --> 00:35:46,559
+That's what I did in my book, What Computers Can't Do.
+
+315
+00:35:46,559 --> 00:35:55,279
+And I carefully never said computers can't be programmed to be intelligent, because I can't see how you could ever have an argument like that.
+
+316
+00:35:55,279 --> 00:35:58,720
+And I don't think Heidegger has an argument like that.
+
+317
+00:35:59,360 --> 00:36:11,439
+And that's why, now I want to go back that the cautious and the interesting way he puts this on 121 is that the real phenomenal content, and the English makes it even more cautious.
+
+318
+00:36:11,440 --> 00:36:12,959
+It says may be lost.
+
+319
+00:36:12,960 --> 00:36:14,640
+It's a little stronger than that.
+
+320
+00:36:14,639 --> 00:36:17,760
+It's that their phenomenal content gets lost.
+
+321
+00:36:17,759 --> 00:36:20,320
+But he doesn't say must get lost.
+
+322
+00:36:20,320 --> 00:36:22,880
+It's a very cautious statement.
+
+323
+00:36:22,880 --> 00:36:25,599
+And it's all like that.
+
+324
+00:36:25,599 --> 00:36:33,079
+Notice on the next page that the for the sake of which and so forth resists any sort of mathematical functionalization.
+
+325
+00:36:33,239 --> 00:36:34,119
+Isn't that interesting?
+
+326
+00:36:34,119 --> 00:36:39,960
+He could have said just can't be formalized, that he'd have no right to say just can't be formalized.
+
+327
+00:36:39,960 --> 00:36:45,880
+So he says just what he ought to say: that it doesn't look like there's any way it can be formalized.
+
+328
+00:36:45,880 --> 00:36:47,320
+I'm glad you asked.
+
+329
+00:36:47,559 --> 00:36:51,160
+Now, we're going back onward, wherever we were.
+
+330
+00:36:51,719 --> 00:36:55,160
+I think I've covered, but I have to see now what I've done.
+
+331
+00:36:56,119 --> 00:36:57,800
+Yeah, yeah, yeah.
+
+332
+00:36:58,440 --> 00:36:59,240
+Yeah.
+
+333
+00:37:00,199 --> 00:37:03,800
+Okay, now we're ready for the derivation of logic.
+
+334
+00:37:03,800 --> 00:37:25,320
+And that is exactly what we should, which is going to be the argument that step by step, so much is left out in order to arrive at subjects, or that is substances with properties, so that you can have a predicate calculus of the substances and their properties.
+
+335
+00:37:25,800 --> 00:37:47,400
+So much of our everyday experience is left out that it's crazy to think, or utterly implausible to think, that you could use this minimal related stuff to give a description of all of intelligibility, to program a computer, in effect, to understand our language, our world, and act in it, and so forth.
+
+336
+00:37:48,040 --> 00:37:52,040
+So now we're going to do the derivation of logic.
+
+337
+00:37:52,040 --> 00:37:59,720
+It's also going to be, it has two functions, it seems to me, that it's also going to answer an important question.
+
+338
+00:37:59,719 --> 00:38:05,520
+If our basic way of being in the world is dealing with familiarity.
+
+339
+00:38:05,520 --> 00:38:26,319
+How do we ever get to concepts and judgments and logic when you need something like a derivation of the conceptual out of the involved, absorbed, transparent, basic coping?
+
+340
+00:38:26,320 --> 00:38:28,880
+And that's what he's going to try to give you now.
+
+341
+00:38:29,840 --> 00:38:34,719
+And that would, as I wrote here, put logic in its place as a kind of hun.
+
+342
+00:38:34,800 --> 00:38:39,520
+I mean, in one sense, it would show you that logic has a place.
+
+343
+00:38:39,520 --> 00:38:42,879
+In another, it would say, but don't get uppity about it, logic.
+
+344
+00:38:45,440 --> 00:38:48,960
+You can't grasp your own roots, as you'll say later.
+
+345
+00:38:48,960 --> 00:38:50,800
+Okay, now let's see.
+
+346
+00:38:50,800 --> 00:39:02,000
+So he's going to show how we transform absorbed dealing into dealing with thematized objects under aspects and then into detached noticing of substances with properties.
+
+347
+00:39:02,000 --> 00:39:03,840
+That's his project.
+
+348
+00:39:03,840 --> 00:39:38,799
+And it's important to me because it seems to me that nobody of the kind of people that I'm interested in, and the fact that you're here suggests that you are too, people like Heidegger and Merleau-Ponty, who want to describe our everyday involved coping sort of experience, they admit, well, Merleau-Ponty admits that he didn't live to admit it, but Merleau-Ponty said, of course, we have to have something like the genealogy of logic, which is just what we're going to get.
+
+349
+00:39:38,800 --> 00:39:44,559
+A story about how logic can be developed out of our coping experience and out of perception.
+
+350
+00:39:44,559 --> 00:39:46,879
+And Merleau-Ponty was never able to write it.
+
+351
+00:39:46,880 --> 00:39:53,520
+There's just a few pages in his, I gather from Sean Kelly, who went to look, that there's nothing interesting.
+
+352
+00:39:53,679 --> 00:39:56,480
+And Merleau-Ponty had lots of years to do it.
+
+353
+00:39:56,480 --> 00:39:58,880
+He couldn't do the genealogy of logic.
+
+354
+00:39:58,880 --> 00:40:14,200
+And I don't know anybody else who's trying, except I mentioned Samuel Totis because I published his book when he died, and there's an appendix in which he tries to show how you can get concepts out of the everyday perception.
+
+355
+00:40:14,199 --> 00:40:22,040
+But I don't think anybody's done it very, tried it very well, done it, well, tried it even, and those who tried it haven't got very far.
+
+356
+00:40:22,040 --> 00:40:24,520
+And Heidegger's gotten further than anybody.
+
+357
+00:40:24,520 --> 00:40:48,680
+And so when you hear this, what we're going to talk about for the rest of the time, here it is, a very rough sketch of a program that ought to be worked out and is really what anybody who believes in the kind of basic involved coping that Heidegger believes in owes an account in detail of how we're able to have science and logic.
+
+358
+00:40:48,679 --> 00:40:51,320
+And that's what he's giving us here.
+
+359
+00:40:51,880 --> 00:41:07,400
+And as he says on 196, I say here.
+
+360
+00:41:07,719 --> 00:41:11,079
+So he's going to, at the top, consider assertion.
+
+361
+00:41:12,199 --> 00:41:16,359
+Well, it's not helpful to begin there, I think.
+
+362
+00:41:16,840 --> 00:41:18,840
+So never mind that, I think.
+
+363
+00:41:18,840 --> 00:41:19,880
+But I'll.
+
+364
+00:41:30,679 --> 00:41:43,720
+Well, what I want is the sentence that he wants, he's going to try to show us at the top of 196 the ways the structure of the as, which is constituted for understanding and interpretation, can be modified.
+
+365
+00:41:43,719 --> 00:41:50,399
+Modified meaning that you will get something else, you will get a formal system instead of an as structure.
+
+366
+00:41:50,400 --> 00:41:53,440
+And how can that happen and by what steps?
+
+367
+00:41:54,719 --> 00:41:58,480
+So let me just make sure I've done it, what I want to do.
+
+368
+00:42:08,559 --> 00:42:09,199
+Yes.
+
+369
+00:42:09,199 --> 00:42:10,559
+So now we're going to do it.
+
+370
+00:42:10,559 --> 00:42:15,680
+And he says he's going to do it by starting with assertion on page 195.
+
+371
+00:42:15,679 --> 00:42:25,599
+And that's, and so he says at the very beginning of the section 33: assertion is a derivative mode of interpretation is the name of it.
+
+372
+00:42:25,599 --> 00:42:28,640
+All interpretation is grounded on understanding.
+
+373
+00:42:28,639 --> 00:42:31,200
+You should be getting used to that by now.
+
+374
+00:42:31,199 --> 00:42:34,720
+There's basic level coping, and that's understanding.
+
+375
+00:42:34,719 --> 00:42:40,720
+And then there's interpretation, which is thematizing it when there's some kind of problem.
+
+376
+00:42:40,719 --> 00:42:44,640
+And they're, in a sense, grounded in it.
+
+377
+00:42:44,639 --> 00:42:55,759
+So that which has been articulated as such in interpretation and sketched out beforehand in the understanding as something articulable is the meaning.
+
+378
+00:42:55,759 --> 00:42:57,279
+Well, we just went through all that.
+
+379
+00:42:57,279 --> 00:43:00,720
+It all seems to be just saying the same thing over and over.
+
+380
+00:43:00,719 --> 00:43:12,480
+Insofar as assertion is grounded on under and judgment is grounded on understanding and presents us with a derivative form in which interpretation has been carried out, it too has a meaning.
+
+381
+00:43:12,480 --> 00:43:20,480
+Yet this meaning cannot be defined as something which occurs in judgment along with the judging itself.
+
+382
+00:43:20,480 --> 00:43:24,720
+In our present concept, we'll give an explicit analysis of assertion.
+
+383
+00:43:24,719 --> 00:43:42,199
+I take it, I'm never sure about these things, but it looks like what he's saying there is interesting, and it amounts to saying that we're going to talk about, people talk about, in his tradition, assertions and judgments.
+
+384
+00:43:42,199 --> 00:43:51,079
+Kant's got all sorts of talk about judgment, but he wants to talk about the activity of making assertions and making judgments, which would be natural.
+
+385
+00:43:51,079 --> 00:44:01,880
+I mean, and when he's going to, and he doesn't need these sort of entities, judgments and assertions, as, again, inner mental stuff.
+
+386
+00:44:01,880 --> 00:44:21,880
+He wants to say, well, even making assertions and making judgments is a form of dealing and coping, and we ought to be able to describe that too, and not say that somehow when we are making judgments, that's got to be, we've got to have something called a judgment, which we then are able to perform.
+
+387
+00:44:21,880 --> 00:44:24,279
+But what is it then to make a judgment and an assertion?
+
+388
+00:44:24,279 --> 00:44:27,960
+Well, then he's got to tell you a story about that, which he's going to try to do.
+
+389
+00:44:27,960 --> 00:44:31,799
+And he's just going to go through the phenomena.
+
+390
+00:44:31,800 --> 00:44:33,479
+He's to understand judging.
+
+391
+00:44:33,480 --> 00:44:35,400
+We've got to understand asserting.
+
+392
+00:44:35,400 --> 00:44:37,879
+And asserting is a kind of speech act.
+
+393
+00:44:37,880 --> 00:44:39,319
+In that way, he's like Searle.
+
+394
+00:44:40,759 --> 00:44:42,760
+It's something people do.
+
+395
+00:44:42,759 --> 00:44:45,160
+And it has three functions.
+
+396
+00:44:45,159 --> 00:44:59,480
+And it turns out that the functions of asserting gets you finally to a point where you can understand properties and substances with their properties.
+
+397
+00:44:59,480 --> 00:45:01,480
+But you have to get there step by step.
+
+398
+00:45:01,480 --> 00:45:05,719
+And that's this derivation that I keep saying he's got to give, and he's promised.
+
+399
+00:45:05,719 --> 00:45:07,559
+So, first, let's look at the three functions.
+
+400
+00:45:07,559 --> 00:45:08,840
+We're still doing all right.
+
+401
+00:45:09,480 --> 00:45:15,840
+The first function, assertions perform, is on page 196 at the bottom.
+
+402
+00:45:15,320 --> 00:45:19,279
+The primary significance of assertion is pointing out.
+
+403
+00:45:19,840 --> 00:45:28,480
+In this, we adhere to the primordial meaning of logos as apophansis, that is, letting an entity be seen from itself.
+
+404
+00:45:28,880 --> 00:45:47,040
+Incidentally, he's got an interesting story about logos, which the word that gets taught, when we say man is a rational animal, when we read Aristotle is saying that, it's logos that's being translated as rational.
+
+405
+00:45:47,040 --> 00:45:51,520
+Or when somebody else says, no, no, basically, man is a speaking animal, then it's logos.
+
+406
+00:45:51,520 --> 00:45:55,680
+It's all the same word gets translated as speaking.
+
+407
+00:45:55,679 --> 00:46:03,040
+And Heidegger wants to get at an even more basic notion of logos.
+
+408
+00:46:03,040 --> 00:46:07,120
+Logos, finally, is letting an entity be seen from itself.
+
+409
+00:46:07,119 --> 00:46:08,800
+It's pointing out.
+
+410
+00:46:08,800 --> 00:46:21,200
+And saying it's rational and speaking, well, it could be rational, and it could be given words, but it could be that in some kind of gesture or some other way you could point it out.
+
+411
+00:46:21,840 --> 00:46:26,160
+And it would still count as logos.
+
+412
+00:46:26,400 --> 00:46:34,480
+So, in the assertion the hammer is too heavy, what is discovered for sight is not a meaning, but an entity in the way it is ready to hand.
+
+413
+00:46:34,480 --> 00:46:43,119
+And somewhere he says, I just realized I don't know where it is, and it isn't here, that you can make that sort of assertion.
+
+414
+00:46:43,119 --> 00:46:47,680
+That is, you could point out that the hammer was too heavy without wasting words.
+
+415
+00:46:47,679 --> 00:46:52,399
+I take that to mean you could just put it down and pick up a lighter hammer.
+
+416
+00:46:52,400 --> 00:46:56,319
+That's already pointing out, or how does it go?
+
+417
+00:46:56,639 --> 00:47:00,480
+Letting it be seen that the hammer's too heavy.
+
+418
+00:47:01,559 --> 00:47:11,720
+I had a smart student who once wrote a paper all around a similar thing when a doctor says to the nurse or assistant, whoever the assistant is, scalpel.
+
+419
+00:47:11,719 --> 00:47:20,359
+In this whole setup of operating on somebody that they're both very familiar with, he doesn't have to say, I need a scalpel.
+
+420
+00:47:20,360 --> 00:47:22,439
+He doesn't even have to say, scalpel.
+
+421
+00:47:22,440 --> 00:47:27,400
+He could just reach, and the nurse is going to give him a scalpel if she's watching what he's doing.
+
+422
+00:47:27,400 --> 00:47:35,160
+That's enough, I think, to count as a pointing out at the very bottom level.
+
+423
+00:47:35,480 --> 00:47:36,680
+Let's see.
+
+424
+00:47:38,279 --> 00:47:43,320
+And even if, and then, but Heidegger's more interested here in getting rid of another inner thing.
+
+425
+00:47:44,440 --> 00:47:57,480
+A strange claim of his is that we can point, it's easy to see how we can point things out in the vicinity when everybody can see them, like the scalpel story or the hammer story.
+
+426
+00:47:57,480 --> 00:48:02,920
+But we can even point things out at a distance, not close enough to be seen, he says.
+
+427
+00:48:03,559 --> 00:48:10,599
+And then when we do, let's point out that the war in Iraq is going badly.
+
+428
+00:48:10,599 --> 00:48:19,800
+Now, the usual view is, well, we can't see the war in Iraq, so we must have a representation of it in our mind.
+
+429
+00:48:19,800 --> 00:48:23,079
+And then we say the war in Iraq is going badly, and you get a representation.
+
+430
+00:48:23,159 --> 00:48:23,880
+I have it in it.
+
+431
+00:48:23,960 --> 00:48:26,840
+Now you've got a representation of that in your mind.
+
+432
+00:48:26,840 --> 00:48:30,599
+That's the Sesame Street view, remember, of the flowers.
+
+433
+00:48:30,599 --> 00:48:37,799
+And Heidegger wants to say that doesn't help any, that doesn't add anything, that it just doesn't notice the phenomenon.
+
+434
+00:48:37,800 --> 00:48:43,480
+The interesting thing is that language can be used to point out stuff that isn't in the vicinity.
+
+435
+00:48:43,480 --> 00:48:50,159
+And when I talk about the war in Iraq, I just am talking about that war, not about a representation of it.
+
+436
+00:48:50,159 --> 00:48:56,639
+And you are in a world in which we both share and in which that war is a part in that world.
+
+437
+00:48:56,639 --> 00:49:01,120
+And you just, you, then it gets pointed out to you.
+
+438
+00:49:01,119 --> 00:49:03,840
+And that's what he wants to say here.
+
+439
+00:49:05,360 --> 00:49:13,120
+He says the pointing out has in view the entity itself, and not, let us say, a mere representation of it.
+
+440
+00:49:13,119 --> 00:49:19,280
+Neither something merely represented nor the psychical condition in which the person who makes the assertion represents it.
+
+441
+00:49:19,279 --> 00:49:25,119
+That is, it's not something, you don't need anything in your mind for me to be able to open.
+
+442
+00:49:26,079 --> 00:49:28,240
+All we need is a shared world.
+
+443
+00:49:28,559 --> 00:49:40,880
+And if we have a shared world, like if the two kids in Sesame Street are both in this thing, this flower, then you can point out the flower without you having a representation and passing it on.
+
+444
+00:49:40,880 --> 00:49:47,520
+And even if you're not in a position where you can see the flower, and it's in another room or something, you can still do it.
+
+445
+00:49:47,520 --> 00:49:52,559
+So that's his first, that's the asserting, the pointing out story.
+
+446
+00:49:53,040 --> 00:50:00,800
+Then now comes the beginning of the moves toward predicates, but not right off.
+
+447
+00:50:00,800 --> 00:50:03,680
+The next thing is predication.
+
+448
+00:50:03,679 --> 00:50:14,000
+But predication, there's something more basic than the kind of predicate that Aristotle thought of asserting a predicate of a subject.
+
+449
+00:50:14,000 --> 00:50:20,880
+He says, we assert, I'm at the bottom of 196, a predicate of a subject, and the subject is given a definite character by the predicate.
+
+450
+00:50:20,880 --> 00:50:27,200
+In this signification of assertion, that which is put forward is not the predicate, but the hammer itself.
+
+451
+00:50:27,199 --> 00:50:28,399
+We're back that again.
+
+452
+00:50:28,400 --> 00:50:31,040
+So we say the hammer is too heavy.
+
+453
+00:50:31,239 --> 00:50:36,280
+One, he's again saying it's the hammer we're talking about, not some representation.
+
+454
+00:50:36,279 --> 00:50:42,440
+But what's really important here, and he doesn't make it so clear here, but I can make it clear.
+
+455
+00:50:42,440 --> 00:50:52,599
+To say that I've said it before, the hammer is too heavy is a situational story about an aspect of the hammer.
+
+456
+00:50:52,599 --> 00:50:55,400
+It's very different than a property of the hammer.
+
+457
+00:50:55,400 --> 00:50:57,480
+And you can tell the difference easily enough.
+
+458
+00:50:57,480 --> 00:51:02,919
+If you take the hammer and put it in a drawer, it doesn't keep this aspect too heavy.
+
+459
+00:51:02,920 --> 00:51:07,320
+It's only too heavy for me in this situation with this wood and this nail.
+
+460
+00:51:07,320 --> 00:51:11,960
+However, a real predicate would be the hammer weighs five pounds.
+
+461
+00:51:11,960 --> 00:51:15,399
+If you put the hammer in a drawer, it still weighs five pounds.
+
+462
+00:51:15,400 --> 00:51:18,680
+Predicates are properties of objects.
+
+463
+00:51:18,679 --> 00:51:24,040
+Aspects are something that is a relation between me and objects.
+
+464
+00:51:24,040 --> 00:51:30,279
+And he's going to start with that basic kind of predicate.
+
+465
+00:51:30,599 --> 00:51:34,120
+And then he can later get to the properties.
+
+466
+00:51:34,119 --> 00:51:38,599
+So he says, on the one hand, what does he, let's see.
+
+467
+00:51:38,599 --> 00:51:40,599
+So it's too heavy.
+
+468
+00:51:40,920 --> 00:51:41,480
+Oh, yeah.
+
+469
+00:51:42,199 --> 00:51:50,440
+What he's going to stress here is the positive aspect of saying that something is too heavy.
+
+470
+00:51:50,440 --> 00:51:52,599
+And that is the very bottom of 196.
+
+471
+00:51:52,599 --> 00:51:59,399
+When I say that, something, my assertion undergoes a narrowing of content.
+
+472
+00:51:59,719 --> 00:52:02,599
+That is, not mental content.
+
+473
+00:52:02,599 --> 00:52:29,680
+But if I say of the hammer it's too heavy, I am telling you not only an aspect, which is what I think is interesting about it, but what he thinks is interesting about it is, I'm calling attention to an aspect of the hammer, namely that it's too heavy and not, say, too light or too noisy or whatever else can happen to hammers, too flimsy and so forth.
+
+474
+00:52:30,000 --> 00:52:34,720
+When you use a predicate, there is, as he says, a narrowing of content.
+
+475
+00:52:34,719 --> 00:52:37,119
+And again, don't think of intentional content.
+
+476
+00:52:37,759 --> 00:52:45,440
+It's a narrowing of what it is about the hammer itself that you are pointing out.
+
+477
+00:52:45,440 --> 00:52:50,960
+And at the top of 197, every predication is what it is, only as a pointing out.
+
+478
+00:52:50,960 --> 00:52:55,679
+And so assertion means pointing out.
+
+479
+00:52:55,679 --> 00:53:00,240
+But it's a special kind, and skipping down about six lines in 197.
+
+480
+00:53:00,960 --> 00:53:03,839
+When we give such a character, our seeing gets restricted.
+
+481
+00:53:03,840 --> 00:53:06,800
+You see, that's the same as this narrowing of content.
+
+482
+00:53:06,800 --> 00:53:08,480
+Now you understand what that is.
+
+483
+00:53:08,480 --> 00:53:13,440
+I mean, we're getting restricted to the weight of the hammer, for instance.
+
+484
+00:53:13,440 --> 00:53:26,400
+Our seeing gets restricted in the first instance, and so that by this explicit restriction of our view, that which is already manifest be made explicitly manifest in its definite character.
+
+485
+00:53:26,400 --> 00:53:35,280
+In giving something a definite character, we must, in the first instance, take a step back when confronted with that which is already manifest, the hammer that is too heavy.
+
+486
+00:53:35,279 --> 00:53:39,199
+That is, you, I take it that means you thematize it.
+
+487
+00:53:39,199 --> 00:53:41,599
+You have to notice the hammer is too heavy.
+
+488
+00:53:42,400 --> 00:53:47,359
+You're no longer totally absorbed in it, and then you can see the problem.
+
+489
+00:53:47,360 --> 00:53:59,280
+I guess the picture is you're hammering away and everything's going all right, but then there's some kind of tension, and then finally you step back, you pay attention, and you see, oh, yes, the hammer is too heavy.
+
+490
+00:53:59,279 --> 00:54:06,359
+And that's that, and then we are doing, again, dimming down.
+
+491
+00:54:06,360 --> 00:54:16,280
+So, in setting down the subject, we dim entities down to focus that hammer there so that it dimmed down in its character.
+
+492
+00:54:16,279 --> 00:54:18,440
+And that's the next move.
+
+493
+00:54:19,639 --> 00:54:23,000
+That's to predicate an aspect of it.
+
+494
+00:54:23,000 --> 00:54:26,199
+We aren't going to, by the way, don't expect to get to properties right away.
+
+495
+00:54:26,199 --> 00:54:36,999
+There's a kind of detour now through communication, because he's telling you what assertions do, and then he's going to tell you how you get to properties from there.
+
+496
+00:54:37,000 --> 00:54:43,240
+So, but let's what assertions do is communicate, and then that's he says that on 197.
+
+497
+00:54:44,520 --> 00:54:47,559
+I'm just making sure I've got everything that I want to talk about.
+
+498
+00:54:47,559 --> 00:54:50,040
+There are lots of things going on at once here.
+
+499
+00:54:51,000 --> 00:55:02,200
+Oh, I did want to, that the top paragraph on 197, the last sentence, setting down the subject, setting down the predicate, and setting down the two together are thoroughly apophantic in the strict sense of the word.
+
+500
+00:55:02,199 --> 00:55:04,279
+What does the apophantic mean, remember?
+
+501
+00:55:04,279 --> 00:55:08,680
+They are ways of letting something be seen from itself.
+
+502
+00:55:08,679 --> 00:55:11,720
+Namely, you're now seeing the hammer is too heavy.
+
+503
+00:55:11,719 --> 00:55:16,520
+And it's interesting that he's already talking about subjects and predicates here.
+
+504
+00:55:16,520 --> 00:55:17,639
+That makes me nervous.
+
+505
+00:55:17,639 --> 00:55:21,079
+I would like him to have another word, remember, aspects.
+
+506
+00:55:21,079 --> 00:55:33,880
+It's clear that he's not talking about subjects as self-sufficient things and properties of those things, like the hammer has weight.
+
+507
+00:55:33,880 --> 00:55:38,200
+He's still talking about the situational kind.
+
+508
+00:55:38,199 --> 00:55:41,000
+But I guess it's just because the tradition calls it.
+
+509
+00:55:41,159 --> 00:55:43,159
+Why is there always subjects with predicates?
+
+510
+00:55:43,159 --> 00:55:52,320
+Because grammatically, when I say this hammer is too heavy, there's the subject, this hammer, is too heavy.
+
+511
+00:55:52,320 --> 00:55:55,840
+So in that sense, there's already subjects with predicates.
+
+512
+00:55:55,840 --> 00:56:11,920
+But philosophy is going to make a big deal, starting, I guess, with Aristotle, that the really the important subjects are these substances that are self-sufficient and properties that inhere in the substances and are self-sufficient.
+
+513
+00:56:11,920 --> 00:56:17,520
+And well, they depend on the substances, but like weight, they don't depend on the situation.
+
+514
+00:56:17,520 --> 00:56:18,720
+But we haven't got there.
+
+515
+00:56:18,719 --> 00:56:21,519
+So just let's do communication and then we'll get there.
+
+516
+00:56:21,520 --> 00:56:22,639
+We're doing all right still.
+
+517
+00:56:22,639 --> 00:56:26,720
+197, I'm still looking at things.
+
+518
+00:56:27,360 --> 00:56:38,559
+So the communication lets us share, looking at something, it lets someone see with us what we've pointed out by giving it a definite character.
+
+519
+00:56:38,559 --> 00:56:42,000
+That's the second sentence in number three.
+
+520
+00:56:42,000 --> 00:56:49,760
+And going on a little, skipping a little, that which is shared is our being towards what has been pointed out, a being in which we see in common.
+
+521
+00:56:49,759 --> 00:56:53,520
+Just keep thinking of the Sesame Street thing as what he's objecting to.
+
+522
+00:56:53,840 --> 00:56:59,599
+What's shared is you're in a shared world and you're pointing at some flower and both of you are seeing the flower.
+
+523
+00:56:59,840 --> 00:57:08,559
+What we must keep in mind is that this being toward is being in the world and that from out of this very world, what has been pointed out gets encountered.
+
+524
+00:57:08,880 --> 00:57:12,960
+Now, I don't know if I need to read much more of that because he keeps saying it over and over.
+
+525
+00:57:12,960 --> 00:57:14,879
+I think that's enough.
+
+526
+00:57:15,040 --> 00:57:19,440
+We can go to 199, where he sums up what he's doing here.
+
+527
+00:57:21,040 --> 00:57:47,079
+And so if we bring together the top paragraph, the middle of 156 in the German, top paragraph of 190, top full paragraph of 199, if we bring together the three significations of assertion, which we have analyzed, and get a unitary view of the full phenomena, then we define assertion as a pointing out which gives something a definite character and which communicates.
+
+528
+00:57:48,040 --> 00:57:49,480
+That's what he's done.
+
+529
+00:57:49,480 --> 00:57:51,640
+But what's he going to do with that?
+
+530
+00:57:51,639 --> 00:57:53,880
+Well, that's what we've got to find out.
+
+531
+00:57:59,000 --> 00:58:10,280
+Again, he's going to tell you, but I have to keep saying it, that assertions only work on the background of shared familiarity and a shared world.
+
+532
+00:58:10,279 --> 00:58:11,799
+So he's a little further down.
+
+533
+00:58:11,800 --> 00:58:19,400
+The pointing out, which assertion does, is performed on the basis of what has already been disclosed in understanding or discovered circumspectively.
+
+534
+00:58:19,400 --> 00:58:24,760
+And that means assertion, now he's going to say, and the tradition doesn't understand that.
+
+535
+00:58:24,759 --> 00:58:33,159
+But that means assertion is not a free-floating kind of behavior, which in his own right might be capable of disclosing entities in general in a primary way.
+
+536
+00:58:33,159 --> 00:58:41,640
+On the contrary, it always maintains itself on the basis of being in the world.
+
+537
+00:58:41,639 --> 00:58:42,759
+And that's fine.
+
+538
+00:58:42,759 --> 00:58:45,000
+Now he's got that.
+
+539
+00:58:56,040 --> 00:59:01,640
+And it requires a forehaving, it requires a foresight, and we've done all that.
+
+540
+00:59:04,840 --> 00:59:09,160
+So Kaidig is going to go on now to his job.
+
+541
+00:59:09,159 --> 00:59:15,680
+His job is this kind of derivation, I keep saying, that nobody has, and that he at least is trying to have.
+
+542
+00:59:15,679 --> 00:59:24,320
+And he's asking this important question, which I keep wanting to say, this is the question that analytic and continental philosophers should all be worrying about.
+
+543
+00:59:24,320 --> 00:59:29,920
+Except none of them are, except I think Sean Kelly is, and he's writing a book about it.
+
+544
+00:59:30,239 --> 00:59:52,720
+But the question Heidegger's asking, and he's at least asking the right question, the middle of 200, the end of the top paragraph, right above the bottom of 157 in German, he's asking by what existential ontological modifications does assertion arise from circumspective interpretation.
+
+545
+00:59:52,719 --> 01:00:10,720
+And now he's going to, he has to, those existential ontological modifications are the steps that you get when you go from absorbed coping to being able to think of, like a logician, of substance with properties.
+
+546
+01:00:10,719 --> 01:00:16,640
+And the first step is a very sort of mysterious one.
+
+547
+01:00:16,639 --> 01:00:21,919
+Mysterious in the sense that there ought to be a lot to be said about it, but who knows what to say?
+
+548
+01:00:21,920 --> 01:00:23,440
+Nobody knows what to say.
+
+549
+01:00:23,440 --> 01:00:28,480
+On 199, but this is some, maybe some of you will know what to say and make a name for yourselves.
+
+550
+01:00:29,440 --> 01:00:34,240
+He's going to talk now about how the predicate gets loosened from the object.
+
+551
+01:00:34,239 --> 01:00:44,480
+Now that sounds strange, but it's a big, deep, interesting phenomenological question, right below 157 in the margin of 199.
+
+552
+01:00:47,199 --> 01:00:48,640
+Where are we?
+
+553
+01:00:51,199 --> 01:00:52,199
+I lost it.
+
+554
+01:00:52,199 --> 01:00:53,760
+Just a second.
+
+555
+01:00:54,079 --> 01:00:55,920
+199.
+
+556
+01:00:56,239 --> 01:00:57,840
+Right below.
+
+557
+01:00:58,159 --> 01:01:00,839
+I'm looking for where he says the predicate gets loosened from.
+
+558
+01:01:00,920 --> 01:01:01,880
+Ah, here it is.
+
+559
+01:01:01,880 --> 01:01:03,240
+Down a little lower.
+
+560
+01:01:00,639 --> 01:01:05,719
+Any assertion requires a foresight.
+
+561
+01:01:05,960 --> 01:01:15,079
+In this, the predicate which we are to assign and make stand out gets loosened, so to speak, from its unexpressed inclusion in the entity itself.
+
+562
+01:01:15,079 --> 01:01:16,680
+That's very interesting.
+
+563
+01:01:16,679 --> 01:01:18,040
+He's trying to.
+
+564
+01:01:18,520 --> 01:01:20,599
+What do you think that means?
+
+565
+01:01:20,599 --> 01:01:24,040
+Well, you need a little bit of Merleau-Ponty to understand what it means.
+
+566
+01:01:24,040 --> 01:01:28,200
+Merleau-Ponty talks about the woolly redness of the carpet.
+
+567
+01:01:28,199 --> 01:01:30,119
+That's another kind of aspect.
+
+568
+01:01:30,119 --> 01:01:34,439
+I mean, it's got a woolly redness, but you can't separate.
+
+569
+01:01:34,599 --> 01:01:40,679
+Woolly red isn't a color that you can find on a color chart by paint.
+
+570
+01:01:41,000 --> 01:01:54,520
+The woolly redness of the carpet and the shiny redness of fire engines and the apple redness of apples might be the same color of red that if you wanted to paint them and went and bought paint, you'd buy the same color.
+
+571
+01:01:55,320 --> 01:02:02,359
+But the woolliness and the shininess and the juiciness are experienced right in the color.
+
+572
+01:02:02,360 --> 01:02:05,160
+Marilla-Ponty has a lot to say about it.
+
+573
+01:02:05,480 --> 01:02:16,280
+But what Heidegger is asking himself, without explaining it very well, is how do we get from juicy red and woolly red and shining red to just red?
+
+574
+01:02:16,279 --> 01:02:26,840
+That would be loosening the predicate from the object that is loosening it, so to speak, from its unexpressed inclusion in the entity itself.
+
+575
+01:02:26,840 --> 01:02:31,960
+And the same with the property heaviness for the hammer that he says down there.
+
+576
+01:02:31,960 --> 01:02:33,639
+Heaviness belongs to the hammer.
+
+577
+01:02:33,639 --> 01:02:35,719
+The hammer has the well, no, sorry.
+
+578
+01:02:36,199 --> 01:02:37,720
+I jumped ahead.
+
+579
+01:02:38,279 --> 01:02:42,440
+Let me stick with the property of the let me stick with the move with the color.
+
+580
+01:02:42,480 --> 01:02:46,960
+So if the interesting question is: well, how do you loosen a predicate?
+
+581
+01:02:47,040 --> 01:02:54,480
+I mean, you can't go out to the paint store every time and buy a color chip and hold it up to the fire engine and the carpet and the apple and stuff.
+
+582
+01:02:54,480 --> 01:02:59,999
+How do you see them all as examples of the same property, red?
+
+583
+01:03:00,320 --> 01:03:02,000
+And nobody's got much of a story.
+
+584
+01:03:02,000 --> 01:03:03,599
+Heidegger's got no story at all.
+
+585
+01:03:03,599 --> 01:03:05,040
+He just says we do it.
+
+586
+01:03:06,320 --> 01:03:10,079
+Meryl Ponty was sort of promising a story, but he didn't do it.
+
+587
+01:03:10,079 --> 01:03:14,159
+I'll just give you two examples, neither one of which are going to be very satisfactory.
+
+588
+01:03:14,159 --> 01:03:34,160
+Totis' story is that we get into a certain detached attitude in which we're not likely to feel the shininess or crunch the juiciness or get wrapped up in the woolliness, but we just take a detached spectatorial attitude and lo and behold, so to speak, the redness comes out of it.
+
+589
+01:03:34,159 --> 01:03:50,320
+It's not very convincing because most of the time we're able to see the color of something, namely, you know, the color of his t-shirt is red, and we can see that without having to bring a color chip and without having to go into a detached state.
+
+590
+01:03:50,320 --> 01:04:03,919
+And then Sean Kelly's got a view that it's by concentrating more on the redness that you can sort of leave out the material and leave out the shadows and get to the color red.
+
+591
+01:04:03,920 --> 01:04:06,319
+Maybe that's the right way to go, but who knows?
+
+592
+01:04:06,320 --> 01:04:12,079
+Anyway, there's a whole field in here, and Heidegger's just finessing it, but he at least knows that there's a question.
+
+593
+01:04:12,079 --> 01:04:14,320
+And it's a nice question.
+
+594
+01:04:14,320 --> 01:04:25,919
+So I don't know.
+
+595
+01:04:25,920 --> 01:04:26,319
+Why?
+
+596
+01:04:26,320 --> 01:04:27,520
+Why do you think?
+
+597
+01:04:30,400 --> 01:05:09,479
+Yeah, now a foresight is the what now the way that we it's got to do with circumspection it's got to do with but it's got to do with what pulling out one or another of I'm going to get back we've got forehaving that's the familiarity we've got foresight that's taking up some affordance or other now why would that do it I don't know why would that I'm I I mean I'm inclined to think that Heidegger doesn't know what he's talking about, but that's a bad idea, bad thought to have.
+
+598
+01:05:09,480 --> 01:05:13,320
+I mean, Heidegger usually knows more than we do about what he's talking about.
+
+599
+01:05:13,320 --> 01:05:18,040
+But let's read it and see if we can get any clue.
+
+600
+01:05:18,920 --> 01:05:23,240
+So we're going to look, we give it a definite character.
+
+601
+01:05:23,639 --> 01:05:27,159
+I'm right down two-thirds on page 199.
+
+602
+01:05:27,159 --> 01:05:29,639
+Thus, any assertion requires a foresight.
+
+603
+01:05:29,639 --> 01:05:38,520
+In this, the predicate, which we have assigned and make stand out, gets loosened, so to speak, from its unexpressed inclusion in the entity.
+
+604
+01:05:39,480 --> 01:05:42,760
+And here, the predicate with the hammer ought to be too heavy.
+
+605
+01:05:42,759 --> 01:05:51,559
+And now we ought to somehow, we know that we narrow our, we pay attention to the too heavy.
+
+606
+01:05:51,559 --> 01:05:53,159
+We narrow our interest in the hammer.
+
+607
+01:05:53,159 --> 01:05:55,800
+We don't care if it's too noisy and so forth.
+
+608
+01:05:56,040 --> 01:05:59,240
+But that would still be situational too heavy.
+
+609
+01:05:59,239 --> 01:06:01,320
+So how are we going to get out of that?
+
+610
+01:06:01,320 --> 01:06:07,800
+To any assertion as a communication which gives something a definite character, there belongs an articulation of what is pointed out.
+
+611
+01:06:07,800 --> 01:06:11,079
+And this articulation is in accordance with significations.
+
+612
+01:06:11,079 --> 01:06:14,199
+Such an assertion will operate with a definite way of conceiving.
+
+613
+01:06:14,199 --> 01:06:15,679
+The hammer is heavy.
+
+614
+01:06:15,079 --> 01:06:18,159
+As soon as you get to heavy, you got to the property.
+
+615
+01:06:18,159 --> 01:06:19,760
+Heaviness belongs to the hammer.
+
+616
+01:06:15,399 --> 01:06:21,679
+The hammer has the property of heaviness.
+
+617
+01:06:22,560 --> 01:06:27,519
+When an assertion is made, some foreconception is implied, and it remains in the room because of the language.
+
+618
+01:06:28,880 --> 01:06:35,599
+Like any interpretation, assertion has foresight, forehaving, foresight, and foreconception.
+
+619
+01:06:36,319 --> 01:06:38,559
+At the end, he's got all three there.
+
+620
+01:06:38,560 --> 01:06:41,359
+Why did he pick out foresight on the way?
+
+621
+01:06:41,359 --> 01:06:42,399
+Good question, Dave.
+
+622
+01:06:42,399 --> 01:06:44,079
+I have no idea what the answer is.
+
+623
+01:06:44,159 --> 01:06:44,880
+Anyone know?
+
+624
+01:06:44,880 --> 01:06:45,679
+Yeah.
+
+625
+01:06:49,519 --> 01:06:52,159
+Yeah, maybe I don't have to be experienced.
+
+626
+01:06:56,000 --> 01:06:56,960
+I guess that's right.
+
+627
+01:06:57,199 --> 01:07:10,960
+If foresight is what tells you to pick out one affordance from the whole web of affordances, which is familiarity, and that's what it seemed to mean, at least that's my guess.
+
+628
+01:07:10,960 --> 01:07:20,639
+So then it's the same kind of operation that enables you to pick out some aspect of the hammer from all the others, like being too heavy.
+
+629
+01:07:20,640 --> 01:07:25,119
+But then, maybe that's all it's supposed to do.
+
+630
+01:07:25,680 --> 01:07:27,199
+Wouldn't that be interesting?
+
+631
+01:07:29,040 --> 01:07:36,079
+If it was not heaviness, but too heavy, I could understand how foresight picks it out.
+
+632
+01:07:36,079 --> 01:07:39,439
+See, I think you need another move to get to heaviness.
+
+633
+01:07:39,439 --> 01:07:43,119
+I'm going to just, I mean, correcting Heidegger is not a good enterprise.
+
+634
+01:07:43,119 --> 01:07:43,679
+Yeah.
+
+635
+01:07:46,239 --> 01:07:47,040
+What does it?
+
+636
+01:07:49,439 --> 01:07:50,319
+Yes.
+
+637
+01:07:54,720 --> 01:07:55,359
+Hmm.
+
+638
+01:07:55,479 --> 01:07:56,559
+Do you think so?
+
+639
+01:07:56,560 --> 01:08:02,359
+I mean, just transparent hammering is going on, as opposed to being given the character too heavy.
+
+640
+01:08:03,960 --> 01:08:04,839
+Yeah.
+
+641
+01:08:00,880 --> 01:08:07,880
+Okay, yes.
+
+642
+01:08:08,199 --> 01:08:09,159
+Indefinite.
+
+643
+01:08:09,159 --> 01:08:21,880
+And then you focus in on the two on the on, well, the problem still is there, and I don't know how to deal with it, but are you focusing in on the too heavy, or are you already focusing in on heaviness, which the hammer has even in a drawer?
+
+644
+01:08:22,840 --> 01:08:24,199
+That's right.
+
+645
+01:08:27,960 --> 01:08:38,199
+Okay, so the first move is to focus on the too heavy by the foresight, but then my correcting of the bottom of 199, I'm afraid, is right.
+
+646
+01:08:38,199 --> 01:08:40,759
+And I don't like it, it makes me nervous to correct Heidegger.
+
+647
+01:08:40,760 --> 01:08:46,920
+He seems to say that what you do with your foresight is go right to the heaviness belongs to the hammer.
+
+648
+01:08:46,920 --> 01:08:48,759
+It has the property heaviness.
+
+649
+01:08:48,760 --> 01:08:49,799
+I don't like that.
+
+650
+01:08:49,800 --> 01:09:00,519
+I wish he would say, first you pick out the too heavy, and then you need another move, which he does give you on the next page, where you go to the property heaviness.
+
+651
+01:09:00,519 --> 01:09:03,399
+So let's go there.
+
+652
+01:09:04,040 --> 01:09:15,079
+I mean, I'd like to say what she is saying and he is saying, that having picked out the too heavy, we're now ready to make a move toward the property heaviness.
+
+653
+01:09:15,079 --> 01:09:17,079
+Let's see what we can do there.
+
+654
+01:09:17,800 --> 01:09:22,759
+To what extent, at the top of 200, to what extent does it become a derivative mode of interpretation?
+
+655
+01:09:22,760 --> 01:09:24,519
+What has been modified in it?
+
+656
+01:09:24,519 --> 01:09:32,519
+We can point out the modification if we stick to a limiting case of assertion, which functions in logic as normal cases.
+
+657
+01:09:32,519 --> 01:09:38,759
+Now, that limiting case of assertion is de-worlding, de-situating, I'm sure.
+
+658
+01:09:39,159 --> 01:09:40,359
+So we'll find out.
+
+659
+01:09:40,359 --> 01:09:45,880
+So, which functions in logic as a normal case, and, as an examples, simplest assertion phenomena.
+
+660
+01:09:46,079 --> 01:09:53,679
+Prior to all analysis, logic is already understood and takes as its theme the categorical statement: the hammer is heavy.
+
+661
+01:09:53,920 --> 01:10:03,040
+Now, there's the right place to bring in the hammer and say, look, logic just helps itself to the de-situated claim that the hammer is heavy.
+
+662
+01:10:03,040 --> 01:10:03,760
+But let's go on.
+
+663
+01:10:03,760 --> 01:10:11,199
+The unexplained presupposition is that the meaning of this sentence is to be taken, this thing, a hammer, has the property heaviness.
+
+664
+01:10:11,199 --> 01:10:18,559
+Well, how does that differ from the bottom of 199, where it looked like you already had got the quote-quote property?
+
+665
+01:10:18,560 --> 01:10:20,719
+The hammer has the property of heaviness.
+
+666
+01:10:20,720 --> 01:10:22,960
+I think it's just confused.
+
+667
+01:10:23,680 --> 01:10:25,199
+You see what I'm worrying about?
+
+668
+01:10:25,199 --> 01:10:27,119
+I mean, he seems to go through it twice.
+
+669
+01:10:27,119 --> 01:10:32,479
+And the foresight ought to get him to the too heavy at the bottom of 199.
+
+670
+01:10:32,560 --> 01:10:40,479
+He needs a whole nother move, he says, which is characteristic of logic to get to the thing, a hammer has the property heaviness.
+
+671
+01:10:41,359 --> 01:10:44,559
+If anybody can help, you and then you will, I'm delighted.
+
+672
+01:10:44,560 --> 01:10:45,199
+Yeah.
+
+673
+01:11:00,319 --> 01:11:04,479
+Well, it is a deficient mode, but I don't know if that helps because we're trying to...
+
+674
+01:11:04,479 --> 01:11:06,800
+There are two deficient modes, it seems to me.
+
+675
+01:11:06,800 --> 01:11:18,079
+One is you narrow down from just being absorbed in the hammering to paying attention to one aspect, literally aspect, that it's too heavy.
+
+676
+01:11:18,079 --> 01:11:29,759
+And then there's another move of again leaving something out where you leave out the situation and leave out the too heavy and get to the property heaviness.
+
+677
+01:11:29,760 --> 01:11:32,840
+And that's what he says logicians do.
+
+678
+01:11:33,159 --> 01:11:39,719
+I mean, they don't the heaviness is not a relational property between the hammer and me, but too heavy was.
+
+679
+01:11:39,720 --> 01:11:41,239
+Let's hear what you have to say.
+
+680
+01:11:41,239 --> 01:11:41,880
+Yeah.
+
+681
+01:11:48,600 --> 01:12:05,639
+What I'm asking is, having done a nice job with foresight getting us the aspect, I hope, of too heavy at the bottom of 199, which is how I'd like to read it, he then says, aha, but we can go to another even more derivative mode of interpretation, it looks like.
+
+682
+01:12:05,640 --> 01:12:16,359
+We get to this limiting case of assertions, which I take to mean you take them out of the context, you treat them just as a statement, and then you get the hammer is heavy.
+
+683
+01:12:16,359 --> 01:12:20,119
+This thing, a hammer, has the property heaviness.
+
+684
+01:12:20,119 --> 01:12:21,479
+That's fine.
+
+685
+01:12:22,199 --> 01:12:28,679
+And I don't care whether you get there by foresight or what.
+
+686
+01:12:28,680 --> 01:12:45,399
+He doesn't tell us, but it seems to me he ought to tell us what kind of attitude or mode of dealing gets us from the too heavy to the heavy.
+
+687
+01:12:45,960 --> 01:12:46,599
+Yeah.
+
+688
+01:12:58,680 --> 01:13:07,880
+Pick it up from a certain amount of force and punch to another and some things might have available with you, but that thing has a certain heaviness.
+
+689
+01:13:07,880 --> 01:13:11,040
+And when you're getting dressed in one, I think you're not think about it.
+
+690
+01:13:16,640 --> 01:13:17,359
+Let me see here.
+
+691
+01:13:10,600 --> 01:13:19,040
+Oh, but it's in the balance.
+
+692
+01:13:19,920 --> 01:13:21,920
+It wasn't in your foresight.
+
+693
+01:13:25,920 --> 01:13:26,960
+I like that.
+
+694
+01:13:26,960 --> 01:13:28,319
+And let me just repeat it.
+
+695
+01:13:28,319 --> 01:13:31,920
+It's out of desperation, I admit.
+
+696
+01:13:31,920 --> 01:13:41,839
+But I think if you have to make sense of this passage at the bottom of 199, you've got to think that somehow, I don't know how you're going to do this.
+
+697
+01:13:41,840 --> 01:13:50,000
+The property of heaviness is already somehow in your experience of the hammering.
+
+698
+01:13:50,000 --> 01:13:55,359
+And you and what?
+
+699
+01:13:55,680 --> 01:13:57,920
+Your foresight brings it out?
+
+700
+01:13:57,920 --> 01:13:59,359
+I'm still stumped.
+
+701
+01:13:59,359 --> 01:14:01,599
+I mean, you still have the problem.
+
+702
+01:14:01,600 --> 01:14:02,319
+We still have the problem.
+
+703
+01:14:02,399 --> 01:14:04,319
+Are you going to help us out of this problem?
+
+704
+01:14:08,159 --> 01:14:10,239
+Well, doesn't he say that?
+
+705
+01:14:10,239 --> 01:14:12,000
+Heaviness at the 199 bottom.
+
+706
+01:14:12,079 --> 01:14:13,279
+Heaviness belongs to the hammer.
+
+707
+01:14:13,279 --> 01:14:14,559
+The hammer has the property.
+
+708
+01:14:14,560 --> 01:14:17,679
+I'm just taking his word there of heaviness.
+
+709
+01:14:17,680 --> 01:14:22,479
+Both property and heaviness are desituated stuff.
+
+710
+01:14:24,399 --> 01:14:28,559
+That's the assertion, doing it with the help of the foresight.
+
+711
+01:14:28,880 --> 01:14:42,159
+But then what more is added when we go to a derivative mode of interpretation at the top of 200, with a limiting case, which finally seems to get us the thing has the property heaviness.
+
+712
+01:14:47,920 --> 01:14:49,040
+Where are you now?
+
+713
+01:14:51,600 --> 01:14:53,439
+158 already.
+
+714
+01:14:53,439 --> 01:14:54,559
+Well, wait, what do you say?
+
+715
+01:14:54,560 --> 01:14:55,439
+Again.
+
+716
+01:14:56,399 --> 01:14:56,880
+I see.
+
+717
+01:14:56,880 --> 01:14:58,799
+Wait, 158 in the margin.
+
+718
+01:14:59,600 --> 01:15:01,479
+Okay, the entity, let's try that.
+
+719
+01:15:01,479 --> 01:15:03,239
+Then I'll, whoever, somebody had a hand back there.
+
+720
+01:15:00,880 --> 01:15:04,119
+Wait, wait, cursor.
+
+721
+01:15:04,680 --> 01:15:09,960
+The entity which is held in our forehaving, for instance, the hammer, is approximately ready to hand as equipment.
+
+722
+01:15:09,960 --> 01:15:15,639
+If this entity becomes the object of an assertion, then as soon as we begin this assertion, there is a changeover.
+
+723
+01:15:16,279 --> 01:15:19,799
+Well, the changeover is crucial, all right?
+
+724
+01:15:20,439 --> 01:15:26,920
+But now there's something ready to hand turns into something about which the assertion is made.
+
+725
+01:15:26,920 --> 01:15:31,239
+Our forehaving is aimed at something present at hand and what is ready to hand.
+
+726
+01:15:31,239 --> 01:15:38,040
+Now, what you want to say is way back at the bottom of 199, that's already what he's talking about.
+
+727
+01:15:38,040 --> 01:15:39,319
+Is that right?
+
+728
+01:15:39,640 --> 01:15:51,719
+Because there's already a change, the changeover must have already taken place because the changeover is what gets us.
+
+729
+01:15:51,720 --> 01:15:52,680
+Well, let's go in a minute.
+
+730
+01:15:52,680 --> 01:15:56,359
+Our foresight aimed at something present at hand and what ready to hand.
+
+731
+01:15:56,359 --> 01:16:01,479
+That's, I think, well, let me sort of blurt out.
+
+732
+01:16:01,800 --> 01:16:19,479
+I think what should happen is one stage would get us to the aspect of it, too heavy, and then a changeover, a modification, a desituating move, would get us to where logic is, and then you get.
+
+733
+01:16:19,479 --> 01:16:22,040
+So let me try this word: the too heavy comes back in a minute.
+
+734
+01:16:23,159 --> 01:16:23,960
+About ten lines.
+
+735
+01:16:24,040 --> 01:16:28,279
+I mean, in concern for circumspection, there are no such assertions at first.
+
+736
+01:16:28,279 --> 01:16:32,839
+But such circumspection has, of course, its specific ways of interpreting.
+
+737
+01:16:32,840 --> 01:16:38,839
+And these, as compared with the theoretical judgment just mentioned, may take the form the hammer is too heavy.
+
+738
+01:16:38,840 --> 01:16:40,840
+And rather, just too heavy.
+
+739
+01:16:41,079 --> 01:16:44,359
+Oh, there it is, where you do something without wasting words.
+
+740
+01:16:45,239 --> 01:16:49,599
+What's the wrong order?
+
+741
+01:16:45,880 --> 01:16:50,559
+I mean, why?
+
+742
+01:16:52,159 --> 01:17:03,599
+It's as if that's the passage that I think ought to come before the passage in which you then do a changeover and you get to the plain object and so forth.
+
+743
+01:17:03,600 --> 01:17:09,359
+But what's happening in prematurely, sort of at the bottom of 199?
+
+744
+01:17:09,359 --> 01:17:11,920
+How come the too heavy is now here?
+
+745
+01:17:11,920 --> 01:17:14,079
+You'd expect the too heavy to be down there.
+
+746
+01:17:14,079 --> 01:17:15,839
+Okay, Curtis, can you help us?
+
+747
+01:17:26,079 --> 01:17:31,759
+Well, I think there's a confusion of sorts, which I will just sort out in a hurry because time is up.
+
+748
+01:17:31,760 --> 01:17:35,759
+I mean, there's a phenomenological question and a textual question.
+
+749
+01:17:35,760 --> 01:17:51,199
+The phenomenological story, I'll just, so you won't get lost, is that there's transparent coping, and then you narrow that and focus on the too heavy, then you produce a changeover, you step out of the situation, and you look at an object which has the property heaviness.
+
+750
+01:17:51,199 --> 01:17:56,960
+Now, that seems okay, and that all seems to be something you can do maybe with foresight.
+
+751
+01:17:57,199 --> 01:17:58,159
+I don't know.
+
+752
+01:17:58,159 --> 01:18:02,399
+But then comes the further question: why is he telling the story in such a funny order?
+
+753
+01:18:02,399 --> 01:18:11,840
+Where first he went at the bottom of 199, he talks about the heaviness, and then there, then he gets to the too heavy, then he gets back to the heaviness.
+
+754
+01:18:12,239 --> 01:18:14,159
+I don't understand the development there.
+
+755
+01:18:14,159 --> 01:18:15,679
+Okay, go on.
+
+756
+01:18:18,560 --> 01:18:19,359
+Yeah.
+
+757
+01:18:20,000 --> 01:18:24,359
+Regarding foresight, forehaving, his role in his window, this goal is breakdown.
+
+758
+01:18:24,359 --> 01:18:34,040
+We talked about the forehaving page 191 and find it right there, and seeing it a world we already have.
+
+759
+01:18:34,359 --> 01:18:35,000
+That's right.
+
+760
+01:18:30,880 --> 01:18:35,639
+Then we just.
+
+761
+01:18:39,159 --> 01:18:40,920
+Yes, right.
+
+762
+01:18:44,760 --> 01:18:45,719
+Yes.
+
+763
+01:18:48,279 --> 01:18:48,840
+That's right.
+
+764
+01:18:49,239 --> 01:18:51,159
+It's deworlded.
+
+765
+01:18:59,000 --> 01:19:00,519
+That's good.
+
+766
+01:19:04,359 --> 01:19:05,479
+I think that's good.
+
+767
+01:19:05,880 --> 01:19:07,239
+So there's a change in your.
+
+768
+01:19:07,399 --> 01:19:09,639
+Where's the change in your forehaving?
+
+769
+01:19:14,119 --> 01:19:14,840
+Okay.
+
+770
+01:19:15,159 --> 01:19:15,800
+Yes.
+
+771
+01:19:15,800 --> 01:19:17,239
+Well, that's interesting.
+
+772
+01:19:17,239 --> 01:19:17,719
+Okay.
+
+773
+01:19:18,359 --> 01:19:21,239
+That's the right phenomenological story to tell.
+
+774
+01:19:21,239 --> 01:19:22,760
+That's what you must be trying to tell.
+
+775
+01:19:22,760 --> 01:19:23,960
+Boy, time is up.
+
+776
+01:19:23,960 --> 01:19:24,920
+I don't know what to do.
+
+777
+01:19:26,199 --> 01:19:28,679
+Just quick, Dave, and quick you.
+
+778
+01:19:33,640 --> 01:19:34,199
+Let's stop.
+
+779
+01:19:36,359 --> 01:19:38,040
+And slow down and do it again.
+
+780
+01:19:38,439 --> 01:19:39,880
+Okay, maybe textually that.
+
+781
+01:19:39,880 --> 01:19:41,000
+Try reading it that way.
+
+782
+01:19:41,000 --> 01:19:42,679
+It runs over fast and slows down.
+
+783
+01:19:42,680 --> 01:19:43,960
+Is that what you?
+
+784
+01:19:46,840 --> 01:19:54,040
+Okay, so that would make the text work, and thanks to Curtis, we would get the phenomena, and then everybody would go home happy.
+
+785
+01:19:54,040 --> 01:19:54,759
+Okay.

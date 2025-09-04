@@ -1,0 +1,2849 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:24,439
+To start, I have to get a running start and go back over what it is to be a work of art, because that's going to turn out to be very important for understanding, at least for my understanding, and I hope I can help with your understanding of some of the very, very strange things that John, the Gospel of John, reports that Jesus says.
+
+2
+00:00:24,440 --> 00:00:30,040
+So, but I have to go back to the, and it wouldn't hurt at this point in the course anyway, to kind of review where we are.
+
+3
+00:00:30,040 --> 00:00:37,479
+So, first, I'm going to talk about two kinds of works of art, articulating and reconfiguring.
+
+4
+00:00:37,880 --> 00:00:42,760
+I've already said that once or twice, but we never actually got there.
+
+5
+00:00:42,760 --> 00:01:03,080
+All we've talked about so far are articulating works of art that, like the Odyssey to begin with, and then also the Orestea and the Aeneid, they focus and glamorize and hold up to the people the understanding of being they share.
+
+6
+00:01:03,159 --> 00:01:10,919
+Remember, that's sort of what it is to be a thing, what is the best sort of thing, and what is it to be a person.
+
+7
+00:01:11,640 --> 00:01:18,280
+And we've seen examples of that, that they let things show up in various ways.
+
+8
+00:01:18,279 --> 00:01:25,399
+I haven't talked much about that, and I'm not going to talk about that now, but that they, people show up in different ways.
+
+9
+00:01:25,399 --> 00:01:45,159
+That is, they show up as heroes or as patriotic Athenians or as dutiful citizens, and coming up now as, in effect, saints and sinners, both not so much in the Gospel of John, but extremely clearly in the divine comedy.
+
+10
+00:01:45,159 --> 00:01:53,879
+And the work of art is, I don't know if I've ever used this talk, but it's a kind of exemplar.
+
+11
+00:01:53,880 --> 00:02:08,000
+It's something or some person's speech or something in the world that holds up to the people their understanding of being or their style.
+
+12
+00:02:08,159 --> 00:02:10,479
+Let's find another way to put it.
+
+13
+00:02:11,360 --> 00:02:20,640
+It gives us our outlook on things and it gives people their outlook on things and on themselves, as the way Heidegger puts it.
+
+14
+00:02:21,360 --> 00:02:22,399
+How many have read?
+
+15
+00:02:22,399 --> 00:02:23,600
+Probably not at this stage yet.
+
+16
+00:02:23,600 --> 00:02:27,119
+Kuhn's book, The Structure of Scientific Revolutions, very many.
+
+17
+00:02:27,120 --> 00:02:40,479
+He has this notion of paradigm, which holds up to the scientists what a good piece of work is, so that for modern science, it was Newton's Principia, which was the paradigm.
+
+18
+00:02:40,479 --> 00:02:43,200
+Well, this is a kind of paradigm for the culture.
+
+19
+00:02:43,200 --> 00:02:44,320
+That's another way to put it.
+
+20
+00:02:44,320 --> 00:02:51,440
+It's something specific that is in the world and that you can see and that people can all see together.
+
+21
+00:02:51,440 --> 00:02:55,839
+That holds up to the people what the culture is all about.
+
+22
+00:02:56,159 --> 00:03:10,560
+And it can be done by a book or that is an epic or a play or a speech like Pericles' speech, which I read you a little bit, and which Abraham Lincoln is, in a way, copying when he gives the Gettysburg Address.
+
+23
+00:03:10,559 --> 00:03:20,640
+Pericles is talking at the funeral for the Athenian heroes, and Lincoln is talking about the funeral for the soldiers fighting in the Civil War.
+
+24
+00:03:20,640 --> 00:03:31,039
+And each of them do this job of telling the people what it is they're up to and enabling them all to see it more clearly.
+
+25
+00:03:31,719 --> 00:03:37,279
+They they are, as they, I think, even say, rededicating what's going on.
+
+26
+00:03:37,279 --> 00:03:46,680
+They're focusing it and they are renewing it by focusing it and glamorizing it and holding up to the people.
+
+27
+00:03:48,919 --> 00:04:06,680
+And the another way to put it that Heidegger uses, he wants to when Heidegger wants to generalize from works of art like temples or plays to speeches like Pericles and Lincoln, he can hardly call those works of art.
+
+28
+00:04:06,680 --> 00:04:10,359
+He calls them truth setting itself to work.
+
+29
+00:04:10,359 --> 00:04:11,880
+The work is still in there.
+
+30
+00:04:11,880 --> 00:04:21,880
+It's the same work, the same work as the artwork working, namely if shining and holding up to the people what they're up to and what they are.
+
+31
+00:04:21,880 --> 00:04:30,360
+But when he says it's truth setting itself to work, he means that it reveals a certain understanding.
+
+32
+00:04:30,679 --> 00:04:36,040
+Heidegger uses truth and revealing as synonymous.
+
+33
+00:04:36,039 --> 00:04:45,479
+So a work of art reveals a certain truth about people and the world and so forth.
+
+34
+00:04:45,480 --> 00:04:52,760
+Not a truth, however, of the old-fashioned sort, that it was always true that this is what people were and things were.
+
+35
+00:04:52,760 --> 00:05:04,680
+The work of art holds up a a truth that works for a while for a particular bunch of people, like the Greek temple or the medieval cathedral, to throw in another one, does.
+
+36
+00:05:04,679 --> 00:05:12,920
+So so when Heidegger wants to generalize from temples and cathedrals to artworks to what else?
+
+37
+00:05:13,320 --> 00:05:15,479
+Statesman he has in here.
+
+38
+00:05:17,399 --> 00:05:23,400
+Well, the other ones are s strange ones, which will only confuse this what we're saying right now.
+
+39
+00:05:23,399 --> 00:05:24,640
+So I don't I enough of that.
+
+40
+00:05:24,279 --> 00:05:30,080
+He talks, anyway, the general term is that it's truth setting itself to work.
+
+41
+00:05:30,399 --> 00:05:34,000
+If that seems so weird that it doesn't make sense to you, don't worry about it.
+
+42
+00:05:34,000 --> 00:05:37,919
+Just think about artworks and what it is for them to work.
+
+43
+00:05:39,200 --> 00:05:43,440
+And another way to describe what it is for them to work is that they shine.
+
+44
+00:05:43,440 --> 00:05:55,680
+That's going to turn out to be very important, always, that they are shining exemplars of what, that's what I've been calling glamorizing, but you won't find glamorizing in word in Heidegger.
+
+45
+00:05:55,679 --> 00:05:58,799
+You'll find shining, but it comes to the same thing.
+
+46
+00:05:58,799 --> 00:06:00,719
+You make it beautiful.
+
+47
+00:06:00,719 --> 00:06:03,520
+Heidegger says to be beautiful is to be shining.
+
+48
+00:06:04,159 --> 00:06:06,239
+It's all the same idea.
+
+49
+00:06:06,959 --> 00:06:15,279
+But it's nice to call it shining because you can make this kind of play on words that I make.
+
+50
+00:06:15,279 --> 00:06:17,839
+You can see things in its light.
+
+51
+00:06:19,599 --> 00:06:22,000
+The Greeks see themselves in the light of the temple.
+
+52
+00:06:22,000 --> 00:06:25,279
+The medievals see themselves in the light of the cathedral.
+
+53
+00:06:25,919 --> 00:06:29,680
+The Athenians saw themselves in the light of what Pericles was saying.
+
+54
+00:06:29,919 --> 00:06:35,200
+That is, and that creates them.
+
+55
+00:06:35,200 --> 00:06:37,599
+I mean, that's what's so clear in Aeschylus.
+
+56
+00:06:37,680 --> 00:06:52,560
+I mean, what makes them the kind of citizens they are is that they understand that they're the kind of citizens who have pride in, above all else, pride in their polis, in their city-state.
+
+57
+00:06:52,559 --> 00:06:59,440
+And they're proud of the fact that they are unique in being proud of their city-state.
+
+58
+00:06:59,440 --> 00:07:09,279
+And they're justified in being proud of it because being proud of it is this highest emotion of patriotism that trumps all the troubles with the Furies and Apollo and so forth.
+
+59
+00:07:09,880 --> 00:07:19,320
+That's just you, and they all venerate the work of art working or truth setting itself to work as something sacred.
+
+60
+00:07:19,319 --> 00:07:34,200
+That's the remember I say they memorize Homer, they replay the chorusia every year, they set up shrines to the divine comedy and to the Aeneid and so forth.
+
+61
+00:07:34,199 --> 00:07:37,160
+And why is that, why are they sacred and so important?
+
+62
+00:07:37,159 --> 00:07:41,000
+Because it's just another way of saying they give meaning to their lives.
+
+63
+00:07:41,000 --> 00:07:55,640
+They understand what it is, why it's worthwhile being an Athenian or being a Roman or being a Christian and what it entails to do that, what you have to do to be one of those.
+
+64
+00:07:55,960 --> 00:07:59,960
+So no surprise that Heidegger calls them gods.
+
+65
+00:08:00,439 --> 00:08:10,600
+It's a funny different use of God, but he calls them gods because they create the world of these various people.
+
+66
+00:08:10,919 --> 00:08:13,080
+They don't produce the world.
+
+67
+00:08:13,079 --> 00:08:27,159
+I mean, the idea of creation is sort of producing the universe as it gets, comes out of this funny mixture of the Hebrew idea that there's a creator God and the Roman idea that the understanding of being is production.
+
+68
+00:08:27,159 --> 00:08:30,920
+Then you get an idea that God is sort of the big producer.
+
+69
+00:08:30,919 --> 00:08:46,200
+But Heidegger wants to generalize the notion of God, that a God is whatever it is that creates a world for a people and creates people as the kind of people they are.
+
+70
+00:08:46,199 --> 00:08:49,399
+That's all, that's the job of a God.
+
+71
+00:08:49,399 --> 00:09:06,640
+And people don't know Heidegger, but they know that there's something going on with these particular works when they're working that it makes them sacred, makes them holy, makes them have an absolutely central place in the world of these people.
+
+72
+00:09:07,279 --> 00:09:08,640
+Okay, so much.
+
+73
+00:09:08,799 --> 00:09:11,039
+Anybody want to say anything about that?
+
+74
+00:09:11,039 --> 00:09:13,279
+That's just a review of where we are so far.
+
+75
+00:09:13,279 --> 00:09:27,360
+Every work we've studied so far is an articulating work of art and in a way renewing work of art, telling people, reminding people of what they stand for and why it's important and gives meaning to their life.
+
+76
+00:09:27,679 --> 00:09:35,679
+And I don't think I, I mean, I don't even want to say anything more about it, so if nobody raises their hand immediately, I'd be just as happy and go on.
+
+77
+00:09:36,319 --> 00:09:38,800
+Because what we want to do is get to something new.
+
+78
+00:09:38,799 --> 00:09:46,720
+What I haven't said anything about, it's not that I remember anyway, not much, is reconfiguring works of art.
+
+79
+00:09:46,720 --> 00:09:49,440
+What is a reconfiguring work of art?
+
+80
+00:09:49,439 --> 00:10:07,520
+Well, I haven't really clearly distinguished in talking about the articulating ones, whether they create the world for the first time for these people, or whether they make it shine, hold it up, glamorize it, and renew it.
+
+81
+00:10:07,520 --> 00:10:09,120
+But I'm saying that.
+
+82
+00:10:09,120 --> 00:10:10,320
+How can you tell?
+
+83
+00:10:10,319 --> 00:10:12,319
+Well, for all, I'm jumping ahead.
+
+84
+00:10:12,319 --> 00:10:17,360
+A reconfiguring work of art, if there were one, would create a new world.
+
+85
+00:10:17,679 --> 00:10:20,720
+It wouldn't renew the world that's there.
+
+86
+00:10:21,039 --> 00:10:28,080
+That's what these all, I mean, presumably, it's a little hard to know what happened with Homer, because it's all in the dim, distant past.
+
+87
+00:10:28,079 --> 00:10:39,280
+Presumably, somewhere along the line, the power of the pantheon and the suppression of the furies produced this Homeric world.
+
+88
+00:10:39,799 --> 00:10:53,960
+But by the time Homer comes along, the Homeric world is already there, and he's singing about it and showing the people at the dinner parties what a great thing it is and what a great thing it is to be part of this world.
+
+89
+00:10:54,120 --> 00:11:10,280
+So, and the way you can tell that Homer isn't a reconfigurer is that there's already a shared language and a shared understanding of what it is to be a hero and who the gods are and what kind of sacrifices you should make to them.
+
+90
+00:11:10,279 --> 00:11:12,840
+He doesn't have to explain that to people.
+
+91
+00:11:13,319 --> 00:11:14,760
+He reminds them of that.
+
+92
+00:11:14,760 --> 00:11:15,719
+He renews it.
+
+93
+00:11:16,199 --> 00:11:17,239
+He praises it.
+
+94
+00:11:17,240 --> 00:11:18,440
+He makes it shine.
+
+95
+00:11:18,439 --> 00:11:20,200
+But he doesn't make it up.
+
+96
+00:11:20,199 --> 00:11:21,880
+And the same thing with Aeschylus.
+
+97
+00:11:22,199 --> 00:11:36,680
+He's got already the city-state of Athens, and he's taking the legal system, and he's taking the whole worship of the pantheon and the worship of the gods under the ground and all that.
+
+98
+00:11:36,679 --> 00:11:44,760
+He's got that, and he's trying to renew it and focus it and make it clearer and make people see how wonderful it is.
+
+99
+00:11:44,760 --> 00:11:46,439
+Okay, and the same, let's see.
+
+100
+00:11:46,439 --> 00:11:59,880
+And the Aeneid, of course, Rome's already going strong, but the emperor system is relatively new with Augustus, because he just changed it from a, what do you call it?
+
+101
+00:12:01,000 --> 00:12:02,120
+Can't just think of the word.
+
+102
+00:12:02,120 --> 00:12:03,560
+What were they before they were?
+
+103
+00:12:04,760 --> 00:12:05,640
+A republic.
+
+104
+00:12:05,640 --> 00:12:06,440
+That was their word for it.
+
+105
+00:12:06,520 --> 00:12:06,760
+Yeah.
+
+106
+00:12:06,760 --> 00:14:00,200
+He changed it from a republic to an empire, changed it, but he, but the important thing is the that the understanding of being, for instance, and the understanding of the highest thing of being a human, namely being a dutiful citizen, that was already there but Verger was supposed to make it look beautiful to be a dutiful citizen he didn't exactly succeed I mean I think in the story about them all wishing that they wishing that they were dead and being happy when they were dead and having to be brainwashed in order to be sent back and recycled that all didn't seem too happy maybe that has something to do with the fact that he wants to say in the end that that all of this is an illusion or propaganda we don't we don't know but it does probably also have something to do in the end and that's what I said at the very end last time to how come Christianity can take over the whole Roman Empire so quickly and so totally from being just a remember it's a crazy little sect of an already crazy little sect I mean the Hebrews were just a tiny corner of the Roman Empire nobody really I think cared anything much about it and then the Christians were sort of a kooky fringe of the already weird Hebrews and yet after I don't know how many years I should know when does Constantine turn the Roman Empire over to Christianity 300 something like that it in in about 200 years from the time of Jesus that the Roman Empire is officially made totally Christian and that must be because there's just not any enthusiasm for the current religion which isn't much of a religion anyway I tried more and more to find out about these household gods and the most interesting thing I could find out about the household gods was nobody seems to know anything about them.
+
+107
+00:14:00,439 --> 00:14:06,680
+In no encyclopedia could I find any picture of them and they are they are the ancestor worship.
+
+108
+00:14:06,679 --> 00:14:08,200
+That's all you just hear.
+
+109
+00:14:08,199 --> 00:14:12,520
+Is that ancestors in general, or is this this particular family's ancestors?
+
+110
+00:14:12,520 --> 00:14:16,840
+You don't even find that out, though I presume it must be your ancestors or mine.
+
+111
+00:14:16,840 --> 00:14:19,240
+And do the gods look like these ancestors?
+
+112
+00:14:19,240 --> 00:14:20,280
+I don't know.
+
+113
+00:14:20,279 --> 00:14:21,240
+It's a funny thing.
+
+114
+00:14:21,240 --> 00:14:25,080
+You'd think that if there were these statues of these gods around, they'd still be around.
+
+115
+00:14:25,079 --> 00:14:34,280
+After the eruption of Mount Vesuvius, for instance, there was lots and lots of pottery and decorations and everything just preserved perfectly under all that lava.
+
+116
+00:14:34,279 --> 00:14:36,680
+So anyway, I don't know what happened to the Romans.
+
+117
+00:14:37,159 --> 00:14:43,159
+Their gods didn't really make it compared to all these other gods who are still around, and we still read about them.
+
+118
+00:14:43,159 --> 00:14:48,679
+And even though they're no longer working for us, they still seem to have a certain wonder.
+
+119
+00:14:48,919 --> 00:14:50,600
+Well, that was all just an aside.
+
+120
+00:14:50,919 --> 00:14:52,279
+Back, what was I?
+
+121
+00:14:52,840 --> 00:15:01,719
+Okay, yes, I'm talking about how the Christians took over the Roman Empire.
+
+122
+00:15:01,720 --> 00:15:03,159
+But why was I talking about that?
+
+123
+00:15:03,159 --> 00:15:04,120
+I have no idea.
+
+124
+00:15:04,120 --> 00:15:05,640
+Does anybody remember?
+
+125
+00:15:07,720 --> 00:15:09,960
+Well, I probably will find out.
+
+126
+00:15:10,919 --> 00:15:13,799
+So, let me think.
+
+127
+00:15:14,760 --> 00:15:19,799
+About work of art, for sure, and why they need a new work of art, and why it isn't a renewing work of art.
+
+128
+00:15:20,039 --> 00:15:22,600
+That's the way I was going, a reconfiguring work of art.
+
+129
+00:15:22,599 --> 00:15:23,159
+Yes, exactly.
+
+130
+00:15:23,160 --> 00:15:25,399
+The Aeneid is a kind of dead end.
+
+131
+00:15:25,400 --> 00:15:29,559
+He's trying to renew these virtues, and maybe he does.
+
+132
+00:15:29,960 --> 00:15:34,199
+They thought it did because they thought it was a sacred book.
+
+133
+00:15:34,200 --> 00:15:36,679
+But there was room.
+
+134
+00:15:37,159 --> 00:15:41,959
+And the Hebrews were going along, and they had priests, and they had a temple, and so forth.
+
+135
+00:15:41,960 --> 00:15:44,279
+And they could have been renewed.
+
+136
+00:15:44,279 --> 00:15:46,119
+But that isn't what happened.
+
+137
+00:15:46,119 --> 00:15:48,839
+Something much more dramatic happened.
+
+138
+00:15:48,839 --> 00:15:52,839
+They're a reconfigure of King of Wales, namely Jesus.
+
+139
+00:15:52,839 --> 00:15:55,199
+And how can you tell he's a reconfigurer?
+
+140
+00:15:55,520 --> 00:16:06,000
+Well, because everything is new with him, and he doesn't have a vocabulary that makes any sense to him or anybody else to talk about it in.
+
+141
+00:16:06,319 --> 00:16:14,960
+And he doesn't have any practices, and he doesn't have any temple or church or even the ark with the Torah in it.
+
+142
+00:16:15,680 --> 00:16:25,440
+It's all just him wandering around with his followers saying things so weird that they can't understand them.
+
+143
+00:16:25,440 --> 00:16:31,039
+They all seem completely stupid and dense, but it wasn't that the disciples were stupid and dense.
+
+144
+00:16:31,039 --> 00:16:42,000
+It's because there was no language for Jesus or them to say very much or anything very coherent about what they were up to.
+
+145
+00:16:42,319 --> 00:16:56,240
+If you want to look at a movie on a DVD which has captured this somewhat, Scorsese made a movie, The Last Temptation, which caused a kind of crisis and got yanked out of the theaters pretty quickly.
+
+146
+00:16:56,240 --> 00:17:00,079
+And it really wasn't very good anyway, I think, as a movie.
+
+147
+00:17:00,079 --> 00:17:15,679
+But the beginning of it is certainly interesting because Scorsese shows the sort of weird marginal sect of the Essenes, where John the Baptist was saying that the Messiah is going to come.
+
+148
+00:17:15,680 --> 00:17:19,760
+And when Jesus sort of wanders in, he says, that's him.
+
+149
+00:17:19,760 --> 00:17:24,480
+And everybody believes it, including Jesus, who maybe have believed it already.
+
+150
+00:17:24,480 --> 00:17:25,200
+I don't know.
+
+151
+00:17:25,200 --> 00:17:26,240
+It isn't clear.
+
+152
+00:17:26,480 --> 00:17:43,879
+But what's even more interesting in Scorsese is that it's clear, the way he shows it, that Jesus doesn't have the language and the practices and the institutions and the rituals to understand and express what he's doing.
+
+153
+00:17:44,200 --> 00:17:47,879
+So every time he does anything, he looks stunned.
+
+154
+00:17:47,879 --> 00:17:58,839
+I mean, there's a place where I think it's, I haven't seen it for a while, but I think when he says, let him who is guiltless cast the first stone as he's trying to save Mary Madeline, and nobody does.
+
+155
+00:17:58,839 --> 00:18:05,799
+And he's just looking around waiting for somebody and utterly puzzled by what he did and how it worked.
+
+156
+00:18:05,799 --> 00:18:14,680
+And when he saves Lazarus, when he goes into Lazarus' tomb and brings him out live, he's absolutely freaked out that he could do this thing and so forth.
+
+157
+00:18:14,680 --> 00:18:18,279
+And Scorsese's got that, I think, absolutely right.
+
+158
+00:18:18,279 --> 00:18:25,079
+That if you're a reconfigurer, you can't understand what you're doing.
+
+159
+00:18:25,079 --> 00:18:30,760
+Now, if you get too crazy, nobody can understand what you're doing, and you can't do anything.
+
+160
+00:18:31,639 --> 00:18:35,399
+You can't really start a new world and a new understanding of being.
+
+161
+00:18:35,720 --> 00:18:45,879
+You've got to have just the right mixture, and I'm going to come back and talk about that later, of enough of the old that they can make sense, sort of, of what you're doing.
+
+162
+00:18:45,879 --> 00:18:47,879
+So Jesus can say, I'm the Messiah.
+
+163
+00:18:47,879 --> 00:18:53,159
+Nobody quite knows what that means, but that's something that Hebrews are expecting.
+
+164
+00:18:53,160 --> 00:18:55,160
+Some of them think that's going to be God.
+
+165
+00:18:55,160 --> 00:18:57,000
+Some of them think that's going to be a prophet.
+
+166
+00:18:57,000 --> 00:18:59,079
+But whatever it is, at least that's something.
+
+167
+00:18:59,079 --> 00:19:06,760
+If he went over, say, in Bali and walked around and announced that he was the Messiah, that wouldn't work at all.
+
+168
+00:19:07,879 --> 00:19:10,599
+You've got to have a certain context.
+
+169
+00:19:10,599 --> 00:19:16,360
+But, but except he has a huge amount of trouble explaining what he's up to.
+
+170
+00:19:16,359 --> 00:19:21,959
+So he talks in parables, and then the disciples still don't understand what he's up to.
+
+171
+00:19:21,960 --> 00:19:43,599
+And then the Gospel, and then John, who writes this, something between 100 and 200 years after Jesus walked around, does a lot of explaining because it's already those of you, I wonder, just curious, how many are Christians, not believers, but who know what Christianity is about and who go to church and so forth?
+
+172
+00:19:43,599 --> 00:19:47,839
+Okay, how many are Jewish?
+
+173
+00:19:47,839 --> 00:19:56,000
+And how many are in some other religion, like Buddhism and Shintoism and Islam and so forth?
+
+174
+00:19:56,000 --> 00:19:57,279
+There must be more than that.
+
+175
+00:19:57,279 --> 00:19:57,760
+No?
+
+176
+00:19:57,760 --> 00:20:00,079
+Boy, I thought we were more diverse.
+
+177
+00:20:00,240 --> 00:20:07,839
+And how many are just are atheists, not sort of, you know, radical raving atheists, just don't believe in this stuff?
+
+178
+00:20:08,160 --> 00:20:10,720
+Okay, my daughter is like that.
+
+179
+00:20:10,720 --> 00:20:13,760
+Only after she took this course, she became a polytheist.
+
+180
+00:20:13,760 --> 00:20:15,439
+Maybe I can convert you.
+
+181
+00:20:15,839 --> 00:20:18,240
+I bet there are no polytheists in the audience right now.
+
+182
+00:20:18,240 --> 00:20:20,319
+I should take a vote again at the end.
+
+183
+00:20:20,319 --> 00:20:27,520
+But, okay, well, I guess I'm trying to figure out how much I have to say about this.
+
+184
+00:20:27,520 --> 00:20:30,560
+I don't want to spend my time sort of talking about the history of this.
+
+185
+00:20:30,799 --> 00:20:33,039
+On the other hand, just don't feel embarrassed.
+
+186
+00:20:33,039 --> 00:20:37,119
+It's just to kind of test how many understand what the incarnation is.
+
+187
+00:20:37,520 --> 00:20:38,399
+Not all that many.
+
+188
+00:20:39,440 --> 00:20:44,000
+And the crucifixion, the same number, I suppose, and the resurrection.
+
+189
+00:20:44,000 --> 00:20:45,760
+Okay, well, I need to explain a lot.
+
+190
+00:20:47,200 --> 00:21:00,879
+Okay, Jesus was a Hebrew, and he was a rabbi, and he had a father and a mother, and people knew who they were, Joseph and Mary, and he was born in Bethlehem.
+
+191
+00:21:00,879 --> 00:21:19,400
+But he started going around getting a bunch of followers, renaming them, so that Saul gets renamed Paul, who's a very important figure in this, because Paul really, he wasn't, you know, he waited a minute, that's the different Paul, right?
+
+192
+00:21:20,440 --> 00:21:22,199
+Paul never knew Jesus, right?
+
+193
+00:21:22,200 --> 00:21:27,480
+Nobody, we don't know whether any of this written down is by anybody who actually was one of the disciples.
+
+194
+00:21:27,480 --> 00:21:28,120
+No, okay.
+
+195
+00:21:28,119 --> 00:21:36,039
+But then Paul, almost immediately after Jesus died, was crucified.
+
+196
+00:21:36,920 --> 00:21:40,119
+How many saw the passion of the movie?
+
+197
+00:21:40,359 --> 00:21:43,319
+That's one way to find out, at least what crucifixion means.
+
+198
+00:21:43,879 --> 00:21:57,480
+So then Jesus went around saying all these incomprehensible things, which people who couldn't understand them wrote down, so they got even more incomprehensible.
+
+199
+00:21:57,480 --> 00:22:05,000
+And then the early Christian church sort of collected them and published them, and that's the Gospels that we've got.
+
+200
+00:22:05,319 --> 00:22:14,359
+Three of them seem to come from a common source because there's lots repeated verbatim in the Gospel of Mark, of Matthew, and Luke.
+
+201
+00:22:14,359 --> 00:22:16,919
+Although I think Luke alone has the Christmas story, doesn't he?
+
+202
+00:22:16,920 --> 00:22:18,359
+You probably know more about this.
+
+203
+00:22:19,559 --> 00:22:20,600
+Luke and Matthew.
+
+204
+00:22:20,599 --> 00:22:21,079
+Okay.
+
+205
+00:22:21,079 --> 00:22:23,240
+But John comes later.
+
+206
+00:22:23,240 --> 00:22:31,480
+Paul has already written lots of letters to Christian communities all over the known world and gone and traveled and explained this to them.
+
+207
+00:22:31,799 --> 00:22:43,879
+And this other source has been found and published with presumably added things that people remembered who heard Jesus.
+
+208
+00:22:43,879 --> 00:22:55,920
+And so John is the most sort of trying to make sense of it all and having enough to go on that it begins to sort of make sense out of it.
+
+209
+00:22:55,920 --> 00:22:58,559
+That's why we need to read him.
+
+210
+00:22:58,559 --> 00:23:00,879
+Okay, so now we're about to read him.
+
+211
+00:23:00,879 --> 00:23:06,159
+Let me just and see how we can understand what he's talking about.
+
+212
+00:23:06,319 --> 00:23:08,240
+Let me see, let me catch up where I am.
+
+213
+00:23:08,240 --> 00:23:09,520
+I'm just going to read now.
+
+214
+00:23:09,520 --> 00:23:19,520
+So instead of focusing or renewing, a reconfigurer creates a new understanding of what matters, a new understanding of what makes sense.
+
+215
+00:23:19,520 --> 00:23:28,159
+He reveals a new truth, and he has to have a new language to do it, which he doesn't have, but later people will make up.
+
+216
+00:23:28,799 --> 00:23:32,639
+And you'll see only much later.
+
+217
+00:23:32,639 --> 00:23:37,679
+But I'll tell you now, because it's going to come back later, but it's better to have an overall view.
+
+218
+00:23:37,680 --> 00:23:49,599
+How does he solve this problem of being able to communicate it all to the Hebrews, the Jews, of which he is, after all, one and a rabbi, but he's saying these weird things.
+
+219
+00:23:49,599 --> 00:23:51,520
+How is he able to do that?
+
+220
+00:23:52,160 --> 00:23:57,919
+Well, I think, and I guess I get this from Heidegger, but you have to push hard to find it even in Heidegger.
+
+221
+00:23:57,920 --> 00:23:59,679
+So maybe I made it up, I don't know.
+
+222
+00:23:59,680 --> 00:24:21,760
+But in any case, I think what has to happen is that you have to find this person, this reconfigurer, has to find some marginal practices which are not very important, but which are something that people already understand, and take them and make them the central thing in what he's talking about.
+
+223
+00:24:21,760 --> 00:24:39,200
+And he has to take the practices that are most important to the people that he's talking to, the Jews, and the people, and that they most fully believe in and understand, and devote them to marginal, if not actually irrelevant.
+
+224
+00:24:39,799 --> 00:25:01,399
+If you could do that, if you could switch that like that, you'd get a whole new culture, and you'd get something that was just marginally intelligible to people, but something that they could gradually come to understand, not even in one generation, but after all, it's still pretty unintelligible in John.
+
+225
+00:25:01,400 --> 00:25:19,959
+But gradually they will develop a language, they will develop rituals, prayers, the church, institutions like that, and begin to put it all together into this very, very, very coherent picture that Dante has by a thousand years later.
+
+226
+00:25:20,599 --> 00:25:32,039
+So the reconfigurer then takes the marginal practices, makes them central, and turns them into what is shining and sacred.
+
+227
+00:25:32,359 --> 00:25:39,160
+And finally, one more thing about all this sort of philosophical background, but then we can plunge in and try.
+
+228
+00:25:39,160 --> 00:25:46,119
+It turns out that a work of art, the way I've described it, has a threefold structure.
+
+229
+00:25:47,000 --> 00:25:54,039
+And that is, you've got to have the shared background practices that everybody has.
+
+230
+00:25:54,359 --> 00:26:02,279
+And either you take them as central if you're doing articulating, or you at least take them as marginal.
+
+231
+00:26:02,279 --> 00:26:15,720
+But there's got to be an understanding of being already there that you're responsive to if you're going to be a reconfigurer or a articulator or a renew that is renewer or reconfigurer.
+
+232
+00:26:17,319 --> 00:26:21,799
+And of course, these practices are invisible to the people who live in them.
+
+233
+00:26:21,799 --> 00:26:23,319
+They just follow them.
+
+234
+00:26:23,319 --> 00:26:24,520
+They've been raised in them.
+
+235
+00:26:25,839 --> 00:26:35,359
+They say the kind of things that people say, and they do the kind of things that people do, and they condemn the kind of things that people condemn, and they praise the kind of things that people praise.
+
+236
+00:26:35,760 --> 00:26:38,640
+And that all has a style, but they don't see it.
+
+237
+00:26:38,639 --> 00:26:40,400
+Again, I say this every once in a while.
+
+238
+00:26:40,400 --> 00:26:52,000
+They live in it like fish in water and pass it on from generation to generation by imitation so that the kids will praise the same thing and say the same thing and so forth.
+
+239
+00:26:52,319 --> 00:26:59,839
+But that's very important, that background understanding of being, because that already makes these people the kind of people they are.
+
+240
+00:26:59,839 --> 00:27:06,799
+Well, back to that again, and makes whatever is important important and gives meaning to their lives.
+
+241
+00:27:07,039 --> 00:27:13,520
+And as I put it here, without these background practices, there wouldn't be any culture.
+
+242
+00:27:13,520 --> 00:27:16,319
+Nothing would be showing up as anything.
+
+243
+00:27:16,319 --> 00:27:21,440
+It'd just be a kind of, I don't know, sort of overwhelming mess.
+
+244
+00:27:21,839 --> 00:27:27,839
+But nobody ever is in that situation because everybody's already born into some culture or other.
+
+245
+00:27:28,400 --> 00:27:29,920
+What else then do you need?
+
+246
+00:27:29,920 --> 00:27:39,599
+To have, we're talking about truth setting itself to work, this general thing that has this general activity.
+
+247
+00:27:39,599 --> 00:28:17,000
+Well, you've got to have some particular thing like a temple or an event, like Pericles' speech, or a person, and that will help make what's going on in the background, visible, by incarnating it so completely, by embodying it so completely and so beautifully and so shiningly that people can see and admire the style that they'd already had, but was invisible to them.
+
+248
+00:28:17,639 --> 00:28:34,359
+And either they see the one they already had, that's articulation, or this whatever it is that sets to work and transforms can transform the whole world into a new way of making sense and a new kind of truth.
+
+249
+00:28:34,599 --> 00:28:43,959
+But something or person has to do it, then people will act in the light of the paradigm.
+
+250
+00:28:43,960 --> 00:28:46,919
+They will, that is, the work.
+
+251
+00:28:46,920 --> 00:29:10,279
+And when they act in the light of this work, that means that in every situation they do what one does, if one's a whatever, a Hebrew or a Roman or a Homeric Greek or Asbenian Greek, they're all acting in the light of whatever it is that is their work of art, their cultural paradigm.
+
+252
+00:29:10,279 --> 00:29:13,480
+And there's one further thing.
+
+253
+00:29:13,480 --> 00:29:15,480
+Now, the three they all have.
+
+254
+00:29:15,480 --> 00:29:19,319
+But the Reconfigurer needs some fourth thing.
+
+255
+00:29:19,639 --> 00:29:21,799
+And I've already been setting you up for it.
+
+256
+00:29:22,200 --> 00:29:31,240
+And I don't know any, Heidegger never says this, I don't think, but I think it's very interesting and true, that every Reconfigurer needs an articulator.
+
+257
+00:29:31,799 --> 00:29:34,839
+In effect, I've been just saying it without telling you.
+
+258
+00:29:35,079 --> 00:29:48,520
+Because if the Reconfigurers have no language and can't state what they're up to, can't even understand what's happening, like Jesus in the Scorsese movie, which I think is what's bound to happen to these people.
+
+259
+00:29:49,720 --> 00:29:55,599
+If that's so, then they need somebody who's going to come along and make sense of it.
+
+260
+00:29:55,599 --> 00:29:57,279
+And I've been already talking about that.
+
+261
+00:29:54,440 --> 00:29:59,679
+Paul already starts to make sense of it.
+
+262
+00:30:00,319 --> 00:30:07,279
+The three gospel writers that are similar do, and John certainly does.
+
+263
+00:30:09,039 --> 00:30:13,679
+They could have just one articulator, or they may have several articulators.
+
+264
+00:30:13,680 --> 00:30:16,720
+Usually there's one sort of obvious one.
+
+265
+00:30:16,720 --> 00:30:24,879
+I'm not sure who the obvious one is for the Bible, whether it's Paul or John.
+
+266
+00:30:25,680 --> 00:30:28,400
+And it keeps getting more and more articulated.
+
+267
+00:30:28,400 --> 00:30:29,520
+So there are more and more of them.
+
+268
+00:30:29,520 --> 00:30:29,839
+And St.
+
+269
+00:30:29,920 --> 00:30:32,240
+Augustine comes along and makes more sense of it.
+
+270
+00:30:32,240 --> 00:30:32,880
+And St.
+
+271
+00:30:32,879 --> 00:30:38,560
+Thomas Aquinas, who you'll hear more about when we get to Dante, comes along and makes a summa out of it.
+
+272
+00:30:38,559 --> 00:30:42,640
+I mean, a total sum of articulating of it.
+
+273
+00:30:42,960 --> 00:30:48,240
+But there has to be at least an articulator, and then a lot of little articulators.
+
+274
+00:30:48,559 --> 00:30:51,119
+It helps if you're in philosophy.
+
+275
+00:30:52,319 --> 00:31:04,399
+When I say it, and I sort of have prepared you for this too, to take another example, is another one of the big world reconfigurers is Descartes.
+
+276
+00:31:04,400 --> 00:31:08,640
+You don't have to be a holy person or a saint or a temple.
+
+277
+00:31:08,639 --> 00:31:10,079
+You can also be a philosopher.
+
+278
+00:31:10,079 --> 00:31:15,599
+I forgot to put that on my list when I was trying to remember what else makes truth happen.
+
+279
+00:31:16,079 --> 00:31:17,760
+What else sets truth to work?
+
+280
+00:31:17,760 --> 00:31:21,039
+Well, the other one I was looking for is us, philosophers.
+
+281
+00:31:21,039 --> 00:31:25,279
+Not like you or me, but great, great philosophers like Descartes.
+
+282
+00:31:25,279 --> 00:31:40,760
+And when Descartes starts thinking about us, he just sort of denies the whole Christian medieval tradition and pretty much the Greek too, because he invents this new something or other, namely being a subject.
+
+283
+00:31:39,200 --> 00:31:41,960
+People are subjects.
+
+284
+00:31:42,279 --> 00:31:55,000
+That is, they have a certain amount of total, well, they have, according to Descartes, total freedom, and they have an inner world, and they are separated, each one of them, from everybody else and from the external world.
+
+285
+00:31:55,720 --> 00:32:08,279
+If you had philosophy, what is it, 25B, History of Modern, starts with Descartes inventing us as subjects and inventing worlds as objects.
+
+286
+00:32:08,599 --> 00:32:09,880
+Sorry, things as objects.
+
+287
+00:32:09,879 --> 00:32:17,559
+Things weren't objects, they were creatures, or they were stuff that welled up or whatever.
+
+288
+00:32:17,800 --> 00:32:35,559
+So, and Descartes is pretty incomprehensible in a way, because he's so smart, and yet he says seemingly stupid things every once in a while in his meditations, where he's gotten rid of God, really, by saying that every subject is independent and every subject is totally free.
+
+289
+00:32:35,559 --> 00:32:45,800
+But he brings in God in crucial ways, because he's still, that's the only language he's got to sort of fill out what he's understood.
+
+290
+00:32:45,800 --> 00:32:47,719
+Well, then he gets his articulated.
+
+291
+00:32:47,719 --> 00:32:51,159
+And there's just one, and you've seen me write him on the board every once in a while.
+
+292
+00:32:51,159 --> 00:32:52,120
+That's Kant.
+
+293
+00:32:52,119 --> 00:32:58,680
+Kant comes along and says, Aha, Descartes has discovered that we are completely autonomous.
+
+294
+00:32:58,679 --> 00:32:59,640
+Remember that?
+
+295
+00:32:59,639 --> 00:33:12,440
+That we are, we give the law to ourselves, that we are free, and that we are mature, that we don't depend on princes or popes or what else there would be.
+
+296
+00:33:12,759 --> 00:33:13,480
+I don't know.
+
+297
+00:33:13,480 --> 00:33:15,480
+Maybe those are the two main ones.
+
+298
+00:33:16,440 --> 00:33:24,799
+And Kant spells out in tremendous detail all the implications of Descartes and gives it a whole new language.
+
+299
+00:33:24,360 --> 00:33:29,679
+He doesn't give up subjects and objects, but he adds a whole bunch of other terms to make it clear.
+
+300
+00:33:29,840 --> 00:33:40,079
+And he puts God right out of the picture, where Descartes didn't have the capacity or the insight or the desire or something to do it.
+
+301
+00:33:40,559 --> 00:33:45,200
+So Descartes is the reconfigurer and Kant is the articulator.
+
+302
+00:33:45,520 --> 00:34:15,840
+And Heidegger, who finds reconfiguring the most amazing thing people can do, that some people can disclose whole new worlds, thinks that even though Heidegger thinks Descartes is dead wrong and is a sort of disaster for the West, but he nonetheless says that Descartes is a greater philosopher than Kant and that certainly one of the greatest philosophers that ever lived just because he was able to pull off this thing of inventing modernity.
+
+303
+00:34:15,840 --> 00:34:18,960
+Okay, now we're going to talk about the Gospel of John.
+
+304
+00:34:19,199 --> 00:34:20,799
+For a moment, pause.
+
+305
+00:34:21,520 --> 00:34:38,000
+You've got all these characters now: articulators who are renewers, reconfigurers who invent or bring about, create really, whole new worlds, and articulators then who follow the reconfigurers.
+
+306
+00:34:38,000 --> 00:34:45,039
+We don't know who the reconfigurer is or what that puts, that gives Homer the world that he articulates.
+
+307
+00:34:45,039 --> 00:34:49,440
+And we don't know either who did the world that Aeschylus is articulating.
+
+308
+00:34:49,440 --> 00:34:53,199
+These reconfigurers are sort of off the chart.
+
+309
+00:34:53,199 --> 00:34:54,559
+Maybe there wasn't any.
+
+310
+00:34:54,639 --> 00:34:58,559
+I don't know how you could get along without it, though, so I think there must have been somehow.
+
+311
+00:34:58,559 --> 00:35:03,440
+But anyway, I can't say anything about it because history has not given us anything to go on.
+
+312
+00:35:03,440 --> 00:35:12,039
+But we can talk about a kind of amazing example where it's all really laid out in front of us.
+
+313
+00:35:12,199 --> 00:35:37,880
+That's why we have to read the Gospel of John, because there it's clear that there was already something, namely the whole druid, that was already articulated, and Jesus came along and reconfigured it, and then people like John articulated that, meaning we've got it all really right in front of us in that case.
+
+314
+00:35:37,880 --> 00:35:39,879
+And so we're going to look at that case.
+
+315
+00:35:39,880 --> 00:35:40,839
+John is interesting.
+
+316
+00:35:40,840 --> 00:35:48,120
+I just wrote down here because he knows Greek, and he's writing in New Testament Greek, which is a version of Greek.
+
+317
+00:35:48,119 --> 00:36:06,039
+And he knows the philosophy of the Stoics, for instance, and he uses some of their terminology to try to capture, I think probably not very fortunately, but again, they're all just sort of staggering around in this overwhelming new world to try to capture what's going on.
+
+318
+00:36:06,039 --> 00:36:14,440
+So this famous beginning now of the Gospel of John, I have it in front of you, this sort of thing, it's called a kind of poem, the prologue.
+
+319
+00:36:15,079 --> 00:36:23,320
+This is sort of half in Greek, that is all in Greek, but the crucial term, in the beginning was the word.
+
+320
+00:36:23,320 --> 00:36:24,760
+What's that?
+
+321
+00:36:24,759 --> 00:36:28,360
+Well, that's logos.
+
+322
+00:36:28,360 --> 00:36:30,279
+You've seen me write logos on the board.
+
+323
+00:36:30,280 --> 00:36:34,439
+Logos is something like the intelligible structure of everything.
+
+324
+00:36:34,759 --> 00:36:39,320
+So in the beginning, there was the intelligible structure of the cosmos.
+
+325
+00:36:39,320 --> 00:36:42,360
+And the word was with God.
+
+326
+00:36:42,360 --> 00:36:43,960
+I don't know what that means.
+
+327
+00:36:43,960 --> 00:36:45,639
+And the word was God.
+
+328
+00:36:45,639 --> 00:36:49,639
+I mean, God was the intelligible structure of the cosmos.
+
+329
+00:36:49,639 --> 00:36:52,680
+He was with God in the beginning.
+
+330
+00:36:53,480 --> 00:36:57,279
+Now it gets very, it's going to get very, very complicated very fast.
+
+331
+00:36:54,360 --> 00:37:00,960
+Through him, all things came into being.
+
+332
+00:36:54,520 --> 00:37:01,759
+Him.
+
+333
+00:37:02,719 --> 00:37:08,159
+The Stoic logos is a very abstract philosophical notion.
+
+334
+00:37:08,480 --> 00:37:10,000
+What is this him?
+
+335
+00:37:10,320 --> 00:37:19,199
+Well, it's John trying to say that somehow Jesus is the word.
+
+336
+00:37:19,520 --> 00:37:23,280
+That is, he's somehow the meaning of the cosmos.
+
+337
+00:37:23,280 --> 00:37:31,840
+This is going to get things into very quickly, into utterly complicated and pretty much unintelligible waters.
+
+338
+00:37:32,800 --> 00:37:34,479
+And you just go on.
+
+339
+00:37:34,480 --> 00:37:37,039
+What has come into being in him was life.
+
+340
+00:37:37,039 --> 00:37:39,520
+Life was the light of men.
+
+341
+00:37:39,520 --> 00:37:41,760
+And the light shines in the darkness.
+
+342
+00:37:42,320 --> 00:37:45,840
+He's going to be a shining example right away.
+
+343
+00:37:45,840 --> 00:37:48,240
+And darkness could not overcome it.
+
+344
+00:37:48,239 --> 00:37:51,680
+I found another translation which I like a whole lot better.
+
+345
+00:37:52,000 --> 00:37:53,679
+Not knowing New Testament Greek.
+
+346
+00:37:54,239 --> 00:38:02,959
+I don't have my own opinion, but wouldn't it be nice if it said, and it did, the light shines in the darkness and the darkness did not understand it.
+
+347
+00:38:03,520 --> 00:38:05,680
+I think that's probably, that's what I've been saying.
+
+348
+00:38:05,679 --> 00:38:07,359
+Of course, they didn't understand it.
+
+349
+00:38:07,360 --> 00:38:10,639
+They didn't have any concepts for understanding it.
+
+350
+00:38:11,280 --> 00:38:19,760
+And it makes it seem much more sort of true to the phenomenon, less like some battle between light and dark of some mythical sort.
+
+351
+00:38:19,759 --> 00:38:27,440
+And I take it, John was enough of a kind of philosophical person to have it the way I want it to be.
+
+352
+00:38:27,440 --> 00:38:29,599
+But anyway, I'm going to read it that way.
+
+353
+00:38:29,599 --> 00:38:34,880
+The light shines in the darkness, and the darkness did not understand it, could not understand it.
+
+354
+00:38:34,880 --> 00:38:38,240
+Okay, so now let's see.
+
+355
+00:38:38,239 --> 00:38:41,159
+So I've been reading on the first page of this.
+
+356
+00:38:41,639 --> 00:38:44,120
+I want to make sure I've read all the things I want to read.
+
+357
+00:38:39,119 --> 00:38:45,559
+Well, no, let's go on.
+
+358
+00:38:46,440 --> 00:38:49,799
+Stepping down a little bit, I mean, every bit of it.
+
+359
+00:38:49,800 --> 00:38:50,679
+Let's just read it all.
+
+360
+00:38:50,679 --> 00:38:51,880
+It is so strange.
+
+361
+00:38:51,880 --> 00:38:54,999
+I mean, those of you who never heard it must find it absolutely weird.
+
+362
+00:38:55,239 --> 00:38:55,880
+I'm Jewish.
+
+363
+00:38:55,880 --> 00:39:02,199
+I didn't read it until I was, I don't know, about 25, the Christian Gospels, and I had to teach it at MIT.
+
+364
+00:39:02,199 --> 00:39:03,719
+And that was really exciting.
+
+365
+00:39:03,719 --> 00:39:09,319
+And I thought, but I could, this seemed to me absolutely weird and incomprehensible.
+
+366
+00:39:09,320 --> 00:39:16,680
+The Christians will find it very strange if you try to really think about it instead of just hearing it like a litany.
+
+367
+00:39:16,679 --> 00:39:18,679
+A man came sent by God.
+
+368
+00:39:18,679 --> 00:39:19,719
+His name was John.
+
+369
+00:39:19,719 --> 00:39:21,319
+Now, this isn't this guy, John.
+
+370
+00:39:21,320 --> 00:39:29,239
+This is John the Baptist, who's out in this weird sect of Essenes, baptizing people and waiting for the Messiah.
+
+371
+00:39:29,239 --> 00:39:30,039
+His name is John.
+
+372
+00:39:30,039 --> 00:39:32,119
+He came as a witness to bear witness to the light.
+
+373
+00:39:32,119 --> 00:39:35,559
+That's Jesus, so that everyone might believe through him.
+
+374
+00:39:35,559 --> 00:39:36,920
+He was not the light.
+
+375
+00:39:36,920 --> 00:39:38,760
+He was to bear witness to the light.
+
+376
+00:39:38,759 --> 00:39:45,000
+John says he's not the Messiah, but that guy is.
+
+377
+00:39:45,559 --> 00:39:47,640
+The word was the real light.
+
+378
+00:39:47,639 --> 00:39:52,840
+And this funny thing, the word now is going to be, that's Jesus.
+
+379
+00:39:52,840 --> 00:39:55,960
+The word was the real light that gives light to everyone.
+
+380
+00:39:55,960 --> 00:39:57,640
+He was coming into the world.
+
+381
+00:39:57,639 --> 00:40:02,919
+He was in the world that had come into being through him, and the world did not recognize him.
+
+382
+00:40:02,920 --> 00:40:04,679
+You see, that's like, didn't understand him.
+
+383
+00:40:04,840 --> 00:40:07,480
+That's why I think that's the right way to translate it.
+
+384
+00:40:08,440 --> 00:40:15,239
+And it already begins to look peculiar, that he was in the world and had come into which the world.
+
+385
+00:40:15,239 --> 00:40:18,840
+He was in the world that had come into being through him.
+
+386
+00:40:19,000 --> 00:40:23,720
+A very peculiar relationship to create a world and be in it.
+
+387
+00:40:23,719 --> 00:40:35,680
+You'd think either if you were a creator, you'd be sort of outside it, sort of able to control it and produce it, or else you'd just be another creature in another something in the world.
+
+388
+00:40:35,679 --> 00:40:38,800
+But no, he had this peculiar relation.
+
+389
+00:40:39,119 --> 00:40:41,680
+And John says it again and again.
+
+390
+00:40:42,000 --> 00:40:44,880
+And each time it's just as unintelligible as the last.
+
+391
+00:40:44,880 --> 00:40:46,239
+But I want to read you a few more.
+
+392
+00:40:46,559 --> 00:40:48,559
+It's all over the place.
+
+393
+00:40:50,320 --> 00:40:51,360
+But where do I have it?
+
+394
+00:40:51,360 --> 00:40:52,800
+That's just a second.
+
+395
+00:40:52,800 --> 00:40:53,840
+Wow.
+
+396
+00:40:53,840 --> 00:40:56,240
+That isn't what I expected to see.
+
+397
+00:40:56,239 --> 00:40:59,280
+Well, now I am at a loss to find.
+
+398
+00:41:00,159 --> 00:41:00,799
+I'm just looking.
+
+399
+00:41:00,800 --> 00:41:10,559
+I must have marked them in lots of other places where you hear that he was in the world and the world was made through him.
+
+400
+00:41:10,559 --> 00:41:12,240
+Oh, maybe I haven't.
+
+401
+00:41:12,239 --> 00:41:15,759
+Either I've lost a page or I haven't got it marked.
+
+402
+00:41:16,719 --> 00:41:18,479
+Okay, well, one is enough.
+
+403
+00:41:18,480 --> 00:41:20,160
+And I may find it again.
+
+404
+00:41:20,159 --> 00:41:27,839
+That Jesus says, and John says every once in a while, this peculiar fact that Jesus was in the world and the world was made through him.
+
+405
+00:41:27,840 --> 00:41:31,600
+That's very important and very hard to understand.
+
+406
+00:41:34,000 --> 00:41:40,079
+And through it all, Jesus has a kind of double nature.
+
+407
+00:41:40,079 --> 00:41:45,920
+He's always sort of in the world and even a kind of victim of the world.
+
+408
+00:41:45,920 --> 00:41:50,960
+And at the same time, he's sort of in charge and overseeing things.
+
+409
+00:41:50,960 --> 00:41:53,760
+So he's the lamb of God.
+
+410
+00:41:54,159 --> 00:41:55,680
+I won't read where.
+
+411
+00:41:56,400 --> 00:41:57,759
+And he's also the shepherd.
+
+412
+00:41:57,759 --> 00:42:02,000
+It's a peculiar thing to be the sacrificial lamb and the shepherd.
+
+413
+00:42:02,000 --> 00:42:11,079
+He's the Lord, and he also is the humble foot washer and treats everybody as if he were their servant.
+
+414
+00:42:12,039 --> 00:42:18,039
+And he seems in the Gospel of John to know exactly what he's doing.
+
+415
+00:42:18,039 --> 00:42:21,240
+That's not Scorzes' way of thinking of it.
+
+416
+00:42:21,559 --> 00:42:30,440
+In the other Gospels, which is where Scorzes gets his, he doesn't seem to know from moment to moment what he's going to do next or what's going to happen next.
+
+417
+00:42:30,440 --> 00:42:35,719
+Or getting now more familiar and but equally strange, he says that he's the son of man, and he is.
+
+418
+00:42:35,719 --> 00:42:41,480
+He's a regular human being born of a mother and father, and that he's the Messiah.
+
+419
+00:42:41,480 --> 00:42:43,719
+And he even, but that's enough.
+
+420
+00:42:43,719 --> 00:42:46,440
+Now I'm going to, those are important, so let's look.
+
+421
+00:42:46,440 --> 00:42:51,400
+At 1251, you see the page numbers that I'm going to at the top of the page there.
+
+422
+00:42:51,719 --> 00:42:57,159
+At 1251, people say, you know, he's just an ordinary human being.
+
+423
+00:42:57,159 --> 00:43:05,559
+At the bottom of 1251, they were saying, surely this is Jesus, son of Joseph, whose father and mother we know.
+
+424
+00:43:05,559 --> 00:43:08,039
+So that seems to be normal.
+
+425
+00:43:08,039 --> 00:43:14,279
+And then, but he is also, on 1246, the Son of God.
+
+426
+00:43:14,280 --> 00:43:24,920
+So on about two-thirds of the way down, he says, for God sent his Son into the world not to judge the world, but so that through him the world might be saved.
+
+427
+00:43:24,920 --> 00:43:32,120
+So he is both the Son of man and he is the Son of God.
+
+428
+00:43:32,440 --> 00:43:41,559
+And finally, in its most extreme puzzling story, but that's the really interesting story, that's what made Christianity so fascinating and important.
+
+429
+00:43:41,559 --> 00:43:43,159
+Jesus was God.
+
+430
+00:43:43,480 --> 00:43:53,400
+So he's both separate from God, who is the Father, and he is identical with God, who is the Father.
+
+431
+00:43:53,400 --> 00:43:58,719
+I mean, all of this is, you can imagine how hard it was for any of them to understand any of this.
+
+432
+00:43:59,039 --> 00:44:02,640
+And it is practically incomprehensible.
+
+433
+00:44:02,639 --> 00:44:03,920
+But there it is.
+
+434
+00:44:03,920 --> 00:44:16,079
+On 1264, he says at about 12 lines from the bottom on the far left, I'm going to the Father, and he says, the Father is greater than I.
+
+435
+00:44:17,039 --> 00:44:23,760
+But on 1258, he says that he's identical with the Father.
+
+436
+00:44:24,320 --> 00:44:33,919
+He says at the bottom of that first column above the division on 150, on 1258, the Father and I are one.
+
+437
+00:44:34,239 --> 00:44:41,920
+And he says on the cross on the other side on 1258, the Father is in me, and I am in the Father.
+
+438
+00:44:42,239 --> 00:44:52,160
+A dozen different ways of explaining what he is and what his relation to God is, all of them seeming incomprehensible, and all of them seeming inconsistent.
+
+439
+00:44:52,559 --> 00:44:57,840
+But that's because he just hasn't got a language to say what he is and what he's doing.
+
+440
+00:44:58,480 --> 00:45:01,599
+And either that's because, or we don't really know.
+
+441
+00:45:01,599 --> 00:45:17,360
+Is that because he was unable to say it, or because they were unable to hear it and write it down sensibly, or the people who wrote it down couldn't, the people who copied the people who wrote it down, because they weren't, none of them there, couldn't understand the people who had heard it.
+
+442
+00:45:17,360 --> 00:45:21,280
+I mean, where it got so confused, it doesn't much matter.
+
+443
+00:45:21,280 --> 00:45:28,880
+If there had been a clear way to talk about it, presumably he would have talked about it that way, and people would have written it down that way and managed to copy it that way.
+
+444
+00:45:29,079 --> 00:45:32,079
+It's just too complex, it's just too crazy for that.
+
+445
+00:45:32,400 --> 00:45:47,640
+And that's the sign, remember, that it's a reconfigurer, that he's saying something so original and so different than the Hebrews could ever imagine that they don't know how to think about it.
+
+446
+00:45:49,239 --> 00:45:53,320
+And so, John is trying to make sense of this.
+
+447
+00:45:53,960 --> 00:46:04,680
+And the way Jesus says it that's most interesting to us, to me anyway, and I hope I can make it interesting to you, is on 1263.
+
+448
+00:46:05,559 --> 00:46:24,120
+The best way that John has to deal with it is at the bottom of the first column on 1263, where somebody has written down that Jesus said, and it's, I am the way, I am truth and life.
+
+449
+00:46:24,119 --> 00:46:27,000
+No one can come to the Father except through me.
+
+450
+00:46:27,000 --> 00:46:32,280
+And then comes the really interesting part to me: if you know me, you will know my Father too.
+
+451
+00:46:32,280 --> 00:46:35,400
+From this moment, you know him and have seen him.
+
+452
+00:46:35,400 --> 00:46:47,240
+That is, insofar as you're ever going to see God, the supreme being, that sense of the Father, you've already seen him when you've seen Jesus.
+
+453
+00:46:47,239 --> 00:47:06,280
+And there's no, I mean, finally, a very, very radical Protestant theologian, Kierkegaard, whom I mention occasionally and whom I teach in Philosophy 7, says that once Jesus says this, then all attempts to get in any kind of relation to God the Father are finished.
+
+454
+00:47:06,280 --> 00:47:13,079
+Because the way to get in touch with God the Father is, and see him, is to see Jesus.
+
+455
+00:47:13,079 --> 00:47:21,480
+And so the Father stays invisible, and Jesus is the way you relate to him, you pray to him, you see him, and so forth.
+
+456
+00:47:21,480 --> 00:47:22,960
+That's very important.
+
+457
+00:47:23,239 --> 00:47:25,599
+From this moment, you know him.
+
+458
+00:47:23,719 --> 00:47:28,879
+When you know me, from this moment, you know him and have seen him.
+
+459
+00:47:30,000 --> 00:47:33,039
+Oh, and here I wrote down, and the world is made through him.
+
+460
+00:47:33,119 --> 00:47:35,920
+It's a little late to find it, but let's see if it's really there.
+
+461
+00:47:36,960 --> 00:47:38,640
+1243.
+
+462
+00:47:38,960 --> 00:47:40,480
+Oh, it's back in the poem.
+
+463
+00:47:40,480 --> 00:47:42,079
+Maybe I read it already.
+
+464
+00:47:42,079 --> 00:47:43,359
+I don't know.
+
+465
+00:47:44,320 --> 00:47:45,440
+Hmm.
+
+466
+00:47:45,440 --> 00:47:47,440
+1243.
+
+467
+00:47:47,759 --> 00:47:56,159
+Yeah, I guess I didn't read this, but I just had it staring me in the face at the bottom of 1243, at the very bottom of the left column.
+
+468
+00:47:56,159 --> 00:48:01,440
+He was in the world and had come into, that had come into being through him.
+
+469
+00:48:01,440 --> 00:48:02,799
+Did I read that already?
+
+470
+00:48:02,800 --> 00:48:03,759
+Maybe I did.
+
+471
+00:48:03,759 --> 00:48:11,039
+Anyway, that's this, again, strange thing in which he seems to be, once you've seen him, you've seen God.
+
+472
+00:48:12,000 --> 00:48:17,520
+He's the creator of the world and at the same time, something in the world.
+
+473
+00:48:17,520 --> 00:48:21,120
+That strange relation is all over the place.
+
+474
+00:48:21,119 --> 00:48:23,520
+That's got to be something important.
+
+475
+00:48:23,520 --> 00:48:27,280
+And that he's shining in the darkness, we've seen that.
+
+476
+00:48:27,920 --> 00:48:32,559
+And the important thing that the world became flesh, just to say.
+
+477
+00:48:32,880 --> 00:48:33,920
+Oh, yeah, okay.
+
+478
+00:48:33,920 --> 00:48:44,480
+And he is in some way, the whole intelligible structure of the cosmos, which I can't, if you think you don't understand what I'm saying, don't be surprised.
+
+479
+00:48:44,480 --> 00:48:46,079
+I don't understand what I'm saying either.
+
+480
+00:48:46,079 --> 00:48:47,920
+That's the logos, anyway.
+
+481
+00:48:47,920 --> 00:48:49,839
+The logos became flesh.
+
+482
+00:48:49,840 --> 00:48:52,559
+That's this very strange claim.
+
+483
+00:48:52,559 --> 00:49:04,880
+This completely seemingly abstract, stoic, philosophical notion, which wasn't even part of the Hebrew tradition, but part of the Stoic tradition, which is so weird.
+
+484
+00:49:05,199 --> 00:49:06,319
+Just happened.
+
+485
+00:49:06,559 --> 00:49:18,760
+This Jewish boy in Palestine just happened to be the place where that whole intelligible structure just got a body.
+
+486
+00:49:18,759 --> 00:49:23,720
+So on the right, the word became flesh.
+
+487
+00:49:24,039 --> 00:49:37,960
+And he lived among us, and we saw his glory, the glory that he has from the Father, which is pretty peculiar since he seems to be identical with the Father sometimes, as the only Son of the Father, full of grace and truth.
+
+488
+00:49:37,960 --> 00:49:43,480
+So the main thing is that the whole intelligible structure gets embodied.
+
+489
+00:49:43,639 --> 00:49:45,480
+Why is that so important?
+
+490
+00:49:45,800 --> 00:49:52,520
+Well, remember how people felt about bodies at the end of the Aeneid, which is the same time as this.
+
+491
+00:49:53,159 --> 00:50:13,800
+They felt, and I suppose the Stoics felt this about bodies, that bodies were something that got in the way and you'd be better off without them, and that they were this, this, what does Aeneas learn that they are lumpish and I forget the phrase, dull and so forth and so forth, and you would certainly be better off without one.
+
+492
+00:50:13,800 --> 00:50:16,600
+It just weighs you down and gets in the way.
+
+493
+00:50:16,599 --> 00:50:21,079
+Well, all of a sudden, and sort of out of nowhere, well, it's not out of nowhere.
+
+494
+00:50:21,079 --> 00:50:24,760
+The Hebrews never had that dim view of the body.
+
+495
+00:50:24,759 --> 00:50:33,959
+But now it turns out, but the Hebrews had another thing that kept them from thinking that God couldn't become a body, flesh.
+
+496
+00:50:34,360 --> 00:50:35,799
+The Greek word there is meat.
+
+497
+00:50:35,800 --> 00:50:41,240
+I mean, it's really flesh, just the kind of flesh that, you know, bleeds and so forth.
+
+498
+00:50:41,960 --> 00:50:49,079
+The intelligible structure of the universe couldn't become meat in either the Hebrew version or the Greek version.
+
+499
+00:50:49,079 --> 00:50:57,520
+In the Greek version, it's because what's intelligible is something mental and structural.
+
+500
+00:50:57,520 --> 00:50:59,439
+It's not something in the world.
+
+501
+00:50:59,759 --> 00:51:03,840
+In the Hebrew version, you can't make any image of God.
+
+502
+00:51:03,840 --> 00:51:07,440
+God is necessarily invisible.
+
+503
+00:51:07,440 --> 00:51:14,399
+When you get to Pascal, you'll see Pascal going on and on about the very peculiar fact that in the Hebrew tradition you've got a hidden God.
+
+504
+00:51:14,400 --> 00:51:26,319
+Instead of a God that sort of shines on you, and you see this God, God the Father, anyway, God can't be visible.
+
+505
+00:51:26,320 --> 00:51:33,920
+And I don't know how many of you noticed, I mean, the Hebrews have this prohibition against making any picture of God, making any music about God.
+
+506
+00:51:33,920 --> 00:51:53,039
+There's going to be no stained glass windows and no sung masses and no statues or anything like that of God because you can't do that because God is too outside the world and too super to become a body and to become visible.
+
+507
+00:51:53,039 --> 00:51:59,199
+And out of that, for some peculiar reason, which you have to think of your own reason.
+
+508
+00:51:59,199 --> 00:52:01,039
+Was it a message from God that did it?
+
+509
+00:52:01,039 --> 00:52:05,920
+Was it something stirring in the background practices that did it?
+
+510
+00:52:05,920 --> 00:52:20,880
+At this particular moment, this particular human being, Jesus, declares that he is a body and a man, and he is God.
+
+511
+00:52:20,880 --> 00:52:28,640
+And John is just reporting it made as if it's absolutely revolutionary.
+
+512
+00:52:28,639 --> 00:52:32,480
+And it changes the world, because it changes what it is to have a body.
+
+513
+00:52:32,520 --> 00:52:34,719
+I mean, it's the best thing you can do is to have a body.
+
+514
+00:52:34,880 --> 00:52:37,440
+God can have a body and wants to have a body.
+
+515
+00:52:37,440 --> 00:52:40,920
+So that certainly makes bodies pretty good to have.
+
+516
+00:52:41,239 --> 00:52:53,960
+And it gets rid of this idea that you can't in any way see God because it's so abstract or so powerful or so outside the world, I think is the best way to put it, that you can't see it.
+
+517
+00:52:53,960 --> 00:53:00,680
+And that's, you know, that's, well, just to use the fancy word now, that's the incarnation.
+
+518
+00:53:00,679 --> 00:53:08,440
+That's the specialist, that's the most, from my point of view anyway, the most important message of Christianity.
+
+519
+00:53:08,440 --> 00:53:16,600
+There is also the fact that Jesus was crucified, and that's the crucifixion and died on the cross.
+
+520
+00:53:16,599 --> 00:53:22,440
+There's the fact that he also rose and went to heaven, according to the gospel writers.
+
+521
+00:53:22,440 --> 00:53:24,440
+After that, that's the resurrection.
+
+522
+00:53:24,440 --> 00:53:35,559
+But I think the really revolutionary thing is the incarnation: that God became a body, got embodied, and at this point by this guy, at this moment in history.
+
+523
+00:53:35,559 --> 00:53:44,440
+And since God's embodied in him, then he can say what I already quoted, let's look, 1261, and maybe he says it several times.
+
+524
+00:53:45,719 --> 00:53:50,679
+God got embodied so that if you see him, you've seen the Father.
+
+525
+00:53:50,679 --> 00:53:52,440
+That's this important quote.
+
+526
+00:53:52,759 --> 00:53:58,760
+Well, there's the top of, I've already quoted the top of 1263.
+
+527
+00:53:58,759 --> 00:54:01,000
+If you know me, you will know my Father.
+
+528
+00:54:01,000 --> 00:54:04,280
+From this moment, you know him and have seen him.
+
+529
+00:54:04,280 --> 00:54:08,360
+Because that's now God who has that body.
+
+530
+00:54:08,360 --> 00:54:09,960
+1261.
+
+531
+00:54:10,280 --> 00:54:13,480
+You know, in the middle of 1261, it happens again.
+
+532
+00:54:13,800 --> 00:54:20,520
+Whoever believes in me believes not in me, but in the one who sent me, and whoever sees me seems the one who sent me.
+
+533
+00:54:20,679 --> 00:54:27,920
+So that is, again, if you see Jesus, you see God, and God has become flesh.
+
+534
+00:54:29,119 --> 00:54:46,079
+So now, can we, supposedly, I hope that it probably has dawned on some of you that there's some kind of connection between what I said about reconfiguring in the beginning of this lecture and what I'm saying now.
+
+535
+00:54:46,400 --> 00:55:03,840
+There is this huge problem of understanding this peculiar kind of identity in which Jesus is God and He's in the world and yet the world was made through Him.
+
+536
+00:55:03,840 --> 00:55:06,559
+How do you put all that together?
+
+537
+00:55:06,719 --> 00:55:08,719
+In Christian talk, that's the Trinity.
+
+538
+00:55:08,719 --> 00:55:14,800
+That's the Father, the Son, and we haven't said anything about the Holy Spirit, but that's the third part.
+
+539
+00:55:14,880 --> 00:55:18,640
+So God has three aspects all in one.
+
+540
+00:55:18,639 --> 00:55:22,800
+And we've just been talking about them without naming them.
+
+541
+00:55:22,800 --> 00:55:24,399
+But now, what is it?
+
+542
+00:55:24,400 --> 00:55:25,679
+How are they all related?
+
+543
+00:55:25,679 --> 00:55:28,240
+It's a huge puzzle.
+
+544
+00:55:28,559 --> 00:55:34,559
+And I'm not going to tell you that I can sort of solve this puzzle, but I can do something.
+
+545
+00:55:35,280 --> 00:55:47,919
+If you understand Jesus as a reconfigurer, then you can understand why he's got to be part of a three-part structure, a Trinitarian structure.
+
+546
+00:55:47,920 --> 00:55:54,319
+The structure of works of art working as reconfigured.
+
+547
+00:55:54,559 --> 00:56:00,559
+In fact, even articulators, now that I think of it, has always got to be a three-part structure.
+
+548
+00:56:00,559 --> 00:56:22,120
+And it just so happens that they've got these names, Father, Son, and Holy Spirit, but of course, those names are pretty weird because God's some very strange kind of Father, for sure, and Jesus is a very peculiar kind of Son, and the Holy Spirit is something we haven't even heard about yet, but it's equally peculiar.
+
+549
+00:56:22,759 --> 00:56:25,960
+But now, you can map the three-part structure.
+
+550
+00:56:26,280 --> 00:56:41,400
+If you want to understand why this weird religion came around with this weird Trinity in which God is both one and has three aspects, what you need to do, according to what I'm saying, is understand that Jesus is a reconfigurer.
+
+551
+00:56:41,400 --> 00:56:44,839
+And that's not very controversial.
+
+552
+00:56:44,840 --> 00:56:51,400
+I mean, if you want to talk about changing worlds, he changed the pagan antique world into the Christian world.
+
+553
+00:56:51,400 --> 00:56:54,759
+We started renumbering the calendar and so forth.
+
+554
+00:56:54,759 --> 00:57:01,000
+If ever there was something that was recognized as a radical change of worlds, this was it.
+
+555
+00:57:01,000 --> 00:57:06,920
+And once you see that he's a reconfigurer, you have to see that he's going to have a three-part structure.
+
+556
+00:57:06,920 --> 00:57:08,600
+So what would that be?
+
+557
+00:57:08,920 --> 00:57:11,240
+You can just sort of map them onto each other.
+
+558
+00:57:11,239 --> 00:57:16,760
+What's God the Father that is invisible and yet creates everything?
+
+559
+00:57:17,079 --> 00:57:19,640
+Well, that's the understanding of being.
+
+560
+00:57:20,039 --> 00:57:25,240
+In the practices, in the background practices, at least that's, you could think of it as that.
+
+561
+00:57:25,239 --> 00:57:34,039
+They are, remember, for the people who have those practices, that creates them as the kind of people they are, creates the world as the kind of world they've got and so forth.
+
+562
+00:57:34,039 --> 00:57:35,960
+And the practices are invisible.
+
+563
+00:57:35,960 --> 00:57:38,439
+You cannot represent them.
+
+564
+00:57:39,639 --> 00:57:45,320
+The meaning in the practices, you can't draw a picture of it or write music about it or anything like that.
+
+565
+00:57:45,320 --> 00:57:47,400
+It just isn't the sort of thing.
+
+566
+00:57:47,400 --> 00:57:49,000
+It isn't a thing at all.
+
+567
+00:57:49,000 --> 00:57:51,559
+And it can't be visible at all.
+
+568
+00:57:51,559 --> 00:57:53,480
+And it doesn't shine at all.
+
+569
+00:57:53,480 --> 00:57:59,199
+It's just there doing its job as the ground of being.
+
+570
+00:57:59,199 --> 00:58:12,320
+As a theologian named Killick, who never mind, you don't need to know that, who sort of did this thing which I'm doing, sort of mapped the Heidegger and Christianity together.
+
+571
+00:58:12,639 --> 00:58:21,039
+So, but anyway, so there's the Father, and he's there in the background, underlying the understanding of being, and he's invisible.
+
+572
+00:58:21,039 --> 00:58:23,039
+And what does the Son do?
+
+573
+00:58:23,039 --> 00:58:24,640
+That is Jesus.
+
+574
+00:58:24,639 --> 00:58:29,039
+Well, He's the exemplar, He's the work of art.
+
+575
+00:58:29,039 --> 00:58:38,960
+He can embody the truth that you can't see or know because it's all pervasive in the background.
+
+576
+00:58:38,960 --> 00:58:41,120
+And He can hold it up to you.
+
+577
+00:58:41,119 --> 00:58:46,000
+And then that's why He can say, He who has seen me has seen the Father.
+
+578
+00:58:46,320 --> 00:58:49,520
+And He can claim to be rightly.
+
+579
+00:58:49,520 --> 00:58:53,760
+See, all this crazy talk stops being crazy talk.
+
+580
+00:58:53,759 --> 00:58:57,039
+If you map it into this, it may be a lot more things.
+
+581
+00:58:57,039 --> 00:58:59,600
+And for Christians, I'm sure it is a lot more things.
+
+582
+00:58:59,599 --> 00:59:07,200
+But at least Jesus can say that He was in the world and the world was made through Him.
+
+583
+00:59:07,199 --> 00:59:08,880
+Why can He say that?
+
+584
+00:59:08,880 --> 00:59:15,439
+Because any articulating or reconfiguring work of art is a thing in the world.
+
+585
+00:59:15,440 --> 00:59:19,920
+It's a temple or a person or a speech or a philosophy book or something.
+
+586
+00:59:19,920 --> 00:59:32,240
+And it creates the world, remember, by giving you the Homeric world, or the Athenian world, or the Roman world, and now the Christian world.
+
+587
+00:59:32,800 --> 00:59:37,039
+So, the creator of the world, in that sense, the creator, not the producer.
+
+588
+00:59:37,039 --> 00:59:44,440
+So, you couldn't, if you try to think about God as how something could both produce the world and be in it, doesn't make any sense at all.
+
+589
+00:59:45,320 --> 00:59:53,960
+So, you better not have this producer of God is just a mixed up thing, anyway, of the Romans sort of being squashed with the Hebrews.
+
+590
+00:59:54,599 --> 01:00:08,360
+But if you don't have a producer God of that sort, if you think God is a creator and that it makes the meaning, it makes meaning, not stuff, and then Jesus makes these new meanings.
+
+591
+01:00:08,360 --> 01:00:17,880
+So, he's in the world, and he creates the world, and it's made through him, and it's sort of the result of his shining.
+
+592
+01:00:17,880 --> 01:00:22,440
+He is the light, remember, that John keeps saying, that he's shining in the world.
+
+593
+01:00:22,759 --> 01:00:33,960
+And as he shines in the world, people show up as something which we have, which as we don't have any names for them, we will have saints and sinners.
+
+594
+01:00:33,960 --> 01:00:38,600
+I mean, a whole different understanding of what human beings are.
+
+595
+01:00:38,599 --> 01:00:42,440
+No more heroes, no more loyal citizens.
+
+596
+01:00:42,440 --> 01:00:46,680
+That's not what you are if you're one of these early Christians.
+
+597
+01:00:46,679 --> 01:00:55,000
+You are in this special light that Jesus is shining on everything.
+
+598
+01:00:55,000 --> 01:00:55,719
+Okay, let me see.
+
+599
+01:00:55,880 --> 01:00:57,640
+Anybody want to say anything?
+
+600
+01:00:58,360 --> 01:00:59,639
+This is not a sermon, you know.
+
+601
+01:00:59,639 --> 01:01:02,840
+You can raise your hand and interrupt.
+
+602
+01:01:03,159 --> 01:01:04,680
+Disagree.
+
+603
+01:01:05,000 --> 01:01:06,199
+Nobody's walking out.
+
+604
+01:01:06,199 --> 01:01:07,319
+That's a good sign.
+
+605
+01:01:07,320 --> 01:01:11,880
+I mean, sometimes people think this is just too outrageous to leave.
+
+606
+01:01:11,880 --> 01:01:12,839
+I can understand that.
+
+607
+01:01:12,840 --> 01:01:13,480
+Yes.
+
+608
+01:01:13,480 --> 01:01:15,800
+Now you've got to talk louder.
+
+609
+01:01:16,520 --> 01:01:17,720
+Phil can't hear you.
+
+610
+01:01:17,719 --> 01:01:18,719
+Seven, yeah?
+
+611
+01:01:27,520 --> 01:01:28,319
+Good question.
+
+612
+01:01:28,960 --> 01:01:32,079
+He's asking, I don't want to talk about it much.
+
+613
+01:01:32,079 --> 01:01:37,520
+We have to talk about it in office hours, but I'll make a stab if I can say it in a way that fits with what I've been saying.
+
+614
+01:01:37,679 --> 01:01:48,880
+In Kierkegaard, Kierkegaard has this mixture of philosophy and Christianity, which is very interesting.
+
+615
+01:01:49,199 --> 01:01:58,480
+And he's got this strong view, and it's related to what I've been saying, and I mentioned it, that God is just invisible in Christianity.
+
+616
+01:01:58,480 --> 01:02:00,480
+There's no way to relate to God.
+
+617
+01:02:00,480 --> 01:02:06,800
+And that's because Jesus is now shining invisible, and Christians relate to Jesus.
+
+618
+01:02:06,800 --> 01:02:10,960
+How they relate to Jesus is what's paradoxical.
+
+619
+01:02:10,960 --> 01:02:12,799
+And that's what he's asking about.
+
+620
+01:02:12,800 --> 01:02:30,880
+What's paradoxical is Christians, according to Kierkegaard, build the whole meaning of their life and their eternal salvation, which I don't think I want to try to explain right now, build it all in their total devotion to Jesus.
+
+621
+01:02:30,880 --> 01:02:37,839
+In the part you read, remember Jesus says that we would all die for each other, and he would die for the disciples, and the disciples would die for him.
+
+622
+01:02:37,840 --> 01:02:42,000
+That is, have something in your life so important that you would die for it.
+
+623
+01:02:42,000 --> 01:03:01,599
+And what's paradoxical is that there is this seemingly vulnerable human being, this person, who, for the Christians, has this specific meaning that they have what Kierkegaard calls an infinite passion.
+
+624
+01:03:01,599 --> 01:03:05,280
+I mean, they build the whole meaning of their life on the relation to Jesus.
+
+625
+01:03:05,280 --> 01:03:20,520
+And what's paradoxical is that anybody would build the whole meaning of their life and think that anything could be so absolutely important, which is just something that happened at some point in time, at some place in time, to some guy.
+
+626
+01:03:20,520 --> 01:03:23,240
+But we've got to go into that in Philosophy 7.
+
+627
+01:03:23,239 --> 01:03:39,399
+But you could manage to make what I'm saying seem a lot more paradoxical than I'm making it if you throw in the relation of the Christian to Jesus and claim that it is this absolute commitment, which sounds right, and Jesus is asking for that.
+
+628
+01:03:39,400 --> 01:03:42,280
+And Kierkegaard is on to something very important.
+
+629
+01:03:42,280 --> 01:04:09,399
+He thinks that Christianity not only invented or introduced, or whatever you want to say, the idea that the ultimate meaning could be embodied in a human body, but he introduced the idea that you could have this kind of total, unconditional, absolute commitment to some human body.
+
+630
+01:04:09,719 --> 01:04:15,159
+Now, I'm getting way ahead of the story, but you'll see that Dante's already got this.
+
+631
+01:04:15,320 --> 01:04:18,520
+Don't have to wait to see if Kierkegaard makes it seem more paradoxical.
+
+632
+01:04:18,520 --> 01:04:25,480
+But Dante's already got the idea that the Savior, and Jesus is the Savior somehow.
+
+633
+01:04:25,480 --> 01:04:42,440
+What he's saving people from and how he's saving them is complicated, but we could say roughly he's saving them from despair and boredom of the Roman Empire, really, by giving them a life of eternal excitement and ecstatic meaning.
+
+634
+01:04:42,440 --> 01:04:44,520
+They're very much alive, he keeps saying.
+
+635
+01:04:44,520 --> 01:04:51,480
+If you follow me, you will be super alive and you'll be alive forever, whatever forever comes to me.
+
+636
+01:04:51,800 --> 01:04:55,440
+And that's forgotten what I was saying.
+
+637
+01:04:55,440 --> 01:04:56,160
+I want to.
+
+638
+01:04:56,159 --> 01:04:57,119
+Just a second.
+
+639
+01:04:58,000 --> 01:04:59,279
+Tell me what I was saying.
+
+640
+01:04:54,360 --> 01:05:00,559
+You're good at telling me.
+
+641
+01:05:01,199 --> 01:05:02,239
+No, that's too hard.
+
+642
+01:05:02,239 --> 01:05:05,279
+We'd have to listen to the iPod to find out.
+
+643
+01:05:05,520 --> 01:05:07,120
+But let me try.
+
+644
+01:05:07,119 --> 01:05:11,599
+So I'm trying to explain the Kierkegaard thing.
+
+645
+01:05:11,599 --> 01:05:29,360
+I'm trying to explain the unconditional commitment, ah, yeah, through that you can have not only that, that the God can become flesh and shine, but that there is something in the world worthy of total devotion as if it were a God.
+
+646
+01:05:29,360 --> 01:05:31,120
+And that makes it a God.
+
+647
+01:05:31,119 --> 01:05:34,640
+Because whatever is the object of total devotion is a God.
+
+648
+01:05:34,639 --> 01:05:39,280
+And that's Kierkegaard's way of putting the same thing I'm saying.
+
+649
+01:05:39,280 --> 01:05:48,480
+Jesus is God because he says, or it's right for him to say that you can have a total devotion to me.
+
+650
+01:05:48,880 --> 01:05:50,000
+You can adore me.
+
+651
+01:05:50,320 --> 01:05:55,839
+You can take me as the ultimate meaning of the world and of your life.
+
+652
+01:05:56,159 --> 01:06:00,880
+And if you do that, you will be saved.
+
+653
+01:06:00,880 --> 01:06:13,199
+Oh, I remember what I was saying now, from despair, from boredom, and given us a life that is totally meaningful and absolutely ecstatic and just the opposite of what the Romans did.
+
+654
+01:06:13,440 --> 01:06:15,600
+Now, anything else?
+
+655
+01:06:15,920 --> 01:06:18,160
+Okay, I think I want to go a little further.
+
+656
+01:06:18,159 --> 01:06:20,559
+Yeah, let's do the Holy Spirit anyway.
+
+657
+01:06:21,440 --> 01:06:24,879
+Because I've only got these two lectures, so where are we now?
+
+658
+01:06:25,839 --> 01:06:27,520
+So he's a reconfigurer.
+
+659
+01:06:27,520 --> 01:06:50,999
+When he says, he who has seen me has seen the Father, you can now understand that as he who has seen me has seen a glamorized, glorified example of the understanding of being and the background practices, such that they remain invisible, the background practices, but they now become incarnate.
+
+660
+01:06:50,999 --> 01:07:01,239
+Jesus manages to show the meaning of the whole intelligible order of the universe in his way of life.
+
+661
+01:07:01,240 --> 01:07:06,360
+So he has, and when you see that, you see the meaning of the universe.
+
+662
+01:07:06,360 --> 01:07:06,999
+Yeah.
+
+663
+01:07:07,320 --> 01:07:08,280
+Ah, good.
+
+664
+01:07:08,440 --> 01:07:10,280
+That's really sort of for next time.
+
+665
+01:07:10,839 --> 01:07:12,759
+And so you won't find this mysterious.
+
+666
+01:07:12,759 --> 01:07:16,999
+That the Hebrew background practices were obey the law.
+
+667
+01:07:16,999 --> 01:07:22,599
+And you'll find Jesus talking about that and how the law was very important until he came along.
+
+668
+01:07:22,599 --> 01:07:28,839
+And if you want to remember, I said if you want to overthrow a culture, you've got to make what's very central to the culture marginal.
+
+669
+01:07:28,839 --> 01:07:38,839
+And that's what, that's what, and the background practices were all concerned with being righteous, and being righteous was doing what the command, what Moses and the commandments told you to do.
+
+670
+01:07:38,839 --> 01:07:46,440
+And if you did that, then your life was, you were a good person, a righteous person, and if you didn't do that, you were a bad person.
+
+671
+01:07:46,440 --> 01:07:54,440
+And the main thing was, and so it was definitely very important to know the law, obey the law, keep the Sabbath.
+
+672
+01:07:54,440 --> 01:07:57,959
+And if you read carefully, you'll see that Jesus is going to stop doing all that.
+
+673
+01:07:58,679 --> 01:08:00,119
+That's the right question.
+
+674
+01:08:00,520 --> 01:08:06,679
+The question left you, I won't tell you, and then you'll never figure it out, I'm afraid, because it took me about 20 years.
+
+675
+01:08:06,679 --> 01:08:22,039
+What's the marginal practice in the Hebrew story that Jesus can manage to keep when he dumps the law and builds a whole new religion and a whole new understanding of being and a whole new understanding of what it is to be a human being around?
+
+676
+01:08:22,280 --> 01:08:23,400
+That's for next time.
+
+677
+01:08:23,400 --> 01:08:25,360
+I'm going to stay here on this for a minute.
+
+678
+01:08:24,360 --> 01:08:27,440
+So he's seen the Father.
+
+679
+01:08:27,759 --> 01:08:40,159
+People see what they should do in the light of his actions, his parables, his shining, his showing that he's the truth and the way.
+
+680
+01:08:40,160 --> 01:08:42,480
+He isn't telling them the truth and the way.
+
+681
+01:08:42,480 --> 01:08:45,679
+He's showing them the truth and the way to live.
+
+682
+01:08:45,679 --> 01:08:48,239
+And now that's the Holy Spirit.
+
+683
+01:08:48,240 --> 01:09:03,199
+The Holy Spirit is something that will be left after Jesus is gone, which will enable them to go on living in the light of his shining.
+
+684
+01:09:03,200 --> 01:09:10,719
+And so in 1264, you get him talking about the paraclete.
+
+685
+01:09:10,719 --> 01:09:15,679
+The paraclete is the Latin that gets translated, is it Latin or Greek?
+
+686
+01:09:15,679 --> 01:09:22,480
+It's Greek, the Greek that gets translated Holy Spirit, with the first column on 1264 in the middle.
+
+687
+01:09:22,480 --> 01:09:33,679
+I have said these things to you while still with you, but the Paraclete, the Holy Spirit, whom the Father will send in my name, will teach you everything and remind you of all that I have said to you.
+
+688
+01:09:33,679 --> 01:09:40,879
+That is, Jesus is saying, after I'm gone, how are you going to know what to do?
+
+689
+01:09:40,879 --> 01:09:50,559
+And he's saying that if you have the right relation to him, you will experience in every situation, so to speak, what Jesus would do and do it.
+
+690
+01:09:50,559 --> 01:09:53,279
+And that is what he's going to send you.
+
+691
+01:09:53,280 --> 01:10:02,400
+He's going to send you the sense of how to live in each situation the way Jesus would do it.
+
+692
+01:10:02,959 --> 01:10:05,440
+And let me see, I find one other place.
+
+693
+01:10:05,839 --> 01:10:07,599
+166.
+
+694
+01:10:07,599 --> 01:10:09,400
+Well, not much there.
+
+695
+01:10:09,719 --> 01:10:11,480
+Okay, well, that's enough for that.
+
+696
+01:10:11,480 --> 01:10:13,159
+And if you do that, you'll be filled with joy.
+
+697
+01:10:08,959 --> 01:10:16,280
+Now, let me have one more minute here, and I will caught up where I want to be.
+
+698
+01:10:17,559 --> 01:10:18,839
+Okay, I think.
+
+699
+01:10:18,839 --> 01:10:37,719
+So the Holy Spirit is that what you get when you are able to bring your relationship to Jesus, who is now taking the place of God, and do what it is that He wants you to do.
+
+700
+01:10:37,719 --> 01:10:45,639
+And you will be able to sense in each situation, without any law to guide you anymore, what it is you're supposed to do.
+
+701
+01:10:45,639 --> 01:10:48,119
+And you can get it in one commandment.
+
+702
+01:10:48,120 --> 01:10:52,119
+I'll just you know this if you're Christians already.
+
+703
+01:10:52,120 --> 01:11:01,799
+You're supposed to love, and you're supposed to love your neighbor, and you're supposed to, and that love's going to take all sorts of different forms.
+
+704
+01:11:01,799 --> 01:11:09,639
+It can be tough love, and it can be tender love, and it can be erotic love, presumably, though they don't talk about that.
+
+705
+01:11:09,959 --> 01:11:22,440
+And you will know, if you're a Christian and related to Jesus, what it is that you are required to do in each situation, and there won't be any law covering it.
+
+706
+01:11:22,440 --> 01:11:25,159
+It'll be just different in every situation.
+
+707
+01:11:25,160 --> 01:11:31,079
+And that's the Holy Spirit that's telling, well, will be guiding you when Jesus is gone.
+
+708
+01:11:31,080 --> 01:11:48,520
+Okay, now the good questions for next time is how he reconfigures the practices, what he uses to flip everything around, and what it is like to be uh live like a uh a a trans uh a reconfigured person in in in in that world.

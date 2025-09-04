@@ -1,0 +1,3077 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:06,401
+Okay, then I'll go back to something which is to me very exciting.
+
+2
+00:00:06,401 --> 00:00:20,560
+Namely, a student came to office hours yesterday, the first one in, and it presented me with serious, serious objections to what I've been saying, which is just what I hope happens.
+
+3
+00:00:20,560 --> 00:00:22,480
+Because I'll learn something.
+
+4
+00:00:22,480 --> 00:00:23,840
+We'll all learn something.
+
+5
+00:00:24,560 --> 00:00:35,240
+If you have to have a theory before you can have counterexamples to your theory, but then you're in a position to make a better theory, to take account of those examples.
+
+6
+00:00:35,241 --> 00:00:52,600
+So let me tell you what the students said, and then how I intend to defend my position by restating it and encourage all of you to do that because it's really important to push on the limits of an interpretation.
+
+7
+00:00:52,600 --> 00:01:07,240
+Okay, the issue is, and some of you have been discussing this in section I just learned from the TAs, the issue is how much free will and responsibility do people have in Homer for doing the bad things.
+
+8
+00:01:07,560 --> 00:01:18,920
+And I said last time that they didn't have any, that it was always, they were either being pulled, they were being pulled into things by the gods when they did anything.
+
+9
+00:01:18,920 --> 00:01:43,560
+But I sort of already knew that that doesn't help explain what happens when they do bad things, when the suitors stay around when it isn't appropriate any longer, eating up all Odysseus' food, when the serving girls sleep with the suitors, for which they all get killed eventually, when Odysseus kills all the cattle of the Hylias, the sun god, and they all get killed.
+
+10
+00:01:43,801 --> 00:01:53,961
+They seem to be free to do those things and responsible for having done them and blamed and punished for having done them, but that just sounds like modernity.
+
+11
+00:01:53,961 --> 00:01:57,480
+And that's I'm claiming there's something different going on here.
+
+12
+00:01:57,480 --> 00:02:04,200
+Well, there are various ways of trying to get out of this interesting problem.
+
+13
+00:02:04,521 --> 00:02:11,001
+One way is to try to deny that they ever have free will and that they and responsibility.
+
+14
+00:02:11,000 --> 00:02:12,201
+That would be interesting.
+
+15
+00:02:12,201 --> 00:02:13,720
+That would be radical.
+
+16
+00:02:13,720 --> 00:02:17,600
+Homer's world would be then utterly different than our world.
+
+17
+00:02:14,681 --> 00:02:19,040
+I'm not going to go that way.
+
+18
+00:02:19,280 --> 00:02:26,720
+I think that it's pretty clear in Homer that they can choose, that the suitors could have chosen to leave.
+
+19
+00:02:26,720 --> 00:02:31,521
+And that I don't know whether the serving girls have much autonomy, but the suitors certainly do.
+
+20
+00:02:31,521 --> 00:02:45,280
+And there are other places, it's a possible paper topic to go through and look at all the places where people do what seem to be free things, take responsibility for them, get blamed for doing what they do them wrong, and so forth.
+
+21
+00:02:45,280 --> 00:02:52,240
+Remember, we got into all this because Helen certainly doesn't get blamed and isn't free.
+
+22
+00:02:52,240 --> 00:03:17,360
+She's open to the goddess Aphrodite, and when she does what Aphrodite draws her to do, in the light of Aphrodite's erotic shining, Menelaus says that was a great story you just told, and the last line of the stanza is that she goes to bed with Menelaus and lies there peerless among women.
+
+23
+00:03:17,360 --> 00:03:19,360
+That sounds pretty good.
+
+24
+00:03:19,360 --> 00:03:24,240
+So there it looks like, and this is how I want to read it now.
+
+25
+00:03:24,240 --> 00:03:45,600
+There it looks like that when you do the right thing, the best thing, when you fight like Aries or make craftsmanship things like Hephaestus or make love like in the light of Aphrodite, when you do those things, you are performing at your best.
+
+26
+00:03:45,600 --> 00:04:02,201
+And oddly enough, and this is my strange claim, when you act freely, psychologically, on the basis of your desires, you can do that, and you're responsible, and you get blamed.
+
+27
+00:03:59,521 --> 00:04:05,081
+And the interesting thing is, you do bad things.
+
+28
+00:04:05,401 --> 00:04:20,120
+People who don't act in the light of the gods of the pantheon have only one other possibility, that they act out of their own personal, selfish interests and sort of narrow goals.
+
+29
+00:04:20,120 --> 00:04:25,961
+And it looks to me generally like it's modernity turned upside down.
+
+30
+00:04:25,961 --> 00:04:31,401
+It isn't that in modernity, Kant is the best example.
+
+31
+00:04:31,401 --> 00:04:34,360
+If you go on to other philosophy courses, you'll hear about this.
+
+32
+00:04:34,360 --> 00:04:45,641
+Kant says you should act freely, giving the law that you're following to yourself, and you shouldn't let yourself be influenced by what you should be autonomous.
+
+33
+00:04:45,641 --> 00:04:47,800
+That means give the law to yourself.
+
+34
+00:04:48,920 --> 00:04:53,001
+You shouldn't allow yourself to be heteronomously influenced.
+
+35
+00:04:53,000 --> 00:05:01,401
+That big word means the opposite of giving the law to yourself, letting something outside you direct you to do what you do.
+
+36
+00:05:01,401 --> 00:05:10,280
+And Kant thinks all heteronomous determination is bad, and free, responsible action is good.
+
+37
+00:05:10,280 --> 00:05:13,001
+And when you give this law to yourself.
+
+38
+00:05:13,001 --> 00:05:22,360
+Now, it looks like, I think, and I haven't proved it and worked it out, but I will if I get time and try, that it's just the opposite in Homer.
+
+39
+00:05:22,360 --> 00:05:27,961
+It isn't that Homer denies free choice and responsibility.
+
+40
+00:05:27,961 --> 00:05:42,841
+It's just that when, instead of acting as drawn by the gods, acting what Kant would call heteronymously, under another power, and when you act under your own power, freely choosing what you do, then you do bad things.
+
+41
+00:05:42,841 --> 00:05:46,641
+Nobody, I think, in the book freely chooses to do some good thing.
+
+42
+00:05:46,800 --> 00:05:54,160
+It's always in the light of Aphrodite or Aries or Athena that they do their positive things.
+
+43
+00:05:54,160 --> 00:05:59,201
+So it's not that he doesn't have enlightenment insights.
+
+44
+00:05:59,680 --> 00:06:01,761
+He does understand psychology.
+
+45
+00:06:01,761 --> 00:06:15,040
+It would be so alien that I wouldn't be able to make sense of it if he didn't think that people could have desires that go against what they should be doing, what's appropriate, and act on them and get blamed for them.
+
+46
+00:06:15,841 --> 00:06:17,120
+They can do all that.
+
+47
+00:06:17,120 --> 00:06:20,160
+But the last thing, get blamed for them, is the crucial thing.
+
+48
+00:06:20,160 --> 00:06:22,240
+When you do that, you get blamed.
+
+49
+00:06:22,240 --> 00:06:28,160
+Nobody, as far as I know, in the book, gets praised for doing things because they freely chose it and desire it.
+
+50
+00:06:28,561 --> 00:06:29,441
+You have an exception?
+
+51
+00:06:29,441 --> 00:06:30,401
+That would be good.
+
+52
+00:06:32,240 --> 00:06:35,040
+More consciousness than we use what we do for higher than Athena.
+
+53
+00:06:35,360 --> 00:06:38,241
+Yeah, Athena, it makes them act more obnoxious.
+
+54
+00:06:38,480 --> 00:06:40,240
+I remember that.
+
+55
+00:06:40,240 --> 00:06:41,201
+Good.
+
+56
+00:06:42,720 --> 00:06:44,240
+Complicated.
+
+57
+00:06:44,240 --> 00:07:05,921
+I mean, she, I mean, this is an interesting case, and I can only say something relatively weasily about it, but it seems to me that they've already done something freely and selfishly and bad, sitting there killing the cattle and taking the serving girls as their mistresses and so forth.
+
+58
+00:07:05,921 --> 00:07:08,561
+And they've already done all that.
+
+59
+00:07:08,561 --> 00:07:17,841
+And now what Athena does isn't it isn't sort of in the light of Athena that they do something good.
+
+60
+00:07:18,161 --> 00:07:23,441
+It's just that she sort of freezes them into this bad thing that they've done.
+
+61
+00:07:23,441 --> 00:07:26,480
+I can't understand why that's a job for Athena.
+
+62
+00:07:26,480 --> 00:07:32,361
+The only way it comes out in the Odyssey, and I'm afraid that's the best I can do, she's always helping out Odysseus.
+
+63
+00:07:32,360 --> 00:07:42,841
+And what she wants to do at this point is sort of: we don't want the suitors suddenly to try to freely take back what they've done and say they're sorry and they get ready to leave.
+
+64
+00:07:42,841 --> 00:07:51,481
+They've done something so wrong, and they have to be punished, and she's going to keep them from leaving so that he can kill them.
+
+65
+00:07:52,520 --> 00:08:04,681
+The important thing is, go ahead, you look like that's right, she's ensuring that they are punished for, I think, freely and responsibly doing something, namely something bad.
+
+66
+00:08:04,681 --> 00:08:19,161
+And maybe, whenever you do something freely and responsibly, it's either something trivial and neutral, like what clothes you decide to wear, or if it's something important, it's dangerous to do it, because if you're not called from a god to do it, where else could you be called from?
+
+67
+00:08:19,161 --> 00:08:23,720
+Well, your own selfish psychology, and that's going to get you into trouble.
+
+68
+00:08:23,720 --> 00:08:25,240
+So, but your point is good.
+
+69
+00:08:25,321 --> 00:08:27,720
+I think Athena just tries to reinforce it.
+
+70
+00:08:27,720 --> 00:08:28,361
+Yeah.
+
+71
+00:08:28,681 --> 00:08:29,401
+Yes.
+
+72
+00:08:29,961 --> 00:08:32,040
+And have I contradicted anything in the book?
+
+73
+00:08:32,041 --> 00:08:33,560
+I hope not when I say that.
+
+74
+00:08:33,561 --> 00:08:39,001
+Yes, I think what the gods, I'm going to have to make a qualification, which I'm explaining in a minute.
+
+75
+00:08:39,000 --> 00:08:54,201
+When the gods in the pantheon, anyway, which is the main gods we've been concerned with, when they call you to do something, it's always the appropriate, honorable, best kind of thing to do.
+
+76
+00:08:54,201 --> 00:09:01,720
+So if you're open, like Helen, to whatever the gods call you to do, people will praise you and admire you no matter what.
+
+77
+00:09:01,720 --> 00:09:09,720
+Even if you later regret it, even if thousands of people die because of it, what Helen did was terrific.
+
+78
+00:09:10,360 --> 00:09:11,881
+That much is weird.
+
+79
+00:09:11,880 --> 00:09:19,601
+Let me, before I get too far, I'll take up the question in a minute, but I don't want to lose a stack in my head.
+
+80
+00:09:19,600 --> 00:09:23,201
+So I want to say one more thing, a general thing.
+
+81
+00:09:23,201 --> 00:09:41,441
+Regardless of whether it's the Enlightenment upside down, which would be wonderful if freedom and autonomy were all always led you to do inferior things, there must, I look back up to the following point to defend my view.
+
+82
+00:09:43,120 --> 00:09:53,121
+I want to say, yeah, there is something very different about them where psychology and freedom and responsibility is concerned.
+
+83
+00:09:53,120 --> 00:10:00,321
+If it isn't always leading to bad stuff, and I think that might be the case, at least it's not what's most important.
+
+84
+00:10:00,321 --> 00:10:07,121
+It's marginal and rather trivial, the freedom and responsibility issues.
+
+85
+00:10:07,120 --> 00:10:17,921
+The big issues are around Aphrodite and running off, Helen running off, and Aries and the fact that people can fight furiously and so forth.
+
+86
+00:10:17,921 --> 00:10:30,161
+That Homer is really interested in the power that comes from you if you're open to the authority of these various moods, and marginally interested in psychology and so forth.
+
+87
+00:10:30,160 --> 00:10:40,801
+And at least this much is clearly true: that when you get to the Enlightenment, Kant and Descartes and so forth, us moderns, it gets reversed.
+
+88
+00:10:40,801 --> 00:10:46,720
+We're majorly interested in what people freely choose to do.
+
+89
+00:10:46,720 --> 00:10:51,280
+This is what Kant and Descartes did to us, better or for better or for worse.
+
+90
+00:10:51,281 --> 00:10:53,441
+We moderns care about that.
+
+91
+00:10:53,441 --> 00:11:03,401
+We are marginally interested in moods and the way other powers from outside the person could come and enable them to do things.
+
+92
+00:11:03,400 --> 00:11:10,521
+We don't think that these other powers ever enable them to do anything really good because it's heteronomous, not autonomous.
+
+93
+00:11:10,520 --> 00:11:34,121
+So it's gets, so what I'm saying is when you flip a culture to another culture, which needs a reconfigurer in there, Kant and Descartes together did the job, you make what were marginal practices, marginal stuff, central, that is, in this case, freedom and responsibility.
+
+94
+00:11:34,120 --> 00:11:36,360
+And you can see it even the other way, even better.
+
+95
+00:11:36,360 --> 00:11:40,281
+And you make what was important stuff trivial.
+
+96
+00:11:40,281 --> 00:11:41,801
+What are moods for us?
+
+97
+00:11:41,801 --> 00:11:43,881
+Trivial, fleeting.
+
+98
+00:11:43,880 --> 00:11:47,561
+Nobody could get away with saying, well, I left to their husband.
+
+99
+00:11:47,640 --> 00:11:52,441
+Well, I left you and the kid for 10 years because he was in the very erotic mood.
+
+100
+00:11:52,441 --> 00:11:55,321
+I mean, that's just, that won't go.
+
+101
+00:11:55,321 --> 00:12:08,760
+And moods in general are either dangerous, you get into a too aggressive mood and start beating up your colleagues and your boss, that's not a good thing to do, or trivial.
+
+102
+00:12:09,161 --> 00:12:16,281
+We talk about moods being inner, being fleeting, being out of control, and that's bad.
+
+103
+00:12:17,160 --> 00:12:19,081
+I mean, bad and not in big deal moral.
+
+104
+00:12:19,081 --> 00:12:20,760
+That makes them inferior.
+
+105
+00:12:20,760 --> 00:12:22,761
+Let's say not bad, inferior.
+
+106
+00:12:22,760 --> 00:12:27,480
+Okay, now, all this because I was sort of challenged on this.
+
+107
+00:12:27,880 --> 00:12:34,760
+You see, if I'm right, it's a lot more interesting than it was, because it's not just that they don't have psychology.
+
+108
+00:12:34,761 --> 00:12:37,321
+There's much more richness and complexity.
+
+109
+00:12:37,321 --> 00:12:38,841
+Now, Beatrice wanted to say something.
+
+110
+00:12:41,640 --> 00:12:45,120
+Why is it Athena's job that she picked into things together?
+
+111
+00:12:45,520 --> 00:12:56,081
+I think in the whole last TCV they act for Zoo as a profit for Zooto together with them, and he is the one that needs to revenge for stranger either.
+
+112
+00:12:56,321 --> 00:12:56,961
+Good, good.
+
+113
+00:12:56,961 --> 00:12:59,681
+And that fits with what we said already, right?
+
+114
+00:12:59,681 --> 00:13:02,321
+She has to sort of, they're not going to get away with it.
+
+115
+00:13:02,321 --> 00:13:06,480
+They're not going to, now at the last minute, say, well, we're sorry we did it.
+
+116
+00:13:06,880 --> 00:13:16,880
+They've done something so bad and so against the rules of Zeus, and I now want to say so free and autonomously that they are going to get it.
+
+117
+00:13:16,880 --> 00:13:18,561
+And Zeus is going to do it.
+
+118
+00:13:18,561 --> 00:13:24,720
+And Athena's just acting as the agent of Zeus and fixing them in it.
+
+119
+00:13:25,041 --> 00:13:25,600
+Okay.
+
+120
+00:13:25,600 --> 00:13:27,921
+Now, that's only half the problem.
+
+121
+00:13:28,161 --> 00:13:34,321
+The other half of the problem is more upsetting because I don't know quite how to deal with that.
+
+122
+00:13:35,841 --> 00:13:44,321
+The student who was talking to me said that being swept away by a mood isn't always good.
+
+123
+00:13:44,321 --> 00:13:59,441
+And I don't remember whether he came up with these examples or I did, but there are, certainly there are fleeting moods like happiness and sadness, and they aren't big deal moods on the basis of which you can make a life.
+
+124
+00:13:59,761 --> 00:14:03,121
+They are really fleeting and inner.
+
+125
+00:14:03,120 --> 00:14:13,120
+And there are also, and they're psychological, but there are also, and this is where it gets scary from my view, bad ontological moods.
+
+126
+00:14:13,120 --> 00:14:18,881
+An ontological mood is a mood that determines your whole life, your whole world.
+
+127
+00:14:18,880 --> 00:14:26,240
+So Helen is always subject to being sensitive to what is erotic in the situation.
+
+128
+00:14:26,240 --> 00:14:29,641
+And Aries is always ready for a fight and so forth.
+
+129
+00:14:29,640 --> 00:14:33,801
+And you can be a whole belligerence can be a way of life.
+
+130
+00:14:29,281 --> 00:14:36,681
+And eroticness can be a way of life.
+
+131
+00:14:37,000 --> 00:14:41,961
+And so there are trivial moods and there are ontological moods.
+
+132
+00:14:42,041 --> 00:14:43,401
+So far, no problem.
+
+133
+00:14:43,720 --> 00:14:50,761
+But now comes the puncher that there are moods that can be ways of life that are not good ways of life.
+
+134
+00:14:51,161 --> 00:14:56,761
+You can be in a sulky mood all the time.
+
+135
+00:14:56,760 --> 00:14:59,161
+I think my son was in that for several years.
+
+136
+00:14:59,480 --> 00:15:08,280
+And sort of counter-suggestive and thinking that everything is going to go badly and has gone badly and will always go badly for you and so forth.
+
+137
+00:15:08,281 --> 00:15:10,041
+Not a very good mood to be in.
+
+138
+00:15:10,041 --> 00:15:22,041
+You can be in a kind of giddy mood where you're always sort of doing what is sort of fun and irresponsible, no matter what's going on.
+
+139
+00:15:23,000 --> 00:15:25,641
+And there's a problem.
+
+140
+00:15:25,961 --> 00:15:31,480
+Now, what happens is the gods in the pantheon are all positive moods.
+
+141
+00:15:32,041 --> 00:15:47,640
+It's good to be in a domestic mood like Hera or a craftsman mood like Hephaestus or in a belligerent mood like Aries or in that culture anyway, or in a loving, open mood like Helen.
+
+142
+00:15:47,640 --> 00:15:49,400
+Those are all positive moods.
+
+143
+00:15:49,400 --> 00:15:51,721
+But now we got the funny situation.
+
+144
+00:15:53,400 --> 00:16:02,280
+How come some moods get to have gods and get to be in the pantheon, and other moods like sulky or giddy, and I'm going to give you more important ones.
+
+145
+00:16:02,281 --> 00:16:05,240
+How about like piety?
+
+146
+00:16:05,880 --> 00:16:09,561
+You'd think that mood is serious.
+
+147
+00:16:09,721 --> 00:16:14,120
+That would be respect for the tradition all the time.
+
+148
+00:16:14,120 --> 00:16:16,960
+That mood doesn't get into the pantheon.
+
+149
+00:16:14,680 --> 00:16:19,920
+Or and here's a mood, a very important one for today.
+
+150
+00:16:20,561 --> 00:16:27,761
+Vengeance, being all your organizing all your life around vengeance is a mood.
+
+151
+00:16:28,241 --> 00:16:35,360
+makes you a world and there's equipment and there's roles and so forth and vengeance doesn't get into the pantheon.
+
+152
+00:16:35,360 --> 00:16:37,360
+So what's the moral of that?
+
+153
+00:16:37,360 --> 00:16:48,160
+Well, that somehow the gods are the the representatives of the good moods.
+
+154
+00:16:48,160 --> 00:16:51,760
+And now that raises the interesting question, two interesting questions.
+
+155
+00:16:51,761 --> 00:16:54,721
+One is, now it looks like there are hierarchies of moods.
+
+156
+00:16:54,721 --> 00:16:58,801
+And I was saying, you know, the Homer isn't making any judgments.
+
+157
+00:16:58,801 --> 00:17:01,200
+Well, he's making judgments, all right?
+
+158
+00:17:01,200 --> 00:17:12,240
+And I thought I could get out of it at first by saying, well, Homer's for all the world-defining moods the moods, the ontological ones, but he doesn't care about the psychological ones.
+
+159
+00:17:12,241 --> 00:17:16,880
+But that's not right, because as we just saw, they're world-defining moods.
+
+160
+00:17:16,880 --> 00:17:22,321
+The most interesting ones for us, well, the ones for us are the moods the Furies have.
+
+161
+00:17:22,801 --> 00:17:32,160
+In Aeschylus, they're always in the mood of outrage and resentment, and also vengeance.
+
+162
+00:17:32,160 --> 00:17:35,360
+Those are those they are their life.
+
+163
+00:17:35,360 --> 00:17:39,600
+People under the Furies can devote their whole life to vengeance.
+
+164
+00:17:39,600 --> 00:17:43,440
+But I want to I forgot this outrage and bitterness.
+
+165
+00:17:43,761 --> 00:17:45,440
+Those are all moods.
+
+166
+00:17:45,440 --> 00:17:50,001
+And they it's even got gods, namely the Furies, that they aren't allowed in the Pantheon.
+
+167
+00:17:50,001 --> 00:17:50,240
+Yeah.
+
+168
+00:17:51,041 --> 00:17:58,640
+Because, for example, in the Gilead, I parrot down against Aries.
+
+169
+00:17:58,640 --> 00:18:01,321
+So both of them have this huge hubris.
+
+170
+00:18:01,321 --> 00:18:05,160
+So maybe that mood as well is the same.
+
+171
+00:17:59,521 --> 00:18:07,960
+Hubris he's talking about, which is pride.
+
+172
+00:18:07,960 --> 00:18:12,440
+So you probably, how many of them have studied Oedipus?
+
+173
+00:18:12,761 --> 00:18:14,520
+That's where you're most likely to hear about it.
+
+174
+00:18:14,521 --> 00:18:15,241
+Lots of you.
+
+175
+00:18:15,241 --> 00:18:16,120
+Good, good.
+
+176
+00:18:16,120 --> 00:18:16,521
+Okay.
+
+177
+00:18:16,521 --> 00:18:17,481
+Anyway, go ahead.
+
+178
+00:18:23,001 --> 00:18:24,761
+Other moves are susceptible.
+
+179
+00:18:29,721 --> 00:18:33,960
+I don't know if I understood you, but I'll say back and then you can tell me whether I have.
+
+180
+00:18:33,960 --> 00:19:35,041
+I say that each god represents a a mood so total that it can be a whole life can be in the t have be lived in in the tendency to constantly go into this state aggressive state or sexy state or whatever and they can define whole worlds where there is equipment and roles and and so forth and and most people the good people are under one of these moods or the other or have this kind of tendency to have like Helen and and so forth a certain kind of life or Achilles he's under the Aries and and then there are these cool people Odysseus who has a peculiar kind of mood which is a mood which I keep calling a James Bond like mood where he's always ready always alert always on the ready uh always uh suspicious of what's going on and ready for some thing to happen, and he's going out with it.
+
+181
+00:19:35,041 --> 00:19:41,400
+That I guess that's a mo I hope that's a mood too, because that's Athena is the goddess of that mood.
+
+182
+00:19:41,721 --> 00:19:44,281
+Have I said anything that's relevant to what you said?
+
+183
+00:19:44,321 --> 00:19:50,961
+Yeah, I have to yeah, yeah.
+
+184
+00:19:51,600 --> 00:19:53,681
+What makes somebody act in a certain way?
+
+185
+00:19:53,680 --> 00:19:58,400
+Like, what makes Helen like God's hand so much?
+
+186
+00:19:58,721 --> 00:19:59,761
+Good question.
+
+187
+00:20:00,081 --> 00:20:03,041
+I think, well, what about what do I think?
+
+188
+00:20:03,440 --> 00:20:11,041
+I don't think, see, if you thought that you could choose to be in a mood or not to be in a mood, it's a good question.
+
+189
+00:20:11,041 --> 00:20:18,241
+You would have flipped it over into the Enlightenment way of looking at things, because then choice and responsibility would have trumped moods.
+
+190
+00:20:18,241 --> 00:20:24,561
+No, the interesting thing about moods has got to be you can't choose what mood to be in, and you can't choose to get out of them.
+
+191
+00:20:24,561 --> 00:20:29,521
+If you're in a melancholy mood, you can't wish you were in an upbeat mood.
+
+192
+00:20:29,841 --> 00:20:31,360
+You're just stuck with it.
+
+193
+00:20:31,360 --> 00:20:40,481
+And if Paris looked so attractive to Helen that she just couldn't resist him, remember I said it was like eyes wide shut.
+
+194
+00:20:40,481 --> 00:20:48,400
+I mean, where the lady says, if the sailor walked by and whistled, I would just leave you, or she's saying to her husband and child.
+
+195
+00:20:48,400 --> 00:20:49,680
+You don't choose that.
+
+196
+00:20:52,321 --> 00:20:56,960
+Some people are open to these moods, and that's good people.
+
+197
+00:20:56,960 --> 00:21:00,321
+And some people aren't, and those are people who are just not so good.
+
+198
+00:21:00,321 --> 00:21:04,721
+I think that's the one thing is sure you can't choose to get in and out of these big moods.
+
+199
+00:21:04,721 --> 00:21:07,521
+But that's what makes it anti-enlightenment.
+
+200
+00:21:07,521 --> 00:21:09,600
+That's why Kant wouldn't like these moods.
+
+201
+00:21:09,600 --> 00:21:11,761
+They are heteronymous determinations.
+
+202
+00:21:11,761 --> 00:21:13,680
+They are not freely chosen.
+
+203
+00:21:13,680 --> 00:21:16,240
+You can't give a mood to yourself.
+
+204
+00:21:16,241 --> 00:21:17,920
+You can't get out of a mood.
+
+205
+00:21:17,920 --> 00:21:21,040
+You can't even, in Heidegger's jargon, get behind a mood.
+
+206
+00:21:21,041 --> 00:21:25,120
+That is, you can't understand why you're in it or what it would take to get out of it.
+
+207
+00:21:25,120 --> 00:21:26,400
+Does that help?
+
+208
+00:21:26,400 --> 00:21:27,041
+Yeah.
+
+209
+00:21:27,360 --> 00:21:28,881
+Well, well, I can't hear you.
+
+210
+00:21:28,880 --> 00:21:32,520
+Hey, my question, who's my, you're my question.
+
+211
+00:21:32,761 --> 00:21:34,280
+Are you my first person?
+
+212
+00:21:35,721 --> 00:21:37,481
+Who helped with the microphone last time?
+
+213
+00:21:38,680 --> 00:21:41,321
+I heard it on the iPod and it was true.
+
+214
+00:21:43,801 --> 00:21:48,440
+If you choose on your own to do something like the suitors did, does that mean that you're denying your mood?
+
+215
+00:21:48,440 --> 00:21:50,281
+If I choose to do something on your own?
+
+216
+00:21:50,600 --> 00:21:53,721
+Yeah, if you make a decision on your own, then is that denying a mood?
+
+217
+00:21:54,680 --> 00:21:56,600
+No, you heard her.
+
+218
+00:21:57,880 --> 00:22:03,400
+If you make decisions on your own, that just means no mood has grabbed you.
+
+219
+00:22:03,400 --> 00:22:07,160
+And if a mood does grab you, you can't make decisions on your own.
+
+220
+00:22:07,321 --> 00:22:35,880
+And the idea that a culture would like that and think that those moods are wonderful because they have, remember when I talked about what you have to have something to keep you from being a laid-back relativist, so open-minded that anything goes, what has authority in that culture, what is sacred, about which you can't laugh, is just exactly moods because they have this power to take you over.
+
+221
+00:22:35,880 --> 00:22:38,200
+They have higher authority than you.
+
+222
+00:22:38,200 --> 00:22:40,600
+They are the limit to your freedom.
+
+223
+00:22:42,521 --> 00:22:43,480
+That's good.
+
+224
+00:22:43,481 --> 00:22:51,001
+That makes all your actions more meaningful than if you could just choose to get in a mood or out of them.
+
+225
+00:22:51,721 --> 00:22:56,441
+Or if you could just choose, like a modern person, to say, well, I'm in this kind of mood, but that's not important.
+
+226
+00:22:56,440 --> 00:23:01,000
+I'm going to go on with my job, my life plan, my decisions.
+
+227
+00:23:01,001 --> 00:23:02,440
+Those are what matter.
+
+228
+00:23:02,440 --> 00:23:05,721
+Then I think they would be less meaningful than these moods.
+
+229
+00:23:05,721 --> 00:23:07,880
+At least that's the Homer feeling.
+
+230
+00:23:07,880 --> 00:23:08,520
+Yeah.
+
+231
+00:23:08,841 --> 00:23:10,200
+Wait, wait, I'm going to give you the mic.
+
+232
+00:23:11,481 --> 00:23:12,041
+Okay.
+
+233
+00:23:12,680 --> 00:23:13,680
+You've got to.
+
+234
+00:23:14,160 --> 00:23:17,040
+With your podcast, you're on, you know, you're on the air.
+
+235
+00:23:17,041 --> 00:23:17,680
+Go ahead.
+
+236
+00:23:17,680 --> 00:23:18,001
+Okay.
+
+237
+00:23:13,160 --> 00:23:19,600
+I just want to understand.
+
+238
+00:23:19,761 --> 00:23:36,161
+So if you're working within the moral universe of the Odyssey and you are Helen and you make a decision and you, or so you follow a mood, and you are therefore good, how can Helen be considered good when her actions lead to the death and suffering of thousands of people?
+
+239
+00:23:36,160 --> 00:23:37,360
+I don't understand how that works.
+
+240
+00:23:37,761 --> 00:23:43,200
+Okay, well, you don't understand how it works because you're a modern person.
+
+241
+00:23:50,160 --> 00:24:06,401
+Suppose you were in a culture in which openness to an authority, something sacred and holy, higher than your will, was what was really valuable and meaningful and important, then it's really too bad.
+
+242
+00:24:06,721 --> 00:24:08,081
+It's unfortunate.
+
+243
+00:24:08,081 --> 00:24:10,561
+I'm going to say tragic because that's the special thing.
+
+244
+00:24:10,561 --> 00:24:16,561
+But it's very unfortunate if your openness causes all these bad things.
+
+245
+00:24:16,561 --> 00:24:21,360
+But if it's hard to get used to, that's why I started the lectures with Helen.
+
+246
+00:24:21,600 --> 00:24:30,960
+That's all in the sense that, well, not, I don't know, she regrets it, she says that she ran off like that, but nobody blames her.
+
+247
+00:24:30,960 --> 00:24:36,880
+But you can regret it, and that's it.
+
+248
+00:24:36,880 --> 00:24:59,280
+I think it's a trade-off to have a world in which there is really serious meaning and something sacred at which you can't laugh, and something that has authority so that things are not just up for grafts, then this is one way to do it, to make moods absolutely important.
+
+249
+00:24:59,321 --> 00:25:09,720
+And it does have, that's the trade-off, a consequence that you can be led to do things which have disastrous consequences.
+
+250
+00:25:09,721 --> 00:25:11,240
+But you won't be blamed.
+
+251
+00:25:11,241 --> 00:25:15,240
+Nobody will say, oh, that bad person, she should have resisted the mood.
+
+252
+00:25:15,561 --> 00:25:18,360
+One, you really can't in this picture.
+
+253
+00:25:18,360 --> 00:25:20,200
+And two, you shouldn't.
+
+254
+00:25:20,761 --> 00:25:24,760
+That's why, but it is, you know, it's pretty weird.
+
+255
+00:25:24,761 --> 00:25:26,521
+But that's why I wanted to start with that.
+
+256
+00:25:26,521 --> 00:25:31,081
+But then you don't want to get trapped into the other view, which I did until today.
+
+257
+00:25:31,081 --> 00:25:38,841
+Namely, it's a culture in which nobody ever has any decisions, can't freely act, can't be blamed, and so forth.
+
+258
+00:25:38,841 --> 00:25:46,120
+And that we ought to think: did anybody cause some really disastrous something, not responding to a mood?
+
+259
+00:25:46,680 --> 00:25:49,241
+Then we can say, well, boy, are they a bad person?
+
+260
+00:25:49,241 --> 00:25:56,120
+Look at the bad consequences of what they did out of their selfish, willful choice.
+
+261
+00:25:56,761 --> 00:25:57,961
+That would be okay.
+
+262
+00:25:58,281 --> 00:26:01,081
+That's what you want, because you're a modern.
+
+263
+00:26:01,081 --> 00:26:01,720
+Okay.
+
+264
+00:26:02,680 --> 00:26:05,480
+So, okay, I'm ready to go on.
+
+265
+00:26:05,481 --> 00:26:09,561
+I think it's wonderful that you guys are actually helping work this out.
+
+266
+00:26:09,561 --> 00:26:11,400
+So let's see now where I am.
+
+267
+00:26:11,400 --> 00:26:15,801
+But there's still one big problem, which I was getting close to.
+
+268
+00:26:16,120 --> 00:26:22,120
+So in the pantheon are all these shining examples of good moods, or at least some of them.
+
+269
+00:26:22,120 --> 00:26:27,000
+Maybe they're other, they better be all the really good moods around.
+
+270
+00:26:27,001 --> 00:26:32,360
+If you think of another really good mood and it isn't in the pantheon, that's a problem for me.
+
+271
+00:26:33,001 --> 00:26:39,561
+So domesticness, eroticness, warfulness, craftsmanship.
+
+272
+00:26:39,561 --> 00:26:45,681
+There's another goddess named Hebe who serves drinks and generally runs the cocktail parties on Olympus.
+
+273
+00:26:44,521 --> 00:26:48,801
+And I don't know what that is, something like sociability.
+
+274
+00:26:49,440 --> 00:26:54,880
+If those moods don't exhaust the good ones, then there's a problem.
+
+275
+00:26:54,880 --> 00:27:03,521
+But the big problem is, back to this hierarchy business, if you put all the good moods in the pantheon, sort of you're making a big deal judgment.
+
+276
+00:27:03,521 --> 00:27:04,961
+You're bringing in hierarchy.
+
+277
+00:27:04,960 --> 00:27:08,000
+Those are the good moods, and the other ones are the bad moods.
+
+278
+00:27:08,001 --> 00:27:12,081
+And then the question becomes, sort of, what right have you got to say that?
+
+279
+00:27:12,081 --> 00:27:13,680
+On what authority?
+
+280
+00:27:14,001 --> 00:27:17,761
+I think you just have to say, well, that's how the culture is set up.
+
+281
+00:27:17,761 --> 00:27:24,160
+If you don't see that, then you're sort of, I don't know, value blind.
+
+282
+00:27:27,281 --> 00:27:34,400
+But it sounds like there's something funny and wrong and puzzling about this, because the good moods are gods.
+
+283
+00:27:34,400 --> 00:27:37,680
+They overcome you and draw you into these good things.
+
+284
+00:27:37,680 --> 00:27:40,801
+Are there gods for the bad moods then?
+
+285
+00:27:40,801 --> 00:27:41,600
+Also?
+
+286
+00:27:41,920 --> 00:27:54,801
+Because if a god is something that you can overcome you, and then you get this problem if there are, well, how come you should be why be open to the gods in the pantheon and not the other gods?
+
+287
+00:27:54,801 --> 00:27:57,440
+I'm trying to set it up for the Orestea.
+
+288
+00:27:57,440 --> 00:28:01,520
+There are gods for bad moods, and they're called the furies.
+
+289
+00:28:01,521 --> 00:28:03,680
+And they do draw you in.
+
+290
+00:28:03,680 --> 00:28:14,160
+And people do horrible things when the whole problem of the Oristea is what to do about this mood of vengeance, which has gods behind it.
+
+291
+00:28:14,160 --> 00:28:25,920
+And I think, and this is what I want to say, Homer knows this problem is lurking in the background, and he does the best he can to forget about the bad moods and the gods of the bad moods.
+
+292
+00:28:25,920 --> 00:28:29,841
+And ask himself the question, why are they ranked below the good moods?
+
+293
+00:28:30,200 --> 00:28:41,481
+And he just puts all the emphasis on the equality of the good moods, and he doesn't even want to commit himself to ranking the bad moods.
+
+294
+00:28:41,481 --> 00:28:43,241
+He just doesn't mention them.
+
+295
+00:28:43,241 --> 00:28:46,920
+The furies only get mentioned, I think, three or four times.
+
+296
+00:28:46,920 --> 00:28:51,321
+And I'll go into that in a minute, but I don't want to do now to distract you.
+
+297
+00:28:51,721 --> 00:28:53,561
+So let me look at my notes again.
+
+298
+00:28:53,561 --> 00:28:55,400
+Because I said there was a big problem.
+
+299
+00:28:55,880 --> 00:29:01,400
+The problem is what, who, I mean, how come we get this ranking?
+
+300
+00:29:01,400 --> 00:29:03,161
+And maybe, as I say, it's not a problem.
+
+301
+00:29:03,160 --> 00:29:05,001
+You just say, well, that's what the culture has.
+
+302
+00:29:05,001 --> 00:29:09,561
+It has this ranking, and these are the good moods, and these are the gods, and that's that.
+
+303
+00:29:09,561 --> 00:29:10,921
+I think that's all you can say.
+
+304
+00:29:10,920 --> 00:29:14,041
+But I want to go on and read my notes in a minute.
+
+305
+00:29:14,041 --> 00:29:21,000
+So there are destructive, antisocial, dangerous moods like vengeance, and they can define a whole life.
+
+306
+00:29:21,001 --> 00:29:25,000
+By the way, there are movies about vengeance defining a whole life.
+
+307
+00:29:25,001 --> 00:29:35,720
+There's maybe some of you who remember, I can't remember the name of it, Asterio Leone movie about a guy who spends his life avenging his brother's death.
+
+308
+00:29:35,721 --> 00:29:38,680
+Is it a fistful of dollars or something like that?
+
+309
+00:29:38,680 --> 00:29:39,801
+Maybe you don't know.
+
+310
+00:29:40,680 --> 00:29:48,841
+But there's also Chill Bill, which I haven't seen, but which I was told was a good example of vengeance being a whole life.
+
+311
+00:29:48,841 --> 00:29:55,001
+So anyway, so you can make a whole life around vengeance, and then where are you?
+
+312
+00:29:55,001 --> 00:29:57,400
+I think I may have said what I want to say about it.
+
+313
+00:29:58,761 --> 00:30:09,561
+Well, you want to ask what's the criterion that makes the good moods good and the bad moods bad, that enables you to select, enables the culture to select the ones that are in the pantheon.
+
+314
+00:30:09,561 --> 00:30:14,841
+Maybe that's a modern question, since nobody really saw, I'm talking to myself, really.
+
+315
+00:30:15,680 --> 00:30:25,841
+Maybe the idea that anybody selects on any kind of principle which are the goddesses and goddess and gods, I forgot Apollo and Theory as another good life.
+
+316
+00:30:26,081 --> 00:30:35,600
+Maybe the point is, we ask sort of on what principle, Kant would ask, do we select though some moods is good and some moods is bad?
+
+317
+00:30:35,600 --> 00:30:43,600
+I now think that's a stupid thing for me to worry about, because I think that's just exactly the wrong thing to think.
+
+318
+00:30:43,600 --> 00:30:46,960
+And from a Homer point of view, that's just how it is.
+
+319
+00:30:47,761 --> 00:30:53,841
+Who are we to have sort of free choice of which are the good and bad moods or principle choice?
+
+320
+00:30:53,841 --> 00:30:57,041
+Give ourselves rules for finding which gods are in the pantheon.
+
+321
+00:30:57,041 --> 00:30:59,041
+I'm talking myself out of that.
+
+322
+00:31:00,640 --> 00:31:09,360
+There isn't anything I now want to say to what I wrote here that tells you, enables you to pick the moods that are good and bad.
+
+323
+00:31:09,360 --> 00:31:10,801
+That's the tradition.
+
+324
+00:31:10,801 --> 00:31:14,321
+That's the way the practices work, period.
+
+325
+00:31:15,281 --> 00:31:19,440
+And it's a big, big job to change that.
+
+326
+00:31:19,440 --> 00:31:21,920
+And now the Orestea, we can go to the Orestea.
+
+327
+00:31:21,920 --> 00:31:37,920
+The Orestea is, among other things, a large part about a very bad mood that has pretty unpleasant goddesses in charge of it, and the trouble it causes, and the suffering you have to go through in order to change it.
+
+328
+00:31:38,400 --> 00:31:40,961
+And that's that, Homer never had that problem.
+
+329
+00:31:41,521 --> 00:31:42,240
+That's deep.
+
+330
+00:31:42,241 --> 00:31:43,360
+That's Aeschylus.
+
+331
+00:31:43,360 --> 00:31:46,000
+But that's where we are now.
+
+332
+00:31:46,880 --> 00:31:48,321
+We're leaving Homer.
+
+333
+00:31:48,640 --> 00:31:51,200
+We're switching to the Orashea.
+
+334
+00:31:51,841 --> 00:31:56,400
+And, okay, so now I want to start talking about the Orasheia.
+
+335
+00:31:56,801 --> 00:31:58,000
+And here we go.
+
+336
+00:31:58,481 --> 00:32:00,200
+Yeah, I think he's fine.
+
+337
+00:31:59,600 --> 00:32:03,401
+So, I've got some general things to say.
+
+338
+00:32:03,880 --> 00:32:06,120
+How many did read the introduction?
+
+339
+00:32:06,440 --> 00:32:28,521
+Okay, I don't think I'm going to get to the introduction today, but that's okay, because I decided when I reread it this morning that you've got to read, before you can see what's wrong with the introduction, which is I told you to look for, you really have to read enough of the play to see whether his account of what's going on actually is going on in the play.
+
+340
+00:32:28,841 --> 00:32:31,000
+And so we may get to that next time.
+
+341
+00:32:31,001 --> 00:32:37,721
+If you haven't read it, or if you're thinking about the introduction, ask yourself, what's wrong with the introduction?
+
+342
+00:32:38,040 --> 00:32:41,240
+Why am I saying that it doesn't fit the play?
+
+343
+00:32:41,241 --> 00:32:44,921
+The play is a kind of refutation of what the introduction says.
+
+344
+00:32:44,920 --> 00:32:48,440
+But I don't think that we're, I think I made a mistake in telling you to read it.
+
+345
+00:32:48,440 --> 00:32:51,480
+I should have told you to read it after the Agamemnon.
+
+346
+00:32:51,480 --> 00:33:05,641
+So anyway, the moral of all that is, for next time, read The Agamemnon, that whole play, over the weekend, so we can definitely discuss it and whether Latimer's got it right on Tuesday.
+
+347
+00:33:05,641 --> 00:33:08,761
+Now I'm going to say general things about Aeschylus.
+
+348
+00:33:08,761 --> 00:33:13,721
+So we turn now from something that is some ways harder.
+
+349
+00:33:13,960 --> 00:33:19,321
+Oh, I'm just curious, how many couldn't resist and went on and read some of the Agamemnon while you were at it?
+
+350
+00:33:19,321 --> 00:33:21,320
+Okay, well, you've got other pressures on you.
+
+351
+00:33:21,321 --> 00:33:23,081
+But you will see.
+
+352
+00:33:23,721 --> 00:33:31,080
+You're going to turn from something that's harder, much harder, and in a certain way also easier than reading Homer.
+
+353
+00:33:31,040 --> 00:33:33,400
+Did I try to explain why.
+
+354
+00:33:33,721 --> 00:33:51,440
+Well, what's hard about reading Homer is, if you're going to read it my way anyway, if you're going to try to use it to understand what a polytheistic culture would be like, then you're reading it in a way that Homer isn't trying to tell, isn't interested in that.
+
+355
+00:33:51,761 --> 00:33:54,640
+He's just expressing the polytheistic culture.
+
+356
+00:33:55,201 --> 00:33:58,641
+What he's trying to do is tell us about Odysseus.
+
+357
+00:33:58,641 --> 00:34:01,281
+So we're reading it sort of against the grain.
+
+358
+00:34:01,601 --> 00:34:12,400
+What we're looking for in our interpretation could be just things that are barely mentioned, like the whole affair with Helen and Paris gets settled on a page.
+
+359
+00:34:13,201 --> 00:34:16,801
+And then you wonder, as you read it, what are you supposed to look for?
+
+360
+00:34:16,801 --> 00:34:18,481
+And it's hard for me to tell you.
+
+361
+00:34:18,480 --> 00:34:26,241
+It's hard to know what to pay attention to until you've already discussed it and had a whole view about it, and then you go back and you can read it.
+
+362
+00:34:26,241 --> 00:34:29,760
+But it never is what Homer is paying attention to.
+
+363
+00:34:30,400 --> 00:34:32,160
+And that's so different than Aeschylus.
+
+364
+00:34:32,161 --> 00:34:40,400
+I mean, we're going to read Aeschylus just the way, presumably, the Athenian Greeks saw Aeschylus and the way Aeschylus understood himself.
+
+365
+00:34:40,400 --> 00:34:45,920
+I mean, we were trying to understand what the issue is and what the play is about.
+
+366
+00:34:46,241 --> 00:35:04,081
+And the issue is that the relation of the gods to each other and to human beings and how that gets established and what are the advantages and disadvantages of the particular one the Athenians have got and how can it be improved.
+
+367
+00:35:04,080 --> 00:35:09,921
+Those are on the minds of the audience and on the minds of Aeschylus for sure.
+
+368
+00:35:10,241 --> 00:35:18,001
+So every detail that's relevant has something to do with that, the issue between the two kinds of gods, which you'll see.
+
+369
+00:35:18,000 --> 00:35:24,080
+The Olympian gods are still around, the pantheon, and the Furies, another kind of god.
+
+370
+00:35:24,080 --> 00:35:28,481
+We're going to talk about more of that next time after you've read the Agamemnon.
+
+371
+00:35:28,480 --> 00:35:42,201
+But you can tell already which details are relevant and which details are just accidental, by which details are related to this god clash and which aren't.
+
+372
+00:35:42,201 --> 00:35:58,360
+And then further, you can tell what a good interpretation of the play is if it adds, if all the details that are important to Aeschylus are coherent and add up to a unified view.
+
+373
+00:35:58,360 --> 00:36:05,161
+So you can say, well, what is Aeschylus showing the Athenians or telling the Athenians?
+
+374
+00:36:05,801 --> 00:36:07,481
+What is his picture?
+
+375
+00:36:07,960 --> 00:36:27,080
+And if your interpretation and mine doesn't make coherent sense of the details, if every detail doesn't fit in, then unlike the Homer one, I can say, well, his polytheism is not completely pure, and I can make sort of using him, and I can ignore the demigods and the nymphs and so forth.
+
+376
+00:36:27,080 --> 00:36:28,760
+I have no idea what to do about that.
+
+377
+00:36:28,920 --> 00:36:30,600
+Not like that in Aeschylus.
+
+378
+00:36:30,601 --> 00:36:37,481
+Every detail had better fit, or it means he's not good enough, or you got it wrong.
+
+379
+00:36:37,480 --> 00:36:53,800
+And probably he's good enough since he won the equivalent of the Academy Award not only once, but dozens of times, because his play won the contest, as you know, if you read the introductions, won the contest for best play one year, and you're only supposed to get it that once.
+
+380
+00:36:53,801 --> 00:36:55,960
+But his play was performed over and over and over.
+
+381
+00:36:55,960 --> 00:36:59,721
+It became a cult classic for the Athenians.
+
+382
+00:36:59,721 --> 00:37:04,441
+And so you're pretty sure that he's got it right and got it coherent.
+
+383
+00:37:04,440 --> 00:37:07,400
+And we have to find out what his view is.
+
+384
+00:37:07,721 --> 00:37:11,321
+So, but Homer was simple and clear, however.
+
+385
+00:37:11,321 --> 00:37:13,721
+It was just hard to say what we were looking for.
+
+386
+00:37:13,721 --> 00:37:24,960
+Now we know what we're looking for in Aeschylus, but his view is so convoluted, so complex, so deep, and that it's very hard.
+
+387
+00:37:25,040 --> 00:37:32,321
+I'm going to show you before the end of the hour how to read a page of this, but that's why I wanted to do that before I throw you into it over your heads.
+
+388
+00:37:32,960 --> 00:37:40,321
+His way of writing is to keep every level of interpretation and understanding that are relevant in play at once.
+
+389
+00:37:41,360 --> 00:37:49,280
+And all sorts of references to the past, the future, the myths, everything going on is in there all the time.
+
+390
+00:37:49,281 --> 00:37:54,001
+So it makes it very, very thick, as you'll see when you start to read it.
+
+391
+00:37:54,000 --> 00:37:54,720
+Okay.
+
+392
+00:37:56,000 --> 00:38:01,281
+Now, I say something here that I don't understand.
+
+393
+00:38:02,241 --> 00:38:03,520
+No, it's funny.
+
+394
+00:38:03,681 --> 00:38:09,360
+This is totally independent, but I forgot to say it, so I'm going to say it now.
+
+395
+00:38:09,360 --> 00:38:12,000
+Somebody is bound to notice.
+
+396
+00:38:12,321 --> 00:38:14,000
+Do you have your Odyssey with you still?
+
+397
+00:38:14,000 --> 00:38:14,720
+Probably not.
+
+398
+00:38:14,721 --> 00:38:15,280
+Maybe.
+
+399
+00:38:15,281 --> 00:38:17,601
+On page 199.
+
+400
+00:38:17,841 --> 00:38:19,040
+I see the connection.
+
+401
+00:38:20,321 --> 00:38:26,161
+What was in the background in Homer I've written here is now in the foreground.
+
+402
+00:38:26,161 --> 00:38:38,560
+And that's, in a sense, what caused the Trojan War and why the war took place and what the cost of the war was.
+
+403
+00:38:38,560 --> 00:38:42,721
+I mean, Homer just doesn't really ask himself that.
+
+404
+00:38:42,721 --> 00:38:47,201
+But what I wanted to just mention on 99 is in a sentence.
+
+405
+00:38:47,201 --> 00:38:51,921
+Now, I'm going to read it, and you tell me why it better not be the right translation for Homer.
+
+406
+00:38:52,880 --> 00:39:03,321
+So, Odyssey says, Foul and dreadful was the way that Zeus, who used the wide world, vented his hatred on the sons of Atreus.
+
+407
+00:39:03,641 --> 00:39:09,400
+You know, the sons of Atreus are the protagonists of Agamemnon.
+
+408
+00:39:09,400 --> 00:39:13,961
+Agamemnon is one of the sons of Atreus, and Menelaus is the other.
+
+409
+00:39:13,960 --> 00:39:20,601
+So, this is just a mention in Homer, just a passing mention of what the whole Orestea is about.
+
+410
+00:39:20,601 --> 00:39:29,480
+So, foul and dreadful, Zeus vented his hatred on the sons of Atreus, intrigues of women, even from the start, died by Helen's fault.
+
+411
+00:39:29,480 --> 00:39:37,000
+And Clytemnestra, that's going to be the queen we're going to read about, plotted against you half the world away.
+
+412
+00:39:37,000 --> 00:39:39,081
+He's talking to Agamemnon.
+
+413
+00:39:39,080 --> 00:39:42,601
+Agamemnon gets killed by Clytemnestra.
+
+414
+00:39:42,601 --> 00:39:50,041
+But what's wrong with this thing that even from the start, myriads died by Helen's fault?
+
+415
+00:39:50,040 --> 00:39:54,601
+That better strike you as strange if you've been listening to me and reading the Odyssey.
+
+416
+00:39:54,601 --> 00:39:56,841
+Is it Helen's fault that there was the Tory?
+
+417
+00:39:56,841 --> 00:39:59,240
+The war fault means that it was a bad thing.
+
+418
+00:39:59,241 --> 00:40:00,600
+Yes, it's relevant to you.
+
+419
+00:40:00,601 --> 00:40:02,120
+She's just her complaint.
+
+420
+00:40:02,121 --> 00:40:04,201
+Nobody thinks it's Helen's fault.
+
+421
+00:40:04,201 --> 00:40:09,240
+And so why in the world is Odysseus, of all people, saying it was Helen's fault?
+
+422
+00:40:09,241 --> 00:40:10,360
+Well, he isn't.
+
+423
+00:40:10,360 --> 00:40:12,360
+It's a mistranslation.
+
+424
+00:40:12,360 --> 00:40:15,561
+It says, died for the sake of Helen.
+
+425
+00:40:15,560 --> 00:40:17,481
+And even that's too strong.
+
+426
+00:40:17,480 --> 00:40:22,360
+The Greek just says the Trojan War was caused by Helen.
+
+427
+00:40:22,360 --> 00:40:24,120
+And that's perfectly safe.
+
+428
+00:40:24,121 --> 00:40:26,520
+Nobody, they're not blaming her.
+
+429
+00:40:26,520 --> 00:40:30,281
+They didn't say that something she did caused the war.
+
+430
+00:40:30,281 --> 00:40:37,081
+They're just saying, and it's a fact, that it was caused by Helen, by Helen going off with Paris.
+
+431
+00:40:37,080 --> 00:40:39,160
+And so I had to say that.
+
+432
+00:40:39,161 --> 00:40:48,321
+And anyway, since that paragraph is in Homer, what Aeschylus is going to make into three plays, we should look at it.
+
+433
+00:40:48,960 --> 00:40:52,641
+And now, let's start with Agamemnon.
+
+434
+00:40:52,641 --> 00:40:55,920
+And we have to understand, do we need that?
+
+435
+00:40:56,641 --> 00:40:58,000
+I think I want to skip that.
+
+436
+00:40:58,241 --> 00:40:58,880
+Yeah.
+
+437
+00:40:58,880 --> 00:40:59,360
+Okay.
+
+438
+00:40:59,360 --> 00:41:02,480
+So what are the gods in Aeschylus?
+
+439
+00:41:03,201 --> 00:41:11,360
+They are so different that you need to be prepared not to expect them to be like the Homeric gods, even though they've got the same name.
+
+440
+00:41:11,360 --> 00:41:17,121
+Apollo and Aphrodite and Athena and so forth are all there.
+
+441
+00:41:17,121 --> 00:41:20,001
+There's a general lesson to be said in this.
+
+442
+00:41:20,000 --> 00:41:29,601
+Never, and you'll learn this in this course, if nothing else, you can't just assume because you've got the same word, that you've got the same concept or the same object.
+
+443
+00:41:29,601 --> 00:41:41,121
+Look, God is going to turn out to mean amazingly different things in Plato, I'm sorry, in Homer, in Aeschylus, in the Aeneid, in Dante.
+
+444
+00:41:42,000 --> 00:41:44,001
+So what are gods here?
+
+445
+00:41:44,000 --> 00:41:46,961
+They're not moods anymore.
+
+446
+00:41:46,960 --> 00:42:13,441
+They're something more like cultural values or cultural practices, cultural taken-for-granted ways of doing things that govern people's actions, that determine what is appropriate and not appropriate to do, and thereby lead people to do, most of the time, the appropriate thing and not the inappropriate thing.
+
+447
+00:42:13,440 --> 00:42:31,080
+And the gods set up this framework for the culture, or the gods are something more like the name for the fact that there are these values built into the activities and the language and so forth of the culture.
+
+448
+00:42:31,400 --> 00:42:38,201
+And different gods are related to different aspects of the culture.
+
+449
+00:42:38,201 --> 00:42:54,521
+And if the culture has contradictions in it, like it might, like it might, for instance, before Martin Luther King, we had a culture that both said everybody was equal and then treated African Americans as if they weren't equal, or women as if they weren't equal.
+
+450
+00:42:54,520 --> 00:43:02,121
+Cultures can have in their practices incoherent, contradictory attitudes.
+
+451
+00:43:02,121 --> 00:43:07,880
+Then the gods in that culture, and to talk like Aeschylus, would be fighting with each other.
+
+452
+00:43:07,880 --> 00:43:09,400
+And that's exactly what's happening.
+
+453
+00:43:09,400 --> 00:43:11,801
+You'll find the gods here fighting with each other.
+
+454
+00:43:11,801 --> 00:43:14,601
+You don't find the gods at home fighting with each other.
+
+455
+00:43:14,601 --> 00:43:28,041
+They sometimes play tricks on each other, do things behind each other's back, but they don't insult each other and spit on each other and generally hate each other, which they do in Aeschylus.
+
+456
+00:43:30,841 --> 00:43:33,960
+And it's an interesting kind of view.
+
+457
+00:43:33,960 --> 00:43:36,201
+It's not polytheism anymore.
+
+458
+00:43:36,201 --> 00:43:38,841
+They're not a plurality of gods.
+
+459
+00:43:38,841 --> 00:43:45,241
+There's sort of two camps of gods, the Furies and the Pantheon.
+
+460
+00:43:45,241 --> 00:43:48,601
+And those, and they're in a kind of opposition.
+
+461
+00:43:49,480 --> 00:43:52,281
+So it's not polytheism anymore.
+
+462
+00:43:52,281 --> 00:43:55,160
+But they're really only two divine forces.
+
+463
+00:43:55,480 --> 00:43:56,040
+That's true.
+
+464
+00:43:56,040 --> 00:44:04,600
+The Pantheon has a lot of different gods in it, but they all stand together against the Furies, who have a lot of people there, and they all stand together.
+
+465
+00:44:04,601 --> 00:44:08,281
+So it's not polytheism, but it's not monotheism either.
+
+466
+00:44:08,281 --> 00:44:23,201
+It's sort of bi-theism, that is, there are these two forces, but and there's, oh, yeah, but it's got it, it's tended toward monotheism in a creepy way.
+
+467
+00:44:23,201 --> 00:44:34,880
+By a creepy way, I mean bad things are happening because both sets of gods each one claim that they're the right ones, the true ones, the only real gods.
+
+468
+00:44:34,880 --> 00:44:38,241
+Their way of looking at things is the right way.
+
+469
+00:44:40,241 --> 00:44:44,481
+That's tending towards sort of fanaticism and monotheism.
+
+470
+00:44:44,480 --> 00:44:50,321
+And it's true, Apollo is a kind of Enlightenment fanatic before his time, you'll see when you get there.
+
+471
+00:44:50,321 --> 00:44:55,281
+And the Furies are reactionaries, whose reactionaries you can get.
+
+472
+00:44:56,560 --> 00:45:07,761
+And each of them, and that's the interesting thing, wants a claim that their values have absolute authority over from all the other values.
+
+473
+00:45:07,761 --> 00:45:09,841
+And that's not in Homer.
+
+474
+00:45:09,841 --> 00:45:17,121
+I mean, that's exactly not the sort of pluralism of polytheism.
+
+475
+00:45:17,360 --> 00:45:23,441
+Aphrodite doesn't say that everybody should be swept away by love, nor Aries by war.
+
+476
+00:45:23,440 --> 00:45:25,680
+But in Aeschylus, it's something like that.
+
+477
+00:45:25,681 --> 00:45:30,001
+It's that any god, they don't do that because they're Homeric gods.
+
+478
+00:45:30,000 --> 00:45:39,841
+But the pantheon, represented mainly by Apollo, and the Furies each say our way is the only way of doing things.
+
+479
+00:45:39,841 --> 00:45:45,441
+And that halfway move toward monotheism gets you tragedy, I think.
+
+480
+00:45:45,601 --> 00:45:51,200
+A very peculiar, special kind of tragedy that only Aeschylus, as far as I know, is on to.
+
+481
+00:45:51,201 --> 00:45:52,961
+It's not like Oedipus.
+
+482
+00:45:52,960 --> 00:46:00,681
+Try to forget everything you learned about tragedy when you read Oedipus and read Aristotle on Oedipus, if you did.
+
+483
+00:46:02,121 --> 00:46:03,960
+This is a cultural tragedy.
+
+484
+00:46:03,960 --> 00:46:06,201
+It's not an individual tragedy.
+
+485
+00:46:07,000 --> 00:46:08,600
+I'll try to make that a lot clearer.
+
+486
+00:46:08,601 --> 00:46:10,680
+It's an ontological tragedy.
+
+487
+00:46:10,681 --> 00:46:13,321
+It's not a psychological tragedy.
+
+488
+00:46:13,321 --> 00:46:19,001
+And it doesn't make any difference what anybody thinks or feels or believes.
+
+489
+00:46:19,000 --> 00:46:27,080
+It's what the culture cares about and requires and also cares about and doesn't want.
+
+490
+00:46:28,121 --> 00:46:35,880
+And it's the conflict of these two sets of values, each one claiming that there's no place for the other one.
+
+491
+00:46:35,880 --> 00:46:43,081
+Each then, thereby tragic, fanatical, head-on collision.
+
+492
+00:46:43,080 --> 00:46:51,641
+And what Aeschylus is going to do, you'll see in Agamemnon when you read it, is bring this conflict to a head.
+
+493
+00:46:51,641 --> 00:46:58,121
+Make it out in the open so that you can see how incoherent and how dangerous it is.
+
+494
+00:46:58,440 --> 00:47:06,041
+And somehow try to move the culture toward, in effect, a kind of monotheism.
+
+495
+00:47:06,040 --> 00:47:07,721
+Though it's not really that.
+
+496
+00:47:07,721 --> 00:47:14,921
+It's really move the culture so that all the gods are reconciled and all pull in the same direction.
+
+497
+00:47:14,920 --> 00:47:17,561
+But that's not until the third play.
+
+498
+00:47:19,560 --> 00:47:26,041
+So the gods in Aeschylus, just to sort of say it again, are no longer exemplars, givers of attunement.
+
+499
+00:47:26,040 --> 00:47:29,241
+They don't appear in the guise of friends like Mentes.
+
+500
+00:47:29,241 --> 00:47:32,681
+They don't help people to change worlds from child to adult.
+
+501
+00:47:32,920 --> 00:47:39,001
+And they don't shine a light on people when they're in sync with each other and the shared situation.
+
+502
+00:47:39,000 --> 00:47:42,760
+It's a summary of all the things the gods in Homer do.
+
+503
+00:47:43,080 --> 00:47:45,920
+They mostly don't appear at all, the gods in Aeschylus.
+
+504
+00:47:46,080 --> 00:47:55,121
+And when they do appear, they appear as themselves and defend their ranking of the values against the other gods who defend theirs.
+
+505
+00:47:55,841 --> 00:47:57,681
+That happens in the third play.
+
+506
+00:47:57,681 --> 00:48:04,721
+Mostly they insult each other and show absolutely no tolerance for each other, the two sets of gods.
+
+507
+00:48:05,201 --> 00:48:08,961
+Put it another way, in Homer, the gods all respect each other.
+
+508
+00:48:08,960 --> 00:48:14,961
+They are coordinated worlds, and Hermes and Athena facilitate moves between them.
+
+509
+00:48:14,960 --> 00:48:17,841
+In Aeschylus, that's all gone.
+
+510
+00:48:18,161 --> 00:48:22,081
+And Zeus has a new job, as does Athena.
+
+511
+00:48:22,080 --> 00:48:25,680
+Hermes isn't even mentioned anymore, and so forth.
+
+512
+00:48:26,000 --> 00:48:51,281
+Now, for the rest of the time, I want to just read the opening chorus speech in the Orestea, which you should have with you, and you should now be bringing it with you every time, and show you sort of one, it's a way of telling you how to read this book without, as I say, sinking and never coming back.
+
+513
+00:48:51,281 --> 00:49:00,161
+And also, I can tell you lots of facts you need to know that you're going to have to make sense of it, because there are all these references in Aeschylus all the time.
+
+514
+00:49:01,360 --> 00:49:10,400
+So, Aeschylus assumes that the reader already knows the myths and the names for every character in every country that's mentioned, making it hard for us to read.
+
+515
+00:49:10,400 --> 00:49:11,841
+It wasn't hard for them.
+
+516
+00:49:12,080 --> 00:49:17,121
+We know the name of our main leaders and countries and politicians.
+
+517
+00:49:17,681 --> 00:49:20,000
+But there's a hard thing, too, about the chorus.
+
+518
+00:49:20,000 --> 00:49:27,201
+The chorus sometimes is very into the deep truth and sees deeply into what's going on.
+
+519
+00:49:27,201 --> 00:49:33,160
+But other times, the chorus is made up of the everyday people of Argos and they don't understand much of what's going on.
+
+520
+00:49:33,400 --> 00:49:38,761
+They're worried and frightened and see that bad things are happening but they don't know quite why.
+
+521
+00:49:38,761 --> 00:49:41,081
+And you just have to use the context.
+
+522
+00:49:41,080 --> 00:49:42,440
+And that's what the Greeks had to do.
+
+523
+00:49:42,440 --> 00:49:46,360
+The chorus was the same people, but it stands for different things.
+
+524
+00:49:46,360 --> 00:49:56,921
+You have to know from the context whether the chorus is saying deep and illuminating things or sort of just what everybody in the man in the street and woman in the street believe.
+
+525
+00:49:57,241 --> 00:49:59,240
+Okay, let's see.
+
+526
+00:49:59,241 --> 00:50:03,801
+So when the chorus is talking in dark, tragic terms, then it's it's deep.
+
+527
+00:50:03,801 --> 00:50:06,281
+Otherwise, it's confused.
+
+528
+00:50:06,281 --> 00:50:08,681
+And so now here we go.
+
+529
+00:50:08,681 --> 00:50:11,560
+We're going to skip the watchman's speech at the beginning.
+
+530
+00:50:11,560 --> 00:50:16,360
+That's just straightforward situation setting.
+
+531
+00:50:16,360 --> 00:50:21,081
+The watchman says, looks like they won the war and they're on the way home.
+
+532
+00:50:21,080 --> 00:50:37,641
+Now, starting on page 36, from now on for the rest of the time, I'm going to just read line by line what's going on, and you can write in the sort of code for recognizing all these names and so forth.
+
+533
+00:50:37,641 --> 00:50:38,841
+Here we go.
+
+534
+00:50:38,841 --> 00:50:40,841
+The chorus enters speaking.
+
+535
+00:50:40,841 --> 00:50:43,960
+Ten years, and you know what that is.
+
+536
+00:50:43,960 --> 00:50:46,281
+The war lasted 10 years at Troy.
+
+537
+00:50:46,281 --> 00:50:57,400
+Ten years since the great contestants of Prime's right, Prime, you wouldn't know unless you read the Iliad, is the king in Troy, and they are contesting his right.
+
+538
+00:50:57,400 --> 00:51:07,081
+That is, they are Paris had no right to run off with Helen, and Prime had no right to protect Paris.
+
+539
+00:51:07,080 --> 00:51:14,561
+And that's all because, I mean, we know all that about guests, and not guests aren't supposed to run off with the host's wife.
+
+540
+00:51:13,960 --> 00:51:17,841
+So they're contesting what Prime did.
+
+541
+00:51:18,161 --> 00:51:24,241
+Now, Menelaus and Agamemnon, those are the two great contestants.
+
+542
+00:51:24,241 --> 00:51:28,641
+Those are the two brothers who are leading the war.
+
+543
+00:51:30,000 --> 00:51:37,601
+My lord, but my lord being Agamemnon is the lord of the people who are in the chorus because the chorus is the people of Argos.
+
+544
+00:51:37,601 --> 00:51:40,560
+So, okay, so they're getting all the punctuation.
+
+545
+00:51:40,560 --> 00:51:57,600
+Ten years since the great contestants of Prime's right, Menelaus and Agamemnon, my lord, that is Agamemnon, twice throned, the two of them, each have his throne, twice scepred in twofold power of the king from God, the Atridi.
+
+546
+00:51:57,681 --> 00:51:58,721
+Stop from there.
+
+547
+00:51:58,721 --> 00:52:00,720
+You notice anything funny there?
+
+548
+00:52:02,000 --> 00:52:03,681
+God with a capital.
+
+549
+00:52:03,681 --> 00:52:05,441
+That's just nonsense.
+
+550
+00:52:06,000 --> 00:52:09,120
+There's nothing in the Greek that says God has a capital.
+
+551
+00:52:09,920 --> 00:52:13,521
+The word in the Greek is something like the divine.
+
+552
+00:52:13,520 --> 00:52:16,080
+So that's why God is in the singular.
+
+553
+00:52:18,801 --> 00:52:24,801
+And so the kings of kings from God, where are we?
+
+554
+00:52:24,801 --> 00:52:26,561
+And the Atridi.
+
+555
+00:52:26,560 --> 00:52:27,920
+Well, you know what that is?
+
+556
+00:52:27,920 --> 00:52:29,281
+You've got to just all I code.
+
+557
+00:52:29,281 --> 00:52:32,960
+The Atridae is the two Atreus brothers.
+
+558
+00:52:32,960 --> 00:52:35,681
+It's just plural for the Atreus brothers.
+
+559
+00:52:35,681 --> 00:52:38,480
+So that's, again, Menelaus and Agamemnon.
+
+560
+00:52:38,480 --> 00:52:43,120
+The Atridae put forth from this shore the thousand ships of the Argoves.
+
+561
+00:52:43,121 --> 00:52:44,480
+Well, guess what that is?
+
+562
+00:52:44,480 --> 00:52:46,240
+Those are the people of Argos.
+
+563
+00:52:46,241 --> 00:52:49,761
+You ought to get so you could sort of decode it.
+
+564
+00:52:49,761 --> 00:53:01,240
+And the strength and the armies, their cry of war went shrill from the heart, and now it begins to get into a real murky aeschylus, which is fascinating once you get used to it.
+
+565
+00:53:01,560 --> 00:53:08,041
+Okay, well, the cry of war went shrill from the heart as eagles stricken in agony for young perished.
+
+566
+00:53:08,040 --> 00:53:09,801
+Well, this is the metaphor.
+
+567
+00:53:09,801 --> 00:53:11,081
+That's the as.
+
+568
+00:53:11,560 --> 00:53:13,160
+Now he's using, or is it a simile?
+
+569
+00:53:13,161 --> 00:53:14,600
+Simile, I think, right?
+
+570
+00:53:14,920 --> 00:53:15,960
+Yeah, a simile.
+
+571
+00:53:15,960 --> 00:53:20,921
+So these warriors went out like, that's the simile, eagles.
+
+572
+00:53:20,920 --> 00:53:22,680
+Now what happens to these eagles?
+
+573
+00:53:22,681 --> 00:53:31,961
+Stricken in agony for young perished, high from the nest, eddy and circle to bend and sweep of the wing stroke, lost far below the fledglings, the nest, and the tendons.
+
+574
+00:53:31,960 --> 00:53:32,760
+Wow.
+
+575
+00:53:32,761 --> 00:53:47,481
+Well, it's like how eagles behave when they've left their nest, and while they were gone, something bad happened, and it killed the young eagles in the nest.
+
+576
+00:53:47,480 --> 00:53:53,880
+And those were the fledglings in the nest, the tendons, I take it, what the eagles were tending.
+
+577
+00:53:53,880 --> 00:53:58,360
+And that's just the way eagles would be upset.
+
+578
+00:53:58,761 --> 00:54:08,360
+But it's no accident that this simile is about something that happened, so to speak, in the nest of Menelaus and Agamemnon.
+
+579
+00:54:08,681 --> 00:54:12,441
+And of course, that is, Helen ran off.
+
+580
+00:54:12,440 --> 00:54:24,201
+And so it's not an accident that the eagles, who are Menelaus and Agamemnon, are all upset because something happened and it happened, so to speak, at home.
+
+581
+00:54:24,201 --> 00:54:25,800
+Something bad happened at home.
+
+582
+00:54:25,801 --> 00:54:27,400
+That's what's happening now.
+
+583
+00:54:27,400 --> 00:54:35,961
+Okay, now, yet someone hears in the air, a god, Apollo, Pan, or Zeus.
+
+584
+00:54:35,960 --> 00:54:44,761
+If anybody can tell me in office hours, not now, what Pan is doing in there, who's not part of the pantheon, that's a kind of pun.
+
+585
+00:54:45,201 --> 00:54:56,321
+Pantheon just means across all the gods, like panachronic, panchromatic film used to mean film that was sensitive to all colors.
+
+586
+00:54:56,641 --> 00:55:04,400
+So this Pan is the god of, you know, sort of he just plays the pan pipes and dances around in the woods as far as I know.
+
+587
+00:55:04,400 --> 00:55:23,281
+I don't know how he got in there with these heavies, but in the air, a god, Apollo, Pan, or Zeus, the high thin, hears, hears the high, thin wail of these guests, these sky guests, and drives late to the mark the fury upon the transgressors.
+
+588
+00:55:23,920 --> 00:55:42,641
+That is, the gods in the pantheon, never mind pan in there, hear that there's been this offense against the home of Menelaus, really.
+
+589
+00:55:42,960 --> 00:55:52,400
+And now, now this is something you would be very confused about if only you knew enough to be confused about it.
+
+590
+00:55:52,400 --> 00:55:53,920
+But you don't know enough yet.
+
+591
+00:55:53,920 --> 00:55:57,760
+But I have to tell you that there are high gods and low gods.
+
+592
+00:55:57,761 --> 00:55:59,600
+The pantheon is up on Olympus.
+
+593
+00:55:59,601 --> 00:56:00,560
+It's in the sky.
+
+594
+00:56:00,560 --> 00:56:02,001
+It's the high gods.
+
+595
+00:56:02,000 --> 00:56:05,200
+The furies live under the ground in the dark.
+
+596
+00:56:05,201 --> 00:56:08,161
+We'll talk more about that next time, why that's the case.
+
+597
+00:56:08,161 --> 00:56:14,320
+But who's in charge of getting this war off the ground?
+
+598
+00:56:14,641 --> 00:56:17,441
+Well, that's a complicated story.
+
+599
+00:56:17,761 --> 00:56:27,121
+But roughly, the pantheon gods are the gods of oath, that is, of promises that you keep.
+
+600
+00:56:27,761 --> 00:56:34,841
+And the furies, they are described sometimes as curses.
+
+601
+00:56:34,841 --> 00:56:39,561
+They are this mood of anger and vengeance.
+
+602
+00:56:39,560 --> 00:56:49,000
+Now, what's happened is that oddly enough, And this is really early, because I have to tell you this, but I can't help it, Aeschylus puts it in early.
+
+603
+00:56:49,000 --> 00:56:59,481
+I mean, what's odd is that something has happened that upsets both the furies because the family has been violated, and the furies defend the family.
+
+604
+00:56:59,480 --> 00:57:12,200
+And it upsets the sky gods because an oath has been violated, and that is the promise that, well, no, no, I cancel that.
+
+605
+00:57:12,201 --> 00:57:19,721
+It upsets the sky gods because guests have broken the rule of guests.
+
+606
+00:57:20,601 --> 00:57:25,400
+And Zeus is still in the guest protecting business.
+
+607
+00:57:25,400 --> 00:57:29,160
+Only oddly enough, very interesting, guess what?
+
+608
+00:57:29,161 --> 00:57:38,360
+Zeus is now in the job of protecting the host from the guest, whereas he was before in the job of protecting the guests.
+
+609
+00:57:38,360 --> 00:57:38,841
+Why?
+
+610
+00:57:38,841 --> 00:57:48,281
+Because it's not a polytheistic book, and you're not going from world to world anymore, and there's nothing specially interesting to be protected about guests and strangers.
+
+611
+00:57:48,281 --> 00:57:59,721
+Now, it's sort of a world more like ours, in which there are families, and Zeus is protecting these families from bad guests.
+
+612
+00:57:59,721 --> 00:58:03,161
+A very bad guest has just done a very bad thing.
+
+613
+00:58:03,161 --> 00:58:24,801
+Paris has run off with Helen, and that offends both the furies who are protectors of families, and in a way that's sort of different, offends the sky gods who have principles that say you mustn't do bad things to the host.
+
+614
+00:58:24,801 --> 00:58:27,201
+And so they're all upset.
+
+615
+00:58:27,440 --> 00:58:28,801
+I mean, don't worry about that now.
+
+616
+00:58:28,801 --> 00:58:34,560
+I mean, we'll get that sorted out later, but I have to tell you that now, and we'll tell you that again.
+
+617
+00:58:34,880 --> 00:58:44,481
+So drive Zeus, the great guest god, that is the offender of families against bad guests.
+
+618
+00:58:45,281 --> 00:58:51,120
+The Atridae, remember who they are, the Atreus brothers, against Alexander.
+
+619
+00:58:51,121 --> 00:58:52,961
+Guess who Alexander is?
+
+620
+00:58:52,960 --> 00:58:56,561
+No reason you should know, but you can solve it like a crossword puzzle.
+
+621
+00:58:56,560 --> 00:58:58,801
+Alexander must be Paris, and it is.
+
+622
+00:58:58,801 --> 00:59:01,041
+That's another name for Paris.
+
+623
+00:59:01,920 --> 00:59:05,441
+Against Alexander for one woman's promiscuous sake.
+
+624
+00:59:05,440 --> 00:59:08,240
+He's not such a fan of Helen's anymore, you notice.
+
+625
+00:59:08,241 --> 00:59:14,400
+I tried to see if that was really true in the Greek, and as far as I can tell, looking at two other translations, yes.
+
+626
+00:59:14,880 --> 00:59:23,681
+That is, it's just not a culture anymore that thinks that if you run off in a mood of erotic attraction, you're a great, peerless woman.
+
+627
+00:59:23,681 --> 00:59:27,601
+It just thinks that Helen should have stayed faithful to Menelaus.
+
+628
+00:59:27,601 --> 00:59:37,600
+But so for one woman's promiscuous sake, the struggling masses now comes the war, legs tired, knees grinding in the dust, arms, spears broken on the onset.
+
+629
+00:59:37,601 --> 00:59:40,641
+Danans, another word for Greeks.
+
+630
+00:59:40,641 --> 00:59:42,961
+I don't know where that one comes from.
+
+631
+00:59:42,960 --> 00:59:44,880
+And Trojans, you know who they are.
+
+632
+00:59:44,880 --> 00:59:45,920
+They have it alike.
+
+633
+00:59:45,920 --> 00:59:49,681
+That is, they're going at it in this big battle.
+
+634
+00:59:49,681 --> 00:59:53,201
+And it goes as it goes, and so forth.
+
+635
+00:59:53,201 --> 00:59:56,281
+Now I'm going to skip for a while.
+
+636
+00:59:56,000 --> 00:59:57,641
+Where is the...
+
+637
+00:59:57,681 --> 00:59:58,960
+Okay, we can skip even.
+
+638
+00:59:59,201 --> 01:00:01,240
+Yeah, now we're on 38.
+
+639
+01:00:02,440 --> 01:00:08,200
+The chorus can skip around because the chorus is describing stuff that's already happened.
+
+640
+01:00:08,201 --> 01:00:11,161
+So you don't have to describe all the intervening events.
+
+641
+01:00:11,161 --> 01:00:23,081
+What happened was that Menelaus and Agamemnon started out in a war to defend their nest, so to speak, their home, like eagles.
+
+642
+01:00:23,080 --> 01:00:26,041
+And now comes a weird thing.
+
+643
+01:00:26,040 --> 01:00:34,041
+While they're waiting to get off the shore of Argos and go to Troy, real eagles show up.
+
+644
+01:00:34,841 --> 01:00:39,721
+The simile becomes literal, the middle of page 38.
+
+645
+01:00:40,601 --> 01:01:00,761
+The chorus is going to say, they're going to tell how the wild bird portent hurled forth the Achaeans, twin-stem power, single-hearted lord of the youth of Hellas, another word for Greece, a lot of words for Greece, with spear and hand of strength to the land of Troikus.
+
+646
+01:01:01,080 --> 01:01:04,600
+And Troikris is the first king of Troy.
+
+647
+01:01:04,601 --> 01:01:05,960
+That's what Troy is named after.
+
+648
+01:01:05,960 --> 01:01:09,241
+You see, it's again a crossword puzzle if you can figure it out.
+
+649
+01:01:09,241 --> 01:01:11,801
+So that is another word for Troy.
+
+650
+01:01:11,801 --> 01:01:12,841
+Now about eagles.
+
+651
+01:01:12,841 --> 01:01:20,520
+King of birds to the king of the ships, one black, one blazed with silver, clear seen by the royal house, that is, the royal brothers.
+
+652
+01:01:20,520 --> 01:01:24,841
+On the right hand, that's got something to do with the way birds predict things.
+
+653
+01:01:24,841 --> 01:01:29,001
+The spear hand means that, you know, it's got to do with going to war.
+
+654
+01:01:29,000 --> 01:01:41,721
+They lighted the two eagles, watched by all, tore a hair ripe, bursting with young, unborn yet, stayed from her fast fleet running, sorrow, sorrow, but good went out in the end.
+
+655
+01:01:41,721 --> 01:02:00,240
+So now the eagles, instead of having their home violated in the simile, the eagles show up and they do this bad thing of taking, of attacking this poor rabbit and killing it and eating the baby rabbits.
+
+656
+01:02:00,241 --> 01:02:07,281
+This is not going to make certain people happy, particularly Artemis, who loves cuddly things.
+
+657
+01:02:07,281 --> 01:02:08,961
+So we've got to go on.
+
+658
+01:02:08,960 --> 01:02:13,681
+Then the grave seer of the host saw through to the hearts divided.
+
+659
+01:02:13,681 --> 01:02:22,321
+That is, he saw that the eagles were the Atreus brothers, Agamemnon and Menelaus, knew the fighting sons of Atreus feeding on the hare.
+
+660
+01:02:22,321 --> 01:02:24,000
+You see how weird it is.
+
+661
+01:02:24,000 --> 01:02:29,761
+I mean, so the eagles are feeding on the hare, but the eagles are really the symbols represent the two kings.
+
+662
+01:02:29,761 --> 01:02:31,921
+So the kings are feeding on the hare.
+
+663
+01:02:32,241 --> 01:02:39,201
+And so fighting sons of Atreus feeding on the hare with the host, their people, seeing beyond, that is, the seer sees.
+
+664
+01:02:39,201 --> 01:02:45,681
+With time, this foray shall stalk the castle of Prime, and so forth and so forth.
+
+665
+01:02:46,321 --> 01:02:48,321
+I don't think I need to read her.
+
+666
+01:02:48,480 --> 01:02:51,120
+Okay, five lines down now on 39.
+
+667
+01:02:51,121 --> 01:02:55,921
+I'm still trying to unscramble the whole plot that's condensed in here.
+
+668
+01:02:55,920 --> 01:02:58,081
+Now, I mentioned Artemis.
+
+669
+01:02:58,080 --> 01:03:02,561
+Artemis is already in the pantheon, but I never mention her.
+
+670
+01:03:02,560 --> 01:03:07,601
+But she's a young goddess, virgin goddess of the hunt.
+
+671
+01:03:07,601 --> 01:03:18,480
+She loves animals, and she is, and she probably had a pet rabbit at some point, and she's very unhappy.
+
+672
+01:03:18,641 --> 01:03:21,761
+I'm sure she doesn't eat rabbit anymore for dinner.
+
+673
+01:03:21,761 --> 01:03:26,721
+And she's very unhappy about what's going on with the hare.
+
+674
+01:03:27,040 --> 01:03:33,161
+So Artemis, the undefiled, is angry with pity at the flying hounds of her father.
+
+675
+01:03:29,681 --> 01:03:35,880
+That is, she's unhappy about Zeus's eagles.
+
+676
+01:03:36,440 --> 01:03:47,960
+Eating the she's unhappy that the hounds of her father, the flying hounds, that makes them eagles, eating, she's unhappy that they're eating the unborn young and the hare and the shivering mother.
+
+677
+01:03:47,960 --> 01:03:52,200
+She was thick at the eagles' feastings, sorrow, sorrow, but good went out in the end.
+
+678
+01:03:52,201 --> 01:03:54,601
+That's the moral of the play that keeps coming back.
+
+679
+01:03:54,601 --> 01:04:00,761
+Lots of suffering has to be going on before bad things in the culture get fixed.
+
+680
+01:04:00,761 --> 01:04:07,481
+Think again of how African Americans were treated or how women were treated and still maybe are being treated.
+
+681
+01:04:07,480 --> 01:04:11,081
+The culture is trying to fix it, but it takes a lot of suffering.
+
+682
+01:04:11,080 --> 01:04:12,680
+Lovely you are.
+
+683
+01:04:12,681 --> 01:04:13,720
+Maybe I'm going on again.
+
+684
+01:04:13,721 --> 01:04:18,120
+Lovely you are and kind to the tender young of ravening lions.
+
+685
+01:04:18,440 --> 01:04:26,921
+Now, Artemis is a very sensitive, feeling young woman, but she doesn't think very clearly the way this play is set up.
+
+686
+01:04:26,920 --> 01:04:35,641
+And she loves the tender baby, cuddly babies, even the cuddly babies of lions.
+
+687
+01:04:35,641 --> 01:04:41,400
+I mean, she loves all animals, but particularly little cuddly, young ones.
+
+688
+01:04:41,400 --> 01:04:45,240
+But that's a bad thing to do because look what happens.
+
+689
+01:04:45,241 --> 01:04:50,120
+For the suckling of all the savage beasts that work in the lonely places, you have sympathy.
+
+690
+01:04:50,121 --> 01:04:54,841
+Yes, grant these meanings, meaning to these appearances, but not without evil.
+
+691
+01:04:54,841 --> 01:05:05,960
+Healer, Apollo, I pray you, let her not, we're going to hear more about that in a minute, with crosswinds, blind the ships of the Danes, to time-long anchorage.
+
+692
+01:05:05,960 --> 01:05:06,760
+Stop there.
+
+693
+01:05:06,761 --> 01:05:11,241
+I'm going to go off on a sidetrack for a minute to page 57.
+
+694
+01:05:11,241 --> 01:05:16,640
+Because I told you that Artemis has beautiful feelings, but she doesn't think very clearly.
+
+695
+01:05:16,960 --> 01:05:22,640
+The chorus says that on 57 when they say this, that's the second paragraph.
+
+696
+01:05:22,641 --> 01:05:28,720
+Once a man fostered in his house a lion cub from the mother's milk torn, craving the beast given.
+
+697
+01:05:28,721 --> 01:05:29,520
+What is that?
+
+698
+01:05:29,520 --> 01:05:30,641
+Torn.
+
+699
+01:05:30,641 --> 01:05:32,400
+Carbon.
+
+700
+01:05:32,480 --> 01:05:33,920
+The breast instead of the beast.
+
+701
+01:05:33,920 --> 01:05:34,560
+That's what.
+
+702
+01:05:34,560 --> 01:05:35,841
+Craving the breast given.
+
+703
+01:05:35,841 --> 01:05:37,040
+Okay, now I can read.
+
+704
+01:05:37,281 --> 01:05:41,120
+In the first steps of its young life, mild, it played with children.
+
+705
+01:05:41,121 --> 01:05:43,121
+This is the little lion cub.
+
+706
+01:05:43,281 --> 01:05:44,560
+And delighted the old.
+
+707
+01:05:44,560 --> 01:05:48,160
+Caught in the arms cradle, they pampered it like a newborn child and so forth.
+
+708
+01:05:48,161 --> 01:05:53,201
+But it grew in time, and the lion in the blood stain came out.
+
+709
+01:05:53,201 --> 01:06:00,160
+It paid grace to those who had fostered it in blood and death to the sheep flocks, its grim beast forbidden.
+
+710
+01:06:00,161 --> 01:06:04,561
+So, in other words, the lion grew up and it killed everybody.
+
+711
+01:06:05,201 --> 01:06:14,400
+And there's something inconsistent about Artemis who loves all these tender babies who can grow up and be dangerous.
+
+712
+01:06:14,400 --> 01:06:17,601
+We have to put that on back burner for a moment.
+
+713
+01:06:17,601 --> 01:06:35,841
+Now, what they're worried about is that Artemis will get so upset that the eagles are eating the baby bunnies that she's going to do something which is going to cause a lot of trouble, but we only hear about it now.
+
+714
+01:06:36,161 --> 01:06:48,960
+Let her not, we're in the middle of 39, with crosswinds bind the ships of the Daians to the time-long anchorage, forcing a second sacrifice, unholy, untasted, working bitterness in the blood.
+
+715
+01:06:48,960 --> 01:06:52,080
+Well, that's something that's going to happen.
+
+716
+01:06:52,080 --> 01:06:57,920
+And the, and now I just tell you a sort of plot-wise thing, I think.
+
+717
+01:06:57,920 --> 01:06:59,841
+I don't think I want to read anymore.
+
+718
+01:07:00,200 --> 01:07:14,841
+What's happening on the next pages is that Artemis says that she won't let the Atridae get their fleet, an army, off to Troy.
+
+719
+01:07:14,841 --> 01:07:18,360
+unless Agamemnon kills his daughter.
+
+720
+01:07:18,361 --> 01:07:28,600
+Now, how that's connected with the eagles eating the rabbit bunnies is very complicated, but I think I can explain it.
+
+721
+01:07:28,601 --> 01:07:39,880
+I mean, what happens is she sees that the war is going to cause a lot more young people to be killed.
+
+722
+01:07:39,880 --> 01:07:42,920
+And she wants to stop the war.
+
+723
+01:07:43,240 --> 01:07:58,520
+And that is, she wants to stop the eagles feasting on the rabbits, means she wants to stop Agamemnon and Menelaus drafting all these young people from Greece and going off and getting lots of them killed, most of them finally, in Troy.
+
+724
+01:07:58,521 --> 01:08:00,280
+And how does she do it?
+
+725
+01:08:00,280 --> 01:08:08,280
+Well, she does it by saying Agamemnon can't send these people off to war unless he sacrifices his daughter.
+
+726
+01:08:08,280 --> 01:08:13,640
+Now, for years, I found that completely crazy.
+
+727
+01:08:13,641 --> 01:08:14,920
+Why that?
+
+728
+01:08:14,920 --> 01:08:16,920
+Why does she do that?
+
+729
+01:08:16,920 --> 01:08:27,480
+Well, a colleague of mine who now just recently died in a book called Agamemnon and Other Losers, which is a great idea for a book, explains it.
+
+730
+01:08:27,481 --> 01:08:37,240
+And what he says is that what Artemis is thinking is that Agamemnon hasn't the right to draft these young people and send them off to wherever.
+
+731
+01:08:37,240 --> 01:08:39,801
+Right now it's Iraq, but it could be wherever.
+
+732
+01:08:39,801 --> 01:08:54,160
+And if he's not willing to send his own son or daughter, that is, kings who are ready to send everybody else to sacrifice and presidents too, shouldn't be able to do that unless they're willing to make the same sort of sacrifice.
+
+733
+01:08:54,160 --> 01:09:01,601
+That means Agamemnon had better be ready to kill his daughter or he won't get his fleet off to Greece.
+
+734
+01:09:02,320 --> 01:09:04,480
+Now comes the second thing.
+
+735
+01:09:05,761 --> 01:09:08,481
+Tussman, my colleague, really solved that one, I think.
+
+736
+01:09:08,481 --> 01:09:10,240
+That must be how it is.
+
+737
+01:09:10,240 --> 01:09:28,480
+But then I thought, well, that's very smart, but what a crazy thing to think that because they are going to hurt a lot of young, innocent people with this war, she wants to kill one more young, innocent person, poor Iphigenia.
+
+738
+01:09:28,481 --> 01:09:30,640
+That's even crazier.
+
+739
+01:09:30,641 --> 01:09:33,120
+Well, she doesn't think very clearly.
+
+740
+01:09:33,120 --> 01:09:40,480
+And here's what's happening: she thinks that if she makes this threat, Agamemnon will go home.
+
+741
+01:09:40,481 --> 01:09:44,240
+And won't, I mean, why would anybody go and kill their own daughter?
+
+742
+01:09:44,240 --> 01:09:45,841
+He loves this daughter.
+
+743
+01:09:46,240 --> 01:09:51,761
+So all we have to do is say that he has to either sacrifice the daughter or give up this stupid war.
+
+744
+01:09:51,761 --> 01:09:55,120
+And the answer will be he'll go home and give up the stupid war.
+
+745
+01:09:55,120 --> 01:10:12,640
+But of course, that doesn't work because what Artemis, who is all tenderness and feeling, doesn't understand is that there's another whole dimension of values in the culture, of oaths and honor, and not doing terrible things to your host.
+
+746
+01:10:12,641 --> 01:10:16,641
+And it doesn't say it here, but they all know, and you can find out.
+
+747
+01:10:16,960 --> 01:10:24,721
+Agamemnon has sworn an oath to Menelaus that if anybody does anything bad to him, he will come to his defense and vice versa.
+
+748
+01:10:24,721 --> 01:10:35,960
+So Agamemnon, by an oath, is bound to support the values of the pantheon anyway, namely protecting hosts from guests.
+
+749
+01:10:36,280 --> 01:10:38,520
+So he's got to kill his daughter.
+
+750
+01:10:38,761 --> 01:10:45,160
+The threat from the life of Ephigenia by Artemis is going to backfire.
+
+751
+01:10:45,160 --> 01:10:47,960
+It's just going to add one more innocent person.
+
+752
+01:10:47,960 --> 01:10:49,641
+And now we've gotten to where I can stop.
+
+753
+01:10:49,641 --> 01:10:50,360
+It's just fine.
+
+754
+01:10:50,361 --> 01:10:57,240
+But I just want to tell you, now read the Agamemnon, but I've got you to the point where poor Agamemnon is in a terrible situation.
+
+755
+01:10:57,240 --> 01:10:58,920
+I just want to make it clear.
+
+756
+01:10:58,920 --> 01:11:03,801
+If he doesn't kill Ephigenia, he doesn't do his job as king.
+
+757
+01:11:03,801 --> 01:11:05,560
+He doesn't keep his promise.
+
+758
+01:11:05,561 --> 01:11:08,601
+He doesn't support the side of Zeus.
+
+759
+01:11:08,601 --> 01:11:10,841
+And that's terrifically bad.
+
+760
+01:11:10,841 --> 01:11:16,920
+However, if he kills his daughter, he offends the people who defend young people.
+
+761
+01:11:16,920 --> 01:11:20,040
+He's going to get in trouble with Clytemnestra, his wife.
+
+762
+01:11:20,040 --> 01:11:21,080
+It's a disaster.
+
+763
+01:11:21,080 --> 01:11:22,200
+And he loves her.
+
+764
+01:11:22,200 --> 01:11:25,160
+So Agamemnon is in a hopeless situation.
+
+765
+01:11:25,160 --> 01:11:26,600
+Wait and see what he does.

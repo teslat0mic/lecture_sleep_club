@@ -1,0 +1,2980 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:12,240
+An important distinction for those particularly who know philosophy, and even more particularly for those who know Kant, is that Heidegger wants to make a distinction between what he calls the categories.
+
+2
+00:00:12,239 --> 00:00:18,799
+This is on page 70, page 44 of the German, and the existentials.
+
+3
+00:00:18,799 --> 00:00:22,560
+And the now let's start with the categories.
+
+4
+00:00:22,559 --> 00:00:31,919
+Starting with Aristotle, Aristotle tried to list the properties of all objects just insofar as they were objects.
+
+5
+00:00:31,919 --> 00:00:41,280
+They had causal relations, they were at some place, they were at some time, they had properties, and so forth.
+
+6
+00:00:41,280 --> 00:00:48,639
+And he gave a kind of grab bag list of categories that were the properties of objects.
+
+7
+00:00:48,639 --> 00:01:08,039
+And then Kant, being very thorough and German and architectonic, listed them as twelve categories and put them into four subclasses of three each, and each of those three were related to each other, and said that they were the structure of objects in general.
+
+8
+00:01:08,039 --> 00:01:13,959
+And there was causality and substance and relation and quantity and quality and so forth on the list.
+
+9
+00:01:13,960 --> 00:01:17,240
+Now, Heidegger goes along with that.
+
+10
+00:01:17,639 --> 00:01:27,160
+When he's going to talk about categories, he's perfectly happy to talk about the categories as the general structure of substances.
+
+11
+00:01:27,160 --> 00:01:36,520
+He won't like to call them objects, I keep saying, because that's a Descartes interpretation of what it is to be a substance, and it goes with being a subject and so forth.
+
+12
+00:01:36,520 --> 00:01:38,520
+But let's say substances.
+
+13
+00:01:38,840 --> 00:01:43,080
+So categories are the general structure of substances.
+
+14
+00:01:43,080 --> 00:01:47,479
+And on page 70, he says that somewhere.
+
+15
+00:01:47,479 --> 00:01:48,199
+At least so.
+
+16
+00:01:48,280 --> 00:01:52,199
+Oh, I'm looking at the German numbers instead of the.
+
+17
+00:01:52,520 --> 00:01:53,799
+Here we go.
+
+18
+00:01:53,799 --> 00:02:01,640
+So he talks about, I'll just read the beginning of that paragraph, second sentence.
+
+19
+00:02:01,640 --> 00:02:08,600
+Because Dasein's characters of being are defined in terms of existentiality, we call them existentialia.
+
+20
+00:02:08,600 --> 00:02:11,239
+I haven't got to that yet, but that's the next thing.
+
+21
+00:02:11,559 --> 00:02:20,760
+These are to be sharply distinguished from what we call categories, characteristics of being for entities whose character is not that of Dasein.
+
+22
+00:02:20,759 --> 00:02:25,319
+It's really characteristic of beings, that is, entities.
+
+23
+00:02:26,200 --> 00:02:28,760
+Or it could be general characteristics.
+
+24
+00:02:28,759 --> 00:02:29,479
+It doesn't matter.
+
+25
+00:02:29,479 --> 00:02:31,080
+We're not going to worry about that.
+
+26
+00:02:31,080 --> 00:02:34,840
+It doesn't affect anything we're interested in.
+
+27
+00:02:34,840 --> 00:02:37,640
+What's interesting is the existentialia.
+
+28
+00:02:38,119 --> 00:02:39,720
+Here's a trick question.
+
+29
+00:02:39,720 --> 00:02:46,760
+If the categories are the structure of objects, what would you expect the existentialia to be?
+
+30
+00:02:49,520 --> 00:02:52,720
+Well, I mean, I've warned you it's a trick question.
+
+31
+00:02:52,720 --> 00:02:59,600
+I mean, it looks like if you knew Kant, you'd say, well, they're the general structure of subjects, or Descartes.
+
+32
+00:02:59,600 --> 00:03:03,520
+And after all, but I've already said Heidegger wouldn't be saying that.
+
+33
+00:03:03,520 --> 00:03:13,760
+So the existentialia are not, even though the categories are the structure of objects roughly or substances, the existentialia are characteristics of what?
+
+34
+00:03:13,759 --> 00:03:14,879
+Of us.
+
+35
+00:03:15,200 --> 00:03:18,879
+And we're not present at hand, substances.
+
+36
+00:03:18,879 --> 00:03:20,640
+We're not substances at all.
+
+37
+00:03:20,640 --> 00:03:24,239
+Our way of being is existence, and we talked about that.
+
+38
+00:03:24,239 --> 00:03:26,480
+Now, somebody had a hand up already about that.
+
+39
+00:03:26,479 --> 00:03:26,960
+No?
+
+40
+00:03:26,960 --> 00:03:27,600
+Okay.
+
+41
+00:03:28,239 --> 00:03:34,240
+So that's got to be talked about at some point, but not necessarily, but I don't have anything more.
+
+42
+00:03:34,320 --> 00:03:36,640
+There's nothing more you need to say about it.
+
+43
+00:03:37,600 --> 00:03:40,400
+It's so, well, I'll tell you one more thing about it.
+
+44
+00:03:40,400 --> 00:03:46,400
+It's a sort of problem for Heidegger because he doesn't really know where to put equipment.
+
+45
+00:03:46,400 --> 00:03:53,919
+Where would you put something which is not a substance, which is holistic and has aspects?
+
+46
+00:03:53,919 --> 00:03:56,400
+We talked about that when we talked about hammers.
+
+47
+00:03:56,400 --> 00:03:58,240
+We did talk about hammers already, didn't we?
+
+48
+00:03:58,479 --> 00:03:59,840
+I want to make sure.
+
+49
+00:04:00,160 --> 00:04:05,119
+Okay, and so it really hammers don't fit very well.
+
+50
+00:04:05,119 --> 00:04:15,759
+They certainly aren't substances self-sufficient with self-sufficient properties, but they certainly, hammers are not, as far as I know, concerned about their being and taking a stand on their being either.
+
+51
+00:04:15,759 --> 00:04:19,280
+So Heidegger's got to stick them in one place or the other.
+
+52
+00:04:19,280 --> 00:04:30,879
+So he defines, he says, well, categories are the general properties of anything that isn't a Dasein and throws them into the category place.
+
+53
+00:04:30,879 --> 00:04:45,800
+I think that's a mistake because I think categories ought to be for self-sufficient substances, and I think that you just need another name for the general characteristic of substances, of equipment, and Heidegger just doesn't have it.
+
+54
+00:04:45,799 --> 00:04:48,840
+I mean, he's got a name for the way of being of equipment.
+
+55
+00:04:48,840 --> 00:04:54,039
+You hopefully all know that by now, namely readiness to hand.
+
+56
+00:04:54,359 --> 00:04:58,679
+But he hasn't got a name for what you would want to say something a lot.
+
+57
+00:04:58,759 --> 00:05:02,600
+He has lots of things to say about the general structure of equipment.
+
+58
+00:05:02,600 --> 00:05:06,039
+We may get there today, and we'll certainly spend a lot of time on that next time.
+
+59
+00:05:06,039 --> 00:05:12,520
+And it was a major part of what you were supposed to be reading for this week up to page what is 102, I think.
+
+60
+00:05:15,080 --> 00:05:18,039
+Well, I don't have it handy.
+
+61
+00:05:18,200 --> 00:05:18,679
+What is it?
+
+62
+00:05:18,679 --> 00:05:19,559
+Anybody got a syllabus?
+
+63
+00:05:19,720 --> 00:05:20,119
+I think it's.
+
+64
+00:05:20,200 --> 00:05:20,840
+I was trying to.
+
+65
+00:05:21,400 --> 00:05:23,079
+104, something like that.
+
+66
+00:05:23,080 --> 00:05:23,559
+Okay.
+
+67
+00:05:23,560 --> 00:05:30,280
+Now, so let me go back then, having jumped to the end, and started where I want to start.
+
+68
+00:05:30,600 --> 00:05:42,280
+And that is to remind you where we are after a big break that we've mostly been talking about the three modes of being.
+
+69
+00:05:42,440 --> 00:05:46,600
+So that this was a kind of review to talk about categories and existentials.
+
+70
+00:05:46,600 --> 00:06:02,200
+The three modes of being, of substances whose way of being is presence at hand, of equipment, whose way of being is readiness to hand, and of us, whose way of being is existence, meaning taking a stand on its being.
+
+71
+00:06:02,200 --> 00:06:04,279
+That's, I take it, done.
+
+72
+00:06:04,279 --> 00:06:10,040
+I mean, w we've I hope I've covered it enough and that we just can now take it for granted.
+
+73
+00:06:10,040 --> 00:06:14,200
+But what we haven't covered enough, and it's going to be abstract for a while.
+
+74
+00:06:14,200 --> 00:06:18,000
+This is going to be a funny lecture if it goes off the way I've written it down.
+
+75
+00:06:17,999 --> 00:06:21,119
+We and that depends on what kind of questions you guys ask.
+
+76
+00:06:17,639 --> 00:06:25,119
+But in general, it starts out, I'm afraid, very abstract.
+
+77
+00:06:25,440 --> 00:06:34,000
+And if you don't get that, it does, don't worry about it, because it's the issues that come up in the introduction and the introduction I want to come back to at the end.
+
+78
+00:06:33,999 --> 00:06:43,920
+But I have to say something about being at the beginning so that you can see why Heidegger's saying what he's saying and where he's heading.
+
+79
+00:06:43,920 --> 00:06:51,200
+And then it suddenly becomes very concrete, and he has detailed things to say about hammering.
+
+80
+00:06:51,200 --> 00:06:56,320
+But so, what do the three modes of being had in common?
+
+81
+00:06:56,320 --> 00:07:00,399
+Well, first you want to get out of the way, wrong ways.
+
+82
+00:07:00,399 --> 00:07:02,720
+That's one reason I have to talk about it.
+
+83
+00:07:02,720 --> 00:07:11,840
+Once upon a time, in fact, up to Heidegger, whatever it was about being, it was always about substances.
+
+84
+00:07:11,840 --> 00:07:20,000
+So the modes of being would be different kinds of substances, numbers and God and trees and people.
+
+85
+00:07:19,999 --> 00:07:24,560
+But the answer what made them all beings was they were all substances.
+
+86
+00:07:24,560 --> 00:07:27,360
+And that's certainly not Heidegger's line.
+
+87
+00:07:27,999 --> 00:07:35,600
+Another way people thought of being that Heidegger doesn't care for is that it's what he calls beingness.
+
+88
+00:07:35,600 --> 00:07:38,080
+That would be the most general property.
+
+89
+00:07:38,080 --> 00:07:44,560
+But it had the general property of everything, or at least the most general property of what's present at hand.
+
+90
+00:07:44,800 --> 00:07:53,839
+But probably it, I mean, when people talk about beingness, they've got to include numbers and artworks and things that don't fall under presence at hand.
+
+91
+00:07:53,840 --> 00:07:57,520
+But Heidegger's not going to talk about beingness either.
+
+92
+00:07:57,519 --> 00:08:17,000
+And the main reason I'm saying all this is to get you out of the third possible mistake, which you were lured into by something very, very bad about this translation, but it's typical of most Heidegger translations, that you get being with a capital B.
+
+93
+00:08:17,320 --> 00:08:27,080
+You should, I mean, I hate to tell you to sort of constantly be marking up your books, but in your mind, at least, whenever you see being, you have to see it with a lowercase B.
+
+94
+00:08:27,399 --> 00:08:45,880
+Just as there are lots of other things, mistakes that run through it that I'll point out as I go, that you just don't, but when you hand in your papers, put being in lowercase B in the quotes to show that you've understood that you're not supposed to slavishly believe the translation.
+
+95
+00:08:45,879 --> 00:08:51,320
+You're supposed to believe me, or if not me, Heidegger, but certainly not the people.
+
+96
+00:08:51,320 --> 00:08:54,359
+And why would they even think that being had a capital B?
+
+97
+00:08:54,359 --> 00:08:56,920
+Well, two wrong reasons.
+
+98
+00:08:56,919 --> 00:09:03,319
+One, people think of God as the supreme being and write it with a capital G.
+
+99
+00:09:03,560 --> 00:09:07,800
+And I suppose when you write supreme being, I don't know, do you write it with a capital B?
+
+100
+00:09:07,800 --> 00:09:09,159
+Do you know, Dave?
+
+101
+00:09:10,040 --> 00:09:11,000
+I suppose.
+
+102
+00:09:12,440 --> 00:09:13,399
+But that's wrong.
+
+103
+00:09:13,800 --> 00:09:15,559
+Being isn't something with a capital B.
+
+104
+00:09:15,560 --> 00:09:20,040
+It isn't like Plato's the good, and it isn't the supreme being.
+
+105
+00:09:20,279 --> 00:09:22,920
+And so we've got to drop that.
+
+106
+00:09:23,239 --> 00:09:30,680
+And all of these modes of being had something to do with what made the world intelligible to us.
+
+107
+00:09:30,680 --> 00:09:35,160
+I mean, you can see it most clearly with God as the supreme being.
+
+108
+00:09:35,159 --> 00:09:45,720
+He made the world completely intelligible by making it to us the kind of beings whose mind was exactly adapted to the way the creation was made.
+
+109
+00:09:45,720 --> 00:09:46,119
+Yeah.
+
+110
+00:09:49,119 --> 00:09:50,000
+That's good you asked.
+
+111
+00:09:49,999 --> 00:09:50,479
+It's funny.
+
+112
+00:09:50,479 --> 00:09:53,359
+I forgot to say a sentence and you just asked for it.
+
+113
+00:09:53,359 --> 00:09:58,880
+Yeah, there is, it's, the word in German for being is sein, S-E-I-N.
+
+114
+00:09:58,879 --> 00:09:59,840
+Very simple.
+
+115
+00:09:59,840 --> 00:10:02,800
+And it's always capitalized in German.
+
+116
+00:10:02,800 --> 00:10:06,640
+Now, because all nouns are capitalized in German.
+
+117
+00:10:06,639 --> 00:10:12,479
+So chair is also with a capital C, but people don't go around thinking of the supreme chair.
+
+118
+00:10:12,479 --> 00:10:23,680
+But they somehow, as soon as they see a capital B, even though it's just the word sein, and the capital is doing no job, they equate it with some super being.
+
+119
+00:10:23,680 --> 00:10:25,600
+So and so that's the answer.
+
+120
+00:10:25,600 --> 00:10:38,960
+There is nothing, you're perfectly okay to use being for the supreme being if you believe in the supreme being with a capital B, but nothing in German sort of supports that or opposes it either.
+
+121
+00:10:38,960 --> 00:10:40,079
+Is that all clear?
+
+122
+00:10:40,080 --> 00:10:56,960
+I mean, just so it's just important to understand that whatever being is, and I haven't told you yet, and it's hard to get sure what, it's whatever all these three have in common, it's not going to be some entity, some super entity like the supreme being.
+
+123
+00:10:57,280 --> 00:10:58,559
+And what is it then?
+
+124
+00:10:58,560 --> 00:11:09,360
+Well, Heidegger defines being sort of in passing, not as if he was really giving you a big deal definition, but it's the best you can get because he doesn't do it anywhere else.
+
+125
+00:11:09,359 --> 00:11:16,080
+And that's that the bottom of 25, which is page 6 of the German.
+
+126
+00:11:16,639 --> 00:11:17,680
+Did I read this already?
+
+127
+00:11:18,399 --> 00:11:19,359
+I did, I think.
+
+128
+00:11:19,359 --> 00:11:22,560
+Okay, I'm reading, I'm going to read it again just because it's important.
+
+129
+00:11:22,560 --> 00:11:33,960
+So he talks about being is that on the basis of which, it's the very, very bottom, that's this Worldf Hin, entities are already understood.
+
+130
+00:11:33,960 --> 00:11:36,600
+And that is, now we can say something.
+
+131
+00:11:33,359 --> 00:11:37,560
+Uh-oh.
+
+132
+00:11:40,040 --> 00:11:41,400
+I think I can do mine.
+
+133
+00:11:46,840 --> 00:11:47,399
+There.
+
+134
+00:11:47,399 --> 00:11:48,760
+It's on, isn't it?
+
+135
+00:11:50,040 --> 00:11:51,800
+I can see whether it's on.
+
+136
+00:11:52,119 --> 00:11:52,680
+So.
+
+137
+00:12:00,040 --> 00:12:00,680
+Okay.
+
+138
+00:12:00,999 --> 00:12:08,840
+So whatever being is, it's got to do with what you could call intelligibility.
+
+139
+00:12:08,840 --> 00:12:17,239
+It is that on the basis of which everything that we deal with makes sense or is intelligible to us.
+
+140
+00:12:17,239 --> 00:12:30,120
+That is, we, substances are intelligible to us, and so there, and the understanding that goes with that, the understanding of being that goes with that is readiness to hand.
+
+141
+00:12:30,119 --> 00:12:32,520
+And sorry, presence at hand.
+
+142
+00:12:32,519 --> 00:12:38,759
+Equipment is intelligible because we can understand its way of being readiness to hand.
+
+143
+00:12:38,759 --> 00:12:46,040
+And we're intelligible because we have a kind of being which is dedicated to making sense of ourselves.
+
+144
+00:12:46,040 --> 00:12:54,600
+So it looks like being is something like the most general properties of things that they're intelligible.
+
+145
+00:12:55,239 --> 00:13:02,200
+But that's a tricky thing because intelligible is not some general property.
+
+146
+00:13:03,479 --> 00:13:10,679
+It's a kind of holistic, I don't know what, characteristic, or it is something.
+
+147
+00:13:10,680 --> 00:13:17,880
+I mean, a property, remember, is sort of independent of other properties and therefore not all interrelated.
+
+148
+00:13:17,879 --> 00:13:27,280
+Whereas Heidegger's going to argue that nothing that we cope with is intelligible except in connection with a whole lot of other stuff we cope with.
+
+149
+00:13:27,600 --> 00:13:36,239
+And intelligibility is this, you just can't find any word for it.
+
+150
+00:13:36,239 --> 00:13:39,920
+I mean, besides being, I want to say it's this basic feature of everything.
+
+151
+00:13:39,920 --> 00:13:41,920
+The feature is a very bad thing to say.
+
+152
+00:13:41,920 --> 00:13:43,279
+It's a property of everything.
+
+153
+00:13:43,279 --> 00:13:46,479
+Well, that's taken over and reserved too by Aristotle.
+
+154
+00:13:46,479 --> 00:13:52,639
+It's an aspect of things, no, although that might be a little closer because aspects would be holistic.
+
+155
+00:13:52,639 --> 00:13:56,080
+It's just that things make sense to us.
+
+156
+00:13:57,040 --> 00:13:59,200
+That's intelligibility.
+
+157
+00:14:00,320 --> 00:14:12,159
+And it's the capacity to make sense of things, which is finally whatever being is, it is.
+
+158
+00:14:12,479 --> 00:14:14,560
+Now sorry, that's two things.
+
+159
+00:14:14,560 --> 00:14:21,840
+We've got the capacity to make sense of things, and Heidegger calls that our understanding of being.
+
+160
+00:14:22,159 --> 00:14:26,639
+Being is just the things are intelligible, that they make sense.
+
+161
+00:14:26,639 --> 00:14:30,719
+And then that's about all you can say about it.
+
+162
+00:14:30,719 --> 00:14:36,399
+Except it turns out there's something, one more thing that's very important you can say about it.
+
+163
+00:14:36,399 --> 00:14:39,840
+And that's that it's the Borauf Hin.
+
+164
+00:14:39,840 --> 00:14:46,080
+It's being is that on the basis of which beings are understood.
+
+165
+00:14:46,080 --> 00:14:50,840
+And that means, and that's what I want to talk about, and I said it has to be sort of abstract.
+
+166
+00:14:50,840 --> 00:14:53,039
+Being is the background.
+
+167
+00:14:53,040 --> 00:15:01,119
+That's the it's it's something that is has to be in place for anything to be intelligible.
+
+168
+00:15:01,119 --> 00:15:06,679
+But it's not what we're thinking about when we're dealing or when we're thinking about things and dealing with them.
+
+169
+00:15:07,000 --> 00:15:14,519
+It stays in it's a cup it's some it's what we can understand by coping with things.
+
+170
+00:15:14,520 --> 00:15:18,600
+We understand equipment and its way of being and so forth.
+
+171
+00:15:18,600 --> 00:15:33,959
+And that kind of understanding that enables us to tell the difference, so to speak, from substances to equipment, people, we see their different kinds of being because we have this understanding in the background.
+
+172
+00:15:33,959 --> 00:15:36,199
+And how and where is it in the background?
+
+173
+00:15:36,199 --> 00:15:38,840
+Well, it's in our practices.
+
+174
+00:15:38,840 --> 00:15:44,040
+We are able to deal with substances, equipment, and people.
+
+175
+00:15:44,520 --> 00:15:48,919
+It sounds on the one hand very abstract, and on the other hand, very concrete.
+
+176
+00:15:48,919 --> 00:15:50,679
+We know how to pick up hammers.
+
+177
+00:15:50,679 --> 00:15:57,560
+We don't talk to them and scold them if they hit our fingers because that's not appropriate part to the understanding of hammers.
+
+178
+00:15:58,040 --> 00:16:01,239
+We know how to deal with people with us.
+
+179
+00:16:01,399 --> 00:16:03,479
+We know how to deal with substances.
+
+180
+00:16:03,480 --> 00:16:08,600
+And that know-how is in the background whenever we deal with anything.
+
+181
+00:16:08,600 --> 00:16:12,040
+And that's as close to being as you can get in Heidegger.
+
+182
+00:16:12,040 --> 00:16:12,679
+Yeah.
+
+183
+00:16:17,480 --> 00:16:23,879
+Well, I say it's a relation in the sense that things are always intelligible with respect to us understanding them.
+
+184
+00:16:23,879 --> 00:16:24,600
+That's right.
+
+185
+00:16:24,600 --> 00:16:30,600
+Remember I quoted that strange phrase, being depends on us, though the beings don't.
+
+186
+00:16:30,600 --> 00:16:36,999
+And that's because intelligibility depends on us, but not hammers or stars.
+
+187
+00:16:38,280 --> 00:16:46,919
+But we have the practices and the skills for making sense of hammers and stars, and by knowing how to deal with them.
+
+188
+00:16:47,320 --> 00:16:48,639
+That's all hard to talk about.
+
+189
+00:16:48,639 --> 00:16:53,359
+And you'll see in a minute that Heidegger knows it's hard, and everybody knows it's hard.
+
+190
+00:16:48,439 --> 00:16:55,359
+But let's see if I've got what I want.
+
+191
+00:17:00,159 --> 00:17:14,480
+And on the basis of which I take to being that it's always there in the background these coping skills, whenever we do any hammering or look at any substances or worry about or just take a stand on who we are.
+
+192
+00:17:19,600 --> 00:17:27,840
+And later Heidegger's going to call this background know-how our familiarity.
+
+193
+00:17:27,919 --> 00:17:29,280
+We'll come back to that.
+
+194
+00:17:30,480 --> 00:17:35,279
+We are familiar with hammers and substances and people.
+
+195
+00:17:35,760 --> 00:17:41,439
+That familiarity is another, one of his names for this characteristic.
+
+196
+00:17:42,719 --> 00:17:55,920
+And since Dasein is the basis on which we make sense of all modes of being, we get back to fundamental ontology, which we already talked about last time, I think, didn't we?
+
+197
+00:17:56,320 --> 00:17:58,480
+It's been so long, I can't remember for sure.
+
+198
+00:17:58,480 --> 00:18:01,840
+But okay, and that was the top of 34.
+
+199
+00:18:02,320 --> 00:18:09,840
+The fundamental ontology, from which alone all other ontologies can take their rise, must be sought in the existential analytic of Dasein.
+
+200
+00:18:10,080 --> 00:18:26,879
+If Dasein is the being that understands beings, that is the source of intelligence, if Dasein is the source of intelligibility of every sort of being, then to do fundamental ontology, you've got to understand what Dasein and how he does that.
+
+201
+00:18:27,199 --> 00:18:29,119
+And that's what we're going to talk about now.
+
+202
+00:18:30,320 --> 00:18:46,279
+How does Dasein work or become or do the job of being the background on the basis of which all sorts of beings are understood, whether they're tables or rocks or people, it doesn't matter.
+
+203
+00:18:46,280 --> 00:18:47,960
+Dasein does it.
+
+204
+00:18:48,600 --> 00:18:50,359
+And it does it.
+
+205
+00:18:50,359 --> 00:18:52,359
+And I said this, but I have to stress it.
+
+206
+00:18:52,679 --> 00:18:58,919
+We understand things by coping with them, according to Heidegger, not by thinking about them.
+
+207
+00:18:58,919 --> 00:19:01,560
+Or, well, period.
+
+208
+00:19:01,719 --> 00:19:06,840
+That would be the other alternative, that we understand them by having beliefs about them and what you can do with them.
+
+209
+00:19:06,840 --> 00:19:12,119
+You could have beliefs about what equipment is and what you can do with it and what you can't do with it.
+
+210
+00:19:12,520 --> 00:19:14,519
+And we do have beliefs about it.
+
+211
+00:19:14,520 --> 00:19:18,119
+But basically, we just deal with it.
+
+212
+00:19:18,119 --> 00:19:24,919
+And in our dealings, is already an understanding of what it is to be equipment, for instance.
+
+213
+00:19:24,919 --> 00:19:27,560
+So now I want to talk about that for a while.
+
+214
+00:19:28,520 --> 00:19:44,999
+So first I want to read you something because I said the understanding of being is for Heidegger the way we provide a background for making sense of Erbrigg thing.
+
+215
+00:19:45,000 --> 00:19:54,679
+And the best quote on that, and Heidegger, by understanding, doesn't mean anything cognitive, it doesn't mean anything thinking.
+
+216
+00:19:54,679 --> 00:20:02,840
+I keep using the phrase know-how, but we've now got to actually make clear what that is.
+
+217
+00:20:03,480 --> 00:20:22,399
+At the top of 28, which is the German 8, he says, right at the top of 28, being arises from the average understanding of being in which we always operate and which in the end belongs to the essential constitution of Dasein.
+
+218
+00:20:18,280 --> 00:20:24,719
+That's what I'm trying to explain now.
+
+219
+00:20:25,280 --> 00:20:28,879
+So intelligibility arises from our understanding.
+
+220
+00:20:28,879 --> 00:20:29,359
+How?
+
+221
+00:20:29,600 --> 00:20:35,919
+Well, again, not by what we think, but by, I hope I have a, yeah, here I got it.
+
+222
+00:20:36,240 --> 00:20:37,199
+The following.
+
+223
+00:20:37,199 --> 00:20:40,239
+Now on 276 of basic problems.
+
+224
+00:20:40,240 --> 00:20:45,279
+It's the best account, partly because I'm afraid the translator sort of cheats.
+
+225
+00:20:45,280 --> 00:20:56,159
+It makes it even better, of what understanding means to Heidegger than anybody else has got, and it's certainly important to get it right.
+
+226
+00:20:56,159 --> 00:21:02,320
+It's all the problem is, and you'll see Heidegger struggling with this, the Germans don't have any word for skill.
+
+227
+00:21:02,959 --> 00:21:06,320
+And oddly enough, parenthetically, neither do the French.
+
+228
+00:21:06,320 --> 00:21:09,519
+And the same awfulness occurs in Merillau-Ponty.
+
+229
+00:21:09,520 --> 00:21:10,720
+We're so lucky.
+
+230
+00:21:11,359 --> 00:21:18,959
+We've got skill, and we've got the phrase know-how, which Dewey introduced into philosophy and pragmatism.
+
+231
+00:21:18,959 --> 00:21:25,040
+And it's, listen to Heidegger's struggle with this on 276, about 12 lines from the bottom.
+
+232
+00:21:25,679 --> 00:21:29,280
+Most of you aren't going to be carrying around basic problems too.
+
+233
+00:21:29,280 --> 00:21:35,999
+But in German, we say that someone can forstein something.
+
+234
+00:21:36,000 --> 00:21:37,840
+Well, fürsteen is understand.
+
+235
+00:21:37,840 --> 00:21:43,600
+And forsteen means, now he goes on, literally stand in front of it or ahead of it.
+
+236
+00:21:43,600 --> 00:21:49,600
+That is, administer it, manage it, provido, preside over it.
+
+237
+00:21:49,919 --> 00:21:54,560
+This is equivalent to saying that he fürstetzich der Hauf.
+
+238
+00:21:54,560 --> 00:21:57,159
+He has an understanding of it.
+
+239
+00:21:57,159 --> 00:22:06,919
+Understands it in the sense, and now the translator puts it in, in the sense of being skilled or expert at it, has the know-how of it.
+
+240
+00:22:03,439 --> 00:22:10,040
+I mean, but it's so nice that that's exactly right.
+
+241
+00:22:10,359 --> 00:22:22,840
+That it's something like understanding, I don't know what, understanding, I'm trying to think something just ordinary.
+
+242
+00:22:22,840 --> 00:22:24,840
+He understands cars.
+
+243
+00:22:25,159 --> 00:22:30,759
+I mean, when he understands cars, that's not an intellectual thing, although he probably knows sort of how they work.
+
+244
+00:22:30,760 --> 00:22:33,320
+But it's this business of knowing how to manage it.
+
+245
+00:22:33,639 --> 00:22:35,320
+Let's go through this again.
+
+246
+00:22:38,199 --> 00:22:43,479
+Being skilled at dealing with them, having the know-how of how to handle them, and so forth.
+
+247
+00:22:43,480 --> 00:22:44,359
+So I'm going to go on.
+
+248
+00:22:44,359 --> 00:22:50,519
+The meaning of the term understanding is intended to go back to this usage in ordinary language.
+
+249
+00:22:50,520 --> 00:22:51,560
+Poor Heidegger.
+
+250
+00:22:51,560 --> 00:22:54,679
+So he hasn't got, you know, know-how or skill.
+
+251
+00:22:54,679 --> 00:23:11,320
+The best he's got is this phrase that somebody understands it, in that peculiar way that you could understand cars or understand, I don't know, France or something like that, where it means you can skillfully cope with it.
+
+252
+00:23:11,639 --> 00:23:21,320
+And he says, this understanding is the condition of the possibility of all kinds of comportment, not only practical but cognitive.
+
+253
+00:23:21,959 --> 00:23:29,560
+He's using know-how in such a fundamental way that it not only covers skillful coping, but skillful thinking.
+
+254
+00:23:29,560 --> 00:23:31,959
+That's all understanding and know-how.
+
+255
+00:23:31,959 --> 00:23:40,439
+So he's not going to exclude intellectual understanding from his notion of understanding, but it just becomes a special case of it.
+
+256
+00:23:40,439 --> 00:23:43,239
+And it isn't even the best case of it.
+
+257
+00:23:43,240 --> 00:23:47,239
+The best case of understanding is picking up a hammer and hammering with it.
+
+258
+00:23:47,719 --> 00:23:48,600
+Period for him.
+
+259
+00:23:49,199 --> 00:23:59,600
+Now, it may be the moment when I want to go to the handout where, because I find myself saying something that's good that I thought was so good that I put it on the handout.
+
+260
+00:23:59,600 --> 00:24:00,480
+Let's see.
+
+261
+00:24:02,719 --> 00:24:03,679
+Yes.
+
+262
+00:24:04,000 --> 00:24:10,080
+So, but I just want to say, so our skills turn out to be pre-reflective, pre-conceptual.
+
+263
+00:24:10,399 --> 00:24:16,320
+That's what I try to talk about when I talk about absorbed coping.
+
+264
+00:24:16,320 --> 00:24:30,080
+Now, to give, and that's so important because that is the rock-bottom phenomenon that Heidegger sees that nobody in the tradition ever thought about.
+
+265
+00:24:30,399 --> 00:24:35,359
+And Treston is, hmm, I can always get it back from somebody.
+
+266
+00:24:35,359 --> 00:24:37,280
+I need one, I need a copy of the handout.
+
+267
+00:24:37,280 --> 00:24:39,439
+I trust we didn't give them all out.
+
+268
+00:24:41,199 --> 00:24:42,240
+Thanks.
+
+269
+00:24:42,560 --> 00:24:44,320
+Did we give them all out?
+
+270
+00:24:44,639 --> 00:24:46,959
+Anyone not got the handout?
+
+271
+00:24:47,280 --> 00:24:48,240
+You didn't get one.
+
+272
+00:24:48,240 --> 00:24:49,679
+I made 160.
+
+273
+00:24:49,679 --> 00:24:50,639
+This room isn't supposed to.
+
+274
+00:24:50,800 --> 00:24:52,080
+You got some more up there?
+
+275
+00:24:52,080 --> 00:24:52,879
+Ah, good.
+
+276
+00:24:52,879 --> 00:24:54,000
+Adam has some.
+
+277
+00:24:54,000 --> 00:25:09,039
+Okay, I'm going to read what I, by the way, on the handout, I put on one side this complicated chart, which is going to show it's got everything in it that you could possibly want to know about the ready-to-hand, the unready-to-hand, the present-to-hand, but I don't want to talk about that right now.
+
+278
+00:25:09,040 --> 00:25:23,679
+On the back, it's got for the formal indication fans, if there are any, some quotes argue of showing, I think, that what Heidegger means by formal indication is like what similar, what Kripke means by rigid designation.
+
+279
+00:25:23,679 --> 00:25:25,039
+But that's, I talked about that.
+
+280
+00:25:25,040 --> 00:25:26,320
+I'm not going to go back to that.
+
+281
+00:25:26,320 --> 00:25:30,959
+What I want to read is the thing at the bottom there, our basic way of being.
+
+282
+00:25:31,280 --> 00:25:44,439
+Because it is, even the Heidegger readers don't understand this, even my own students don't understand this, that it's more basic than even seeing something as something.
+
+283
+00:25:44,439 --> 00:25:54,919
+That is, it's that already is a kind of too much of an activity of some kind of cognitive activity.
+
+284
+00:25:54,919 --> 00:25:57,800
+And here's, and what he says here is just wonderful.
+
+285
+00:25:57,800 --> 00:26:11,399
+What is first of all given, that is, meaning where the way we are just at our most basic way of dealing with things is the forewriting, for going in and out, for illuminating, for sitting.
+
+286
+00:26:11,399 --> 00:26:15,800
+See, that isn't even seeing the door as a door.
+
+287
+00:26:16,919 --> 00:26:30,199
+It's just being drawn by the door to go out when you need to go out, and being drawn by the windows to open them when it's hot in the room, and being drawn by chairs, particularly if you're tired, to sit on them.
+
+288
+00:26:30,199 --> 00:26:48,440
+It's just, there's just a direct connection between Dasein way of dealing or coping and things that solicit you to talk Gestaltist talk to take advantage of their affordances to talk Gibson talk.
+
+289
+00:26:48,439 --> 00:26:52,199
+I mean, there are a few people in the world who thought this way.
+
+290
+00:26:52,359 --> 00:26:58,999
+The Gestalt psychologists are one, and the ecological psychologist James Gibson is another.
+
+291
+00:26:59,320 --> 00:27:01,639
+But the best thing is just to stick with Heidegger, I think.
+
+292
+00:27:01,639 --> 00:27:02,759
+So here we go again.
+
+293
+00:27:02,760 --> 00:27:04,760
+What's given is the forewriting and so forth.
+
+294
+00:27:04,760 --> 00:27:10,999
+That is, writing, going in and out, sitting and the like are what we are a priori involved with.
+
+295
+00:27:11,000 --> 00:27:17,879
+That is, before, when he says a priori, it doesn't mean some fancy Kantian thing of universal and necessary.
+
+296
+00:27:17,879 --> 00:27:32,320
+It just means at the most basic level, sort of prior to anything else, but not temporally prior, but just that everything else we do presupposes we can already do this.
+
+297
+00:27:32,320 --> 00:27:33,840
+So, and what is it?
+
+298
+00:27:34,399 --> 00:27:39,039
+And what we know, it's what we know when we know our way around.
+
+299
+00:27:39,040 --> 00:27:46,479
+And when we learn the four watts, the four watts are the blackboards for writing on and so forth.
+
+300
+00:27:46,480 --> 00:27:50,879
+But it's even more basic than that because it's just the to write on.
+
+301
+00:27:50,879 --> 00:27:52,800
+You don't even have to put the blackboard in.
+
+302
+00:27:52,800 --> 00:27:59,760
+That's what my students are always putting doors in and then saying, and you see the door as the way out, and you see the blackboard as the thing to write on.
+
+303
+00:27:59,760 --> 00:28:05,280
+You can do that, particularly if something is going wrong with your, and you want to get out and the door is stuck.
+
+304
+00:28:06,159 --> 00:28:15,119
+But basically, the world is just there drawing you to do whatever at any given time you need to do it.
+
+305
+00:28:15,119 --> 00:28:18,400
+And that's what you know when you know your way around in the world.
+
+306
+00:28:18,399 --> 00:28:24,800
+That's what every kid has to gradually learn: that the floor is to walk on and so forth.
+
+307
+00:28:25,040 --> 00:28:25,920
+You want to say something?
+
+308
+00:28:25,919 --> 00:28:27,359
+It looks like, did you have a hand up?
+
+309
+00:28:27,359 --> 00:28:27,919
+No.
+
+310
+00:28:27,919 --> 00:28:28,480
+Okay.
+
+311
+00:28:28,800 --> 00:28:35,519
+So, and finding your way around in the world, just a second, is a sort of nice Heideggerian way to put it.
+
+312
+00:28:35,520 --> 00:28:42,080
+It's also a way that Wittgenstein puts it, you'll see in a minute, Wittgenstein and Heidegger converge at this deep level.
+
+313
+00:28:42,560 --> 00:28:52,879
+And it's the most basic kind of know-how we've got is just knowing how to cope with things, knowing how to do whatever we need to do.
+
+314
+00:28:53,199 --> 00:28:55,239
+Now I say something.
+
+315
+00:28:54,959 --> 00:29:02,199
+Ah.
+
+316
+00:29:01,760 --> 00:29:07,160
+Ah, good question.
+
+317
+00:29:07,399 --> 00:29:13,080
+I think they don't have to be cultural objects at all, although I'll have to make some qualifications.
+
+318
+00:29:13,080 --> 00:29:15,959
+But I mean, to begin with, let's take a tree.
+
+319
+00:29:15,959 --> 00:29:34,999
+I mean, you could know how to climb a tree, and you could use the tree as equipment for getting away from animals, sleeping up there, or you could use it for equipment to get a coconut switcher up there, and you have a skill, and the tree would have a to climb.
+
+320
+00:29:35,000 --> 00:29:36,919
+And so it doesn't have to be cultural.
+
+321
+00:29:36,919 --> 00:29:40,679
+It just has to connect up with our needs and purposes.
+
+322
+00:29:40,679 --> 00:29:42,840
+Lots of them are only in our culture.
+
+323
+00:29:42,840 --> 00:29:47,879
+I mean, their hammering is certainly not cross-cultural, but equipment is.
+
+324
+00:29:48,919 --> 00:29:57,080
+Every culture has equipment, and therefore it has readiness to hand, and therefore it shows up as the to-do this or that.
+
+325
+00:29:57,080 --> 00:29:58,119
+Good question, yeah.
+
+326
+00:30:18,919 --> 00:30:24,600
+So it may be that it has to be something you tr you teach the young, or the young have to figure it out.
+
+327
+00:30:24,919 --> 00:30:26,679
+I'm not to think about that.
+
+328
+00:30:28,520 --> 00:30:35,399
+Suppose it's just a reflex sort of thing that birds learn how to fly.
+
+329
+00:30:35,399 --> 00:30:38,600
+They just get out of the nest and they do it.
+
+330
+00:30:39,159 --> 00:30:43,240
+So, but i is that a s some coping of this sort?
+
+331
+00:30:43,719 --> 00:30:46,119
+Is that the way of getting around in the world?
+
+332
+00:30:46,159 --> 00:30:48,639
+Uh hmm.
+
+333
+00:30:49,760 --> 00:30:52,959
+Do birds have a know-how when they know how to fly?
+
+334
+00:30:48,119 --> 00:30:53,919
+I don't know.
+
+335
+00:30:54,719 --> 00:30:58,960
+It I don't think it's going to make a big deal difference, but if it does, let me know.
+
+336
+00:30:58,959 --> 00:31:06,800
+I mean, maybe there's something that's importantly incl that we include the birds and animals as having know-how.
+
+337
+00:31:06,800 --> 00:31:18,480
+And maybe it, I mean, they certainly can know how to climb a tree, animals, and it seems to me, yeah, but they don't have to understand it as the being of it is the being of equipment.
+
+338
+00:31:18,480 --> 00:31:32,720
+They don't need to have in their practices an understanding of it in its equipmentality as opposed to its being a substance and having a different way of treating it or being a Daseine and have a different way of treating it.
+
+339
+00:31:32,719 --> 00:31:44,799
+I think that it needn't be cultural, but it better be something that people understand.
+
+340
+00:31:44,799 --> 00:31:49,440
+I mean, when it isn't cultural, I want to think a minute.
+
+341
+00:31:54,239 --> 00:32:05,039
+There's lots of know-how of this very interesting sort that isn't a question of coping, but it's a skillful dealing with things.
+
+342
+00:32:05,040 --> 00:32:07,439
+Oh, let me just say that, and then I'll let Dave say something.
+
+343
+00:32:07,440 --> 00:32:14,799
+I mean, people have a know-how of standing the right distance from each other, which varies from culture to culture and from how important the other person is.
+
+344
+00:32:14,799 --> 00:32:24,400
+And it's not something they believe or have rules for or think about, but it's not in the finding your way around in the world business either.
+
+345
+00:32:24,960 --> 00:32:38,200
+It's a kind of background practice, all right, but it's not a way of dealing with things as substances, equipment, or people.
+
+346
+00:32:38,199 --> 00:32:40,040
+Well, I bet there are paper topics in here.
+
+347
+00:32:40,040 --> 00:32:44,520
+Every time one tries to think about these things, they get harder and they're funny examples.
+
+348
+00:32:44,520 --> 00:32:55,320
+And you never know with a weird example, whether it's sort of some interesting anomaly, which if you focus on it and work at it, you'll learn something important, or whether it's just a marginal case and you don't have to care.
+
+349
+00:32:55,319 --> 00:33:04,840
+But one rule is sure: that start with the paradigm cases, the obvious, easy ones, like hammering to find out what equipment is.
+
+350
+00:33:04,839 --> 00:33:10,600
+And then start asking hard questions, like, if it's in a drawer, is it still a hammer?
+
+351
+00:33:10,600 --> 00:33:14,919
+Or is it only should have got a being of readiness to hand when you're actually hammering?
+
+352
+00:33:14,920 --> 00:33:16,680
+We talked about that already, I believe.
+
+353
+00:33:16,679 --> 00:33:19,719
+Okay, but now I want to see what Dave has to say about this.
+
+354
+00:33:19,719 --> 00:33:19,959
+Yeah.
+
+355
+00:33:20,279 --> 00:33:27,480
+The woods are particularly leisure, it's a place of resources, there's a place to avoid.
+
+356
+00:33:27,480 --> 00:33:29,960
+No, but there's already a kind of know-how, but I'll do that.
+
+357
+00:33:31,560 --> 00:33:32,839
+Okay, yes, you, that's right.
+
+358
+00:33:33,000 --> 00:33:40,200
+Knowing how to get around in the world is knowing what, when you should go to the woods and when you should stay out of the woods and what you should do in the woods.
+
+359
+00:33:40,199 --> 00:33:48,360
+All that know-how is, I suppose, treating the woods as a ready-to-hand, cultural something or other.
+
+360
+00:33:48,360 --> 00:33:49,079
+Yes.
+
+361
+00:33:49,560 --> 00:33:51,399
+Okay, I want to go on.
+
+362
+00:33:52,600 --> 00:33:58,999
+I think, I mean, if there is some difficult, interesting difficulty lurking in there, come and talk to me at office hours about it.
+
+363
+00:33:59,000 --> 00:34:00,919
+Or maybe we'll just fall on it.
+
+364
+00:34:00,920 --> 00:34:02,679
+Right now, I don't see it.
+
+365
+00:34:02,679 --> 00:34:03,399
+But let's go on.
+
+366
+00:34:03,400 --> 00:34:05,959
+Maybe it'll come out even if we go on reading this great passage.
+
+367
+00:34:05,960 --> 00:34:16,520
+Because I consider this passage, which is in this obscure Heidegger book that's only just been translated and hasn't even been published in English yet, the simplest, clearest statement.
+
+368
+00:34:16,520 --> 00:34:18,600
+So we've heard about the two go in and out.
+
+369
+00:34:18,960 --> 00:34:20,159
+Then he gives an example.
+
+370
+00:34:20,159 --> 00:34:33,040
+A blackboard is unintelligible as such, absolutely not present, hidden and useless, almost hidden unless understood for writing on.
+
+371
+00:34:33,360 --> 00:34:43,520
+That is, it wouldn't be a blackboard until people had skills for writing and until it showed up for people as the to write on.
+
+372
+00:34:44,159 --> 00:34:53,680
+Otherwise, there could be some black thing or green thing that you might bump into or use to stop the wind or something.
+
+373
+00:34:53,679 --> 00:34:56,320
+It might be something else, but it wouldn't be a blackboard.
+
+374
+00:34:56,319 --> 00:34:59,119
+The same as for a door, it's for going in and out.
+
+375
+00:34:59,119 --> 00:35:07,600
+These things are intelligible because we are with that within which we, because we are that within which we operate.
+
+376
+00:35:07,600 --> 00:35:09,520
+Ah yeah, that gets really interesting.
+
+377
+00:35:09,520 --> 00:35:12,239
+And that's why this passage is so fascinating.
+
+378
+00:35:12,560 --> 00:35:27,279
+He wants to say when we're really so absorbed that we're just getting around and responding to the affordances, that is, that to do this or that, that we're not distinguishable from the world of equipment.
+
+379
+00:35:27,279 --> 00:35:31,359
+We are completely bored into the equipment, absorbed in the equipment.
+
+380
+00:35:31,360 --> 00:35:32,879
+That's what he wants to talk about now.
+
+381
+00:35:32,880 --> 00:35:43,999
+He says, we are that within which we operate, and in such a taken-for-granted way that we forget the state of affairs and its basic structure as the constitution of things.
+
+382
+00:35:44,319 --> 00:35:51,760
+That is, when we're just absorbed in dealing with things and finding our way around in the world, there is no distinction between us and them.
+
+383
+00:35:51,759 --> 00:35:53,999
+They become, they withdraw.
+
+384
+00:35:54,000 --> 00:35:56,399
+I think I said that last time, didn't I, about hammers?
+
+385
+00:35:56,400 --> 00:36:02,559
+That when we're hammering well, the hammer withdraws, and all we can, the the the nail just is going in.
+
+386
+00:36:02,560 --> 00:36:05,800
+Okay, let's go on one more paragraph.
+
+387
+00:36:05,799 --> 00:36:07,639
+This as what.
+
+388
+00:36:03,199 --> 00:36:09,879
+Now, that's where people get confused.
+
+389
+00:36:10,759 --> 00:36:17,960
+There is something that the blackboard is to use something as a blackboard.
+
+390
+00:36:17,960 --> 00:36:21,159
+And a blackboard is the thing that you use as a blackboard.
+
+391
+00:36:21,159 --> 00:36:28,520
+But it's not in your experience that you have to have it as a blackboard that is being used.
+
+392
+00:36:28,520 --> 00:36:48,360
+So this as what, but now he's talking about it sort of from outside, not how you're experiencing it when you're absorbed, in the light of which I understand, and which I already have, although unthematically from the outset, is nonetheless not grasped thematically in this having from the outset.
+
+393
+00:36:48,360 --> 00:36:51,560
+Well, that is really mysterious, and I can't, you've got it on your page.
+
+394
+00:36:51,639 --> 00:36:53,720
+That's why I had it printed so you could see it.
+
+395
+00:36:53,719 --> 00:37:02,280
+I mean, the fact that it's a to write on is something you already understand.
+
+396
+00:37:02,600 --> 00:37:10,440
+And though you don't have to think about it as a blackboard, that is think thematically about it, you've got a skill for it.
+
+397
+00:37:10,440 --> 00:37:12,199
+And maybe you should think of it this way.
+
+398
+00:37:12,199 --> 00:37:36,359
+When you need to write on the blackboard, it'll have its to write on, just like if it's hot and you need to open the windows, which we can't do any further, then the windows, the to open, and when you need to go out of the room at the end of the class, then those two do's will show up, but you don't have to think about them or you just do them when the time comes.
+
+399
+00:37:36,360 --> 00:37:37,719
+There's somebody who wants to say something.
+
+400
+00:37:37,719 --> 00:37:38,360
+Yeah.
+
+401
+00:37:47,400 --> 00:37:48,959
+Ah, good.
+
+402
+00:37:50,880 --> 00:37:51,840
+That's right.
+
+403
+00:37:48,440 --> 00:37:54,960
+It could be an obstacle, and he talks about that.
+
+404
+00:37:55,279 --> 00:38:01,840
+One way it could be an obstacle is you just surmount it and you have enough know-how, it doesn't get to be a problem.
+
+405
+00:38:01,839 --> 00:38:04,560
+I'll talk next time about the unready to hand.
+
+406
+00:38:04,560 --> 00:38:10,400
+If the door is stuck, for instance, and you can't get it open, then it becomes a special kind of obstacle.
+
+407
+00:38:10,400 --> 00:38:13,440
+And as you can imagine, you have to stop to think about it.
+
+408
+00:38:13,440 --> 00:38:22,880
+It's no longer a to go out, which you can just respond by being totally absorbed in its to-go-out and therefore finding yourself out.
+
+409
+00:38:22,880 --> 00:38:29,920
+And so there is a whole thing that happens when the equipment doesn't work transparently.
+
+410
+00:38:29,920 --> 00:38:30,560
+Yeah.
+
+411
+00:38:42,080 --> 00:38:44,639
+Ah, ah, well, you hear the question?
+
+412
+00:38:44,639 --> 00:38:45,439
+Probably not.
+
+413
+00:38:45,440 --> 00:38:48,720
+An amputee who can no longer write on the blackboard.
+
+414
+00:38:48,719 --> 00:38:51,440
+Wow, that's a problem for Marilla-Ponty.
+
+415
+00:38:51,440 --> 00:38:51,999
+Exactly.
+
+416
+00:38:52,000 --> 00:38:53,200
+He talks about that.
+
+417
+00:38:53,199 --> 00:39:04,320
+What would happen is that what does happen with phantom limbs like that, that for a while he will still have a phantom arm and he will, Marilla Ponty does it more dramatically.
+
+418
+00:39:04,319 --> 00:39:07,600
+A phantom limb, which is what Aristotle, what Descartes talked about.
+
+419
+00:39:07,600 --> 00:39:16,880
+If somebody's leg is amputated, they still have a phantom leg for a while and they still get up and try to walk and fall over, or at least that's a frequent case.
+
+420
+00:39:16,880 --> 00:39:24,399
+Just like this person will go up to the blackboard with they've got no arm in hand and then discover they can't pick up the chalk and write on the blackboard.
+
+421
+00:39:24,400 --> 00:39:37,719
+But as they get used to finding their way around in the world as an amputee, they'll have to change their skills in which the blackboard will no longer look to them as the to write on.
+
+422
+00:39:39,000 --> 00:39:45,159
+The remember isn't that it's a a blackboard which then looks to them as something something to write on.
+
+423
+00:39:45,159 --> 00:39:51,560
+There just won't be a to write on at that time when you need one anymore.
+
+424
+00:39:51,880 --> 00:39:52,680
+Yeah.
+
+425
+00:39:54,119 --> 00:40:04,119
+Maybe it's a little absorption when you even something contrary to my being is right contrary to what?
+
+426
+00:40:06,360 --> 00:40:07,800
+Brainer.
+
+427
+00:40:09,719 --> 00:40:11,319
+Wait, wait, talk louder.
+
+428
+00:40:11,319 --> 00:40:12,359
+I can't hear you.
+
+429
+00:40:19,319 --> 00:40:28,920
+And in doing so, being invisible, even if something contrary to my being standard property.
+
+430
+00:40:30,119 --> 00:40:30,840
+Yes.
+
+431
+00:40:31,159 --> 00:40:34,200
+For one thing, we don't normally make it visible.
+
+432
+00:40:34,199 --> 00:40:45,719
+If Heidegger is running against the attempt to attempt to make it visible, he's doing ontology and he's doing what he calls hermeneutics, which is a kind of interpretation.
+
+433
+00:40:45,719 --> 00:40:53,240
+And he's doing phenomenology, which is really what we're doing now, trying to describe our most basic way of being in the world.
+
+434
+00:40:53,239 --> 00:40:56,919
+It's not our normal behavior, and nobody should be doing it normally.
+
+435
+00:40:57,159 --> 00:41:01,799
+If you do, you're going to have trouble getting around in the world trying to if you okay.
+
+436
+00:41:01,799 --> 00:41:13,479
+And and I'm going to turn right to what you raised, which is what ha the the the job that Heidegger's taking on of taking what is, you you d you're exactly on the right track.
+
+437
+00:41:13,480 --> 00:41:26,479
+Heidegger has described something which is somehow going to be very hard to do, namely to describe and talk about, which in its very essence is something which we shouldn't normally be able to describe and talk about.
+
+438
+00:41:26,480 --> 00:41:27,439
+That's what you're saying.
+
+439
+00:41:27,440 --> 00:41:27,999
+Very good.
+
+440
+00:41:28,000 --> 00:41:29,280
+Yeah, you're right on it.
+
+441
+00:41:29,279 --> 00:41:29,679
+Yeah.
+
+442
+00:41:55,279 --> 00:41:56,639
+Yeah, he wants to write.
+
+443
+00:41:56,719 --> 00:42:06,080
+He needs to raise the question of what it is to be a Dasein because that's Dasein's job.
+
+444
+00:42:06,080 --> 00:42:14,400
+And that's that right now, I mean, it's not playing much of a role in the discussion of finding your way around in the world.
+
+445
+00:42:14,400 --> 00:42:15,680
+I can connect it.
+
+446
+00:42:15,679 --> 00:42:27,040
+Remember that it happens to be a feature, not happens, it is the essential feature of Dasein to take a stand on its own being.
+
+447
+00:42:27,040 --> 00:42:36,719
+And the only way it can do that is by using equipment, and now in this new language, responding to the affordances and getting around in the world.
+
+448
+00:42:36,719 --> 00:42:40,479
+That's what you do if you're the bad child in the family.
+
+449
+00:42:40,480 --> 00:42:50,479
+You do it in the way that kind of being, that way, or a sacrificial mother or a teacher, the same examples I used last time, not to complicate things with new ones.
+
+450
+00:42:50,480 --> 00:42:52,480
+I mean, you do all that.
+
+451
+00:42:52,520 --> 00:43:04,199
+Yet all this transparent coping is in the service of, one, finding your way around in the world, which, two, is in the service finally of taking a stand on your being.
+
+452
+00:43:04,440 --> 00:43:11,399
+I mean, you end up, we'll talk about that a lot more next time, being a teacher or being a student and so forth.
+
+453
+00:43:11,400 --> 00:43:19,720
+That's, and then you, the, the blackboards will show up as the to write on, and the books will show up as to read.
+
+454
+00:43:19,719 --> 00:43:21,239
+I don't know if I can say more about it.
+
+455
+00:43:21,239 --> 00:43:23,320
+Is that all right, or have I missed the point?
+
+456
+00:43:24,679 --> 00:43:29,799
+I don't think you're standing on being a word basis, of course, on background.
+
+457
+00:43:32,279 --> 00:43:34,199
+In fact, the background is much more fun.
+
+458
+00:43:38,119 --> 00:43:40,759
+Then all of the same is reading coping.
+
+459
+00:43:40,839 --> 00:43:45,880
+All these very substantial inbrex coping is one of all the things.
+
+460
+00:43:50,600 --> 00:43:53,560
+Well, I think I'm with Heidegger.
+
+461
+00:43:53,560 --> 00:43:59,720
+That's his word for it is umgang or dealing and or understanding.
+
+462
+00:43:59,719 --> 00:44:06,520
+And you'll see, I just jump way ahead and just sort of for the time being, put this as a problem for later.
+
+463
+00:44:06,520 --> 00:44:12,359
+He says that our understanding of being, what's he?
+
+464
+00:44:13,960 --> 00:44:16,280
+Well, how do I put it just to say, how does he put it?
+
+465
+00:44:21,560 --> 00:44:24,680
+It's something like our coping.
+
+466
+00:44:24,679 --> 00:44:27,960
+Well, see if I can open to it, but you jumped ahead.
+
+467
+00:44:27,960 --> 00:44:30,839
+But he does have a very, it's a very important question here.
+
+468
+00:44:30,839 --> 00:44:32,600
+He certainly has a view about it.
+
+469
+00:44:34,440 --> 00:44:38,359
+It's been a very, very complicated part of the text.
+
+470
+00:44:38,759 --> 00:44:41,159
+So I'm not sure I can just find it.
+
+471
+00:44:41,159 --> 00:44:45,080
+But I'll give it a try, and then I'll tell you later.
+
+472
+00:44:48,400 --> 00:45:10,159
+I think he says, and it's somewhere on page 118 and 119, I think, that our understanding, in his sense, of coping and our familiarity, which is his story about finding our way around in the world, go to make up our understanding of being.
+
+473
+00:45:10,799 --> 00:45:15,440
+But I can't just open to it, so we'll have to put it aside for a while.
+
+474
+00:45:15,440 --> 00:45:51,359
+But I do think that, at least I'm giving a reading of Heidegger, which is extremely pragmatic and could be, I mean, that is like a pragmatist and could be controversial, but I think it's so in here, all over the place, but in that quote, particularly, which I promise to get to next time, or hope to, that you'll see that for Heidegger, there's some very, very tight connection between our coping skills and intelligibility or being, that they are just sort of two sides of the same coin.
+
+475
+00:45:51,360 --> 00:46:02,639
+There isn't, when everything is going well, there isn't any sort of distinction between this coping skill and things showing up as the to this and to that.
+
+476
+00:46:02,639 --> 00:46:03,119
+Yeah.
+
+477
+00:46:22,960 --> 00:46:26,879
+Well, that's good, but that's a big issue which I will put aside.
+
+478
+00:46:27,199 --> 00:46:36,359
+But, I mean, I'm sure, I mean, Tyler's question is coming from another interpretation of Heidegger, and so I have to defend my interpretation.
+
+479
+00:46:36,360 --> 00:46:54,440
+But I don't, I mean, I'm sure that Heidegger is an anti-cognitivist, anti-conceptualist, and he's very clear that the level, this most basic level, no mind has to play any role in it at all.
+
+480
+00:46:54,440 --> 00:47:01,159
+That you can acquire, I mean, pre-linguistic kids already have an understanding of being for Heidegger.
+
+481
+00:47:01,159 --> 00:47:15,879
+I no doubt they can pick up equipment and use it, they can stare at things and see their properties, they are already getting to be what I said last time, Japanese children or American, that is, they're already taking a stand on their being, and they do it all without concepts.
+
+482
+00:47:15,880 --> 00:47:23,800
+I mean, that's important because Heidegger's got a whole philosophical tradition of too much mental stuff.
+
+483
+00:47:23,799 --> 00:47:27,639
+What I have taken to calling lately the myth of the mental.
+
+484
+00:47:27,639 --> 00:47:36,280
+The myth of the mental has been around since the beginning of philosophy, that the mind has to come in and do something to make us able to find our way around in the world.
+
+485
+00:47:36,279 --> 00:47:37,960
+But Heidegger doesn't think so, I think.
+
+486
+00:47:38,040 --> 00:47:38,919
+But keep your eye open.
+
+487
+00:47:38,920 --> 00:47:50,279
+And if you find any place where you think that Heidegger thinks the concepts or minds play any role in his fundamental level of phenomenology, what is first of all given, I will be shocked.
+
+488
+00:47:50,279 --> 00:47:52,679
+I would have to throw out my whole commentary.
+
+489
+00:47:52,679 --> 00:47:53,240
+Yeah.
+
+490
+00:48:07,159 --> 00:48:09,960
+Even if you, the amputee, okay, let's see.
+
+491
+00:48:11,799 --> 00:48:15,560
+Yes, but not at that, not as this level of first of all given.
+
+492
+00:48:15,560 --> 00:48:20,639
+I mean, it won't be looking to you directly, soliciting you to write on it.
+
+493
+00:48:20,880 --> 00:48:30,720
+It won't be for you that at an appropriate moment in your finding a way around in the world, the blackboard will just show up and you'll do something with it.
+
+494
+00:48:30,719 --> 00:48:37,520
+You can get intellectual about it, and you can say, ah, I see this person used to be able to write on the blackboard, but he can't anymore.
+
+495
+00:48:37,679 --> 00:48:39,679
+I used to be able to write on the blackboard and I can't anymore.
+
+496
+00:48:40,000 --> 00:48:51,920
+I'm trying to get you, but you're all rightly resisting, to think of this at this most, most basic level, because I think that's Heidegger's big, brilliant project.
+
+497
+00:48:54,319 --> 00:48:58,479
+But your question brings out the important facts, and his does too, in a way.
+
+498
+00:48:58,639 --> 00:49:05,359
+That doesn't mean that you can't thematize it, the blackboard, and see it as something to write on.
+
+499
+00:49:05,839 --> 00:49:07,119
+You certainly can.
+
+500
+00:49:07,119 --> 00:49:17,919
+And you can reflect, and you might even be able to some extent to make up some rules to follow, tell you that you better use the chalk and so forth to do it.
+
+501
+00:49:17,920 --> 00:49:18,480
+Yeah.
+
+502
+00:49:26,560 --> 00:49:28,239
+I think of it as something to think about.
+
+503
+00:49:28,239 --> 00:49:32,159
+I hate myself to be able to see it, which is second in foundation.
+
+504
+00:49:32,799 --> 00:49:33,440
+Okay.
+
+505
+00:49:33,440 --> 00:49:33,999
+Well.
+
+506
+00:49:36,880 --> 00:49:37,759
+That's good.
+
+507
+00:49:37,759 --> 00:49:38,399
+That's good.
+
+508
+00:49:38,400 --> 00:49:39,600
+Can you hear her?
+
+509
+00:49:39,600 --> 00:49:44,320
+Yeah, if you see that a newspaper in a foreign language still looks to be read.
+
+510
+00:49:44,319 --> 00:49:45,680
+I think that's right.
+
+511
+00:49:45,679 --> 00:50:02,319
+I think that's just good phenomenology, which means that it's complicated, that you have a skill for reading and making sense of things, and somehow part of that skill is already activated.
+
+512
+00:50:02,319 --> 00:50:08,119
+It's to be read and to be made sense of, but somehow you lack a part of that skill because you can't tell how to do it.
+
+513
+00:50:08,679 --> 00:50:26,760
+But I don't think that's a big problem for Heidegger, because I don't think he didn't say that in order, he doesn't have to say that in order for all these affordances, these two do this and two do that, which by the way, obviously form a whole and give us our way of getting around in the world.
+
+514
+00:50:26,759 --> 00:50:35,159
+He doesn't have to say that all of that is sort of all the time at this very basic level.
+
+515
+00:50:35,159 --> 00:50:40,360
+He just wants to say it can be, and that's okay.
+
+516
+00:50:40,360 --> 00:50:45,879
+Yeah, I want to get further, but I also think that you're all right to stick at this point.
+
+517
+00:50:49,000 --> 00:50:50,359
+It still breaks down.
+
+518
+00:50:56,199 --> 00:50:57,880
+That's right, it can break down.
+
+519
+00:51:01,080 --> 00:51:04,920
+It's to read and then you discover.
+
+520
+00:51:04,920 --> 00:51:06,119
+That's good.
+
+521
+00:51:07,719 --> 00:51:08,439
+I like that.
+
+522
+00:51:10,440 --> 00:51:15,800
+I think that's it's a kind of thing like the hammer showing up as too heavy.
+
+523
+00:51:15,799 --> 00:51:18,520
+That is a variation on that.
+
+524
+00:51:18,520 --> 00:51:23,960
+I mean, it looks like it's to read, and then it turns out it's too foreign.
+
+525
+00:51:25,080 --> 00:51:28,279
+And then it looks like a bunch of squiggles.
+
+526
+00:51:29,960 --> 00:51:31,720
+But it's a funny, interesting case.
+
+527
+00:51:38,839 --> 00:51:39,559
+That's right.
+
+528
+00:51:39,560 --> 00:51:40,119
+That's right.
+
+529
+00:51:40,319 --> 00:51:41,799
+There is there's this being drawn.
+
+530
+00:51:43,400 --> 00:51:45,319
+Yeah, you are getting ahead of the story.
+
+531
+00:51:45,319 --> 00:51:48,199
+When we get to you, what you're describing is the unready to hand.
+
+532
+00:51:48,400 --> 00:51:56,639
+The unready to hand isn't the present at hand, because it's something you're trying to do and is called to do, but can't for some reason do.
+
+533
+00:51:56,639 --> 00:51:58,800
+And Heidegger's got a whole story about that.
+
+534
+00:51:58,799 --> 00:52:01,040
+And that's what you're all tuned into, yeah.
+
+535
+00:52:12,639 --> 00:52:16,320
+To understand the text by coping with it rather than thinking about it.
+
+536
+00:52:16,400 --> 00:52:19,600
+I think there's something right about that, oddly enough.
+
+537
+00:52:20,239 --> 00:52:25,519
+But obviously, but reading Heidegger is a kind of constant breakdown, it seems to me.
+
+538
+00:52:25,520 --> 00:52:28,399
+So, on the other hand, you're always in the unready to hand.
+
+539
+00:52:29,040 --> 00:52:33,360
+It isn't like reading a simple science fiction book or something.
+
+540
+00:52:33,360 --> 00:52:58,240
+So, I would say in doing this kind of phenomenology, this fundamental ontology phenomenology, you're bound to be in a state in which you are always sort of knocked out of what is your natural way of dealing with things.
+
+541
+00:52:58,239 --> 00:53:00,799
+And that's what makes it very special.
+
+542
+00:53:00,799 --> 00:53:06,720
+I'm going to go on because I'm back to where I was when I started being interested in what everybody was saying.
+
+543
+00:53:06,719 --> 00:53:10,159
+I mean, there's the this back to what she said.
+
+544
+00:53:10,159 --> 00:53:11,839
+I mean, this is a very hard job.
+
+545
+00:53:11,839 --> 00:53:13,199
+In a way, you're repeating it now.
+
+546
+00:53:13,360 --> 00:53:25,440
+Heidegger's giving himself the fundamental ontology as phenomenology is a job of describing something which, when it's happening and working at its best, there's nothing to say about it.
+
+547
+00:53:25,920 --> 00:53:27,119
+That's a problem.
+
+548
+00:53:27,119 --> 00:53:27,839
+She's smiling.
+
+549
+00:53:27,839 --> 00:53:28,479
+She's right.
+
+550
+00:53:28,480 --> 00:53:31,839
+Okay, so let me go on to see if I want to read this last paragraph.
+
+551
+00:53:31,839 --> 00:53:36,440
+I think I do, because it stresses again how absorbed we are.
+
+552
+00:53:33,440 --> 00:53:37,639
+Okay, let's see now.
+
+553
+00:53:38,440 --> 00:53:44,680
+Rather, I live in the understanding of writing, illuminating, going in and out, and the like.
+
+554
+00:53:44,679 --> 00:53:53,639
+More precisely, and this is the big claim, as existence I am in speaking, going, understanding, and act of understanding, dealing with.
+
+555
+00:53:53,719 --> 00:53:54,679
+That's pretty strong.
+
+556
+00:53:54,679 --> 00:53:58,679
+I mean, that's what I think shows this isn't a formal, empty claim.
+
+557
+00:53:58,679 --> 00:54:05,800
+This is a very interesting claim that at its most basic level, Dasein is just coping.
+
+558
+00:54:05,799 --> 00:54:10,200
+Speaking, going, understanding, finding its way around, dealing with.
+
+559
+00:54:10,199 --> 00:54:17,880
+Way later in the book, Heidegger has a sentence which was the first time I really ran into this way of thinking on his part.
+
+560
+00:54:17,880 --> 00:54:21,320
+He says, Dasein is the world existing with.
+
+561
+00:54:21,319 --> 00:54:37,080
+That's a sort of code for he, Dasein is by using the world, so to speak, to take a stand on itself and absorbed in the world and doing it, Dasein and the world can't be separated.
+
+562
+00:54:37,080 --> 00:54:50,360
+Heidegger's very, what Heidegger's trying to do, by the way, another way to put this is he doesn't want you to be able to separate us and world because that makes us too much like subjects and worlds too much like objects.
+
+563
+00:54:50,360 --> 00:54:59,000
+He thinks that when we are at our most basic, we just are being in the world with hyphens, as you'll have seen if you've been doing the reading.
+
+564
+00:54:59,000 --> 00:55:06,439
+And this is what we're, that's why all this talk about absorbed coping, because this is his destruction of Descartes.
+
+565
+00:55:06,440 --> 00:55:19,840
+It's to say that when we are at our most fundamental and in a certain sense at our best, when we're coping and finding our way around in the world, there isn't any difference between us and the world.
+
+566
+00:55:18,360 --> 00:55:21,999
+We are that much absorbed in it.
+
+567
+00:55:22,239 --> 00:55:27,840
+Rock climbers sometimes say there's no distinction between them and the mountain when they're totally absorbed in climbing.
+
+568
+00:55:27,839 --> 00:55:30,400
+It's as if we're all like that most of the time.
+
+569
+00:55:31,279 --> 00:55:41,200
+To take Heidegger's example, when we go out of the door, we use the latch, he says, that we are not sort of noticing it, paying attention to it, or anything.
+
+570
+00:55:41,199 --> 00:55:45,840
+It's just part of the basic ongoing activity.
+
+571
+00:55:45,839 --> 00:55:50,240
+Ongoing activity, by the way, is a Dewey phrase which would fit Heidegger very well.
+
+572
+00:55:50,239 --> 00:55:51,359
+But I've got to go back.
+
+573
+00:55:51,920 --> 00:55:52,879
+You want to say something quick?
+
+574
+00:55:52,880 --> 00:55:55,360
+And I may not answer it, but we'll see.
+
+575
+00:55:58,400 --> 00:56:00,159
+I don't think I have any given hand on this.
+
+576
+00:56:16,400 --> 00:56:17,600
+Well, we can.
+
+577
+00:56:17,600 --> 00:56:19,119
+You're all getting ahead of that story.
+
+578
+00:56:19,119 --> 00:56:19,520
+I don't.
+
+579
+00:56:19,520 --> 00:56:22,400
+I mean, some of you are making hard problems for where we are.
+
+580
+00:56:22,400 --> 00:56:25,040
+Some of you are sensing where we're going.
+
+581
+00:56:25,040 --> 00:56:29,439
+Okay, that's all ready to hand, and that's got to do with what it is to see something as a substance.
+
+582
+00:56:29,440 --> 00:56:33,119
+Heidegger's not going to deny that we experience substances.
+
+583
+00:56:33,119 --> 00:56:39,840
+He's got to explain it in terms of some kind of breakdown of this total absorbed activity.
+
+584
+00:56:39,839 --> 00:56:49,600
+But I'm sticking, so let me just read it one: my being in the world is nothing other than the already operating with understanding in this mode of being.
+
+585
+00:56:49,600 --> 00:56:50,959
+You see why I like this passage.
+
+586
+00:56:50,960 --> 00:56:59,199
+This is like a summary of the most extreme, bottom-level, a priori kind of coping being that we are.
+
+587
+00:56:59,199 --> 00:57:07,320
+But now I have to get back to something definitely I want to cover, namely her thing again, because there's this puzzle of how Heidi is going to ever do this.
+
+588
+00:57:07,319 --> 00:57:08,680
+Okay, let's see now.
+
+589
+00:57:08,679 --> 00:57:09,559
+Where are we?
+
+590
+00:57:10,839 --> 00:57:13,639
+Well, the tradition has always missed the background.
+
+591
+00:57:13,639 --> 00:57:18,520
+For 2,000 years, philosophers have not described the background.
+
+592
+00:57:18,839 --> 00:57:21,080
+The background is invisible.
+
+593
+00:57:21,080 --> 00:57:24,119
+Another way to put it is it's like the light in the room.
+
+594
+00:57:24,119 --> 00:57:27,320
+I mean, it's thanks to the light in the room that we can see anything.
+
+595
+00:57:28,520 --> 00:57:33,560
+The more we see things, we see things the better and better, the more we don't see the light in the room.
+
+596
+00:57:33,560 --> 00:57:36,680
+The way it withdraws goes to neutral and so forth.
+
+597
+00:57:36,679 --> 00:57:52,759
+So he's describing what we, and that's when he says that what is ontologically nearest to us, namely this coping that we are, this finding our way around in the world that we are, is ontologically farthest away.
+
+598
+00:57:52,759 --> 00:57:54,040
+That's on 37.
+
+599
+00:57:54,040 --> 00:57:55,080
+I think we read it already.
+
+600
+00:57:55,080 --> 00:57:56,760
+Did we read it already?
+
+601
+00:57:56,920 --> 00:57:58,039
+Anybody remember?
+
+602
+00:57:58,040 --> 00:58:07,720
+Anyway, it's on page 16 in the German, and he says, this is all about this, how we're related to this being in the world.
+
+603
+00:58:07,719 --> 00:58:17,560
+Dasein is about five lines down, ontically closest to itself and ontologically farthest away, and pre-ontologically it's not a stranger.
+
+604
+00:58:17,560 --> 00:58:23,720
+That is, you've got a sense of that things are going okay when things are going okay.
+
+605
+00:58:23,719 --> 00:58:31,879
+And I take it that's the way you have a sign of preontological familiarity with and with what's going on.
+
+606
+00:58:32,199 --> 00:58:34,040
+Okay, now let's see.
+
+607
+00:58:34,279 --> 00:58:35,960
+I'm going to go fast over things.
+
+608
+00:58:35,960 --> 00:58:38,319
+The background is not a belief system.
+
+609
+00:58:38,319 --> 00:58:40,600
+It's much more basic than that.
+
+610
+00:58:40,600 --> 00:58:43,319
+You can have it before you even have any beliefs.
+
+611
+00:58:43,639 --> 00:58:46,200
+It's in your bodily dispositions.
+
+612
+00:58:46,199 --> 00:58:47,800
+It's pervasive.
+
+613
+00:58:47,799 --> 00:58:49,679
+There's no contrast class.
+
+614
+00:58:51,040 --> 00:59:05,280
+There's nothing that, well, there's something different, naming the foreground, but the background is somehow everywhere, and you can't find a place where it isn't, so to speak, so you can contrast it for what it is.
+
+615
+00:59:05,279 --> 00:59:11,119
+Now comes the part I wanted to be sure and get to, because it really amuses or intrigues me.
+
+616
+00:59:11,759 --> 00:59:17,520
+Wittgenstein also, late in his life, came across the background.
+
+617
+00:59:17,520 --> 00:59:26,719
+And he says, quote, this is from remarks on the philosophy of psychology: how could human behavior be described?
+
+618
+00:59:26,719 --> 00:59:32,159
+Surely only by showing the actions of a variety of humans as they are all mixed up together.
+
+619
+00:59:32,159 --> 00:59:39,119
+Not what one is doing now, but the Hurley Burley, the whole Hurley-Burley, is the background, which is in German Gevimmel.
+
+620
+00:59:39,279 --> 00:59:50,320
+That's as good as the whole Hurley Burley is the background against which, that's the Vohrauf, not the Vohraufen, but it's the German there is Borau.
+
+621
+00:59:50,319 --> 00:59:53,679
+It's the background against which we see an action.
+
+622
+00:59:53,679 --> 00:59:57,039
+It determines our judgments, our concepts, and our reactions.
+
+623
+00:59:57,360 --> 01:00:00,080
+He's got onto exactly the same thing.
+
+624
+01:00:00,080 --> 01:00:05,280
+Only his reaction, unlike Heidegger's, is more like hers.
+
+625
+01:00:05,600 --> 01:00:09,760
+Wittgenstein says, well, if that's what it is, we can't describe it.
+
+626
+01:00:10,239 --> 01:00:11,199
+It's hopeless.
+
+627
+01:00:11,520 --> 01:00:17,839
+In Culture and Value, which is a collection of aphorisms.
+
+628
+01:00:18,159 --> 01:00:30,720
+On 16, he says, perhaps what is inexpressible and I find mysterious and am not able to express is the background against which whatever I could express has its meaning.
+
+629
+01:00:31,040 --> 01:00:44,360
+So Wittgenstein has come across the Vohaufen, to that on the basis of which, and he's come across it and he sees that it would be, he thinks, impossible to describe.
+
+630
+01:00:44,920 --> 01:00:51,480
+Heidegger thinks, and this is important, it's hard, all right, but he's going to do it.
+
+631
+01:00:51,480 --> 01:01:02,280
+He's going to articulate, even though it's a hurly-burly and a mess, he's going to articulate the structure of everyday being in the world.
+
+632
+01:01:02,759 --> 01:01:05,320
+And that's amazing.
+
+633
+01:01:06,360 --> 01:01:10,279
+You can imagine how it must have felt to have been Heidegger.
+
+634
+01:01:10,279 --> 01:01:22,200
+Because he sees something that he thinks the whole tradition has never seen, and he's going to take it on in a way that looks like it's impossible to take it on.
+
+635
+01:01:22,199 --> 01:01:38,040
+He's going to take it on, and even though they didn't see it because it was sort of necessarily withdrawn and invisible when it did its job, he's going to describe it and get us to see what it's like when it's doing its job.
+
+636
+01:01:38,279 --> 01:01:46,600
+I want to read you something else from Basic Problems, where he says that the tradition has never seen this.
+
+637
+01:01:47,319 --> 01:01:48,840
+Where is it?
+
+638
+01:01:50,119 --> 01:01:52,600
+Passed over by the whole tradition, I write.
+
+639
+01:01:54,600 --> 01:02:00,680
+The surrounding world is different in a certain way for each of us, and notwithstanding that, we move about in a common world.
+
+640
+01:02:00,679 --> 01:02:08,920
+And then he says, the concept of world or the phenomenon thus designated is what has hitherto not yet been recognized in philosophy.
+
+641
+01:02:08,920 --> 01:02:12,919
+So he thinks there is this very important background or world.
+
+642
+01:02:13,239 --> 01:02:15,240
+You'll see they come out to the same.
+
+643
+01:02:15,239 --> 01:02:27,119
+And that it hasn't ever been seen, and it's only natural because, like the light in the room, the more it works better, the more it becomes invisible.
+
+644
+01:02:27,119 --> 01:02:32,480
+And I want to say that sounds like an incredibly arrogant claim.
+
+645
+01:02:32,480 --> 01:02:34,080
+And it is in a way.
+
+646
+01:02:34,080 --> 01:02:40,080
+But certain people have a right to be incredibly arrogant because they're doing something incredibly impressive.
+
+647
+01:02:40,080 --> 01:02:46,239
+I mean, Dante puts himself with the great poets of history, Homer and Virgil and so forth, in the Divine Comedy.
+
+648
+01:02:46,239 --> 01:02:51,600
+That's a lot of puts, but and the same thing Heidegger does.
+
+649
+01:02:52,159 --> 01:02:58,560
+But I was going to read you another passage, but I didn't bring it with me, but it's not something we need to absolutely see right now.
+
+650
+01:02:58,560 --> 01:03:17,600
+But he's also the humblest person ever in philosophy because he says in Basic Problems that surely there is something wrong with what he's writing, that he can't see it, but you can be sure that there is something fundamental that he is missing and leaving out.
+
+651
+01:03:17,600 --> 01:03:20,480
+And that's what's always been the case in philosophy.
+
+652
+01:03:20,480 --> 01:03:27,600
+Every philosopher has always been, the next philosopher has always claimed that the previous one has got it wrong and missed something fundamental.
+
+653
+01:03:27,600 --> 01:03:29,440
+But each philosopher says, but I haven't.
+
+654
+01:03:29,440 --> 01:03:30,559
+I've got it all right.
+
+655
+01:03:30,560 --> 01:03:36,319
+Finally, Leibniz or Spinoza or Kant or Descartes would say that.
+
+656
+01:03:36,319 --> 01:03:50,799
+Well, Heidegger sees that this thing he's taking on, this job, is so hard that he's not going to be able to sort of complete it systematically and say, now I've done it, I've given you the structure of the world, but he's going to do some of it.
+
+657
+01:03:50,799 --> 01:03:53,440
+And he's going to necessarily leave some of it out.
+
+658
+01:03:53,440 --> 01:03:55,920
+And anyway, that's what happens to him.
+
+659
+01:03:56,319 --> 01:03:58,719
+He left lots of very important things out.
+
+660
+01:03:59,679 --> 01:04:02,319
+That's not what we're going to talk about now.
+
+661
+01:04:02,639 --> 01:04:11,720
+So now I still want to go on because I see I've got something here.
+
+662
+01:04:11,719 --> 01:04:12,680
+Yeah, okay.
+
+663
+01:04:12,679 --> 01:04:16,520
+I want to talk about world for the last ten minutes.
+
+664
+01:04:17,000 --> 01:04:19,879
+And then I will be where I want to be, which is pretty amazing.
+
+665
+01:04:20,199 --> 01:04:21,159
+Maybe.
+
+666
+01:04:21,159 --> 01:04:24,919
+So there's four senses of world.
+
+667
+01:04:24,920 --> 01:04:40,999
+If he's going to do this amazing job of taking on and describing the background, the world, the on the basis of which, that which we are totally absorbed in when everything is going at its best, he better at least tell us more about it.
+
+668
+01:04:41,000 --> 01:04:45,240
+So on 93, there are these important definitions.
+
+669
+01:04:45,239 --> 01:04:47,560
+Four meanings of world.
+
+670
+01:04:47,880 --> 01:05:03,320
+I think it would have been better if he had called the first two, which are world are categorial, that is, they're the world as an object.
+
+671
+01:05:03,639 --> 01:05:09,480
+And if you're talking about the world as an object, I think it would be nice if he would call it a universe.
+
+672
+01:05:09,480 --> 01:05:16,920
+The universe is this object which has all these galaxies and trees and quarks and stuff in it.
+
+673
+01:05:16,920 --> 01:05:20,520
+And the world is something that people have.
+
+674
+01:05:20,520 --> 01:05:21,799
+There is a business world.
+
+675
+01:05:21,799 --> 01:05:32,439
+Once you have this course, you'll never be able to say anymore sort of how many stars there are in the world, because there are no stars in the world.
+
+676
+01:05:32,440 --> 01:05:34,839
+I mean, galaxies and stuff.
+
+677
+01:05:34,839 --> 01:05:36,440
+They're in the universe.
+
+678
+01:05:36,440 --> 01:05:47,199
+And the world is always a holistic bunch of human practices related to human goals and so forth.
+
+679
+01:05:46,679 --> 01:05:50,400
+I can't resist, though, time is running out.
+
+680
+01:05:51,280 --> 01:05:58,159
+Some of you know that Terence Malik, the movie director who made the Thin Red Line and so forth, is a Heideggerian.
+
+681
+01:05:58,160 --> 01:06:00,399
+He translated a book by Heidegger.
+
+682
+01:06:01,839 --> 01:06:07,600
+He went with a Rhodes Scholarship to write his thesis on worlds, world, in fact, in Heidegger.
+
+683
+01:06:07,600 --> 01:06:15,600
+And so, in his latest movie, which bombed so completely that I think none of you saw it, anybody get to see The New World before it folded?
+
+684
+01:06:15,759 --> 01:06:19,440
+In The New World, there's a, you don't get to see it.
+
+685
+01:06:19,440 --> 01:06:30,159
+I was on the set, and there was a point where Heidegger has, what's his name, Christian Bale, who is John Rolf, asking Pocahontas, she's asking him questions.
+
+686
+01:06:30,160 --> 01:06:35,600
+And one of the questions she asks him is: what's the difference between the Earth and the world?
+
+687
+01:06:37,039 --> 01:06:48,480
+And Bale, who is quite smart, obviously, looked a bit stunned, and then he said, Well, worlds have people in it, but the Earth doesn't, or needn't.
+
+688
+01:06:48,480 --> 01:06:49,919
+I think doesn't, he said.
+
+689
+01:06:49,919 --> 01:07:02,959
+And unfortunately, I didn't get into the movie, but at least not in the version that the two of you saw, but there's a three-hour D, at least there's a three-hour DVD that's going to come out of the New World.
+
+690
+01:07:02,959 --> 01:07:06,239
+And it's hopefully going to have this line in it.
+
+691
+01:07:06,240 --> 01:07:14,319
+But anyway, keep your eye on Malik, because all of his movies are about worlds, about what it is to be a world, and things that happen with worlds.
+
+692
+01:07:14,320 --> 01:07:15,199
+Okay, I said that.
+
+693
+01:07:15,200 --> 01:07:26,560
+Now you can go see Badlands and see if you can figure out how it happens there and how it happens in Days of Heaven, how it happens in Thin Red Line, how all of them are certain about some aspect of the world.
+
+694
+01:07:26,560 --> 01:07:39,719
+He went to Oxford as a Rhodes Scholar and he said to Ryle, I want to write my thesis on world in Wittgenstein, Heidegger, and maybe Nietzsche, I don't remember.
+
+695
+01:07:39,879 --> 01:07:42,039
+And Ryle said to him, You can't do that.
+
+696
+01:07:42,039 --> 01:07:44,199
+You've got to write a philosophical thesis.
+
+697
+01:07:44,919 --> 01:07:51,639
+So he quit philosophy on the spot, and now we have movies about worlds, and nobody says he can't do that.
+
+698
+01:07:51,639 --> 01:07:54,919
+Okay, so here we got back to worlds now.
+
+699
+01:07:54,919 --> 01:08:06,839
+The top two worlds on 93 is the first one, world is used as an ontical concept and signifies the totality of those entities that can be present at hand within the world.
+
+700
+01:08:06,839 --> 01:08:17,879
+It helps a lot if you just say that it's the universe and all of those entities that are present at hand in the universe, from quarks to galaxies.
+
+701
+01:08:18,440 --> 01:08:24,839
+Then the second meaning of world, and by the way, that's categorical, obviously, because it's about substances.
+
+702
+01:08:24,839 --> 01:08:34,759
+And the second meaning is also categorial, and it's the way of being of, here Heidegger says world, I want to say universe.
+
+703
+01:08:34,759 --> 01:08:40,119
+World functions as an ontological term and signifies the being of those entities we just mentioned.
+
+704
+01:08:40,280 --> 01:08:45,719
+That would be the being of all those substances from stars to electrons.
+
+705
+01:08:45,719 --> 01:08:51,079
+And indeed, world can become a term for any realm which encompasses a multiplicity of entities.
+
+706
+01:08:51,079 --> 01:08:56,280
+That's the business world, the theater world, the academic.
+
+707
+01:08:56,600 --> 01:08:59,719
+Oh, well, no, sorry, that's exactly wrong.
+
+708
+01:09:00,120 --> 01:09:04,279
+No, it has to be entities that don't relate to us.
+
+709
+01:09:04,280 --> 01:09:09,239
+So any bunch, I mean, I the universe or what?
+
+710
+01:09:10,999 --> 01:09:15,159
+Well, some mathematical bunch of sets would have this character.
+
+711
+01:09:15,719 --> 01:09:24,799
+It's the way anything that can be any realm, well, I'm getting very confused.
+
+712
+01:09:25,360 --> 01:09:30,719
+Any realm which I come to the Marquis, for instance, one can talk of the world of the mathematician.
+
+713
+01:09:30,719 --> 01:09:37,039
+World signifies, aha, yes, a realm of possible objects, namely, say, the real numbers.
+
+714
+01:09:38,160 --> 01:09:40,799
+And it's a kind of universe of discourse.
+
+715
+01:09:43,360 --> 01:09:50,719
+We do use universe, not only for galaxies, but for any talk about any domain of entities.
+
+716
+01:09:50,719 --> 01:10:03,199
+But the important thing he wants to do is to get that sense of world out of the way, categorical and call it universe, for what his sense of the world, and that's what we have to do just up to the end.
+
+717
+01:10:03,600 --> 01:10:23,119
+Or now, and now we're in Heidegger and Terry Malik territory, world can be understood in another ontical sense, not however as those entities which Dasein essentially is not and which can be encountered within the world, but rather as that wherein a factical Dasein is said to live.
+
+718
+01:10:23,120 --> 01:10:35,520
+That is, you could see that in the academic world, the theater world, the business world, those are wherein Daseins can actually hope, find their way around in.
+
+719
+01:10:35,520 --> 01:10:39,119
+You can find your way around in the theater world or the academic world.
+
+720
+01:10:39,120 --> 01:10:42,560
+And he says, here again, there are different possibilities.
+
+721
+01:10:42,560 --> 01:10:46,879
+It could be the public we world or the most close domestic world.
+
+722
+01:10:46,879 --> 01:10:50,799
+And now comes the kind, that's an existential kind of world.
+
+723
+01:10:50,799 --> 01:10:54,560
+And now comes the other existential use of world, the most important one for him.
+
+724
+01:10:54,560 --> 01:10:59,600
+Finally, world designates the optico-existential concept of worldhood.
+
+725
+01:10:59,600 --> 01:11:02,719
+That's really, that's the structure of the document.
+
+726
+01:11:02,719 --> 01:11:12,440
+Worldhood itself may have as its modes whatever structural holes any special worlds may have at the time, but it embraces in itself the a priori character of worldhood in general.
+
+727
+01:11:12,440 --> 01:11:26,520
+That is, what is the general structure of any world which is something that human beings can live in, find their way around in, cope with, and understand themselves in terms of.
+
+728
+01:11:26,520 --> 01:11:37,719
+If I were trying to test you on this, I would, if I were writing an exam, I would ask if you could deal with the following, sort of like the problem for Christian Dale, but it's related.
+
+729
+01:11:37,719 --> 01:11:44,679
+Suppose I said to you, what is the difference between the world of physics and the physical world?
+
+730
+01:11:46,360 --> 01:11:51,159
+Their world is being used in the universe sense.
+
+731
+01:11:52,280 --> 01:12:04,679
+The world of physics is those bunch of practices that physics people engage in and are absorbed in and understand themselves in terms of.
+
+732
+01:12:04,679 --> 01:12:06,919
+That's the world of physics.
+
+733
+01:12:06,919 --> 01:12:26,679
+And the physical world, be better to say universe there, the physical universe is that bunch of substances or entities that these people, namely the physicists, take a stand on their being by going through all these activities and observing them and making theories about.
+
+734
+01:12:26,999 --> 01:12:40,440
+So now I think I said just in time all that I really felt I have to say, yeah, we're ready next time to go on to the holistic structure of the world.
+
+735
+01:12:40,440 --> 01:12:55,999
+Be sure and read up, read up past, I'm going to probably go maybe a little bit past 104 because up to maybe 107, because all of this, naturally, the world's talk all hangs together.
+
+736
+01:12:55,999 --> 01:12:56,560
+Okay.

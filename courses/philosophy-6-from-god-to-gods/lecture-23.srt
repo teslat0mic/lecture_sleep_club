@@ -1,0 +1,3258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:45,800
+I don't want to go back to what we talked about last time, which I think is very important, but we did cover it, that the disappearance of Virgil and Beatrice showing up in the role of Jesus and all the amazing implications of that for a kind of new theology that Dante is working out and won't really get fully worked out until much later with Protestant and particularly Kierkegaard, where Kierkegaard really makes it work in a way that we'll see Dante doesn't finally get it all fitted together.
+
+2
+00:00:45,800 --> 00:00:50,360
+So, anyway, we're going to follow the way it goes here in the Paradiso.
+
+3
+00:00:50,680 --> 00:00:56,761
+So, first you have to just, let's just sort of get ourselves reconnected.
+
+4
+00:00:57,321 --> 00:01:13,481
+I mentioned it already several times, but you have this have this picture in mind that the purgatory is sticking out on one side of the earth and made out of the dirt from the hell which is in the middle of the earth.
+
+5
+00:01:13,481 --> 00:01:32,360
+And now you have to start thinking about what's outside of all that, which is on the back of the handout, the first handout that you some of you probably don't have with you now, or you should have, because it was clear that's what we were going to discuss.
+
+6
+00:01:32,360 --> 00:01:38,601
+Anyway, they take off, so to speak, from the top of purgatory.
+
+7
+00:01:38,601 --> 00:01:43,240
+But where they take off to is sort of necessarily unclear.
+
+8
+00:01:43,240 --> 00:01:46,761
+And Dante has to deal with that.
+
+9
+00:01:46,761 --> 00:02:02,481
+That is, the picture he has of the universe is that around the Earth there are all these crystalline spheres that are totally transparent, and in that sphere is embedded one of these heavenly bodies, the moon.
+
+10
+00:02:02,041 --> 00:02:03,601
+You see the list.
+
+11
+00:02:04,960 --> 00:02:10,960
+There are eight of them, eight spheres, one outside of the other.
+
+12
+00:02:10,960 --> 00:02:17,120
+And they go from the moon to Mercury to Venus, the sun, Mars, Jupiter, Saturn, and the stars.
+
+13
+00:02:18,161 --> 00:02:25,840
+The planets, just so you don't get confused, and it's sort of fun to realize how different things were in those days.
+
+14
+00:02:25,840 --> 00:02:29,280
+A planet was what moved around in the sky.
+
+15
+00:02:29,280 --> 00:02:34,800
+So there were two candidates for planets that we now don't think of as planets anymore.
+
+16
+00:02:34,801 --> 00:02:36,080
+What would they be?
+
+17
+00:02:36,080 --> 00:02:40,480
+What moves around in the night sky or the day sky for that matter?
+
+18
+00:02:40,480 --> 00:02:44,321
+The moon, one of them, that was a planet, because it's the bottom planet.
+
+19
+00:02:44,321 --> 00:02:45,520
+And what else?
+
+20
+00:02:45,840 --> 00:02:46,481
+The sun.
+
+21
+00:02:46,480 --> 00:02:53,920
+Right, so the sun and the moon get in there with Venus and Mercury and Mars and Jupiter and Saturn all the way to the same old ones.
+
+22
+00:02:53,921 --> 00:03:00,001
+And then the stars are those that don't move or have moved very, very, very slowly.
+
+23
+00:03:00,001 --> 00:03:06,240
+And they are, they're outside, the furthest outside sphere.
+
+24
+00:03:06,561 --> 00:03:15,040
+Then outside of that is where their astronomy and ours leave off together, stops having anything in common.
+
+25
+00:03:15,041 --> 00:03:24,001
+There's where the angels are, and the prime mover sphere, that's number nine.
+
+26
+00:03:24,001 --> 00:03:31,440
+That sphere turns, and when it turns, it turns all the others, so that all these planets move around the way they do.
+
+27
+00:03:31,441 --> 00:03:38,800
+And then there's this special place, which isn't even a place, which is heaven, the Empirean.
+
+28
+00:03:38,801 --> 00:03:44,800
+And there, there is the Trinity, the angels, the saints, and at the center of it is God.
+
+29
+00:03:44,801 --> 00:03:58,040
+You've got a picture of it in the Paradiso, which you don't have a copy of, but I was going to hand out a copy if I had known that there was a blank page there.
+
+30
+00:03:58,040 --> 00:03:59,321
+I would have put this on it.
+
+31
+00:03:59,321 --> 00:04:01,080
+Maybe I'll give it out next time.
+
+32
+00:04:01,400 --> 00:04:03,321
+There is, well, you have the paradis.
+
+33
+00:04:03,400 --> 00:04:05,321
+Wait, no, yeah, but this is the paradiso.
+
+34
+00:04:05,321 --> 00:04:25,321
+Anyway, there's a picture of this huge rose, like a big, big stadium in which God is in the center, and all the people who've gotten to paradise sit around and we're sort of like the bleachers and are blissed out by the radiance of God.
+
+35
+00:04:25,561 --> 00:04:28,360
+We'll get to that by the end of today.
+
+36
+00:04:28,360 --> 00:04:32,361
+That's where Dante gets by the end of his journey.
+
+37
+00:04:32,360 --> 00:04:33,001
+So let's see.
+
+38
+00:04:33,001 --> 00:04:38,520
+So there are the spheres and the planets and the so forth in this sort of super amphitheater.
+
+39
+00:04:38,840 --> 00:04:45,321
+And now, so Dante and Beatrice are ready to go there.
+
+40
+00:04:45,321 --> 00:04:50,520
+And when they are, they literally take off like rockets.
+
+41
+00:04:50,520 --> 00:04:58,121
+They just have to, so to speak, relax, and they are pulled toward God.
+
+42
+00:04:58,360 --> 00:04:59,881
+Oh, I forgot one important thing.
+
+43
+00:04:59,881 --> 00:05:00,921
+I knew there was something.
+
+44
+00:05:00,921 --> 00:05:19,960
+There's this sort of topological puzzle that God is, from the point of view of sort of the earth and material things, the furthest outside sphere, the most spiritual, but in a way farthest away.
+
+45
+00:05:19,960 --> 00:05:29,720
+But as the creator of the whole creation and the source of all the movement in the creation, God is in a spiritual way the center.
+
+46
+00:05:29,720 --> 00:05:34,720
+So God is in a kind of material way, well, the material center is Satan.
+
+47
+00:05:34,720 --> 00:05:43,920
+The heavy, material, unspiritual things fall down toward the center of the earth, and that's the center of the creation.
+
+48
+00:05:43,921 --> 00:05:47,280
+And at the very center of the earth is Satan.
+
+49
+00:05:47,280 --> 00:05:57,520
+But the spiritual center of it all, whose radiance makes everything move and who attracts everything from, so to speak, all corners of the creation, is God.
+
+50
+00:05:57,520 --> 00:06:05,600
+So there's a way that they're moving out toward the margin as they take off from the top of purgatory.
+
+51
+00:06:05,600 --> 00:06:18,400
+But Dante performs a kind of flip in here, which you don't read, in which he sort of just starts writing as not as if they were going out, but as if they were going in, because they are heading toward the center.
+
+52
+00:06:18,400 --> 00:06:23,520
+And the spiritual center is this big space around God.
+
+53
+00:06:23,520 --> 00:06:37,520
+But in this sort of chart that you've got, it's told from the point of view of the earth, not from the point of view of somebody on a kind of spiritual, mystical journey to see God.
+
+54
+00:06:37,520 --> 00:06:41,761
+So there, it looks like God is out there on the outside.
+
+55
+00:06:42,720 --> 00:06:47,201
+There are things just you have to explain just to sort of understand what's going on.
+
+56
+00:06:47,201 --> 00:06:50,561
+So God is really the center of everything, of the creation.
+
+57
+00:06:50,561 --> 00:06:56,241
+I may have said this once, but I'll say it again because I was going through my notes correcting it just now again.
+
+58
+00:06:56,240 --> 00:06:57,680
+I used to say the universe.
+
+59
+00:06:57,681 --> 00:07:01,441
+Did I apologize and take back talking about the universe?
+
+60
+00:07:01,441 --> 00:07:03,041
+I forget whether I ever did.
+
+61
+00:07:03,041 --> 00:07:09,281
+But it dawned on me a few courses back that the universe is our term.
+
+62
+00:07:09,281 --> 00:07:18,041
+It's still like Dante, and that the universe is one unified something or other, obeying the laws of physics, presumably.
+
+63
+00:07:17,121 --> 00:07:20,840
+But they don't have an idea of the universe.
+
+64
+00:07:21,000 --> 00:07:31,721
+That's sort of physics and astronomy, and it leaves out the most important thing about whatever it is we're in, and that is that it was all created by God.
+
+65
+00:07:31,720 --> 00:07:38,360
+So we should really always talk about the creation when we talk from within the Dante picture, not the universe.
+
+66
+00:07:38,360 --> 00:07:40,601
+The universe is a modern thing.
+
+67
+00:07:40,600 --> 00:07:43,080
+And the cosmos is a Greek thing.
+
+68
+00:07:43,080 --> 00:07:45,561
+It's not the universe or the creation.
+
+69
+00:07:45,561 --> 00:07:46,840
+It's something that is eternal.
+
+70
+00:07:46,921 --> 00:07:50,041
+It's sort of a structure which is eternal.
+
+71
+00:07:50,041 --> 00:07:57,241
+And whereas the universe may well have begun with the Big Bang, we don't, that's what it looks like now.
+
+72
+00:07:57,561 --> 00:07:59,801
+Anyway, so here we are.
+
+73
+00:07:59,801 --> 00:08:03,801
+Everything is created by God, and it's all unified.
+
+74
+00:08:03,801 --> 00:08:08,521
+And the best way to describe it is that God is the center of the creation.
+
+75
+00:08:08,520 --> 00:08:09,960
+He's the creator.
+
+76
+00:08:09,960 --> 00:08:11,721
+And he's the supreme being.
+
+77
+00:08:11,960 --> 00:08:16,041
+All of that is part of the same picture.
+
+78
+00:08:16,360 --> 00:08:19,001
+So now we're going to go start.
+
+79
+00:08:19,480 --> 00:08:32,041
+So now keep in front of you the handout, which has this picture we were just talking about of all the levels on the first page.
+
+80
+00:08:32,041 --> 00:08:34,201
+We're now on the back of the first page.
+
+81
+00:08:34,201 --> 00:08:37,720
+There's a kind of glitch here that I just have to tell you.
+
+82
+00:08:37,801 --> 00:08:40,600
+I didn't want to make them have to Xerox it all over.
+
+83
+00:08:40,600 --> 00:08:44,121
+Whoever Xeroxed it just cut off the top of the page.
+
+84
+00:08:44,120 --> 00:08:47,960
+If it had cut off any Dante, I would have had to re-xerox it.
+
+85
+00:08:47,960 --> 00:08:52,441
+But what they just cut off is that it says Paradiso, Canto 1.
+
+86
+00:08:52,441 --> 00:08:55,881
+But you might want to write that on there so you know where you are.
+
+87
+00:08:55,881 --> 00:09:11,120
+So at the top of this page, which begins, the glory of him who moves all things, that is Paradiso, Canto 1, and it's page 24 and 25 of the Shiarti, if you're ever looking it up.
+
+88
+00:09:11,441 --> 00:09:28,721
+Okay, it starts right out with this very important idea that's going to sort of run throughout the Paradiso, that God is the totally satisfying object that everybody desires.
+
+89
+00:09:28,720 --> 00:09:29,921
+Yes, help yourself.
+
+90
+00:09:29,921 --> 00:09:31,041
+This is what we're talking about.
+
+91
+00:09:31,041 --> 00:09:31,760
+You all got it.
+
+92
+00:09:31,760 --> 00:09:34,641
+This is the one we gave out before vacation.
+
+93
+00:09:34,641 --> 00:09:36,480
+You should have it in front of you.
+
+94
+00:09:36,480 --> 00:09:44,961
+If you don't have a copy, you should run up here and get one because we're going to be talking about reading things from within it.
+
+95
+00:09:46,561 --> 00:09:47,921
+Okay, help yourselves.
+
+96
+00:09:47,921 --> 00:09:48,881
+There you go.
+
+97
+00:09:48,880 --> 00:09:50,481
+Now, here we are.
+
+98
+00:09:50,480 --> 00:10:11,361
+And so to start with, the reason they are all being pulled upward from the top of the purgatory is because God, and this is just, you've got to keep this in mind all the time as you read this, God is the most satisfying thing in the universe.
+
+99
+00:10:11,360 --> 00:10:16,401
+He's the only totally satisfying being in the universe.
+
+100
+00:10:16,401 --> 00:10:24,961
+He has created all of the creatures who need what he has.
+
+101
+00:10:24,960 --> 00:10:29,921
+Only and only a vision of him is totally fulfilling.
+
+102
+00:10:29,921 --> 00:10:34,401
+And every creature gets as much vision of him as it can take.
+
+103
+00:10:34,401 --> 00:10:39,201
+I mean, earthworms obviously don't get much, and lizards either, but animals do better.
+
+104
+00:10:39,201 --> 00:10:51,241
+And we're capable, he created us capable of taking in the completely fulfilling and overwhelming radiance of the supreme being.
+
+105
+00:10:51,240 --> 00:10:58,681
+And so now, at the very beginning of the purgatory, of the paradiso, if I misspeak, correct me because I'll go back.
+
+106
+00:10:59,161 --> 00:11:04,681
+My mind on what I'm talking about, and I sometimes say the wrong sentence or the wrong book.
+
+107
+00:11:04,681 --> 00:11:08,201
+Anyway, here we are on page 24 of the Paradiso.
+
+108
+00:11:08,201 --> 00:11:13,480
+The glory of him who moves all things raised forth throughout the universe.
+
+109
+00:11:13,480 --> 00:11:14,201
+Uh-huh.
+
+110
+00:11:14,201 --> 00:11:16,201
+I wonder what it says.
+
+111
+00:11:16,521 --> 00:11:17,720
+I've got to go look.
+
+112
+00:11:17,720 --> 00:11:21,000
+I mean, that's Chiardi, of course, not Dante.
+
+113
+00:11:21,000 --> 00:11:25,481
+And Beatrice isn't here today, so I didn't bring the Italian.
+
+114
+00:11:25,480 --> 00:11:27,401
+It didn't occur to me I was going to need it.
+
+115
+00:11:27,401 --> 00:11:30,841
+Okay, so on the very first sentence, we have to find out.
+
+116
+00:11:30,840 --> 00:11:33,880
+I don't know what, I wonder what the Italian is.
+
+117
+00:11:34,360 --> 00:11:38,921
+I'll bring you word next time and see if I have to take back the universe.
+
+118
+00:11:39,000 --> 00:11:42,840
+Seems like they would, if it said creation, Chiari would have translated it creation.
+
+119
+00:11:42,921 --> 00:11:44,601
+Okay, well, whatever.
+
+120
+00:11:44,600 --> 00:11:46,760
+I'm going to say creation until proved otherwise.
+
+121
+00:11:46,760 --> 00:11:55,001
+The glory of him who moves all things raised forth through all the creation and is reflected from each thing in proportion to its worth.
+
+122
+00:11:55,000 --> 00:12:10,681
+Now, I think that really means that each thing, what each thing is worth, is how much fulfillment it can get from contemplating God.
+
+123
+00:12:10,681 --> 00:12:12,120
+Things are ranked that way.
+
+124
+00:12:12,121 --> 00:12:13,481
+You'll see in a minute.
+
+125
+00:12:14,760 --> 00:12:27,881
+Each species, each kind of thing, like animals and reptiles and people and so forth, is ranked in how much fulfillment it can take or get.
+
+126
+00:12:28,201 --> 00:12:47,761
+And even within people, and that's what the chart, again, that we've been looking at is, the back of the page that I just read from, you see that on each of these spheres, go back to the system of Dante's paradise, or the back there, there are various kinds of people.
+
+127
+00:12:47,760 --> 00:12:52,481
+They're not all equally capable of fulfillment.
+
+128
+00:12:52,480 --> 00:12:59,121
+They are, that's not quite the right word, way of saying it, but I'll say it that way for the moment.
+
+129
+00:12:59,120 --> 00:13:11,281
+And on each of the spheres, it isn't as if various species of people live, species is a funny word, various types of people.
+
+130
+00:13:11,521 --> 00:13:12,960
+There are types of people.
+
+131
+00:13:12,960 --> 00:13:23,201
+For instance, there are nuns, there are lovers, there are theologians, warriors, rulers, mystics, and so forth.
+
+132
+00:13:23,201 --> 00:13:30,721
+And each type of ruler is capable, as you go up this list, of more and more fulfillment.
+
+133
+00:13:30,720 --> 00:13:36,321
+Each type of ruler, did I say, sorry, each type of person, of human being.
+
+134
+00:13:36,641 --> 00:13:46,720
+And Chiardi, I think, has got it wrong already in that he's trying to figure out what's wrong with the people that are on the outer spheres.
+
+135
+00:13:46,720 --> 00:13:51,601
+How come they're not in the inner circle, so to speak?
+
+136
+00:13:51,600 --> 00:13:54,241
+And the answer is, I'm sure.
+
+137
+00:13:54,240 --> 00:13:58,961
+And remember, Dante doesn't write these explanations.
+
+138
+00:13:58,960 --> 00:14:02,001
+The Chiardi, or whoever the translator is, does.
+
+139
+00:14:02,000 --> 00:14:08,641
+What ranks these, we're asking, what ranks these people as nearer and near, well, I'm trying to say too many things at once.
+
+140
+00:14:08,641 --> 00:14:12,321
+The people on the spheres aren't really on the spheres, I have to say that.
+
+141
+00:14:12,321 --> 00:14:23,000
+They just come down to the spheres to meet Dante as he's going up, as he's so, as I say, rising like a rocket toward the supreme being.
+
+142
+00:14:23,960 --> 00:14:29,080
+He passes through all these crystalline spheres.
+
+143
+00:14:29,080 --> 00:14:34,121
+I'm sure he does that because he's now completely spiritual and disembodied.
+
+144
+00:14:34,120 --> 00:14:37,080
+And that's, I wonder where he got in discomfort.
+
+145
+00:14:37,880 --> 00:14:39,080
+He had a body in hell.
+
+146
+00:14:39,080 --> 00:14:44,281
+He went around kicking the head of somebody, and he got into the flames and it fell hot.
+
+147
+00:14:44,281 --> 00:14:46,201
+He still had a body in purgatory.
+
+148
+00:14:46,201 --> 00:14:51,481
+It was heavy, and he couldn't climb except when the sun was shining.
+
+149
+00:14:51,480 --> 00:14:58,121
+He left his body behind, I guess, when he left, when he took off from the top of purgatory.
+
+150
+00:14:58,120 --> 00:14:59,241
+Okay, I'm going to find out.
+
+151
+00:14:59,240 --> 00:15:00,681
+I'll tell you next time.
+
+152
+00:15:00,681 --> 00:15:04,281
+That's sort of the question: when did Dante lose his body?
+
+153
+00:15:04,281 --> 00:15:14,600
+But anyway, he's obviously lost it because his body, because he goes right through these spheres, along with Beatrice, who we know lost her body when she died.
+
+154
+00:15:14,600 --> 00:15:16,281
+She tells him that.
+
+155
+00:15:17,801 --> 00:15:30,840
+So at each crystal sphere, which has one of these things embedded in it, it has the planet Mercury or it has the sun or it has Venus.
+
+156
+00:15:30,841 --> 00:15:35,560
+And then it's when the sphere turns, the sun, we see the sun move.
+
+157
+00:15:35,560 --> 00:15:49,001
+And then this funny idea that you just have to get used to, they come down, these spirits who are there in this circle contemplating God in the Empyrean, they come down, which is the beatific rose is another name for it.
+
+158
+00:15:49,000 --> 00:15:53,881
+It's because it's got all these seats like an amphitheater, like petals, and so forth.
+
+159
+00:15:53,881 --> 00:16:05,201
+They come down from the rose to the sphere that is somehow symbolic of the kind of human being they were.
+
+160
+00:16:06,480 --> 00:16:12,401
+And now we ask ourselves, and why, and why are people on the moon?
+
+161
+00:16:12,720 --> 00:16:14,880
+Well, and who's on the moon?
+
+162
+00:16:14,881 --> 00:16:17,040
+Well, the nuns are on the moon.
+
+163
+00:16:17,040 --> 00:16:21,681
+And now Chihari comes in and says, well, what's really wrong with the people on the moon?
+
+164
+00:16:21,681 --> 00:16:27,600
+Why are they the furthest bleachers from where the beatific vision would be best?
+
+165
+00:16:27,601 --> 00:16:30,401
+They've got the worst seats in the house.
+
+166
+00:16:30,401 --> 00:16:32,080
+What did they do wrong?
+
+167
+00:16:32,081 --> 00:16:35,760
+Well, Chihari thinks they are unconstant.
+
+168
+00:16:35,760 --> 00:16:39,361
+Well, they are unconstant, as you will know if you read it.
+
+169
+00:16:39,361 --> 00:16:42,240
+Some of them, anyway, tell about that.
+
+170
+00:16:42,240 --> 00:16:44,081
+That they didn't keep their vows.
+
+171
+00:16:44,081 --> 00:16:48,561
+But that can't be right, because some of the nuns are just plain nuns.
+
+172
+00:16:48,560 --> 00:16:51,760
+It doesn't say that they all didn't keep their vows.
+
+173
+00:16:52,081 --> 00:17:01,681
+I'm pretty sure that what Dante thinks is that being a nun is just a pretty small way of being a human being.
+
+174
+00:17:01,681 --> 00:17:06,080
+I mean, it's a way of sort of getting out of the world too easily.
+
+175
+00:17:06,081 --> 00:17:10,480
+Let me go and show you where they say that she says that.
+
+176
+00:17:10,480 --> 00:17:12,400
+Now, have you got Canto 3?
+
+177
+00:17:12,401 --> 00:17:13,760
+I believe you have.
+
+178
+00:17:13,760 --> 00:17:15,441
+I hard to remember.
+
+179
+00:17:15,841 --> 00:17:17,520
+Do you have page 49?
+
+180
+00:17:17,841 --> 00:17:18,561
+Maybe not.
+
+181
+00:17:18,560 --> 00:17:20,400
+Maybe that's the other one I just gave out.
+
+182
+00:17:20,560 --> 00:17:21,441
+Just a second.
+
+183
+00:17:21,441 --> 00:17:23,201
+There are too many things running.
+
+184
+00:17:23,201 --> 00:17:24,240
+Well, I guess you just do.
+
+185
+00:17:24,320 --> 00:17:25,681
+I didn't give you 49.
+
+186
+00:17:25,681 --> 00:17:27,280
+It's not that important.
+
+187
+00:17:27,601 --> 00:17:29,360
+I just want to read you one thing.
+
+188
+00:17:29,760 --> 00:17:36,320
+One of the nuns on the moon says, as a girl, I'll tell you where it is in case it's important to you for some reason.
+
+189
+00:17:36,320 --> 00:17:41,360
+It's in Canto 3, line 101.
+
+190
+00:17:41,681 --> 00:17:57,000
+She says, as a girl, I fled the world to walk the way she walked, to close myself in, was she somebody else she's talking about, and closed myself into her habit that is dress, pledged to her sisterhood till my last day.
+
+191
+00:17:57,000 --> 00:18:06,520
+The point is, nuns are minimally open to the wonders of the creation.
+
+192
+00:18:06,520 --> 00:18:08,681
+She flees the world.
+
+193
+00:18:08,681 --> 00:18:11,560
+That's why they're the furthest away.
+
+194
+00:18:11,560 --> 00:18:36,280
+As you go up the list, well, I'm going to go up it later carefully, you have to think, I believe, that each kind of person that you see, which is that much closer to God and has that much more ability to take in total fulfilling radiance, each one as you go up is open to more of the creation.
+
+195
+00:18:36,601 --> 00:18:42,201
+And it's not because of bad things that you have to explain why they're out there.
+
+196
+00:18:42,201 --> 00:18:51,080
+You have to explain why they're out there when they're further out because they were open to less of the creation than the people who are furthest in.
+
+197
+00:18:51,081 --> 00:18:52,681
+But I will get back to that.
+
+198
+00:18:52,681 --> 00:18:57,720
+In fact, I'm not supposed to be talking about that now, but it doesn't matter.
+
+199
+00:18:57,881 --> 00:18:59,161
+But let's go back.
+
+200
+00:18:59,161 --> 00:19:04,760
+So God is totally fulfilling, and each creature reflects God to some extent.
+
+201
+00:19:04,760 --> 00:19:06,520
+That's what I'm talking about.
+
+202
+00:19:06,841 --> 00:19:13,560
+And they all are valuable, isn't quite the right word.
+
+203
+00:19:13,560 --> 00:19:17,320
+Merit is the word that shows up, and I've checked it in the Italian.
+
+204
+00:19:17,320 --> 00:19:18,761
+It's true, it says merit.
+
+205
+00:19:19,161 --> 00:19:27,800
+Their merit depends on how much of the universe they're able to be open to and take in and appreciate something like that.
+
+206
+00:19:27,800 --> 00:19:30,600
+And they're ranked according to those merits.
+
+207
+00:19:32,320 --> 00:19:47,921
+What I just want to say an aside, it wouldn't be worth telling you all this, except that one day it sort of occurred to me that this is an interesting example of how a medieval like Dante thinks about how God created the book of nature.
+
+208
+00:19:47,921 --> 00:19:50,960
+Remember, I said everything in nature has a meaning.
+
+209
+00:19:50,960 --> 00:20:00,320
+It isn't just that there are trees and elephants and crocodiles and so forth, but all that can be interpreted religiously and morally.
+
+210
+00:20:00,320 --> 00:20:02,880
+Well, look what he's doing to the planets.
+
+211
+00:20:02,881 --> 00:20:19,760
+I mean, he's telling you that I presume it's true, I'm assuming, and it must be so, that they know that how the planets are ranked as further and further and further away from us.
+
+212
+00:20:20,081 --> 00:20:23,040
+And where are we on this chart?
+
+213
+00:20:23,361 --> 00:20:26,240
+Hmm, everything seems pleasant to me.
+
+214
+00:20:26,240 --> 00:20:27,361
+Well, we're in the center.
+
+215
+00:20:27,361 --> 00:20:29,760
+We're below the moon, that's sure.
+
+216
+00:20:29,760 --> 00:20:46,240
+There is the, we are, we are, remember, try to picture this the way it looks to an ordinary person who hasn't done any, hasn't learned any astronomy of the Galileo and Copernican sort, who doesn't know that we're going around the sun.
+
+217
+00:20:46,240 --> 00:20:48,080
+The Earth is the center.
+
+218
+00:20:48,081 --> 00:20:52,880
+And these are further and further from the center.
+
+219
+00:20:53,201 --> 00:20:57,600
+And that means nearer and nearer the Empire.
+
+220
+00:20:57,601 --> 00:21:05,280
+Nearer and nearer, they're further and further from the material center and nearer and nearer the spiritual center.
+
+221
+00:21:05,280 --> 00:21:09,120
+Now, having said all that, I'm not sure it was worth the struggle.
+
+222
+00:21:09,121 --> 00:21:33,640
+It turns out that the distance of these spheres from the spiritual center is, and they get nearer and nearer as you go up in this spiritual way, corresponds to their merit, which corresponds to how much of the creation they can appreciate and enjoy.
+
+223
+00:21:33,960 --> 00:21:38,441
+And so Dante, this is now the move about the creation.
+
+224
+00:21:38,441 --> 00:22:01,401
+Dante has to think that corresponding to each of these spheres, there is a certain interpretation of the meaning of that sphere, and that corresponds to a certain amount of openness.
+
+225
+00:22:02,921 --> 00:22:04,921
+I'm just doing this wrong, but I'm going to go.
+
+226
+00:22:04,921 --> 00:22:06,361
+I have to go ahead now.
+
+227
+00:22:06,361 --> 00:22:09,401
+I got myself into something that I have to go finish.
+
+228
+00:22:09,401 --> 00:22:15,880
+As long as I've said all that, I've got to rush through and tell you, because otherwise this seems completely mysterious.
+
+229
+00:22:15,881 --> 00:22:18,841
+So I've already done number one in a way.
+
+230
+00:22:19,161 --> 00:22:35,561
+The nuns are the least open to the marvels and able to love and be loved less by the Creator than anybody else.
+
+231
+00:22:35,720 --> 00:22:37,720
+That's not quite the right way to put it.
+
+232
+00:22:37,720 --> 00:22:49,080
+Able to, their desires are smaller, and therefore their satisfaction is less.
+
+233
+00:22:49,401 --> 00:22:58,280
+Therefore, they don't need to be near, and it would make no sense for them to be near God in the rose.
+
+234
+00:22:58,280 --> 00:23:09,600
+They're farther away, but, and this is what I'm going to read you in a moment, they don't mind because they are completely fulfilled.
+
+235
+00:23:09,921 --> 00:23:19,760
+It's just that the amount of fullness to fill, or how what it would be to fulfill them, is less than what it would be to fulfill.
+
+236
+00:23:19,760 --> 00:23:24,720
+Let's take the extreme opposite, the mystics at number seven.
+
+237
+00:23:24,720 --> 00:23:36,720
+Dante thinks of the mystics as, as I'll read you the quote, contemplating all the universe in all of its detail and seeing how it's all bound together.
+
+238
+00:23:36,720 --> 00:23:40,320
+That's certainly not what any of the people beneath them can do.
+
+239
+00:23:40,320 --> 00:23:51,201
+So, but let me show you that you get this funny result, which Dante is very happy with, that everyone is happy, so to speak, where they are.
+
+240
+00:23:51,201 --> 00:23:52,641
+So, let's go through that.
+
+241
+00:23:52,800 --> 00:23:54,161
+I jumped ahead, but that's all right.
+
+242
+00:23:54,161 --> 00:23:55,361
+We'll come back to Dante.
+
+243
+00:23:55,361 --> 00:24:07,521
+We're putting aside for a minute Dante and Beatrice flying through space, making the trip from the top of purgatory through all the spheres to God.
+
+244
+00:24:08,081 --> 00:24:11,280
+Let them be flying there while we talk about this for a minute.
+
+245
+00:24:11,280 --> 00:24:24,000
+So, the people come down from the rose, and it impressed Dante that the order of the planets reflects the order of amount of fulfillment that they're capable of.
+
+246
+00:24:24,000 --> 00:24:27,600
+Now, you have to assume, I see somebody looking worried.
+
+247
+00:24:27,601 --> 00:24:33,840
+You know, Venus is somehow associated with love.
+
+248
+00:24:33,841 --> 00:24:38,080
+And I don't know how where that comes from, but Dante buys it.
+
+249
+00:24:38,081 --> 00:24:40,241
+Mars is associated with warriors.
+
+250
+00:24:40,240 --> 00:24:42,480
+It's just like it is still.
+
+251
+00:24:43,121 --> 00:24:58,120
+And what is amazing, but only natural since God created the universe, is that the ranking of all these various forms of human life, the hierarchical ranking, corresponds to the way the planets just are in the universe.
+
+252
+00:24:58,121 --> 00:25:18,360
+You see how, so that writes the sort of understanding of the order of the planets into this understanding of that, not just that they happen to be yanked out of the original solar mess in that order, like we think, and it doesn't mean anything.
+
+253
+00:25:18,361 --> 00:25:23,880
+And moreover, the names on them are just caught on their ass, and it doesn't mean anything either, we would say.
+
+254
+00:25:23,881 --> 00:25:40,921
+That the names of these planets tell you what kind of person is associated with those planets, and the order of the planets ought to correspond, and Dante thinks it does, I believe, to the amount of creation that this person is open to appreciate.
+
+255
+00:25:40,921 --> 00:25:42,441
+Now let's go through it.
+
+256
+00:25:42,760 --> 00:25:53,800
+So we've already seen that the nuns are sort of timid and flee the toughness of the earth.
+
+257
+00:25:54,280 --> 00:26:00,120
+They aren't able to take on all that much fulfillment.
+
+258
+00:26:02,040 --> 00:26:12,120
+And even though, this is the funny part, they are total, all fold in heaven, are totally fulfilled.
+
+259
+00:26:12,441 --> 00:26:13,960
+Even the nuns.
+
+260
+00:26:13,960 --> 00:26:15,161
+So how can that be?
+
+261
+00:26:15,161 --> 00:26:21,960
+I mean, here are these mystics taking in the whole c of creation and all of its order and all of its unity.
+
+262
+00:26:21,960 --> 00:26:26,360
+And here are these nuns fleeing even this world into the nunnery.
+
+263
+00:26:26,361 --> 00:26:29,240
+And yet they're all totally fulfilled.
+
+264
+00:26:29,240 --> 00:26:33,121
+Well, it's sort of like from a hell of a from Alice in Wonderland.
+
+265
+00:26:33,121 --> 00:26:36,000
+How many of you remember the walrus and the carpenter?
+
+266
+00:26:36,000 --> 00:26:49,760
+They both, when they went out and ate oysters, the the Alice worries about the fact that I the walrus ate more oysters, but but it turns out the carpenter ate fewer oysters, but he ate all the oysters he could.
+
+267
+00:26:49,760 --> 00:26:53,681
+And then Alice doesn't know which one to condemn worse.
+
+268
+00:26:53,681 --> 00:26:59,280
+The more, the walrus who ate more oysters or the carpenter who ate all the oysters they could.
+
+269
+00:26:59,280 --> 00:27:04,480
+Well, it's the the the nuns have taken in all the fulfillment they can.
+
+270
+00:27:04,480 --> 00:27:06,480
+So that and that's the important thing.
+
+271
+00:27:06,480 --> 00:27:10,240
+They are totally fulfilled, but they are like small containers.
+
+272
+00:27:10,240 --> 00:27:13,921
+And Gante talks about that on 48.
+
+273
+00:27:14,560 --> 00:27:16,320
+And now I think you do have that, don't you?
+
+274
+00:27:16,560 --> 00:27:18,881
+The next batch of things I gave you.
+
+275
+00:27:19,040 --> 00:27:25,840
+That's one of the reasons I, or I'm beginning to have a sinking feeling that maybe they didn't copy all I wanted them to copy.
+
+276
+00:27:26,081 --> 00:27:29,441
+The second thing we hung out, we handed out today.
+
+277
+00:27:29,760 --> 00:27:33,040
+Uh-huh, there's, oh, no wonder it's so small.
+
+278
+00:27:33,040 --> 00:27:35,760
+And no wonder it's got nothing on the back.
+
+279
+00:27:36,000 --> 00:27:39,760
+Well, I'll read it to you, that's all.
+
+280
+00:27:40,560 --> 00:27:42,561
+We're looking in Canto 3.
+
+281
+00:27:42,560 --> 00:27:43,760
+You don't have Canto 3?
+
+282
+00:27:44,081 --> 00:27:45,201
+I think you do.
+
+283
+00:27:45,201 --> 00:27:49,040
+I think I just have too many pieces of paper in front of me.
+
+284
+00:27:49,760 --> 00:27:51,201
+So it should be.
+
+285
+00:27:51,520 --> 00:27:55,840
+Has anybody found any evidence that you might have page 48?
+
+286
+00:27:56,240 --> 00:27:58,000
+I did hand out 48?
+
+287
+00:27:58,000 --> 00:27:59,441
+No, page 48.
+
+288
+00:27:59,441 --> 00:28:00,401
+I didn't.
+
+289
+00:28:01,681 --> 00:28:03,520
+Well, yeah, I thought we had Canto 3.
+
+290
+00:28:03,921 --> 00:28:04,960
+Where is Canto 3?
+
+291
+00:28:05,201 --> 00:28:06,321
+What I hand it out?
+
+292
+00:28:06,320 --> 00:28:06,880
+Yeah.
+
+293
+00:28:07,520 --> 00:28:08,401
+There, okay.
+
+294
+00:28:08,641 --> 00:28:09,121
+Good.
+
+295
+00:28:09,121 --> 00:28:10,401
+That's what I want.
+
+296
+00:28:10,401 --> 00:28:10,880
+That's right.
+
+297
+00:28:10,881 --> 00:28:12,800
+It wouldn't be page 48, as I said, right.
+
+298
+00:28:12,520 --> 00:28:15,041
+Right, now I got it because I had to use a different translation.
+
+299
+00:28:15,040 --> 00:28:15,921
+So here we go.
+
+300
+00:28:15,921 --> 00:28:20,120
+Now, I want you to look, one, at Canto 3, line 103.
+
+301
+00:28:21,081 --> 00:28:25,560
+And that's what I read already, but now that we've got ourselves organized, we can look at it.
+
+302
+00:28:25,560 --> 00:28:29,561
+Line 103 says that I fled the world.
+
+303
+00:28:29,560 --> 00:28:33,561
+I don't know how it says, I fled as a young girl to follow her and so forth.
+
+304
+00:28:33,560 --> 00:28:34,520
+Oh, it's fun.
+
+305
+00:28:34,520 --> 00:28:35,960
+There's no fled the world there.
+
+306
+00:28:35,960 --> 00:28:37,320
+I like better fled the world.
+
+307
+00:28:37,320 --> 00:28:38,921
+But it comes to the same thing.
+
+308
+00:28:38,921 --> 00:28:45,881
+But now I want to talk about how they're all equally fulfilled, which is a very interesting sort of Dante thing.
+
+309
+00:28:46,201 --> 00:28:48,120
+Starting line 70.
+
+310
+00:28:48,121 --> 00:28:50,600
+Boy, this is the hardest to cope with.
+
+311
+00:28:51,161 --> 00:28:53,161
+Got 69.
+
+312
+00:28:54,121 --> 00:29:01,000
+But when Canto 3, trying to find line 70, I don't see line 7.
+
+313
+00:29:01,320 --> 00:29:03,560
+Tell me where line 70 is.
+
+314
+00:29:04,201 --> 00:29:06,121
+406, I see 72.
+
+315
+00:29:06,121 --> 00:29:09,480
+Ah, yeah, but 72 is the first number I see, but you're right.
+
+316
+00:29:09,480 --> 00:29:18,441
+So top of 406, you've got, brother, the virtue of our heavenly love tempers our will and makes us want no more than what we have.
+
+317
+00:29:18,441 --> 00:29:21,000
+We thirst for this alone.
+
+318
+00:29:21,000 --> 00:29:27,240
+If we desire to be higher up, then our desires would not be in accord with his will who assigns us to this sphere.
+
+319
+00:29:27,240 --> 00:29:32,840
+Think carefully what love is, and you'll see such discord has no place and so forth and so forth.
+
+320
+00:29:33,240 --> 00:29:52,520
+What this says is, they are, by the way God set up the creation, happy with the amount of divine presence they've got because they're capable of less total openness and less total love.
+
+321
+00:29:52,841 --> 00:29:59,001
+See, Dante's asking, you have to go back to the previous page, 405, to see what he's answering.
+
+322
+00:29:59,000 --> 00:29:59,800
+They're answering.
+
+323
+00:29:59,800 --> 00:30:03,841
+I mean, he's saying, but tell me, this is line 64.
+
+324
+00:30:04,000 --> 00:30:11,360
+All you souls so happy here, do you learn for a higher post in heaven to see more, to become more loved by him?
+
+325
+00:30:11,681 --> 00:30:12,560
+And she smiled.
+
+326
+00:30:12,560 --> 00:30:15,840
+I mean, they all said that they were full of happiness.
+
+327
+00:30:15,841 --> 00:30:23,441
+And then they explain that they're completely happy because they've got, in effect, all the love they can take.
+
+328
+00:30:24,401 --> 00:30:36,401
+Well, Dante says also in 64, please tell, line 64, please, but tell me, please, do you who are happy here have any wish to rise to a higher station and make yourself more dear?
+
+329
+00:30:36,720 --> 00:30:39,840
+And she says, no.
+
+330
+00:30:40,161 --> 00:30:42,080
+What we desire, we have.
+
+331
+00:30:44,320 --> 00:30:46,000
+I'm looking at 70.
+
+332
+00:30:46,081 --> 00:30:47,681
+70s is so different.
+
+333
+00:30:47,681 --> 00:30:49,681
+I like it in Chiardi for this.
+
+334
+00:30:49,681 --> 00:30:52,640
+I'll read it over in the other version.
+
+335
+00:30:52,641 --> 00:30:56,401
+Brother, the power of love, which is our bliss, calms our will.
+
+336
+00:30:56,401 --> 00:30:58,560
+What we desire, we have.
+
+337
+00:30:58,560 --> 00:31:01,121
+There is in us no other thirst than this.
+
+338
+00:31:01,121 --> 00:31:02,880
+How does it go over here?
+
+339
+00:31:02,881 --> 00:31:05,280
+That's how I'm reading 72.
+
+340
+00:31:06,800 --> 00:31:08,881
+Make us want no more than what we have.
+
+341
+00:31:08,881 --> 00:31:10,321
+We thirst for this alone.
+
+342
+00:31:10,320 --> 00:31:11,441
+Okay, that's all right.
+
+343
+00:31:11,441 --> 00:31:24,560
+So now, but now you can run through, once you see how it goes, and see how Dante thinks that the souls are ranked by how much fulfillment they can take.
+
+344
+00:31:24,881 --> 00:31:34,881
+That we're still looking at the nuns, so now on Canto 4, which I don't think you have, which I'm going to read you one thing from.
+
+345
+00:31:34,881 --> 00:31:42,161
+Okay, um in Canto 4, line 34, which you don't have, you hear more about this.
+
+346
+00:31:42,480 --> 00:31:45,201
+All add their beauty to the highest wheel.
+
+347
+00:31:45,201 --> 00:31:55,880
+That's the divine source of all movement, and share the sweet life and vary it only by how much of the eternal breath they feel.
+
+348
+00:31:56,201 --> 00:32:05,000
+They showed themselves here, they show themselves here not because this post has been assigned to them, but to symbolize that they stand lowest in the heavenly host.
+
+349
+00:32:06,361 --> 00:32:08,921
+He's explaining why they show up on the moon.
+
+350
+00:32:08,921 --> 00:32:10,120
+Okay, that's enough.
+
+351
+00:32:10,121 --> 00:32:14,681
+The point is to see that, and we'll only see it if we go through some more.
+
+352
+00:32:14,681 --> 00:32:15,720
+Ah, good, a question.
+
+353
+00:32:21,800 --> 00:32:23,320
+Wow, wow, I don't know.
+
+354
+00:32:23,320 --> 00:32:24,681
+That's a very good question.
+
+355
+00:32:25,320 --> 00:32:27,321
+I know what Dante says about it.
+
+356
+00:32:27,320 --> 00:32:30,041
+I was going to come to it later.
+
+357
+00:32:31,081 --> 00:32:36,921
+Remind me to come back to that when I talk about what Mark Lombardo says about free will.
+
+358
+00:32:36,920 --> 00:32:40,520
+Because you're asking an interesting question that Dante's thought about.
+
+359
+00:32:40,521 --> 00:32:52,760
+So when each being, each human being is created, are they already created only with the ability to love a certain amount and therefore turn into a nun from the start?
+
+360
+00:32:52,760 --> 00:32:55,240
+And I think the answer is supposed to be no.
+
+361
+00:32:55,240 --> 00:32:56,920
+But I'll wait.
+
+362
+00:32:59,001 --> 00:33:00,040
+So now what?
+
+363
+00:33:00,041 --> 00:33:01,801
+So everything is ordered here.
+
+364
+00:33:01,800 --> 00:33:03,801
+Everything is harmonious.
+
+365
+00:33:03,800 --> 00:33:09,961
+All these spheres, each one of them has its own, has people on it that have their own job.
+
+366
+00:33:10,601 --> 00:33:22,760
+Love and politics and war and so forth don't conflict the way, say, for Agamemnon, love of Ephigenia, and having to be king, going to war, conflict.
+
+367
+00:33:22,760 --> 00:33:31,960
+Dante has set up the universe, or Dante tells us how the Creator has set up the universe, so that everything is harmonious.
+
+368
+00:33:32,720 --> 00:33:36,641
+I think the word harmonious appears in something we just read, doesn't it?
+
+369
+00:33:36,641 --> 00:33:38,720
+Or did I imagine it?
+
+370
+00:33:38,720 --> 00:33:41,121
+Discourse can have no place among these circles.
+
+371
+00:33:41,280 --> 00:33:44,641
+Discord can have no place among these circles.
+
+372
+00:33:44,641 --> 00:33:55,921
+And that's the idea that God, who's after all unified, creates a creation that is unified.
+
+373
+00:33:56,481 --> 00:33:58,321
+Now let's see where we are.
+
+374
+00:33:59,681 --> 00:34:02,321
+Oh, it's just here's the harmony thing.
+
+375
+00:34:03,280 --> 00:34:07,760
+But it's again, it's not in what you've got, but it's not worth your having a whole page for.
+
+376
+00:34:07,760 --> 00:34:22,321
+In Canto 8, line 100, not only does the perfect mind, that's God, provide for the diversities of every nature, but for their good and harmony besides.
+
+377
+00:34:22,320 --> 00:34:31,601
+That just means naturally, of course, that you're going to have a harmonious world that is made by a good, created by a good God.
+
+378
+00:34:32,561 --> 00:34:34,081
+Now let's see.
+
+379
+00:34:34,320 --> 00:34:40,161
+Now I'm going to run quickly, just making up what I think Dante thinks about these others.
+
+380
+00:34:40,161 --> 00:34:47,520
+So the nuns withdraw from the world, they don't desire much, but they get all that they can desire.
+
+381
+00:34:48,161 --> 00:34:58,641
+And then there are other ones who have much more desires and get much closer.
+
+382
+00:34:58,641 --> 00:35:01,921
+And that's where we're on to Venus.
+
+383
+00:35:02,880 --> 00:35:04,480
+I don't understand Mercury.
+
+384
+00:35:04,641 --> 00:35:06,880
+I didn't want to go back and worry about it.
+
+385
+00:35:06,880 --> 00:35:08,881
+Let's jump to Venus.
+
+386
+00:35:08,880 --> 00:35:19,641
+But whatever Mercury is, somebody who does want to worry about it could figure out, and maybe I will if I get time, why it doesn't have anything to do with marred by ambition.
+
+387
+00:35:19,641 --> 00:35:30,441
+I think these people, just whoever they are, just don't have much ambition, just like the nuns don't have much, don't have much, make many demands on God and the creation.
+
+388
+00:35:30,440 --> 00:35:33,560
+But the lovers, they're higher up.
+
+389
+00:35:33,561 --> 00:35:39,081
+One of the interesting things about the lovers is they're not at the top or high up toward the top.
+
+390
+00:35:39,081 --> 00:35:55,321
+I think that's because though Dante always likes lovers and he likes the lovers that he meets as he goes up, they are, after all, only able to love maybe one or a few more people.
+
+391
+00:35:55,320 --> 00:36:08,760
+What's interesting, I just want to mention it, the lovers he meets in this are particularly lovers who got either very intense love or very or lots of lovers.
+
+392
+00:36:08,760 --> 00:36:15,641
+And that fits, I mean, it's love making you as open as possible to some of the goods of the creation.
+
+393
+00:36:15,641 --> 00:36:25,960
+So there's one line about Dido in here in Canto 8, which says, that's not the Dido line I want.
+
+394
+00:36:26,280 --> 00:36:27,240
+Ah, here it is.
+
+395
+00:36:27,240 --> 00:36:29,401
+Okay, I'm in Canto 9 now.
+
+396
+00:36:29,400 --> 00:36:43,881
+And there's a person named Falket who says, Dido did not burn hotter with love's rage when she offended both Sicius and Crusea than I before my locks grew thin with age.
+
+397
+00:36:43,880 --> 00:37:00,441
+That's a, in other words, a love as intense as Dido's, which for Virgil, I just bring this out, is so destructive and is a kind of quantity that gets you nearer to God when you're capable of that kind of love.
+
+398
+00:37:00,440 --> 00:37:12,320
+And to Chiardi's kind of embarrassment and annoyance, the other soul he talks to is famous, promiscuous lady, Kuniza.
+
+399
+00:37:12,320 --> 00:37:12,960
+I don't know.
+
+400
+00:37:12,961 --> 00:37:21,840
+She says, I shine here because this star conquered me with its flame, yet gladly I embrace the fate, and so forth.
+
+401
+00:37:21,840 --> 00:37:24,160
+That's the one she's with now.
+
+402
+00:37:24,481 --> 00:37:28,720
+But it turns out in the footnote, that where was it?
+
+403
+00:37:28,720 --> 00:37:37,521
+She's had three husbands, and she's a very outgoing person and has lots of lovers and so forth.
+
+404
+00:37:37,521 --> 00:38:01,201
+Then she's the one Dante picks out to talk to because I think being open to being intensely, sensually and totally in love with one person or even many gets you higher up in the rankings.
+
+405
+00:38:03,601 --> 00:38:10,561
+The footnote says, her amorous nature was like the force of fate that shaped her lot.
+
+406
+00:38:10,561 --> 00:38:11,681
+I guess that's all right.
+
+407
+00:38:11,681 --> 00:38:18,161
+I don't know about the force of fate, how she got that way, but she is open to everybody.
+
+408
+00:38:18,161 --> 00:38:20,161
+I doubt if any of you have ever read a book.
+
+409
+00:38:20,720 --> 00:38:22,560
+I'm fishing just to wonder.
+
+410
+00:38:23,440 --> 00:38:25,921
+Anybody read Graham Green books?
+
+411
+00:38:26,641 --> 00:38:28,481
+Grad The End of the Affair?
+
+412
+00:38:28,481 --> 00:38:37,440
+It's about this woman who has this sort of torrid affair with God and keeps track of it in her diary, and her lover finds the diaries and is jealous.
+
+413
+00:38:37,440 --> 00:38:45,521
+It's sort of very, Graham Greene is a Catholic, and it's very tuned into this canto, I think.
+
+414
+00:38:45,521 --> 00:38:46,641
+So let's see then.
+
+415
+00:38:46,641 --> 00:39:04,041
+So then there's the lovers, and after that, the theologians, which are the people who think about God, which is certainly a bigger subject to be concerned with than one other person or even lots of lovers.
+
+416
+00:39:04,041 --> 00:39:18,281
+And the church warriors, then, I take it that as crusaders, which is what they must be, they also have a big, you know, they're very involved in the world, very active, cover a lot of ground.
+
+417
+00:39:18,601 --> 00:39:21,561
+And then there are the Jupiter, the just rulers.
+
+418
+00:39:21,561 --> 00:39:31,481
+They must have even vaster desires, be more active and more powerful, and therefore more demanding of creation and more satisfied.
+
+419
+00:39:31,481 --> 00:39:33,240
+And finally, the contemplatives.
+
+420
+00:39:33,240 --> 00:39:35,641
+And you might think, well, why the contemplatives?
+
+421
+00:39:35,641 --> 00:39:43,001
+They seem to be the least active and the least sort of taking over the creation the way the warriors were.
+
+422
+00:39:43,001 --> 00:39:48,600
+Well, then you get this explanation on 336, which is, I'll have to see if you have it.
+
+423
+00:39:48,601 --> 00:39:51,881
+I don't remember.
+
+424
+00:39:51,880 --> 00:39:53,961
+Well, you probably do.
+
+425
+00:39:53,961 --> 00:39:55,161
+Well, but it isn't.
+
+426
+00:39:55,240 --> 00:39:57,081
+Oh, 363, you certainly have.
+
+427
+00:39:57,240 --> 00:40:02,521
+So look on yours, 363, which is Canto 33.
+
+428
+00:40:02,840 --> 00:40:04,040
+I think you have it.
+
+429
+00:40:04,041 --> 00:40:05,961
+Do you have Canto 33?
+
+430
+00:40:05,961 --> 00:40:07,000
+You may not.
+
+431
+00:40:07,641 --> 00:40:08,441
+You do.
+
+432
+00:40:08,440 --> 00:40:14,041
+Okay, then you're 85, line 85.
+
+433
+00:40:14,681 --> 00:40:18,521
+Now, this is what the mystic sees.
+
+434
+00:40:18,521 --> 00:40:22,121
+I saw within its depth, that is God.
+
+435
+00:40:22,121 --> 00:40:27,081
+Well, this is Dante, but he's seeing the kind of thing the mystic sees at this point.
+
+436
+00:40:27,081 --> 00:40:31,960
+He says, I fixed my eyes on the eternal light until my vision was consumed in it.
+
+437
+00:40:32,161 --> 00:40:40,720
+I saw within its depths depths, which conceives all things in a single volume bound by love, of which the universe is the scattered leaves.
+
+438
+00:40:40,720 --> 00:40:43,121
+The universe again, interesting.
+
+439
+00:40:43,681 --> 00:40:54,561
+And so the mystics see the world from God's point of view, for instance, which is the most satisfying of anything.
+
+440
+00:40:55,681 --> 00:41:01,040
+And that is to see the world as one unified book.
+
+441
+00:41:01,280 --> 00:41:05,040
+If it says universe, I can see now why it might.
+
+442
+00:41:05,760 --> 00:41:09,601
+I mean, the creation is a universe.
+
+443
+00:41:09,601 --> 00:41:10,240
+I don't know.
+
+444
+00:41:10,481 --> 00:41:12,480
+I'm going to find out whether they use the term.
+
+445
+00:41:12,481 --> 00:41:18,720
+But the creation is totally unified, bound like the leaves into one book.
+
+446
+00:41:18,720 --> 00:41:25,680
+But that's only natural, because the understanding of being is createdness, and one supreme being created it.
+
+447
+00:41:25,681 --> 00:41:32,240
+It's not going to have contradictions and a multiplicity of gods and forces in it.
+
+448
+00:41:32,240 --> 00:41:38,561
+Now, having done that, which I was going to do, but not in the order I did it, doesn't matter.
+
+449
+00:41:38,561 --> 00:41:41,681
+I'm going back to where I was going to be.
+
+450
+00:41:42,161 --> 00:41:44,640
+But let's have any comments, because that's all I have to say.
+
+451
+00:41:44,641 --> 00:41:49,841
+I was just trying to give you an overall story about the layout of paradise.
+
+452
+00:41:49,840 --> 00:41:54,081
+And that's not the main thing that interests us.
+
+453
+00:41:54,081 --> 00:41:55,840
+So I'm finished with it.
+
+454
+00:41:56,161 --> 00:41:58,000
+Unless anybody has anything to say about it.
+
+455
+00:41:58,001 --> 00:42:01,600
+It's just since you don't have the book and we don't have time to read much, I have to fill it in.
+
+456
+00:42:01,601 --> 00:42:02,161
+Yeah.
+
+457
+00:42:02,481 --> 00:42:03,121
+Yeah.
+
+458
+00:42:04,720 --> 00:42:06,080
+What is verse?
+
+459
+00:42:07,041 --> 00:42:09,921
+Yeah, I know uni is one, but what do you think verse is?
+
+460
+00:42:09,920 --> 00:42:11,601
+I don't know either.
+
+461
+00:42:12,880 --> 00:42:14,400
+Words first, uni.
+
+462
+00:42:14,400 --> 00:42:16,320
+Ah, well, that's neat.
+
+463
+00:42:16,320 --> 00:42:19,880
+I don't know if it's true, but you want to make it sort of God's word.
+
+464
+00:42:17,041 --> 00:42:23,481
+In the beginning was the word, and that was the universe.
+
+465
+00:42:24,121 --> 00:42:25,000
+Nido.
+
+466
+00:42:25,001 --> 00:42:25,801
+I don't know.
+
+467
+00:42:26,121 --> 00:42:27,561
+We have to look it up.
+
+468
+00:42:27,561 --> 00:42:29,560
+Now we've got all kinds of interesting questions.
+
+469
+00:42:29,561 --> 00:42:34,121
+I doubt it, but it sounds like a good, I wish it were.
+
+470
+00:42:34,121 --> 00:42:45,561
+Okay, I'm going to go to, having done now the layout of Paradise, I want to go through more details about Dante and Beatrice.
+
+471
+00:42:45,561 --> 00:42:51,321
+So I've just argued that everything moves to its proper place by love.
+
+472
+00:42:51,320 --> 00:42:57,641
+That is, it gets the amount of fulfillment that it is capable of having.
+
+473
+00:42:57,641 --> 00:43:06,280
+And they, because they're capable of lots of love, they're taking off from the top of purgatory.
+
+474
+00:43:06,280 --> 00:43:13,401
+Now we go back to the page where we started, page 24, the one that doesn't have any number on it.
+
+475
+00:43:14,920 --> 00:43:24,040
+Then I want to go and go on from there to page 27, which I believe you must have too.
+
+476
+00:43:24,041 --> 00:43:25,801
+Yes, page 27.
+
+477
+00:43:25,800 --> 00:43:27,481
+We're in Canto 1.
+
+478
+00:43:27,481 --> 00:43:31,081
+We're in line this.
+
+479
+00:43:31,240 --> 00:43:33,881
+Well, here we are.
+
+480
+00:43:33,880 --> 00:43:36,360
+But you just get some description of it.
+
+481
+00:43:36,360 --> 00:43:40,840
+At the top, on line 91, you think you are still on Earth.
+
+482
+00:43:40,840 --> 00:43:42,680
+This is Beatrice talking to Dante.
+
+483
+00:43:42,681 --> 00:43:50,841
+The lightning fear never fled downward from its natural place as rapidly as you are rising here.
+
+484
+00:43:51,481 --> 00:44:03,361
+And that's, and then skipping down to 103, of all things she began, whatever their mode, observed an inner, they observe an inner order in this form that makes the universe resemble God.
+
+485
+00:44:01,561 --> 00:44:05,681
+Boy, am I making a fool of myself over universe?
+
+486
+00:44:01,880 --> 00:44:07,360
+It's all over the place.
+
+487
+00:44:07,681 --> 00:44:10,801
+I wonder how I ever had this ingenious idea to get rid of it.
+
+488
+00:44:12,081 --> 00:44:17,681
+I'm getting more and more convinced that the universe for Dante, but it was already a universe for Dante.
+
+489
+00:44:17,681 --> 00:44:19,681
+It just wasn't our kind of universe.
+
+490
+00:44:19,681 --> 00:44:27,441
+I mean, his kind of universe was created, so it's also called the creation, and is full of this human meaning.
+
+491
+00:44:27,440 --> 00:44:35,841
+Our universe just blew up one day, as far as we now think and know, which is subject to revision anyway.
+
+492
+00:44:35,840 --> 00:44:50,000
+But it doesn't seem to have written in it something so that you could read off from the order of the planets, the order of fulfillment of people whose personality corresponds to the personality associated with the planets.
+
+493
+00:44:50,001 --> 00:44:52,561
+I mean, that's a different kind of universe.
+
+494
+00:44:52,641 --> 00:44:56,321
+And I wish he would just call it a creation, but maybe not.
+
+495
+00:44:56,320 --> 00:44:59,441
+Anyway, so the universe resembles God.
+
+496
+00:45:00,081 --> 00:45:09,440
+And now, skipping down to 109, all being within this order, by the laws of its own nature, is impelled to find its proper station around its primal cause.
+
+497
+00:45:09,440 --> 00:45:17,601
+This is more and more, you get to where the intensity of God's love equals just how much love you need.
+
+498
+00:45:17,601 --> 00:45:25,281
+Thus, every nature moves across the tide of the great sea of being to its own port, each with its given instinct as its guide.
+
+499
+00:45:25,280 --> 00:45:30,961
+Now, that seems to cast some light on the question whether it gets born that way.
+
+500
+00:45:31,280 --> 00:45:34,321
+It may be that I'm not sure.
+
+501
+00:45:34,320 --> 00:45:42,801
+It now looks like each thing is, each, maybe each type of thing gets a certain amount of fulfillment.
+
+502
+00:45:42,800 --> 00:45:49,161
+I don't know yet whether nuns have got the instinct, doubt it, but I'm not sure.
+
+503
+00:45:49,161 --> 00:45:51,800
+This instinct draws the fire about the moon.
+
+504
+00:45:47,041 --> 00:45:53,641
+It is the mover in the mortal heart.
+
+505
+00:45:53,800 --> 00:45:56,760
+It draws the earth together and makes it one.
+
+506
+00:45:56,760 --> 00:46:01,401
+All of this, the love is holding everything together.
+
+507
+00:46:01,400 --> 00:46:05,641
+And all creatures have this instinct for love.
+
+508
+00:46:05,641 --> 00:46:16,441
+Not only the brute creatures are now in 118, but all those possess of intellect and love, this instinct drives their mark as a bow shoots forth its arrows.
+
+509
+00:46:18,920 --> 00:46:21,161
+I'm trying to figure out.
+
+510
+00:46:21,161 --> 00:46:22,201
+We'll see more in a minute.
+
+511
+00:46:22,201 --> 00:46:24,040
+I just don't want to be mysterious.
+
+512
+00:46:24,601 --> 00:46:37,960
+We'll see that Mark Lombardo tells Dante that every creature, and babies, for instance, are born with this total love, that is, that they're able to throw themselves into loving everything.
+
+513
+00:46:38,280 --> 00:46:51,961
+And I thought that meant that maybe with intensity, but I now think it probably means just with diversity, that the intensity of your love might be settled by your DNA or your instinct.
+
+514
+00:46:51,961 --> 00:47:00,760
+And then it's up to you what you, how much intensity you can take, but then it's up to you to direct it.
+
+515
+00:47:01,561 --> 00:47:02,681
+We'll get back to that.
+
+516
+00:47:02,681 --> 00:47:05,401
+I want to go, I'm still in Canto 1.
+
+517
+00:47:05,400 --> 00:47:07,961
+And then I'm now in line 124.
+
+518
+00:47:07,961 --> 00:47:10,920
+And to it now is a place foretold.
+
+519
+00:47:10,920 --> 00:47:12,441
+Are we two soaring?
+
+520
+00:47:12,440 --> 00:47:17,641
+This is Beatrice and Dante, driven by the bow, whose every arrow finds a mark of gold.
+
+521
+00:47:17,961 --> 00:47:25,401
+But now comes where free will comes in, which we're going to have to hear more about, on line 130.
+
+522
+00:47:25,720 --> 00:47:34,400
+Well, starting with 127, it's true that oftentimes the form of a thing does not respond to the intent of the art, the matter being deaf to summoning.
+
+523
+00:47:31,961 --> 00:47:36,400
+Wow, I could use another translation.
+
+524
+00:47:36,720 --> 00:47:40,480
+But I know what Dante's saying.
+
+525
+00:47:40,481 --> 00:47:42,720
+I just wonder if it's that obscure.
+
+526
+00:47:42,720 --> 00:47:50,321
+Aristotle says that the matter of which things are made doesn't always take on the form very well.
+
+527
+00:47:50,320 --> 00:47:55,521
+So people manage, trees don't all grow to be beautiful, perfect live oaks.
+
+528
+00:47:55,521 --> 00:48:02,240
+Some of them, the matter out of which the tree is made just doesn't take on the perfect form of a live oak.
+
+529
+00:48:02,240 --> 00:48:08,400
+And that's the sense in which, and now, but that's only half the story.
+
+530
+00:48:08,400 --> 00:48:10,961
+And people have something more.
+
+531
+00:48:10,961 --> 00:48:16,561
+They have free will to not develop in the way that they should.
+
+532
+00:48:16,561 --> 00:48:18,320
+Well, we know that, don't we?
+
+533
+00:48:18,320 --> 00:48:36,321
+Because in the city of this, the homosexuals have substituted, by way of their free will and autonomy, a different goal than their natural instinct, which is heterosexual, according to Dante.
+
+534
+00:48:36,320 --> 00:48:46,321
+And so everybody is capable of not following out their instincts.
+
+535
+00:48:46,320 --> 00:48:48,400
+But notice what that does with free will.
+
+536
+00:48:48,400 --> 00:48:50,561
+That makes it a negative sort of thing.
+
+537
+00:48:50,561 --> 00:49:02,081
+The only thing you can do with free will is turn aside from the goal that God has built into you with your instincts.
+
+538
+00:49:02,400 --> 00:49:04,560
+And we'll hear more about that in a minute.
+
+539
+00:49:05,041 --> 00:49:12,240
+There are lots of different views of free will going around here, and I'm going to collect them all together before maybe before the end of today.
+
+540
+00:49:12,240 --> 00:49:13,440
+I'm not sure yet.
+
+541
+00:49:13,760 --> 00:49:15,281
+So here we are.
+
+542
+00:49:16,481 --> 00:49:28,841
+All the material side of them is gone, and that's why they can now fly up as they do toward God with their instinct, their love, pulling them toward God.
+
+543
+00:49:28,840 --> 00:49:34,840
+And that's just what you would expect.
+
+544
+00:49:34,840 --> 00:49:38,361
+Free will, I'm just reading what I've written here, can deflect things.
+
+545
+00:49:38,360 --> 00:49:44,681
+And in Virgil, let me give you a sort of quick run-through what's happening with free will.
+
+546
+00:49:44,920 --> 00:49:48,360
+By the way, I can't tell when I read about Dante on free will.
+
+547
+00:49:48,601 --> 00:49:51,801
+You can think about it if it happens to be what you want to think about.
+
+548
+00:49:51,800 --> 00:49:55,321
+Either he's very smart or he's very confused.
+
+549
+00:49:55,320 --> 00:49:59,240
+I mean, on any points, this puzzles me.
+
+550
+00:49:59,240 --> 00:50:09,641
+I mean, but I'm always ready to give him credit for being very smart and only as confused as you have to be if you try to make sort of Greek sense of Christianity.
+
+551
+00:50:09,880 --> 00:50:11,800
+But they're deep troubles.
+
+552
+00:50:11,800 --> 00:50:24,521
+But on this subject of free will, I think he thinks that there are various ways of thinking about it, but they're all wrong, except for the one that finally wins out at the end of the discussion.
+
+553
+00:50:24,521 --> 00:50:52,521
+But the first thing is, remember Virgil said way back on Inferno 112, this important thing about free will, which I talked about right before vacation, I think, or at least not enough, but where he says, this is Canto, now I'm in the Inferno, Canto 12, line 45.
+
+554
+00:50:53,001 --> 00:50:54,680
+No, that's not quite it yet.
+
+555
+00:50:54,920 --> 00:50:59,801
+I've written the wrong thing, but it's right in this vicinity, so I will have to find it.
+
+556
+00:50:59,800 --> 00:51:08,161
+Well, hmm, you remember that you, that according to Virgil, you have the free will to contain your love.
+
+557
+00:51:08,481 --> 00:51:18,240
+So the picture is that you start out like a child loving everything with all your might.
+
+558
+00:51:18,240 --> 00:51:39,201
+And when you, thanks to your parents and the church and the state, you finally get it so that you restrain your love so that and that's I'm amazed I don't have it because I spent a lot of trouble looking for that quote and then I thought I wrote it down.
+
+559
+00:51:39,440 --> 00:51:41,441
+Anybody know where that is?
+
+560
+00:51:41,440 --> 00:51:43,760
+Maybe it's the one, is it in the purgatory?
+
+561
+00:51:44,001 --> 00:51:45,280
+Okay, where in the purgatory?
+
+562
+00:51:45,360 --> 00:51:47,600
+Maybe I'm, aha, that's probably what happened.
+
+563
+00:51:47,601 --> 00:51:50,401
+I wrote the wrong page number.
+
+564
+00:51:50,400 --> 00:51:52,001
+Let's go look.
+
+565
+00:51:52,240 --> 00:51:52,960
+Who's talking?
+
+566
+00:51:52,961 --> 00:51:54,240
+Now, Virgil?
+
+567
+00:51:55,121 --> 00:51:56,481
+Tell me where now?
+
+568
+00:51:56,481 --> 00:51:58,161
+Give me a page number.
+
+569
+00:51:58,481 --> 00:52:10,561
+He says, and that's why I was looking for it: free will is this business to constrain yourself to hold in and Beatrice will tell you more about it.
+
+570
+00:52:11,201 --> 00:52:12,720
+But where does he say that?
+
+571
+00:52:12,720 --> 00:52:15,121
+I had it in mind.
+
+572
+00:52:15,440 --> 00:52:16,240
+Hmm.
+
+573
+00:52:16,561 --> 00:52:17,280
+Aha.
+
+574
+00:52:17,280 --> 00:52:19,840
+I just, it just, here it is, 190.
+
+575
+00:52:19,840 --> 00:52:23,521
+I don't have any place where I say 190, but that's where it is.
+
+576
+00:52:23,521 --> 00:52:25,040
+How peculiar.
+
+577
+00:52:25,360 --> 00:52:26,240
+Okay.
+
+578
+00:52:26,880 --> 00:52:30,000
+Well, anyway, here it is, and important.
+
+579
+00:52:30,001 --> 00:52:33,041
+We're in, it's in the purgatory.
+
+580
+00:52:33,041 --> 00:52:40,161
+It's in Canto 28, 18, right?
+
+581
+00:52:40,161 --> 00:52:40,641
+And we have it.
+
+582
+00:52:40,641 --> 00:52:41,840
+Do we have it in our handout?
+
+583
+00:52:41,840 --> 00:52:44,001
+I hope, but I doubt it.
+
+584
+00:52:44,961 --> 00:52:47,001
+Oh, we have, where are we in?
+
+585
+00:52:46,641 --> 00:52:48,681
+Ah, we have the book, right?
+
+586
+00:52:48,920 --> 00:52:50,600
+So for that, we're all set.
+
+587
+00:52:50,601 --> 00:52:52,201
+But you don't have it with you, probably.
+
+588
+00:52:52,201 --> 00:52:55,640
+So I'm going to read it to you just for a moment.
+
+589
+00:52:56,121 --> 00:53:07,001
+So he says: let us say all the love, we're in now Canto 18, line 70.
+
+590
+00:53:07,001 --> 00:53:13,961
+All the love that burns in you springs from necessity, but you still have the power to check its sway.
+
+591
+00:53:13,961 --> 00:53:17,961
+These noble powers Beatrice will comprehend as free will.
+
+592
+00:53:17,961 --> 00:53:22,121
+Keep that term in mind if you should speak of it when you ascend.
+
+593
+00:53:22,121 --> 00:53:26,521
+Now, the interesting thing is, Beatrice never says anything like that.
+
+594
+00:53:26,521 --> 00:53:32,121
+And either Dante is, as I say, just stupid and dropping the ball, or I think clever.
+
+595
+00:53:32,121 --> 00:53:45,401
+Remember, Virgil has to think that you can't get total satisfaction out of anything in the universe, and least of all loving other people, as we saw with Dido, but anything.
+
+596
+00:53:45,400 --> 00:53:57,401
+And therefore, as a Stoic, he says that you have to cut back your love and desire so that you don't ask more from things than they're actually able to give you.
+
+597
+00:53:57,481 --> 00:53:58,760
+Just said a certain thing.
+
+598
+00:53:58,760 --> 00:53:59,641
+No, it's okay.
+
+599
+00:53:59,961 --> 00:54:21,481
+And that's what you have to believe in a universe in which there isn't any God in the middle of a beatific rose that has created the whole universe specifically to satisfy and created people so that they've got exactly the sort of desires that that supreme being can exactly satisfy.
+
+600
+00:54:21,481 --> 00:54:33,201
+If that's the case, the last thing you would be wanting to do is hold in your desire, which is this business of check the love that burns in you.
+
+601
+00:54:31,961 --> 00:54:37,841
+And when you get to Beatrice, she doesn't say that.
+
+602
+00:54:38,161 --> 00:54:51,281
+She says that free will is what makes people turn aside, which is this, what I was just talking about, that is they get deflected from where they're supposed to go.
+
+603
+00:54:51,521 --> 00:54:56,000
+I want to write down just a second because I don't want to get it wrong all the time.
+
+604
+00:54:57,201 --> 00:55:00,081
+We're in the purgatory.
+
+605
+00:55:00,481 --> 00:55:02,240
+That's a very important passage.
+
+606
+00:55:02,240 --> 00:55:04,240
+You've got to remember that always.
+
+607
+00:55:04,561 --> 00:55:08,481
+That's where Virgil goes completely wrong.
+
+608
+00:55:08,481 --> 00:55:12,080
+And I said this once before, but I'll just repeat it.
+
+609
+00:55:12,081 --> 00:55:17,921
+There seems to be lots of evidence that Virgil goes wrong, except that none of the critics seem to notice it.
+
+610
+00:55:17,920 --> 00:55:20,081
+And I could be mad at making it up.
+
+611
+00:55:20,081 --> 00:55:40,401
+But just as soon as Virgil says that free will is that which you can be constrained, which constrains, checks your enthusiasm and your love and your desire, and tells Dante that Beatrice is going to say more about it, which I'm sure she doesn't, all kinds of weird things happen.
+
+612
+00:55:40,400 --> 00:55:48,481
+The moon comes out, looking as bright as a bucket, and thins the lesser stars that seem to drown.
+
+613
+00:55:48,481 --> 00:56:01,041
+Well, maybe I'm reading too much into it, but I think the moon is this kind of pale copy of the sun, and in Virgil and antiquity has got a kind of pale copy of what's really going on.
+
+614
+00:56:01,041 --> 00:56:02,960
+They've got something that's correct.
+
+615
+00:56:02,961 --> 00:56:08,081
+That is, you can use your will to rein in your desires.
+
+616
+00:56:08,081 --> 00:56:09,441
+But it's not true.
+
+617
+00:56:09,440 --> 00:56:18,440
+It's given our kind of universe, you shouldn't use your free will to rein in your desires, and then maybe thins the lesser stars.
+
+618
+00:56:18,440 --> 00:56:20,121
+Remember the three stars?
+
+619
+00:56:16,880 --> 00:56:23,960
+They're the stars for faith, hope, and charity.
+
+620
+00:56:24,280 --> 00:56:33,801
+So the Virgil kind of explanation with its kind of reflected light would dim the faith, hope, and charity stars.
+
+621
+00:56:33,800 --> 00:56:36,440
+Virgil doesn't believe in faith, hope, and charity.
+
+622
+00:56:36,440 --> 00:56:41,481
+Virgil believes in temperance, wisdom, courage, and justice.
+
+623
+00:56:41,481 --> 00:56:44,760
+Those are the four stars of antiquity.
+
+624
+00:56:44,760 --> 00:57:09,401
+So there's all that evidence, and then the most important evidence, I think, right after that is that they're on the circle of the slothful, and as Virgil says, you know, rein in your will, guard the threshold of consent, at that very moment, a mob of people comes rushing at them, and they're all yelling, faster, faster, to be slow in love is to lose time.
+
+625
+00:57:09,400 --> 00:57:15,320
+That would seem to be a comment on Virgil saying, you know, reign in your love, control yourselves.
+
+626
+00:57:15,320 --> 00:57:21,881
+There's nothing really to get excited about, nothing satisfying, nothing worth living for, and so forth.
+
+627
+00:57:21,880 --> 00:57:27,081
+So, anyway, so now back to what is the story on free will then?
+
+628
+00:57:27,081 --> 00:57:37,481
+Well, it looks like in the purgatory on 173, you get a discussion of free will.
+
+629
+00:57:37,481 --> 00:57:40,120
+I mean, it doesn't say anything like that.
+
+630
+00:57:40,440 --> 00:57:52,521
+It says at the top of 173, we're in Canto 6 line 70.
+
+631
+00:57:53,161 --> 00:58:11,361
+All free, if the star, if the heavens determine what people do, starting at line 68, if the heavens, this heavens are not God, this astrology, Mark Lombardo was ranting against astrology.
+
+632
+00:58:11,360 --> 00:58:13,601
+Dante doesn't believe in astrology.
+
+633
+00:58:13,601 --> 00:58:28,480
+And says, if the heavens were the source of all things good and evil, then things would be in man sees in the heaven the source of good and evil, but if that were true, then all free will would be destroyed and there would be no justice and so forth.
+
+634
+00:58:28,481 --> 00:58:36,080
+This is partly an answer to your question now about sort of you can't just be programmed, born programmed, period, to go to God.
+
+635
+00:58:36,081 --> 00:58:45,040
+You are born sort of programmed to go to God in that you have a sign of desire that only God can satisfy, that you don't have to do it.
+
+636
+00:58:45,681 --> 00:58:53,201
+Though why you don't, it's got this whole story about rebellion or stupidity or bad government.
+
+637
+00:58:53,201 --> 00:59:04,161
+Dante's very much in thinking that it's the duty of the government to proscribe things that are bad for people, like addictive drugs.
+
+638
+00:59:04,161 --> 00:59:08,961
+And he thinks it's the role of the church to tell people what they should be desiring.
+
+639
+00:59:08,961 --> 00:59:15,601
+And that helps them from making stupid mistakes and going after the wrong sort of thing.
+
+640
+00:59:15,601 --> 00:59:17,840
+So let's read more of this now.
+
+641
+00:59:17,840 --> 00:59:19,681
+I'm on 173.
+
+642
+00:59:20,240 --> 00:59:23,121
+The spheres do start, your impulses are wrong.
+
+643
+00:59:23,121 --> 00:59:25,921
+That's just all what I'm trying to say to him.
+
+644
+00:59:26,081 --> 00:59:28,800
+I do not say all, but suppose I did.
+
+645
+00:59:28,800 --> 00:59:31,841
+The light of reason still tells right from wrong.
+
+646
+00:59:31,840 --> 00:59:39,521
+And free will also, though it be strained in the first battles with the heaven, can conquer if it is sustained.
+
+647
+00:59:39,521 --> 00:59:42,401
+And if that is the government and the church, help you.
+
+648
+00:59:42,400 --> 00:59:50,601
+You are free subjects of a more immense nature and power which grants your intellect to free you from the heaven's influences.
+
+649
+00:59:47,041 --> 00:59:52,201
+That's the anti-astrology.
+
+650
+00:59:52,521 --> 00:59:58,201
+If therefore men today turn from God's law, the fault is with themselves, and so forth.
+
+651
+00:59:58,201 --> 01:00:05,641
+Now, the next important thing relevant to your question is line 85, still on 170, page 173.
+
+652
+01:00:05,641 --> 01:00:12,841
+Because this is where it turns out that everybody starts out headed toward God.
+
+653
+01:00:12,840 --> 01:00:15,001
+That is, with these desires.
+
+654
+01:00:15,001 --> 01:00:20,281
+Remember, I quote the Augustine quote: that my soul is restless until it finds rest in thee.
+
+655
+01:00:20,280 --> 01:00:27,720
+That every soul comes into the world already pre-programmed by God with the desires that only God can satisfy.
+
+656
+01:00:27,720 --> 01:00:29,801
+But then they get off track.
+
+657
+01:00:30,121 --> 01:00:47,240
+But here it says, From the hand of God, whose love shines like a ray upon it, even before birth, comes forth the simple soul, which, like a child at play, cries, laughs, and ignorant of every measure that is completely unvirgil-like.
+
+658
+01:00:47,240 --> 01:00:52,521
+But the glad impulse of its joyous maker turns eagerly to all that gives its pleasure.
+
+659
+01:00:52,521 --> 01:01:01,321
+It tastes small pleasures first, to these it clings, deceived, it seeks no others, unless someone curb it or guide its love to higher things.
+
+660
+01:01:01,320 --> 01:01:02,921
+Well, that's very interesting.
+
+661
+01:01:02,920 --> 01:01:12,760
+So the baby tends to want to get too much out of the mother's breast and the mother's milk, or out of the, I don't know, playing with the cat or something.
+
+662
+01:01:12,760 --> 01:01:18,240
+It throws itself into all of those things and enjoys them immensely and would get stuck on them.
+
+663
+01:01:18,240 --> 01:01:25,000
+If it weren't that there is some kind of guidance from the parents and the church and the state.
+
+664
+01:01:25,320 --> 01:01:32,001
+That's the unless someone guide it's love to higher things.
+
+665
+01:01:27,320 --> 01:01:34,881
+So otherwise it will cling.
+
+666
+01:01:35,760 --> 01:01:44,481
+So it tastes small pleasures and clings deceived and seeks no others unless someone curb it or guide its love to higher things.
+
+667
+01:01:44,481 --> 01:01:48,560
+Well, the someone curb it, that's Virgil, luckily.
+
+668
+01:01:48,561 --> 01:01:52,240
+Although I think the state still has a role with drugs and stuff.
+
+669
+01:01:52,240 --> 01:01:55,520
+Or guides it to higher things, that's the role of the church.
+
+670
+01:01:55,521 --> 01:02:03,201
+Dante's way into the separation of church and state, each of them with their own jobs and not to mess up with each other.
+
+671
+01:02:03,201 --> 01:02:14,081
+And when it's, and so then free will can turn aside, but it needn't turn aside.
+
+672
+01:02:14,081 --> 01:02:19,360
+And when it doesn't turn aside, then it should just get out of the way.
+
+673
+01:02:19,360 --> 01:02:21,201
+This is the crucial thing now.
+
+674
+01:02:21,521 --> 01:02:31,121
+What should free will do, ideally, if God has set you up to desire what God can supply and nothing else can?
+
+675
+01:02:31,121 --> 01:02:37,601
+And free will enables you to turn aside or to curb your desires.
+
+676
+01:02:37,601 --> 01:02:41,121
+It follows that you should really get rid of your free will.
+
+677
+01:02:41,440 --> 01:02:45,841
+It's one of these things where autonomy and will is turned upside down.
+
+678
+01:02:45,840 --> 01:02:55,601
+Only like in the Odyssey, where receptiveness is valuable, and every time anybody tries to do something on their own rational willfulness, it goes bad.
+
+679
+01:02:55,601 --> 01:02:57,681
+So here it's the same kind of thing.
+
+680
+01:02:58,001 --> 01:03:01,281
+Openness is the right thing.
+
+681
+01:03:01,280 --> 01:03:08,481
+Once you've got openness, you're going off toward heaven like a rocket because that's where you're going to get your total fulfillment.
+
+682
+01:03:08,481 --> 01:03:19,641
+And the best you can do with your free will is give it up and just do what comes natural.
+
+683
+01:03:16,320 --> 01:03:23,000
+That's what I think Beatrice is saying.
+
+684
+01:03:23,240 --> 01:03:25,080
+So free will can turn aside.
+
+685
+01:03:25,081 --> 01:03:29,641
+Then you get to 189 in this discussion, and Beatrice finally does say something.
+
+686
+01:03:29,800 --> 01:03:35,161
+She doesn't say what you expect her to say, I think, if you've been believing Virgil.
+
+687
+01:03:35,481 --> 01:03:49,000
+So she says on 189, line 43: if love springs from outside the soul's own will, with being made to love, what merit is there in loving good or blaming, loving ill?
+
+688
+01:03:49,001 --> 01:03:52,760
+Oh, that's Dante asked that question of Lombardo.
+
+689
+01:03:52,760 --> 01:03:55,640
+Sorry, Beatrice will come along in a minute.
+
+690
+01:03:55,641 --> 01:04:04,760
+But so Dante says, if your soul is just built for this, why don't you just do it?
+
+691
+01:04:05,800 --> 01:04:09,161
+And Lombardo says, as far as reason sees, I can reply.
+
+692
+01:04:09,161 --> 01:04:10,920
+The rest you must ask Beatrice.
+
+693
+01:04:10,920 --> 01:04:13,481
+The answer lies with faith mysteries.
+
+694
+01:04:13,481 --> 01:04:16,680
+Well, he never does get any answer from Beatrice.
+
+695
+01:04:16,681 --> 01:04:18,280
+He never even asks Beatrice.
+
+696
+01:04:18,440 --> 01:04:24,360
+So this is the last word you get on it, I think, in Canto, what, 18.
+
+697
+01:04:24,360 --> 01:04:26,121
+I want to read the rest.
+
+698
+01:04:26,121 --> 01:04:29,161
+Oh, yeah, well, anyway, it was a whole long thing we have to read.
+
+699
+01:04:29,161 --> 01:04:29,641
+Where are we?
+
+700
+01:04:29,641 --> 01:04:31,720
+We're in the purgatory, so you have it.
+
+701
+01:04:31,720 --> 01:04:33,320
+You better go read it too.
+
+702
+01:04:33,320 --> 01:04:34,440
+But I'll read it to you.
+
+703
+01:04:34,440 --> 01:04:37,641
+This is the last word on free will.
+
+704
+01:04:38,201 --> 01:04:40,760
+Let me see where I have to go back to reading it.
+
+705
+01:04:40,760 --> 01:04:50,920
+So there's an innate appetite in you, as within the bee, that instinct to make honey, and such instincts are in themselves not blamable nor worthy.
+
+706
+01:04:50,920 --> 01:04:52,281
+That's where you start.
+
+707
+01:04:52,280 --> 01:04:57,720
+Now, that all, now that all later wills, this first bent may thrive.
+
+708
+01:04:57,720 --> 01:05:01,640
+The inner counsel of your reason must guard the threshold of consent.
+
+709
+01:05:01,641 --> 01:05:04,400
+See, that's going to sound, that sounds just like Virgil.
+
+710
+01:05:04,400 --> 01:05:06,401
+I hope it isn't Virgil talking.
+
+711
+01:05:06,400 --> 01:05:07,681
+It might be.
+
+712
+01:05:07,681 --> 01:05:08,720
+It's Virgil.
+
+713
+01:05:08,720 --> 01:05:09,760
+Okay, wow.
+
+714
+01:05:09,760 --> 01:05:12,881
+Well, did I just read that a minute ago already?
+
+715
+01:05:12,880 --> 01:05:14,320
+Or am I getting confused?
+
+716
+01:05:14,320 --> 01:05:17,040
+It's the same as he says earlier, where you have to curb it.
+
+717
+01:05:17,041 --> 01:05:20,881
+This is another statement by Virgil of curbing it.
+
+718
+01:05:20,880 --> 01:05:22,320
+So there you are.
+
+719
+01:05:23,201 --> 01:05:31,841
+Virgil is again saying, ask Beatrice, but he's telling you what he thinks: reason guides the threshold of consent, that line 63.
+
+720
+01:05:31,840 --> 01:05:38,081
+This is the principle from which accrue your just deserts and reaps and winnows good and evil in you.
+
+721
+01:05:38,081 --> 01:05:48,081
+In other words, your good will is what guides you in the right direction, and your bad will takes you in the wrong direction, but it's all a question of will.
+
+722
+01:05:48,400 --> 01:05:51,601
+Now, let me go on, skipping a little.
+
+723
+01:05:51,601 --> 01:05:59,441
+Or to put it another way, 70, all love, let us say, that burns in you springs from necessity, but you have the power to check its sway.
+
+724
+01:05:59,440 --> 01:06:01,921
+Again, again and again, this stoic thing.
+
+725
+01:06:01,920 --> 01:06:03,681
+Now comes this crazy line.
+
+726
+01:06:03,681 --> 01:06:07,521
+These noble powers, Beatrice will comprehend this free will.
+
+727
+01:06:07,521 --> 01:06:13,121
+Keep that term in mind when she when if she should speak of it, when you ascend.
+
+728
+01:06:13,121 --> 01:06:21,521
+And then comes all this craziness, where the moon comes out and the people come rushing by saying faster and faster.
+
+729
+01:06:21,521 --> 01:06:29,201
+So now we see that clearly Virgil is wrong.
+
+730
+01:06:29,201 --> 01:06:32,720
+And nobody asks Beatrice.
+
+731
+01:06:32,720 --> 01:06:34,400
+So what do we think?
+
+732
+01:06:34,400 --> 01:06:46,961
+Well, I think what you're supposed to think is that free will can make you swerve aside from your natural tendency to seek the good.
+
+733
+01:06:47,161 --> 01:06:49,880
+It's instinctual like bees making honey.
+
+734
+01:06:50,201 --> 01:06:55,880
+And free will can come in and keep you from doing that by restraining you.
+
+735
+01:06:56,520 --> 01:07:05,240
+And free will can come in, and I don't know who says this, but it probably said somewhere, help you bend and swerve your will back in the right direction.
+
+736
+01:07:05,240 --> 01:07:07,640
+That's what happens in purgatory.
+
+737
+01:07:07,640 --> 01:07:16,360
+But in the end, you end up where you started as a baby, completely open with no will.
+
+738
+01:07:16,680 --> 01:07:24,840
+Only the difference is that you now have exactly going to whatever it is that is right for you and most satisfies you.
+
+739
+01:07:24,841 --> 01:07:32,760
+Whereas the baby unfortunately gets hooked on everything it likes, from an ice cream to whatever.
+
+740
+01:07:33,801 --> 01:07:39,640
+But like a baby, you're back just open and responding, I think.
+
+741
+01:07:39,640 --> 01:07:44,760
+Now I want to get to where that is crucial, so I have to jump ahead.
+
+742
+01:07:44,761 --> 01:07:46,201
+And now we're ready for the end.
+
+743
+01:07:46,201 --> 01:07:50,041
+I hope to get there, and I'll just jump to it and go back over it again.
+
+744
+01:07:50,041 --> 01:07:58,201
+The end of the whole divine comedy, where you get to find out finally what happens with Dante and Beatrice and willpower.
+
+745
+01:07:59,400 --> 01:08:06,680
+And it's all, and you got it now in your pieces of the Paradiso.
+
+746
+01:08:06,680 --> 01:08:15,400
+First, the important thing is that when you finally get the vision of God, you will have been totally satisfied.
+
+747
+01:08:15,400 --> 01:08:18,360
+You won't need or want anything else.
+
+748
+01:08:18,761 --> 01:08:27,560
+But let's go, that's in line 100, page 364, Canto 33.
+
+749
+01:08:27,560 --> 01:08:33,440
+Experiencing that radiance, the spirit is so indrawn, it is impossible even to think of ever turning from it.
+
+750
+01:08:33,761 --> 01:08:41,121
+For the good, which is the will's ultimate object, is all subsumed in it, and being removed, all is detected, did defective.
+
+751
+01:08:41,121 --> 01:08:42,881
+So there you are, completely.
+
+752
+01:08:43,041 --> 01:08:46,240
+And what consequence does that have once you see that?
+
+753
+01:08:47,041 --> 01:08:59,440
+Where will Beatrice be once you see that God can give you everything you want, and turning from it will only diminish your joy and fulfillment?
+
+754
+01:08:59,761 --> 01:09:01,121
+Where's Beatrice?
+
+755
+01:09:01,121 --> 01:09:02,560
+What's her place?
+
+756
+01:09:02,881 --> 01:09:04,400
+Well, she's got to leave.
+
+757
+01:09:04,400 --> 01:09:11,201
+She vanishes the way Virgil vanished, only not quite so totally, but almost.
+
+758
+01:09:11,201 --> 01:09:20,161
+That is, he looks around, and when they get up to the top and get in the presence of God, and Virgil is gone.
+
+759
+01:09:21,121 --> 01:09:22,640
+Canto 31.
+
+760
+01:09:22,961 --> 01:09:30,960
+He's looking into, and then line 55, he's looking into this wonderful vision he's having.
+
+761
+01:09:30,961 --> 01:09:36,320
+And then, at the bottom, look at line 65.
+
+762
+01:09:36,320 --> 01:09:38,960
+She, where is she, I cried suddenly.
+
+763
+01:09:39,280 --> 01:09:40,240
+Dread.
+
+764
+01:09:40,240 --> 01:09:46,881
+And to lead you to your goal of all you wish, Beatrice offered me, called me for my place, he said.
+
+765
+01:09:46,881 --> 01:09:49,680
+And Saint Bernard has now arrived.
+
+766
+01:09:49,680 --> 01:09:51,760
+And what happened to Beatrice?
+
+767
+01:09:51,761 --> 01:09:59,440
+Well, Beatrice is now up in the rose, way close to God, with the saints where she belongs.
+
+768
+01:09:59,440 --> 01:10:02,161
+And Dante doesn't really need her anymore.
+
+769
+01:10:02,161 --> 01:10:06,720
+And he thanks her as if she were Jesus on 341.
+
+770
+01:10:08,161 --> 01:10:30,360
+And line 77, O lady in whom my hope shall ever soar, and who for my salvation suffered even to set foot your feet upon hell's broken floor, skipping a little, you have led me from my bondage and set me free by all those roads, by all those loving means that lay within your power and charity.
+
+771
+01:10:30,360 --> 01:10:33,400
+And that is, she's the way, obviously.
+
+772
+01:10:33,400 --> 01:10:46,440
+She's now getting out of the way, almost like a pun, to let him do, she has souped up his world so that nothing can satisfy him anymore except total fulfillment.
+
+773
+01:10:46,440 --> 01:10:50,280
+And now she gets out of his way and he gets the total fulfillment.
+
+774
+01:10:50,280 --> 01:10:51,800
+And where is she?
+
+775
+01:10:51,801 --> 01:10:53,720
+This is line 91.
+
+776
+01:10:53,721 --> 01:11:01,240
+Such was my prayer and she, far up a mountain, as it appeared to me, way up in the rose, looked down and smiled.
+
+777
+01:11:01,240 --> 01:11:04,520
+Then she turned back to the eternal fountain.
+
+778
+01:11:04,520 --> 01:11:06,520
+Well, the eternal fountain is God.
+
+779
+01:11:06,520 --> 01:11:08,680
+She's happy that Dante made it.
+
+780
+01:11:08,680 --> 01:11:11,560
+She smiles at him one time, and guess what?
+
+781
+01:11:11,560 --> 01:11:13,960
+I think they're never going to see each other again.
+
+782
+01:11:13,961 --> 01:11:23,400
+Because why should they see each other and smile at each other when there's something that is infinitely satisfying and satisfies every desire they've got?
+
+783
+01:11:23,721 --> 01:11:31,081
+So she gives him one last look and then she goes back to her place.
+
+784
+01:11:31,081 --> 01:11:33,081
+And one more thing I have to say fast.
+
+785
+01:11:33,081 --> 01:11:46,760
+And Dante, who has been so concerned about the world and all the political, social, church, state issues, which you haven't read, drops all concern with the world, naturally.
+
+786
+01:11:46,761 --> 01:11:49,000
+Nothing's important to him anymore.
+
+787
+01:11:50,360 --> 01:11:51,800
+I'm going to start there next time.
+
+788
+01:11:51,801 --> 01:12:01,760
+I've passed out something that you can look at, where it now looks like all the earth is just trivial from where he is looking at things.
+
+789
+01:12:01,400 --> 01:12:07,041
+And I'm going to jump ahead, which I'll come back to, but I just have to end with this since we've been talking about the will.
+
+790
+01:12:07,360 --> 01:12:24,240
+And when he finally gets totally absorbed in contemplating God, which is totally fulfilling, two important things happen on page 365, all of which I will go back over slowly.
+
+791
+01:12:24,801 --> 01:12:27,280
+He sees, no, I won't even mention this.
+
+792
+01:12:27,280 --> 01:12:29,041
+I just want to go directly to the will.
+
+793
+01:12:29,041 --> 01:12:34,720
+The last stanza of it all is line 142.
+
+794
+01:12:34,721 --> 01:12:48,640
+Here my powers rest from their high fantasy, but already I could feel my being turned, instinct and intellect balanced equally as a wheel whose motion nothing jars by the love that moves the sun and the other stars.
+
+795
+01:12:48,640 --> 01:12:50,081
+What is that happening?
+
+796
+01:12:50,081 --> 01:12:53,520
+That means that the very, that's the last lines of the poem.
+
+797
+01:12:53,520 --> 01:13:02,480
+That means that Dante's will has now come completely in sync with God's will, and that Dante really has no will of his own.
+
+798
+01:13:03,121 --> 01:13:06,800
+I just wanted to read that to show you that there's no place left for free will.
+
+799
+01:13:07,921 --> 01:13:13,760
+Free will is just the freedom to abandon all willing and to abandon even your own will.
+
+800
+01:13:13,761 --> 01:13:15,680
+It's not Dante's will anymore.
+
+801
+01:13:15,680 --> 01:13:17,201
+He's got no identity.
+
+802
+01:13:17,201 --> 01:13:19,041
+He's got no personality.
+
+803
+01:13:19,041 --> 01:13:24,240
+He's become merged with the will of God that moves the sun and the other stars.
+
+804
+01:13:24,721 --> 01:13:26,720
+He's lost Beatrice.
+
+805
+01:13:27,041 --> 01:13:34,081
+He's lost, and I'll read the passage next time, all of his political involvements as if the earth had any meaning and was important.
+
+806
+01:13:34,041 --> 01:13:36,161
+He does and why wouldn't he lose it?
+
+807
+01:13:36,161 --> 01:13:43,680
+He's staring into what is the absolutely and completely fulfilling theatrical vision.
+
+808
+01:13:43,680 --> 01:13:44,961
+Okay, I'll go back over that.
+
+809
+01:13:44,961 --> 01:13:52,840
+I went too fast at the end and then and then spend time discussing the implications of that and how that fits into the course.

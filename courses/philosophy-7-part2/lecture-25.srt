@@ -1,0 +1,2778 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:19,321
+Okay, so now I'm going to sort of try to situate the Nietzsche in in the context of its own time, namely our time, and in relation to Dostoevsky and to Kierkegaard.
+
+2
+00:00:19,641 --> 00:00:25,801
+So and I will sort of be following my own notes here, so I better put them out in front of me.
+
+3
+00:00:25,801 --> 00:00:32,280
+So far we've studied what I think are the two greatest Christian thinkers of modern times.
+
+4
+00:00:32,280 --> 00:00:42,760
+That is, they both, Kierkegaard and Dostoevsky, and you know that, I hope, because I've been stressing it, try to save the deep truth of Christianity.
+
+5
+00:00:42,761 --> 00:00:45,401
+They have very different ideas about what it is.
+
+6
+00:00:45,400 --> 00:00:59,640
+But whatever it is, they think it's what the early Christian community understood, and that they have to save it from a lot of bad Greek philosophical things that have happened to it.
+
+7
+00:00:59,801 --> 00:01:14,281
+They want to save it from any kind of emphasis on reflection, detachment, theoretical thinking, all of which we owe to the Athenian Greeks, Plato and Aristotle and Socrates.
+
+8
+00:01:14,280 --> 00:01:24,120
+They want to save it from one God, the one supreme being.
+
+9
+00:01:24,520 --> 00:01:40,521
+Both Kierkegaard with his idea that God is, that all things are possible, and Nietzsche and Dostoevsky with his idea that God is the connectedness of all the worlds of interrelated loving people.
+
+10
+00:01:41,161 --> 00:02:05,520
+Get rid of the Supreme Being and substitute some other something which in both cases has a special relation to Jesus who manifests the the right way to live in the field, really, a sort of field, a force field that is their view of God.
+
+11
+00:02:06,481 --> 00:02:15,680
+So another way to put it is that each of them, now sort of separating them, have their own sort of enemy.
+
+12
+00:02:15,680 --> 00:02:21,921
+The enemy in general is, as I say, Greek philosophy or just plain philosophy.
+
+13
+00:02:21,921 --> 00:02:34,241
+This goes back to my very first lecture, where the idea that somehow detached, theoretical way of being related to the world was the highest thing for the Greeks.
+
+14
+00:02:34,241 --> 00:02:38,241
+But it developed a lot over 2,000 years.
+
+15
+00:02:38,241 --> 00:02:56,560
+And when you get to Hegel, which is in the 1800s, that's the last attempt to give a kind of philosophical interpretation of Christianity, which says that it turns all of Christianity into philosophy.
+
+16
+00:02:58,000 --> 00:03:05,680
+Any part of Christianity that you can't turn into philosophy must just be superstition, and you could do without it, like a fairy tale.
+
+17
+00:03:06,481 --> 00:03:12,481
+But part of Christianity contains deep truths, and Hegel claims to have them.
+
+18
+00:03:12,481 --> 00:03:15,921
+And Kierkegaard claims that Hegel's missed them completely.
+
+19
+00:03:15,921 --> 00:03:25,921
+So the way Kierkegaard attacks the whole tradition is to be the generation after Hegel, where everybody's a Hegelian.
+
+20
+00:03:25,921 --> 00:03:45,161
+And Kierkegaard, because of that, can see clearly that something very important is missing, namely involvement as higher than detachment, and unconditional commitment as something that you can't make rational or intelligible, but you can live.
+
+21
+00:03:45,481 --> 00:03:52,520
+And if you live it right, you have the most fulfilling, blissful, meaningful life.
+
+22
+00:03:52,841 --> 00:04:02,200
+Dostoevsky's enemies, he doesn't have Hegel to worry about, but it seems, I mean, you must have noticed it, and I've said it without saying it in so many words.
+
+23
+00:04:02,520 --> 00:04:04,120
+It's scientism.
+
+24
+00:04:04,120 --> 00:04:11,560
+I mean, it's natural science taken to be the explanation of how everything works, even the neurons.
+
+25
+00:04:11,560 --> 00:04:27,801
+He's so modern in that he sees the danger to everything meaningful and Judeo-Christian in the culture if everybody just becomes naturalist and thinks that all you need is to understand how the atoms bump into each other.
+
+26
+00:04:27,801 --> 00:05:00,281
+And the other big enemy for Dostoevsky is European Enlightenment, the bad people in France and Germany who, following Hegel and Kierkegaard, and Kant, though Heidegger does, I'm getting all my names mixed up, though Dostoevsky doesn't name Kant and so forth, nonetheless, the Enlightenment idea that individuals ought to be autonomous.
+
+27
+00:05:00,280 --> 00:05:11,481
+They ought to give themselves their reasons for action and act after deliberation and act in a way that everybody can understand it because they do the universal thing.
+
+28
+00:05:11,481 --> 00:05:25,321
+This is again like what I was saying in the beginning, and they become self-sufficient and autonomous, or in Kant jargon, I don't know if I ever said this, the Enlightenment is human beings coming to maturity.
+
+29
+00:05:25,321 --> 00:05:31,761
+They finally take over responsibility for all the meaning in the world and in their lives.
+
+30
+00:05:32,081 --> 00:05:35,041
+And they're both against that.
+
+31
+00:05:35,040 --> 00:05:36,800
+They both want to go back.
+
+32
+00:05:36,800 --> 00:05:40,641
+I've said this, but I'll say it again here because I want to bring in Pascal.
+
+33
+00:05:40,640 --> 00:05:47,281
+Like Pascal, who remember said the God of Abraham, Isaac, and Jacob is not the God of the philosophers.
+
+34
+00:05:47,280 --> 00:05:56,481
+They want to get the metaphysics and theology of the Greek philosophers, but also the German philosophers.
+
+35
+00:05:56,481 --> 00:06:05,041
+The French didn't have any big deal contribution, I think, because they were copying the Germans, so they're certainly part of the Enlightenment.
+
+36
+00:06:05,361 --> 00:06:24,321
+Like Pascal, they want to purify the Judeo-Christian tradition by going back to the experience of the Hebrews and then the Christians, who had an entirely different understanding of what was important for human beings than the Greeks.
+
+37
+00:06:25,520 --> 00:06:40,321
+And Dostoevsky, therefore, wants to dump out of, get out of, take out of Christianity the kind of magic that he thinks happens if you don't existentialize all the symbols.
+
+38
+00:06:40,321 --> 00:06:52,081
+And he wants to get out of it the Platonism, also Protestantism, even that kind of Christianity is already too isolated, too individual, too modern.
+
+39
+00:06:52,481 --> 00:06:58,481
+And he wants to get out of it a kind of masochism, a kind of misunderstanding of suffering.
+
+40
+00:06:58,481 --> 00:07:04,880
+All of that is going to get existentialized, as you saw in the brothers.
+
+41
+00:07:04,880 --> 00:07:11,761
+And then you will have left a kind of existential truth of a joyful life.
+
+42
+00:07:11,760 --> 00:07:17,081
+And that's, for Dostoevsky, how the early Christian community must have been.
+
+43
+00:07:17,880 --> 00:07:25,321
+Kierkegaard doesn't have, you see, it's sort of funny in between because he is a Protestant and he doesn't have a notion of community.
+
+44
+00:07:25,321 --> 00:07:29,881
+He has a notion of each person having their own individual unconditional commitment.
+
+45
+00:07:30,361 --> 00:07:42,281
+From Dostoevsky's point of view, Kierkegaard would be part of the problem, although sort of a step in the right direction, at least trying to get rid of the Platonism.
+
+46
+00:07:42,601 --> 00:07:46,601
+So, Nietzsche, however, now comes the big switch.
+
+47
+00:07:46,601 --> 00:07:48,441
+That's what you've been so far.
+
+48
+00:07:48,441 --> 00:07:58,201
+It's been save the original Christian experience from science, from philosophy, from theology, and from Protestantism.
+
+49
+00:07:58,201 --> 00:08:00,280
+And that's what they're up to.
+
+50
+00:08:00,280 --> 00:08:02,281
+Well, that's what Dostoevsky's up to.
+
+51
+00:08:02,601 --> 00:08:06,041
+Except for the Protestantism part, that's what Kierkegaard's up to.
+
+52
+00:08:06,040 --> 00:08:09,561
+But now, Nietzsche is one whole step more radical.
+
+53
+00:08:09,560 --> 00:08:21,721
+Because with Nietzsche, instead of getting the greatest Christians since the Enlightenment, Kierkegaard and Dostoevsky, we get the greatest anti-Christian.
+
+54
+00:08:22,040 --> 00:08:45,161
+He is, like a Christian, anti-Greek, anti-Socrates, and like Kierkegaard, that is, and Dostoevsky, anti-Greek, anti-Socrates, and Plato, but he rejects Christianity in its Platonized form, like they do, like Kierkegaard and Dostoevsky, but also as a way of life.
+
+55
+00:08:45,160 --> 00:08:48,841
+He's not at all interested in going back to the early Christian community.
+
+56
+00:08:48,841 --> 00:08:54,041
+In fact, he thinks that we're sick, and it was sick from the very beginning.
+
+57
+00:08:54,681 --> 00:08:59,760
+There's a line we'll get to in the Twilight of the 20s.
+
+58
+00:09:00,640 --> 00:09:01,201
+What's the other one?
+
+59
+00:09:01,361 --> 00:09:07,281
+The Antichrist, where he says that the only true Christian died on the cross.
+
+60
+00:09:07,280 --> 00:09:18,081
+That is, he has a lot of respect for Jesus, but he thinks that with Paul and with the Bible interpretation of Jesus, everything went wrong.
+
+61
+00:09:18,400 --> 00:09:21,520
+So now, that's the overall view.
+
+62
+00:09:21,520 --> 00:09:27,841
+We're switching to the big opponent of everything Judeo-Christian.
+
+63
+00:09:28,721 --> 00:09:31,201
+And it's only, yeah.
+
+64
+00:09:31,201 --> 00:09:35,040
+And now, just to put this into, anybody want to say anything about that?
+
+65
+00:09:35,040 --> 00:09:42,400
+That's supposed to bring it so you see why these three people are in this course and how it relates to the first lecture.
+
+66
+00:09:42,481 --> 00:09:45,841
+Does anybody, I mean, I don't see anything controversial.
+
+67
+00:09:45,841 --> 00:09:47,201
+Good, somebody does, maybe.
+
+68
+00:09:47,201 --> 00:09:47,681
+Yeah.
+
+69
+00:09:48,241 --> 00:09:50,241
+Ah, I thought somebody might ask that.
+
+70
+00:09:50,241 --> 00:09:53,040
+I don't want to talk about that until I get to the Antichrist.
+
+71
+00:09:53,921 --> 00:09:56,481
+He makes Christ into his way of doing.
+
+72
+00:09:56,640 --> 00:09:58,001
+Yeah, let's wait.
+
+73
+00:10:00,160 --> 00:10:05,280
+But if I, for some strange reason, don't bring it up, ask me again.
+
+74
+00:10:05,280 --> 00:10:09,681
+But I expect to come to it not next time, but the time after.
+
+75
+00:10:09,681 --> 00:10:12,641
+For next time, I'm glad that came up.
+
+76
+00:10:12,640 --> 00:10:19,361
+I want you to be sure and read, at least, I mean, the more you read of the assignment, the better.
+
+77
+00:10:20,081 --> 00:10:30,640
+But what I'm going to talk about all the time, next time, is the part called The Madman, the center of the book.
+
+78
+00:10:31,280 --> 00:10:33,040
+I doubt if it's in the middle of the book.
+
+79
+00:10:33,040 --> 00:10:35,921
+Well, you'll find it, but I want to tell you.
+
+80
+00:10:35,920 --> 00:10:37,521
+110?
+
+81
+00:10:37,520 --> 00:10:38,481
+Okay.
+
+82
+00:10:39,280 --> 00:10:41,041
+You're always finding these things.
+
+83
+00:10:41,841 --> 00:10:42,361
+I see.
+
+84
+00:10:42,841 --> 00:10:46,601
+Not page 110, but yes, that's right.
+
+85
+00:10:43,441 --> 00:10:49,800
+What I'm going to talk about, no, not quite 110.
+
+86
+00:10:50,841 --> 00:10:52,201
+Page or aphorism?
+
+87
+00:10:53,081 --> 00:10:54,440
+Page 110.
+
+88
+00:10:54,441 --> 00:10:55,161
+Yes.
+
+89
+00:10:55,400 --> 00:10:57,641
+So I want you to be sure and read.
+
+90
+00:10:57,640 --> 00:10:59,081
+I'll write it on the board.
+
+91
+00:10:59,081 --> 00:11:02,441
+You read page 181 to.
+
+92
+00:11:02,760 --> 00:11:05,241
+Well, that's the point.
+
+93
+00:11:06,441 --> 00:11:07,321
+What?
+
+94
+00:11:08,280 --> 00:11:09,241
+We're reading.
+
+95
+00:11:09,961 --> 00:11:13,641
+Right now we're reading The Twilight of the Idols, which looks like that.
+
+96
+00:11:13,640 --> 00:11:19,481
+But next time, if I finish The Twilight of the Idols today, which I see.
+
+97
+00:11:19,800 --> 00:11:31,641
+Well, my hunch is I'm going to finish The Twilight of the Idols today, and we're going to talk about the madman, namely the death of God, on Thursday, not next week.
+
+98
+00:11:32,201 --> 00:11:34,040
+But there's a lot to read in here.
+
+99
+00:11:34,920 --> 00:11:39,481
+But I need a whole lecture on the madman.
+
+100
+00:11:39,481 --> 00:11:43,400
+And so I'm going to, and that's why I want to make sure you read it.
+
+101
+00:11:43,400 --> 00:11:45,000
+So you read the gay science.
+
+102
+00:11:45,000 --> 00:11:48,761
+We'll see by the end of today where I am.
+
+103
+00:11:49,081 --> 00:11:51,000
+But then we'll know whether you're going to.
+
+104
+00:11:51,000 --> 00:11:52,841
+181.
+
+105
+00:11:53,160 --> 00:11:54,041
+Okay.
+
+106
+00:11:54,361 --> 00:11:57,400
+And that's right now that's for Thursday.
+
+107
+00:11:57,400 --> 00:11:57,801
+Now.
+
+108
+00:11:58,520 --> 00:11:59,961
+Yeah, Beatrice.
+
+109
+00:11:59,961 --> 00:12:02,120
+Yeah, I thought of putting in Descartes.
+
+110
+00:12:02,120 --> 00:12:04,361
+That's the beginning of modernity.
+
+111
+00:12:04,841 --> 00:12:06,601
+It comes in two stages.
+
+112
+00:12:06,601 --> 00:12:19,481
+Descartes and Luther already, together, each in their own very different way, say that the individual is most important and has a direct relation to God.
+
+113
+00:12:19,800 --> 00:12:22,760
+Luther is most interested in the direct relation to God.
+
+114
+00:12:22,760 --> 00:12:35,441
+Descartes is interested in that every individual is self-sufficient and is able to decide for themselves what's true and false and what a good life is and live it and so forth.
+
+115
+00:12:36,400 --> 00:12:46,080
+And then it's after Descartes, it takes Kant to go and see that if you follow Descartes, you put man in the center of the world.
+
+116
+00:12:46,081 --> 00:12:48,481
+You don't even have to have God anymore.
+
+117
+00:12:48,481 --> 00:12:52,641
+Kant still has God, but in a very peripheral way.
+
+118
+00:12:52,640 --> 00:13:08,081
+And Kant draws the conclusion that's already sort of implicit in Descartes, and namely that self-sufficient human beings are rational and are able to control their lives and give meaning to their lives and give meaning to the world.
+
+119
+00:13:08,081 --> 00:13:09,601
+All that should sound very familiar.
+
+120
+00:13:09,601 --> 00:13:10,721
+You're still in it.
+
+121
+00:13:12,241 --> 00:13:17,120
+Then we get the name for that that Descartes didn't have, the Enlightenment.
+
+122
+00:13:17,120 --> 00:13:24,961
+And we get Kant's explanation of that, namely that's what human beings really are, and now they've reached maturity, they understand it.
+
+123
+00:13:24,961 --> 00:13:31,281
+And when you're mature, I'll add one thing: you see that you're not like a child anymore with some authority over you.
+
+124
+00:13:31,280 --> 00:13:36,320
+So you no longer recognize the authority of the Pope or of the King.
+
+125
+00:13:36,320 --> 00:13:38,241
+You are the authority.
+
+126
+00:13:38,241 --> 00:13:39,361
+You get to decide.
+
+127
+00:13:39,360 --> 00:13:44,640
+You have to decide what's true and what's false and what's right and what's wrong.
+
+128
+00:13:44,641 --> 00:13:46,321
+Okay, so there's Descartes.
+
+129
+00:13:46,320 --> 00:13:49,600
+In 1638, one of the few dates I know.
+
+130
+00:13:49,600 --> 00:13:52,080
+That's Descartes' meditations.
+
+131
+00:13:52,080 --> 00:13:54,161
+That's the beginning of modernity.
+
+132
+00:13:54,161 --> 00:13:54,560
+Yeah.
+
+133
+00:13:56,080 --> 00:13:59,920
+I don't know if the values of that or modern.
+
+134
+00:14:00,241 --> 00:14:00,880
+Yes.
+
+135
+00:14:01,520 --> 00:14:02,881
+I'm not sure what that is.
+
+136
+00:14:03,201 --> 00:14:06,241
+The modern scientific way of looking at things?
+
+137
+00:14:09,760 --> 00:14:10,320
+Yes.
+
+138
+00:14:10,320 --> 00:14:18,520
+Utility makes me sort of nervous, but I see what you mean, because I do, they do say finally, the test is whether it brings you joy or not.
+
+139
+00:14:18,760 --> 00:14:22,441
+And that's a kind of satisfaction wouldn't feel right.
+
+140
+00:14:22,441 --> 00:14:26,040
+And utility is sometimes mixed up with satisfaction.
+
+141
+00:14:26,040 --> 00:14:33,881
+But if you put it in what brings you the most fulfillment or bliss or joy, that's right.
+
+142
+00:14:33,881 --> 00:14:36,760
+They're exclaiming, ah, okay.
+
+143
+00:14:37,721 --> 00:14:50,600
+So, and they're not doing anything like justifying why they think that this early Christian lifestyle brings you more joy.
+
+144
+00:14:51,721 --> 00:14:53,880
+It's not time yet.
+
+145
+00:14:53,881 --> 00:15:15,400
+I mean, only they sense that something's deeply wrong with modernity, that this idea that every individual is self-sufficient and autonomous and rational, and that and thanks to science and thanks to rationality, they're going to take over the world, they're going to improve everything.
+
+146
+00:15:15,401 --> 00:15:30,040
+It's the whole picture of that we're finally got a grip on our own destiny, humanity has, and thanks to reason and science, we will now make a world in which everything works out and everybody's happy.
+
+147
+00:15:30,040 --> 00:16:01,600
+That's well, that's a view that Dostoevsky already thinks is happening, and that he hasn't, they, nobody's really trying to make an argument that there's some deep thing wrong with modernity, that it's nihilistic, that you can't really be joyful if you follow it out, and that's why you have to return to the Christians.
+
+148
+00:16:02,161 --> 00:16:04,800
+They sense there's something wrong.
+
+149
+00:16:05,441 --> 00:16:08,481
+And they sense that it's got to do with the Enlightenment.
+
+150
+00:16:08,481 --> 00:16:31,600
+And back to Plato, it really takes, I'm trying to think, maybe Heidegger, whom I mention every once in a while, is the first person who tries to really derive, give an account of human beings such that a life of theory and reflection is not going to be, to use your language, satisfactory life.
+
+151
+00:16:36,560 --> 00:16:37,520
+Exactly.
+
+152
+00:16:37,681 --> 00:17:03,441
+That's how, being not a philosopher, but a writer, he's going to get you inside, if he makes it work, the experience of Ivan and make it seem, anyway, as if that's the result of thinking like an Enlightenment person and doing philosophy, and inside the world of Alyasha, who's happy and thriving, who doesn't think that way.
+
+153
+00:17:03,441 --> 00:17:12,241
+I happen to have marked in my copy of the Brothers what is exactly relevant to this conversation, so I'm going to read it.
+
+154
+00:17:13,840 --> 00:17:23,680
+It's Dostoevsky doing what he often does, make up a whole position which he is criticizing.
+
+155
+00:17:23,681 --> 00:17:29,920
+And he puts it, in this case, in the mouth, a position, sort of an enlightenment position.
+
+156
+00:17:29,921 --> 00:17:32,640
+It's got to do with this idea of the new man.
+
+157
+00:17:32,641 --> 00:17:39,840
+And the most absurd, extreme view of it is on page 751.
+
+158
+00:17:39,840 --> 00:17:44,121
+And it's, and who of all people is telling him his view?
+
+159
+00:17:44,000 --> 00:17:45,400
+It's the devil.
+
+160
+00:17:45,721 --> 00:18:04,441
+And then he says at the bottom of 751, now this is Dostoevsky sort of extrapolating this Enlightenment view that people will become autonomous and mature and take over their own lives and take over the world.
+
+161
+00:18:04,600 --> 00:18:19,160
+He says, as soon as men have all denied God, and I believe that period corresponding with a geological period, will come to pass, the old conception of the universe will fall of itself.
+
+162
+00:18:21,320 --> 00:18:24,840
+And what's more, the old morality, and everything will begin anew.
+
+163
+00:18:24,840 --> 00:18:30,360
+Men will unite to take from life all it can give, but only for joy and happiness in the present.
+
+164
+00:18:30,360 --> 00:18:37,320
+Man will be lifted up with a titanic pride, extending his conquest of nature by his will and his science.
+
+165
+00:18:37,320 --> 00:18:43,241
+Man will feel such a lofty joy from hour to hour that it will make up for all his old dreams of the joys of heaven.
+
+166
+00:18:43,241 --> 00:18:48,520
+Everyone will know that he is mortal and will accept death proudly and serenely.
+
+167
+00:18:48,520 --> 00:18:50,840
+And so forth and so forth.
+
+168
+00:18:51,161 --> 00:18:52,280
+Let's see if I want to read.
+
+169
+00:18:52,681 --> 00:19:13,241
+Well, it follows from this, of course, it comes out soon from the devil explaining Yvonne's views, that promoted to his new position, man may lightheartedly overstep all, his new position, meaning taking the place of God, overstep all the barriers of the old morality of the old slave man, if necessary.
+
+170
+00:19:13,241 --> 00:19:15,161
+Nietzsche calls it the slave morality.
+
+171
+00:19:15,161 --> 00:19:21,801
+I mean, Dostoevsky's constantly inventing all these other views, and this is a sort of a wild extreme of Nietzsche.
+
+172
+00:19:21,800 --> 00:19:25,280
+There is no law for God.
+
+173
+00:19:25,280 --> 00:19:29,920
+Where God stands, where I stand will become the foremost place.
+
+174
+00:19:29,921 --> 00:19:33,040
+All things are lawful, and that's the end of it.
+
+175
+00:19:29,161 --> 00:19:33,921
+And so forth.
+
+176
+00:19:34,241 --> 00:19:53,441
+Now, and another place where Dostoevsky is talking about this, it's very strange that I happen to have marked them both, where Yvonne gives his speech in favor of the Enlightenment people in 260.
+
+177
+00:19:53,441 --> 00:19:58,160
+I didn't read it, but he says he wants to go to Europe.
+
+178
+00:19:58,161 --> 00:20:00,560
+This is the top of 260, roughly.
+
+179
+00:20:00,560 --> 00:20:04,241
+And he says, every stone, and fall on the grave.
+
+180
+00:20:04,241 --> 00:20:09,201
+It's a sort of parody of Alyasha falling on the ground.
+
+181
+00:20:09,201 --> 00:20:13,120
+He's going to fall on the grave of the dead that lie there.
+
+182
+00:20:13,121 --> 00:20:21,361
+Every stone over them speaks of such burning life in the past, passionate faith in their work, in their truth, their struggle, and their science.
+
+183
+00:20:21,681 --> 00:20:24,640
+I know I shall fall on the ground and kiss those stones.
+
+184
+00:20:24,641 --> 00:20:28,000
+It's just the weirdest relation to Alyasha.
+
+185
+00:20:28,080 --> 00:20:33,520
+Kiss those stones and weep over them, even though I'm convinced in my heart that it's long been nothing but a graveyard.
+
+186
+00:20:33,520 --> 00:20:39,520
+And I shall not weep from despair because I shall be happy in those tears and so forth.
+
+187
+00:20:41,681 --> 00:20:42,560
+That's enough.
+
+188
+00:20:42,560 --> 00:20:45,601
+I mean, so anyway, we're not disagreeing at all.
+
+189
+00:20:45,600 --> 00:20:58,241
+I mean, his way of arguing is to present what he, a kind of caricature and a kind of extrapolation of modernity to its extreme limits.
+
+190
+00:20:58,241 --> 00:21:02,320
+And you'll see when you read the gay science, it sounds pretty much like Nietzsche.
+
+191
+00:21:02,961 --> 00:21:06,800
+And so, you got any more you want to say about it?
+
+192
+00:21:13,040 --> 00:21:16,360
+I think you're probably, that may well be.
+
+193
+00:21:17,961 --> 00:21:41,160
+But what happens anyway in his defense, so to speak, is Nietzsche, who is very articulate and philosophical, not in the sense that he's detached, he's very passionate about it all, but he's trying to sort of draw out the logic of this position and make a case for it.
+
+194
+00:21:41,161 --> 00:21:42,281
+So wait and see.
+
+195
+00:21:42,520 --> 00:21:43,481
+We're just getting there.
+
+196
+00:21:43,481 --> 00:21:48,600
+I mean, in fact, that's the subject of the death of God thing we're going to do next time.
+
+197
+00:21:49,401 --> 00:21:55,560
+Because this is already about the death of God and what we will become, how we brought it about.
+
+198
+00:21:55,560 --> 00:22:03,961
+Well, no, then Nietzsche's going to claim not only is God dead, but we, quote, we have killed him, and we will then have to become God ourselves.
+
+199
+00:22:03,961 --> 00:22:10,760
+It sounds exactly like trying to work out the Dostoevsky vision.
+
+200
+00:22:10,760 --> 00:22:11,560
+Okay.
+
+201
+00:22:12,760 --> 00:22:25,881
+So, and now I'm just going to do the historical context for a bit, which is not something I normally would like to do, because I don't think it matters much to the literature, adds much to the literature and to the thought.
+
+202
+00:22:26,201 --> 00:22:41,320
+But just so you know, all three of these thinkers, Kierkegaard, Dostoevsky, and Nietzsche, are in roughly the same period when people begin to lose faith in the Enlightenment, the very most sensitive people.
+
+203
+00:22:41,320 --> 00:22:45,721
+So, Kierkegaard writes in 1850, and he's first.
+
+204
+00:22:45,721 --> 00:22:49,880
+Then Dostoevsky and Nietzsche at exactly the same time.
+
+205
+00:22:50,681 --> 00:22:52,840
+Their big books are the same time.
+
+206
+00:22:53,320 --> 00:22:55,080
+They're a generation later.
+
+207
+00:22:55,080 --> 00:23:03,360
+Dostoevsky, in his old age, as old as he gets to be before he dies, writes The Brothers in 1881.
+
+208
+00:23:04,320 --> 00:23:14,721
+Nietzsche, who doesn't die young, but goes crazy and stops writing young, writes The Gay Science in 1882.
+
+209
+00:23:14,721 --> 00:23:18,241
+One year apart, The Brothers and The Gay Science.
+
+210
+00:23:18,241 --> 00:23:24,241
+Yet they seem a generation apart and come as if they come from other worlds, and they do.
+
+211
+00:23:24,241 --> 00:23:39,121
+I mean, there's a huge difference between Dostoevsky saying, I'm going to save Christianity from modernity and science and rationality, and Nietzsche saying, who wants to say, why would we want to save Christianity?
+
+212
+00:23:39,121 --> 00:23:44,560
+We've got something better coming than Christianity or the Enlightenment.
+
+213
+00:23:44,560 --> 00:23:48,400
+But there they are, within a year of each other, these two books.
+
+214
+00:23:48,401 --> 00:23:54,400
+And there is some speculation whether Nietzsche could have read Dostoevsky.
+
+215
+00:23:54,401 --> 00:23:55,360
+He could have.
+
+216
+00:23:55,360 --> 00:24:09,120
+But he couldn't have read The Gay Science, because if he brought out, sorry, he couldn't have read The Brothers Karamatsov before bringing out The Gay Science, because you can't write and publish a book in a year.
+
+217
+00:24:09,121 --> 00:24:13,840
+Those books come out in, as I say, in 1881 and 1882.
+
+218
+00:24:14,401 --> 00:24:24,160
+Later, The Twilight, The Idols, and The Antichrist are written in 1888.
+
+219
+00:24:24,800 --> 00:24:35,120
+And at that point, Nietzsche could, in principle, have read a translation of The Brothers, but nobody has any evidence whether he read Dostoevsky or not.
+
+220
+00:24:35,441 --> 00:24:36,160
+Yeah.
+
+221
+00:24:36,481 --> 00:24:37,120
+Where?
+
+222
+00:24:38,721 --> 00:24:39,600
+Exactly.
+
+223
+00:24:39,600 --> 00:24:41,760
+That's why I put in page 110.
+
+224
+00:24:41,760 --> 00:24:43,040
+Let's look at it.
+
+225
+00:24:43,201 --> 00:24:45,401
+He knows Dostoevsky exists.
+
+226
+00:24:45,401 --> 00:24:56,280
+He even knows, the footnote tells us, on page 200, right at the very end, that he says that he read notes from underground.
+
+227
+00:24:56,280 --> 00:25:04,760
+But what he says here on 110 is: and that's why people wonder how much Dostoevsky he read.
+
+228
+00:25:04,760 --> 00:25:12,760
+He says, Dostoevsky, the only psychologist, by the way, from whom I had anything to learn, is one of the happiest accidents of my life.
+
+229
+00:25:12,760 --> 00:25:16,041
+By the way, he's got this double meaning of psychologists.
+
+230
+00:25:16,040 --> 00:25:17,320
+I mentioned this already.
+
+231
+00:25:17,320 --> 00:25:31,481
+When Nietzsche says psychologist, he means somebody who has some deep understanding of the human psyche, but isn't sort of a professional psychologist who thinks they've got a science of the human psyche.
+
+232
+00:25:31,721 --> 00:25:43,320
+And the professional psychologists, he can't stand, and he's making fun of them during the whole trial, the forensic psychologists who are sort of official authorities on how the mind works.
+
+233
+00:25:43,320 --> 00:25:54,600
+But when he says that Dostoevsky's a psychologist, he means he's a deep understanding of the human being's mind or self.
+
+234
+00:25:54,921 --> 00:26:05,160
+So that's the, and he says, this profound underlying human being, ten times justified in despising the superficial Germans.
+
+235
+00:26:05,161 --> 00:26:07,080
+Never mind that.
+
+236
+00:26:08,280 --> 00:26:13,881
+That's just a, it's a funny thing that both Dostoevsky and Nietzsche have this in common.
+
+237
+00:26:13,881 --> 00:26:16,120
+They don't like the Germans.
+
+238
+00:26:16,121 --> 00:26:23,160
+Nietzsche's Swiss, and German is his native language, but he thinks the Germans are sort of heavy-handed and boring.
+
+239
+00:26:23,161 --> 00:26:34,640
+Dostoevsky mostly thinks the German, has German doctors, and the German doctors always say it's brain fever when somebody's having some deep religious experience.
+
+240
+00:26:34,961 --> 00:26:37,360
+But Dostoevsky to my always puzzlement.
+
+241
+00:26:37,360 --> 00:26:45,441
+I mean, I would have thought he would think all German doctors were hopeless and thought that anybody who was having any interesting experience had brain fever.
+
+242
+00:26:45,441 --> 00:26:49,121
+But there is one nice German doctor, you remember, Dr.
+
+243
+00:26:49,121 --> 00:26:53,840
+Herrzenstube, the one who gave Dmitri the nuts and baptized him.
+
+244
+00:26:53,840 --> 00:26:54,721
+I'm amazed.
+
+245
+00:26:54,721 --> 00:26:59,920
+I think it's to Dostoevsky's credit that he's not sort of fanatically anti-German.
+
+246
+00:26:59,921 --> 00:27:04,800
+I think Nietzsche's kind of got really, I don't think there's any good Germans in Nietzsche.
+
+247
+00:27:04,800 --> 00:27:05,760
+Yeah.
+
+248
+00:27:06,080 --> 00:27:10,481
+Okay, so now where are we?
+
+249
+00:27:10,481 --> 00:27:13,760
+Well, I'm just bringing you up to date on what they know about each other.
+
+250
+00:27:13,760 --> 00:27:18,160
+So the question, now, what did Nietzsche know?
+
+251
+00:27:18,161 --> 00:27:30,080
+Well, he was told by his friend Georg Brandes the following: There's a Nordic author, Søren Kierkegaard, whose works would interest you if only they were translated.
+
+252
+00:27:30,080 --> 00:27:36,640
+He is, in my view, the deepest of psychologists on the whole there has ever been.
+
+253
+00:27:36,641 --> 00:27:46,481
+And Nietzsche answers his friend, quote, For my next trick, I have resolved to occupy myself with the psychological problem of Kierkegaard.
+
+254
+00:27:46,481 --> 00:27:50,800
+But he never, then he collapsed and he never did it.
+
+255
+00:27:51,760 --> 00:27:57,040
+But he did say about Dostoevsky what I just read on 110.
+
+256
+00:27:57,360 --> 00:28:03,040
+And as I say in my notes, Dostoevsky, of course, didn't know any Nietzsche, but he didn't need to.
+
+257
+00:28:03,121 --> 00:28:04,080
+He made him up.
+
+258
+00:28:04,080 --> 00:28:30,441
+He not only makes him up in that sort of caricature of the devil, but in The Possessed, or The Devils, as that's the same book, there's a whole Nietzschean character, Kirilov, and in Crime and Punishment, which a lot of you have read, Raskolnikov has lots of Nietzschean views about being superior and doesn't and not having to obey the moral law anymore because he's a sort of super person.
+
+259
+00:28:30,441 --> 00:28:41,961
+Nietzsche brings in this notion of the Übermensch, the person who has gotten beyond where people are normally subservient to some authority or other.
+
+260
+00:28:42,441 --> 00:28:44,041
+So now let me see where we are.
+
+261
+00:28:44,600 --> 00:29:03,241
+So we're going to talk about today for the rest of the time, probably, what Dostoevsky and Nietzsche have in common, or what Dostoevsky and Kierkegaard on the one hand, even though they're pro-Christian, and Nietzsche, who's terribly anti-Christian, they have a common view.
+
+262
+00:29:03,241 --> 00:29:06,520
+And who would be their common enemy?
+
+263
+00:29:06,520 --> 00:29:07,640
+You could figure it out.
+
+264
+00:29:07,641 --> 00:29:08,841
+The Greeks, right?
+
+265
+00:29:09,641 --> 00:29:24,040
+The Athenian Greeks, Socrates and Plato, Aristotle didn't show up, they both have the same view that that's a very in both of them think that's a sick way to life, or a sick kind of life, all three of them really.
+
+266
+00:29:24,520 --> 00:29:26,201
+So now let's see where we are.
+
+267
+00:29:26,441 --> 00:29:28,681
+And okay, I'm going to talk about what they have in common.
+
+268
+00:29:28,840 --> 00:29:39,241
+Next time I'm going to talk about how they are opposed and what we want to know, whether there's any way of deciding who's right, sort of what he's asking.
+
+269
+00:29:39,800 --> 00:29:41,241
+What are the arguments?
+
+270
+00:29:41,241 --> 00:29:43,000
+Which side should we be on?
+
+271
+00:29:43,000 --> 00:29:49,600
+We're going to think about that till the end of the course, and try to figure out.
+
+272
+00:29:49,600 --> 00:30:09,520
+Well, I'm going to ask you in the last lecture finally where where you come down on this big debate about whether you want to save original Christianity or whether you want to get rid of it for some new higher form of being like Nietzsche, or whether you have some third alternative.
+
+273
+00:30:09,520 --> 00:30:11,041
+You could keep that in mind.
+
+274
+00:30:11,441 --> 00:30:14,000
+That's the question he's really raising.
+
+275
+00:30:14,000 --> 00:30:15,201
+Okay, any questions there?
+
+276
+00:30:15,201 --> 00:30:20,400
+Because now I'm going to go on to what both of them have to say about the Greeks.
+
+277
+00:30:21,040 --> 00:30:26,721
+It's a complicated and interesting story because the Greeks mean two different things.
+
+278
+00:30:26,721 --> 00:30:27,601
+That's the first thing.
+
+279
+00:30:27,600 --> 00:30:36,000
+You won't be able to understand the reading if I don't tell you that Nietzsche loves the Greeks and he hates the Greeks.
+
+280
+00:30:36,000 --> 00:30:39,361
+And that's because there are two bunches of Greeks.
+
+281
+00:30:39,360 --> 00:30:44,241
+They're the Homeric Greeks, which you read about in the Iliad and the Odyssey.
+
+282
+00:30:44,241 --> 00:30:55,841
+And that's something like 500 years before the Athenian Greeks that you read about when you read Socrates and Plato and Aristotle.
+
+283
+00:30:55,840 --> 00:31:00,880
+And Nietzsche thinks the Homeric Greeks are the best form of life ever, I believe.
+
+284
+00:31:00,880 --> 00:31:05,680
+I can't think of any people he thinks are better except his own people.
+
+285
+00:31:05,681 --> 00:31:10,961
+But I mean, up to Nietzsche, the Homeric Greeks were the best you could get.
+
+286
+00:31:12,001 --> 00:31:18,321
+And he thinks that the Greek philosophers were sick, the whole Athenian culture.
+
+287
+00:31:18,320 --> 00:31:19,841
+So you got that?
+
+288
+00:31:19,840 --> 00:31:24,800
+So, and you'll see, I'll tell you which is which as we go along, and then you'll get used to it.
+
+289
+00:31:24,800 --> 00:31:26,560
+You'll be able to figure it out.
+
+290
+00:31:26,561 --> 00:31:33,040
+He takes for granted that you can tell whether he's talking about the good Greeks or the bad Greeks.
+
+291
+00:31:33,681 --> 00:31:45,241
+So the Homeric Greeks were, according to him, noble, passionate, involved, impulsive, and they could trust their instinctive responses.
+
+292
+00:31:45,561 --> 00:32:04,681
+That means without reflection, with, you might say, with the recklessness of the Karamatsov, to use Dostoevsky's phrase, they just spontaneously act, and they are, and that gives them a kind of perfection in living.
+
+293
+00:32:04,681 --> 00:32:09,081
+They don't magically act this way, I presume.
+
+294
+00:32:09,081 --> 00:32:40,361
+They learn, I mean, in the background, I think Nietzsche must think that when you grow up in a good culture, you take on this culture and you try it out and you improve it, so that the Homeric culture, when people grow up in it, they grow up with good instincts, that is, good intuitions, the good sense of what's the appropriate thing to do in any given situation.
+
+295
+00:32:40,360 --> 00:32:49,721
+Instinct, when I'm using it, the way Nietzsche uses it, isn't something that you have when you're born, like birds knowing how to build nests.
+
+296
+00:32:49,721 --> 00:33:00,280
+Instinct, when Nietzsche uses it, means being able to, without reflection, just immediately, impulsively, do the appropriate thing.
+
+297
+00:33:00,280 --> 00:33:06,440
+And he thinks the Homeric Greeks culture gives all the young Homeric Greeks who grow up in it these good instincts.
+
+298
+00:33:06,440 --> 00:33:08,201
+So I'm going to read things now.
+
+299
+00:33:08,201 --> 00:33:14,681
+Now you have your, you open your copy you brought with you of Twilight of the Idols to page 59.
+
+300
+00:33:15,480 --> 00:33:23,721
+Right before the number three, he says, everything good is instinct and consequently easy, necessary, free.
+
+301
+00:33:23,721 --> 00:33:26,280
+Effort is an objection.
+
+302
+00:33:27,081 --> 00:33:29,521
+That's this picture you've got.
+
+303
+00:33:29,001 --> 00:33:33,440
+It may be sort of something that the Zen Buddhists have, too.
+
+304
+00:33:33,601 --> 00:33:52,401
+I mean, you get some, and in a certain way, it's what every expert or master in whatever domain, a master musician or a master basketball player or whatever, has this ability to just spontaneously do it.
+
+305
+00:33:52,400 --> 00:33:57,121
+I mean, they talk about being in the groove or playing out of their heads and so forth.
+
+306
+00:33:57,121 --> 00:34:01,361
+I mean, I think Nietzsche pictures all these Greek heroes who are doing that.
+
+307
+00:34:01,360 --> 00:34:08,641
+They are just so good at being human and doing what they do that they can just do it spontaneously.
+
+308
+00:34:08,641 --> 00:34:13,521
+If you have to work at it just figure it out, you certainly aren't going to do it very well.
+
+309
+00:34:13,521 --> 00:34:15,441
+There's a certain thing that amuses me.
+
+310
+00:34:15,681 --> 00:34:18,960
+She got her hand up and then you, I'll just, then I'll call on you.
+
+311
+00:34:18,960 --> 00:34:30,241
+I mean, one of my colleagues, Bernard Williams, told me, I don't know where it is, that when Nietzsche, I know that Nietzsche objects to anything where he says effort is an objection.
+
+312
+00:34:30,241 --> 00:34:32,560
+He didn't like the music of Beethoven.
+
+313
+00:34:32,561 --> 00:34:37,841
+And his way of describing that he didn't like it was, Beethoven's music sweats.
+
+314
+00:34:38,320 --> 00:34:42,961
+That means, I mean, whereas with Mozart, you feel that it's just effortless and graceful.
+
+315
+00:34:42,960 --> 00:34:53,681
+You feel it, and I think it's true, Beethoven wrote it, wrote, you could see the manuscripts, wrote something over and over and sort of beat his head on the wall and stamped his feet on the floor trying to get it right.
+
+316
+00:34:53,681 --> 00:34:59,681
+And Nietzsche thinks that's a sign that this is probably not as great as it should be.
+
+317
+00:34:59,681 --> 00:35:01,201
+Now, you want to say something?
+
+318
+00:35:01,320 --> 00:35:06,081
+Maybe Intelligent.
+
+319
+00:35:02,280 --> 00:35:08,241
+It is more after the abstractions.
+
+320
+00:35:08,561 --> 00:35:09,601
+Who Nietzsche is at?
+
+321
+00:35:09,681 --> 00:35:10,320
+Nietzsche?
+
+322
+00:35:11,760 --> 00:35:12,480
+Buddhism.
+
+323
+00:35:12,480 --> 00:35:13,121
+As in.
+
+324
+00:35:13,121 --> 00:35:13,721
+Okay, yes, sir.
+
+325
+00:35:13,681 --> 00:35:17,081
+Because you have things in the desert.
+
+326
+00:35:17,400 --> 00:35:26,441
+It has an interaction that keeps you in the present moment, like stingrick and sometimes there's kind of that curiosity.
+
+327
+00:35:26,760 --> 00:35:29,320
+Because you have to focus on doing that staff.
+
+328
+00:35:29,960 --> 00:35:47,560
+Okay, but then it's very different because Nietzsche also thinks in certain sense that you should be acting in the present moment, but he doesn't think that it's something that you could get by in a way of sort of putting your mind out of it.
+
+329
+00:35:47,561 --> 00:35:52,361
+It somehow, the difference would be something like, and this may be all wrong, I'm just guessing.
+
+330
+00:35:52,360 --> 00:36:06,280
+I mean, you could sort of get in the present moment by a kind of abstraction from your normal involvement, or you could get into the present moment by being totally involved in what you're doing.
+
+331
+00:36:06,280 --> 00:36:07,880
+And that might be a big difference.
+
+332
+00:36:07,880 --> 00:36:14,201
+I mean, when you're playing basketball, you can't play basketball in a Zen Buddhist-like frame of mind.
+
+333
+00:36:14,201 --> 00:36:17,081
+You've got to be totally in the flow.
+
+334
+00:36:17,081 --> 00:36:19,320
+And that's it's a different flow.
+
+335
+00:36:19,320 --> 00:36:21,721
+I think they both want to be totally in the flow.
+
+336
+00:36:21,721 --> 00:36:23,721
+They are both totally in the moment.
+
+337
+00:36:23,721 --> 00:36:33,081
+But my intuition is that it makes a big difference whether you've achieved this by a kind of detachment or whether you've achieved this by total involvement.
+
+338
+00:36:33,081 --> 00:36:34,760
+Does that make any sense?
+
+339
+00:36:35,320 --> 00:36:39,161
+That way of doing things is that there's no point worrying about the transcription as well.
+
+340
+00:36:39,880 --> 00:36:43,640
+And we both want to worry about the past from starting zone.
+
+341
+00:36:43,641 --> 00:36:52,920
+But for Nietzsche, it's not there's a lack of pair anything it's being hockey care I think that's exactly right.
+
+342
+00:36:52,920 --> 00:36:55,481
+Yeah, that's a very important difference.
+
+343
+00:36:55,440 --> 00:37:44,561
+Uh yeah, wait, before you, there was so many, yeah well it's well if I understand you right, you're making the same kind of argument that Rikitin was making to Dimitri, that somehow the fact the fact that there is a a physics underlying being in the zone and and being totally involved and thereby acting instinctively, surely the your dopamine is being secreted and we know lots about what parts of the brain are being involved when you're playing say grandmaster chess at one second to move.
+
+344
+00:37:44,561 --> 00:37:58,640
+And that but that doesn't but the science is one story and and the sort of what it is that the chess grandmaster or the basketball player is doing is a different level of description and they don't contradict each other.
+
+345
+00:37:58,641 --> 00:38:07,041
+When you know how the brain does it, you still have to understand that what they're doing is playing chess or playing music or playing a a game.
+
+346
+00:38:07,041 --> 00:38:10,800
+You can't translate all that into neurons.
+
+347
+00:38:12,241 --> 00:38:15,280
+But it's it's it's what?
+
+348
+00:38:15,601 --> 00:38:18,000
+It's not a it's not a problem.
+
+349
+00:38:18,001 --> 00:38:33,040
+I mean science and even Dostoevsky I think thinks science explains causally everything that can be explained causally, but on the level of meaning, say of rules of winning and losing and so forth, then science isn't in that business.
+
+350
+00:38:33,041 --> 00:38:34,800
+It doesn't fail to explain it.
+
+351
+00:38:34,800 --> 00:38:38,320
+It just it's just not the sort of thing that's going to be explained causally.
+
+352
+00:38:38,320 --> 00:38:39,360
+Does that help any?
+
+353
+00:38:39,360 --> 00:38:44,280
+I mean so so so there's it it it shouldn't come to some kind of conflict.
+
+354
+00:38:43,920 --> 00:38:46,360
+I mean, see if I can make it fairly dramatic.
+
+355
+00:38:46,601 --> 00:38:52,841
+I mean, science explains the fact that we're conscious and see each other, or is getting better and better at it.
+
+356
+00:38:52,840 --> 00:38:59,401
+But no matter what they find out about it, there's something else going on, namely we're conscious and see each other.
+
+357
+00:38:59,400 --> 00:39:05,961
+And that's not one people say sometimes, that's first-person experience.
+
+358
+00:39:05,960 --> 00:39:13,000
+And science can give you a third-person description of the causal basis of first-person experience, but that doesn't replace.
+
+359
+00:39:13,241 --> 00:39:14,600
+That's the best I can do on that.
+
+360
+00:39:14,601 --> 00:39:17,960
+It's the same thing I said about Rakitin and Dmitri.
+
+361
+00:39:17,960 --> 00:39:19,561
+Did you have your hand up too?
+
+362
+00:39:19,880 --> 00:39:22,041
+Yeah, but do we need to talk about that?
+
+363
+00:39:24,440 --> 00:39:25,640
+We certainly must not.
+
+364
+00:39:25,641 --> 00:39:26,840
+He turned against Spinoza.
+
+365
+00:39:26,840 --> 00:39:28,681
+He was very influenced by Spinoza.
+
+366
+00:39:28,681 --> 00:39:33,081
+But by the time we get to the gay science, he is, I'm sorry, Schopenhauer.
+
+367
+00:39:33,241 --> 00:39:35,881
+He turned against Schopenhauer completely.
+
+368
+00:39:35,880 --> 00:39:49,401
+And the whole idea that we should get out of the willing, involved world, which Schopenhauer had, and Nietzsche turned it upside down and doesn't believe it anymore.
+
+369
+00:39:50,041 --> 00:39:55,001
+But it's important that Schopenhauer was a big influence on him at the beginning.
+
+370
+00:39:55,001 --> 00:39:55,400
+Yeah.
+
+371
+00:40:04,440 --> 00:40:05,640
+The critique of it, yes.
+
+372
+00:40:05,880 --> 00:40:11,721
+To reflect and deliberate and act, sort of, yes.
+
+373
+00:40:11,960 --> 00:40:14,201
+I must tell you, David, it was very important.
+
+374
+00:40:14,760 --> 00:40:22,640
+It takes a lot of practice.
+
+375
+00:40:22,641 --> 00:40:23,681
+He doesn't deny it.
+
+376
+00:40:22,521 --> 00:40:24,001
+He doesn't.
+
+377
+00:40:25,161 --> 00:40:27,721
+No, it it is when you finally got.
+
+378
+00:40:27,721 --> 00:40:28,760
+We're not disagreeing.
+
+379
+00:40:28,760 --> 00:40:32,960
+It takes a lot of effort to become able to do it effortlessly.
+
+380
+00:40:33,201 --> 00:40:36,960
+That is, that that's that and Nietzsche didn't likes that.
+
+381
+00:40:37,601 --> 00:40:55,360
+But in the end, it's the effortless performance of the master which Nietzsche admires and thinks this whole emphasis on rationality, decision-making, you should reflect on what you do before you do it and weigh the pros and cons.
+
+382
+00:40:55,360 --> 00:40:58,881
+I forget if I said it here or did some other conversation.
+
+383
+00:40:58,880 --> 00:41:02,161
+The example of the guy in New York who jumped on the subway.
+
+384
+00:41:02,161 --> 00:41:02,960
+Yeah, I did already.
+
+385
+00:41:02,960 --> 00:41:03,840
+I thought I did.
+
+386
+00:41:03,840 --> 00:41:11,841
+I mean, there was no time to reflect and deliberate and weigh the various possibilities, but Nietzsche would have admired that guy immensely.
+
+387
+00:41:11,840 --> 00:41:13,760
+He had the right instinct.
+
+388
+00:41:13,760 --> 00:41:17,841
+He knew somebody had to save this guy, and he did it.
+
+389
+00:41:18,161 --> 00:41:24,000
+Okay, so that's, and that's, so everything, it's, we're all on the same page.
+
+390
+00:41:24,001 --> 00:41:25,280
+That's good.
+
+391
+00:41:26,241 --> 00:41:46,961
+So for human, what Nietzsche means by instinct isn't automatic animal instinct, but it's what you embody the skills and practices of your culture, and you have to have lots of experience, and then you can act effortlessly and spontaneously and do the appropriate thing.
+
+392
+00:41:46,960 --> 00:41:53,840
+You are what a contemporary writer about these things calls a cultural virtuoso.
+
+393
+00:41:53,840 --> 00:42:05,201
+A cultural virtuoso does, and I say it in Aristotelian jargon, does straight, straightway does the appropriate thing at the appropriate time in the appropriate way.
+
+394
+00:42:05,601 --> 00:42:31,401
+That's the, it's interesting that Aristotle should say this, because that's Aristotle's sort of the nearest thing to getting things right than being very anti-Plato and anti-Socrates, because Aristotle understands that what he calls practical wisdom, which I just was talking about, almost understands that practical wisdom is spontaneously acting.
+
+395
+00:42:31,400 --> 00:42:34,520
+But only almost, because it's so interesting in Aristotle.
+
+396
+00:42:34,521 --> 00:42:41,560
+He's got one foot in what Nietzsche thinks, and one foot totally corrupted by Socrates and Plato.
+
+397
+00:42:41,561 --> 00:42:58,760
+What he says is that the man of practical wisdom immediately sees the appropriate thing to do at the appropriate time in the appropriate way, and then he has to think it over to decide whether it lives up to sort of rational critical reflection.
+
+398
+00:42:58,760 --> 00:43:01,161
+Otherwise, he would just be doing crazy things.
+
+399
+00:43:01,161 --> 00:43:04,280
+But as soon as you say that, what?
+
+400
+00:43:04,280 --> 00:43:05,481
+You lose it.
+
+401
+00:43:05,480 --> 00:43:08,520
+Because there is a famous story.
+
+402
+00:43:08,521 --> 00:43:13,081
+I don't think I told you this one about Knobloch as the second baseman.
+
+403
+00:43:13,081 --> 00:43:13,800
+Did I?
+
+404
+00:43:13,800 --> 00:43:14,680
+I don't think so.
+
+405
+00:43:14,681 --> 00:43:20,600
+Just to give you an example, what happens when you reflect, there was this famous second baseman for the Yankees.
+
+406
+00:43:20,601 --> 00:43:21,081
+Is that right?
+
+407
+00:43:21,081 --> 00:43:22,280
+Does any of you know?
+
+408
+00:43:22,280 --> 00:43:22,841
+Yeah.
+
+409
+00:43:22,840 --> 00:43:28,121
+Who won some award for being such a good baseball player?
+
+410
+00:43:28,121 --> 00:43:31,481
+And one day he thought about what he was doing.
+
+411
+00:43:31,480 --> 00:43:35,961
+And when he thought about it, he couldn't throw the ball to first base anymore.
+
+412
+00:43:35,960 --> 00:43:37,640
+He threw it into the stands.
+
+413
+00:43:37,641 --> 00:43:40,760
+He threw it into the face of some baseball announcer.
+
+414
+00:43:42,601 --> 00:43:44,280
+But I learned a new thing.
+
+415
+00:43:44,440 --> 00:43:50,841
+He could sometimes feel the ball all right, but only if it was coming very fast and he didn't have time to think.
+
+416
+00:43:50,840 --> 00:43:53,481
+But if he had time to think, he couldn't do it.
+
+417
+00:43:53,480 --> 00:43:58,520
+And so he put him in the outfield, but he couldn't stop thinking and he couldn't throw the ball in from the outfield.
+
+418
+00:43:58,521 --> 00:44:00,641
+And finally, he had to give up baseball.
+
+419
+00:44:00,641 --> 00:44:02,640
+And this is really, Nietzsche would love it.
+
+420
+00:43:59,161 --> 00:44:04,161
+Nietzsche would say, yeah, that's it.
+
+421
+00:44:04,241 --> 00:44:09,440
+That's what happens if you think that you have to reflect when you act.
+
+422
+00:44:09,440 --> 00:44:14,161
+Okay, so I'm a big fan of not reflecting.
+
+423
+00:44:14,161 --> 00:44:18,641
+And so I collect these stories when I see them.
+
+424
+00:44:18,880 --> 00:44:22,641
+Oh, there's one more, but I don't know all the details, so I can say it fast.
+
+425
+00:44:22,641 --> 00:44:25,760
+About a very important soccer game.
+
+426
+00:44:26,480 --> 00:44:28,400
+Soccer, is that when you kick the ball into the net?
+
+427
+00:44:28,400 --> 00:44:28,800
+Yeah.
+
+428
+00:44:28,800 --> 00:44:29,200
+Yeah.
+
+429
+00:44:29,521 --> 00:44:44,321
+Okay, a very important soccer game where the very good goalie missed a very easy, in the crucial moment, missed, failed to stop a ball that would have been very easy to stop.
+
+430
+00:44:44,320 --> 00:44:47,521
+And the team lost the game and lost the series and everything.
+
+431
+00:44:47,521 --> 00:44:53,121
+And when asked how he could do that, he said, it was so easy I had time to think.
+
+432
+00:44:53,121 --> 00:44:55,441
+And that, again, it's the same phenomenon.
+
+433
+00:44:55,440 --> 00:44:59,361
+And okay, now back to Nietzsche, who understands that phenomenon.
+
+434
+00:45:00,001 --> 00:45:04,721
+It's as if, in a certain way, instinct is higher immediacy.
+
+435
+00:45:04,721 --> 00:45:13,361
+That is, in Kierkegaard language, you have to start just doing things impulsively, and you wouldn't do them brilliantly.
+
+436
+00:45:13,681 --> 00:45:25,601
+And then you have to go through a lot of work and reflect and think of following rules and learn your skill and feel good about your successes and feel bad about your failures and take risks.
+
+437
+00:45:25,601 --> 00:45:42,401
+And after all of that mediation, you finally get the expertise, the mastery part, and then you've got a kind of higher immediacy because you respond completely, immediately, and fully to the particular situation.
+
+438
+00:45:42,400 --> 00:45:45,881
+Only after all that work, you do it right.
+
+439
+00:45:46,760 --> 00:45:56,680
+Now, Kierkegaard can put it that way: Nietzsche, you'll notice, never talks about, and somebody I think was onto that, but I didn't listen to them right.
+
+440
+00:45:56,920 --> 00:46:01,641
+Nietzsche never talks about what you have to do to get this kind of instinct.
+
+441
+00:46:01,641 --> 00:46:14,521
+That in any, I think almost all of these skills, not always, but most of them, you have to go through a kind of reflection and critical stage to go to get them.
+
+442
+00:46:14,521 --> 00:46:20,601
+Because Nietzsche thinks somehow that you just pick them up right off, I don't know how.
+
+443
+00:46:20,601 --> 00:46:22,681
+Well, it does happen.
+
+444
+00:46:22,681 --> 00:46:24,040
+Sometimes you pick them up.
+
+445
+00:46:24,041 --> 00:46:25,561
+I mean, let me give you an example.
+
+446
+00:46:25,561 --> 00:46:29,881
+I mean, people, have I ever talked about distance standing between people?
+
+447
+00:46:29,880 --> 00:46:40,121
+People in any culture stand a certain distance from important people, from people of the opposite sex, from older people, from younger people, from the people they're intimate with.
+
+448
+00:46:40,121 --> 00:46:42,041
+And there's some rules for how to do it.
+
+449
+00:46:42,041 --> 00:46:44,681
+And if you stand too close, it makes people uneasy.
+
+450
+00:46:44,681 --> 00:46:47,080
+And if you stand too far away, it makes people uneasy.
+
+451
+00:46:47,081 --> 00:46:48,360
+I haven't talked about that.
+
+452
+00:46:48,760 --> 00:46:49,161
+No.
+
+453
+00:46:49,480 --> 00:46:51,880
+Because John Searle, my colleague, had this funny story.
+
+454
+00:46:51,880 --> 00:47:09,321
+He says at international meetings, you can see the people from North Africa backing the people from Scandinavia into a corner because the people from North Africa are trying to get close enough to have a friendly conversation, and the Norwegians and Swedes are trying to get far enough away to have a friendly conversation.
+
+455
+00:47:09,320 --> 00:47:13,081
+They've got very different distance standing practices.
+
+456
+00:47:13,081 --> 00:47:20,921
+And what's interesting is you've developed this whole skill without ever having to go through any kind of mediation.
+
+457
+00:47:20,920 --> 00:47:23,161
+You don't know the rules for doing it.
+
+458
+00:47:23,161 --> 00:47:26,921
+Your parents taught it to you, but they didn't even know they knew it or had it.
+
+459
+00:47:26,920 --> 00:47:38,961
+It's very complicated because, as I say, all the difference of the situation and the relation you have to the other person will determine how close you stand to them.
+
+460
+00:47:38,960 --> 00:47:43,200
+And it'll be different if they have a cold, you can stand further away.
+
+461
+00:47:43,201 --> 00:47:47,201
+If there's an air hammer making noise in the background, you can stand nearer.
+
+462
+00:47:47,681 --> 00:47:50,561
+You have a very subtle skill.
+
+463
+00:47:50,561 --> 00:47:54,800
+And you pick it up without ever understanding it.
+
+464
+00:47:54,800 --> 00:48:02,641
+And of course, if you tried to do it by rules, then you wouldn't be able to do it from the novel kind of problem.
+
+465
+00:48:02,960 --> 00:48:19,040
+So anyway, so it isn't, it is, and Nietzsche would be just interested mostly in the way the Homeric Greeks just picked up their instincts from their parents and from the culture, the way we pick up distance standing practices.
+
+466
+00:48:19,041 --> 00:48:22,641
+He doesn't really believe you have to go through mediation.
+
+467
+00:48:22,641 --> 00:48:25,921
+And the answer really is sometimes you do and sometimes you don't.
+
+468
+00:48:25,920 --> 00:48:27,840
+No, anything you see?
+
+469
+00:48:27,840 --> 00:48:29,201
+Yeah, Beatrice.
+
+470
+00:48:29,201 --> 00:48:29,520
+Ah.
+
+471
+00:48:30,001 --> 00:48:34,480
+I think though, it's not something that is a classic consultant.
+
+472
+00:48:34,480 --> 00:48:37,440
+It stands about the mediated roles.
+
+473
+00:48:37,440 --> 00:48:42,880
+And so that if you are if all of this is picking up just what you hope was practical.
+
+474
+00:48:43,201 --> 00:48:46,480
+Well, you know, you ah, good, good, good.
+
+475
+00:48:46,480 --> 00:48:56,641
+Never mind Abraham, because we don't know enough about him and what and what it means for him to have heard this calling and do something that nobody did before.
+
+476
+00:48:56,960 --> 00:48:59,520
+If we just we just don't know.
+
+477
+00:48:59,521 --> 00:49:02,640
+But to stick to the the problem about the herd instinct.
+
+478
+00:49:02,641 --> 00:49:14,601
+Yeah, Nietzsche thinks, and you'll read you'll see when you're reading him, that the vast mass of people just do the normal, boring, standard thing.
+
+479
+00:49:11,521 --> 00:49:19,000
+And of course, and distance standing is in a way the normal, boring, standard thing.
+
+480
+00:49:21,561 --> 00:49:24,280
+So you're posing an interesting question.
+
+481
+00:49:25,400 --> 00:49:35,641
+My first answer, but I don't think it'll hold up, but it points in the right direction, is that in a boring standard culture, you pick up doing the boring standard thing.
+
+482
+00:49:35,641 --> 00:49:44,361
+And in a culture like the Homeric Greeks, where everybody is much more attuned to the specific situations, you don't.
+
+483
+00:49:44,360 --> 00:49:45,640
+But I don't know what to say.
+
+484
+00:49:45,641 --> 00:49:57,241
+That doesn't help much, because there is a whole lot of instinctual stuff you pick up from your culture, which Nietzsche doesn't like.
+
+485
+00:49:57,241 --> 00:50:01,001
+And that's because he doesn't like conformists.
+
+486
+00:50:02,201 --> 00:50:03,320
+It's funny.
+
+487
+00:50:03,320 --> 00:50:06,280
+Distance standing isn't a kind of conformism.
+
+488
+00:50:07,161 --> 00:50:08,520
+I've never thought about this.
+
+489
+00:50:08,521 --> 00:50:14,041
+I mean, it's to be a conformist, you've got to do it because that's what one does.
+
+490
+00:50:14,041 --> 00:50:17,960
+And you know what it is that one does, and you do it because one does it.
+
+491
+00:50:17,960 --> 00:50:22,360
+Where one does it means the norm, it's the standard thing to do.
+
+492
+00:50:22,360 --> 00:50:29,881
+My favorite example, have I ever said this, is sending Christmas cards to people across the street who you see every day anyway.
+
+493
+00:50:29,880 --> 00:50:32,681
+Why in the world does anybody do such a crazy thing?
+
+494
+00:50:32,681 --> 00:50:34,280
+Well, that's just what one does.
+
+495
+00:50:34,280 --> 00:50:41,161
+Nietzsche would just tear his hair and think that was absolutely amazingly stupid to do it because it's the thing one does.
+
+496
+00:50:42,201 --> 00:50:44,521
+And that's what he's objecting to.
+
+497
+00:50:44,521 --> 00:50:49,561
+And distance standing practices, you don't do it because one does it.
+
+498
+00:50:49,561 --> 00:50:52,280
+You don't even know you've got distance standing practices.
+
+499
+00:50:52,280 --> 00:50:55,881
+And you can't say that somebody who stands the right distance is a conformist.
+
+500
+00:50:55,880 --> 00:50:58,040
+Nietzsche's really against conformists.
+
+501
+00:50:58,041 --> 00:50:59,121
+By the way, I can't resist.
+
+502
+00:50:59,201 --> 00:51:00,641
+How many know about Second Life?
+
+503
+00:50:59,001 --> 00:51:03,201
+I'm writing and thinking about Second Life.
+
+504
+00:51:03,760 --> 00:51:13,120
+In the virtual world, it turns out, people put their avatars the appropriate distance from the other avatars, even though they don't know they're doing it.
+
+505
+00:51:13,121 --> 00:51:15,280
+The people at Stanford have studied that.
+
+506
+00:51:15,840 --> 00:51:22,081
+It's something so pervasive and so ungraspable that it's fascinating.
+
+507
+00:51:22,081 --> 00:51:39,280
+But anyway, so now you have to make a distinction between the kind of things that are standard and recognized as standard that people do because that's the right way to behave, which Nietzsche is against and thinks it's just all boring conformism.
+
+508
+00:51:39,280 --> 00:51:50,001
+And the kind of things people do because they are somehow, and now I don't know what to say, attuned to the particular situation.
+
+509
+00:51:50,001 --> 00:51:52,800
+And they can get that from their culture too.
+
+510
+00:51:52,800 --> 00:52:03,120
+And I think you've got to say with Nietzsche, there are herd cultures, that is cultures where everybody's sort of trying to imitate everybody else.
+
+511
+00:52:03,121 --> 00:52:04,481
+I'll give you an example.
+
+512
+00:52:04,721 --> 00:52:10,000
+And then there are cultures where people try to stand out from everybody else.
+
+513
+00:52:10,001 --> 00:52:13,361
+Let's say be heroes like in Homer.
+
+514
+00:52:13,920 --> 00:52:33,361
+I don't know whether this is fair, and I don't want to insult any Japanese people if it's not fair, but I've read this fascinating thing that for the Japanese, we have a slogan, the squeaky wheel gets the oil, meaning, you know, make sort of make a noise, stand out.
+
+515
+00:52:33,360 --> 00:52:39,521
+And I gather the equivalent Japanese expression is the nail that sticks out and gets pounded down.
+
+516
+00:52:39,521 --> 00:52:54,681
+And you can see a culture sort of making a kind of virtue of conformism as a way of community and what am I trying to think?
+
+517
+00:52:54,681 --> 00:52:59,241
+Unanimity, as I think happens in Japan, probably.
+
+518
+00:52:59,241 --> 00:53:05,561
+Or you can see a culture that makes, and you can do it well or stupidly, and we can do it well or stupidly.
+
+519
+00:53:05,561 --> 00:53:11,721
+We make a culture in which everybody wants to sort of be an individual and get what they want.
+
+520
+00:53:11,960 --> 00:53:16,121
+That can, Nietzsche would prefer that, for sure.
+
+521
+00:53:16,121 --> 00:53:21,241
+Okay, I didn't mean to get into this so far, but it's a whole world in there.
+
+522
+00:53:21,241 --> 00:53:23,241
+So let's get back to where we were.
+
+523
+00:53:23,880 --> 00:53:25,321
+I'm just catching up now.
+
+524
+00:53:25,320 --> 00:53:38,601
+So sum up, noble instinct in Nietzsche is the source of action, and it's impulsive, spontaneous, unreflective, adaptable, and successful, and makes you happy when you're doing it.
+
+525
+00:53:39,161 --> 00:53:57,001
+And that kind of higher immediacy is destroyed when you get a culture that thinks that reflection and rationality and decision-making and all that is the highest form of human life.
+
+526
+00:53:57,001 --> 00:54:01,721
+Okay, so now that gets us to the bad guys, the Socratic Greeks.
+
+527
+00:54:01,721 --> 00:54:03,320
+How many read any Socrates?
+
+528
+00:54:03,320 --> 00:54:04,360
+Some good.
+
+529
+00:54:04,360 --> 00:54:05,641
+Any Plato?
+
+530
+00:54:05,641 --> 00:54:06,841
+That's interesting.
+
+531
+00:54:07,161 --> 00:54:09,000
+Well, of course you can't read Socrates.
+
+532
+00:54:09,320 --> 00:54:10,760
+That's a crazy question.
+
+533
+00:54:10,760 --> 00:54:15,001
+So Plato is recording of Socrates, so you're always reading Plato.
+
+534
+00:54:15,561 --> 00:54:20,680
+But sometimes Plato is giving you his own story, and always telling you it's Socrates.
+
+535
+00:54:20,681 --> 00:54:25,800
+But sometimes he's really describing what Socrates is doing, and sometimes he's putting his own ideas.
+
+536
+00:54:25,800 --> 00:54:26,840
+So it doesn't matter.
+
+537
+00:54:27,081 --> 00:54:30,080
+For what we're talking about, either one.
+
+538
+00:54:28,681 --> 00:54:32,720
+So I'm just going to call them the Socratic Greeks.
+
+539
+00:54:33,601 --> 00:54:44,881
+And those are the ones who lost their instincts, don't trust their responses, and have to constantly sort of figure out what to do.
+
+540
+00:54:44,880 --> 00:55:02,800
+So that now we get Nietzsche's amazingly weird take on Socrates, who, if you read anything about Socrates or Socrates, is presented as such a hero of our culture, the hero of the Enlightenment Greek way of looking at things.
+
+541
+00:55:03,360 --> 00:55:06,721
+I mean, the Greek way of looking at things that gets taken up by the Enlightenment.
+
+542
+00:55:06,721 --> 00:55:09,760
+That is, being rational.
+
+543
+00:55:09,760 --> 00:55:17,041
+And of course, what Nietzsche is going to say is that that just shows that the Greeks and Socrates were sick.
+
+544
+00:55:17,041 --> 00:55:26,880
+And so starting on 43 of Twilight, page 43, where are we on page?
+
+545
+00:55:27,280 --> 00:55:30,401
+So I think I'll begin at the bottom of 42.
+
+546
+00:55:31,360 --> 00:55:34,000
+Socrates saw even more of a three-now.
+
+547
+00:55:34,081 --> 00:55:46,800
+He saw behind his aristocratic Athenians, he grasped that his case, the idiosyncrasy of his case, was already no longer exceptional.
+
+548
+00:55:46,800 --> 00:55:52,481
+Now comes what's happening to him and all of the Athenians.
+
+549
+00:55:52,480 --> 00:55:58,881
+I mean, in effect, what Nietzsche's going to say is they're all sick because they can't trust their instincts anymore.
+
+550
+00:55:58,880 --> 00:56:02,081
+So he says this is now the very bottom of 42.
+
+551
+00:56:02,081 --> 00:56:05,920
+The same kind of degeneration was everywhere silently preparing itself.
+
+552
+00:56:05,920 --> 00:56:09,441
+The old Athenians, the old Athens was coming to an end.
+
+553
+00:56:09,440 --> 00:56:16,760
+And Socrates understood that all the world had need for him, his expedients, his cure, his personal art of self-preservation.
+
+554
+00:56:16,760 --> 00:56:19,161
+Everywhere the instincts were in anarchy.
+
+555
+00:56:19,161 --> 00:56:23,161
+Everywhere people were but five steps from excess.
+
+556
+00:56:23,161 --> 00:56:29,481
+The monsterium in animo, a monster in the soul, was the universal danger.
+
+557
+00:56:29,480 --> 00:56:32,201
+And I'm just going to read all of this because it's his whole story.
+
+558
+00:56:32,201 --> 00:56:33,800
+The instincts want to play the tyrant.
+
+559
+00:56:33,800 --> 00:56:36,280
+We must devise a counter-tyrant who is stronger.
+
+560
+00:56:36,280 --> 00:56:37,961
+That's what Socrates thinks.
+
+561
+00:56:37,960 --> 00:56:47,720
+When the physiognomist revealed it somewhere, skipping, how did Socrates become master of himself and so forth?
+
+562
+00:56:49,641 --> 00:56:51,000
+Where do I learn?
+
+563
+00:56:51,001 --> 00:56:53,800
+So, well, skipping to the number 10 now.
+
+564
+00:56:53,800 --> 00:56:56,040
+And how did he become master of himself?
+
+565
+00:56:56,041 --> 00:57:00,201
+Well, he made a tyrant of reason, as Socrates did.
+
+566
+00:57:00,360 --> 00:57:07,561
+And then rationality, here comes rationality as the answer to this kind of sickness.
+
+567
+00:57:07,561 --> 00:57:11,000
+Rationality was at that time divined as a savior.
+
+568
+00:57:11,001 --> 00:57:14,920
+Neither Socrates nor his invalids were free to be rational or not as they wished.
+
+569
+00:57:15,081 --> 00:57:16,360
+It was de guer.
+
+570
+00:57:16,360 --> 00:57:17,481
+It was required.
+
+571
+00:57:17,480 --> 00:57:19,401
+It was their last expedient.
+
+572
+00:57:20,280 --> 00:57:28,760
+The fanaticism with which the whole of Greek thought throws itself at rationality, that would be Socrates and Plato's job, portrays a state of emergency.
+
+573
+00:57:28,760 --> 00:57:29,880
+One was in peril.
+
+574
+00:57:29,880 --> 00:57:34,361
+One had only one choice, either to perish or be absurdly rational.
+
+575
+00:57:34,440 --> 00:57:38,201
+Then he talks about Plato as a pathological condition.
+
+576
+00:57:38,201 --> 00:57:46,361
+And Plato doesn't understand the unconscious and the spontaneous.
+
+577
+00:57:46,360 --> 00:57:52,520
+So at the last sentence, one must be prudent, this is Socrates, clear, right at any cost.
+
+578
+00:57:52,521 --> 00:57:58,960
+Every yielding to the instincts, to the unconscious, that doesn't mean Freudian unconscious, leads downward.
+
+579
+00:57:58,960 --> 00:58:00,161
+That's what Plato thinks.
+
+580
+00:58:00,561 --> 00:58:02,961
+And Socrates, that's not what Nietzsche thinks.
+
+581
+00:57:58,760 --> 00:58:04,161
+Now, just a quick word.
+
+582
+00:58:04,400 --> 00:58:06,880
+I mean, why in the world is he saying this?
+
+583
+00:58:06,880 --> 00:58:23,760
+Well, all of us in high school or in philosophy 25A or something reads this wonderful story of how great Socrates was, criticizing everything and reflecting on everything and trying to make all of the Athenians critical and rational and so forth.
+
+584
+00:58:24,320 --> 00:58:26,641
+Why should we believe Nietzsche?
+
+585
+00:58:26,641 --> 00:58:29,760
+Well, it's because, I mean, two ways to put it.
+
+586
+00:58:29,760 --> 00:58:33,681
+One is, you've got to realize that Nietzsche has a right to say this.
+
+587
+00:58:33,681 --> 00:58:42,880
+He knows the whole Greek corpus of all that was written at the time of Athens and of Homeric Greek.
+
+588
+00:58:42,880 --> 00:58:48,401
+And he is a superstar of Greek philology, of Greek language and culture.
+
+589
+00:58:48,400 --> 00:58:52,320
+He got tenure at the age of 24 at the University of Basel.
+
+590
+00:58:53,041 --> 00:58:56,000
+So he has a right to say it, and he gets it.
+
+591
+00:58:56,001 --> 00:59:01,200
+Now I'm just saying this so you'll know that you could see that he might be right.
+
+592
+00:59:01,201 --> 00:59:17,841
+He gets it from Thucydides in the Peloponnesian Wars, where Thucydides claims that because they had a plague and because they attacked the wrong people and lost a lot of war when they shouldn't have been attacking these other countries, they wanted to become an empire.
+
+593
+00:59:17,840 --> 00:59:30,080
+And so the Athenians did get so, that instead of having a successful direct democracy where they just got together every day and voted on what they should be doing, they began to disagree.
+
+594
+00:59:30,081 --> 00:59:32,561
+They began to not trust each other.
+
+595
+00:59:32,561 --> 00:59:39,521
+They would send out the generals one day and attack some country, and then they would call them back the next day and decide not to attack the country.
+
+596
+00:59:39,521 --> 00:59:41,440
+So there's something to be said for this.
+
+597
+00:59:41,440 --> 00:59:46,681
+It's a very interesting minority report, not completely made up.
+
+598
+00:59:47,561 --> 00:59:49,161
+So now let me see.
+
+599
+00:59:44,081 --> 00:59:51,480
+43, I think I just read it.
+
+600
+00:59:51,641 --> 00:59:51,960
+Yeah.
+
+601
+00:59:52,280 --> 00:59:57,001
+42, yeah, and 43 again.
+
+602
+00:59:57,641 --> 00:59:58,200
+Yeah.
+
+603
+00:59:58,840 --> 01:00:03,161
+So Socrates was a pseudo-Greek, he says, back on 39.
+
+604
+01:00:03,161 --> 01:00:10,520
+I'm going back there just to tell you that when you see that, what does it mean that Socrates was a pseudo-Greek?
+
+605
+01:00:10,521 --> 01:00:12,361
+I've given you the clue now.
+
+606
+01:00:12,601 --> 01:00:15,161
+That Socrates was a bad Greek.
+
+607
+01:00:15,480 --> 01:00:17,480
+Well, it means he wasn't a Homeric Greek.
+
+608
+01:00:18,681 --> 01:00:23,081
+The real Greeks are the Homeric Greeks, and Socrates is far from that.
+
+609
+01:00:23,081 --> 01:00:37,800
+He's at the bottom of the 39, he says, I recognize Socrates and Plato as symptoms of decay, as agents of the dissolution of Greece, as pseudo-Greek, anti-Greek, and so forth.
+
+610
+01:00:37,800 --> 01:00:42,121
+Well, when he's saying all that, he's always thinking, think of the Homeric heroes.
+
+611
+01:00:42,121 --> 01:00:43,800
+Those were the real ones.
+
+612
+01:00:44,201 --> 01:00:53,001
+On 41, for instance, at the end of section, the first paragraph on page 41.
+
+613
+01:00:53,001 --> 01:01:00,280
+I seek to understand out of what idiosyncrasy the Socratic equation, reason equal virtue, equal happiness, derives.
+
+614
+01:01:00,280 --> 01:01:06,841
+That bizarrest of equations, one which has particularly all the instincts of the older Hellens against it.
+
+615
+01:01:06,840 --> 01:01:12,041
+The older Hellens, I have to give you the code, that's another name for the Homeric Greeks.
+
+616
+01:01:12,041 --> 01:01:14,040
+I don't know why they're called Hellens.
+
+617
+01:01:14,041 --> 01:01:15,880
+I have no, I'm sure somebody knows.
+
+618
+01:01:15,880 --> 01:01:16,201
+You know?
+
+619
+01:01:16,681 --> 01:01:32,880
+25 is the Roman candidate, with no meaning that Greeks are unnecessary, but actually the Hellens are what he calls themselves sort of a part of the thing about your origin because you showed the or itself, that boy's cut off the train.
+
+620
+01:01:34,241 --> 01:01:35,040
+Don't tell us that.
+
+621
+01:01:35,041 --> 01:01:36,641
+I don't think it's going to help.
+
+622
+01:01:36,641 --> 01:01:38,081
+Ah, okay.
+
+623
+01:01:38,081 --> 01:01:38,400
+Okay.
+
+624
+01:01:39,360 --> 01:01:40,081
+The old Greeks.
+
+625
+01:01:40,800 --> 01:01:41,201
+Okay.
+
+626
+01:01:41,521 --> 01:01:46,400
+So, and so the older Helens here, that's the Homeric Greeks.
+
+627
+01:01:46,400 --> 01:01:48,161
+Those are the good Greeks.
+
+628
+01:01:48,161 --> 01:01:55,920
+Now, and then came the bad Greeks, the ones who used rationality to control what they did.
+
+629
+01:01:55,920 --> 01:01:57,041
+We read that.
+
+630
+01:01:57,041 --> 01:02:03,201
+And that shows that they were decadent on page 444.
+
+631
+01:02:03,201 --> 01:02:06,481
+And all that follows from them is wrong.
+
+632
+01:02:06,480 --> 01:02:08,721
+Socrates, I'm in the middle of that top paragraph.
+
+633
+01:02:08,721 --> 01:02:11,200
+Socrates was a misunderstanding.
+
+634
+01:02:11,201 --> 01:02:16,561
+The entire morality of improvement, the Christian included, has been a misunderstanding.
+
+635
+01:02:16,561 --> 01:02:32,961
+So that's where you can see, unlike the Kierkegaard and Dostoevsky, who want to pin it all, who want to separate Christian morality and Christian life from Greek, he's going to bring it all, he wants to put it all together.
+
+636
+01:02:33,201 --> 01:02:34,641
+Now let's see.
+
+637
+01:02:35,121 --> 01:02:37,200
+Just the end of that, 11.
+
+638
+01:02:37,201 --> 01:02:39,760
+To have to combat one's instinct.
+
+639
+01:02:40,081 --> 01:02:42,080
+That is the formula for decadence.
+
+640
+01:02:42,081 --> 01:02:46,160
+As long as life is ascending, happiness and instinct are one.
+
+641
+01:02:46,480 --> 01:02:53,041
+Now, it's time to just remind you of how much this is like Dostoevsky.
+
+642
+01:02:54,880 --> 01:03:10,800
+What happens with Ivan, remember, is that he's about to admit his guilt, he's about to turn himself in, and he stops to deliberate instead of doing what he was doing impulsively and with the recklessness of the Karamatsaus.
+
+643
+01:03:11,280 --> 01:03:28,121
+It's interesting that Dostoevsky and Nietzsche both agree on this one: that spontaneous responses are what is the highest form of action.
+
+644
+01:03:28,280 --> 01:03:32,041
+Let me see if I want to not confuse you.
+
+645
+01:03:32,041 --> 01:03:44,201
+So that's the sense in which both Dostoevsky are anti-Greek, that they both believe in this kind of spontaneous.
+
+646
+01:03:44,601 --> 01:03:53,800
+So, because of the two kinds of Greek, they are both anti-Athenian Greek, and they both believe in the spontaneousness.
+
+647
+01:03:54,041 --> 01:04:00,520
+Dostoevsky doesn't even know or care about the Homeric Greeks, but they both believe in spontaneous responses.
+
+648
+01:04:00,521 --> 01:04:15,321
+I'm just going to read you something where on page 260 in the brothers that I never read, where Ivan is talking about loving the sticky green leaves and so forth.
+
+649
+01:04:17,001 --> 01:04:22,520
+And Alyosha says, I understand, Ivan.
+
+650
+01:04:22,840 --> 01:04:27,241
+I think everyone should love life above everything in the world.
+
+651
+01:04:27,241 --> 01:04:31,081
+And then Ivan says, Love life more than the meaning of it?
+
+652
+01:04:31,081 --> 01:04:33,960
+Certainly, love it regardless of logic, as you say.
+
+653
+01:04:33,960 --> 01:04:35,721
+It must be regardless of logic.
+
+654
+01:04:35,721 --> 01:04:38,280
+It's only then that you can understand the meaning of it.
+
+655
+01:04:38,280 --> 01:04:49,800
+So, in other words, it's only when you're just acting impulsively that you're in touch with what Dostoevsky's way of life.
+
+656
+01:04:50,360 --> 01:04:53,960
+Okay, now, let's see.
+
+657
+01:04:56,440 --> 01:04:57,881
+Yes, I want to see you.
+
+658
+01:04:57,961 --> 01:05:00,320
+I've got only a few moments, but I want to finish this.
+
+659
+01:05:00,640 --> 01:05:14,400
+The main thing I haven't talked about is that because he's weak and death and decadent, the philosopher tries to step out of his life and become detached from it and judge it.
+
+660
+01:05:14,400 --> 01:05:18,640
+Now, that's the next thing that Nietzsche is against.
+
+661
+01:05:19,440 --> 01:05:27,360
+And you can't step out of life and judge it, he says, and because we're always totally involved in it.
+
+662
+01:05:27,360 --> 01:05:28,881
+Now, what does it sound like?
+
+663
+01:05:29,360 --> 01:05:34,161
+Dostoevsky is for, is with or against Nietzsche there?
+
+664
+01:05:34,161 --> 01:05:35,680
+It's just like Dostoevsky.
+
+665
+01:05:36,161 --> 01:05:44,161
+It's like the criticism of Yvonne that he tries to stand outside and decide whether life is worth living or not.
+
+666
+01:05:44,161 --> 01:05:47,440
+And Nietzsche is very clear that you shouldn't be doing that.
+
+667
+01:05:48,001 --> 01:05:54,560
+And what's interesting is, to me, is he calls it rebellion on the middle of page 55.
+
+668
+01:05:54,720 --> 01:05:58,480
+Rebellion is the name of the chapter in which Yvonne is.
+
+669
+01:05:58,720 --> 01:06:06,001
+I mean, it would make one think that Nietzsche had read Dostoevsky, except we know he couldn't have read the brothers.
+
+670
+01:06:06,001 --> 01:06:08,720
+But I'll just read this quickly and then time is up.
+
+671
+01:06:09,041 --> 01:06:26,640
+He says at the middle of 55, if one has grasped the blasphemousness of such a rebellion against life as has in Christian morality become virtually sacrosanct, one has fortunately grasped something else as well, the useless, illusoriness, absurdity of such a rebellion.
+
+672
+01:06:26,640 --> 01:06:28,320
+Now, why is it absurd?
+
+673
+01:06:28,320 --> 01:06:33,760
+For a condemnation of life by the living is, after all, no more a symptom of a certain kind of life.
+
+674
+01:06:33,761 --> 01:06:38,560
+The question whether a condemnation is just or unjust has not been raised.
+
+675
+01:06:38,560 --> 01:06:42,800
+One would have to be situated outside of life, and so forth.
+
+676
+01:06:42,801 --> 01:06:49,800
+So, when, and I'm skipping a little, when we speak of values, we do so under the inspiration and from a perspective of life.
+
+677
+01:06:44,081 --> 01:06:51,560
+Life evaluates through us.
+
+678
+01:06:51,881 --> 01:06:57,320
+From this, it follows that even the anti-nature of morality.
+
+679
+01:06:57,400 --> 01:06:58,921
+Well, no, I don't want to read that.
+
+680
+01:06:59,640 --> 01:07:00,840
+I think that's enough.
+
+681
+01:07:00,841 --> 01:07:13,880
+I mean, that's another thing they have in common is that you, which you'd expect, that you're so involved in the world that you can't step back and make rational decisions about the value of being in the world.
+
+682
+01:07:13,881 --> 01:07:19,001
+Okay, so next time, bring gay science because we're going to read the madman.

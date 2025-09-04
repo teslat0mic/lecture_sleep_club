@@ -1,0 +1,4018 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:05,040
+Okay, there are problems from last time, all right, content problems.
+
+2
+00:00:05,360 --> 00:00:22,000
+After conferring with and exchanging email with Jennifer and Rick and talking to Alva this morning, I see that I got things sort of off course at the end of the lecture last time when I was talking about attention.
+
+3
+00:00:21,999 --> 00:00:26,559
+So I always thought it's a good idea to repent at least 10% of your previous lecture.
+
+4
+00:00:27,360 --> 00:00:32,719
+So we get an opportunity to do that because I do want to straighten out what I got wrong.
+
+5
+00:00:32,720 --> 00:00:40,399
+Then once I get it straightened, once I straighten out what I've got wrong, I want to talk about what his story about attention is.
+
+6
+00:00:40,399 --> 00:00:48,239
+And then that leads to the issue of realism and idealism, which I've been told by Jennifer I can't hide from.
+
+7
+00:00:48,239 --> 00:00:49,440
+I have to discuss.
+
+8
+00:00:49,439 --> 00:00:50,959
+So I will discuss it.
+
+9
+00:00:50,959 --> 00:00:54,879
+And that leads finally to a very puzzling passage that I don't understand.
+
+10
+00:00:54,879 --> 00:01:00,159
+If we make it there, we can all try to figure out what I think it's probably a work.
+
+11
+00:01:00,399 --> 00:01:02,080
+You'd have to figure out what it means.
+
+12
+00:01:02,080 --> 00:01:10,239
+In any case, I expect to get up to the chat, the phenomenal field plot, which luckily we have assigned for the whole week.
+
+13
+00:01:10,239 --> 00:01:14,959
+So I will do it next time if I don't get there this time.
+
+14
+00:01:15,280 --> 00:01:16,800
+All that should be clear.
+
+15
+00:01:17,319 --> 00:01:28,599
+Okay, so let's start with a straightforward quote, which I think I read, but which I now think I misinterpreted somewhat.
+
+16
+00:01:28,920 --> 00:01:44,599
+So, which is on page 31, which that means in the old version in the second full paragraph, within about 10 lines down, on 31, in order to relate it to the life of consciousness, well, it, what's it?
+
+17
+00:01:45,480 --> 00:01:47,720
+Attention, yes, yes, yep.
+
+18
+00:01:47,719 --> 00:01:57,559
+To the life of consciousness, one would have to show how a perception awakens attention, and then how attention develops and enriches it.
+
+19
+00:01:57,559 --> 00:02:05,080
+You could use that as an epigraph for the whole attention chapter and what I want to try to talk about today.
+
+20
+00:02:05,080 --> 00:02:08,119
+It's got two important components.
+
+21
+00:02:09,160 --> 00:02:11,800
+It's perception which awakens intention.
+
+22
+00:02:11,800 --> 00:02:14,200
+Intention isn't first.
+
+23
+00:02:14,200 --> 00:02:16,040
+Intention is a response.
+
+24
+00:02:16,040 --> 00:02:21,879
+That's something I want to say a lot about, which I didn't say anything about last time.
+
+25
+00:02:21,879 --> 00:02:26,519
+And it's a response which develops and enriches attention.
+
+26
+00:02:26,519 --> 00:02:29,320
+That I said a lot about last time at the end.
+
+27
+00:02:29,320 --> 00:02:32,279
+And everything I said about it was not exactly wrong.
+
+28
+00:02:32,280 --> 00:02:37,879
+It was just premature and sort of off the track that he was on.
+
+29
+00:02:37,880 --> 00:03:01,360
+So the basic idea, before I get into the details, is that normal attention, which he calls secondary attention, because he wants to talk about a more basic kind of attention, but normal attention is drawn to something which attracts us because we're interested in it or because it's just a bright thing or whatever.
+
+30
+00:03:00,920 --> 00:03:07,440
+And it could be because we're looking for something, could be because it just grabs us.
+
+31
+00:03:07,760 --> 00:03:09,439
+We're drawn to something.
+
+32
+00:03:09,439 --> 00:03:16,080
+And when we do, it becomes, it was in the background, but then it becomes figure.
+
+33
+00:03:16,080 --> 00:03:19,920
+And what was figure before gets changed into background.
+
+34
+00:03:19,920 --> 00:03:23,999
+That's just that's good common sense story.
+
+35
+00:03:24,319 --> 00:03:29,519
+Now and he's going to even elaborate it, and he's not going to take it back.
+
+36
+00:03:29,519 --> 00:03:34,160
+He's perfectly happy with that kind of everyday attention.
+
+37
+00:03:34,480 --> 00:03:37,520
+He thinks it's exactly what we normally do.
+
+38
+00:03:37,520 --> 00:03:44,959
+He just thinks that there's an even deeper kind of attention that has the same structure that he wants to call attention to.
+
+39
+00:03:45,280 --> 00:03:53,600
+But before we do, I went off now and said a whole bunch of things which weren't quite right.
+
+40
+00:03:55,280 --> 00:04:04,720
+I said analytic attention in our everyday experience has a positive job of opening up the conceptual world of substances and properties.
+
+41
+00:04:04,720 --> 00:04:07,040
+Well, that's just wrong in every dimension.
+
+42
+00:04:07,040 --> 00:04:10,080
+I mean, we're not talking about analytic attention at this point.
+
+43
+00:04:10,079 --> 00:04:15,999
+We're talking about everyday attention that turns backgrounds into figures and figures into backgrounds.
+
+44
+00:04:15,999 --> 00:04:21,119
+Remember, analytic attention is what breaks up gestalts into elements.
+
+45
+00:04:21,119 --> 00:04:46,800
+Analytic attention is what the empiricist sorry without realizing it uses and what the intellectualist makes a big fuss about because that's being awake, being clear-headed, is to have the kind of attention, the analytic kind of attention, that breaks up the gestalt, which is a sort of a confusion from the intellectual point of view, and shows you, remember, the sensory core, the elements.
+
+46
+00:04:47,079 --> 00:04:56,920
+I shouldn't have brought analytic attention in at all, but also we're not talking about how to get to the conceptual world of substances and properties yet.
+
+47
+00:04:56,920 --> 00:05:08,119
+He does need some time to explain how we get an experience of determinate objects, substances with properties, but that's not what he's doing here.
+
+48
+00:05:09,720 --> 00:05:15,879
+Then I said something about motivation, which is right, but I haven't heard you talk about motivation yet.
+
+49
+00:05:16,520 --> 00:05:23,639
+And I said that the true theory of attention doesn't think of attention as neutral, and that's right.
+
+50
+00:05:24,280 --> 00:05:28,920
+It doesn't think of attention as having the job of breaking up Gestalt, that's for sure.
+
+51
+00:05:29,559 --> 00:05:36,439
+But then I said, the true role of attention is to focus on the figure in such a way as to give us a determinate, stable world.
+
+52
+00:05:36,760 --> 00:05:38,999
+That's right, but that's something for later.
+
+53
+00:05:38,999 --> 00:05:41,480
+That's not what this chapter is about.
+
+54
+00:05:44,040 --> 00:05:55,880
+But then I said rightly, and we'll get back to that, very important, that we retroactively cover up the indeterminacy that our attention makes determinate.
+
+55
+00:05:55,879 --> 00:05:58,439
+But I didn't explain quite or at all.
+
+56
+00:05:58,439 --> 00:06:00,360
+Okay, so much for that.
+
+57
+00:06:00,760 --> 00:06:05,559
+I now scratch that in your notes, and let's try again.
+
+58
+00:06:05,559 --> 00:06:13,800
+So now we're on to something new, or at least sort of new, called, I think, would be called primary and secondary attention.
+
+59
+00:06:14,199 --> 00:06:16,519
+Those are not technical terms for him.
+
+60
+00:06:16,520 --> 00:06:18,519
+He just uses the words in passing.
+
+61
+00:06:18,520 --> 00:06:23,960
+But I told you already about everyday or secondary attention.
+
+62
+00:06:24,040 --> 00:06:27,480
+Now I'm going to tell you about primary attention.
+
+63
+00:06:28,759 --> 00:06:45,840
+And now this is going to be a critique of both the empiricists and the intellectualists who can't understand attention in the basic way that it functions in giving us a world of objects at all.
+
+64
+00:06:46,559 --> 00:06:48,800
+That's primary attention.
+
+65
+00:06:48,800 --> 00:07:11,280
+So at the top of 33 in ours, and lost in some huge paragraph in the other, so huge that I better go from the end, about 20 lines above the paragraph that begins against this content, but for all of us, the top of 33, empiricism cannot see what we need to know.
+
+66
+00:07:11,679 --> 00:07:14,480
+Okay, this is a nice way of framing it.
+
+67
+00:07:14,480 --> 00:07:18,639
+He's going to tell us that I know that he tells it over and over.
+
+68
+00:07:18,640 --> 00:07:22,640
+Remember, I said he's always arguing with the dialectic.
+
+69
+00:07:22,640 --> 00:07:24,319
+Empiricism can't see it.
+
+70
+00:07:24,319 --> 00:07:25,999
+Intellectualism can't see it.
+
+71
+00:07:25,999 --> 00:07:34,720
+There's a third thing that everybody's missed in the whole history of philosophy that Gestalt sort of sees, and he sees finally right, all of which is true, I think.
+
+72
+00:07:35,040 --> 00:07:36,559
+And so here we go.
+
+73
+00:07:36,559 --> 00:07:42,640
+Empiricism cannot see that we need to know what we're looking for, otherwise we would not be looking for it.
+
+74
+00:07:42,959 --> 00:07:47,519
+That means empiricism thinks we've just got these clear impressions and that's that.
+
+75
+00:07:47,839 --> 00:07:58,800
+And he's going to set up the idea that there's something leading us to make our experience more and more determinate.
+
+76
+00:07:58,800 --> 00:08:03,040
+That there's something indeterminate calling on us to make it determinate.
+
+77
+00:08:03,040 --> 00:08:08,000
+He thinks that's the only way you can understand this puzzle that goes back to Labino.
+
+78
+00:08:08,000 --> 00:08:11,600
+How in the world you could be trying to find something?
+
+79
+00:08:11,599 --> 00:08:16,800
+Well, only if it's somehow there in some indeterminate way and calling you to make it determinate.
+
+80
+00:08:17,079 --> 00:08:18,679
+That's in the back of his mind.
+
+81
+00:08:18,679 --> 00:08:31,800
+And then you read again, so but empiricism can't see that because empiricism doesn't see that we need to know what we're looking for, otherwise we'd not be looking for it.
+
+82
+00:08:31,800 --> 00:08:35,880
+That is, it doesn't see that we're sort of seeking something.
+
+83
+00:08:35,880 --> 00:08:42,920
+And intellectualism fails to see that we need to be ignorant of what we're looking for, or equally again, we shouldn't be searching.
+
+84
+00:08:42,920 --> 00:08:55,400
+So that is, we're seeking something, we don't know clearly and determinately what, but we know that there's, that we've got some sense that there's something there to find and that it'll be called the finder.
+
+85
+00:08:55,400 --> 00:09:00,520
+They are in agreement that neither can grasp consciousness in the act of learning.
+
+86
+00:09:00,520 --> 00:09:09,160
+That is really now making this indeterminate solicitation, this indeterminate call, determinate.
+
+87
+00:09:09,160 --> 00:09:11,000
+That would be the kind of learning.
+
+88
+00:09:11,160 --> 00:09:29,880
+They are in agreement that neither can grasp consciousness in the act of learning, and that neither attaches due importance to that circumscribed ignorance, that still empty, but already determined attention, sorry, intention, which is attention itself.
+
+89
+00:09:30,920 --> 00:09:32,839
+I don't like quite that phrase.
+
+90
+00:09:32,839 --> 00:09:37,640
+I mean, I think that's very bad for him to say: empty, but already determined.
+
+91
+00:09:37,640 --> 00:09:40,839
+That's just exactly not what he wants to say.
+
+92
+00:09:41,640 --> 00:09:43,480
+Unfortunately, the French says it.
+
+93
+00:09:43,479 --> 00:09:49,240
+But what he means is the still empty but already somewhat determined.
+
+94
+00:09:49,240 --> 00:10:02,560
+I mean, it's got to have enough content to be calling you to get it, and enough content so that you can get it right or wrong, but it isn't determinate until you get the right body set to unlock it.
+
+95
+00:10:02,559 --> 00:10:04,800
+I don't know where that is in Merrill-Ponte.
+
+96
+00:10:01,640 --> 00:10:07,599
+I was looking for it, but I think that phrase is very nice.
+
+97
+00:10:07,920 --> 00:10:16,080
+He talks about how we have to get the right body set in order to unlock what is calling us.
+
+98
+00:10:16,079 --> 00:10:21,120
+And when we do, it becomes determinate as the experience of some object.
+
+99
+00:10:21,120 --> 00:10:27,520
+But until we do, we want to see how Sprang put that.
+
+100
+00:10:28,400 --> 00:10:33,839
+Until we do, you don't want to call it or the set determinate.
+
+101
+00:10:34,160 --> 00:10:38,960
+They get determinate together when you finally unlock the object.
+
+102
+00:10:38,959 --> 00:10:42,319
+Then you are set to, say it becomes a house.
+
+103
+00:10:42,319 --> 00:10:43,600
+Well, say it becomes the trees.
+
+104
+00:10:43,679 --> 00:10:44,480
+That's his example.
+
+105
+00:10:44,479 --> 00:10:48,079
+The trees and the ship, that's a kind of problem to unlock.
+
+106
+00:10:48,079 --> 00:10:51,120
+It's a kind of tension that needs to be resolved.
+
+107
+00:10:51,120 --> 00:10:54,960
+And then as you walk closer, it falls into place.
+
+108
+00:10:54,959 --> 00:11:01,359
+And on the side of the object, you get a determinate object math contrude.
+
+109
+00:11:01,359 --> 00:11:11,200
+And on the side of me, I get a clear determinate set that I can now go up and feed through museum and chips or get on chips or whatever I'm set to do.
+
+110
+00:11:11,199 --> 00:11:18,800
+So all I would say is not already an empty but already determinate intention.
+
+111
+00:11:18,800 --> 00:11:23,359
+You've got to say an empty but already determinable intention.
+
+112
+00:11:23,359 --> 00:11:24,880
+Ah, that would be a good way to put it.
+
+113
+00:11:24,880 --> 00:11:26,400
+I have to go back and look at French again.
+
+114
+00:11:26,400 --> 00:11:27,840
+Maybe it said that and I missed it.
+
+115
+00:11:27,839 --> 00:11:29,120
+Wouldn't that be nice?
+
+116
+00:11:29,439 --> 00:11:31,360
+Because otherwise it's not determined.
+
+117
+00:11:32,240 --> 00:11:32,800
+Yeah.
+
+118
+00:11:33,119 --> 00:11:34,640
+Empty of what?
+
+119
+00:11:35,199 --> 00:11:37,679
+Well, empty of determinateness.
+
+120
+00:11:37,679 --> 00:11:40,640
+That's just another way of, that's all he means there.
+
+121
+00:11:40,640 --> 00:11:48,200
+It's not got, and my set has not got any specific determinable expectations yet.
+
+122
+00:11:48,520 --> 00:12:10,599
+And the object, the trees and masks, which aren't trees and masks yet, but just this tension like a storm on the horizon waiting to break, as he puts it, that's empty in the sense that there, you can't say yet, mass and trees, but it's not completely empty because then we'd be back in you to, you wouldn't be looking for something in it.
+
+123
+00:12:10,599 --> 00:12:23,720
+He's got trying to find this middle thing, remember, which has got to be determinate enough to get trying you to be trying to get a grip on it, but not determinate enough for you to get a grip on it.
+
+124
+00:12:23,719 --> 00:12:31,560
+And on your side, you're making it determinate enough to get, you're trying to get a determinate grip on it if you haven't yet.
+
+125
+00:12:31,559 --> 00:12:34,200
+And that's this business of seeking.
+
+126
+00:12:34,199 --> 00:12:42,280
+And you have to have some sense that there's something there to get it to get a grip on, and you have to have some sense if you haven't got a grip on it.
+
+127
+00:12:42,280 --> 00:12:44,600
+Okay, always about the trees and the mask.
+
+128
+00:12:44,760 --> 00:12:47,000
+That's what that helped?
+
+129
+00:12:47,000 --> 00:12:47,719
+Good.
+
+130
+00:12:47,719 --> 00:12:48,679
+Terrific.
+
+131
+00:12:49,479 --> 00:12:51,000
+Everything else okay?
+
+132
+00:12:51,000 --> 00:12:53,400
+Then let's see where we are.
+
+133
+00:12:54,679 --> 00:12:57,720
+So he's got that story to tell here.
+
+134
+00:12:57,719 --> 00:12:59,000
+And he's got it almost right.
+
+135
+00:12:59,000 --> 00:13:01,160
+Oh, I wanted to write on here with my pen.
+
+136
+00:13:01,160 --> 00:13:02,360
+That's the French again.
+
+137
+00:13:02,359 --> 00:13:03,400
+It seems so long.
+
+138
+00:13:05,160 --> 00:13:06,840
+Write in the determinables.
+
+139
+00:13:07,000 --> 00:13:08,279
+I see if I can make it.
+
+140
+00:13:08,280 --> 00:13:09,079
+Oh, good.
+
+141
+00:13:10,599 --> 00:13:12,359
+Now, there's a whole lot.
+
+142
+00:13:12,439 --> 00:13:14,520
+This is what I was discussing with Alva this morning.
+
+143
+00:13:14,599 --> 00:13:15,640
+You want to come in?
+
+144
+00:13:15,640 --> 00:13:16,679
+More auditors.
+
+145
+00:13:16,679 --> 00:13:18,040
+Get up, please.
+
+146
+00:13:18,359 --> 00:13:23,640
+I'll find you and throw you out of the course if you take lessons for people who need to come in.
+
+147
+00:13:24,439 --> 00:13:27,480
+It's not a good idea for people to be out in the hall.
+
+148
+00:13:27,479 --> 00:13:29,679
+But okay, here we go.
+
+149
+00:13:29,400 --> 00:13:35,520
+So the issue is: so I don't just copy what's out there.
+
+150
+00:13:35,839 --> 00:13:38,320
+That would be a prejudice of the world.
+
+151
+00:13:38,319 --> 00:13:42,400
+Now, we're talking about when I get the right grip to unlock it.
+
+152
+00:13:42,400 --> 00:13:46,800
+That's already says I'm not copying what's out there.
+
+153
+00:13:46,800 --> 00:13:49,280
+And I'm not creating it either.
+
+154
+00:13:50,400 --> 00:13:56,400
+So now the first qualification, I mean, the part of the trouble with this lecture, unfortunately, someone take that seat.
+
+155
+00:13:56,559 --> 00:14:00,320
+Some poor person has given it up for you to be able to sit and take notes.
+
+156
+00:14:01,280 --> 00:14:06,400
+So, and other, if anybody wants to sit and take notes, don't mention it.
+
+157
+00:14:06,719 --> 00:14:09,520
+Nobody, people taking the course, they're just the exact thing.
+
+158
+00:14:09,920 --> 00:14:16,000
+Auditors are getting up seats for people who can come and take notes on what's going on.
+
+159
+00:14:17,199 --> 00:14:30,720
+So, okay, the next, I mean, before you say anything, not only do I have to try to fix that statement determinant, but I have to try to fix all through what's coming next the use of the word creation.
+
+160
+00:14:30,719 --> 00:14:39,280
+Because I think the basic point is you're not creating, at least you're not creating ex nilo anything.
+
+161
+00:14:39,599 --> 00:14:44,240
+You're, and he has another word, which is much the right word, articulating.
+
+162
+00:14:44,240 --> 00:14:46,959
+That is, you are making determinate.
+
+163
+00:14:46,959 --> 00:14:48,800
+You are bringing into focus.
+
+164
+00:14:48,800 --> 00:14:52,480
+When you bring something into focus and make it determinate, you don't create it.
+
+165
+00:14:52,479 --> 00:14:55,679
+That is just not a sensible way of talking.
+
+166
+00:14:55,679 --> 00:15:11,679
+But he's very sloppily using articulating, creating, and another word constituting, as if somehow we knew what they meant, or he knew what they meant, or they meant the same thing sometimes, and sometimes they don't mean the same thing.
+
+167
+00:15:11,679 --> 00:15:16,400
+It's always like, why didn't he write another draft and give it to some people to correct?
+
+168
+00:15:16,439 --> 00:15:18,040
+But anyway, I'll correct it.
+
+169
+00:15:18,040 --> 00:15:19,240
+He should have given it to me.
+
+170
+00:15:19,240 --> 00:15:19,400
+Yeah.
+
+171
+00:15:26,920 --> 00:15:27,640
+Yes, yes.
+
+172
+00:15:27,640 --> 00:15:29,959
+Well, that's what I want to call articulating.
+
+173
+00:15:30,199 --> 00:15:35,559
+The only reason I don't want to call it creating is it sounds like like a blank canvas.
+
+174
+00:15:35,559 --> 00:15:38,200
+There's nothing there, and then you put something on it.
+
+175
+00:15:38,199 --> 00:15:51,480
+And the whole point is there's something there, this problem, this solicitation, this thing like a storm on the horizon, this indeterminate tension that's trying you're trying to get a grip on and unlock.
+
+176
+00:15:51,479 --> 00:15:55,240
+So it's like when you unlock something, do you create anything?
+
+177
+00:15:55,240 --> 00:16:01,640
+No, you manage to bring out something that's there, I think.
+
+178
+00:16:01,640 --> 00:16:05,479
+I mean, Alvin and I discussed it, and I'm really bouncing off that discussion.
+
+179
+00:16:05,480 --> 00:16:06,040
+Yeah.
+
+180
+00:16:06,359 --> 00:16:13,400
+But mine is not um a little bit more of the use of the term constitution because I'm gonna get to it.
+
+181
+00:16:13,719 --> 00:16:16,280
+Yeah, yeah, okay, but it comes around pretty soon.
+
+182
+00:16:16,280 --> 00:16:18,439
+Okay, well, but I can say something right now.
+
+183
+00:16:18,439 --> 00:16:29,000
+The constitution could mean what it means in Husserl, in which case it's pretty much creation ex voice, because in Husserl he has the form and matter picture.
+
+184
+00:16:29,000 --> 00:16:39,559
+There's pure fule, which is the Greek for matter, and then there's conceptual form, which consciousness imposes on it, and then pure intellectual position.
+
+185
+00:16:39,559 --> 00:16:42,440
+He considers it a certain point in here without naming it.
+
+186
+00:16:42,440 --> 00:16:44,040
+But it's not like that.
+
+187
+00:16:44,040 --> 00:16:46,760
+The the healer doesn't have enough solicitation.
+
+188
+00:16:46,839 --> 00:16:48,679
+There's food in the kind.
+
+189
+00:16:48,680 --> 00:16:54,359
+Uh and uh so and that kind of constitution is not the kind he wants.
+
+190
+00:16:54,359 --> 00:17:01,159
+And since Husserl is sort of the one who put the word constitution into the ballgame, I think he shouldn't use it.
+
+191
+00:17:01,399 --> 00:17:09,999
+He and when he does talk about constitution, he usually talks about this kind of this intellectualist kind of understanding of constitution.
+
+192
+00:17:10,240 --> 00:17:13,119
+Yeah, it would be very much like Kusserals.
+
+193
+00:17:14,319 --> 00:17:19,760
+In Kant, I don't know, does Kant use the word constitution?
+
+194
+00:17:19,760 --> 00:17:20,639
+Anybody know?
+
+195
+00:17:20,639 --> 00:17:27,679
+Now that I think of it, I'm not sure he does, because the forms of sensibility, space and time, don't constitute anything.
+
+196
+00:17:27,680 --> 00:17:30,079
+They just form it.
+
+197
+00:17:30,079 --> 00:17:32,639
+And then we put the categories on it.
+
+198
+00:17:32,639 --> 00:17:41,200
+If anything is constitution in Kant, it's putting the categories on the manifold of sensibility, which has already got a sort of structure.
+
+199
+00:17:41,200 --> 00:17:42,800
+I think we shouldn't go into Kant.
+
+200
+00:17:43,119 --> 00:17:47,679
+But if anybody knows whether he uses the word Constitution, come and tell me or send me an email.
+
+201
+00:17:48,000 --> 00:17:51,360
+I haven't got time to reread the critique of your reason to find out.
+
+202
+00:17:51,680 --> 00:17:54,559
+My colleagues who know are all often Germans right now.
+
+203
+00:17:55,040 --> 00:17:55,919
+Okay.
+
+204
+00:17:56,240 --> 00:17:56,640
+Yeah.
+
+205
+00:17:57,119 --> 00:17:59,040
+Is that attention and empty?
+
+206
+00:17:59,760 --> 00:18:01,120
+Yeah, what he says, yeah.
+
+207
+00:18:01,119 --> 00:18:01,839
+I don't like it.
+
+208
+00:18:01,839 --> 00:18:07,040
+That's why you read it back to by intention or given.
+
+209
+00:18:07,119 --> 00:18:07,679
+Ah, you know.
+
+210
+00:18:08,559 --> 00:18:10,959
+No, he means directedness, exactly.
+
+211
+00:18:10,960 --> 00:18:14,880
+And it isn't even a propositional representational kind of directedness.
+
+212
+00:18:14,879 --> 00:18:22,879
+It's just directed for lowering the confusion, resolving the tension.
+
+213
+00:18:22,879 --> 00:18:27,760
+He doesn't know what it's directed for in the sense it has no goal, unless that's a goal.
+
+214
+00:18:27,760 --> 00:18:29,679
+That's a very peculiar kind of goal.
+
+215
+00:18:29,680 --> 00:18:35,599
+It doesn't have a representation of what would count as something specific that would count as success.
+
+216
+00:18:35,599 --> 00:18:45,359
+It has a kind of is built into it that success will be resolving the tension and getting something determinate.
+
+217
+00:18:45,359 --> 00:18:55,399
+And in that sense, it's intentional, because it has, I was talking with John Surrey for an hour yesterday, so I started falling into Thurley and talk, which is fine for here.
+
+218
+00:18:55,399 --> 00:18:59,079
+That's why it's intentional, because it can succeed or fail.
+
+219
+00:18:59,079 --> 00:19:02,840
+You could just throw yourself into the confusion and never get out again.
+
+220
+00:19:03,159 --> 00:19:05,639
+It would never take shape.
+
+221
+00:19:07,240 --> 00:19:08,359
+So, okay.
+
+222
+00:19:08,359 --> 00:19:13,159
+So there is a kind of intentionality involved.
+
+223
+00:19:13,159 --> 00:19:20,199
+And, but it's not representational, propositional, intentionality.
+
+224
+00:19:20,599 --> 00:19:22,120
+Okay, so watch for that.
+
+225
+00:19:22,119 --> 00:19:22,999
+You see, is that okay?
+
+226
+00:19:23,960 --> 00:19:24,839
+You're still worried.
+
+227
+00:19:25,399 --> 00:19:26,040
+Okay.
+
+228
+00:19:26,280 --> 00:19:32,760
+There is the empty but already determinable tendency.
+
+229
+00:19:32,760 --> 00:19:33,559
+How's that?
+
+230
+00:19:34,040 --> 00:19:34,679
+Directedness.
+
+231
+00:19:35,000 --> 00:19:35,800
+Why not directed?
+
+232
+00:19:35,879 --> 00:19:37,159
+So there is the empty.
+
+233
+00:19:37,480 --> 00:19:39,319
+Let's do, what do we do with empty?
+
+234
+00:19:39,319 --> 00:19:40,120
+The blank?
+
+235
+00:19:40,119 --> 00:19:41,160
+Does that help any?
+
+236
+00:19:41,159 --> 00:19:43,639
+The well, no, it doesn't help any.
+
+237
+00:19:45,159 --> 00:19:46,679
+It has to be there.
+
+238
+00:19:46,680 --> 00:19:50,680
+The indeterminate, but already determinable.
+
+239
+00:19:50,680 --> 00:19:52,520
+Yeah, let's rewrite it all together.
+
+240
+00:19:53,240 --> 00:19:57,079
+Because I think he's right to sort of obsess about what that sentence means.
+
+241
+00:19:57,079 --> 00:19:59,479
+So the empty there means indeterminate.
+
+242
+00:19:59,480 --> 00:20:05,719
+There's no particular properties it has, but already determinable directedness.
+
+243
+00:20:05,720 --> 00:20:09,879
+If we tried to rewrite every sentence like this, we'd never get past the getting to the book.
+
+244
+00:20:09,879 --> 00:20:13,480
+But it helps to rewrite one now and then, a pretty important one.
+
+245
+00:20:13,480 --> 00:20:13,880
+Yeah.
+
+246
+00:20:14,200 --> 00:20:17,000
+But you can hear a whole bunch of things.
+
+247
+00:20:17,800 --> 00:20:23,319
+Do you understand these sections as the as leading to the votes, the idea of of motive?
+
+248
+00:20:23,319 --> 00:20:25,639
+And that's right.
+
+249
+00:20:25,639 --> 00:20:27,879
+Do I didn't see the sense of opposite?
+
+250
+00:20:27,879 --> 00:20:28,280
+No.
+
+251
+00:20:28,599 --> 00:20:30,199
+Well, there is a sense.
+
+252
+00:20:30,200 --> 00:20:46,559
+Well, you talk about, um with the keep using uh it strikes me with this possibility does lend itself to to a more opposite word intention of perhaps like want.
+
+253
+00:20:47,599 --> 00:20:48,079
+Well, where?
+
+254
+00:20:48,079 --> 00:20:55,520
+The anti the the determinable neediness or something desire desire or intention.
+
+255
+00:20:55,520 --> 00:20:55,920
+Yeah.
+
+256
+00:20:56,079 --> 00:20:58,159
+Those are all intentional notions, of course.
+
+257
+00:20:58,159 --> 00:20:58,800
+You're right.
+
+258
+00:20:58,800 --> 00:20:59,440
+You're right.
+
+259
+00:20:59,440 --> 00:21:04,480
+I mean when you look when we get done with it, we would we could rewrite it again.
+
+260
+00:21:04,480 --> 00:21:10,479
+It's the indeterminate but determinable I can only say neediness.
+
+261
+00:21:10,480 --> 00:21:18,319
+We don't have a word like desiriness, but but that's the thing you're getting at, that there's some there's something that uh we haven't got that we want.
+
+262
+00:21:18,319 --> 00:21:19,680
+Or attraction.
+
+263
+00:21:19,680 --> 00:21:20,480
+Attraction.
+
+264
+00:21:20,480 --> 00:21:21,919
+Maybe let's try that.
+
+265
+00:21:21,919 --> 00:21:26,960
+Uh indeterminate, the determinable maybe.
+
+266
+00:21:26,960 --> 00:21:32,399
+I mean, I I hear from attraction too much as if there was something determinate there doing the attracting.
+
+267
+00:21:32,399 --> 00:21:40,079
+And if I want to put it on our side, there is something that that we sense that because it's all in every context you're looking at something.
+
+268
+00:21:40,240 --> 00:21:47,520
+I guess attraction in the language we're attracted to the back side on the streets that we're going to be talking to attraction to it.
+
+269
+00:21:47,520 --> 00:21:48,159
+Yeah.
+
+270
+00:21:48,480 --> 00:21:54,319
+I think you build in things there that are are nice but but additional to the central point.
+
+271
+00:21:54,800 --> 00:22:03,440
+So I'll I'm going to stick to something something like neediness is all I can think of if you have to put it in there.
+
+272
+00:22:03,440 --> 00:22:08,159
+There's it there because we do have this, it's like a question that needs to be solved.
+
+273
+00:22:08,159 --> 00:22:10,319
+That's what it's in the context of that.
+
+274
+00:22:10,319 --> 00:22:12,159
+But it was something we're looking for.
+
+275
+00:22:12,159 --> 00:22:13,280
+How about seeking?
+
+276
+00:22:13,520 --> 00:22:17,000
+Well, the indeterminate, the determinable feeding.
+
+277
+00:22:17,000 --> 00:22:17,880
+Will that do?
+
+278
+00:22:18,200 --> 00:22:18,919
+That's good.
+
+279
+00:22:16,720 --> 00:22:23,959
+That's the kind of directedness it is, because you could have a directedness, but you just stare at something and don't seek it.
+
+280
+00:22:24,280 --> 00:22:28,680
+But how can it be intentional in John Surah's sense if it's indeterminate?
+
+281
+00:22:28,680 --> 00:22:29,239
+It can't.
+
+282
+00:22:29,240 --> 00:22:34,520
+That's why I was sort of trying to say it was not representational and propositional.
+
+283
+00:22:34,839 --> 00:22:36,520
+I am vector-surrowed sense.
+
+284
+00:22:37,399 --> 00:22:50,280
+But John was telling me yesterday that any feral-ponty-like point can always be put in terms of success conditions in a very broad sense because then you're asking, well, what is it?
+
+285
+00:22:50,280 --> 00:22:52,919
+Well, it's seeking determination.
+
+286
+00:22:53,159 --> 00:22:58,600
+But that isn't the normal kind of propositional representation because of its indeterminacy.
+
+287
+00:22:58,919 --> 00:23:09,319
+Whereas in John, you find more the paradigm kind of intentionality is you're trying to achieve some goal and you know what the goal is, you just haven't got it yet.
+
+288
+00:23:09,319 --> 00:23:17,159
+Here, you don't even know what the goal is, except in this very different way, that it's the goal is to get it clear enough so that you can deal with it.
+
+289
+00:23:17,639 --> 00:23:18,919
+The goal is to figure out what's there.
+
+290
+00:23:18,919 --> 00:23:19,879
+So there's this shift.
+
+291
+00:23:19,879 --> 00:23:28,280
+You don't know what's there, but you're trying to is the actual change in consciousness that leads you to figure out.
+
+292
+00:23:28,440 --> 00:23:35,399
+Well, it's it's not the change, it's what leads you to change to have this change of consciousness and get a figure.
+
+293
+00:23:35,480 --> 00:23:49,399
+I think we disagree, but instead of so could you raise it as having the condition of factor of trying to figure out what that there is an X implicit again in all these statements.
+
+294
+00:23:49,639 --> 00:23:50,359
+Right, exactly.
+
+295
+00:23:50,399 --> 00:23:54,760
+So I guess why it has an indeterminate trajectory, just removing outwards.
+
+296
+00:23:54,760 --> 00:23:56,159
+You can get past the Searle.
+
+297
+00:23:57,200 --> 00:23:58,760
+Something about other than itself.
+
+298
+00:23:58,760 --> 00:24:00,760
+So you don't have to get a there as an X.
+
+299
+00:24:00,879 --> 00:24:03,040
+Yeah, but you do have to get a kind of seeking in.
+
+300
+00:24:03,040 --> 00:24:05,199
+It's put in the terms of searching.
+
+301
+00:24:01,639 --> 00:24:07,120
+And then it's all right.
+
+302
+00:24:07,280 --> 00:24:19,520
+I mean, I don't mind if it's like Searle, as long as it's not a determinate kind of representation of a goal that you already know, where the emphasis is on the activity of achieving it.
+
+303
+00:24:19,680 --> 00:24:21,439
+Here there is no goal yet.
+
+304
+00:24:21,680 --> 00:24:24,960
+And the activity is the emphasis is on finding out what's there.
+
+305
+00:24:25,919 --> 00:24:28,079
+Well, I would consider that to be the goal.
+
+306
+00:24:28,079 --> 00:24:29,760
+Well, yeah, but it's a different sort of goal.
+
+307
+00:24:29,760 --> 00:24:30,079
+That's all.
+
+308
+00:24:31,200 --> 00:24:34,400
+Yeah, or some different level, anyway.
+
+309
+00:24:34,720 --> 00:24:35,679
+And that's right.
+
+310
+00:24:35,680 --> 00:24:43,679
+So it's a kind of intentionality, and it has conditions of success and failure.
+
+311
+00:24:43,680 --> 00:24:49,679
+I like to call it conditions of improvement because you can get more and more determinate.
+
+312
+00:24:49,680 --> 00:24:58,159
+Whereas generally, the way Searle thinks of it, you either get what you get satisfaction when you achieve the goal.
+
+313
+00:24:58,639 --> 00:25:04,000
+Here, what you do is you're goal to get a better and better grip on it.
+
+314
+00:25:04,000 --> 00:25:06,079
+But that's still, you could succeed or fail.
+
+315
+00:25:06,079 --> 00:25:10,000
+So we're not making any, we're not, I'm not, I'm not disagreeing.
+
+316
+00:25:10,319 --> 00:25:12,319
+If I were disagreeing, let me think of this.
+
+317
+00:25:12,399 --> 00:25:14,800
+I think this is too complicated to explain.
+
+318
+00:25:15,119 --> 00:25:17,599
+I'll try to tell you how I would disagree with Sherlock.
+
+319
+00:25:17,599 --> 00:25:19,280
+I could do it.
+
+320
+00:25:20,559 --> 00:25:29,280
+All I can say is this sort of unhelpful and uninteresting thing that the doctrine functions in a different way, in the way Merlot does.
+
+321
+00:25:29,439 --> 00:25:33,520
+Someday I may be able to say this when we've got more stuff on the table and I thought about it.
+
+322
+00:25:33,680 --> 00:25:33,839
+Yeah.
+
+323
+00:25:34,119 --> 00:25:45,159
+It's not an idea of a relation that's so intense with B and D, and I had an illusion.
+
+324
+00:25:45,159 --> 00:25:46,040
+Somebody said that.
+
+325
+00:25:42,480 --> 00:25:49,239
+Now I keep thinking that doesn't you say that last time to me the right way to think about it.
+
+326
+00:25:49,240 --> 00:25:50,599
+I don't want to think about it that way.
+
+327
+00:25:50,599 --> 00:25:52,200
+No intentionality with an S.
+
+328
+00:25:52,200 --> 00:25:54,520
+In fact, no more intentionality with a T.
+
+329
+00:25:55,240 --> 00:25:57,000
+Let me get back to this.
+
+330
+00:25:57,000 --> 00:26:12,280
+I mean, if you, by the way, want it clear with your CA thinking about this and Searle, I think it's a very illuminating enterprise if you have to convince your TA that you already knew Searle and that your job was thinking about this.
+
+331
+00:26:12,280 --> 00:26:16,199
+And you'd have to take sort of the Searle views for granted while explaining these.
+
+332
+00:26:16,440 --> 00:26:16,760
+Yeah.
+
+333
+00:26:16,839 --> 00:26:22,280
+No, there is because, like, he's calling attention a different kind of intention.
+
+334
+00:26:22,280 --> 00:26:25,239
+And we're going to talk about the intentionality like T, right?
+
+335
+00:26:25,240 --> 00:26:29,159
+And but somehow the intention that is attention is both determinate and indeterminate.
+
+336
+00:26:29,159 --> 00:26:32,280
+So naturally you wonder, well, how is it determined and how is it indeterminate?
+
+337
+00:26:32,280 --> 00:26:36,520
+Well, what's minimally necessary for an intention of the C to be determined is the direction.
+
+338
+00:26:36,680 --> 00:26:38,119
+That's what intentionality is.
+
+339
+00:26:38,119 --> 00:26:41,480
+What's indeterminate about the intention is what is the direction of.
+
+340
+00:26:41,480 --> 00:26:45,479
+So it sounds like he's calling me intentionally kind of directed without an end.
+
+341
+00:26:45,480 --> 00:26:48,040
+And that's a little bit like the intentional report.
+
+342
+00:26:49,079 --> 00:26:52,919
+The intentional report cuts out a hole that he built in.
+
+343
+00:26:52,919 --> 00:26:58,040
+So in a way, I'm not drawing a clue between an analogy.
+
+344
+00:26:58,440 --> 00:27:10,040
+Well, okay, but don't say more just because what's important to Meryl Fonte and me right now is the sense that there is this seeking to fill it in and that it's drawing you to fill it in.
+
+345
+00:27:10,040 --> 00:27:14,199
+It's already somehow it's already there pulling you.
+
+346
+00:27:14,200 --> 00:27:16,359
+That's like the storm on the horizon story.
+
+347
+00:27:16,520 --> 00:27:18,479
+I don't know whether that's with an S I got.
+
+348
+00:27:18,480 --> 00:27:19,720
+It's more than a hole.
+
+349
+00:27:20,440 --> 00:27:21,719
+It's sui generous.
+
+350
+00:27:21,720 --> 00:27:24,920
+It's unlikely that it's going to look like anything in Searle.
+
+351
+00:27:24,919 --> 00:27:32,959
+I mean, I don't want to talk about it more except in office hours because we're talking at a level of the jargon that it's not going to be helpful because lots and lots of people.
+
+352
+00:27:32,960 --> 00:27:36,480
+Okay, now I'm ready to go back to this.
+
+353
+00:27:36,800 --> 00:27:38,239
+I'm never going to get done.
+
+354
+00:27:38,240 --> 00:27:41,520
+Okay, so it's misleading to bring in creation, I think.
+
+355
+00:27:41,520 --> 00:27:43,439
+It's not the way we should talk.
+
+356
+00:27:43,440 --> 00:27:51,359
+He says on the number 34, and Rink alerted me to this, to my horror, that there is literally a question of creation.
+
+357
+00:27:51,440 --> 00:27:55,199
+I don't think there's a, there's certainly not a question of literal creation.
+
+358
+00:27:55,200 --> 00:27:58,639
+We'd have to go back and see if we could save that one from the branch, too.
+
+359
+00:27:58,639 --> 00:28:05,200
+I mean, but I don't think there's any question of creation at all, however, you throw the litter leaves or the creation.
+
+360
+00:28:05,200 --> 00:28:07,119
+So I just toss that one out.
+
+361
+00:28:07,359 --> 00:28:08,880
+What about the object of creation?
+
+362
+00:28:09,200 --> 00:28:10,800
+There is no object of creation.
+
+363
+00:28:10,960 --> 00:28:13,040
+That's why there's this very thing.
+
+364
+00:28:13,040 --> 00:28:19,119
+I happen to know how we talk about the first operation of his answer then to create for itself a field.
+
+365
+00:28:19,119 --> 00:28:21,840
+But that's kind of different from creating an object.
+
+366
+00:28:21,839 --> 00:28:23,919
+I mean, God, we maybe create an object.
+
+367
+00:28:23,919 --> 00:28:25,280
+Yeah, I agree with you.
+
+368
+00:28:25,280 --> 00:28:29,520
+And maybe creation is like the organizational aspect of things or anything about life and that's what it is.
+
+369
+00:28:29,760 --> 00:28:43,040
+Well, I don't know what it means, but it comes in every once in a while, not just in this context of this particular sort of brain-injured person that he's talking about, as I recall.
+
+370
+00:28:43,040 --> 00:28:47,440
+Yeah, but let's, I mean, never mind how it happens.
+
+371
+00:28:47,440 --> 00:28:53,119
+I mean, every time you see it, I think it can be cashed out as articulation, and so why not?
+
+372
+00:28:53,440 --> 00:28:53,839
+Let's do it.
+
+373
+00:28:54,319 --> 00:28:55,439
+Okay, we'll do it.
+
+374
+00:28:56,159 --> 00:29:02,159
+So my body response to the context is foreign.
+
+375
+00:29:02,399 --> 00:29:03,679
+Well, not here yet, is it?
+
+376
+00:29:03,839 --> 00:29:05,599
+That's the next time it's talking about it.
+
+377
+00:29:05,599 --> 00:29:06,479
+At the bottom of the page.
+
+378
+00:29:07,280 --> 00:29:08,559
+There's a continuation of that phone.
+
+379
+00:29:08,720 --> 00:29:12,159
+No, there's this person who can't find located on their body.
+
+380
+00:29:12,480 --> 00:29:15,520
+So he says there's literally a question of creation.
+
+381
+00:29:15,599 --> 00:29:16,760
+For example, maybe.
+
+382
+00:29:16,919 --> 00:29:18,119
+Okay, now he's doing this.
+
+383
+00:29:18,119 --> 00:29:18,599
+Okay.
+
+384
+00:29:16,639 --> 00:29:20,040
+Okay, now he's to the child.
+
+385
+00:29:20,359 --> 00:29:28,440
+And the child and he says about the colors for the child's world that they were indeterminate, which is interesting.
+
+386
+00:29:28,440 --> 00:29:31,159
+I mean, he doesn't say the child's world has no color.
+
+387
+00:29:31,159 --> 00:29:32,920
+He's trying to do his thing again.
+
+388
+00:29:32,919 --> 00:29:36,760
+That indeterminate on our thing is five lines from the bottom.
+
+389
+00:29:37,559 --> 00:29:40,119
+A world in which colors were indeterminate.
+
+390
+00:29:40,359 --> 00:29:46,280
+That is, again, a child's world has a kind of pull to color, but it can't get color yet.
+
+391
+00:29:48,200 --> 00:29:54,920
+Eventually it gets pulled into sort of distinguishing red, warm and cold, and then it gets maybe zero or four colors.
+
+392
+00:29:54,919 --> 00:30:02,439
+And finally, this indeterminacy gets completely made determinate, and the child gets the colors.
+
+393
+00:30:02,440 --> 00:30:04,280
+But it didn't create the colors.
+
+394
+00:30:04,280 --> 00:30:07,639
+It didn't even create, you know, or the possibility of color even.
+
+395
+00:30:07,879 --> 00:30:09,639
+That's all given.
+
+396
+00:30:10,040 --> 00:30:14,359
+What he needs, what the child needs, in my jargon, and which is Maryland Ponte's, but I can't find it.
+
+397
+00:30:14,359 --> 00:30:16,040
+It just unlocks the color.
+
+398
+00:30:16,359 --> 00:30:21,000
+It's the color for the child is like the rabbit in the woods and one of those puzzles.
+
+399
+00:30:21,000 --> 00:30:22,599
+I mean, something's in there.
+
+400
+00:30:22,599 --> 00:30:25,399
+Something's trying to get out and become clear.
+
+401
+00:30:25,399 --> 00:30:26,359
+I don't know yet.
+
+402
+00:30:26,359 --> 00:30:29,319
+And then one day, aha, I see the rabbit in the trees.
+
+403
+00:30:30,040 --> 00:30:30,839
+Jennifer and then Rick.
+
+404
+00:30:30,839 --> 00:30:30,919
+Yeah.
+
+405
+00:30:34,919 --> 00:30:35,879
+With the rabbit in the trees.
+
+406
+00:30:40,280 --> 00:30:41,639
+But that's not intent.
+
+407
+00:30:42,440 --> 00:30:46,439
+It's like a sort of anxiety that's undirected, but there is some sort of resolution.
+
+408
+00:30:46,440 --> 00:30:46,839
+You can see that it's not a good idea.
+
+409
+00:30:47,639 --> 00:30:50,679
+There's always, and I'll give you lots of quotes as I get along.
+
+410
+00:30:51,000 --> 00:30:56,119
+Everybody's jumping ahead, but that's all I there's the set that's that this has got to do with motivation.
+
+411
+00:30:56,119 --> 00:31:08,559
+There's always motivation, and motivation is always a pull to get something that you haven't got, but which which which you already sense is there and which you need, and that's it.
+
+412
+00:31:08,720 --> 00:31:10,319
+And that's why I talk that way.
+
+413
+00:31:10,319 --> 00:31:10,800
+Rip.
+
+414
+00:31:11,040 --> 00:31:16,239
+So in this question of creation, so he says that the colors were indeterminate.
+
+415
+00:31:16,240 --> 00:31:22,000
+And what's kind of contradictory about that is that the colors were for the for the developmental child.
+
+416
+00:31:22,000 --> 00:31:26,079
+They're already there and created, so to speak, in this indeterminate way.
+
+417
+00:31:26,079 --> 00:31:28,720
+And then there is this other act of creation that gets it been making it.
+
+418
+00:31:28,879 --> 00:31:31,120
+Well, he's gotta he's gotta be careful.
+
+419
+00:31:32,480 --> 00:31:36,319
+He shouldn't say that the colors were there indeterminate.
+
+420
+00:31:36,319 --> 00:31:38,559
+What he should say is something's there indeterminate.
+
+421
+00:31:38,639 --> 00:31:39,200
+I know he does.
+
+422
+00:31:39,200 --> 00:31:45,359
+But what he's thinking is something is there, something there is indeterminate, which when it gets to be determinate will be colors.
+
+423
+00:31:46,480 --> 00:31:47,680
+That would be the right thing to say.
+
+424
+00:31:47,680 --> 00:31:49,999
+Well, we have to write this over bit by bit.
+
+425
+00:31:50,000 --> 00:31:56,639
+Could somebody close the door and there's a kind of cold wind across here, which normally I would like, but somehow right now I don't.
+
+426
+00:31:56,960 --> 00:31:59,599
+If it gets too hot, we can close it again.
+
+427
+00:31:59,919 --> 00:32:05,680
+And just to hit, the reason why we care about this is that, you know, the real question is, is he an idealist?
+
+428
+00:32:05,680 --> 00:32:06,800
+Well, yeah, we're getting there.
+
+429
+00:32:06,960 --> 00:32:09,359
+I hope we get there by the end today, of course.
+
+430
+00:32:09,359 --> 00:32:11,119
+And the answer is complicated.
+
+431
+00:32:11,280 --> 00:32:11,520
+Maybe.
+
+432
+00:32:12,879 --> 00:32:14,879
+Lots of distinctions, which we'll get to.
+
+433
+00:32:15,359 --> 00:32:15,839
+Let's see.
+
+434
+00:32:15,839 --> 00:32:17,839
+So I don't want to bring in creation.
+
+435
+00:32:17,839 --> 00:32:23,680
+My body responds to the solicitations in the ground and brings out a new figure from out of the ground.
+
+436
+00:32:23,760 --> 00:32:25,040
+That's how he says it.
+
+437
+00:32:25,040 --> 00:32:28,399
+And right after where we are, the colors.
+
+438
+00:32:28,399 --> 00:32:29,359
+Next paragraph.
+
+439
+00:32:29,359 --> 00:32:35,119
+Now attention, this is ha has to be conceived on the model of these primary acts.
+
+440
+00:32:35,200 --> 00:32:38,559
+The secondary attention, that's everyday attention.
+
+441
+00:32:38,559 --> 00:32:46,000
+Which would be limited to recalling knowledge already gained, would once more identify it with acquisition.
+
+442
+00:32:46,000 --> 00:32:58,919
+See, all he's saying is that you have to do this primary thing of getting the object determined in the first place before you can then switch back and forth between the object and the field, and sometimes you pay attention to the object and sometimes you don't.
+
+443
+00:32:58,919 --> 00:33:00,599
+That's secondary attention.
+
+444
+00:33:00,599 --> 00:33:10,360
+He wants to go he wants to use the same structure, remember I said, that he wants to go to something that has, makes that ordinary attention possible.
+
+445
+00:33:10,359 --> 00:33:15,559
+And now, to pay attention is not merely further to elucidate a pre-existing data.
+
+446
+00:33:15,559 --> 00:33:17,239
+That's what we normally do.
+
+447
+00:33:17,240 --> 00:33:25,000
+We pay attention to the red lectern, then we're just paying attention to some 350 thing, which was in the background and now is in the figure.
+
+448
+00:33:24,999 --> 00:33:25,719
+We do that.
+
+449
+00:33:25,720 --> 00:33:27,319
+But that's all he's interested in here.
+
+450
+00:33:27,319 --> 00:33:31,640
+It's to bring about a new articulation by taking them as figures.
+
+451
+00:33:32,359 --> 00:33:35,160
+Think of the mast in the ship and the trees.
+
+452
+00:33:35,160 --> 00:33:37,720
+They are pre-formed only as horizons.
+
+453
+00:33:37,720 --> 00:33:41,479
+They constitute in reality new regions in the total world.
+
+454
+00:33:41,800 --> 00:33:46,600
+That is, the colors are one example for that.
+
+455
+00:33:47,560 --> 00:33:52,519
+I wonder if the trees and the boats, I should say, is really secondary attention.
+
+456
+00:33:52,519 --> 00:33:54,280
+I mean, because you already know what trees are.
+
+457
+00:33:54,280 --> 00:33:55,879
+You already know what boats are.
+
+458
+00:33:55,879 --> 00:33:57,319
+That's secondary attention.
+
+459
+00:33:57,319 --> 00:34:05,080
+What he's interested in is learning about some new something or other for the first time.
+
+460
+00:34:05,080 --> 00:34:07,160
+That's primary attention.
+
+461
+00:34:07,160 --> 00:34:10,359
+And notice they have the same sort of structure.
+
+462
+00:34:10,359 --> 00:34:16,760
+The difference is you already know what trees are and masts are, and you're trying to get that to sort itself out.
+
+463
+00:34:16,760 --> 00:34:27,159
+It's not like the child already knowing what colors are and in a situation in which something is blurry and then it's so dark and then finally they manage to see the color.
+
+464
+00:34:27,160 --> 00:34:29,719
+It's not, they don't know what colors are yet.
+
+465
+00:34:29,760 --> 00:34:32,560
+And that's the primary story.
+
+466
+00:34:31,720 --> 00:34:33,679
+So let's see.
+
+467
+00:34:33,839 --> 00:34:44,960
+But the important commonality, the structure, is that you articulate something into a figure which was on the horizon before.
+
+468
+00:34:45,999 --> 00:34:52,480
+And that means on the horizon in the sense that in the background, that's synonymous.
+
+469
+00:34:52,479 --> 00:34:59,120
+And in the background means there was already a sense that something was needing to be made determinate.
+
+470
+00:34:59,120 --> 00:35:01,920
+There was already you were seeking to get a better grip.
+
+471
+00:35:01,919 --> 00:35:05,839
+There was a sense that there was something there that you could get a better grip on.
+
+472
+00:35:05,839 --> 00:35:08,640
+That's all in it.
+
+473
+00:35:08,640 --> 00:35:10,079
+I think, okay, yeah.
+
+474
+00:35:10,399 --> 00:35:12,800
+So my body responds and so forth.
+
+475
+00:35:12,800 --> 00:35:18,079
+And I said in my notes, the ships, but now I think that remember where the chips are.
+
+476
+00:35:18,080 --> 00:35:19,119
+They're on page 20.
+
+477
+00:35:19,120 --> 00:35:19,999
+I'm not going to go back.
+
+478
+00:35:19,999 --> 00:35:23,280
+Well, I keep using the language of page 20, so let's look at it.
+
+479
+00:35:23,280 --> 00:35:26,240
+Because though it's secondary, it's the same structure.
+
+480
+00:35:26,240 --> 00:35:27,759
+So let me go there.
+
+481
+00:35:28,560 --> 00:35:32,879
+If I walk along the shore way back, I just want to stick to the middle of the page.
+
+482
+00:35:32,879 --> 00:35:35,999
+The unity of the object is based on the foreshadowing.
+
+483
+00:35:35,999 --> 00:35:39,280
+This is what's the similar thing of a similar structure.
+
+484
+00:35:39,280 --> 00:35:51,440
+The foreshadowing of an imminent order, which is about to spring upon us, a reply to questions in their relation to the landscape, it solves the problem set only in the form of a vague feeling of uneasiness.
+
+485
+00:35:53,839 --> 00:36:02,080
+That's the general way of talking about attention, which is the same whether it's secondary or primary.
+
+486
+00:36:02,080 --> 00:36:05,600
+It's like the thing I began with on page 31.
+
+487
+00:36:05,600 --> 00:36:09,999
+Perception awakens the tens attention and develops and enriches it.
+
+488
+00:36:11,280 --> 00:36:14,239
+And attention is about how that happens.
+
+489
+00:36:14,600 --> 00:36:22,999
+Now so but now we're looking at the primary kind, which is the kind that is something like creation, but better called articulation.
+
+490
+00:36:25,800 --> 00:36:28,519
+I just said it misleading to call it atten creation.
+
+491
+00:36:28,519 --> 00:36:30,280
+It should be called articulation.
+
+492
+00:36:30,280 --> 00:36:32,039
+See the bottom of page.
+
+493
+00:36:32,600 --> 00:36:33,559
+See page 45.
+
+494
+00:36:33,560 --> 00:36:35,079
+Notice I just ran over it too fast.
+
+495
+00:36:35,080 --> 00:36:38,280
+But pay attention is not merely to elucidate pre-existing data.
+
+496
+00:36:38,280 --> 00:36:40,600
+It's to bring about a new articulation.
+
+497
+00:36:40,839 --> 00:36:43,720
+I didn't make up that word because of the word he really needs.
+
+498
+00:36:43,959 --> 00:36:51,560
+The articulate means to focus, to make clearer, to see the joints of, to see how it all hangs together.
+
+499
+00:36:51,560 --> 00:36:54,039
+That's what he's talking about.
+
+500
+00:36:56,039 --> 00:37:00,359
+And he also says constitution lower down.
+
+501
+00:37:00,359 --> 00:37:02,439
+And that's where I and that's that's Husserl's word.
+
+502
+00:37:02,439 --> 00:37:03,639
+But let's skip a little.
+
+503
+00:37:03,640 --> 00:37:13,080
+The miracle of consciousness consists in its bringing to light through attention phenomena which re-establish the unity of the object in a new dimension at the very moment they destroy it.
+
+504
+00:37:13,240 --> 00:37:14,999
+That's okay.
+
+505
+00:37:15,319 --> 00:37:20,200
+I mean, I think that's not always the way it is, and I don't think we should stop to think of examples.
+
+506
+00:37:20,200 --> 00:37:29,960
+Thus, attention is neither an association of images nor the return of itself to thought already in control of its objects, but the active constitution of a new object.
+
+507
+00:37:29,959 --> 00:37:34,280
+Well, if constitution means the same as articulation, yes.
+
+508
+00:37:34,280 --> 00:37:39,720
+But if it means, like in Husserl, imposing a form on an unstructured matter, no.
+
+509
+00:37:40,280 --> 00:37:43,959
+And which makes it explicit and articulate, that's good.
+
+510
+00:37:43,959 --> 00:37:51,800
+Making explicit, you know, is another version of articulation, except if making explicit is also not a good idea.
+
+511
+00:37:51,800 --> 00:37:54,199
+But we've been crossed that word out while we're editable.
+
+512
+00:37:54,200 --> 00:38:01,400
+The reason it's not a good idea is when you talk about explicit, you usually think of it as already implicit.
+
+513
+00:38:01,399 --> 00:38:09,439
+Now, there is a sense of implicit where it's in the indeterminate, but there's only one right way of making it determinate.
+
+514
+00:38:09,439 --> 00:38:13,519
+And in that sort of way, the determinant's already implicit.
+
+515
+00:38:13,519 --> 00:38:21,120
+But it's a misleading because usually implicit, I mean, you can see it's just there already, and you can bring it out.
+
+516
+00:38:21,359 --> 00:38:27,040
+It's, I mean, if I say such, you know, I don't know, do I need an example of normal implicit?
+
+517
+00:38:27,519 --> 00:38:47,839
+There's a big fat book by Robert Brandon called Making It Explicit, and it goes on and on and on about how all the structures of what Merlot even call intellectualist stuff is in there all along, and we can bring it out, and it's a good job of philosophy to bring it out.
+
+518
+00:38:47,839 --> 00:38:48,959
+It's really image.
+
+519
+00:38:48,959 --> 00:38:57,279
+I know how to, I know, that was just blabbing, but here's the right thing to say: the sensory core people believe that the sensory core is implicit.
+
+520
+00:38:57,280 --> 00:39:04,319
+And when you break up the perceptual field, you make explicit what was in there all along, namely the elements, which were implicit.
+
+521
+00:39:04,319 --> 00:39:06,080
+That's bad.
+
+522
+00:39:06,399 --> 00:39:10,319
+That's one connotation of implicit, and we don't want it.
+
+523
+00:39:10,319 --> 00:39:13,200
+Because it isn't as if the elements are in there all along.
+
+524
+00:39:13,200 --> 00:39:19,040
+It's just indeterminate solicitation or tendency or what is his word.
+
+525
+00:39:19,039 --> 00:39:19,519
+What was it?
+
+526
+00:39:19,519 --> 00:39:21,680
+It was nice about the mess.
+
+527
+00:39:22,160 --> 00:39:24,560
+Yeah, the vague uneasiness, right.
+
+528
+00:39:25,999 --> 00:39:27,680
+Foreshadowing.
+
+529
+00:39:27,680 --> 00:39:28,560
+Yeah.
+
+530
+00:39:28,560 --> 00:39:29,440
+Good.
+
+531
+00:39:29,760 --> 00:39:37,800
+So now, so now I'm going to get rid of the, we're going to get rid of the implicit as soon as I find my own people.
+
+532
+00:39:36,800 --> 00:39:38,800
+Oh, Merlot Kind of put on lucky.
+
+533
+00:39:38,800 --> 00:39:42,800
+He's gone and we can't edit his book.
+
+534
+00:39:44,319 --> 00:39:46,160
+Where's the implicit?
+
+535
+00:39:46,160 --> 00:39:47,079
+Oh, yeah, here it is.
+
+536
+00:39:46,640 --> 00:39:49,800
+Okay, five lines from the bottom of 35.
+
+537
+00:39:50,120 --> 00:40:00,200
+But the active constitution of the new object, which makes explicit, no, which makes articulate, what was until then presented is no more than an indeterminate horizon.
+
+538
+00:40:00,280 --> 00:40:03,160
+Indeterminate horizon equal ground.
+
+539
+00:40:03,160 --> 00:40:06,120
+That's just that he can use them interchangeably.
+
+540
+00:40:07,080 --> 00:40:10,359
+So articulation isn't copying, it isn't creating.
+
+541
+00:40:10,359 --> 00:40:14,919
+Now we get to the next important move, which has sort of been guiding my discussion.
+
+542
+00:40:14,919 --> 00:40:18,200
+He really wants to introduce the idea of motivation.
+
+543
+00:40:18,200 --> 00:40:22,520
+And a motivation isn't a cause, and it isn't a reason.
+
+544
+00:40:22,519 --> 00:40:26,359
+Causes and reasons come from the world of determinateness.
+
+545
+00:40:27,319 --> 00:40:40,839
+That is, sensations can cause input from the world can cause sensations, and reasons can cause me to act in a certain way.
+
+546
+00:40:40,839 --> 00:40:44,040
+They are all, they are determinate.
+
+547
+00:40:44,039 --> 00:40:53,319
+But what he's talking about, which is, again, these vague uneasiness, the vague solicitation, that's what he wants to call motivation.
+
+548
+00:40:53,319 --> 00:40:55,480
+That's not determining.
+
+549
+00:40:56,120 --> 00:40:57,399
+Let's see where that is.
+
+550
+00:40:57,399 --> 00:41:01,080
+At the bottom of page, I'm right where I was.
+
+551
+00:41:01,080 --> 00:41:09,559
+At the same time as it sets attention in motion, the object is at every moment recaptured and placed once more in a state of dependence on it.
+
+552
+00:41:09,560 --> 00:41:20,040
+It gives rise to the knowledge-freeing event, which is to transform it, which by means of the still ambiguous meaning, which is required that event to clarify.
+
+553
+00:41:20,039 --> 00:41:25,399
+By the way, I think if you say transform, you don't mean the same as create.
+
+554
+00:41:25,399 --> 00:41:30,439
+I mean, that's another way to say creation is a bad word if what you're talking about is transformation.
+
+555
+00:41:30,760 --> 00:41:33,200
+Articulation is a transformation.
+
+556
+00:41:31,399 --> 00:41:37,199
+It is, therefore, the motive and not the cause of the event.
+
+557
+00:41:37,359 --> 00:41:42,560
+Okay, there he slips in the word motive, and now we have to figure out what that is.
+
+558
+00:41:42,560 --> 00:41:55,200
+Well, it's a crucial notion in Merillo's Hungary because we are constantly taking what is indeterminate in our experience and making it determinate.
+
+559
+00:41:55,200 --> 00:42:02,480
+And we're doing that because we are called to do it, that's solicited talk and so forth.
+
+560
+00:42:02,479 --> 00:42:15,359
+And motive is my response to this kind of indeterminacy calling me to get a body set that will make it determinate.
+
+561
+00:42:15,919 --> 00:42:20,960
+A motive is this pull to being, to unlocking it.
+
+562
+00:42:20,959 --> 00:42:23,439
+And he used it in all sorts of ways.
+
+563
+00:42:23,439 --> 00:42:57,120
+I mean, from where the binocular vision motivates a sense of distance, because if I saw, if there was something wrong so that I saw two images in the scene, which were not quite superimposed, I would try to put it together for his way of thinking, it's the body schema outside of consciousness, which, because these two images don't quite fit, is pulled to get these images together and to produce an experience of distance.
+
+564
+00:42:57,120 --> 00:43:00,400
+That's the way he's going to use the term motive.
+
+565
+00:43:00,399 --> 00:43:07,920
+Motive, it takes the place for him, of all kinds of intellectualist unconscious thinking, processing.
+
+566
+00:43:07,919 --> 00:43:12,359
+These two images are this far apart, the object would have to be that far away.
+
+567
+00:43:12,999 --> 00:43:19,720
+For my two eyes, the image was that far apart, and therefore I now see the object as a certain distance.
+
+568
+00:43:19,720 --> 00:43:21,800
+That's the view he doesn't want.
+
+569
+00:43:21,800 --> 00:43:34,920
+He just wants to say the visual field is unstable, and then the object finds a certain distance and sits there, and that is the motive has done it.
+
+570
+00:43:36,439 --> 00:43:59,879
+It's a way of saying that what he calls the body schema, I'll come to that in a minute, has in it already ways to respond to sort of unbalances, I guess, in the perceptual field and get a stable order.
+
+571
+00:44:00,280 --> 00:44:17,640
+Another way he puts it at some point about distance is that there's this sort of unstableness about some tree, and then the tree retreats into a certain part of the landscape, which is a certain, which is experienced as a certain distance from me, and settles down.
+
+572
+00:44:17,640 --> 00:44:26,520
+That's because there was a kind of motivation to get that tree there would be stable, and the visual system does it.
+
+573
+00:44:26,519 --> 00:44:33,319
+And it does it without consciously or unconsciously having a theory about it or doing any calculations.
+
+574
+00:44:33,319 --> 00:44:36,600
+It has its own kind of logic, he says.
+
+575
+00:44:36,600 --> 00:44:38,679
+Okay, I'm going to read you things like that now.
+
+576
+00:44:38,680 --> 00:44:40,280
+I just jumped ahead.
+
+577
+00:44:40,919 --> 00:44:43,800
+So, where am I just a second?
+
+578
+00:44:44,359 --> 00:44:45,959
+Done by the body schema.
+
+579
+00:44:45,959 --> 00:44:47,720
+Have I got ready for that?
+
+580
+00:44:48,439 --> 00:44:48,999
+Yeah.
+
+581
+00:44:49,999 --> 00:44:56,559
+On uh on 55 in in the body schema is introduced in the middle of a long, long, long, long paragraph.
+
+582
+00:44:56,720 --> 00:44:57,959
+Endless paragraph.
+
+583
+00:44:58,319 --> 00:45:09,039
+Uh the only clue I can give you other guys is if they if you see a footnote, structure of comport, structure de comport dement 178, then you're in the vicinity.
+
+584
+00:45:09,680 --> 00:45:20,720
+But then he just says in passing, it's got to do with the body schema, and I'm not going to But he's talking about a motive there in italics earlier.
+
+585
+00:45:20,720 --> 00:45:25,999
+But I remember when I set this out that maybe I can read it to you now.
+
+586
+00:45:26,080 --> 00:45:27,120
+Let's see.
+
+587
+00:45:27,120 --> 00:45:28,240
+What's he talking about?
+
+588
+00:45:29,760 --> 00:45:30,879
+We had attention and judgment.
+
+589
+00:45:30,879 --> 00:45:31,919
+Weren't we looking along?
+
+590
+00:45:32,879 --> 00:45:33,359
+Same chapter.
+
+591
+00:45:33,519 --> 00:45:34,479
+Three or four pages.
+
+592
+00:45:34,800 --> 00:45:39,680
+He's talking, in fact, about how you see distance here, isn't he?
+
+593
+00:45:39,839 --> 00:45:40,559
+I'm not sure.
+
+594
+00:45:41,519 --> 00:45:45,280
+But when the movements of the body...
+
+595
+00:45:47,120 --> 00:45:49,999
+He's talking about that example turtling on where your eye was.
+
+596
+00:45:50,160 --> 00:45:50,800
+Oh, yeah, right.
+
+597
+00:45:51,039 --> 00:45:52,800
+That's why I didn't want to talk about it.
+
+598
+00:45:53,200 --> 00:45:55,600
+Because it's such a weird case.
+
+599
+00:45:55,839 --> 00:46:00,079
+But he introduces the notion of motive in italics, and he mentions the body schema.
+
+600
+00:46:00,080 --> 00:46:01,280
+I want to talk about it really.
+
+601
+00:46:01,359 --> 00:46:04,879
+It's not such an abnormal case, so I'm going to go on.
+
+602
+00:46:06,800 --> 00:46:15,040
+So articulation is a body, it requires a body response, and he spells it out on 56.
+
+603
+00:46:15,680 --> 00:46:19,280
+So that's three, from the middle of 56, another huge area.
+
+604
+00:46:19,600 --> 00:46:20,319
+The same pair.
+
+605
+00:46:23,760 --> 00:46:25,359
+Paragraph, but see about it.
+
+606
+00:46:25,359 --> 00:46:26,720
+You could have a lot of them.
+
+607
+00:46:26,879 --> 00:46:27,999
+Anyway, I don't know.
+
+608
+00:46:27,999 --> 00:46:35,120
+So the objects filling up the field do not act on the apparent distance in the relation of cause to effect.
+
+609
+00:46:35,120 --> 00:46:38,119
+Ah, yeah, this is the point I was making this point.
+
+610
+00:46:38,120 --> 00:46:40,879
+But I said distance has to do with motivation for him.
+
+611
+00:46:40,879 --> 00:46:44,720
+When the screen is removed, you see remoteness born of the intervening objects.
+
+612
+00:46:44,720 --> 00:46:48,440
+This is the silent language whereby perception communicates with us.
+
+613
+00:46:48,439 --> 00:46:52,440
+Interposed objects in the natural context mean a greater distance.
+
+614
+00:46:46,640 --> 00:46:53,479
+Mean in quotes.
+
+615
+00:46:53,560 --> 00:46:55,800
+I mean, it doesn't got to do with meaning.
+
+616
+00:46:55,800 --> 00:47:02,680
+It's got to do with the fact that they're going to only become stable when you get the put far enough away.
+
+617
+00:47:02,680 --> 00:47:08,999
+It's not, however, a question of connection recognized by objective logic, because that's the intellectualist.
+
+618
+00:47:09,080 --> 00:47:12,200
+He thinks it's unconscious, normal logic.
+
+619
+00:47:12,760 --> 00:47:15,640
+The logic of constituted truth, that's not it.
+
+620
+00:47:15,640 --> 00:47:24,200
+For there is no reason why a steeple should appear to me to be smaller and further away when I am better able to see and detail the slopes and fields between me and it.
+
+621
+00:47:25,080 --> 00:47:34,040
+He's giving sort of gestaltist answer to an intellectualist account of how we come to see a tree a certain distance.
+
+622
+00:47:34,039 --> 00:47:36,359
+There is no reason, but there is a motive.
+
+623
+00:47:36,359 --> 00:47:53,560
+It's precisely Gestalt's psychology which has brought home to us the tensions, see, I didn't make this up, that run like lines of force across the visual field and the system, own-bodied world, and which breathe into it a secret magic life.
+
+624
+00:47:53,560 --> 00:47:56,280
+They're a weird thought of Merlot-Ponty.
+
+625
+00:47:56,280 --> 00:48:12,120
+But the secret magic life is just the way your perceptual system will sort things out in certain distances, will sort things out to have just like trees and masts and all of this in a secret because it's in your body and you're not conscious of it.
+
+626
+00:48:12,120 --> 00:48:24,760
+Magic because it isn't doing logical calculations and it isn't doing memories of previous impressions that are somehow associated with trees looking like that.
+
+627
+00:48:24,760 --> 00:48:26,920
+It's doing some third thing.
+
+628
+00:48:26,919 --> 00:48:32,480
+It's the visual system doing what Merlot-Ponty thinks visual systems do.
+
+629
+00:48:33,439 --> 00:48:34,319
+Okay.
+
+630
+00:48:35,600 --> 00:48:38,079
+And then he says, I'm not sure I'm ready for it, though.
+
+631
+00:48:31,640 --> 00:48:38,479
+Let me just see.
+
+632
+00:48:38,879 --> 00:48:40,319
+I'm trying to put this in my order.
+
+633
+00:48:40,319 --> 00:48:41,839
+I'm going to read my own stuff for a minute.
+
+634
+00:48:41,839 --> 00:48:49,200
+Attention is my openness to solicitations in the background, which my body responds to by articulating a new figure out of the background.
+
+635
+00:48:49,200 --> 00:48:51,519
+My response is receptive to the solicitation.
+
+636
+00:48:51,519 --> 00:48:52,800
+It's already there.
+
+637
+00:48:53,120 --> 00:48:54,079
+That's not news.
+
+638
+00:48:54,479 --> 00:49:03,920
+Okay, I'm ready for 56, where he goes on to criticize the Gestaltists, having just taken over their notion of motivation, skipping down a bit.
+
+639
+00:49:03,919 --> 00:49:15,680
+But when Gestalt psychology, well, sorry, what Gestalt psychology lacks for the adequate expression of these perceptual relationships is a set of new categories.
+
+640
+00:49:15,680 --> 00:49:20,240
+Now that's interesting and a strange thing to say.
+
+641
+00:49:20,560 --> 00:49:24,400
+But I think this is going to be, this is the transition to idealism.
+
+642
+00:49:25,120 --> 00:49:28,319
+But I want to be aware any other.
+
+643
+00:49:29,359 --> 00:49:29,920
+Yeah.
+
+644
+00:49:29,919 --> 00:49:30,319
+Okay.
+
+645
+00:49:30,319 --> 00:49:31,359
+Now, what did they do?
+
+646
+00:49:31,359 --> 00:49:34,880
+They lack a new category.
+
+647
+00:49:34,879 --> 00:49:36,160
+Think of this.
+
+648
+00:49:36,160 --> 00:49:47,440
+How many interesting Gestalt categories has Merlot-Ponty used, which are uniquely Gestalt, not intellectualist, not empiricist?
+
+649
+00:49:47,439 --> 00:49:49,599
+And he's asking for new categories.
+
+650
+00:49:49,600 --> 00:49:50,639
+I'm going to list them.
+
+651
+00:49:50,640 --> 00:50:02,639
+He's talked about equilibrium, tension, good form, maximum coherence, feel, norm, motive.
+
+652
+00:50:02,640 --> 00:50:04,319
+Even motive is one of theirs.
+
+653
+00:50:04,319 --> 00:50:07,280
+Indeterminacy and solicitations.
+
+654
+00:50:07,280 --> 00:50:09,439
+How many more categories would you want?
+
+655
+00:50:09,680 --> 00:50:11,600
+Those are all new categories.
+
+656
+00:50:11,600 --> 00:50:13,200
+And he's taken them over.
+
+657
+00:50:13,200 --> 00:50:13,999
+Did you really?
+
+658
+00:50:13,999 --> 00:50:18,679
+I thought this was just plain craziness, that I now think it's not craziness.
+
+659
+00:50:19,800 --> 00:50:25,319
+What he really means is they aren't going to talk about this in the proper idealist language.
+
+660
+00:50:26,280 --> 00:50:28,680
+A weird way to say that.
+
+661
+00:50:29,319 --> 00:50:35,960
+The new category that they lack is going to be for next time, the phenomenal field, the next chapter.
+
+662
+00:50:36,280 --> 00:50:47,960
+They've got fields, all right, and they've got phenomena, all right, but there's a certain way of hearing phenomenal fields in a crazy, idealistic way that they haven't got.
+
+663
+00:50:47,959 --> 00:51:06,999
+Because he thinks there's something wrong with the Gestalt people because they're naturalists, because they believe that there's a physical world, and that the brain is functioning according to the laws of physics, and that they ought to be able to find fields in our brain to correspond to the fields in perception.
+
+664
+00:51:07,479 --> 00:51:10,040
+He thinks that's just wrong.
+
+665
+00:51:10,039 --> 00:51:11,800
+I think that's absolutely right.
+
+666
+00:51:11,800 --> 00:51:15,720
+I'm all for the Gestaltists, but that's, we don't have to take sides here.
+
+667
+00:51:15,720 --> 00:51:22,119
+The important thing is, for him anyway, and this I think is utterly unfair.
+
+668
+00:51:22,120 --> 00:51:36,839
+He says on the next page, about 237, Gestalt psychology, which, like all psychology, is imprisoned within the self-evident truths of science and the world, they do believe in science and the world, can choose only between reason and cause.
+
+669
+00:51:36,839 --> 00:51:38,119
+Well, that's not fair.
+
+670
+00:51:38,120 --> 00:51:42,760
+The Gestaltists are the one that introduced the notion of motion, which he just took over from them.
+
+671
+00:51:42,760 --> 00:51:46,680
+What he means by that, it isn't just a slip-up, it's worse.
+
+672
+00:51:46,680 --> 00:51:54,359
+What he means is they're looking for the physical causes behind the motivations.
+
+673
+00:51:54,359 --> 00:52:01,440
+They want to find out how the visual system works as a physical object in the physical world.
+
+674
+00:52:00,999 --> 00:52:03,280
+And I must say, more power to them.
+
+675
+00:52:03,600 --> 00:52:09,039
+And as I say every once in a while, Walter Freeman has made progress in this respect, and J.J.
+
+676
+00:52:09,120 --> 00:52:11,359
+Gibson has made progress in this respect.
+
+677
+00:52:11,359 --> 00:52:18,560
+I mean, it's true that at Merle-Ponty's time, the neuropeople didn't have anything helpful to say.
+
+678
+00:52:19,200 --> 00:52:26,479
+And the Gestaltists, when they looked for their fields in the brain, which they actually did, didn't find any that corresponded to the fields.
+
+679
+00:52:26,479 --> 00:52:39,200
+They were hoping to find the ways in which the fields in the brain came to equilibrium, the way the perceptions, say, of the trees in the boat came, the masks in the trees came to equilibrium.
+
+680
+00:52:39,200 --> 00:52:46,640
+They were thinking, look, soap bubbles come to equilibrium by the least action, making it into a sphere.
+
+681
+00:52:46,640 --> 00:52:51,040
+We ought to be able to find the least action principles going on in the brain.
+
+682
+00:52:51,039 --> 00:52:52,319
+And they didn't.
+
+683
+00:52:54,160 --> 00:52:57,039
+I think there are two issues here that we need to distinguish.
+
+684
+00:52:57,039 --> 00:53:02,000
+One is the prejudice of the world, which the Gestalt technologists are making as well.
+
+685
+00:53:03,680 --> 00:53:04,640
+Oh, yeah, the Gestalts.
+
+686
+00:53:04,640 --> 00:53:05,759
+Everybody does pretty much.
+
+687
+00:53:06,240 --> 00:53:07,999
+They also believe that there's this determination.
+
+688
+00:53:07,999 --> 00:53:10,080
+Well, I mean, it's a presupposition of naturalism.
+
+689
+00:53:10,879 --> 00:53:17,599
+That the principle involves presupposing from the get-go that there is this natural science process.
+
+690
+00:53:17,839 --> 00:53:18,639
+I'm going to get to that.
+
+691
+00:53:18,640 --> 00:53:19,439
+I see what you mean.
+
+692
+00:53:19,439 --> 00:53:29,039
+Yeah, when I talked about the lines of the motor liar illusion, which is how it came up in Jennifer's seminar, yes, there's a double objection to Gestaltists.
+
+693
+00:53:29,039 --> 00:53:32,639
+You're giving the sort of idealist metaphysical one.
+
+694
+00:53:32,640 --> 00:53:36,159
+Right now, we're just getting the fact that they shouldn't be naturalists.
+
+695
+00:53:36,160 --> 00:53:40,560
+Later, we're going to find out, and they shouldn't believe in physical causality.
+
+696
+00:53:40,560 --> 00:53:45,039
+Later, we're going to find out they shouldn't even believe in the objective, the external world.
+
+697
+00:53:45,640 --> 00:53:53,559
+But that's a distinct issue from the other issue, which is whether or not what's really out there at Serbus Age is brute meaningless stuff.
+
+698
+00:53:53,879 --> 00:53:57,559
+And we're imposing the observer relative meaning onto the brute meaningless stuff.
+
+699
+00:53:57,560 --> 00:54:00,119
+So the Gestalt psychologists also believe in that.
+
+700
+00:54:00,280 --> 00:54:00,759
+Do they?
+
+701
+00:54:00,760 --> 00:54:01,319
+I think so.
+
+702
+00:54:01,319 --> 00:54:07,319
+And that's where Bronze McCook is going to disagree by saying that, you know, I'm not convinced about that.
+
+703
+00:54:07,319 --> 00:54:08,599
+You'll have to tell me that later.
+
+704
+00:54:10,120 --> 00:54:10,359
+Really?
+
+705
+00:54:10,359 --> 00:54:10,760
+I don't know.
+
+706
+00:54:12,120 --> 00:54:13,720
+The imminent meaning.
+
+707
+00:54:13,720 --> 00:54:14,679
+And I don't.
+
+708
+00:54:14,919 --> 00:54:15,720
+Well, where is the immune?
+
+709
+00:54:15,959 --> 00:54:16,839
+Right after what you're reading.
+
+710
+00:54:16,839 --> 00:54:17,240
+Now is that.
+
+711
+00:54:17,959 --> 00:54:19,959
+Okay, let me read that sentence.
+
+712
+00:54:19,959 --> 00:54:26,680
+Now, as we've seen, the perception of our own body and the perception of external things provided an example of non-causing consciousness.
+
+713
+00:54:26,680 --> 00:54:31,880
+That means not explicitly directed toward a determinate object.
+
+714
+00:54:31,879 --> 00:54:35,240
+That is, a consciousness not in possession of a fully determinate object.
+
+715
+00:54:35,240 --> 00:54:36,200
+That's what he's interested in.
+
+716
+00:54:36,919 --> 00:54:38,599
+That of the logic lived through.
+
+717
+00:54:38,600 --> 00:54:41,560
+That's motivation, which cannot account for itself.
+
+718
+00:54:41,560 --> 00:54:43,959
+And that of an imminent being, which is not clear to itself.
+
+719
+00:54:44,839 --> 00:54:45,879
+Yeah, but that's fine.
+
+720
+00:54:45,879 --> 00:54:46,920
+He's all for that.
+
+721
+00:54:46,919 --> 00:54:52,200
+That an imminent being is not clear to itself and becomes fully aware only through experiencing certain natural signs.
+
+722
+00:54:52,200 --> 00:54:53,079
+Now read the next sentence.
+
+723
+00:54:54,039 --> 00:54:58,119
+These phenomena cannot be assimilated by objective thought, and that is why Gestalt psychology.
+
+724
+00:54:58,120 --> 00:54:59,640
+Well, that's what I think is wrong.
+
+725
+00:54:59,640 --> 00:55:02,119
+I mean, I don't, I think he's just cheating.
+
+726
+00:55:02,120 --> 00:55:11,959
+The Gestalt psychologists have been describing in detail how imminent meaning becomes explicit, how the indeterminate becomes determinate.
+
+727
+00:55:12,839 --> 00:55:14,359
+That's their game.
+
+728
+00:55:14,359 --> 00:55:14,839
+And no?
+
+729
+00:55:15,080 --> 00:55:15,719
+I don't think so.
+
+730
+00:55:15,720 --> 00:55:16,359
+You don't think so?
+
+731
+00:55:16,600 --> 00:55:20,119
+I mean, it's a question of what Gestalt psychologists are trying to do and what he needs.
+
+732
+00:55:20,200 --> 00:55:21,879
+Maybe he's misunderstanding the development.
+
+733
+00:55:22,039 --> 00:55:23,639
+No, I think he's not misunderstanding them.
+
+734
+00:55:23,640 --> 00:55:28,919
+They're trying to do two things at once, which I think is okay and he thinks is illegitimate.
+
+735
+00:55:28,919 --> 00:55:41,839
+They're trying to give a motivation from indeterminate to determinate, from unbalanced form to form, story about our experience, and then trying to find a causal basis for that in the brain.
+
+736
+00:55:41,839 --> 00:55:47,439
+And that naturalism, that belief in the physical world, is their problem.
+
+737
+00:55:47,919 --> 00:55:49,839
+I agree with that the way you put it.
+
+738
+00:55:49,839 --> 00:55:56,319
+But then the question is, in the, for example, if we just take water, is water drinkable?
+
+739
+00:56:05,280 --> 00:56:09,039
+I think the Gestaltists would be happy with the Gibsonian talk of affordances.
+
+740
+00:56:09,039 --> 00:56:11,839
+Why shouldn't they say the water looks to us?
+
+741
+00:56:11,999 --> 00:56:13,519
+In fact, we know they say that.
+
+742
+00:56:13,519 --> 00:56:14,880
+The water looks drinkable.
+
+743
+00:56:14,879 --> 00:56:19,919
+But if they say that, then that's not the objective world in the sense that we don't think he's going to criticize.
+
+744
+00:56:19,999 --> 00:56:20,319
+That's right.
+
+745
+00:56:23,919 --> 00:56:26,559
+It's all just about H2O, but not off the drinkability.
+
+746
+00:56:27,200 --> 00:56:27,599
+Right.
+
+747
+00:56:27,600 --> 00:56:45,519
+But notice that it's just unfair to the Gestaltists to say that they aren't aware that the water looks drinkable and the women looks lovable and this is what you were quoted as Kafka, one of the big of the two, they're two big Gestalt people, Werrheimer and Kafka.
+
+748
+00:56:45,519 --> 00:56:48,079
+I get quoted all the time in the footnotes of Sidney.
+
+749
+00:56:48,319 --> 00:56:52,319
+So the Gestaltists were the first to make a big fuss about affordances.
+
+750
+00:56:52,319 --> 00:56:53,839
+But they were still Cartesian.
+
+751
+00:56:54,160 --> 00:56:56,159
+Well, let's go we'll get there.
+
+752
+00:56:56,160 --> 00:57:07,600
+I'm just gonna but but it's unfair to say if they didn't have any notion of motives and they didn't have any notion of affordances, they only believed in the realism of causal thinking, which is at the bottom.
+
+753
+00:57:07,600 --> 00:57:25,079
+That if in unless he just hasn't been reading a word of it, which makes no sense, he must, he means there that they expected to find objective, determinate, independent, physical, causal stuff underlying what they described.
+
+754
+00:57:25,080 --> 00:57:26,280
+And they can't do that.
+
+755
+00:57:26,280 --> 00:57:26,760
+Isn't that?
+
+756
+00:57:26,760 --> 00:57:28,120
+Are you disagreeing about that?
+
+757
+00:57:28,280 --> 00:57:30,760
+I agree with you as far as the truth of the matter goes, I think.
+
+758
+00:57:31,560 --> 00:57:34,519
+Okay, well, I'm trying to help him out as usual.
+
+759
+00:57:34,760 --> 00:57:39,160
+I think that's kind of a problem because, you know, maybe he really just doesn't have a couple lines he views.
+
+760
+00:57:39,399 --> 00:57:41,959
+Okay, well, this would be beyond Laffey.
+
+761
+00:57:41,959 --> 00:57:44,199
+This would be sort of schizophrenic.
+
+762
+00:57:44,200 --> 00:57:58,200
+Having just used all this Vestal talk about motive, indeterminate, affording, soliciting, and so forth to say that they don't have it, that they need new categories so they can talk like he did when he was just talking like they did.
+
+763
+00:57:58,999 --> 00:58:00,839
+That would be too crazy for words.
+
+764
+00:58:00,839 --> 00:58:01,720
+So I'm doing this.
+
+765
+00:58:02,039 --> 00:58:04,120
+I can't believe he's that crazy.
+
+766
+00:58:04,120 --> 00:58:05,640
+Anyway, so here's what I think.
+
+767
+00:58:06,039 --> 00:58:20,280
+He knows all that about Vestal psychology, and he knows that they made this big mistake from his point of view of expecting to find causal basis, causal correlatives in the brain for what they were talking about.
+
+768
+00:58:20,280 --> 00:58:22,920
+And as I keep saying, they didn't.
+
+769
+00:58:24,439 --> 00:58:29,159
+But I want to say just one last time that Walter Freeman does.
+
+770
+00:58:29,160 --> 00:58:31,800
+The fields are now chaotic attractors.
+
+771
+00:58:31,800 --> 00:58:41,880
+They didn't know about chaotic attractors in his day, although he had this one amazing moment when he said what goes on in the brain should be described in terms of vortices.
+
+772
+00:58:42,760 --> 00:58:46,679
+I don't know where he got that, but he was looking in the right direction.
+
+773
+00:58:47,720 --> 00:58:59,080
+They didn't have it, and and the narrow tanti thinks that they shouldn't have it, and that he even had an idea about how the brain should be described as really alien to his project.
+
+774
+00:58:59,720 --> 00:59:00,359
+Think about this.
+
+775
+00:59:00,359 --> 00:59:16,080
+For those of you who've got the structure of behavior, and look at these interesting footnotes taking you to interesting parts of the structure of behavior, there he's very interested in how the brain does it and has proposals and objections and so forth.
+
+776
+00:59:16,080 --> 00:59:26,640
+That's because the structure of behavior is written, so to speak, from within a belief in the objective world and science and the brain as a functioning object.
+
+777
+00:59:26,640 --> 00:59:31,680
+It's prior to the move to idealism which he makes in the phenomenology of perception.
+
+778
+00:59:31,680 --> 00:59:32,720
+This isn't a mistake.
+
+779
+00:59:32,720 --> 00:59:33,839
+I mean, he knows that.
+
+780
+00:59:33,839 --> 00:59:47,120
+He first gives uh he wants to give the best story that you can give on the level of the objective world and try to figure out how the brain does it because there does do there really seem to be brains seeming to do it.
+
+781
+00:59:47,120 --> 01:00:06,319
+And then having done that, he wants to make the move we're making right now to sending, of course, that whole idea of a completely determinate objective world with its objective causes underlying our indeterminate behavior with its motivations is a big mistake.
+
+782
+01:00:06,319 --> 01:00:18,240
+And so he goes from the structure of behavior to rethink it philosophically, ontologically, and in a kind of idealism, which is where we are.
+
+783
+01:00:18,240 --> 01:00:28,560
+But it's good to go back and see what goes on in structured behavior because he has lots of interesting things to say about what's wrong with the current brain science in his day and lots of hints about why it might be better.
+
+784
+01:00:28,560 --> 01:00:29,200
+Yeah.
+
+785
+01:00:29,519 --> 01:00:43,680
+I I probably I mostly the first part of today was then trying to make sense that he's talking about creation and constitution without attributing to him the belief that the subject actually creates or constitutes it.
+
+786
+01:00:43,680 --> 01:00:46,679
+But they're ending now by saying that he is in fact an idealist.
+
+787
+01:00:45,760 --> 01:00:49,559
+So if you said that he's an idealist, why not?
+
+788
+01:00:49,800 --> 01:00:52,999
+Well, I'm going to do this way.
+
+789
+01:00:46,479 --> 01:00:53,639
+No problem.
+
+790
+01:00:54,760 --> 01:00:56,199
+I have 15 minutes to do it.
+
+791
+01:00:56,200 --> 01:00:57,159
+But that's right.
+
+792
+01:00:57,560 --> 01:01:00,439
+And I think we have to, there's a very important teaching.
+
+793
+01:01:00,439 --> 01:01:02,839
+I'll just say it right now, and then I've got to show it.
+
+794
+01:01:03,160 --> 01:01:11,159
+If you don't make the distinction between world and universe, you can't understand anything that I've been saying and he's been saying up to now.
+
+795
+01:01:11,479 --> 01:01:14,279
+And so that's what I'm about to get there.
+
+796
+01:01:14,280 --> 01:01:20,679
+So we got the unfair critique of Gestalt, and then we got their new category.
+
+797
+01:01:20,999 --> 01:01:30,200
+And what he thinks is now his story is that what are the new categories that he wants to use?
+
+798
+01:01:30,200 --> 01:01:32,439
+What is the phenomenal field going to tell us?
+
+799
+01:01:32,439 --> 01:01:41,560
+The phenomenal field tractor is going to tell us that the world, the perceptual world, is not determinate ever.
+
+800
+01:01:41,560 --> 01:01:47,960
+But is always, we're always moving to get more determinacy and more of a grip on objects.
+
+801
+01:01:47,959 --> 01:01:52,839
+But there's always more indeterminacy because whenever you get a figure, there's always a background.
+
+802
+01:01:52,839 --> 01:02:01,160
+And that's the way the world, the objective, perceptual world, this world.
+
+803
+01:02:01,399 --> 01:02:03,079
+You can't say objective there, because that's that.
+
+804
+01:02:03,319 --> 01:02:07,240
+Oh, yes, you can, because I want to say he's an empirical realist like Kant.
+
+805
+01:02:07,399 --> 01:02:09,639
+But he has his own technical use of the word objective.
+
+806
+01:02:09,640 --> 01:02:10,680
+Oh, he doesn't like objective.
+
+807
+01:02:10,999 --> 01:02:12,119
+Which is the world in itself.
+
+808
+01:02:12,120 --> 01:02:12,599
+Oh, okay.
+
+809
+01:02:12,600 --> 01:02:13,079
+Sorry then.
+
+810
+01:02:14,439 --> 01:02:15,879
+Take back objective then.
+
+811
+01:02:15,879 --> 01:02:20,439
+I would like objective, but let's just call it the shared world that we all experience and agree on.
+
+812
+01:02:20,439 --> 01:02:23,399
+So he says perceived world technical terms.
+
+813
+01:02:23,399 --> 01:02:24,040
+Very good.
+
+814
+01:02:24,039 --> 01:02:30,440
+So he's got a view about the perceived world and how it's indeterminate and so forth.
+
+815
+01:02:30,439 --> 01:02:39,600
+And he's got a view, and this is where we have to get now, about how this is always covered up by experience.
+
+816
+01:02:39,600 --> 01:02:44,720
+Only funny, I didn't write down, and now I've got a problem where he says that.
+
+817
+01:02:45,200 --> 01:02:47,440
+Well, I'll find it in a minute.
+
+818
+01:02:48,319 --> 01:02:49,600
+Ah, here we are.
+
+819
+01:02:49,760 --> 01:02:52,000
+On page 58.
+
+820
+01:02:53,039 --> 01:03:18,880
+So the idea is now that when we respond to these solidifications, when the body schema responds to the motivation and makes the objects of our experience determinate, we can't help reading back into our experience the idea that that determinate object was there all along and it was determinate all along.
+
+821
+01:03:18,879 --> 01:03:20,959
+That's the retroactive illusion.
+
+822
+01:03:20,959 --> 01:03:22,880
+That's the crypto mechanism.
+
+823
+01:03:22,879 --> 01:03:26,720
+That's what he wants to say to all of you who are sitting here and saying that this is utter nonsense.
+
+824
+01:03:26,720 --> 01:03:29,200
+The world is full of completely determinate objects.
+
+825
+01:03:29,200 --> 01:03:35,199
+Look, there, strike this Jennifer Beautiful yellow car and dia form Carmen D out there.
+
+826
+01:03:35,280 --> 01:03:38,000
+They're all as determinate as you could get.
+
+827
+01:03:37,999 --> 01:03:39,839
+And the answer is: no, they're not.
+
+828
+01:03:39,839 --> 01:03:45,440
+You just manage to make them determinate by focusing your attention on them.
+
+829
+01:03:45,999 --> 01:03:52,000
+And in fact, there is a basic indeterminacy in experience.
+
+830
+01:03:51,999 --> 01:03:54,079
+And this is what he's saying at the top of 58.
+
+831
+01:03:54,080 --> 01:04:07,120
+To the degree, and this is in the last paragraph of the technique, to the degree, to the degree that the motivated phenomena comes into being, an internal relation to the motivating phenomenon appears.
+
+832
+01:04:07,120 --> 01:04:10,560
+The motivated phenomenon is the determinate object.
+
+833
+01:04:10,560 --> 01:04:15,039
+The motivating phenomenon is the tension.
+
+834
+01:04:15,359 --> 01:04:32,519
+Hence, instead of the one nearly succeeding the other, that is, the tension comes and then the determinate object, the motivated phenomenon, the determinate object, makes the motivating phenomenon explicit and comprehensible and seems to have pre-existed its own motive.
+
+835
+01:04:32,519 --> 01:04:34,679
+That's a complicated way of putting it.
+
+836
+01:04:34,680 --> 01:04:44,280
+That says, it explains why there was a tension and why this was an answer by saying because there was a yellow and orange folks fogging there all along.
+
+837
+01:04:44,839 --> 01:04:45,879
+That is true.
+
+838
+01:04:46,039 --> 01:04:49,559
+And now, let me just skip a second, and you'll see that this is what's going on.
+
+839
+01:04:49,560 --> 01:05:01,240
+We place beforehand within perception a science constructed upon it, and we lose sight of the original relationship of motivation in which distance springs into existence ahead of any science.
+
+840
+01:05:01,240 --> 01:05:12,280
+Not from a judgment of the two images, so these are not numerically distinct, but from the phenomenon of the shift, from the forces which reside in this rough outline, which are trying to come to rest.
+
+841
+01:05:12,280 --> 01:05:21,720
+I mean, how much more anthropomorphizing of this tension is that trying to come to rest, which read it to the most determinate form possible.
+
+842
+01:05:21,720 --> 01:05:33,240
+So we read that whole story back into the world as it would read the result back into the world and think the world is the determinate objects.
+
+843
+01:05:33,240 --> 01:05:40,040
+And it's because they are already determinate that they solicit us to get the key to unlock them.
+
+844
+01:05:40,039 --> 01:05:42,680
+But they are not like that.
+
+845
+01:05:43,319 --> 01:05:47,000
+They are being determinate depends on us.
+
+846
+01:05:46,999 --> 01:05:48,680
+We have to make them determinate.
+
+847
+01:05:48,999 --> 01:05:51,399
+It's like it's related to authorities.
+
+848
+01:05:51,399 --> 01:05:59,640
+I mean, the being author in eating is not a feature of things in the universe.
+
+849
+01:05:59,959 --> 01:06:04,720
+And neither are these determinate objects features of things in the universe.
+
+850
+01:06:05,039 --> 01:06:09,839
+They are, I'm going to show you the quotes in a minute, features of things in the world.
+
+851
+01:06:09,839 --> 01:06:28,480
+The world is this perceptual, shared experience of lots of determinate objects, but always falling in and out of determination, covered up by this tendency to think that it's all determinate.
+
+852
+01:06:29,200 --> 01:06:30,880
+I see a hand up there.
+
+853
+01:06:31,200 --> 01:06:31,599
+Go ahead.
+
+854
+01:06:32,720 --> 01:06:33,439
+Oh, I'm getting there.
+
+855
+01:06:33,439 --> 01:06:34,079
+I'm getting there.
+
+856
+01:06:34,080 --> 01:06:37,679
+We're still in the world story, but almost ready to get there.
+
+857
+01:06:37,680 --> 01:06:38,399
+Let me see now.
+
+858
+01:06:38,399 --> 01:06:41,359
+I just want to say, where is it now?
+
+859
+01:06:41,359 --> 01:06:43,520
+Okay, we've explained it all.
+
+860
+01:06:43,519 --> 01:06:45,280
+Oh, yeah, there's a crucial line.
+
+861
+01:06:45,280 --> 01:06:49,280
+I teach saying something, or I thought I'd been saying it, about crypto mechanisms.
+
+862
+01:06:49,280 --> 01:06:58,400
+To do that, you have to jump to the phenomenal field chapter, a paragraph that begins this phenomenal field, which is about five pages in.
+
+863
+01:06:58,399 --> 01:07:06,560
+And it's way in a paragraph that begins with this phenomenal field, about two-thirds of the way.
+
+864
+01:07:06,560 --> 01:07:10,639
+Now, nothing is more difficult than to know precisely what we see.
+
+865
+01:07:10,640 --> 01:07:12,319
+I quoted that once before.
+
+866
+01:07:12,319 --> 01:07:20,319
+There was a natural intuition of a sort of cryptomechanism, which we have to break in order to reach phenomenal being.
+
+867
+01:07:20,319 --> 01:07:24,800
+Or again, a dialectic whereby perception hides itself from itself.
+
+868
+01:07:24,800 --> 01:07:40,319
+And although it is of the essence of consciousness to forget its own phenomena, although thus enabling things to be constituted, now constituted here means articulated or to take shape in our experience.
+
+869
+01:07:40,320 --> 01:07:47,559
+It doesn't mean mind imposing form on matter, but things coming into clarity.
+
+870
+01:07:46,079 --> 01:07:51,399
+It enables things to come into clarity, to become determinate.
+
+871
+01:07:51,560 --> 01:07:57,800
+This forgetfulness is not mere absence, it's the absence of something which consciousness could bring into its presence.
+
+872
+01:07:57,800 --> 01:08:05,399
+Now, that little clause says, well, we phenomenologists can break the crypto mechanism, otherwise he'd have nothing to write about.
+
+873
+01:08:06,039 --> 01:08:08,680
+He's just saying, yes, of course it's all covered up.
+
+874
+01:08:08,839 --> 01:08:13,959
+Yes, of course you think there's objects out there all already determinate causing you to have these experiences.
+
+875
+01:08:13,959 --> 01:08:35,079
+But if you read this book and you look at experiences like the trees and the mass and the trees and you look at brain-injured people and you look at children and all this will lead you to realize that there is this indeterminate perceptual world and you will be able to break out of this.
+
+876
+01:08:35,079 --> 01:08:46,680
+Although whenever you leave the study like Hume when he left his study to play billiards then he couldn't anymore even remember what he was, the weird things he was saying.
+
+877
+01:08:46,680 --> 01:08:51,399
+So I think Mira Lafontee when he eats dinner probably thinks the dinner is completely determined.
+
+878
+01:08:51,400 --> 01:08:55,239
+But if you're doing phenomenology you can resist that.
+
+879
+01:08:55,239 --> 01:08:57,319
+Okay now we get to idealism.
+
+880
+01:08:58,199 --> 01:09:03,879
+So we're going to criticize the Schaefer realism and see what I think I've already done that.
+
+881
+01:09:03,879 --> 01:09:06,599
+So I'm going to go back in a little bit.
+
+882
+01:09:06,600 --> 01:09:07,560
+Well not really.
+
+883
+01:09:07,560 --> 01:09:08,520
+I think I'm 54.
+
+884
+01:09:08,520 --> 01:09:09,800
+Have I met 54 yet?
+
+885
+01:09:09,959 --> 01:09:10,839
+I don't know anymore.
+
+886
+01:09:10,919 --> 01:09:12,999
+Criticizing this fault realism.
+
+887
+01:09:12,999 --> 01:09:15,720
+Okay, but there's a reason why I want to do it back there.
+
+888
+01:09:16,039 --> 01:09:18,199
+So let me go back to 54.
+
+889
+01:09:18,199 --> 01:09:22,199
+And now I don't know where I am for the other guys, unless I've cited it already.
+
+890
+01:09:22,680 --> 01:09:25,159
+It's after that long footnote.
+
+891
+01:09:25,800 --> 01:09:36,480
+However, he says, However, the psychologists, which always needs to be fault psychologists, who practice the description of the phenomenon are not normally aware of the philosophical implications of their method.
+
+892
+01:09:31,800 --> 01:09:37,520
+No, I haven't read that yet.
+
+893
+01:09:37,680 --> 01:09:40,159
+This is the transition to idealism.
+
+894
+01:09:40,159 --> 01:09:58,159
+They do not see that the return to perceptual experience, insofar as it is a consequential and radical reform, consequently that English, I would think in English it's consistent, insofar as it's a consistent and a radical reform, puts out of court all forms of realism.
+
+895
+01:09:58,159 --> 01:10:03,839
+That is to say, all philosophies which leave consciousness until it's given one of its results.
+
+896
+01:10:04,159 --> 01:10:05,119
+That's enough.
+
+897
+01:10:05,119 --> 01:10:20,479
+So the idea is once you understand how the perceptual world works, then you understand that there isn't any completely determinate external world, and you can't be a realist.
+
+898
+01:10:20,480 --> 01:10:22,400
+Let me find you more quotes, though.
+
+899
+01:10:22,400 --> 01:10:23,520
+I'm going to read you now.
+
+900
+01:10:23,520 --> 01:10:34,159
+No, he's turning Gestalt, he's turning against Gestalt's realism, and he's proposing a kind of idealism.
+
+901
+01:10:34,159 --> 01:10:37,760
+It's an interesting kind of idealism because it's like Kant.
+
+902
+01:10:37,760 --> 01:10:39,680
+How many of you had the Kant course?
+
+903
+01:10:39,999 --> 01:10:50,879
+Okay, when Kant says he's an empirical realist and a transcendental idealist, Merloponi is sort of like that, so we have to draw a little bit different distinctions and boundaries.
+
+904
+01:10:50,879 --> 01:10:58,079
+But Kant says he knows that the public world is public and shared and so forth.
+
+905
+01:10:58,720 --> 01:11:02,559
+It's just that it's only an appearance.
+
+906
+01:11:03,360 --> 01:11:05,279
+He calls it appearances.
+
+907
+01:11:05,279 --> 01:11:13,999
+He calls it phenomena because it hasn't got the kind of complete objective character that people think it has.
+
+908
+01:11:14,400 --> 01:11:18,279
+If it did, it would lead to terrible antinomies, which I won't go into.
+
+909
+01:11:18,279 --> 01:11:27,959
+So you have to believe that the world is never completed, never completely determinate, but nonetheless, in Kant language, objective.
+
+910
+01:11:27,959 --> 01:11:35,959
+In Merlot-Ponty language, we have to say public, shared, stable, and so forth, or relatively stable.
+
+911
+01:11:36,839 --> 01:11:42,680
+So, so, insofar, so what kind of idealist is he then?
+
+912
+01:11:42,680 --> 01:11:54,839
+Well, he's already a kind of idealist when he says that this is a world of appearances, a phenomenal world, a world that wouldn't have the character if it did have, except for us.
+
+913
+01:11:54,839 --> 01:12:09,800
+If we disappeared, there wouldn't be the indeterminacy changing to determinateness, and there wouldn't be the sort of objects out there with determinate properties which we retroactively read into our experience.
+
+914
+01:12:09,959 --> 01:12:11,879
+That's pretty idealistic.
+
+915
+01:12:11,879 --> 01:12:17,800
+But what's, and I don't object to that, I'm just telling you where I stand, that he's made a good case for that.
+
+916
+01:12:17,800 --> 01:12:23,800
+That this is a world, the perceptual world is a world of appearances, a phenomenal world.
+
+917
+01:12:24,119 --> 01:12:30,359
+And he set you up for this way back on page six when he said that we compose the world.
+
+918
+01:12:30,999 --> 01:12:33,800
+I don't see the quote anymore, but I quoted it way back.
+
+919
+01:12:34,600 --> 01:12:36,919
+He did say that anyway, we composed the world.
+
+920
+01:12:36,919 --> 01:12:41,959
+So now he's sort of pulled, you know, he's cashed in on that.
+
+921
+01:12:41,959 --> 01:12:43,479
+And that's okay.
+
+922
+01:12:43,480 --> 01:12:44,680
+But what's wrong?
+
+923
+01:12:44,680 --> 01:12:51,479
+Well, what's really wrong is he thinks that he's got something to say about physics and the universe.
+
+924
+01:12:51,480 --> 01:12:59,159
+It isn't obvious at all that just because the perceptual world depends on us, that electrons depend on us.
+
+925
+01:12:59,159 --> 01:13:06,879
+For all we know, and I believe, there are electrons out there, and they have a spin, and they have a charge, and they have a mass, and that's all very determinate.
+
+926
+01:13:01,400 --> 01:13:08,640
+Maybe electrons are a little fuzzy.
+
+927
+01:13:08,800 --> 01:13:11,279
+If so, take something else more determinate.
+
+928
+01:13:11,600 --> 01:13:18,159
+Galaxies are pretty determinate, very determinate, and have our causal history and so forth.
+
+929
+01:13:18,159 --> 01:13:34,800
+It's just wrong to think that because we could only get to the physical world by starting with the perceptual world and then doing lots of interesting things with it, that the physical world in any way depends on the perceptual world.
+
+930
+01:13:35,360 --> 01:13:37,599
+But that is what he thinks.
+
+931
+01:13:37,919 --> 01:13:47,680
+He says, for instance, on 11, I just collected the quotes because Jennifer and I were discussing this, and this is just bad, about 10 lines from the bottom.
+
+932
+01:13:47,680 --> 01:13:53,119
+The scientist too must learn to criticize the idea of an external world in itself.
+
+933
+01:13:53,440 --> 01:13:56,399
+I don't think the scientist needs to learn that at all.
+
+934
+01:13:56,400 --> 01:14:03,439
+I think Merle-Ponty needs to learn that the access that he's been describing, what I would call access practices.
+
+935
+01:14:03,440 --> 01:14:10,159
+I mean, there's lots, without the perceptual world, we'd never get access to the external world as it is in itself.
+
+936
+01:14:10,159 --> 01:14:12,959
+But that doesn't prove that there isn't any external world.
+
+937
+01:14:12,959 --> 01:14:15,439
+It just tells how we get access to it.
+
+938
+01:14:15,440 --> 01:14:17,600
+At least that's a possible view.
+
+939
+01:14:17,600 --> 01:14:20,079
+You don't have to believe this realistic.
+
+940
+01:14:20,079 --> 01:14:38,159
+You just have to see that it, at least I think, makes sense to see that Merlot-Ponty hasn't the right to go from his phenomenalism with respect, or let's call it idealism, okay, with respect to the perceptual world, to goes to idealism with respect to the universe.
+
+941
+01:14:38,159 --> 01:14:39,839
+It's just a non-secular.
+
+942
+01:14:39,839 --> 01:14:40,239
+Yeah.
+
+943
+01:14:41,839 --> 01:14:45,400
+Well, there's a sense there's a way of understanding that science.
+
+944
+01:14:45,400 --> 01:14:48,999
+The scientist who was going to criticize the idea of an external world in myself.
+
+945
+01:14:50,600 --> 01:14:51,640
+What's wrong with that?
+
+946
+01:14:51,640 --> 01:15:06,680
+Well, what makes all of this worky when you talk about it is that I hear a lot of Heideggerian influences in this, and I just want to call attention to the fact that there is an intermediate position between the Lookan's view and I guess the traditional realist view.
+
+947
+01:15:06,680 --> 01:15:08,520
+And I think that's the place for Heidegger.
+
+948
+01:15:08,600 --> 01:15:10,600
+Because I don't think you actually believe what you just said.
+
+949
+01:15:11,400 --> 01:15:12,600
+I believe exactly what it's said.
+
+950
+01:15:14,600 --> 01:15:22,999
+One of my greatest things that I want to say that external world isn't something that you would agree with.
+
+951
+01:15:22,999 --> 01:15:23,640
+Well, I'll say that.
+
+952
+01:15:23,800 --> 01:15:24,279
+I see what you do.
+
+953
+01:15:24,440 --> 01:15:28,919
+Do you believe that there is an external world and it's an intelligible question of those in their external world?
+
+954
+01:15:28,999 --> 01:15:30,039
+Do you think that's an intelligible question?
+
+955
+01:15:30,199 --> 01:15:32,279
+Well, let's not go into Kantianism.
+
+956
+01:15:33,320 --> 01:15:41,239
+I mean, into that, if external world means that there's an internal world that's corresponding to it, of course, I don't believe it.
+
+957
+01:15:41,239 --> 01:15:42,680
+No Heideggerian does.
+
+958
+01:15:42,680 --> 01:15:46,680
+But the way it's put here, it's sort of innocent, the external world.
+
+959
+01:15:47,640 --> 01:15:48,440
+You don't think it's innocent.
+
+960
+01:15:48,440 --> 01:15:49,959
+Well, I'll find you other ones then.
+
+961
+01:15:49,959 --> 01:15:53,239
+I mean, yeah, there's another view of that segment.
+
+962
+01:15:53,480 --> 01:15:54,520
+Okay, let's find that.
+
+963
+01:15:54,520 --> 01:15:55,879
+Okay, let's go to page 10.
+
+964
+01:15:55,879 --> 01:15:57,079
+10 and yours.
+
+965
+01:15:57,320 --> 01:15:58,279
+11 and mine.
+
+966
+01:15:58,279 --> 01:15:58,839
+Okay.
+
+967
+01:15:58,839 --> 01:16:12,999
+Which is just that there was talking about a particular Heidegger scientist, namely a scientist who is studying perception and that scientist who studied perception, not electrons, needs to take the lesson for combos and okay.
+
+968
+01:16:12,999 --> 01:16:14,439
+In that case, you're right.
+
+969
+01:16:14,440 --> 01:16:15,959
+It could be read that way.
+
+970
+01:16:16,279 --> 01:16:17,560
+Let's read it that way.
+
+971
+01:16:17,560 --> 01:16:20,199
+But then he's still an idealist without science.
+
+972
+01:16:20,199 --> 01:16:21,239
+We'll find another quote.
+
+973
+01:16:21,239 --> 01:16:22,519
+That's why I grant you.
+
+974
+01:16:22,520 --> 01:16:23,800
+But it applies to electrons, too.
+
+975
+01:16:23,800 --> 01:16:25,159
+But I mean, but that is the important point.
+
+976
+01:16:25,320 --> 01:16:41,279
+Yeah, it's ambiguous the way, but there, and he certainly correctly means if you don't believe he wants you not to think that you could do a science of the mind using causes and reasons.
+
+977
+01:16:41,279 --> 01:16:47,439
+He's not a cognitivist and he's not a behaviorist, and if those are the scientists, they've got it wrong.
+
+978
+01:16:47,760 --> 01:16:51,119
+They have to bring indeterminacy into it and so forth.
+
+979
+01:16:51,119 --> 01:16:59,999
+But he is getting out of this a conclusion that the universe somehow depends on us, and I'll find you wherever he does it.
+
+980
+01:17:00,959 --> 01:17:08,879
+Well, at the bottom of 28, he talks about interesting way to put it, which I think is very revealing.
+
+981
+01:17:08,879 --> 01:17:17,199
+He says we have to discover the natural world too and its mode of existence, which is not to be confused with the scientific object.
+
+982
+01:17:17,199 --> 01:17:27,680
+Now, I take that to be a way of saying we have to discover the shared perceptual world with its trees and animals and everything in it.
+
+983
+01:17:28,320 --> 01:17:29,599
+And we want that.
+
+984
+01:17:29,839 --> 01:17:31,199
+We're not going to deny it.
+
+985
+01:17:31,199 --> 01:17:32,560
+It's a phenomenal world.
+
+986
+01:17:32,560 --> 01:17:35,600
+It's a world of appearances, but it's a natural world, too.
+
+987
+01:17:35,600 --> 01:17:37,919
+Nature shows up in the world of appearances.
+
+988
+01:17:37,919 --> 01:17:39,599
+Kant agrees with that.
+
+989
+01:17:39,999 --> 01:17:42,800
+But we want to keep that.
+
+990
+01:17:43,119 --> 01:17:49,199
+But we don't want to confuse it with a scientific object, because if we did, we'd be realists about science.
+
+991
+01:17:49,199 --> 01:17:51,039
+And we don't want to keep that.
+
+992
+01:17:51,039 --> 01:17:52,560
+That's how I read that.
+
+993
+01:17:52,560 --> 01:17:53,199
+Let's go on.
+
+994
+01:17:53,199 --> 01:17:58,720
+The phenomena of the backgrounds continuing under the figure and seeing under the figure what it's exactly.
+
+995
+01:17:58,879 --> 01:18:00,399
+No, that's not going to help him.
+
+996
+01:18:00,400 --> 01:18:03,039
+Let's just stop with that.
+
+997
+01:18:02,999 --> 01:18:05,439
+Uh yes, time is up.
+
+998
+01:18:05,440 --> 01:18:07,839
+Anyway, but that's exactly how much I wanted to say.
+
+999
+01:18:07,839 --> 01:18:14,559
+And I don't want it, if I could help it, to go back into the realism idealism issue, but it had to be brought up in once.
+
+1000
+01:18:14,560 --> 01:18:15,119
+Okay.
+
+1001
+01:18:16,239 --> 01:18:20,039
+Somebody come up and tell me how if they'll give me the last two things.

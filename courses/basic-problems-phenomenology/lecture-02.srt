@@ -1,0 +1,4808 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:06,561
+I'm ready to plunge back into the fascinating issues around the guilt.
+
+2
+00:00:07,601 --> 00:00:17,920
+I've got the syllabus in front of me just to remind myself and you that today we're supposed to be doing guilt and resoluteness, and we will.
+
+3
+00:00:18,241 --> 00:00:41,520
+And next time we're going to be doing death, and that's such a complicated, long, messy, confused chapter that I will put on the website for the course, a long, and I hope not confused, but I'm not sure, paper I wrote about it as an introduction to a book on Heidegger on death.
+
+4
+00:00:41,841 --> 00:01:13,721
+The important thing isn't, I mean, it begins explaining where it sits in the book, but the important thing is that this book written by a former PA, former PhD in this department, and PA in the Heidegger course, he has this fascinating idea of looking at what Heidegger means by death all through his whole career of writing and reading what he said in the earlier discussion of death, what he ended up saying about death.
+
+5
+00:01:13,721 --> 00:01:20,281
+That seems like an unsort of unfair and unreliable or something hermeneutic approach.
+
+6
+00:01:20,520 --> 00:01:35,881
+But I think Heidegger would have loved it because Heidegger was constantly reading back and reinterpreting being in time as saying what he was later saying, and which is pretty clearly not what he's saying in being in time, but it was.
+
+7
+00:01:35,880 --> 00:01:41,240
+I think he would say what he's trying to say is unthought, and he gets it clearer as he goes along.
+
+8
+00:01:41,240 --> 00:01:43,481
+So that's for next time.
+
+9
+00:01:43,481 --> 00:01:47,161
+I'll put it on the web tonight or tomorrow.
+
+10
+00:01:47,161 --> 00:01:59,080
+And so for this time, we've got Scott Rooster's paper, and we've got the chapter in Being in Time on guilt and resoluteness.
+
+11
+00:01:59,080 --> 00:02:11,961
+And I think I'll talk a while, sort of laying out what I think are the important issues and the important pages, and then we should, we'll have a discussion.
+
+12
+00:02:11,961 --> 00:02:14,841
+I'm just not sure whether we should have a discussion any time.
+
+13
+00:02:14,841 --> 00:02:16,680
+I think Tyler wants to say something.
+
+14
+00:02:17,000 --> 00:02:24,921
+It's really for this time, because, I mean, it's about the punchline of the paper.
+
+15
+00:02:24,921 --> 00:02:27,161
+And then let me explain why the paper's there.
+
+16
+00:02:27,161 --> 00:02:32,800
+I think it's a terrific paper, the punchline of which is you can't get behind your throwness.
+
+17
+00:02:33,120 --> 00:02:38,240
+And that's exactly what primordial ontological guilt is.
+
+18
+00:02:38,240 --> 00:02:41,520
+It's the fact that Dasein can't get behind its throwness.
+
+19
+00:02:41,520 --> 00:02:46,721
+But it's one, it's not obvious what in the world fact that is, what it means to say that.
+
+20
+00:02:46,721 --> 00:02:54,240
+And secondly, it's not at all obvious what the argument is supposed to be that shows that you can't get behind your throwness.
+
+21
+00:02:54,240 --> 00:02:56,881
+And why, Tyler, does it matter?
+
+22
+00:02:58,560 --> 00:02:59,921
+Yes, my paper, too.
+
+23
+00:02:59,921 --> 00:03:01,520
+Sorry, I'm glad you said that.
+
+24
+00:03:01,521 --> 00:03:02,481
+There's an ambiguity.
+
+25
+00:03:02,880 --> 00:03:04,880
+Believe it and I have written two papers.
+
+26
+00:03:06,401 --> 00:03:10,800
+One of them was for today or last time.
+
+27
+00:03:11,120 --> 00:03:13,041
+It's sort of in between.
+
+28
+00:03:13,041 --> 00:03:16,881
+It's the paper on an everyday intelligibility issue.
+
+29
+00:03:16,880 --> 00:03:23,520
+But what I wanted you to see in it, and what I didn't want to spend a lot of time in class sort of just going over, was the skill story.
+
+30
+00:03:23,521 --> 00:03:33,440
+But the idea of what expertise and mastery is, the phenomenon of that, is going to play a big role in our, well, a middle-sized program, in what I want to say.
+
+31
+00:03:33,440 --> 00:03:46,080
+So there was last time my paper on, and also that paper, I didn't look at it with this question in mind.
+
+32
+00:03:46,080 --> 00:03:48,800
+That already does guilt before death, doesn't it?
+
+33
+00:03:49,521 --> 00:03:50,481
+I'm sure it does.
+
+34
+00:03:50,481 --> 00:03:52,320
+I mean, that's part of one of the reasons I wanted you.
+
+35
+00:03:52,320 --> 00:03:59,680
+I already reordered the, remember last time, a real quick review from last time.
+
+36
+00:03:59,841 --> 00:04:05,120
+Remember, I decided that you've got to do birth before death.
+
+37
+00:04:05,120 --> 00:04:07,521
+You've got to do the past before the future.
+
+38
+00:04:07,521 --> 00:04:14,841
+You've got to do the facticity before the interpretation or the projection on the basis of that facticity.
+
+39
+00:04:13,601 --> 00:04:18,360
+For all those reasons, you've got to do guilt before death.
+
+40
+00:04:18,440 --> 00:04:21,721
+And Heidegger just got it mixed up, don't ask me why.
+
+41
+00:04:21,721 --> 00:04:32,520
+And when you do it that way, you will discover, and we get our first sort of reward for doing it that way, that we can distinguish anticipation.
+
+42
+00:04:32,521 --> 00:04:33,800
+Sorry, let's talk the other way.
+
+43
+00:04:33,880 --> 00:04:38,440
+We can distinguish resoluteness from anticipatory resoluteness.
+
+44
+00:04:38,440 --> 00:04:58,841
+And you can see how resoluteness, which is always tied with guilt, and only resoluteness, not anticipatory resoluteness, is a less radical understanding of the fundamentally ungrounded character of Dasein than anticipatory resoluteness, which goes with death.
+
+45
+00:04:59,161 --> 00:05:00,680
+That is in my paper, isn't it?
+
+46
+00:05:00,680 --> 00:05:01,161
+I hope so.
+
+47
+00:05:02,281 --> 00:05:02,680
+Okay.
+
+48
+00:05:02,680 --> 00:05:04,041
+So that's why it's in there.
+
+49
+00:05:04,041 --> 00:05:08,841
+It's also an argument for the phenomena of expertise, which I think is important.
+
+50
+00:05:08,841 --> 00:05:15,961
+And maybe it's even more important, it's an argument for what I just said, why you want to do it that way.
+
+51
+00:05:16,601 --> 00:05:23,320
+Remember, it's another way to put it is why you want to go do Irose before you do Augustblich.
+
+52
+00:05:24,601 --> 00:05:27,161
+Or there was another way I was going to put it.
+
+53
+00:05:28,440 --> 00:05:35,641
+Well, I say to myself, you've got to do the Aristotelian phonemist before you can do Jesus and the God-man.
+
+54
+00:05:35,880 --> 00:05:40,201
+They're all versions of the same one thing presupposed.
+
+55
+00:05:40,680 --> 00:05:42,680
+What presupposes what.
+
+56
+00:05:42,680 --> 00:05:43,880
+So anyway, thanks, Tyler.
+
+57
+00:05:43,881 --> 00:05:46,841
+Yes, that was why that paper was in there.
+
+58
+00:05:46,841 --> 00:05:54,201
+And I see now that I put the Ruth paper there in the first introduction.
+
+59
+00:05:54,200 --> 00:05:58,680
+That's what I thought I was going to get further in the discussion when we got.
+
+60
+00:05:58,880 --> 00:06:07,520
+But it really belongs with the Guild paper, but I wanted you to read it before we got to the Guild discussion, which in the end you have, presumably.
+
+61
+00:06:08,161 --> 00:06:17,440
+And now the paper, what I'm going to give you to read before the next meeting, is my version of the death chapter.
+
+62
+00:06:17,440 --> 00:06:22,961
+And then we'll be ready for anticipatory resolution in the meeting after that.
+
+63
+00:06:23,281 --> 00:06:27,921
+Any questions about all that or sort of take the way of it?
+
+64
+00:06:28,240 --> 00:06:33,360
+Then we can go into what I think we could be going into.
+
+65
+00:06:33,360 --> 00:06:39,921
+And I think it maybe tape about half an hour to say all the things I want to say, and then we can discuss them.
+
+66
+00:06:39,921 --> 00:06:54,161
+But I was just, when Tyler raised his hand, I was just asking myself: do I want to sort of stop and discuss these issues as they come along, or read this until for half an hour or something, and then discuss?
+
+67
+00:06:54,161 --> 00:06:55,841
+I'm really puzzled.
+
+68
+00:06:55,841 --> 00:06:59,360
+I'm puzzled because this is sort of a class and sort of a seminar.
+
+69
+00:07:00,401 --> 00:07:09,760
+It's got the number of hours and units of a class, but I originally had it as a seminar, and I think of it as something we're all trying to figure this out together.
+
+70
+00:07:09,761 --> 00:07:21,761
+It was sort of true that I think I already have figured out the first three weeks, maybe even the first four weeks, but from there on, I'm the blind leading the blind into temporality.
+
+71
+00:07:21,761 --> 00:07:26,001
+So I think I'll start reading it.
+
+72
+00:07:26,001 --> 00:07:40,640
+But if you think you really got something important to say, such that if we don't talk about that right away, we're going to be off the track, or you aren't going to understand what's going on, or I'm going to be misleading everybody, then interrupt.
+
+73
+00:07:40,641 --> 00:07:45,641
+I mean, let's have some middle ground, sort of be a kind of chronomus of interruption.
+
+74
+00:07:46,440 --> 00:07:48,681
+When it's appropriate, do it.
+
+75
+00:07:48,680 --> 00:07:55,241
+Okay, now, as usual, I wish I had a collector, and there just wasn't one, is there?
+
+76
+00:07:55,241 --> 00:07:55,881
+Okay.
+
+77
+00:07:58,041 --> 00:08:01,161
+I think I can get along with putting things on my GPS.
+
+78
+00:08:01,480 --> 00:08:14,601
+I mean, it's good to go maybe after class and try to still want to keep it in here, but it's not a good idea to go marching into some professor's collector and take the chronomus out, take the lecture out from under his nose.
+
+79
+00:08:15,881 --> 00:08:30,441
+Okay, so I want to talk about the phenomenon and get in the air sort of for what view of action Heidegger is presenting in this chapter.
+
+80
+00:08:32,601 --> 00:08:35,320
+Guilt is always sort of the basis of it.
+
+81
+00:08:35,320 --> 00:08:45,560
+That is something about the fundamental ungroundedness of Dasein, something about the fact that it can't get behind its throne is where we're heading.
+
+82
+00:08:45,560 --> 00:08:58,681
+But to begin with, I think you need an understanding of how the resolute Dasein acts, the description of the highest, almost highest level of action.
+
+83
+00:08:58,680 --> 00:09:08,281
+And as far as it being a story about acting, it is the highest in the sense that you can't get any more mastery than this.
+
+84
+00:09:08,281 --> 00:09:09,560
+You may get something else.
+
+85
+00:09:09,800 --> 00:09:10,921
+I don't want to be secretive.
+
+86
+00:09:10,921 --> 00:09:18,761
+I mean, this gets you up to the highest level of skill, namely mastery, as I understand it.
+
+87
+00:09:18,761 --> 00:09:26,521
+Remember that resolute action responds to the unique situation, not to the general situation.
+
+88
+00:09:26,521 --> 00:09:28,841
+That's what I'm trying to explain.
+
+89
+00:09:29,680 --> 00:09:35,840
+But there's something higher than mastery, even, and that is being a world disclosure.
+
+90
+00:09:37,200 --> 00:09:40,080
+That's not, so to speak, more skillful than mastery.
+
+91
+00:09:40,080 --> 00:09:44,561
+It's just something more radical than mastery.
+
+92
+00:09:44,560 --> 00:09:49,761
+And that's what the death chapter and anticipatory resoluteness is about.
+
+93
+00:09:50,080 --> 00:10:04,800
+So now I'm just trying to explain why I'm going to talk a little while about my view of mastery, Bourbieu's view of the cultural virtuoso, the Aristotelian eponymous, and Heidegger's resolute design.
+
+94
+00:10:05,121 --> 00:10:22,241
+And I'm, I'm saying things new to me this time because I'm constantly learning more about the Bourdieu and Rarnacus, and seeing that there are all kinds of distinctions I haven't been making yet.
+
+95
+00:10:22,560 --> 00:10:28,241
+So the first thing is, how do you get to be a master?
+
+96
+00:10:28,241 --> 00:10:38,641
+Well, that ties up with the anxiety of guilt and the nullity that it reveals.
+
+97
+00:10:38,960 --> 00:10:44,001
+I have this tendency to want to say all these things at once, but I'll try not to.
+
+98
+00:10:44,800 --> 00:10:49,840
+The anxiety, there are three kinds of nullity.
+
+99
+00:10:49,840 --> 00:10:56,000
+Now, these are things I want to sort of say to get the architectonic in mind, because it's not very clear in the version of.
+
+100
+00:10:56,001 --> 00:10:58,081
+But there are three kinds of nullity.
+
+101
+00:10:58,080 --> 00:11:05,041
+There's the nullity of the ungroundedness, which is the one that guilt is going to tell us about.
+
+102
+00:11:05,041 --> 00:11:17,161
+There's the nullity of choice, which is what Garre writes the whole almost, I get the whole being in nothingness about, and Heidegger thinks it's so uninteresting that it's reading on one page of Division II.
+
+103
+00:11:13,680 --> 00:11:24,121
+And then there's the nullity of what is it?
+
+104
+00:11:24,440 --> 00:11:29,401
+The possibility of having no more possibilities.
+
+105
+00:11:29,401 --> 00:11:32,440
+That's the death nullity.
+
+106
+00:11:32,440 --> 00:11:39,081
+And each of those has an anxiety, an anxiety of guilt, an anxiety of choice, an anxiety that goes with death.
+
+107
+00:11:39,080 --> 00:11:50,361
+And we're starting by looking at the way the anxiety of guilt plays some kind of role in becoming autonomous.
+
+108
+00:11:50,361 --> 00:11:55,560
+And I don't think Heidegger ever explains that very well.
+
+109
+00:11:56,440 --> 00:12:07,881
+I want to take it to mean that the anxiety of guilt is the anxiety that there are no grounding principles on which you can act.
+
+110
+00:12:07,881 --> 00:12:26,361
+Neither the principles of the one, that is the general rules about how people do things, or rational principles, or cognitivist principles that are the structure of your acting, even if you don't know it.
+
+111
+00:12:26,680 --> 00:12:27,961
+There aren't any such.
+
+112
+00:12:27,960 --> 00:12:31,401
+And that's what's revealed in this anxiety of guilt.
+
+113
+00:12:32,041 --> 00:12:40,361
+Why is that important for becoming the kind of mastery, having a mastery of resoluteness?
+
+114
+00:12:40,361 --> 00:12:54,521
+Well, that's tied up in the whole story of how to skill acquisition, where you start out with rules and principles as a novice, and you get even then you get maxims, remember, as an advanced beginner.
+
+115
+00:12:54,521 --> 00:13:16,001
+But when you get up to, but when you get finally up to expert, you don't have any rules and principles, you just straightway do the appropriate thing at the appropriate time in the appropriate way, whether it's driving or chess playing or doing actions, or you're doing good actions in your culture.
+
+116
+00:13:17,361 --> 00:13:33,200
+The idea in here is that the anxiety you have to, if you hang on to the principles, if every time you make a mistake, you try to find a rule that will tell you not to make that mistake again, you'll be stuck as competent.
+
+117
+00:13:33,200 --> 00:14:05,521
+But if you're living in a kind of experience of that all of this way that one does things and rules for doing things and standards for doing things don't have any grip on you, and that's what happens in anxiety, you see that they're all ungrounded and have no force in determining your actions, or could have no force, well, have no force when you're an expert.
+
+118
+00:14:05,521 --> 00:14:07,201
+And how do you get to be an expert?
+
+119
+00:14:07,361 --> 00:14:09,360
+You just see that they have no force.
+
+120
+00:14:09,361 --> 00:14:11,841
+There's no place for a should-have-no force in them.
+
+121
+00:14:11,840 --> 00:14:22,080
+So when you're in anxiety, you see that the principles don't have any power over you, and you can't use them to ground what you're doing.
+
+122
+00:14:22,080 --> 00:14:32,521
+And you have to see that if you're going to acquire mastery, if you're going to stop trying to explain what you're doing, I mean, I could give you an example.
+
+123
+00:14:33,401 --> 00:14:37,921
+That a lot of this comes from my brother, as you know, but I give him credit as usual.
+
+124
+00:14:37,921 --> 00:14:49,480
+So George has the example, and this is just any old example that they'll do, that how he gets stuck in incompetence and how not to get stuck in competence.
+
+125
+00:14:49,720 --> 00:14:52,840
+I talk about it in the paper, but not this example.
+
+126
+00:14:53,161 --> 00:14:54,761
+Maybe I do, I can't remember.
+
+127
+00:14:54,761 --> 00:15:12,041
+But if I mean, the example was if you're a driver and if you're coming out of a parking place, you get sideswiped by a car, and then you can either just feel bad about it and remember vividly what happened, or you can try to make a new rule for yourself.
+
+128
+00:15:12,041 --> 00:15:16,281
+Never pull out of a parking place without looking back.
+
+129
+00:15:16,281 --> 00:15:20,281
+And that will keep you from getting sideswiped as you pull out of parking places.
+
+130
+00:15:20,281 --> 00:15:23,161
+It's a very rigid, general solution.
+
+131
+00:15:23,401 --> 00:15:31,241
+At midnight on an empty street, it makes no sense to carefully look back before you pull out.
+
+132
+00:15:31,641 --> 00:15:33,720
+But that may not be a perfect example.
+
+133
+00:15:33,720 --> 00:15:34,761
+Well, it will do.
+
+134
+00:15:34,761 --> 00:15:45,481
+That shows that you can give yourself a new rule and you will indeed be able to avoid some bad thing that you did, but you will never get to the kind of flexibility.
+
+135
+00:15:45,480 --> 00:15:49,720
+Again, what do you and I do, presumably, who are all expert drivers?
+
+136
+00:15:49,720 --> 00:15:52,521
+Well, we look back when it's appropriate to look back.
+
+137
+00:15:52,520 --> 00:15:59,080
+And we've been looking back all the time in the rearview mirror, so we don't have to look back just before we pull out of the parking place.
+
+138
+00:15:59,081 --> 00:16:03,480
+And if it's late at night, then there are no cars, you can't be sideswiped, and so forth.
+
+139
+00:16:03,480 --> 00:16:10,281
+All of that leads you to, again, just straightway do the appropriate thing at the appropriate time, in the appropriate way.
+
+140
+00:16:10,280 --> 00:16:15,000
+In this case, sometimes that means looking in the rearview mirror, and sometimes it doesn't.
+
+141
+00:16:15,000 --> 00:16:30,881
+And the role of anxiety is in here again, is you would have given up belief that there was any rule that was going to tell you correctly in all situations what to do driving.
+
+142
+00:16:31,200 --> 00:16:42,000
+And that's and that's the way I think that resolution, that anxiety, one way anyway, that anxiety plays a role in becoming a master.
+
+143
+00:16:42,000 --> 00:16:52,081
+Namely, you don't go around believing in, making principles for how you behave, discovering when you make mistakes, try to figure out what you did.
+
+144
+00:16:52,720 --> 00:17:16,080
+On this story about skill acquisition, you remain open, you worry about what you did, you think of, you feel bad about it, or if it's something good, which equal could happen in some other example, you feel good about it, and if you do it enough and feel bad about it enough and good about it enough, your brain just gets wired in such a way that you do the appropriate thing.
+
+145
+00:17:17,121 --> 00:17:22,881
+That's my skill Victor, and I think that's Heidegger's skill Victor will come out as we go.
+
+146
+00:17:22,881 --> 00:17:25,760
+Now let me read a few pages.
+
+147
+00:17:26,081 --> 00:17:27,601
+Is everything okay with that?
+
+148
+00:17:27,601 --> 00:17:30,401
+You're looking a little, I don't know, puzzled.
+
+149
+00:17:30,401 --> 00:17:31,921
+So let's read something.
+
+150
+00:17:32,240 --> 00:17:37,040
+I say to read, well, I'm going to be on 342 for a while.
+
+151
+00:17:37,040 --> 00:17:42,881
+Now, anxiety undermines the one and its standards and principles.
+
+152
+00:17:42,881 --> 00:17:51,921
+So 342, the fact of the anxiety of conscience, remember, of course, conscience isn't going to mean anything like conscience.
+
+153
+00:17:51,921 --> 00:17:57,121
+So we have the whole, which provides you the whole formal indication story in the background.
+
+154
+00:17:57,121 --> 00:18:13,841
+Anything that anybody normally says about conscience is going to turn out to be a cover-up and somehow an 180-degree wrong cover-up, which exactly denies the phenomenon so that you're not upset by it.
+
+155
+00:18:14,841 --> 00:18:28,280
+So, conscience, which my one might think is gives us rules, tells us what God wants us to do, or tells us what follows from the categorical imperative or whatever.
+
+156
+00:18:28,280 --> 00:18:42,921
+All of that kind of conscience is a cover-up for what's really happening with conscience is the experience that there are no standards and rules, no grounded standards and rules that you have to follow.
+
+157
+00:18:42,921 --> 00:18:44,361
+You can follow them sometimes.
+
+158
+00:18:44,361 --> 00:18:55,801
+So, the fact that anxiety of conscience gives us phenomenal confirmation that in understanding the call, Dasein is brought face to face with its own uncanniness.
+
+159
+00:18:55,881 --> 00:19:05,401
+I always like to translate that unsettledness, but the Unheimlich type in German, it has to do with the ungroundedness.
+
+160
+00:19:05,720 --> 00:19:09,800
+Wanting to have a conscience becomes the readiness for anxiety.
+
+161
+00:19:09,801 --> 00:19:16,680
+That's just, to use a refinement term, on 143 at the top.
+
+162
+00:19:17,000 --> 00:19:20,200
+Only in keeping silent is the conscience call.
+
+163
+00:19:20,200 --> 00:19:32,280
+That is to say, the call comes from the soundlessness of the uncanniness and the Dasein, which is summons back, called back into the stillness of itself and called back to something that is to become still.
+
+164
+00:19:32,280 --> 00:19:34,680
+Only in reticence, that's the silence.
+
+165
+00:19:34,680 --> 00:19:39,401
+Therefore, is the silent discourse understood appropriately.
+
+166
+00:19:39,401 --> 00:19:46,200
+In wanting to have a conscience, it breaks the words away from the common sense idle talk of the they.
+
+167
+00:19:46,200 --> 00:20:10,720
+So anxiety, wanting to have a conscience that is wanting to be open to and experiencing anxiety, which is wanting to be open to and experiencing the groundlessness of Addis vote masterful, is what is what resoluteness amounts to.
+
+168
+00:20:10,720 --> 00:20:12,561
+Now, so let me read one more thing.
+
+169
+00:20:12,641 --> 00:20:16,320
+What he defines resoluteness, was this the first or the second place?
+
+170
+00:20:16,321 --> 00:20:18,320
+One of the sounds, I didn't look back.
+
+171
+00:20:18,321 --> 00:20:30,240
+One of the evidences of this in unfinished manuscript is, I remember he defines resoluteness twice and puts it in italics like a good definer could the first time he introduces it.
+
+172
+00:20:30,240 --> 00:20:36,881
+I don't remember if this is the first or second, but here's one: the middle of 343.
+
+173
+00:20:37,200 --> 00:20:50,960
+The disclosures of Dasein and wanting to have a conscience responsible by anxiety as state of mind, by understanding his projection of oneself upon one's almost being guilty, and by discourse as reticence.
+
+174
+00:20:50,960 --> 00:21:06,240
+This distinctive and authentic disclosedness, which was attested in Dasein itself by his conscience, this reticent self-projection upon one's almost being guilty, in which one is ready for anxiety, we call resoluteness.
+
+175
+00:21:06,240 --> 00:21:09,841
+And that's got to do, of course, with being authentic.
+
+176
+00:21:09,841 --> 00:21:14,721
+Authentic Dasein lives in resoluteness, and that's in the next paragraph.
+
+177
+00:21:14,720 --> 00:21:21,280
+In resoluteness, we've now arrived at that truth of Dasein, which is most primordial, because it is authentic.
+
+178
+00:21:22,240 --> 00:21:40,641
+Now, with that general story about how anxiety comes in to make possible mastery, which is not something Aristotle is interested in, I think, although I think it's what he would say if you pressed him.
+
+179
+00:21:40,641 --> 00:21:43,080
+Did I say Aristotle, or did I say Heidegger?
+
+180
+00:21:44,121 --> 00:21:45,081
+I mean Heidegger.
+
+181
+00:21:43,280 --> 00:21:49,000
+I mean, Aristotle too, but I was meaning Heidegger.
+
+182
+00:21:49,480 --> 00:22:11,800
+But now I want to say once you're inside the mastery business, because you've done it the way I was just describing it, holding on to anxiety and listening to the silence of conscience, you can see that there are several different times, none of them getting it when I was all right until we get to Heidegger.
+
+183
+00:22:11,801 --> 00:22:20,121
+So I used to think that Heidegger got it all right when he talked about the Aristotelian phronomus.
+
+184
+00:22:20,760 --> 00:22:26,600
+But interestingly enough, he doesn't talk about the phronomus at the point where he gets it right.
+
+185
+00:22:26,841 --> 00:22:33,800
+Anyway, but he does talk a lot about pharnacus in his Sophist lectures leading up to being in time.
+
+186
+00:22:33,801 --> 00:22:38,200
+And there's something right about it.
+
+187
+00:22:38,760 --> 00:22:46,440
+The frontimus goes, it is even somehow better than an expert.
+
+188
+00:22:46,440 --> 00:22:53,401
+An expert already, it seems, responds to the unique situation.
+
+189
+00:22:54,601 --> 00:22:59,240
+I want to say everything at once, and then I want to, so I don't want to jump ahead, though.
+
+190
+00:22:59,240 --> 00:23:01,800
+I should probably wait till we get there.
+
+191
+00:23:01,801 --> 00:23:10,360
+On 346, that's where Aristotle's pharnacus comes near the surface of the thing, though.
+
+192
+00:23:10,361 --> 00:23:24,921
+Heidegger, I think, rightly doesn't quite be used to Aristotle, but he talks about on 346 responding to the unique situation underlined in italics at the end of the top, just because it's it the situation.
+
+193
+00:23:25,240 --> 00:23:35,040
+It's the concrete situation, and you can point it's distinguished from the general situation at the bottom of 346.
+
+194
+00:23:35,040 --> 00:23:43,041
+The one, however, the situation is something that has been closed off, the one knows only the general situation, and so forth.
+
+195
+00:23:44,641 --> 00:23:57,280
+So, well, Heidegger thinks that the phonemist responds to the unique situation, all right, but there's two things that make it different than Aristotle, which isn't in my paper because I hadn't understood it yet.
+
+196
+00:23:58,240 --> 00:24:05,520
+One is, and this I sort of I think must have dimly understood already, I'm not sure, but it doesn't matter.
+
+197
+00:24:06,240 --> 00:24:29,760
+One way the pharnist is different than very importantly different than the resolute design is that the phronymist in Heidegger does the does what he does when he's behaving like an oh now let me back up.
+
+198
+00:24:29,760 --> 00:24:32,401
+Why the phronomist is more than an expert?
+
+199
+00:24:32,401 --> 00:24:35,361
+An expert already responds to the unique situation.
+
+200
+00:24:36,081 --> 00:24:48,560
+Whether you're playing chess or driving or just finding their way around to the world in flow, going out to go out when they go out the door, then they're already an expert.
+
+201
+00:24:49,361 --> 00:25:10,241
+But when they're responding to the unique situation, fine, but Aristotle adds something that Heidegger doesn't have, doesn't want, I don't think, namely, that the phronymist does what the pharmaceuticals does for the sake of the good in either, in general, I think, for the sake of the good in the culture.
+
+202
+00:25:10,240 --> 00:25:15,641
+You can all who know more about Aristotle, correct me on this if I've got it wrong.
+
+203
+00:25:15,960 --> 00:25:23,960
+And also, and this is something Aleister McIntyre talked a lot about, that the phronomist gets to be a master at some practice.
+
+204
+00:25:23,960 --> 00:25:29,480
+And the phronomist does their practice for the sake of the internal goods of the practice.
+
+205
+00:25:29,480 --> 00:25:46,360
+So doctors are phronomi, when they use their medicine to cure people, that they could be very, very good at understanding poison, for instance, and use their medical knowledge to poison people and do it in a unique situation in just the appropriate time and just the appropriate way.
+
+206
+00:25:46,361 --> 00:25:50,440
+That would not be furnaces, I believe.
+
+207
+00:25:50,760 --> 00:26:13,240
+And I think Heidegger doesn't want, and it wouldn't be an experience of anxiety of this right sort then, because there would be something like a grounded or at least seemingly grounded understanding of the good of the practice and the good of the culture in the background of the moods of the phronomists.
+
+208
+00:26:13,240 --> 00:26:18,440
+And I think Heidegger doesn't mention Aristotle and Furnaces here because he doesn't want that.
+
+209
+00:26:18,440 --> 00:26:28,760
+He wants the authentically resolute design just does the appropriate thing.
+
+210
+00:26:28,760 --> 00:26:34,121
+But the appropriate thing, I don't think it's the same as the good thing for Heidegger.
+
+211
+00:26:35,720 --> 00:26:37,401
+Now, for Aristotle, it is.
+
+212
+00:26:37,401 --> 00:26:46,601
+And Aristotle's got a distinction, therefore, that Heidegger doesn't have between cleverness and Pharnaces.
+
+213
+00:26:46,601 --> 00:26:58,360
+Cleverness is what happens when you have expertise and do something that really works, and everybody recognizes who something that really works.
+
+214
+00:26:58,720 --> 00:27:09,440
+Somewhere I have written down some, I don't know where I put it, but for those of you who know the Athenian context, oh, here it is.
+
+215
+00:27:10,881 --> 00:27:17,200
+Alcibiades was not a pharmaceutical, I take it, but he was extremely good at everything.
+
+216
+00:27:17,200 --> 00:27:24,720
+And he was a terrific traitor, such a good traitor that he could go off from Athens to Sparta and give them all the secret information.
+
+217
+00:27:24,720 --> 00:27:33,840
+And then come back to Athens, and everybody was so glad he was back and embraced him because he was so charming and so beautiful and so smart and so clever.
+
+218
+00:27:33,841 --> 00:27:39,840
+I think, I don't know what the Greek is, but Aristotle has a category for people who are clever.
+
+219
+00:27:39,841 --> 00:27:41,921
+And they do the good, I think.
+
+220
+00:27:41,921 --> 00:27:47,200
+I mean, they do the skillfully appropriate thing, that is the thing that works.
+
+221
+00:27:47,200 --> 00:27:51,121
+And they do it for their own good, not for the sake of the good.
+
+222
+00:27:51,921 --> 00:27:55,760
+And now I realize something that I have got wrong.
+
+223
+00:27:55,760 --> 00:28:00,320
+Partly, I'm teaching myself something new and trying to keep you from making a mistake.
+
+224
+00:28:00,321 --> 00:28:05,361
+I think Bourdieu's alto vertical, which I talked about last time.
+
+225
+00:28:05,760 --> 00:28:08,720
+I don't think I read last time the passage.
+
+226
+00:28:09,361 --> 00:28:15,520
+I'm not sure I could just turn to it, but I marked it, so I thought I could do it.
+
+227
+00:28:16,641 --> 00:28:19,360
+So there's got all these different purple markings.
+
+228
+00:28:20,480 --> 00:28:22,001
+Not going to be in there.
+
+229
+00:28:22,321 --> 00:28:23,601
+Anybody know where it is?
+
+230
+00:28:23,601 --> 00:28:26,881
+There's a place where I just decided to quote.
+
+231
+00:28:26,881 --> 00:28:34,080
+I think in Spillmodel, by the way, I'm passing in.
+
+232
+00:28:34,081 --> 00:28:43,440
+By the way, if we all print this in PDF, this paper that I sent of mine, for instance, or Rouse's two, do we all have the same page numbers?
+
+233
+00:28:44,121 --> 00:29:07,240
+If you have my paper on page five, there's this quote about the pharmaceutical, which I think is from early Heidegger, which shows that the farm, he says the furnace responds to the unique situation, but he doesn't bring in the the business of for the sake of the good.
+
+234
+00:29:07,240 --> 00:29:11,240
+He says the pharmaceut is determined by his situation in the largest sense.
+
+235
+00:29:11,240 --> 00:29:16,601
+The circumstances, the givens, the time the times and the people vary.
+
+236
+00:29:16,601 --> 00:29:18,680
+The meaning of the action varies as well.
+
+237
+00:29:18,680 --> 00:29:26,760
+It's precisely the achievement of Fernacus who disclose the individual acting now in the full situation in which he acts.
+
+238
+00:29:26,760 --> 00:29:39,720
+And I think that captures the part of Bernices that Heidegger wants and leaves out the part of the Berneseus that Heidegger doesn't want, it's part about the good.
+
+239
+00:29:39,881 --> 00:29:42,280
+Where's the cultural virtuoso?
+
+240
+00:29:42,601 --> 00:29:48,760
+I don't need it, but it's nice the way Bourdieu explains it.
+
+241
+00:29:48,760 --> 00:29:49,881
+Hmm.
+
+242
+00:29:50,200 --> 00:29:52,680
+Well, if I don't find it in a minute, I give up.
+
+243
+00:29:52,680 --> 00:29:54,440
+But I know I marked it.
+
+244
+00:29:54,680 --> 00:29:55,480
+Here it is.
+
+245
+00:29:55,480 --> 00:29:55,961
+Okay.
+
+246
+00:29:56,121 --> 00:30:02,760
+Only a virtuoso with a perfect command of his art of living can play on all the resources inherent.
+
+247
+00:30:02,760 --> 00:30:11,000
+Now listen to this describing Alcibiades, a brilliant, unscrupulous, self-serving master.
+
+248
+00:30:11,000 --> 00:30:16,921
+Only a virtuoso and anybody know the the sort of biography of Bourdieu, no Bourdieu.
+
+249
+00:30:17,081 --> 00:30:20,440
+He's an absolutely amazing example of this.
+
+250
+00:30:20,440 --> 00:30:31,521
+I mean, he's so smart and so self-promoting that he got himself from being a a balanced proponent through the French system to the Collège de France.
+
+251
+00:30:32,081 --> 00:30:36,960
+And he did it partly because he was brilliant, but you don't just get to the Collège de France by being brilliant.
+
+252
+00:30:36,960 --> 00:30:43,440
+You've got to go to the right tea parties and meet the right people and drink their wine and say the right things.
+
+253
+00:30:43,440 --> 00:30:47,760
+And he did all of that, and he was very pleased with himself, and rightly so.
+
+254
+00:30:47,760 --> 00:30:50,641
+And now I think of him as a cultural virtuoso.
+
+255
+00:30:50,801 --> 00:31:12,320
+Only a virtuoso with a perfect command of his art of living can play on all the resources inherent in the ambiguities and uncertainties of behavior and situations in order to produce the options appropriate to each case to do that of which people will say there was nothing else to be done and to do it in the right way.
+
+256
+00:31:12,321 --> 00:31:14,080
+I mean, I think that's cleverness.
+
+257
+00:31:14,081 --> 00:31:15,360
+That's Alcibiades.
+
+258
+00:31:15,361 --> 00:31:20,560
+And Bourdieu, and I've mixed it up why I'm saying it, with Renesis.
+
+259
+00:31:20,641 --> 00:31:37,840
+I don't, and Bourdieu, I'm almost forgetting the punchline, Hasno doesn't say that he does it for the sake of the inner goods of the practice, that is, he, the cultural virtuoso, or that he does it for the good as understood by his culture.
+
+260
+00:31:37,841 --> 00:31:41,361
+He just does it presumably to get ahead.
+
+261
+00:31:41,601 --> 00:31:53,361
+He manages to exchange gifts more cleverly than anybody else, which is a tricky business according to Bourdieu and the Berbers, because you have to give, if you give the gift back too soon, it's wrong.
+
+262
+00:31:53,361 --> 00:31:55,440
+And if you give a gift back too late, it's wrong.
+
+263
+00:31:55,440 --> 00:32:00,560
+And if you give a gift back, it's not as sumptuous as the gift you got, that's wrong.
+
+264
+00:32:00,561 --> 00:32:04,480
+But if you give an overwhelmingly cooperative gift back, that's wrong.
+
+265
+00:32:04,480 --> 00:32:08,240
+And the idea, and you won't learn any rules for it.
+
+266
+00:32:08,240 --> 00:32:14,840
+You've just got to learn how to give a gift in a way that gets you respected and what you want.
+
+267
+00:32:15,401 --> 00:32:18,121
+Okay, now, where are we?
+
+268
+00:32:19,401 --> 00:32:51,000
+So, and the other really important difference that is, in which the difference now between the resolute Dasein acting as a master in his culture is that, and here I'm amazed at my own, that Aristotle isn't saying what I think he should say, and Heidegger is saying, in effect, what Aristotle should have said, and that's got to do with the role of reflection in being a master.
+
+269
+00:32:51,401 --> 00:33:04,521
+Now, Aristotle knows better than to think that the master has to reflect on what principles to follow, what rules, or whatever, to do whatever that master does.
+
+270
+00:33:04,520 --> 00:33:18,921
+But as I understand it, and some of you may correct me, what happens is, and I've always had this phrase in my mind, that the pharmaceut straightway does the appropriate thing at the appropriate time in the appropriate way.
+
+271
+00:33:18,921 --> 00:33:21,721
+And I couldn't find anywhere the straight way.
+
+272
+00:33:22,520 --> 00:33:25,560
+There was all this doing the appropriate thing talk.
+
+273
+00:33:26,201 --> 00:33:40,361
+And now I think Aristotle thinks, and please correct me if I'm wrong, that the pharmaceutically sees what is the appropriate thing to do, but then has to reflect in order to do it.
+
+274
+00:33:40,361 --> 00:33:51,241
+He has to test it, check it out, see understand that it's the appropriate thing to do, not just see it as attracting him before he can actually respond to it.
+
+275
+00:33:51,241 --> 00:33:58,801
+If so, that's just going to be one thought too many, as Roost quotes Harry Frankfurt.
+
+276
+00:33:58,801 --> 00:34:00,640
+No, it's Bernard Williams talking about.
+
+277
+00:34:00,960 --> 00:34:08,080
+I mean, the eponymous doesn't need to see it as the right thing to do or that it's the right thing to do.
+
+278
+00:34:08,080 --> 00:34:09,520
+That's all too conceptual.
+
+279
+00:34:09,681 --> 00:34:25,681
+All the pharmaceut has to do is be so pruned to the situations in his culture, having done lots of actions and suffered from the bad ones and happy with the good ones, that he does, when he sees what to do as he does it.
+
+280
+00:34:26,480 --> 00:34:29,361
+347, Heidegger says it.
+
+281
+00:34:30,640 --> 00:34:33,521
+And I think it's wonderful, but it goes by awfully fast.
+
+282
+00:34:33,520 --> 00:34:35,520
+This, I think, distinguishes.
+
+283
+00:34:35,520 --> 00:34:41,521
+Now, what I'm saying is distinguishing resoluteness from Fernacus without saying it.
+
+284
+00:34:41,520 --> 00:34:47,761
+So at the end of the second, the beginning of the second paragraph, second sentence out.
+
+285
+00:34:48,000 --> 00:34:54,480
+Resoluteness does not first take cognizance of the situation and put that situation before itself.
+
+286
+00:34:54,480 --> 00:34:59,201
+It has put itself into the situation already, which is now my favorite sentence.
+
+287
+00:34:59,201 --> 00:35:03,041
+As resolute, Dasein is already taking action.
+
+288
+00:35:03,040 --> 00:35:05,121
+That's the straightway part.
+
+289
+00:35:05,841 --> 00:35:08,401
+It's insofar as Dasein is resolute.
+
+290
+00:35:08,401 --> 00:35:15,360
+Dasein doesn't have to sort of step outside and reflect on the situation.
+
+291
+00:35:16,721 --> 00:35:22,641
+When something comes along that solicits this appropriate action, the pharmaceut does it.
+
+292
+00:35:22,640 --> 00:35:29,921
+Now, and Aristotle, I guess all this relates to Aristotle is more and more fascinating me.
+
+293
+00:35:30,241 --> 00:35:32,720
+This is something now, too, that's interesting.
+
+294
+00:35:32,721 --> 00:35:34,400
+Let me just not lose you, though.
+
+295
+00:35:35,361 --> 00:35:50,201
+Yeah, Aristotle does understand that mastery in everyday field is reflectionless, I think, because he says in the physics at one point, Nay does not reflect.
+
+296
+00:35:43,761 --> 00:35:51,160
+Now, that's interesting.
+
+297
+00:35:51,401 --> 00:35:58,760
+That means that the craftsman who has mastery just immediately does the appropriate thing at the appropriate time.
+
+298
+00:35:58,761 --> 00:36:02,280
+If you're making a vase or a statue, it's a dance.
+
+299
+00:36:02,281 --> 00:36:04,361
+You see, Aristotle sees that.
+
+300
+00:36:04,361 --> 00:36:21,241
+Why he doesn't see that the social virtuoso, well, I can't use that term anymore, the social master, the mastery of the culture, the phronomist can't do as well as the craftsman and not reflect, I don't understand.
+
+301
+00:36:21,241 --> 00:36:26,921
+I mean, I think it's just wrong, and I think it's interesting that Heidegger got the phenomena right there.
+
+302
+00:36:26,921 --> 00:36:35,801
+Heidegger sees that the resolute cultural master does not reflect at all, he's straightway, that's what I think that sentence says.
+
+303
+00:36:37,241 --> 00:36:40,600
+And the sad, now where do I want to put this?
+
+304
+00:36:40,600 --> 00:36:50,840
+And when he does act, he doesn't act because in some way he's understood, that's a situation called for that sort of action.
+
+305
+00:36:50,841 --> 00:36:53,480
+That's again too conceptual.
+
+306
+00:36:53,480 --> 00:36:59,801
+When he acts, he, being a phronomist, his action defines the situation.
+
+307
+00:36:59,801 --> 00:37:16,361
+If he gives a great big gift spontaneously on the occasion when gift-giving happens, it defines that as the kind of situation where you better give that guy an overwhelming gift and embarrass him, or you're going to be embarrassed, or some such move.
+
+308
+00:37:16,361 --> 00:37:20,281
+So he says that on 346.
+
+309
+00:37:20,281 --> 00:37:23,960
+That the phronomist enacting defines the situation.
+
+310
+00:37:24,040 --> 00:37:27,081
+Well, the resolute doesn't mean.
+
+311
+00:37:27,080 --> 00:37:29,440
+I think this applies to the pharmaceutical, too.
+
+312
+00:37:29,440 --> 00:37:31,921
+So let me sort this out before I confuse you.
+
+313
+00:37:28,841 --> 00:37:36,081
+So the pharmaceut reflects, and the master, the cultural master does it.
+
+314
+00:37:36,321 --> 00:37:40,881
+The pharmaceut does it for the sake of the good and the cultural master.
+
+315
+00:37:41,201 --> 00:37:50,080
+But what the pharmaceutical and the culture and the master have in common is that what they do defines what the situation is.
+
+316
+00:37:50,080 --> 00:37:58,721
+There's no sort of fact of the matter about the situation except that they made it into the situation they did by acting the way they acted.
+
+317
+00:37:58,721 --> 00:38:01,841
+This is on 346.
+
+318
+00:38:01,841 --> 00:38:02,960
+Somewhere.
+
+319
+00:38:05,600 --> 00:38:06,881
+Yeah, okay.
+
+320
+00:38:07,921 --> 00:38:15,440
+About in that big middle paragraph about three-quarters of the way down, oh, where it says 300 in the margin.
+
+321
+00:38:15,440 --> 00:38:25,841
+Far removed from any present-at-hand mixture of circumstances and accidents which we encounter, the situation is only through resoluteness and in it.
+
+322
+00:38:26,401 --> 00:38:29,120
+So you can give an objective situation.
+
+323
+00:38:29,120 --> 00:38:31,360
+That would be, you know, the general situation.
+
+324
+00:38:32,080 --> 00:38:34,721
+This is a general situation of gift-giving.
+
+325
+00:38:34,721 --> 00:38:41,121
+But what this particular situation of gift-giving is, is absolutely concrete and particular.
+
+326
+00:38:41,120 --> 00:38:56,081
+And when the pharmaceut does it and people see that that was obviously the right thing to do, that's see that sort of speaker pharmaceuticals made it into a situation in which you give an overwhelming gift, for example.
+
+327
+00:38:58,401 --> 00:39:24,520
+But and now a way that Heidegger and I agree, that Aristotle just has missed something crucial is that the pharmaceut on the basis of his cultural background and in no way calls that cultural background into question.
+
+328
+00:39:25,401 --> 00:39:28,280
+Now let's translate that into resolute Dasein.
+
+329
+00:39:28,281 --> 00:39:46,841
+Resolute Dasein does the appropriate thing in the concrete current context, and he does the appropriate thing on the basis of having totally assimilated and learned how you behave in that culture.
+
+330
+00:39:46,841 --> 00:40:02,041
+But he doesn't have the kind of radical anxiety that falls into the, doesn't reflect on it, but senses the ungroundedness of the whole cultural background that he's acting on the basis of.
+
+331
+00:40:02,040 --> 00:40:05,960
+Again, not to be mysterious, only death can do that.
+
+332
+00:40:06,681 --> 00:40:24,201
+That is, the resolute person, like the pharonomist, like Aristotle's person, has felt the ungroundedness of the cultural background on the basis of which they act.
+
+333
+00:40:25,480 --> 00:40:35,721
+The ungroundedness of the cultural situation on the basis of which they act, that would be a more radical kind of anxiety than the resolute Dasein.
+
+334
+00:40:35,721 --> 00:40:38,361
+That would be anticipatory resoluteness.
+
+335
+00:40:38,361 --> 00:40:41,001
+And we're debating that next time.
+
+336
+00:40:41,000 --> 00:40:58,720
+But now, I got in the position of being able to read the whole complicated page here on page 330, where all of this comes into now if now.
+
+337
+00:40:58,681 --> 00:40:59,681
+We're in Heidegger.
+
+338
+00:40:58,921 --> 00:41:02,960
+Maybe that's not, I think I should stop at that point.
+
+339
+00:41:03,600 --> 00:41:08,480
+We're not going to be talking about what Aristotle says anymore, or Bourgieu says, or Dreyfus says.
+
+340
+00:41:08,480 --> 00:41:17,841
+What I want to talk about is Heidegger's understanding of what it is to be resolute.
+
+341
+00:41:17,841 --> 00:41:29,040
+And I'm going to talk about that as a criticism of a whole cognitivist, Kantian way of being.
+
+342
+00:41:29,921 --> 00:41:33,600
+It's a question, what's the most good person?
+
+343
+00:41:33,600 --> 00:41:38,801
+Heidegger's got his story here on 330 of that resolute good person.
+
+344
+00:41:38,801 --> 00:41:43,281
+And it says you can't get behind your thronists.
+
+345
+00:41:43,361 --> 00:41:45,120
+I mean, that's the phrase you keep needing.
+
+346
+00:41:45,120 --> 00:41:50,321
+And that's a criticism of a whole lot of views, most views, maybe all views, I don't know.
+
+347
+00:41:50,321 --> 00:41:51,680
+Maybe not you, I don't know.
+
+348
+00:41:51,681 --> 00:41:54,081
+Lots of views in philosophy anyway.
+
+349
+00:41:54,640 --> 00:42:11,760
+But before I do, what I'm going to do next is try to describe in detail what the sort of the theory of resolute action from Heidegger's point of view, no, that's not the phenomenon of resolute action and what follows from it.
+
+350
+00:42:11,761 --> 00:42:14,000
+That's where Ruth and Paper is going to come in.
+
+351
+00:42:14,241 --> 00:42:16,561
+I think it's a good point to stop for a moment.
+
+352
+00:42:16,560 --> 00:42:22,960
+Clearly, people have had feeling that I, yeah, I could see Eugene having feelings that I needed some help.
+
+353
+00:42:23,040 --> 00:42:24,080
+Go ahead.
+
+354
+00:42:24,321 --> 00:42:25,761
+Bad at everything.
+
+355
+00:42:25,761 --> 00:42:26,560
+Ah.
+
+356
+00:42:28,321 --> 00:42:32,081
+I have to put it back in context.
+
+357
+00:42:32,080 --> 00:42:33,440
+At everything.
+
+358
+00:42:33,440 --> 00:42:36,480
+But responding to the concrete situation.
+
+359
+00:42:36,480 --> 00:42:37,680
+Well, wouldn't he design it?
+
+360
+00:42:37,761 --> 00:42:41,241
+I guess there must be a distinction between respond, but I see the issue.
+
+361
+00:42:44,361 --> 00:42:46,600
+Well, I guess there's two different kinds of bad.
+
+362
+00:42:40,960 --> 00:42:47,400
+Let's try that.
+
+363
+00:42:47,881 --> 00:42:52,841
+I think that the cultural virtuoso can and alphabetes can be precisely bad.
+
+364
+00:42:52,841 --> 00:42:57,881
+They can be bad at everything and not being a traitor, but they do it brilliantly.
+
+365
+00:42:58,281 --> 00:43:07,080
+But but what I think you can't be is bad at everything in the sense of being a clutch and you know messing up everything as you do it.
+
+366
+00:43:07,241 --> 00:43:08,361
+It's bungler.
+
+367
+00:43:08,361 --> 00:43:21,881
+You can't do that because if you're a bungler, you're still acting on what you think are or sort of feel or something are the rules and right ways of doing things or so what one does, I think.
+
+368
+00:43:21,881 --> 00:43:25,401
+And then you could only be a sort of novice.
+
+369
+00:43:25,401 --> 00:43:27,960
+I'm just trying to pick a fill in more.
+
+370
+00:43:28,440 --> 00:43:32,521
+What kind of bad person do you think the resolute dosign could be?
+
+371
+00:43:32,841 --> 00:43:36,841
+So change is simple case or government.
+
+372
+00:43:36,921 --> 00:43:43,720
+You know, I guess that's the question, but you have to be an authentic or standard doskin and his hands all through wage.
+
+373
+00:43:44,600 --> 00:43:45,321
+Okay, I see.
+
+374
+00:43:45,321 --> 00:43:46,361
+Can you hear him?
+
+375
+00:43:46,361 --> 00:43:58,361
+I mean, so what about somebody who has a stroke in this example so that they aren't skillful anymore, like Michael Jordan can't play basketball well anymore.
+
+376
+00:43:58,921 --> 00:44:04,520
+But their state of designing is nonetheless resolute.
+
+377
+00:44:07,401 --> 00:44:19,800
+So and the moral is supposed to be that you can do the appropriate thing at the appropriate time in the appropriate way and still not be, oh no.
+
+378
+00:44:20,120 --> 00:44:25,640
+You know, you could still be resolute but not do the appropriate thing in this the appropriate time in the appropriate way.
+
+379
+00:44:26,281 --> 00:44:26,680
+I see.
+
+380
+00:44:26,761 --> 00:44:29,200
+So resoluteness is not a skill level.
+
+381
+00:44:29,201 --> 00:44:31,041
+It's not like mastery.
+
+382
+00:44:32,000 --> 00:44:33,521
+That's interesting, yes.
+
+383
+00:44:33,761 --> 00:44:35,601
+Skills are much important.
+
+384
+00:44:36,401 --> 00:44:50,320
+Resoluteness would be corresponding to the skills at a different time and place, that exactly able to design for those skills, and then I can reference a dialogue, they'll get that mastery condition.
+
+385
+00:44:50,640 --> 00:44:53,841
+Skills no longer match, but use different music.
+
+386
+00:44:54,160 --> 00:44:57,040
+Well, yeah, but you still get what Eugene's trying to do.
+
+387
+00:44:57,040 --> 00:45:08,480
+Take apart, if you get him still resolute after his skills no longer match or no longer work, then you've broken resoluteness apart from cultural mastery.
+
+388
+00:45:08,480 --> 00:45:22,081
+And I'm the one who put in the cultural mastery story, except again, I got a sort of, I see the problem, and yet I don't see if.
+
+389
+00:45:22,080 --> 00:45:29,921
+So you could still be, well, let me go back around where I was for a second, and then I'll let you talk.
+
+390
+00:45:30,640 --> 00:45:39,440
+I'm still trying to get my head around the idea that to be resolute, you've got to respond to the concrete situation and respond appropriately to concentrate.
+
+391
+00:45:39,600 --> 00:45:42,240
+Isn't that a definition of resolute?
+
+392
+00:45:42,241 --> 00:45:46,000
+I mean, that would, of course, prejudice the story in my direction.
+
+393
+00:45:46,000 --> 00:45:46,960
+So we better look.
+
+394
+00:45:47,040 --> 00:45:48,881
+Now I'll let you guys talk in a minute.
+
+395
+00:45:48,881 --> 00:45:54,721
+Where's that critical place where the situation in italics comes into it?
+
+396
+00:45:56,000 --> 00:46:01,760
+I take it that that was supposed to be a definition of what resolute action looked like.
+
+397
+00:46:02,401 --> 00:46:03,521
+Where is it?
+
+398
+00:46:03,520 --> 00:46:05,681
+Here it is on 346.
+
+399
+00:46:06,000 --> 00:46:12,560
+Let's all just read on 346 that top paragraph and see if we can answer this objection.
+
+400
+00:46:12,560 --> 00:46:13,600
+We may have to begin earlier.
+
+401
+00:46:13,600 --> 00:46:15,001
+Let me see.
+
+402
+00:46:15,000 --> 00:46:16,841
+No, we start there.
+
+403
+00:46:13,841 --> 00:46:17,401
+I don't know.
+
+404
+00:46:17,560 --> 00:46:35,641
+I see that as you couldn't, you can't be, so to speak, resolute and not project yourself upon what is topically possible and break out of the they.
+
+405
+00:46:35,960 --> 00:46:48,760
+And it doesn't seem somehow that you could sort of what is topically possible for you now that you've had a stroke and break out of the everyday because you're acting differently.
+
+406
+00:46:49,000 --> 00:46:57,321
+Doesn't that look like it's discussion of somehow having to be able to act appropriately by the standards of the culture?
+
+407
+00:46:57,321 --> 00:46:58,680
+Ah, well, that's interesting.
+
+408
+00:46:58,681 --> 00:46:59,480
+Okay, try that.
+
+409
+00:46:59,480 --> 00:47:01,880
+So you have to see what's practically possible for you.
+
+410
+00:47:01,881 --> 00:47:03,561
+Let me look at it.
+
+411
+00:47:03,721 --> 00:47:05,401
+Lesson simple.
+
+412
+00:47:05,401 --> 00:47:13,480
+And the they knows only I'm going to the bottom, loses itself in opportunities and reckons up to accidents and so forth.
+
+413
+00:47:13,801 --> 00:47:17,960
+Let's look at the top paragraph on 347, each to ourselves.
+
+414
+00:47:17,960 --> 00:47:25,641
+So we would getting called forth into the situation is whatever is practically possible for you.
+
+415
+00:47:25,640 --> 00:47:30,921
+And if you're resolute, it doesn't have to be highly skillful mastery.
+
+416
+00:47:30,921 --> 00:47:35,081
+Still, you could respond by already taking action.
+
+417
+00:47:35,080 --> 00:47:39,001
+Still, you could define the situation by the way you act.
+
+418
+00:47:39,321 --> 00:47:46,361
+It may be that acting as a master is a special trait of this more general notion.
+
+419
+00:47:46,361 --> 00:47:51,640
+I still think resoluteness is a is a specially something or other way of acting.
+
+420
+00:47:51,640 --> 00:47:53,240
+It's not just bungling around.
+
+421
+00:47:53,281 --> 00:47:54,600
+It's it's gotta be.
+
+422
+00:47:54,841 --> 00:47:58,161
+Well, you say one more thing, and then there's a lot of people who want to talk.
+
+423
+00:47:57,801 --> 00:48:00,720
+Oh, I I that's not a problem.
+
+424
+00:48:00,960 --> 00:48:05,921
+I d the resolute person isn't magically the uh a master.
+
+425
+00:48:05,921 --> 00:48:11,440
+They what happens is they bungle around and follow rules and make mistakes and they stay resolute.
+
+426
+00:48:11,841 --> 00:48:13,520
+Yeah, but that's that's all right.
+
+427
+00:48:13,520 --> 00:48:18,160
+They stay um they stay sort of on the fact of being a master.
+
+428
+00:48:18,640 --> 00:48:23,440
+I'm happy to separate resoluteness out and say it's not only mastery.
+
+429
+00:48:23,440 --> 00:48:24,560
+Maybe that's a good compromise.
+
+430
+00:48:24,560 --> 00:48:33,760
+It's not only mastery, but it's also what uh the certain conditions that that a masters and only masters have that enable them to become masters.
+
+431
+00:48:33,761 --> 00:48:35,041
+They aren't yet.
+
+432
+00:48:35,040 --> 00:48:36,401
+Uh maybe.
+
+433
+00:48:36,401 --> 00:48:39,761
+Anyway, now there's a dozen of so many people want to say things.
+
+434
+00:48:39,761 --> 00:48:42,000
+Do you have any idea which order you had your hands up in?
+
+435
+00:48:42,000 --> 00:48:43,921
+Who had their hand up first?
+
+436
+00:48:44,241 --> 00:48:45,201
+Okay.
+
+437
+00:48:45,520 --> 00:48:46,881
+You have to talk really loud.
+
+438
+00:48:46,881 --> 00:48:49,841
+You're talking to people way over in China.
+
+439
+00:48:49,841 --> 00:48:51,841
+It's impossible to do that.
+
+440
+00:48:52,160 --> 00:49:02,401
+They don't become resolute by being the master to a skill and kids a little they seem to be working upon looking at their skill.
+
+441
+00:49:02,801 --> 00:49:06,000
+Instinctively realized that people could do what they were doing.
+
+442
+00:49:06,160 --> 00:49:11,921
+Realize that he middle of 344 near the bottom.
+
+443
+00:49:11,921 --> 00:49:12,240
+Okay.
+
+444
+00:49:13,201 --> 00:49:20,560
+And the last thing I mean resoluteness brings itself right with first and third being alongside was bringing in.
+
+445
+00:49:20,560 --> 00:49:23,361
+And what do you think they're just living in good with others?
+
+446
+00:49:23,681 --> 00:49:30,960
+And I can imagine for a looking at a teammate and realizing, you know, if I perceive like I can play right now, we're going to lose the game.
+
+447
+00:49:30,960 --> 00:49:33,921
+And instinctively knowing he's got a battle out.
+
+448
+00:49:34,160 --> 00:49:38,641
+And so okay, he frees himself, let's see.
+
+449
+00:49:38,640 --> 00:49:46,360
+There's just divine towards what makes it possible to let the others who are with it be in their most potentiality.
+
+450
+00:49:46,440 --> 00:49:47,881
+That's a whole dimension of it.
+
+451
+00:49:47,881 --> 00:49:52,521
+I haven't talked about how the pharmaceut relates to the others.
+
+452
+00:49:52,520 --> 00:49:59,801
+I don't understand what it is really because of the conscience of others, which is what this paragraph is about.
+
+453
+00:50:00,440 --> 00:50:02,200
+And that's the next sentence.
+
+454
+00:50:03,000 --> 00:50:06,361
+So there's some way in which I think we should bracket that.
+
+455
+00:50:06,361 --> 00:50:17,401
+I mean, there's a further story that has to be told about how the resolute Dasein and the phronomist relate to other Daseins.
+
+456
+00:50:17,401 --> 00:50:38,681
+And Heidegger, I don't think it's Aristotle's pharmaceutical, has this sort of imperative to push other people into being authentic and bump in ahead of them and make them sort of take responsibility and act without groundedness and so forth.
+
+457
+00:50:39,801 --> 00:50:48,281
+I can't see any sign that Aristotle thinks the phronomist is concerned about other people's becoming phronomi and how to help them do it.
+
+458
+00:50:48,600 --> 00:50:50,520
+I don't think any of these do.
+
+459
+00:50:50,841 --> 00:50:59,000
+I think we just probably, I don't know what to say about that, but I don't want to, I mean, whatever we're doing, it should be able to answer it without worrying about others.
+
+460
+00:50:59,000 --> 00:51:09,161
+I mean, it's enough to worry about how Michael Jordan, whether Michael Jordan is resolute when his hand is hurt and he can't really play basketball very well.
+
+461
+00:51:09,160 --> 00:51:11,240
+I mean, it's funny.
+
+462
+00:51:11,241 --> 00:51:12,841
+You can't just think his hand is broken.
+
+463
+00:51:12,841 --> 00:51:20,921
+You've got to think, as Eugene said, if he had a stroke or something, he no longer has or will ever have again the capacity to play well.
+
+464
+00:51:20,921 --> 00:51:24,521
+Then you ask yourself, well, is he still a master basketball player?
+
+465
+00:51:24,520 --> 00:51:26,921
+And I think the answer has to be, sadly, no.
+
+466
+00:51:26,921 --> 00:51:30,641
+He has been master basketball player.
+
+467
+00:51:30,960 --> 00:51:36,080
+And then the question is, but is he still resolute or not?
+
+468
+00:51:36,401 --> 00:51:48,720
+And then the answer is going to be something like, well, maybe he still has the resoluteness that made him able to become this master basketball player.
+
+469
+00:51:48,801 --> 00:51:53,041
+He's lost the capacity to do it.
+
+470
+00:51:53,040 --> 00:52:20,320
+But if he still lives in the anxiety of ungroundedness and responds to the unique situation, even if his response is now no longer masterful, I'm ready to say, yes, he's got so resoluteness is something like the appropriate response to the situation given the capacities and so forth of the Dazan.
+
+471
+00:52:20,321 --> 00:52:32,480
+I think we can, and I won't be, I mean, I don't sort of lose anything I want when I say that, except I think it's true you can't tie it as tightly to mastery as I just did, but it's in the ballgame of mastery.
+
+472
+00:52:32,721 --> 00:52:33,120
+Yeah.
+
+473
+00:52:33,120 --> 00:52:35,841
+But if you say it's still his mastery versus mastery at.
+
+474
+00:52:36,321 --> 00:52:37,280
+You could say that.
+
+475
+00:52:37,281 --> 00:52:41,041
+That's, I think, yeah, that's possible, I guess.
+
+476
+00:52:41,040 --> 00:52:43,440
+Of course, it's got to be prompting.
+
+477
+00:52:44,241 --> 00:52:44,720
+That's alright.
+
+478
+00:52:44,960 --> 00:52:49,041
+It's masterful at acting the great way.
+
+479
+00:52:49,040 --> 00:52:59,761
+It does the appropriate thing at the appropriate time in the appropriate way given its factical situation, which means that it needn't look like a master in the big game.
+
+480
+00:52:59,761 --> 00:53:00,960
+I think that's fine.
+
+481
+00:53:00,960 --> 00:53:01,600
+Yes.
+
+482
+00:53:01,841 --> 00:53:02,160
+Yeah.
+
+483
+00:53:02,881 --> 00:53:05,281
+These are Dazza might be resolute.
+
+484
+00:53:05,281 --> 00:53:07,041
+That's not game other.
+
+485
+00:53:07,040 --> 00:53:12,881
+I mean, if it's Michael Jordan, he might be, he might become a resolute basketball coach, but it seems being pretty good.
+
+486
+00:53:13,120 --> 00:53:16,921
+Well, that's right, or he's a resolute basketball player in the Special Olympics.
+
+487
+00:53:17,000 --> 00:53:24,520
+So, I mean, who's made his practical situation to be a disabled master basketball player?
+
+488
+00:53:24,520 --> 00:53:27,960
+I think that's what comes out of what Eugene is saying.
+
+489
+00:53:27,960 --> 00:53:34,121
+I mean, you don't have to be a master in the sense of the gold medal winner in the Olympics kind of master.
+
+490
+00:53:34,361 --> 00:53:39,881
+But you've got to, again, I like that formulation that we came up with together somehow.
+
+491
+00:53:39,881 --> 00:53:46,841
+You have to be able to do the appropriate thing at the appropriate time in the appropriate way, given your factical situation.
+
+492
+00:53:46,841 --> 00:53:48,440
+That's that kind of mastery.
+
+493
+00:53:48,761 --> 00:53:56,521
+Whereas there's another meaning of mastery, that if you can't win the game, run the four-minute mile and so forth, you're no master anymore.
+
+494
+00:53:56,520 --> 00:53:57,560
+That's not right.
+
+495
+00:53:57,560 --> 00:53:59,881
+That's that we've got to qualify that.
+
+496
+00:53:59,881 --> 00:54:03,080
+But nothing, I think, that I'm saying hinges on it.
+
+497
+00:54:03,560 --> 00:54:04,600
+I don't know, does it?
+
+498
+00:54:06,281 --> 00:54:08,600
+It's not an objective skill level, no.
+
+499
+00:54:08,600 --> 00:54:14,520
+It's something like, but it is, it's a kind of relative to the individual Dasein skill level.
+
+500
+00:54:14,520 --> 00:54:19,000
+That's I don't think anything else is going to follow, but we'll see.
+
+501
+00:54:19,960 --> 00:54:20,921
+So, yes.
+
+502
+00:54:21,241 --> 00:54:22,361
+Talk loud, yeah.
+
+503
+00:54:25,801 --> 00:54:29,640
+It'd be imperative across all areas of the Dalsey and why it's very good.
+
+504
+00:54:30,281 --> 00:54:32,440
+I don't understand why the Dalsein should be.
+
+505
+00:54:32,761 --> 00:54:33,240
+Good, good.
+
+506
+00:54:33,241 --> 00:54:35,241
+That's a similar kind of point.
+
+507
+00:54:35,241 --> 00:54:41,881
+In Aristotle, I think it's uh it has to be in behaving in a in the culture.
+
+508
+00:54:41,881 --> 00:54:47,640
+It's it it it's not enough for an Aristotle to bring a pharnasis of uh pest.
+
+509
+00:54:47,640 --> 00:54:49,560
+Uh you could be a master of pest.
+
+510
+00:54:49,560 --> 00:54:51,240
+That's another distinction there.
+
+511
+00:54:51,241 --> 00:55:02,881
+Uh it's but in in Heidegger, uh you could you could certainly play chess in a way that a resolute design plays chess.
+
+512
+00:55:02,881 --> 00:55:12,800
+And so I think that that's a way Heidegger is generalizing it from the Aristotle story too.
+
+513
+00:55:12,801 --> 00:55:24,721
+Not only does Heidegger think that you don't have to do it for the sake of the good, Bobby Fisher certainly was a master and he didn't play Beth for the sake of the good.
+
+514
+00:55:24,721 --> 00:55:28,480
+Whether he was resolute or not, he was so weird, I don't know.
+
+515
+00:55:28,480 --> 00:55:38,960
+But he could have been, he could have been, because I don't think Heidegger wants to build in for the internal goods of the practices or for the goods of the culture.
+
+516
+00:55:38,960 --> 00:55:40,241
+That's what they're asking.
+
+517
+00:55:42,000 --> 00:55:44,720
+And I think his resolute person doesn't have to do that.
+
+518
+00:55:45,201 --> 00:55:50,561
+He never says that the resolute person has to do what the culture says.
+
+519
+00:55:50,560 --> 00:55:52,401
+Of course, it's sticky.
+
+520
+00:55:52,401 --> 00:55:56,081
+I'm sure the anticipatory resolute person doesn't have to.
+
+521
+00:55:56,080 --> 00:56:07,840
+And he's not sort of making a fuss about the fact that the resolute person isn't really fully resolute until they're anticipatorily resolute.
+
+522
+00:56:08,160 --> 00:56:17,361
+And then it turns out that sort of everything they do is grounded even in the background practices, as I understand it.
+
+523
+00:56:17,520 --> 00:56:17,921
+Yeah.
+
+524
+00:56:18,960 --> 00:56:28,080
+As you get more and more localized, though, it's a function of it, where it seems like then when we imagine the genealogy of a person is very particular than if they're not grounded.
+
+525
+00:56:28,080 --> 00:56:29,280
+And I think so.
+
+526
+00:56:29,281 --> 00:56:37,601
+So it belongs to the the resolute person that they've got this general anxiety about all.
+
+527
+00:56:37,600 --> 00:56:41,120
+Yes, I think that that's got to be right.
+
+528
+00:56:41,120 --> 00:56:48,760
+But I don't think Heidegger thinks that you can have sort of localized ontological anxiety.
+
+529
+00:56:43,201 --> 00:56:56,201
+I think you may be able to have localized anxiety about your health and whether there's a flu germ running around or something.
+
+530
+00:56:56,201 --> 00:57:02,841
+But if you're a resolute Dasein, then you have a sense of what it is to be a Dasein, and that's general.
+
+531
+00:57:02,841 --> 00:57:05,081
+And I think that's important.
+
+532
+00:57:05,080 --> 00:57:23,000
+And you could still say that unless you have that general sense of anxiety that it takes to be a Dasein, which pulls you out of level one, unless you have that, you also can't do all these local specific things to be a very good skateboarder.
+
+533
+00:57:23,241 --> 00:57:24,200
+And that's all right.
+
+534
+00:57:24,600 --> 00:57:30,040
+I think I do think you can't have local and sort of skateboard anxiety.
+
+535
+00:57:30,040 --> 00:57:33,001
+You've got to have Dasein anxiety.
+
+536
+00:57:33,000 --> 00:57:34,521
+Yeah, Stephen.
+
+537
+00:57:35,241 --> 00:57:36,921
+Now I keep coming closer.
+
+538
+00:57:36,921 --> 00:57:37,881
+You keep talking loud.
+
+539
+00:57:37,960 --> 00:57:38,601
+What?
+
+540
+00:57:38,600 --> 00:57:39,321
+What?
+
+541
+00:57:40,281 --> 00:57:47,800
+No, because you can't, that would be responding to the general situation, and the resolute Dasein never responds to the general situation.
+
+542
+00:57:47,881 --> 00:57:55,160
+So worrying about the first, sometimes the rest of my English still friends, choosing what?
+
+543
+00:57:55,960 --> 00:57:56,600
+Where does that?
+
+544
+00:57:56,600 --> 00:57:57,480
+Where, where, where?
+
+545
+00:57:57,480 --> 00:58:08,121
+I mean, I worry, because I know Heidegger does talk that way sometimes, but then you have to make a long speech about choice and how choice can't possibly mean what Heidegger.
+
+546
+00:58:08,120 --> 00:58:09,081
+Okay.
+
+547
+00:58:09,401 --> 00:58:10,921
+314 in the German.
+
+548
+00:58:10,921 --> 00:58:11,480
+Uh-oh.
+
+549
+00:58:11,721 --> 00:58:12,120
+Okay.
+
+550
+00:58:12,361 --> 00:58:15,000
+314 or 270.
+
+551
+00:58:15,000 --> 00:58:16,361
+314 or 270.
+
+552
+00:58:16,361 --> 00:58:17,401
+Okay, I'm going to read that.
+
+553
+00:58:18,681 --> 00:58:19,440
+Yeah, I see.
+
+554
+00:58:19,440 --> 00:58:24,361
+Choosing, the choosing to choose the kind of being which in accordance with nature.
+
+555
+00:58:24,361 --> 00:58:28,161
+Because that's that first definition of resoluteness, as you say.
+
+556
+00:58:28,480 --> 00:58:31,361
+Well, we've got to make a big distinction about choosing.
+
+557
+00:58:27,480 --> 00:58:34,640
+I wish I had brought in the the Schelling lecture.
+
+558
+00:58:34,721 --> 00:58:46,400
+I'll bring it next time, where Heidegger sort of saw this very, maybe even these very pages, where he talks about what he said about choosing and being in time and changes it.
+
+559
+00:58:47,120 --> 00:58:58,240
+If choosing means sort of stepping outside the situation and deciding for this rather than that, then that's not what the Dasein normally does.
+
+560
+00:58:58,241 --> 00:59:00,720
+The Dasein can't be choosing.
+
+561
+00:59:00,721 --> 00:59:04,721
+It's a straight way the resolute Dasein acts.
+
+562
+00:59:04,721 --> 00:59:08,800
+So in what way could the straight way acting Dasein be said to be choosing?
+
+563
+00:59:08,801 --> 00:59:24,960
+Well, as I understand it, the word for choice in Aristotle is just that there are other ways they could have acted, not that they stood outside and saw the range of possibilities and then decided on one, one.
+
+564
+00:59:25,681 --> 00:59:35,120
+It's a toy if what you just spontaneously do isn't all what you couldn't what you could have done.
+
+565
+00:59:35,120 --> 00:59:43,521
+I take it if you run into a burning building and save a child, you, in Aristotle's sense, chose to save the child.
+
+566
+00:59:43,520 --> 00:59:46,960
+But it could well be that phenomenologically it probably is.
+
+567
+00:59:46,960 --> 00:59:52,161
+But we're back to Bernard Williams jumping in and s the guy jumping in and saving his wife.
+
+568
+00:59:52,160 --> 00:59:53,681
+You just do it.
+
+569
+00:59:53,681 --> 00:59:57,040
+And but we could see this other sense of choice.
+
+570
+00:59:57,040 --> 01:00:00,480
+What's the what's the uh Greek bouleistus or something like that?
+
+571
+01:00:00,480 --> 01:00:01,921
+Anybody knows the Greek?
+
+572
+01:00:01,921 --> 01:00:08,881
+That's that that's Aristotle Greek couldn't mean something like choosing or choosing to choose.
+
+573
+01:00:08,881 --> 01:00:14,201
+It's gotta mean doing something which they could also have done something else.
+
+574
+01:00:14,201 --> 01:00:15,081
+Is that all right?
+
+575
+01:00:15,080 --> 01:00:16,281
+That would help.
+
+576
+01:00:17,000 --> 01:00:18,121
+What page?
+
+577
+01:00:13,761 --> 01:00:19,881
+213.
+
+578
+01:00:22,201 --> 01:00:23,401
+Oh, three thirteen.
+
+579
+01:00:23,401 --> 01:00:24,520
+No, you're like, okay, I got it.
+
+580
+01:00:24,520 --> 01:00:26,440
+Three thirteen, it's gonna be.
+
+581
+01:00:26,440 --> 01:00:30,121
+Oh, yes, that's like this is all that weird stuff about choosing.
+
+582
+01:00:30,600 --> 01:00:32,041
+Yeah, I see that.
+
+583
+01:00:33,000 --> 01:00:34,440
+A decision.
+
+584
+01:00:34,440 --> 01:00:35,241
+Ah.
+
+585
+01:00:35,241 --> 01:00:44,840
+Well, I will definitely bring in next time the places where he talks about choosing and being in time and says that he got it wrong.
+
+586
+01:00:44,841 --> 01:00:50,601
+Whether that's exactly this wrong, I I don't dare say without looking at it again.
+
+587
+01:00:50,921 --> 01:00:52,120
+But it better not be.
+
+588
+01:00:52,120 --> 01:01:04,440
+I mean, oh, what I would say if I mean listening to this, is clearly there's a contradiction between choosing and making a decision on the one hand and straightway acting on the other.
+
+589
+01:01:04,440 --> 01:01:05,560
+Where is that again?
+
+590
+01:01:05,560 --> 01:01:09,721
+The situation already taking action.
+
+591
+01:01:09,721 --> 01:01:23,480
+Putting yourself into the situation as already taking action, that's the one on 347, doesn't seem to be describable in a normal sense of choosing to choose, let alone deciding to choose to choose, which is what it seems there.
+
+592
+01:01:23,480 --> 01:01:32,761
+And so I just I think I think Heidegger's just getting it wrong, and that's what happens in Division II sometimes.
+
+593
+01:01:32,761 --> 01:01:36,361
+And I think Heidegger thinks he's getting it wrong, because I have to go prove that.
+
+594
+01:01:36,361 --> 01:01:40,121
+That would make s I'll expect out of the problem.
+
+595
+01:01:40,120 --> 01:01:40,600
+Yeah.
+
+596
+01:01:41,241 --> 01:01:43,320
+Um I have two questions.
+
+597
+01:01:43,321 --> 01:01:48,040
+First of all, is it fair to characterize resolution for you know, that you're writing a thing?
+
+598
+01:01:48,281 --> 01:01:48,760
+No.
+
+599
+01:01:49,881 --> 01:01:58,480
+Because of that funny passage about tell jumping into the other and being the conscience of the other, that can't be making the other person as ready to hand.
+
+600
+01:01:57,321 --> 01:02:01,120
+Racial readiness to hand, if I can say.
+
+601
+01:02:01,361 --> 01:02:10,401
+I mean, basically what I'm getting at here is that readiness of hand is defined in my understanding as just reacting non-final.
+
+602
+01:02:10,640 --> 01:02:11,841
+I see, I see what you mean.
+
+603
+01:02:12,160 --> 01:02:14,160
+You manipulate a handle with level 10.
+
+604
+01:02:14,401 --> 01:02:15,440
+Okay, I see what you're saying.
+
+605
+01:02:15,440 --> 01:02:15,680
+Yeah.
+
+606
+01:02:15,841 --> 01:02:23,841
+It'd be a very like a really often version of reading to hand kind of, because unlike normal readiness to hand, you need to work a lot to get the resolution of something.
+
+607
+01:02:23,841 --> 01:02:26,080
+But it still seems of always going to be difficult.
+
+608
+01:02:26,241 --> 01:02:26,720
+Okay, good.
+
+609
+01:02:27,201 --> 01:02:31,681
+Generally, though, I mean, at first level, yes, I agree with you.
+
+610
+01:02:32,241 --> 01:02:34,000
+But you don't really have to work a lot.
+
+611
+01:02:34,321 --> 01:02:35,600
+I mean, sorry, you do.
+
+612
+01:02:35,600 --> 01:02:36,480
+You said you don't.
+
+613
+01:02:36,480 --> 01:02:37,361
+You do work a lot.
+
+614
+01:02:38,321 --> 01:02:39,600
+I think you have to work a lot too.
+
+615
+01:02:39,600 --> 01:02:40,480
+Oh, you're thinking about the hammer.
+
+616
+01:02:40,640 --> 01:02:41,840
+Yeah, even with a hammer.
+
+617
+01:02:41,841 --> 01:02:43,361
+You can't just pick up and hammer.
+
+618
+01:02:43,361 --> 01:02:47,040
+You can't even pick up and walk without a lot of effort and following around.
+
+619
+01:02:48,000 --> 01:02:57,440
+So getting the skill to do straight away things like hammering or going out the door is certainly something that happens with Dodge Eyes.
+
+620
+01:02:57,440 --> 01:03:02,560
+Why isn't that the same as resolute coping?
+
+621
+01:03:03,520 --> 01:03:13,440
+And I see why you say that, because it's got this thing in common with expertise at hammering and expertise at gift giving.
+
+622
+01:03:13,440 --> 01:03:20,480
+They are all unreflective, and straight away you do them, and it takes a lot of experience to get so you can do them.
+
+623
+01:03:20,480 --> 01:03:23,681
+Aristotle says that about the pharmaceutical.
+
+624
+01:03:28,080 --> 01:03:29,280
+Doing the appropriate things.
+
+625
+01:03:29,281 --> 01:03:34,000
+All that is true, but there's this very important feature of the ready-to-hand that this doesn't have.
+
+626
+01:03:34,000 --> 01:03:36,721
+That's why I jumped and said no.
+
+627
+01:03:38,401 --> 01:03:40,881
+You're always using something instrumentally.
+
+628
+01:03:41,040 --> 01:03:46,280
+The ready-to-hand is introduced as always having it towards wish and order to, and so forth and so forth.
+
+629
+01:03:46,600 --> 01:03:53,801
+And that's why I mentioned the relation to the other Daseine is certainly not using them like equipment.
+
+630
+01:03:53,801 --> 01:04:08,281
+So relating to them as ready-to-hand, I think, is defined as relating to something as equipment, and then you do it transparently, flow and coping, and so forth.
+
+631
+01:04:08,281 --> 01:04:12,200
+And then there is relating to other Dasein, and that's not relating to them.
+
+632
+01:04:12,361 --> 01:04:14,121
+That's mid-Dasein.
+
+633
+01:04:14,120 --> 01:04:19,720
+And that is also, and that's your point, totally unreflective.
+
+634
+01:04:19,721 --> 01:04:24,760
+It has to be learned when you do it, but it isn't going to be called treating them as ready-to-hand.
+
+635
+01:04:25,080 --> 01:04:25,641
+Okay?
+
+636
+01:04:25,640 --> 01:04:26,281
+That sounds right.
+
+637
+01:04:26,761 --> 01:04:27,480
+You're not using.
+
+638
+01:04:27,640 --> 01:04:32,921
+And you can treat people as ready-to-hand, for sure, like you do the fact here in the bank or something.
+
+639
+01:04:32,921 --> 01:04:35,561
+But you don't necessarily do it.
+
+640
+01:04:36,520 --> 01:04:36,841
+Okay?
+
+641
+01:04:37,080 --> 01:04:39,401
+Certainly there are people discussing there.
+
+642
+01:04:39,560 --> 01:04:46,600
+Was it a state of being, either meaning to have forevermore, or is it like something that we have in certain endeavors?
+
+643
+01:04:50,361 --> 01:05:03,881
+I think it's something you were saying, but I don't think of any page, because when you keep saying the resolute Dasein and the anticipatorily resolute Dasein and the authentic Dasein, you certainly lose it.
+
+644
+01:05:03,881 --> 01:05:06,680
+You can be there because you can be back in the untruth.
+
+645
+01:05:06,681 --> 01:05:08,600
+You can flee it and so forth.
+
+646
+01:05:08,921 --> 01:05:15,640
+Unless you make a positive effort, maybe, I mean, I'm going to say unless you make a positive effort, you don't lose it.
+
+647
+01:05:15,801 --> 01:05:18,200
+Maybe it definitely could.
+
+648
+01:05:18,921 --> 01:05:22,121
+I'm very interested whether anybody can help me with this.
+
+649
+01:05:22,120 --> 01:05:45,121
+I would say, I don't know whether people who have held on to anxiety and become resolute and anticipatorily resolute and authentic just lose it by lose it in the following way, by just seeing groundlessness and all three kinds of anxiety.
+
+650
+01:05:45,120 --> 01:05:53,680
+It seems to me once you've done it, managed to live authentically, it's complicated.
+
+651
+01:05:53,681 --> 01:05:59,600
+When you manage to live authentically, you'll see when you get laid further into division two, it's joyful.
+
+652
+01:05:59,921 --> 01:06:10,081
+And why would you want to flee this sort of heightened, rewarding sensitivity that you have when you're resolute dash?
+
+653
+01:06:10,080 --> 01:06:16,080
+However, I can't think of any place where he says that you don't, you don't flee it.
+
+654
+01:06:17,361 --> 01:06:19,840
+My hunch is he thinks that you don't.
+
+655
+01:06:19,841 --> 01:06:21,440
+But keep your eyes open.
+
+656
+01:06:21,761 --> 01:06:28,881
+Can you sort of, once you've been authentic, flee into inauthenticity, or is it a kind of state of grace?
+
+657
+01:06:32,480 --> 01:06:34,320
+Are you going to say something on this specific topic?
+
+658
+01:06:34,321 --> 01:06:35,600
+Okay, then we'll turn it down.
+
+659
+01:06:36,801 --> 01:06:40,640
+We're going to have a Sunday beetle from the part of how we get the resolution.
+
+660
+01:06:40,721 --> 01:06:42,480
+Keep repeating it all the time.
+
+661
+01:06:43,281 --> 01:06:46,161
+You just naturally cover things up.
+
+662
+01:06:46,160 --> 01:06:52,480
+I guess, I bet, my bet is that this is the very thing that he seems to be so ambivalent about.
+
+663
+01:06:53,201 --> 01:06:59,440
+It's this idea that we're all essentially always falling and have this tendency to flee.
+
+664
+01:06:59,440 --> 01:07:12,240
+And this other w a story that uh y you, what, that we are called by our conscience always to face up to what Dasein really is.
+
+665
+01:07:12,521 --> 01:07:19,881
+And we've got this we're always being pulled both ways and so we can always I'm just sort of getting inside the way you see it.
+
+666
+01:07:20,200 --> 01:07:33,960
+And so we uh can always laugh and not listen to the the voice of conscience which is calling us to be authentic and resolute and so forth and fall back into fleeing and taking it easy and so forth.
+
+667
+01:07:33,960 --> 01:07:35,080
+That might be so.
+
+668
+01:07:35,080 --> 01:07:43,080
+Can you remember to keep that but I mean I want to keep track of the issues that I don't know the answer to that I think.
+
+669
+01:07:43,320 --> 01:07:44,921
+Will somebody get there?
+
+670
+01:07:45,400 --> 01:07:46,601
+I'm just going to get a pen.
+
+671
+01:07:46,601 --> 01:07:52,040
+So I want to I want to look to keep your eyes open.
+
+672
+01:07:52,360 --> 01:08:06,761
+Does a pen and does authentic design fall back into fleeing.
+
+673
+01:08:07,080 --> 01:08:07,720
+Okay.
+
+674
+01:08:07,721 --> 01:08:08,520
+I don't know.
+
+675
+01:08:08,761 --> 01:08:09,000
+Yeah.
+
+676
+01:08:09,960 --> 01:08:12,280
+Once we talk about data.
+
+677
+01:08:12,280 --> 01:08:16,440
+So the example three forty eight is on the Fair Expensive.
+
+678
+01:08:16,441 --> 01:08:23,240
+So when we are already talking about Michael Jordan and he does be able, for example, to put that before him.
+
+679
+01:08:23,561 --> 01:08:27,801
+This situation is already browsed off for God on these.
+
+680
+01:08:27,801 --> 01:08:36,120
+So it's already as on 347, it says resolutions is already making that as manifest as it creates.
+
+681
+01:08:36,120 --> 01:08:51,240
+So I don't think that we can go inside that and think about how to go further than that situation, and how a resolution goes around situations and comes back over repeating those things.
+
+682
+01:08:51,240 --> 01:08:55,841
+Because browsering as a whole makes that situation appears as a law.
+
+683
+01:08:57,360 --> 01:09:22,400
+Yeah, but why can't I tell you sort of settled that, at least to my satisfaction, you you don't want to rule, say, para-collegiates and generally disabled people out of the possibility of being authentic and skillful within their factical limitations and say, no, sorry, they're not going to win any awards at ping pong, and then you say, so they couldn't be resolute.
+
+684
+01:09:22,801 --> 01:09:36,400
+That's so I think we have to say that, you know, resolute Dasein does a masterful job with whatever they've got as in their mind and in their mental and physical capacity.
+
+685
+01:09:38,240 --> 01:09:47,360
+I mean, who should say that, even if we don't, even if Heidegger doesn't, I mean, maybe you know, if he hasn't gotten to the Nazi stage with it, I think where he would rule them out.
+
+686
+01:09:49,921 --> 01:09:57,761
+As resoluteness, there are special ways of behavior belonging to the practical faculty, as contrasted with one that is theoretical.
+
+687
+01:09:58,320 --> 01:10:10,641
+However, as concerned tools are listed, so primordially unfolding things that it was already means to be supposed as a whole when we distinguish between theoretical and practical behavior.
+
+688
+01:10:10,801 --> 01:10:17,280
+You cannot perceive out of these faculties by dialectic, which doesn't make a painter on the algorithm.
+
+689
+01:10:17,761 --> 01:10:19,761
+Oh, well, that's a different issue.
+
+690
+01:10:19,761 --> 01:10:25,921
+That just says that this is deeper, this discussion of resoluteness, than theory and practice distinction.
+
+691
+01:10:25,921 --> 01:10:34,960
+You can be skillful in theory, you can be skillful with your microscope too, and in practice but in but still do science.
+
+692
+01:10:34,960 --> 01:10:55,160
+You could it's it's supposed to cut across all of them, you know, you can be skillful in dealing with people, that's the liciterature, but you therefore you can be resolute in your science, and then you would see the well, existential scientists are open.
+
+693
+01:10:56,521 --> 01:11:11,240
+Yeah, well, you would see that there are other ways of doing things, and you would, well, I'm just trying to, I could do it, but I don't want to talk about science right now.
+
+694
+01:11:11,481 --> 01:11:13,721
+But it's just more behavior.
+
+695
+01:11:13,721 --> 01:11:15,240
+I mean, just for the time being.
+
+696
+01:11:15,240 --> 01:11:20,280
+All human activity can be done resolutely.
+
+697
+01:11:20,280 --> 01:11:24,601
+And all human beings can do activities resolutely.
+
+698
+01:11:25,481 --> 01:11:27,641
+That's the disabled time.
+
+699
+01:11:27,641 --> 01:11:32,600
+And theory and practice can be done resolutely or not.
+
+700
+01:11:32,601 --> 01:11:38,040
+That is not meaning do it in a general sort of way, in which you were like a normal scientist.
+
+701
+01:11:38,040 --> 01:11:42,841
+I was thinking of that just doing what all the scientists do and thinking this is how it has to be done.
+
+702
+01:11:42,841 --> 01:11:50,200
+And then somebody like Fleming comes along and sees some old unknown in the past predicted is antibiotics.
+
+703
+01:11:50,200 --> 01:11:53,080
+And then you're not doing the normal thing.
+
+704
+01:11:53,080 --> 01:11:53,641
+That's all.
+
+705
+01:11:54,040 --> 01:11:56,440
+You could say it in any area, I think.
+
+706
+01:11:56,441 --> 01:11:58,200
+Now, yeah, okay.
+
+707
+01:12:01,960 --> 01:12:02,360
+Okay.
+
+708
+01:12:02,681 --> 01:12:12,280
+The existential attributes of any awkward, resolute Dasein include the items that you're supporting, which is called situation.
+
+709
+01:12:12,521 --> 01:12:18,200
+So in a situation, well, yes, except that that's exactly the wrong way to put it, according to this.
+
+710
+01:12:18,200 --> 01:12:22,040
+There isn't any situation until Dasein does something.
+
+711
+01:12:22,040 --> 01:12:27,801
+Otherwise, we're standing outside and and describing the situation, say, this is a situ I did it myself wrongly.
+
+712
+01:12:28,120 --> 01:12:32,721
+This this is a situation of gift giving and then I said and uh and the Dasein does it terrifically.
+
+713
+01:12:28,280 --> 01:12:34,641
+That is a situation of gift g giving.
+
+714
+01:12:34,721 --> 01:12:45,680
+Instead of uh poisoning the guy who's got all the money and the gifts or uh tricking him or something, that is it isn't just written on it that this is a situation of gift giving.
+
+715
+01:12:45,681 --> 01:12:54,560
+So uh the so Dasein, also resolute Dasein, defines the situation by acting a certain way in it.
+
+716
+01:12:54,561 --> 01:13:03,040
+Of course, irresolute, inauthentic Dasein has the sees the situation the way that they sees the situation and they see it all.
+
+717
+01:13:03,040 --> 01:13:10,400
+I mean, while I'm stuck with my penicillin story, I'm the they say throw out the mold in your Petri dish and start over again.
+
+718
+01:13:10,400 --> 01:13:14,560
+You don't you can't do any science with moldy with moldy germs.
+
+719
+01:13:14,561 --> 01:13:20,560
+And Fleming sees that this is this that the mold is filling the germs and that's what we're trying to do.
+
+720
+01:13:20,561 --> 01:13:24,881
+And that's and he doesn't see it the way the general situation.
+
+721
+01:13:24,881 --> 01:13:28,160
+And but uh and uh why?
+
+722
+01:13:28,801 --> 01:13:38,560
+And authentic Dasein always sees the specific situation and responds in a specific, concrete way.
+
+723
+01:13:38,561 --> 01:13:48,960
+I I avoid saying unique only in the sense that there's nothing that says that you couldn't different Dasein or the same one on another occasion couldn't do exactly the same thing.
+
+724
+01:13:48,960 --> 01:13:59,360
+It doesn't have to be unique, but it has to be concrete and specific and not general the the way the Dasein the way resolute Dasein sees the situation, yeah.
+
+725
+01:13:59,921 --> 01:14:22,280
+The authentic dollar the uh resolute Dahlia uh spoons here, or more homes, you serendipity sort of uh well, yeah, I I you make it sound sort of serendipity, but of course, Michael Williams making a basket or something, or some chess player, Bobby Paker, making a super move, isn't it?
+
+726
+01:14:22,360 --> 01:14:39,080
+Isn't serendipity exactly because it's because they spent years learning, failing, succeeding, living out in this risky area where they can't take the rules for granted and so forth, that they are able to we need another word than serendipity.
+
+727
+01:14:39,080 --> 01:14:43,000
+It's this doesn't Heidegger have a word for it?
+
+728
+01:14:44,280 --> 01:14:45,560
+That's right.
+
+729
+01:14:45,881 --> 01:14:46,600
+Yeah.
+
+730
+01:14:48,841 --> 01:14:54,360
+It's these things, he's thinking outside the box, where the box does what one would normally do.
+
+731
+01:14:54,761 --> 01:14:59,560
+He's not doing what one would normally do because he's a fronomous scientist.
+
+732
+01:14:59,561 --> 01:15:11,400
+And if he threw it all over and decided he could do it even better with acupuncture, that would be anticipatory resoluteness.
+
+733
+01:15:11,400 --> 01:15:14,280
+I mean, that would call the whole game into question.
+
+734
+01:15:14,280 --> 01:15:16,360
+You have to be facing death to do that.
+
+735
+01:15:16,360 --> 01:15:17,720
+He wasn't doing that.
+
+736
+01:15:18,040 --> 01:15:20,360
+Okay, one last thing, and then we should go on.
+
+737
+01:15:20,921 --> 01:15:23,721
+And authentic Heinball Heinz and fleeing.
+
+738
+01:15:23,721 --> 01:15:33,721
+And I think, generally, this idea of fleeing is our primordial theater being our deceased by everything that fleeing is something we're always doing or feeling or what is that?
+
+739
+01:15:33,721 --> 01:15:34,681
+Is that what you said?
+
+740
+01:15:35,240 --> 01:15:39,080
+It's where we normally start is in fleeing.
+
+741
+01:15:39,240 --> 01:15:40,280
+We are fleeing.
+
+742
+01:15:40,681 --> 01:15:41,480
+That's right.
+
+743
+01:15:42,120 --> 01:15:51,160
+That's because there is a tendency to cover up the unsettledness of the human beings.
+
+744
+01:15:51,481 --> 01:15:52,921
+I take it that's what you're saying.
+
+745
+01:15:52,921 --> 01:15:53,720
+Is that right?
+
+746
+01:15:53,721 --> 01:15:54,200
+Yeah.
+
+747
+01:15:54,200 --> 01:15:57,801
+I'm saying it partly because I think the people couldn't hear you otherwise.
+
+748
+01:15:57,801 --> 01:15:58,520
+Go ahead.
+
+749
+01:16:01,200 --> 01:16:06,960
+I think even though, if you are and you have fallen, you can't just ignore whether you have authorities.
+
+750
+01:16:06,960 --> 01:16:13,921
+And I think that if you do that, you're not really like working more about authenticity.
+
+751
+01:16:13,921 --> 01:16:16,000
+And I think that's the ultimate goal.
+
+752
+01:16:16,000 --> 01:16:17,681
+It's strongly like.
+
+753
+01:16:17,841 --> 01:16:20,080
+Ah, I see the bottom line what you just said.
+
+754
+01:16:20,080 --> 01:16:28,240
+If consciences have to be sort of constantly calling you to be authentic, then it must be, if you can't exist in it all the time.
+
+755
+01:16:28,240 --> 01:16:35,601
+I think you can all you could exist in it all the time, but you have to be resisting all the time the natural tendency.
+
+756
+01:16:35,601 --> 01:16:38,000
+It's sort of like gravity, he describes it in one place.
+
+757
+01:16:38,320 --> 01:16:39,200
+It's like falling.
+
+758
+01:16:39,200 --> 01:16:50,320
+I mean, there's a tendency sort of pulling you down, pulling you away, because it's something I have to say at the Tidegarian, though I don't really understand it.
+
+759
+01:16:50,320 --> 01:16:52,640
+It's somehow painful.
+
+760
+01:16:52,641 --> 01:16:53,601
+I don't know what to say.
+
+761
+01:16:53,601 --> 01:16:56,960
+Frightening, I can't say because there's no object.
+
+762
+01:16:56,960 --> 01:17:01,200
+What I really don't understand, and I put it on the table, and I don't think it's my problem.
+
+763
+01:17:01,200 --> 01:17:14,480
+I think it's a deep, deep, deep problem in Heidegger, is why you have a tendency to flee anxiety at all, given that as long as you haven't become authentic, I can understand why you flee it after all.
+
+764
+01:17:14,481 --> 01:17:22,080
+It's much more tranquilizing and reassuring to do things the way one does them and have principles that tell you what to do and so forth.
+
+765
+01:17:22,080 --> 01:17:34,641
+But once you've been authentic, you know that it's joyful, which is what he says, and that it wasn't so bad after all to be ungrounded and not have any principles to act on.
+
+766
+01:17:34,641 --> 01:17:43,000
+In fact, it's terrific not to be ungrounded and to be able to just immediately respond appropriately to the situation.
+
+767
+01:17:43,000 --> 01:17:46,520
+Then I don't understand what this pulse of falling is anymore.
+
+768
+01:17:46,841 --> 01:18:04,600
+Why should you be why either anxiety is an unpleasant bad thing, or it only looks like an unpleasant bad thing until you live in it, which is what I think he says, because the authentic Dasein, we've just been reading things like that.
+
+769
+01:18:04,601 --> 01:18:06,921
+I just wouldn't stress them.
+
+770
+01:18:06,921 --> 01:18:15,801
+Where you've got to do it all in the one, and that's not a problem if you relate rightly to the one.
+
+771
+01:18:16,441 --> 01:18:22,761
+That is, you have to be enough in the one to be intelligible.
+
+772
+01:18:22,761 --> 01:18:25,881
+And well, I think that's a different issue.
+
+773
+01:18:25,881 --> 01:18:26,841
+I cancel that.
+
+774
+01:18:27,721 --> 01:18:29,881
+We don't need to talk about that right now.
+
+775
+01:18:29,881 --> 01:18:38,520
+All I want to say is that it only looks frightening or whatever it is, upsetting, unsettling, let's say that.
+
+776
+01:18:39,000 --> 01:18:56,841
+It is only unsettling that there is no ground which can tell you how to behave in any domain if you have been brought up with the rules, as everybody has been.
+
+777
+01:18:56,841 --> 01:19:18,200
+Once you see that you could act appropriately and moreover, joyfully in not following any rules and responding to the concrete situation, then I don't understand why anybody would want to flee back into the inauthentic way of life.
+
+778
+01:19:18,521 --> 01:19:22,040
+But that's and that's my, so I don't know how to answer you.
+
+779
+01:19:22,040 --> 01:19:28,520
+I mean, I think I think I think really, in a way, you're right about Heidegger and Heidegger is wrong.
+
+780
+01:19:28,521 --> 01:19:34,320
+That is, you're right that Heidegger thinks that there's always a tendency to free anxiety.
+
+781
+01:19:34,320 --> 01:19:42,960
+And I don't understand what right Heidegger has to say that there is always a tendency to free anxiety unless he builds into Dasein a tendency to want to have everything grounded.
+
+782
+01:19:42,960 --> 01:19:46,640
+But why does Dasein have a tendency to want to have everything grounded?
+
+783
+01:19:46,641 --> 01:19:48,560
+But that's not what I want to talk about today.
+
+784
+01:19:48,721 --> 01:19:57,200
+But you've given me the transition in a way, because the second piece of what I wanted to talk about, by the way, I brought this because it showed up in my office.
+
+785
+01:19:57,280 --> 01:19:58,881
+Did anybody lose a black glove?
+
+786
+01:19:59,120 --> 01:20:03,200
+It's not the appropriate moment, but I will forget it otherwise.
+
+787
+01:20:03,200 --> 01:20:04,080
+Okay.
+
+788
+01:20:06,240 --> 01:20:10,480
+So what about this call of conscience and why is it silent?
+
+789
+01:20:10,481 --> 01:20:12,721
+And what is it calling you to do?
+
+790
+01:20:12,721 --> 01:20:13,681
+That's the other thing.
+
+791
+01:20:13,681 --> 01:20:17,520
+It's another angle on the same questions, of course.
+
+792
+01:20:18,000 --> 01:20:31,841
+But conscience is sort of pulling you, you know, summoning you, making some kind of imperatives, but it's not telling you anything specific that you could do.
+
+793
+01:20:31,841 --> 01:20:34,160
+That's the sense in which it's silent.
+
+794
+01:20:34,160 --> 01:20:38,240
+And it seems to be silent at several levels.
+
+795
+01:20:38,240 --> 01:20:43,761
+And this is what I'm not sure, whether Heidegger is saying this or whether I'm making it up.
+
+796
+01:20:43,761 --> 01:20:50,240
+But I think that there's a silence, so to speak, at the top and at the bottom of behavior.
+
+797
+01:20:50,240 --> 01:20:59,440
+By that I mean conscience is calling you to be authentic and do whatever your calling is.
+
+798
+01:21:00,240 --> 01:21:06,160
+And your calling is not to be a banker or a teacher, but something very more general.
+
+799
+01:21:06,160 --> 01:21:16,360
+Your calling is to do, to be a world-disclosing, transparent being of Dazine activity.
+
+800
+01:21:13,761 --> 01:21:18,120
+That's the highest thing.
+
+801
+01:21:18,280 --> 01:21:21,801
+You're being called to be authentic, to be just.
+
+802
+01:21:21,801 --> 01:21:26,600
+But you're also, at the most basic level, being called.
+
+803
+01:21:26,601 --> 01:21:27,801
+I mean, let me start again.
+
+804
+01:21:27,801 --> 01:21:28,761
+I'm not being good.
+
+805
+01:21:28,761 --> 01:21:33,400
+I'm trying to understand why the call of conscience is silent.
+
+806
+01:21:33,400 --> 01:21:37,960
+Why there is something that consciousness calls you to do that cannot be said.
+
+807
+01:21:38,280 --> 01:21:42,360
+And I think one of the things it calls you to do is just to be authentic.
+
+808
+01:21:42,360 --> 01:21:44,600
+And there's nothing more we can say about that.
+
+809
+01:21:44,601 --> 01:21:47,480
+Each person will have to do it in their own way.
+
+810
+01:21:47,481 --> 01:21:50,200
+You just have to answer that calling.
+
+811
+01:21:50,681 --> 01:21:53,960
+It's not a calling like being a monk or a doctor.
+
+812
+01:21:54,601 --> 01:21:56,440
+That's, I don't think.
+
+813
+01:21:56,761 --> 01:22:03,720
+But then there's the bottom, there's also something calling you, which has to be silent.
+
+814
+01:22:03,721 --> 01:22:09,160
+And that's the unique situation calling from you the appropriate response.
+
+815
+01:22:09,160 --> 01:22:18,040
+That's just to say conscience can't tell you in this, this is a social situation, and in that kind of situation, do such and such.
+
+816
+01:22:18,040 --> 01:22:28,120
+It's got to be silent about often, down to the most basic level, where it can't even tell you sort of sort of what the doors are for going out.
+
+817
+01:22:28,120 --> 01:22:32,040
+And in this situation, you see it as a door, and therefore you go out.
+
+818
+01:22:32,040 --> 01:22:35,960
+All that's much too much talking for much too much talking.
+
+819
+01:22:36,521 --> 01:22:38,520
+That's a bottom level of acting.
+
+820
+01:22:38,521 --> 01:22:41,721
+You simply respond to the two go-out.
+
+821
+01:22:42,521 --> 01:22:47,641
+I don't know, but it seems to me that's one other way conscience is silent.
+
+822
+01:22:47,641 --> 01:22:53,320
+Maybe it's, I mean, I feel like not saying it because conscience is such a fancy word.
+
+823
+01:22:53,320 --> 01:22:57,000
+It ought to apply to the calling to be authentic.
+
+824
+01:22:57,000 --> 01:23:04,160
+But after all, we're trying to make conscience mean, I think, something, you know, where we're doing the formal indication.
+
+825
+01:23:04,481 --> 01:23:11,761
+And maybe conscience is any silent calling that brings Dasein out at its best.
+
+826
+01:23:11,761 --> 01:23:28,400
+And that's from the top to the bottom, from the silent calling of the world of skillful coping and quo to the silent calling that keep telling you be what Dasein manifests in your behavior what Dasein is.
+
+827
+01:23:28,400 --> 01:23:29,921
+It could be any of those.
+
+828
+01:23:29,921 --> 01:23:34,480
+I mean, I take it that Heidegger is only here anyway.
+
+829
+01:23:34,561 --> 01:23:45,680
+This passage is interested in Dasein, conscience calling Dasein to be authentic in the sense of not doing what the anyone does.
+
+830
+01:23:45,921 --> 01:23:53,440
+Now I'm back to my other thing, but that's also true of the expert in science and in test and even in going outdoors.
+
+831
+01:23:53,441 --> 01:24:05,440
+And if there is some, maybe Vahe, who is a student here and wrote a highest honors thesis, said that there's no such thing as the authentic way to wash your hands.
+
+832
+01:24:05,441 --> 01:24:06,400
+And maybe that's right.
+
+833
+01:24:06,400 --> 01:24:11,841
+Maybe going outdoors, going out of door, is something you just do in a general sort of way.
+
+834
+01:24:11,841 --> 01:24:28,080
+But there's a whole range of stuff that you do that is, you do in responding to the unique situation or the concrete situation, which won't be put into words in terms of rules and principles and standards.
+
+835
+01:24:29,681 --> 01:25:06,040
+And if it's the they, that is the the one, that is d responds to the general situation, an authentic Dasein doesn't respond to the auth to the general situation, but to the concrete situation, and that's what conscience calls Dasein to do, respond to the concrete situation, then I want to say, look at that, that's a huge spectrum of activity from the most basic kind of coping to the very special sort of existentialist thing, the authentic.
+
+836
+01:25:06,040 --> 01:25:10,520
+Okay, I don't know if I have more to say about that, so let me look, maybe not.
+
+837
+01:25:10,921 --> 01:25:30,040
+I'm trying to understand why conscience must be silent, and the answer is sort of, well, though it can't tell you how to be, you know, to face up to what it is to be Dasein, to be authentic in everything you do, to manifest your throwiness in your and your being unto death and your behavior.
+
+838
+01:25:30,040 --> 01:25:38,040
+But also, it can't be calling you to do all sorts of everyday appropriate things.
+
+839
+01:25:38,040 --> 01:25:48,440
+I'm sorry, what did I it can't tell you the general rules for how to be Dasein, and it can't tell you any general rules for how to be good at anything.
+
+840
+01:25:48,601 --> 01:25:49,400
+Let me read it.
+
+841
+01:25:49,881 --> 01:25:53,080
+The situation of authentic action is concrete and specific.
+
+842
+01:25:53,240 --> 01:25:54,921
+It's not based on a life plan.
+
+843
+01:25:54,921 --> 01:25:56,200
+Oh, I wanted to get to that.
+
+844
+01:25:57,080 --> 01:26:02,521
+Throwing this.
+
+845
+01:26:03,721 --> 01:26:04,200
+I see.
+
+846
+01:26:04,200 --> 01:26:09,240
+Well, I I said it better when I wrote it here, so I'll say it as I think as I said it here.
+
+847
+01:26:09,240 --> 01:26:12,200
+And I want to talk about both of these, and we have time.
+
+848
+01:26:13,240 --> 01:26:20,600
+I think that conscience calls you to resolute constant is one issue.
+
+849
+01:26:20,601 --> 01:26:30,400
+And the other is the forenasic issue, that conscience calls you to concrete specific.
+
+850
+01:26:31,040 --> 01:26:36,801
+And resolute boy, I'm not as happy with what I've written here with what I'm trying to say.
+
+851
+01:26:36,801 --> 01:26:38,160
+Let me keep trying.
+
+852
+01:26:39,120 --> 01:26:39,761
+Okay.
+
+853
+01:26:39,761 --> 01:26:41,681
+I'll just sort of try to blurt it out.
+
+854
+01:26:41,681 --> 01:26:46,561
+The silence of the call of conscience, I'll say it by in terms of what it's denying.
+
+855
+01:26:46,641 --> 01:26:48,881
+That's all all we've held for.
+
+856
+01:26:48,881 --> 01:26:58,000
+So the sil the conscience can't use any language that's called you to be an authentic diaspora.
+
+857
+01:26:58,160 --> 01:27:00,000
+Then what is that denying?
+
+858
+01:27:00,000 --> 01:27:07,761
+Well, that's denying that you can have a kind of narrative that describes who you are and justifies what you're doing.
+
+859
+01:27:07,761 --> 01:27:14,801
+The whole paper, the Roost paper, the anti-Husteral in this, but it could be, I think, anti-Kant.
+
+860
+01:27:15,441 --> 01:27:25,921
+That is and it's it's the statement that it's not any kind of principles or anything like that that should give you any kind of guidelines in life.
+
+861
+01:27:25,921 --> 01:27:33,120
+The things show up for you as mattering, and that forms the background of your action, and you can't get behind that.
+
+862
+01:27:33,120 --> 01:27:34,561
+That's the Root paper.
+
+863
+01:27:34,561 --> 01:27:56,960
+That's one of the things that silent conscience tells you is you're guilty, and that means that there's the what what kind of self you are or who you are isn't something that you can and w what you do after interacting at your best isn't something that you can uh justify.
+
+864
+01:27:56,960 --> 01:27:58,480
+You can't say anything about it.
+
+865
+01:27:58,481 --> 01:28:00,721
+That's you're just called to do it.
+
+866
+01:28:00,960 --> 01:28:03,360
+One of the so I want to we'll discuss both of these.
+
+867
+01:28:03,360 --> 01:28:24,761
+There's the Roots anti-Kantian, you the anti-autonomy, that there's m that when your conscience is silent because there's nothing you can say about what the right thing to do is, authentic Dasein is just able to do the appropriate thing at the appropriate time in the appropriate way, period.
+
+868
+01:28:24,761 --> 01:28:31,881
+And the other thing is that you always are responding.
+
+869
+01:28:31,881 --> 01:28:33,160
+This is at the top level.
+
+870
+01:28:33,160 --> 01:28:41,480
+Remember, I said at the bottom level, you were always responding to the concrete solicitations of the situation.
+
+871
+01:28:41,481 --> 01:28:44,040
+And that's, what's the opposite of that?
+
+872
+01:28:44,040 --> 01:28:46,440
+Well, what's the opposite of that is cognitivism.
+
+873
+01:28:46,441 --> 01:29:00,841
+That there are standard rules for playing good fetch or for coping or for driving or for anything, and that you could learn to obey the best rules and learn to follow them.
+
+874
+01:29:02,761 --> 01:29:14,040
+So one of the ways conscience is silent is calling you to be yourself, to visit whatever that is, and it can't tell you anything about how to do it or what it is to do it.
+
+875
+01:29:14,040 --> 01:29:27,080
+And the other thing is it's calling you to respond to the concrete situation, to do the appropriate thing at the appropriate time in the appropriate way, and it can't tell you what the situation is or what the appropriate thing to do is.
+
+876
+01:29:27,400 --> 01:29:34,921
+So the silence of conscience is against two kinds of conceptualism.
+
+877
+01:29:34,921 --> 01:29:48,280
+That is, there's the conceptualism that goes with thinking that you can have a worked-out account of who you are, where I want to see where I put it in terms of conceptualism here.
+
+878
+01:29:48,280 --> 01:29:56,761
+Well, I don't em opposes I was I wrote Kantianism on the one hand and opposes conceptualism on the other, although I think it should be both of them.
+
+879
+01:29:56,761 --> 01:30:12,641
+So I'm going to read it to see why I think it's for Heidegger when acting at his best, the resolute design is responding to the unique situation, both responding in an overall to an overall calling that can't be conceptualized because it's on a background that can't be conceptualized.
+
+880
+01:30:12,641 --> 01:30:14,720
+That's rude story.
+
+881
+01:30:14,721 --> 01:30:27,440
+And you're acting with masterful skill that can't be conceptualized because there are no principles that dictate what the situation is and what an appropriate response to that situation is.
+
+882
+01:30:27,441 --> 01:30:36,640
+So the whole style of the silence of the call of conscience is Heidegger's anti-conceptualism, I want to say, on the two most basic levels.
+
+883
+01:30:36,641 --> 01:30:45,600
+The top level of what it is to be you and the bottom level of what it is to respond to the by hoping to the current situation.
+
+884
+01:30:45,601 --> 01:30:51,040
+Now I've got pages for those things, so let me just no, let's just do them.
+
+885
+01:30:51,040 --> 01:30:58,160
+I mean you well let me read you, let's start with you, because I want to certainly talk about it.
+
+886
+01:30:58,400 --> 01:31:15,680
+The whole silence of the call of conscience is and the fact and the fact that you can't get behind your thrownness is obviously meant to be a critique of a position where you can be autonomous, where you should understand what you're doing and be able to justify what you're doing.
+
+887
+01:31:15,681 --> 01:31:25,360
+And he's saying, no, that's all part of the anyone, that if you are authentic, you can't put what you're doing into words at all.
+
+888
+01:31:25,360 --> 01:31:38,160
+And when he talked about it, I like what Ruth says at times, and that's why I I ask you to read it, because I guess you can just say, oh, well, Heidegger says you can't get behind your throwiness.
+
+889
+01:31:38,160 --> 01:31:39,761
+That's where this comes in.
+
+890
+01:31:40,080 --> 01:31:54,360
+And you can't sort of proves to be you for reasons you can give, and you can't describe who you are by telling a story or by getting properties of who you are.
+
+891
+01:31:54,360 --> 01:31:58,040
+And the question is: what's the phenomena of that?
+
+892
+01:31:58,040 --> 01:32:06,680
+And the whole thing hinges on moods, only it goes by very fast.
+
+893
+01:32:07,240 --> 01:32:09,400
+Let's see if I can find it here.
+
+894
+01:32:09,721 --> 01:32:14,040
+Well, maybe I should find it over here.
+
+895
+01:32:14,040 --> 01:32:15,560
+No, but do you remember that?
+
+896
+01:32:15,561 --> 01:32:26,200
+Abraham Heidegger just at one point says that what you do is a question of your disposingness.
+
+897
+01:32:26,441 --> 01:32:27,000
+Here it is.
+
+898
+01:32:27,000 --> 01:32:31,000
+Okay, 330, the end of the top paragraph.
+
+899
+01:32:31,000 --> 01:32:34,040
+It's about thrown, being itself.
+
+900
+01:32:34,360 --> 01:32:37,400
+Throwiness, however, does not lie behind it.
+
+901
+01:32:37,400 --> 01:32:38,520
+Let's have to back up.
+
+902
+01:32:38,521 --> 01:32:52,520
+An existent as existence, Dasein never comes back behind its throwness in such a way that it might first release this that it is that has to be from its being itself and lead it into the there.
+
+903
+01:32:52,521 --> 01:33:00,921
+Thrownness, however, does not lie behind it as some event which has happened to Dasein, salted, befallen it, fallen, and so forth.
+
+904
+01:33:00,921 --> 01:33:06,360
+On the contrary, as long as Dasein is, Dasein has care, is constantly its that it is.
+
+905
+01:33:06,521 --> 01:33:12,040
+All this is very obscure, but I think I know what he's getting at.
+
+906
+01:33:12,040 --> 01:33:20,841
+It has been delivered over, and as such, it can exist solely as the entity which it is, and as this entity to which it has been thus delivered over.
+
+907
+01:33:20,841 --> 01:33:42,080
+It is in its existing, the basis of its ability to be, although it is not laid, this is the crucial sentence, although it has not laid the basis itself, it reposes in the weight of it, which is made manifest through it as a burden of Dasein's mood.
+
+908
+01:33:42,080 --> 01:33:45,681
+That's the only mention of it, but that's the crucial issue.
+
+909
+01:33:45,681 --> 01:33:58,960
+The crucial thing is to say, finally, you are defined by what matters to you in your world and what draws you to respond to it in your world.
+
+910
+01:33:58,960 --> 01:34:10,000
+And you can't decide what matters to you or ultimately even, I think, resist what matters to you because it's more basic than that.
+
+911
+01:34:10,000 --> 01:34:21,280
+It just shows up as these things are to be done and these things show up as to be avoided, and this situation shows up as to be taken a risk in, and so forth.
+
+912
+01:34:21,280 --> 01:34:26,240
+It's not as if there's anything else you can say about it.
+
+913
+01:34:26,240 --> 01:34:28,960
+I want to see if now I want to read what.
+
+914
+01:34:31,040 --> 01:34:39,921
+And I like what Ruth does when he says from Merlot Ponte, well, let me start at the bottom of page six.
+
+915
+01:34:40,881 --> 01:34:42,641
+Heidegger provides the key.
+
+916
+01:34:42,641 --> 01:34:48,240
+We've seen that everyday Dasein pre-reflexively projects upon possibilities, but which possibilities?
+
+917
+01:34:48,240 --> 01:34:55,120
+We need to examine Heidegger's conception of the Finnliche, that is, disposedness and attunement.
+
+918
+01:34:55,120 --> 01:35:03,280
+With these, Heidegger means to capture the way in which things and possibilities are always already matter to Dasein in some particular way.
+
+919
+01:35:03,280 --> 01:35:11,841
+Then he quotes: Dasein, as essentially disposed, has already got itself into definite possibilities.
+
+920
+01:35:12,881 --> 01:35:18,440
+Moreover, by way of having an attunement, Dasein sees possibilities in terms of which it is.
+
+921
+01:35:19,000 --> 01:35:26,120
+These possibilities, he then quotes Marilo-Ponty, polarize the perceptual field and the field of action.
+
+922
+01:35:26,120 --> 01:35:49,881
+That means we're just called to do certain things at the level of basketball playing and soccer playing, which Marlot Ponty talks about, and at the level of how we relate to others, and at the level of how we relate to our vocation, which we don't, the vocation is much too conceptual and linguistic way to talk about it, and the world is polarized.
+
+923
+01:35:49,881 --> 01:36:09,400
+I mean, looking back on it and so forth, I can say my world is polarized by being a teacher, but it is in fact, but I don't, but I'm, the way things show up as mattering and how I'm called to be a teacher is sort of day by day, different things matter to me and make me happy and make me unhappy and so forth.
+
+924
+01:36:09,400 --> 01:36:14,921
+So that's the first thing I want to talk about.
+
+925
+01:36:16,040 --> 01:36:32,440
+Is this a devastating criticism of a whole conceptualist view of what it is to be a self and what it is to, and what ultimate requirements there are on acting?
+
+926
+01:36:33,561 --> 01:36:37,400
+And remember, the clue is conscience is silent.
+
+927
+01:36:37,400 --> 01:36:49,801
+That's just the opposite of saying conscience is drawing us to do something or other particular that we can describe, even if it's very abstract, like be autonomous.
+
+928
+01:36:49,921 --> 01:37:02,240
+You can't even you can't say consciousness is requiring you to do that because that would require, according to the way Heidegger's setting it up, that you could be lucid about the background out of which to act.
+
+929
+01:37:02,561 --> 01:37:08,000
+And the background has got to be, remember, I read the passage last time in the origin of the work of art.
+
+930
+01:37:08,000 --> 01:37:13,120
+Something unclear, something murky and unsettled, he says there.
+
+931
+01:37:13,120 --> 01:37:15,600
+That's probably not the best way to put it.
+
+932
+01:37:15,601 --> 01:37:42,721
+I think the best way to put it is that the way mattering polarizes your world is so pervasive and so ungeneral and undescribable that you just are what you always Dasein is what he does, you know, or in this case, and I want to add now.
+
+933
+01:37:42,721 --> 01:37:44,320
+Heidegger wants to add now.
+
+934
+01:37:44,320 --> 01:37:47,680
+And what Dasein does depends on what matters to it.
+
+935
+01:37:47,681 --> 01:37:51,520
+And what matters to it isn't anything that you can say anything about.
+
+936
+01:37:51,521 --> 01:37:54,480
+You can only and you can hardly even see it.
+
+937
+01:37:54,481 --> 01:37:56,801
+It's so basic.
+
+938
+01:37:56,801 --> 01:38:06,640
+And I guess the bottom line is: all acting is acting on a background that you can be lucid about with his basic thesis.
+
+939
+01:38:06,641 --> 01:38:09,600
+Now, does that matter?
+
+940
+01:38:09,601 --> 01:38:36,480
+I mean, I'm looking at Eugene because I know that he, I mean, the main enemy I think now living is Professor Korsgaard at Harvard, who's Kantian, who I think would deny all this, although maybe it's not, maybe there's no incompatibility between all this claiming of Heidegger of the silence of conscience and the mind get-behind your throwiness and the way it's all finally bottoms out in mattering and disposing of this.
+
+941
+01:38:36,561 --> 01:38:37,681
+Is there a conflict?
+
+942
+01:38:38,040 --> 01:38:41,721
+People have all conventions with him as in part.
+
+943
+01:38:42,040 --> 01:38:43,160
+There's active reasoning.
+
+944
+01:38:43,400 --> 01:38:45,480
+The fact is that he gets back and again.
+
+945
+01:38:45,561 --> 01:38:46,681
+Get out of there, you can't be.
+
+946
+01:38:47,160 --> 01:38:49,080
+Is it silent or does it say something?
+
+947
+01:38:50,761 --> 01:38:51,720
+Oh, okay.
+
+948
+01:38:52,040 --> 01:38:53,320
+Okay, that's a disagreement.
+
+949
+01:38:53,320 --> 01:39:04,360
+That there's some content in this calling that you have, that you cannot, that is imperative, and categorially imperative, not just hypothetically imperative.
+
+950
+01:39:04,360 --> 01:39:07,400
+There is such a call, and they share that, absolutely.
+
+951
+01:39:08,601 --> 01:39:14,520
+That the calling can be put into words and put into the whole critique of practical reason and Kant and so forth.
+
+952
+01:39:15,160 --> 01:39:17,080
+That's what Heidegger denies.
+
+953
+01:39:17,080 --> 01:39:28,921
+And the denial is really a story about whether you act on a background which you can't make into a foreground, and that's got to do with your throwiness and disposiveness.
+
+954
+01:39:28,921 --> 01:39:32,841
+The silence finally turns out to be.
+
+955
+01:39:32,841 --> 01:39:49,720
+I think Heidegger has it already, and that when he says that you repose in the weight of your mood, and Ruth tells it out pretty well, it turns out that the final level of mattering is something you just can't put into words and you can't sort of dictate to what it's going to be.
+
+956
+01:39:49,721 --> 01:39:56,761
+And it tells you who you are and what your world is in a way that you have to just do it.
+
+957
+01:39:56,761 --> 01:39:57,881
+You can't say it.
+
+958
+01:39:57,881 --> 01:40:00,360
+That's the story, I think.
+
+959
+01:40:00,360 --> 01:40:00,841
+What?
+
+960
+01:40:01,481 --> 01:40:02,841
+The final level of mattering is mood.
+
+961
+01:40:02,841 --> 01:40:06,921
+That's the pattern of that little line I is what disposive mood?
+
+962
+01:40:06,921 --> 01:40:07,881
+Is mood, yes.
+
+963
+01:40:07,881 --> 01:40:09,400
+Mood, that's what he says.
+
+964
+01:40:09,400 --> 01:40:14,360
+We seem to use all the tangents about how you're always writing inner mood and pretty horrors of you.
+
+965
+01:40:14,681 --> 01:40:18,040
+Because that's the only way you can sometimes be able to do it.
+
+966
+01:40:20,080 --> 01:40:23,320
+And what would lead you to do that would just be another mood, I think.
+
+967
+01:40:23,320 --> 01:40:24,681
+That's the bottom line for him.
+
+968
+01:40:26,761 --> 01:40:28,841
+The contents might be calling you.
+
+969
+01:40:35,360 --> 01:40:37,200
+The regress is the crucial point.
+
+970
+01:40:37,200 --> 01:40:55,761
+For him, there's nothing sort of beyond or behind the fact that there are moods and there are moods that are calling you to get out of moods so you can use moods against your moods, but that the world is always insofar as anything matters and you do anything, it's always because you're always already in a mood.
+
+971
+01:40:55,761 --> 01:41:00,721
+Is that the conscience really doesn't call you to alter that anyway?
+
+972
+01:41:00,801 --> 01:41:05,120
+Um it's the other thing, they're always ready to move certain things, but you don't matter anything.
+
+973
+01:41:05,120 --> 01:41:08,240
+But the content calls you to counter the mood you're always taking more.
+
+974
+01:41:08,400 --> 01:41:12,240
+Well, the first question, does he call you silently or does it say don't be grumpy?
+
+975
+01:41:16,320 --> 01:41:26,721
+But it's time to account for the mood, you've been trying to but it's there's there's a purpose there, not just taking over the mood when things matter to you, but you're there's a big basis here.
+
+976
+01:41:27,200 --> 01:41:29,440
+I I don't remember where he says that.
+
+977
+01:41:29,441 --> 01:41:37,280
+I mean, I remember he says you can only get rid of a mood by way of a counter mood, but where does it say that anything is calling you to get rid of any mood?
+
+978
+01:41:38,080 --> 01:41:41,841
+There's an interpretation of the content of the whole content.
+
+979
+01:41:41,841 --> 01:41:44,000
+And whereas you're saying that it doesn't have much.
+
+980
+01:41:44,000 --> 01:41:51,680
+It what matters to you that the mood presently reads the Finnish tag is disposiness in the jargon of last semester, yeah.
+
+981
+01:41:54,721 --> 01:41:59,841
+It tells you not just to take over the mood that you're you find yourself in, but rather to deploy.
+
+982
+01:42:00,561 --> 01:42:01,521
+Well, it's true.
+
+983
+01:42:01,681 --> 01:42:03,040
+I I see the point.
+
+984
+01:42:03,040 --> 01:42:04,400
+Let's let people talk about it.
+
+985
+01:42:04,400 --> 01:42:06,801
+But first, him, because he hasn't said anything.
+
+986
+01:42:06,841 --> 01:42:11,040
+Well, we do have a capacity, a sort of small capacity to change our mood.
+
+987
+01:42:11,040 --> 01:42:13,960
+We can go to a party and hope that it'll change.
+
+988
+01:42:13,960 --> 01:42:14,680
+Really?
+
+989
+01:42:13,360 --> 01:42:17,240
+That's not what Heidegger thinks.
+
+990
+01:42:17,400 --> 01:42:21,641
+I think Heidegger thinks that, oh, well, or Pozak or something.
+
+991
+01:42:21,641 --> 01:42:23,560
+No, but that's not fair.
+
+992
+01:42:23,561 --> 01:42:24,040
+I mean, he's.
+
+993
+01:42:24,841 --> 01:42:31,960
+I want to point out that you're in the negative contact are there own motivations to evolve, like lightning blocks be around.
+
+994
+01:42:32,200 --> 01:42:34,280
+You're not motivated to reveal that there is no.
+
+995
+01:42:35,881 --> 01:42:46,280
+I think Heidegger thinks that your feelings are somehow not motivated.
+
+996
+01:42:46,280 --> 01:42:53,561
+They just come over you like an atmosphere, and they are global so that you don't have any place outside of them.
+
+997
+01:42:53,561 --> 01:43:03,160
+When everything looks depressing, then there's no way to do anything about it in a Heidegger picture because anything you drag in to help will be also depressing.
+
+998
+01:43:03,160 --> 01:43:05,881
+And if you're taking co-op, that'll be depressing.
+
+999
+01:43:06,200 --> 01:43:24,360
+Well, yes, but it's well, okay, but then Heidegger just isn't in, doesn't think either, and I can't tell whether Heidegger's going to just deny that or he's going to say, but even whether you want to modify your behavior is already part of the mood.
+
+1000
+01:43:24,360 --> 01:43:29,641
+And if you're in a sullen mood, then you want to be sullen.
+
+1001
+01:43:29,641 --> 01:43:34,120
+It isn't as if you would like to be fearful and friendly.
+
+1002
+01:43:34,360 --> 01:43:41,000
+It covers everything, and it seems to reveal, I guess the point is, the Muslims reveal the way things really are.
+
+1003
+01:43:41,000 --> 01:43:51,560
+And if they're really the sort of full of brightness and opportunity, then everything is full of brightness and opportunity, and nothing will pull you down.
+
+1004
+01:43:51,561 --> 01:43:57,320
+And if they're full of sort of darkness and gloom, then everything is full of darkness and gloom.
+
+1005
+01:43:57,320 --> 01:44:01,921
+And you can't just say, boy, is it unpleasant being darkness and gloomy and cheer up?
+
+1006
+01:43:58,761 --> 01:44:03,200
+Now, maybe there are techniques.
+
+1007
+01:44:03,200 --> 01:44:04,240
+I'm not going to deny it.
+
+1008
+01:44:04,240 --> 01:44:04,881
+I don't know.
+
+1009
+01:44:05,040 --> 01:44:09,280
+Heidegger's wrong that there are techniques for getting you out of your mood.
+
+1010
+01:44:09,280 --> 01:44:12,720
+And you can go to a therapist and you can certainly you can take a pill.
+
+1011
+01:44:12,721 --> 01:44:20,320
+But let's just, for the time being anyway, let's just understand it as any what anybody can do on their own without therapists and without pills.
+
+1012
+01:44:21,040 --> 01:44:23,440
+Oh, you've talked and you've talked out and you've talked.
+
+1013
+01:44:23,601 --> 01:44:26,240
+Anybody want to say something who hasn't said anything?
+
+1014
+01:44:26,561 --> 01:44:27,681
+If there's any why?
+
+1015
+01:44:28,000 --> 01:44:32,960
+We're not without the philosophy terms on the videos and all the learning.
+
+1016
+01:44:33,280 --> 01:44:35,040
+Well, but there isn't anything.
+
+1017
+01:44:35,360 --> 01:44:38,721
+If we're already so in a mood, why isn't it completely deterministic?
+
+1018
+01:44:38,721 --> 01:44:40,801
+Okay, let me think about that.
+
+1019
+01:44:42,320 --> 01:44:48,400
+It's not deterministic, surely, in some kind of science determinism way.
+
+1020
+01:44:48,721 --> 01:44:56,000
+It does take away your freedom to decide what matters to you.
+
+1021
+01:44:56,641 --> 01:45:03,200
+And I don't know whether Andy, is that deterministic?
+
+1022
+01:45:05,921 --> 01:45:11,440
+I think the answer somehow is calling it deterministic doesn't help any.
+
+1023
+01:45:11,521 --> 01:45:16,641
+It's something like saying, well, you should be able to choose your mood and look at this you can't.
+
+1024
+01:45:16,801 --> 01:45:25,761
+Mood just work that way, and you're never sort of outside the mood where you're freely deciding what mood to be in, according to Heidegger.
+
+1025
+01:45:25,761 --> 01:45:26,801
+That's your throwin' it.
+
+1026
+01:45:27,841 --> 01:45:31,360
+It's saying deterministic, how about saying it's your throwiness?
+
+1027
+01:45:31,921 --> 01:45:33,520
+That's his way of putting it.
+
+1028
+01:45:33,521 --> 01:45:38,160
+And it just makes it doesn't sound like somehow your molecules are driving you to be a certain way.
+
+1029
+01:45:38,160 --> 01:45:39,921
+It's not that kind of determinism.
+
+1030
+01:45:39,921 --> 01:45:41,520
+He's not interested in that.
+
+1031
+01:45:41,521 --> 01:45:46,040
+That there is something he calls thrownness, and that you can't get behind it.
+
+1032
+01:45:46,360 --> 01:45:58,280
+And that means that you can't step outside your global moods and choose other ones, though sometimes you can do something to help.
+
+1033
+01:45:58,681 --> 01:46:07,160
+The general idea is that your whole space is polarized by this by mattering.
+
+1034
+01:46:09,320 --> 01:46:24,440
+And we were having this with Tyler, there's no way Dasein can get to a point where it hasn't always already taken on some mattering or other and decide or choose which mattering to take on.
+
+1035
+01:46:24,921 --> 01:46:25,881
+That's the point.
+
+1036
+01:46:26,441 --> 01:46:29,881
+I'm glad we're having it because it's a strong claim.
+
+1037
+01:46:29,881 --> 01:46:31,960
+I think it's time to give us true.
+
+1038
+01:46:32,280 --> 01:46:35,960
+I think that that's sort of the logic of mattering.
+
+1039
+01:46:35,960 --> 01:46:51,160
+That thing that there is always already a way that things matter, and it's only on the basis of that that we can sort of to some extent change the way things matter, but always from within the way things matter to us now.
+
+1040
+01:46:51,160 --> 01:46:51,960
+You look worried.
+
+1041
+01:46:53,881 --> 01:46:54,601
+Good question.
+
+1042
+01:46:54,601 --> 01:46:56,761
+Why does it show that you're the silent?
+
+1043
+01:46:56,761 --> 01:47:10,761
+It's the way that it is so pervasively, the mattering is such a pervasive background that it's invisible to the people in it.
+
+1044
+01:47:10,761 --> 01:47:14,360
+And I think unnameable, but I don't know whether it's unnameable.
+
+1045
+01:47:14,681 --> 01:47:17,560
+I think it's unnameable because it's again so concrete.
+
+1046
+01:47:17,561 --> 01:47:19,960
+I mean, you can say general things to yourself.
+
+1047
+01:47:19,960 --> 01:47:34,160
+I'm a grumpy person, but you're certainly so uniquely grumpy in the general generality of that basis is something that you can't say anything illuminating about it.
+
+1048
+01:47:35,280 --> 01:47:35,921
+What do you think?
+
+1049
+01:47:35,921 --> 01:47:37,440
+Why is it kind of?
+
+1050
+01:47:37,441 --> 01:47:38,881
+I still have a conscience.
+
+1051
+01:47:39,120 --> 01:47:40,480
+Ah, good question.
+
+1052
+01:47:40,481 --> 01:47:48,881
+So if your conscience is calling you silently, what's it calling you to do if you're already always already totally in this mattering thrown situation?
+
+1053
+01:47:48,881 --> 01:47:50,560
+Wait a second, let me worry about that.
+
+1054
+01:47:50,561 --> 01:47:54,881
+What's the crucial passage that we're trying to understand?
+
+1055
+01:47:55,761 --> 01:48:12,881
+It's correct that there's something funny going on there about because it's calling you to something, and yet, tell me where the physics are reposing in the weight of it, which I found once that I've lost again.
+
+1056
+01:48:14,160 --> 01:48:17,200
+Okay, 330.
+
+1057
+01:48:17,200 --> 01:48:18,400
+Yeah, let's look at that again.
+
+1058
+01:48:18,400 --> 01:48:20,080
+This is the crucial passage.
+
+1059
+01:48:20,801 --> 01:48:23,600
+This is the throne that's called.
+
+1060
+01:48:25,521 --> 01:48:39,761
+It's delivered over and such can exist solely as the entity which it is, and as this entity which has been delivered over, it is in its existing, the basis of its ability to be.
+
+1061
+01:48:39,761 --> 01:48:49,040
+Although it has not laid that basis itself, it reposes in the weight of it, which is made manifest as the burden of mood.
+
+1062
+01:48:49,040 --> 01:48:50,960
+And let me just do the next paragraph too.
+
+1063
+01:48:51,441 --> 01:48:53,761
+How is Dazine the throne basis?
+
+1064
+01:48:53,761 --> 01:48:57,680
+Only that it projects itself upon possibilities into which it's been thrown.
+
+1065
+01:48:57,681 --> 01:49:00,960
+The self, which as such, has to lay the basis for itself.
+
+1066
+01:49:00,960 --> 01:49:04,801
+It never, when I college, get the basis into its power.
+
+1067
+01:49:04,801 --> 01:49:09,681
+And yet, as existing, it must take over the basis, the being of basic.
+
+1068
+01:49:09,681 --> 01:49:15,240
+To be its own throwing basis is the ability to be, which is the issue of where.
+
+1069
+01:49:13,681 --> 01:49:16,841
+Well, that is sort of illuminating.
+
+1070
+01:49:13,761 --> 01:49:18,681
+I mean, we're being called to take it over.
+
+1071
+01:49:19,000 --> 01:49:20,360
+What does that mean?
+
+1072
+01:49:20,681 --> 01:49:21,960
+I don't know.
+
+1073
+01:49:21,960 --> 01:49:23,400
+Let's go on.
+
+1074
+01:49:23,960 --> 01:49:28,280
+Being a basis that isn't existing and throwing Dasein constantly lags behind its possibilities.
+
+1075
+01:49:28,280 --> 01:49:32,120
+It never exists before its basis, but only from it, and as this basis.
+
+1076
+01:49:32,120 --> 01:49:34,520
+That's what I talk about, always on the background.
+
+1077
+01:49:34,521 --> 01:49:38,681
+Thus, being a basis means never to have power over one's ownness from the ground up.
+
+1078
+01:49:38,681 --> 01:49:41,160
+It does not belong, say, to central feelings.
+
+1079
+01:49:41,160 --> 01:49:42,841
+That's the nullity.
+
+1080
+01:49:43,881 --> 01:49:47,400
+In itself, being a basis is a nullity of itself.
+
+1081
+01:49:47,721 --> 01:49:50,841
+Nullity doesn't seem like, oh, it's the.
+
+1082
+01:49:51,160 --> 01:49:56,521
+And being itself, Dasein is as a self, the entity which has been thrown.
+
+1083
+01:49:56,521 --> 01:50:05,000
+It's been released from its basu, not to itself, but to itself, as to be as this basis.
+
+1084
+01:50:07,240 --> 01:50:12,040
+The question we're asking ourselves is: what is conscience calling you to do?
+
+1085
+01:50:12,040 --> 01:50:25,721
+When it's calling you to somehow live in that melody, that is, to accept, or if he puts it on the next page, to accept definitely, being guilty.
+
+1086
+01:50:25,721 --> 01:50:37,801
+That was just, we just read the phenomenon of being guilty, namely sort of indebtedness for what you can't get behind and is the basis of everything you can do.
+
+1087
+01:50:39,721 --> 01:50:46,841
+And that melody is something at the bottom is not something which emerges in Dasein occasionally.
+
+1088
+01:50:47,160 --> 01:50:50,841
+It's not something you can eliminate and so forth.
+
+1089
+01:50:50,841 --> 01:50:55,160
+Now, anybody got an answer to what Eugene's question?
+
+1090
+01:50:55,160 --> 01:51:01,280
+I mean, what is consciousness calling you silently to do?
+
+1091
+01:51:02,721 --> 01:51:06,000
+There you are in the mattering, and so, yeah?
+
+1092
+01:51:06,641 --> 01:51:09,200
+So much depending on what you want to do.
+
+1093
+01:51:09,761 --> 01:51:11,040
+Well, and what is it calling?
+
+1094
+01:51:11,040 --> 01:51:13,040
+What is the how it's calling?
+
+1095
+01:51:14,000 --> 01:51:14,801
+The care.
+
+1096
+01:51:14,801 --> 01:51:16,240
+You should care.
+
+1097
+01:51:16,561 --> 01:51:17,280
+I don't know.
+
+1098
+01:51:17,280 --> 01:51:18,240
+Are you going to try something?
+
+1099
+01:51:18,960 --> 01:51:40,080
+So it's calling the mattering yeah, but the point is, but if it's already, never mind that though, the basic thing is, if it's already in the background and always in the background, and you can't ever get outside it or behind it, then what can you do that you're being called to do?
+
+1100
+01:51:40,320 --> 01:51:42,240
+And that's what I say, that that's the question.
+
+1101
+01:51:42,240 --> 01:51:43,360
+I take it, right?
+
+1102
+01:51:44,641 --> 01:51:45,280
+Really?
+
+1103
+01:51:45,601 --> 01:51:47,761
+Okay, I'll accept that.
+
+1104
+01:51:48,000 --> 01:51:48,320
+Go ahead.
+
+1105
+01:51:54,000 --> 01:52:18,400
+There remains the fact that this contact is moved is ungrounded, and anxiety can still arise, even if you're told it's called context, even though you know telling yourself basically there is that the anxiety is somehow a more priority than that, because it it can still take you up even when you're I think you're on the right track.
+
+1106
+01:52:18,400 --> 01:52:48,520
+I'm not sure whether I agree with it or not, but it looks like Heidegger's saying what anxiety is calling you to do is face the anxiety of being in always in a mood and never in control of your own destiny, never autonom never can be autonomous, okay it if you look at it this way, because the most basic thing about who you are and what you do is something you can't do and can't even find words to express and conceptualize.
+
+1107
+01:52:48,841 --> 01:53:01,720
+If that makes you anxious, then you could be called to face up to that anxiety as opposed to fleeing it into rules, into giving a narrative about who you are, and so forth.
+
+1108
+01:53:01,721 --> 01:53:06,761
+It helps to see the temptation of the opposite.
+
+1109
+01:53:06,761 --> 01:53:16,600
+So at least we can say this, I think, and this is Eugene's question in order to my question, whoever it was, at least you're being called to not do something.
+
+1110
+01:53:16,921 --> 01:53:26,520
+You're called not to do what one does, not to see, not to find principles and standards on which to justify and figure out what to do.
+
+1111
+01:53:26,521 --> 01:53:27,881
+That's fine.
+
+1112
+01:53:27,881 --> 01:53:38,120
+So you're called to face the anxiety of the groundlessness of it, that you can't get behind your throwness.
+
+1113
+01:53:38,120 --> 01:53:41,881
+You're not called to not get behind your throwness.
+
+1114
+01:53:41,881 --> 01:53:43,320
+That's just your structure.
+
+1115
+01:53:43,320 --> 01:53:51,801
+What they're called to do is face up to that structure and not cover up that structure.
+
+1116
+01:53:51,801 --> 01:53:53,721
+Yeah, okay, I think that's helpful.
+
+1117
+01:53:53,721 --> 01:53:55,400
+I mean, maybe you don't look healthy.
+
+1118
+01:53:56,280 --> 01:53:57,801
+You don't look healthy.
+
+1119
+01:53:57,801 --> 01:53:58,200
+What?
+
+1120
+01:53:58,521 --> 01:54:02,040
+If you just say you're being called not to do something, that's fine.
+
+1121
+01:54:02,280 --> 01:54:04,120
+If I get over here, you could talk louder.
+
+1122
+01:54:05,080 --> 01:54:06,681
+You're being called not to do something.
+
+1123
+01:54:06,681 --> 01:54:07,560
+That's fine.
+
+1124
+01:54:07,801 --> 01:54:09,080
+That's true.
+
+1125
+01:54:09,561 --> 01:54:10,040
+That's right.
+
+1126
+01:54:10,360 --> 01:54:11,320
+How does that happen?
+
+1127
+01:54:12,120 --> 01:54:13,881
+It's not just a call not to do something.
+
+1128
+01:54:14,441 --> 01:54:16,520
+But now I know how we can reconcile each other.
+
+1129
+01:54:16,521 --> 01:54:25,480
+It's not a cause to modify your mood, which is how it looked last time, because that's just, as you say, in the circle of of some other mood on which you want to modify the mood.
+
+1130
+01:54:25,481 --> 01:54:37,680
+It's this meta-thing which you were trying to get at, which we're being called to do is not to cover up, but rather to face up to this throwing condition.
+
+1131
+01:54:37,681 --> 01:54:43,761
+To not think that God tells you what to do or reason tells you what to do or anything like that.
+
+1132
+01:54:43,761 --> 01:54:49,360
+You're you're being called not to do the the the Gothaman mood.
+
+1133
+01:54:49,360 --> 01:54:50,160
+Is that right?
+
+1134
+01:54:50,160 --> 01:54:53,520
+And that is something that apparently you can resist.
+
+1135
+01:54:53,521 --> 01:55:03,360
+You can uh you're being called to hold on to anxiety, I guess, and face up to your unsettledness.
+
+1136
+01:55:03,360 --> 01:55:07,681
+And uh you can't do that by your willpower.
+
+1137
+01:55:07,681 --> 01:55:09,761
+This is a different sort of puzzle.
+
+1138
+01:55:09,761 --> 01:55:12,721
+But uh but it is certainly what you're being called to do.
+
+1139
+01:55:12,801 --> 01:55:15,360
+You're probably you're being called to stop fleeing.
+
+1140
+01:55:15,360 --> 01:55:17,280
+Fleeing isn't a mood, I don't think.
+
+1141
+01:55:17,280 --> 01:55:21,120
+So that's why it isn't as if you can say, well, I'll just dictate, I won't have that mood.
+
+1142
+01:55:21,120 --> 01:55:34,480
+No, because this fleeing is taking up the way one does things with standards and so forth and using them to get out of the anxiety of unsettledness.
+
+1143
+01:55:35,040 --> 01:55:57,520
+And I take it you I don't know why exactly, but Heidegger thinks you could be called in a and the silent call is stop fleeing anxiety and stop doing what one does when listen to what you are being called to do.
+
+1144
+01:55:57,681 --> 01:56:00,320
+But I mean that's the not the basic level.
+
+1145
+01:56:00,320 --> 01:56:03,841
+The basic level you're being called is to stop fleeing.
+
+1146
+01:56:04,080 --> 01:56:06,320
+I think that is how it seems to Heidegger.
+
+1147
+01:56:06,320 --> 01:56:11,680
+What you certainly can't be called to do is to have a right move instead of a wrong mood or to change your mood.
+
+1148
+01:56:11,681 --> 01:56:13,960
+I think that's supposed to be the thrownness.
+
+1149
+01:56:14,601 --> 01:56:15,000
+Right.
+
+1150
+01:56:15,080 --> 01:56:15,881
+All right.
+
+1151
+01:56:16,120 --> 01:56:17,641
+There are monsters of moods.
+
+1152
+01:56:17,641 --> 01:56:18,440
+What's the only mood?
+
+1153
+01:56:13,761 --> 01:56:19,080
+A mood.
+
+1154
+01:56:19,240 --> 01:56:20,600
+Is fleeing a mood?
+
+1155
+01:56:20,921 --> 01:56:23,080
+It must result from a mood that one is in.
+
+1156
+01:56:23,641 --> 01:56:25,720
+It is a reaction to a mood.
+
+1157
+01:56:26,040 --> 01:56:42,280
+What it's not that you're told you're supposed to flee moods or change moods of a normal sort of mood, uh, where I think of something like you're being happy, being grumpy, being whatever.
+
+1158
+01:56:42,280 --> 01:56:50,921
+Uh the what they're being called to do is it really doesn't have much to do with mo moods.
+
+1159
+01:56:51,160 --> 01:56:51,960
+That's a funny thing.
+
+1160
+01:56:51,960 --> 01:56:54,360
+I mean, this is your your moods are your throwness.
+
+1161
+01:56:54,360 --> 01:56:56,520
+Your moods are your facticity.
+
+1162
+01:56:56,521 --> 01:57:05,801
+The call of conscience is to accept your thrownness and your facticity and that you can't get behind it.
+
+1163
+01:57:05,801 --> 01:57:16,680
+That means to accept the unsettledness of being a a Dasein and not flee, I'm just saying the same thing over and over, into the one.
+
+1164
+01:57:17,000 --> 01:57:19,560
+I don't I'm I'm not disagreeing with you or not.
+
+1165
+01:57:19,561 --> 01:57:20,360
+I don't know.
+
+1166
+01:57:21,240 --> 01:57:22,040
+Right.
+
+1167
+01:57:22,040 --> 01:57:24,360
+Okay, well then but then we just get back again.
+
+1168
+01:57:24,360 --> 01:57:25,881
+Eugene, you want to say something about that?
+
+1169
+01:57:27,000 --> 01:57:34,440
+You say something that's going to have an aspect in all of the different parts of it, so then I just it's probably going to be a projection.
+
+1170
+01:57:34,601 --> 01:57:38,841
+You'll have a different discourse because you all articulate things differently, you all have a different mood.
+
+1171
+01:57:39,000 --> 01:57:49,960
+I think that might be okay, but I think w part of what you're getting at is that whatever it is that the entire consciousness is possible, I could also just be a thoroughly part of being this whole life.
+
+1172
+01:57:50,040 --> 01:57:53,400
+We're completely thrown and we can't get behind it at all.
+
+1173
+01:57:54,040 --> 01:57:55,400
+Then you have this problem of what?
+
+1174
+01:57:55,400 --> 01:57:56,440
+How can there be any conscience?
+
+1175
+01:57:56,441 --> 01:57:57,560
+How can you ever be changed?
+
+1176
+01:57:58,761 --> 01:58:01,040
+Right, but how can I even be involved?
+
+1177
+01:58:02,080 --> 01:58:10,000
+Well, uh, we get means we can't get a by with the negativeness of consciousness calling you to stop fleeing.
+
+1178
+01:58:10,000 --> 01:58:11,841
+And the name is possible, Mr.
+
+1179
+01:58:12,320 --> 01:58:13,040
+Here's a picture.
+
+1180
+01:58:13,120 --> 01:58:16,400
+You're already doing something that's calling you to modify the negative.
+
+1181
+01:58:16,400 --> 01:58:17,841
+Oh dear, oh dear.
+
+1182
+01:58:17,841 --> 01:58:20,641
+Well, um, um, uh, wait a minute, what time is it?
+
+1183
+01:58:20,641 --> 01:58:23,280
+It's it's awesome I I want to hear everybody.
+
+1184
+01:58:23,441 --> 01:58:25,921
+You I told you you couldn't talk, so you can now.
+
+1185
+01:58:26,160 --> 01:58:31,040
+I think all time will be out of the mirror is by the false conscience, but we're not necessarily changing them.
+
+1186
+01:58:31,040 --> 01:58:32,561
+Like we're not going from happy to that.
+
+1187
+01:58:32,561 --> 01:58:34,881
+It's not like completely modification like that.
+
+1188
+01:58:34,881 --> 01:58:38,400
+It's just that Paul Hons is always asking us to be more authentic.
+
+1189
+01:58:38,400 --> 01:58:39,600
+To do what, too?
+
+1190
+01:58:39,761 --> 01:58:42,960
+Paul Conscience is always going to be more powerful than our own willpower.
+
+1191
+01:58:42,960 --> 01:58:50,240
+Like by that, I mean try to will myself to be happy, but it won't work the same way as like Paul Conscience, hey, I need to choose something.
+
+1192
+01:58:51,441 --> 01:58:53,921
+The conscious is calling you to be authentic.
+
+1193
+01:58:53,921 --> 01:58:56,881
+That doesn't seem to be having a certain mood.
+
+1194
+01:58:57,200 --> 01:59:06,320
+It seems to be having a certain stand on the mood or or experience of the mood or way of dealing with moods.
+
+1195
+01:59:06,320 --> 01:59:11,761
+And it seems to be, I think, expressing that you can't understand them.
+
+1196
+01:59:11,761 --> 01:59:13,440
+You can't put them into words.
+
+1197
+01:59:13,441 --> 01:59:15,280
+You can't get behind them.

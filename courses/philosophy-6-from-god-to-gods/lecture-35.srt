@@ -1,0 +1,2983 @@
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:13,199
+I don't have anything clearer to say, unfortunately, than I said at the end last time about the peculiar kind of indifference that Melville wants you to see.
+
+2
+00:00:13,200 --> 00:00:24,479
+But I'm more convinced than ever that I was on the right track, which is that it's not, he's not taking back the meaning of anything.
+
+3
+00:00:24,480 --> 00:00:28,879
+He's saying that all these meanings are true.
+
+4
+00:00:29,359 --> 00:00:32,320
+There's no word, I'll try to say it again.
+
+5
+00:00:32,320 --> 00:00:41,679
+It isn't as if these meanings are all perspectives on one coherent world, because these meanings contradict each other.
+
+6
+00:00:41,680 --> 00:00:44,159
+But they are the last word.
+
+7
+00:00:44,159 --> 00:01:00,999
+I mean, there is no more reality than all these interpretations, all of which are true to some extent in their way, and all of which only add up to chaos if you try to add them up, or to whiteness if you add them up.
+
+8
+00:01:01,320 --> 00:01:10,919
+But each of them is nonetheless a valuable, illuminating, and in a certain sense, true perspective on the world.
+
+9
+00:01:10,919 --> 00:01:17,880
+As long as you don't have an old-fashioned notion of true, that they correspond to the way things really are.
+
+10
+00:01:18,519 --> 00:01:20,440
+They are the way things really are.
+
+11
+00:01:20,440 --> 00:01:27,480
+There is nothing more fundamental than this whole lot of interpretations.
+
+12
+00:01:28,279 --> 00:01:39,079
+It so changes your notion of truth and reality that it's hard to understand and it's hard to say, but you should think about it and see if it helps.
+
+13
+00:01:39,079 --> 00:01:45,719
+And I was surprised and sad nobody came to office hours who had been thinking about it, who would help straighten me out.
+
+14
+00:01:45,880 --> 00:01:50,359
+There's one more office hours coming up this coming Wednesday from 2 to 4.
+
+15
+00:01:50,359 --> 00:01:59,000
+If anybody thinks that I've got it wrong or that I've got it right, but it could be spelled out better, please come by and see me.
+
+16
+00:01:59,799 --> 00:02:07,880
+Okay, with that, I'll go back to, we'll go back to the course and finish.
+
+17
+00:02:07,880 --> 00:02:21,799
+I want to finish talking about Moby Dick, obviously, which I did in a way finish already because we did the chase and we did the end of the Pequod and we did the saving of Ishmael in Kweequeg's coffin.
+
+18
+00:02:21,800 --> 00:02:29,559
+But there are sort of big questions raised by Melville or Ishmael in the book, Moby Dick.
+
+19
+00:02:29,560 --> 00:02:54,320
+And I want to talk about those big questions, partly relating them to the questions from the whole course, and partly relating them to these Nietzsche quotes, because it's interesting to have a view that is as near to Melville as you can get, as far as I know, and yet, from a Melville point of view, completely wrong at the same time.
+
+20
+00:02:54,320 --> 00:03:02,719
+It helps a lot to understand a particular view, to see clearer what that view is by seeing what that view isn't.
+
+21
+00:03:02,720 --> 00:03:11,280
+So at the end, I want to talk about what polytheism is, according to Nietzsche and according to Melville.
+
+22
+00:03:11,280 --> 00:03:20,880
+But let's start where we are with Ishmael and the kind of identity, what kind of person Ishmael is.
+
+23
+00:03:21,200 --> 00:03:24,719
+And we have to find that out by contrasting it.
+
+24
+00:03:24,719 --> 00:03:32,880
+This is going to be a lot of contrasting because I don't see how to explain any of these things except by telling you also what they're not.
+
+25
+00:03:32,880 --> 00:03:38,560
+So the question is: there's several kinds of identity that you could have.
+
+26
+00:03:38,880 --> 00:03:43,679
+And Ishmael, I'm going to tell you first about the ones that Ishmael doesn't have.
+
+27
+00:03:43,680 --> 00:03:44,960
+You'll recognize this.
+
+28
+00:03:44,959 --> 00:03:50,959
+This is all, in a certain way, a kind of summary, as it ought to be, since it's supposed to be the Latin.
+
+29
+00:03:51,040 --> 00:03:55,919
+You're not supposed to take off on some totally new direction in your last lecture.
+
+30
+00:03:55,920 --> 00:04:05,200
+And I also hope it'll help sort of solidify your Moby Dick in your brains as you write when you write your papers.
+
+31
+00:04:05,200 --> 00:04:09,279
+Okay, there's something called, what I'm going to call a strong identity.
+
+32
+00:04:09,279 --> 00:04:13,200
+Sometimes people call that the modern subject.
+
+33
+00:04:13,200 --> 00:04:16,399
+That's the subject invented by Descartes.
+
+34
+00:04:16,399 --> 00:04:20,560
+That's the subject that is self-sufficient.
+
+35
+00:04:20,560 --> 00:04:25,120
+And it has a certain content, an identity.
+
+36
+00:04:25,120 --> 00:04:29,959
+I mean, it has, which is the person that that subject is.
+
+37
+00:04:29,959 --> 00:04:41,560
+And we're all, I mean, according to Descartes and Kant and most people even now, but we've got these strong identities, the modern identities.
+
+38
+00:04:41,560 --> 00:04:47,320
+The ones we've seen in the book are Ahab and Starbuck.
+
+39
+00:04:47,320 --> 00:04:54,039
+They're two extremes of having a sort of fixed identity.
+
+40
+00:04:54,040 --> 00:05:01,240
+Ahab's is defiance and Starbucks is reverence.
+
+41
+00:05:01,560 --> 00:05:10,599
+And from Melville's point of view, they're both wrong because they're doubly totalizing.
+
+42
+00:05:11,159 --> 00:05:20,360
+They've got each of them a total view of the world, which covers everything, defying it or revering it.
+
+43
+00:05:20,359 --> 00:05:22,599
+And they're stuck in that one.
+
+44
+00:05:22,599 --> 00:05:23,880
+It doesn't change.
+
+45
+00:05:23,880 --> 00:05:26,120
+They've got only one mood.
+
+46
+00:05:26,120 --> 00:05:29,160
+Now, I came across different quotes.
+
+47
+00:05:29,159 --> 00:05:30,440
+They're all over the place.
+
+48
+00:05:30,599 --> 00:05:56,919
+I don't know if I ever just found one before that said in just so many exact words that Ahab's attitude is defiance, that you get it on page 486, which is in book, or in chapter 119, where he's talking to the lightning handles, wherever the lightning is shining off the masts of the ship.
+
+49
+00:05:56,920 --> 00:06:00,839
+And he says, it looks like it's about halfway in.
+
+50
+00:06:01,160 --> 00:06:03,880
+No, it's near the end, about a page and a half from the end.
+
+51
+00:06:03,880 --> 00:06:10,039
+For those who have my book, same with book I have, it's on 486, two-thirds of the way down.
+
+52
+00:06:10,040 --> 00:06:14,320
+He says, Oh, thou clear spirit of clear fire, and so forth.
+
+53
+00:06:14,719 --> 00:06:19,120
+He says these weird things, which I don't think we're supposed to believe.
+
+54
+00:06:19,120 --> 00:06:20,160
+What did somebody say?
+
+55
+00:06:20,560 --> 00:06:29,440
+Which he says, whom on these seas I, as Persian, once did worship, till in the sacramental act so burned by thee that I bear the scar.
+
+56
+00:06:29,440 --> 00:06:35,200
+Boy, if anybody thinks we can believe that and make sense of that, it's beyond me.
+
+57
+00:06:36,639 --> 00:06:37,760
+I think he's just raving.
+
+58
+00:06:37,760 --> 00:06:44,320
+But then he says, I now know thee, clear spirit, and I know that thy right worship is defiance.
+
+59
+00:06:44,320 --> 00:06:53,920
+But we know that he already has been spitting in the holy water and generally and fighting with the priests of any temple he comes across.
+
+60
+00:06:54,800 --> 00:07:01,280
+And Melville, or Ishmael, let's just call it always Ishmael, since that's stay inside the book.
+
+61
+00:07:01,279 --> 00:07:03,519
+Ishmael respects that.
+
+62
+00:07:03,680 --> 00:07:05,360
+He talks about it.
+
+63
+00:07:05,680 --> 00:07:17,519
+Presumably, it's a kind of tragic greatness at the bottom of 71, which is chapter 16, about in the middle.
+
+64
+00:07:17,519 --> 00:07:21,600
+It's only a sentence, so it's not worth looking for, I don't think, but I'll read it.
+
+65
+00:07:21,680 --> 00:07:23,279
+Bottom of 71.
+
+66
+00:07:23,280 --> 00:07:28,880
+For all men tragically great are made so to a certain morbidness.
+
+67
+00:07:28,880 --> 00:07:30,959
+Be sure of this, O young ambition.
+
+68
+00:07:30,959 --> 00:07:33,760
+All mortal greatness is but disease.
+
+69
+00:07:33,759 --> 00:07:44,640
+I mean, he's talking just general stuff, but I think he's thinking that Ahab is one of those tragic, great, sick, really sick people.
+
+70
+00:07:44,640 --> 00:07:51,760
+And as for reverence for 473, we hear about Starbuck.
+
+71
+00:07:51,759 --> 00:07:55,599
+And again, I'm sure that there are other places, but one is enough.
+
+72
+00:07:55,599 --> 00:08:09,720
+At the end of chapter 114, no, it's the beginning of chapter, the second page of chapter 114, the bottom of 473.
+
+73
+00:08:09,719 --> 00:08:12,760
+This is Starbuck talking to the ocean, to the sea.
+
+74
+00:08:12,759 --> 00:08:22,520
+Loveliness unfathomable as ever lover saw in his young bride's eye, tell me not of thy teeth-teared sharks and thy kidnapping cannibal ways.
+
+75
+00:08:22,520 --> 00:08:26,680
+Let faith oust fact, let fancy oust memory.
+
+76
+00:08:26,680 --> 00:08:31,640
+I look down, I look deep down and do believe.
+
+77
+00:08:31,640 --> 00:08:35,000
+That is, he's in this mood of reverence and faith.
+
+78
+00:08:34,999 --> 00:08:39,079
+Nothing can penetrate it and shake him out of it.
+
+79
+00:08:39,079 --> 00:08:52,360
+And just as an added interesting little thing at the bottom there, Stubb and Stubb comes along and says, I'm Stubb, and Stubb has this history, but here Stubb takes oath that he has always been jolly.
+
+80
+00:08:52,359 --> 00:08:59,560
+Now he's another one stuck in a mood, more like the banger and boomer, who are always jolly.
+
+81
+00:08:59,560 --> 00:09:08,520
+I mean, that's a worse mood to be stuck in, I think, from Ishmael's point of view than defiance or reverence.
+
+82
+00:09:08,519 --> 00:09:14,520
+It just is so out of touch with reality, as Ed knows it is in the case of Starbuck.
+
+83
+00:09:14,519 --> 00:09:19,400
+So those are versions of the strong identity.
+
+84
+00:09:19,400 --> 00:09:24,520
+And certainly Ishmael rejects them all.
+
+85
+00:09:24,839 --> 00:09:29,400
+And the next one is: you could call it a post-modern identity.
+
+86
+00:09:29,400 --> 00:09:53,760
+If that's the modern subject, then after the modern subject, in our time, comes the person who defies, well, no, that's what I'm defies, who stands without taking any, whose way of taking a stand on everything is simply to accept completely the meaninglessness of it all.
+
+87
+00:09:53,759 --> 00:09:56,800
+I don't know if that's a mood or not, it occurs to me.
+
+88
+00:09:56,800 --> 00:09:59,040
+That's Balkington, of course.
+
+89
+00:09:59,040 --> 00:10:00,479
+And I guess it's a mood.
+
+90
+00:10:00,479 --> 00:10:04,320
+I guess he's stuck in a total mood, all right, a grim mood, remember?
+
+91
+00:10:04,959 --> 00:10:09,120
+That's the trouble with him, according to Ishmael.
+
+92
+00:10:09,119 --> 00:10:14,480
+He thinks he's a marvelous person, too, a demigod, he calls him.
+
+93
+00:10:14,959 --> 00:10:20,640
+But he's not anybody that Ishmael wants to emulate.
+
+94
+00:10:20,640 --> 00:10:34,160
+And he's standing in the infinite, in the meaninglessness of everything, and just affirming the meaninglessness or accepting or enduring, maybe would be better, the meaninglessness of everything.
+
+95
+00:10:34,160 --> 00:10:36,400
+This is on 371.
+
+96
+00:10:36,719 --> 00:10:37,679
+Where are we now?
+
+97
+00:10:37,680 --> 00:10:38,239
+Whoa.
+
+98
+00:10:41,119 --> 00:10:43,999
+I have no idea why I think it's on 371.
+
+99
+00:10:43,999 --> 00:10:48,400
+Let's try page 180, not that it has any relation to that.
+
+100
+00:10:48,400 --> 00:10:49,200
+Okay.
+
+101
+00:10:49,839 --> 00:10:55,840
+So it says Balkington is always in one grim mood, but those aren't about Balkington at all.
+
+102
+00:10:55,839 --> 00:10:57,440
+So I don't know what to make.
+
+103
+00:10:58,239 --> 00:11:01,040
+There is this one Balkington passage, and we know it.
+
+104
+00:11:01,359 --> 00:11:06,959
+What interests me is what I think is here on 180 and 371.
+
+105
+00:11:06,959 --> 00:11:14,640
+180, which is the end of chapter 41, has something interesting, which I think I've quoted already, but it won't hurt to quote it again.
+
+106
+00:11:14,640 --> 00:11:21,760
+Back to Starbuck, who has this unquestioning faith in everything being all right.
+
+107
+00:11:22,479 --> 00:11:47,240
+He describes the boat as morally enfeebled by the incompetence of mere unaided virtue or right-mindedness in Starbuck, the invulnerable jollity of that's the being stuck in being jolly of stubborn and the recklessness in stubb, oh, jollity of indifference and recklessness in stubb, both, and the pervading mediocrity in flask.
+
+108
+00:11:47,239 --> 00:11:51,560
+Those sum up those identities, not Balkington's.
+
+109
+00:11:51,640 --> 00:11:55,240
+I've just written down, obviously, the wrong page number for that.
+
+110
+00:11:55,239 --> 00:11:57,880
+But you know, there's only one chapter on Balkington.
+
+111
+00:11:57,879 --> 00:11:58,839
+You can find it.
+
+112
+00:11:59,640 --> 00:12:00,680
+102.
+
+113
+00:12:00,999 --> 00:12:03,480
+Okay, but I wonder what I think, what I'm thinking of.
+
+114
+00:12:03,479 --> 00:12:03,800
+I don't know.
+
+115
+00:12:03,800 --> 00:12:06,680
+But anyway, 102, you might as well look at 102.
+
+116
+00:12:07,400 --> 00:12:12,280
+Because though I'm used to looking at it, that's the end of chapter 23.
+
+117
+00:12:12,599 --> 00:12:18,520
+But in landlessness alone resides the highest truth, shoreless and definite as God.
+
+118
+00:12:18,519 --> 00:12:22,360
+So better to perish in the howling infinite than dash upon the shore.
+
+119
+00:12:22,359 --> 00:12:24,120
+That's not Ishmael talking.
+
+120
+00:12:24,119 --> 00:12:29,079
+That's Ishmael getting inside of the way things look to Balkington.
+
+121
+00:12:29,079 --> 00:12:33,400
+And so he says, bear thee grimly, demigod, so forth.
+
+122
+00:12:34,040 --> 00:12:39,720
+Now, so we've got modern subjects, postmodern subjects.
+
+123
+00:12:39,719 --> 00:12:50,120
+What's interesting is something that is neither of these, that Melville is trying to make up and work out, and that's the polytheistic identity.
+
+124
+00:12:50,119 --> 00:13:02,680
+It goes with Ishmael's first sentence of the book, in which Ishmael is, Paul says, call me Ishmael, doesn't even tell you his real name, and takes the name of a wanderer.
+
+125
+00:13:02,680 --> 00:13:08,720
+And I realize this time through, and I'm sure it's no accident, that's the first words of the book.
+
+126
+00:13:08,959 --> 00:13:13,440
+Call me Ishmael, and the last word of the book is that he's an orphan.
+
+127
+00:13:13,759 --> 00:13:19,919
+Being an orphan is another way of saying he's got no home, no mother, no father.
+
+128
+00:13:19,920 --> 00:13:22,960
+That was true of Ishmael once Abraham kicked him out.
+
+129
+00:13:22,959 --> 00:13:25,200
+And that's what it is.
+
+130
+00:13:25,200 --> 00:13:39,680
+That's something about this special kind of identity, which is open to all meaning, wherever you find it, gets in sync with and attuned to many moods.
+
+131
+00:13:39,680 --> 00:13:45,759
+And that's the nearest thing we get to the right way to live.
+
+132
+00:13:45,759 --> 00:13:52,000
+I think it is, according to Melville, the right way to live in our situation.
+
+133
+00:13:51,999 --> 00:13:54,800
+It doesn't mean that it's the best way to live.
+
+134
+00:13:54,800 --> 00:13:57,600
+Maybe things were better in Homeric Greece.
+
+135
+00:13:58,479 --> 00:13:59,599
+I don't know about that.
+
+136
+00:13:59,599 --> 00:14:00,880
+I'll come back to that.
+
+137
+00:14:00,880 --> 00:14:16,160
+But for us who are not in Homeric Greece, the best thing you can do is have these, what he calls at the end of chapter 85, and I've read this before, divine intuitions.
+
+138
+00:14:16,800 --> 00:14:23,200
+And he says, for this, I thank God, for all have doubts, many deny.
+
+139
+00:14:23,200 --> 00:14:26,400
+The doubts are denials, few among them have intuitions.
+
+140
+00:14:26,400 --> 00:14:30,079
+Doubts of all things earthly and intuitions of some things heavenly.
+
+141
+00:14:30,079 --> 00:14:43,280
+This combination makes me either a believer, those are the onto-theological people, or an infidel, that's an atheist, a disbeliever, whether that's Balkington or Ahab.
+
+142
+00:14:43,680 --> 00:14:48,720
+They both come under infidels, I think, meaning non-believers.
+
+143
+00:14:48,719 --> 00:14:49,920
+So they're really two things.
+
+144
+00:14:49,920 --> 00:15:02,120
+Believe there are two kinds of other ways of looking at things, to be a believer like Starbuck or a non-believer, but neither of those could possibly heal you.
+
+145
+00:15:02,839 --> 00:15:04,920
+They can't be holy.
+
+146
+00:15:04,920 --> 00:15:06,280
+They're not divine.
+
+147
+00:15:06,280 --> 00:15:08,440
+They have no sense of the sacred.
+
+148
+00:15:09,479 --> 00:15:28,120
+Well, Starbuck has, in a sense, too much sacred, sort of onto theological sacred, which keeps him stuck in one mood, something like where Dante's going to be stuck for eternity once he starts contemplating the absolute supreme being.
+
+149
+00:15:28,119 --> 00:15:43,320
+But the way to live is to have this openness to the divine intuitions, to be drawn into many situations and capable of the widest range of moods, remember, from bliss to sorrow.
+
+150
+00:15:43,320 --> 00:15:51,320
+I'm just going over some of my favorite passages, favorite in the sense that I think they help me make sense of the book.
+
+151
+00:15:51,320 --> 00:15:59,240
+And another one that is so important is the end of chapter 96.
+
+152
+00:15:59,560 --> 00:16:00,999
+I'm going to keep talking.
+
+153
+00:16:01,079 --> 00:16:22,119
+I come back every once in a while to the catscale eagle, because the catscale eagle is the name for this, in a way, this polytheistic way of life, namely, to be open to all sorts of moods, the extremist two, of joy and sorrow and so forth.
+
+154
+00:16:22,120 --> 00:16:30,680
+And at the bottom, at the end of that paragraph, of that chapter, 96, there is a wisdom that is woe, but there's a woe that is madness.
+
+155
+00:16:30,680 --> 00:16:34,279
+And that's Ahab, presumably.
+
+156
+00:16:34,600 --> 00:16:47,279
+And there is a catscale eagle in some souls, and that's him, that is Ishmael, that can alike dive down into the blackest gorges and soar out of them again and become invisible in the sunny spaces.
+
+157
+00:16:47,279 --> 00:16:59,440
+And even if he forever flies within the gorge, that gorge is in the mountains, so that even in his lowest swoop, the mountain eagle is still higher than other birds upon the plain, even though they soar.
+
+158
+00:17:00,559 --> 00:17:02,080
+That's Ishmael.
+
+159
+00:17:02,080 --> 00:17:35,039
+Now, what I found something very interesting, I keep looking in Nietzsche's The Gay Science, which is what I teach in Philosophy 7, that it has such interesting relationship, and it's a generation after Moby Dick, and it is in some ways so close in realizing that God is dead, meaning that religion of the onto-theological sort doesn't seem plausible to people anymore, at least not to Melville and Nietzsche, that there are other things in here than that.
+
+160
+00:17:35,039 --> 00:17:40,079
+There are things I'm going to read every once in a while, amazingly close.
+
+161
+00:17:41,680 --> 00:17:51,999
+Here is Nietzsche talking about Homer, in which Homer sounds exactly like a cat-scale eagle.
+
+162
+00:17:52,239 --> 00:17:54,240
+That is, yeah, Homer.
+
+163
+00:17:55,120 --> 00:17:56,000
+That's what he says.
+
+164
+00:17:55,999 --> 00:18:26,559
+Anyway, he says, a strong, bold, audacious soul to go through life with a calm eye and firm step, always prepared to risk all, festively impelled by the longing for undiscovered worlds and seas and people and gods, to hearken to music as if it were a sign that bold men, soldiers, seafarers were taking a brief rest.
+
+165
+00:18:26,680 --> 00:18:35,400
+And in the most profound enjoyment of the moment, and this is the amazing switch now, that's all been up in the sky, so to speak, happy.
+
+166
+00:18:35,400 --> 00:18:49,479
+And in the most profound enjoyment of the moment, to be overcome by tears and the whole crimson melancholy of the happy, who would not wish that all this might be his possession, his state?
+
+167
+00:18:49,479 --> 00:18:51,799
+That was the happiness of Homer.
+
+168
+00:18:51,799 --> 00:19:05,719
+So he's describing Homer, Nietzsche, as this kind of extreme person that's sensitive to all the most melancholy and blissful moods.
+
+169
+00:19:06,440 --> 00:19:15,639
+Homer, as a cat-scale eagle, neither a bird of heaven nor a bird of the plain, but something better than either.
+
+170
+00:19:16,440 --> 00:19:18,840
+And what is Melville like?
+
+171
+00:19:18,840 --> 00:19:20,759
+We have to switch to Melville now.
+
+172
+00:19:20,759 --> 00:19:34,519
+He seems to think of himself as open to all moods, to local meanings where they occur, and doesn't insist on them, doesn't hold on to them, lets them draw him in fully, but gives them up when they're over.
+
+173
+00:19:34,920 --> 00:19:47,239
+Every once in a while I come back to these quotes from his letters to Hawthorne because they all say such things to Hawthorne that are quite special.
+
+174
+00:19:47,239 --> 00:19:52,680
+So, by the way, the Nietzsche, in case you want to look in the gay science, is on 242.
+
+175
+00:19:52,999 --> 00:20:02,119
+And now we're looking at 560 in this book of letters, but you don't really need that, and it's very brief.
+
+176
+00:20:02,120 --> 00:20:05,400
+What I'm going to hope uh to talk about.
+
+177
+00:20:05,880 --> 00:20:07,479
+I'm going to read just a little bit.
+
+178
+00:20:07,479 --> 00:20:24,479
+He says, here's he's saying to Hawthorne that, I mean, you got to know that that there were the big religion around at Nelville's time was pantheism, which was that God was in everything, and there was a kind of soul, one big soul in everything.
+
+179
+00:20:24,479 --> 00:20:26,799
+And you could get in touch with that soul.
+
+180
+00:20:26,799 --> 00:20:28,799
+It was called transcendentalism.
+
+181
+00:20:28,799 --> 00:20:35,839
+It was a kind of onto theology without a supreme being, or maybe everything was the supreme being, I guess.
+
+182
+00:20:36,959 --> 00:20:39,600
+What he has to say about it is sort of interesting and funny.
+
+183
+00:20:39,600 --> 00:20:44,079
+He says, this all feeling, there is some truth in it.
+
+184
+00:20:44,080 --> 00:20:48,319
+You must have often felt it lying on the grass on a warm summer's day.
+
+185
+00:20:48,319 --> 00:20:51,039
+Your legs seem to send out shoots into the earth.
+
+186
+00:20:51,039 --> 00:20:53,599
+Your hair feels like leaves on your head.
+
+187
+00:20:53,600 --> 00:20:55,680
+This is the all feeling.
+
+188
+00:20:55,680 --> 00:21:05,680
+But what plays the mischief with the truth is that men will insist upon the universal application of a temporary feeling.
+
+189
+00:21:05,680 --> 00:21:08,080
+In other words, that's another perspective.
+
+190
+00:21:08,080 --> 00:21:09,839
+That's another interpretation.
+
+191
+00:21:09,840 --> 00:21:15,119
+And you can be in the mood of merging with the all of the universe.
+
+192
+00:21:15,120 --> 00:21:23,759
+But the mistake is to say, onto theologically, metaphysically, philosophically, or whatever, that's the truth.
+
+193
+00:21:23,759 --> 00:21:24,880
+Now I understand.
+
+194
+00:21:24,880 --> 00:21:26,559
+I'm part of the all.
+
+195
+00:21:26,559 --> 00:21:28,879
+That's the, what does he call it, mischief?
+
+196
+00:21:29,360 --> 00:21:35,119
+That's the mischief, meaning that's where you go wrong and get into trouble.
+
+197
+00:21:35,759 --> 00:21:42,559
+Now, I'm still sort of collecting bits of what I take to be Ishmael's way of being.
+
+198
+00:21:42,559 --> 00:21:52,639
+And so we've talked about his moodiness, his task, eagleness, his not getting stuck in any mood.
+
+199
+00:21:52,640 --> 00:22:01,800
+Now, there is also, remember, in the squeeze of the hand chapter, a list on 403 in here.
+
+200
+00:22:01,799 --> 00:22:03,319
+403 back.
+
+201
+00:22:03,640 --> 00:22:04,360
+Why what?
+
+202
+00:22:04,360 --> 00:22:06,280
+There isn't even any 403 in here.
+
+203
+00:22:08,120 --> 00:22:09,320
+Is it in here?
+
+204
+00:22:09,640 --> 00:22:10,600
+No, no, I don't.
+
+205
+00:22:10,759 --> 00:22:19,479
+I've got about five different versions of Moby Dick, and every once in a while I get caught up in some other one, but I'm supposed to keep track of which one I'm in.
+
+206
+00:22:19,479 --> 00:22:20,360
+Well, it doesn't matter.
+
+207
+00:22:20,360 --> 00:22:21,640
+We ought to be able to find it.
+
+208
+00:22:22,200 --> 00:22:24,599
+Look in the chapter, The Squeeze of the Hand.
+
+209
+00:22:25,160 --> 00:22:28,200
+And tell me somebody when you find it.
+
+210
+00:22:28,200 --> 00:22:30,519
+Harder to find than one would think.
+
+211
+00:22:31,880 --> 00:22:33,559
+402.
+
+212
+00:22:33,559 --> 00:22:34,360
+Okay.
+
+213
+00:22:35,640 --> 00:22:39,160
+So that's chapter 94.
+
+214
+00:22:39,479 --> 00:22:49,800
+And remember that he says that you should lower your conceit of attainable felicity.
+
+215
+00:22:49,799 --> 00:22:54,759
+This is the bottom of 403, about a page and a half into chapter 94.
+
+216
+00:22:54,759 --> 00:22:59,800
+And then he lists these worlds or moods.
+
+217
+00:22:59,799 --> 00:23:18,759
+I think that's pretty much the same thing you can in which you could be in for a while, which is wife, heart, which I gonna read friendship, bed, Aphrodite, sex, the table, food, the saddle, the fireside, the country.
+
+218
+00:23:18,759 --> 00:23:25,559
+That's sort of the way the Athenians were when patriotism was the top thing, and so forth.
+
+219
+00:23:26,120 --> 00:23:32,119
+Now, what's interesting is Nietzsche comes up with his list.
+
+220
+00:23:32,120 --> 00:23:39,239
+And his list is somewhat different, but the the feel of it is the same.
+
+221
+00:23:40,440 --> 00:23:41,559
+Aha.
+
+222
+00:23:42,559 --> 00:23:46,160
+Maybe 403 is the place, no?
+
+223
+00:23:46,959 --> 00:23:51,279
+So there's some other person took over my life.
+
+224
+00:23:51,279 --> 00:23:53,120
+Where is brief habits in here?
+
+225
+00:23:53,680 --> 00:23:54,639
+Oh, that's over here.
+
+226
+00:23:54,640 --> 00:23:55,680
+That's why I don't.
+
+227
+00:23:55,999 --> 00:23:58,400
+So on your sheet of Nietzsche quotes now.
+
+228
+00:23:58,959 --> 00:24:01,359
+Can I have a copy of the sheet of Nietzsche quotes?
+
+229
+00:24:01,360 --> 00:24:02,160
+Did we use them?
+
+230
+00:24:02,319 --> 00:24:02,959
+Oh.
+
+231
+00:24:03,279 --> 00:24:11,200
+Okay, now, looking at the brief habits here, you'll see, let me just tell you what you should look for.
+
+232
+00:24:11,200 --> 00:24:23,999
+What's characteristic of moods and what the Greeks were already on to with their understanding of Thrusis, remember, of being, is that they well up, they linger a while, and then they go away.
+
+233
+00:24:23,999 --> 00:24:27,200
+And that that's their, and you shouldn't sort of fight it.
+
+234
+00:24:27,200 --> 00:24:30,559
+That's how moods are, and you should let them do that.
+
+235
+00:24:30,559 --> 00:24:33,039
+Well, Nietzsche has the same view.
+
+236
+00:24:33,519 --> 00:24:35,280
+I'm going to read the brief habits quote.
+
+237
+00:24:35,279 --> 00:24:38,879
+I always believe that there's something that will give me lasting satisfaction.
+
+238
+00:24:38,880 --> 00:24:46,719
+Brief habits, too, have this faith of passion, this faith in eternity, and that I am to be envied for having found and recognized it.
+
+239
+00:24:46,719 --> 00:24:55,920
+Think of this as what you experience when you experience any of these cases, of which squeezing of the hand turns out to be the paradigm case.
+
+240
+00:24:55,920 --> 00:25:14,639
+Once he's in it, he feels that it's just wonderful, and you couldn't be better, and he's totally satisfied, and it nourishes me at noon and in the evening and spreads a deep contentment all around itself and deep into me so that I desire nothing else without having any need for comparisons, contempt, or hatred.
+
+241
+00:25:14,640 --> 00:25:16,719
+That one day its time is up.
+
+242
+00:25:16,719 --> 00:25:24,400
+The good thing parts from me, not as something that's come to nauseate me, but peacefully and faded with me as I am with it.
+
+243
+00:25:24,400 --> 00:25:26,759
+That's what happens to me with, by the way.
+
+244
+00:25:26,840 --> 00:25:28,840
+And so that's supposed to be what happens with moods.
+
+245
+00:25:26,640 --> 00:25:32,519
+They come up, they well over you, they seem to cover the whole world.
+
+246
+00:25:32,920 --> 00:25:36,200
+They are the atmosphere in which you live.
+
+247
+00:25:36,200 --> 00:25:41,719
+If they're good moods, then you feel very, very grateful and happy with them.
+
+248
+00:25:41,719 --> 00:25:44,759
+And then comes his list of them, which is a funny list.
+
+249
+00:25:44,759 --> 00:25:56,359
+This happens to me with dishes, ideas, human beings, cities, poems, music, doctrines, ways of arranging the day, and lifestyles.
+
+250
+00:25:56,360 --> 00:25:59,239
+I don't know what to say about that.
+
+251
+00:25:59,880 --> 00:26:03,719
+They're not really Melville-like for two reasons, I think.
+
+252
+00:26:03,719 --> 00:26:07,160
+They don't seem quite to be moods, although there's some overlap.
+
+253
+00:26:07,160 --> 00:26:13,319
+Dishes, that is, food dishes and the table are related.
+
+254
+00:26:13,319 --> 00:26:18,039
+Ideas, human beings, well, maybe that's friendship.
+
+255
+00:26:18,039 --> 00:26:21,239
+Cities, poems, music.
+
+256
+00:26:21,239 --> 00:26:22,119
+I don't know.
+
+257
+00:26:22,120 --> 00:26:35,159
+What I think, I think the main difference between the two lists is that it's clearer in Melville that things go with kinds of worlds.
+
+258
+00:26:35,400 --> 00:26:46,680
+There's the domestic world, there's the horseback world, there's the world of patriotism, there's the world of eroticism, and they don't seem to line up much with worlds in Nietzsche.
+
+259
+00:26:46,680 --> 00:26:57,639
+And the other thing is the Nietzsche ones, and you might be not surprised if you knew that Nietzsche lived all by himself up high in the Swiss Alps and was quite a loner.
+
+260
+00:26:58,600 --> 00:27:03,879
+And these all seem like loner things, except the one with hum with human beings.
+
+261
+00:27:03,880 --> 00:27:14,080
+But I think that Nietzsche's list i is not got the right, not the Melville sense that these are worlds and that they're shared.
+
+262
+00:27:15,039 --> 00:27:22,879
+His list is a list of worlds like the squeezing of the sperm.
+
+263
+00:27:23,440 --> 00:27:27,680
+It's a world in which you share it with everybody, with the other people in it.
+
+264
+00:27:27,680 --> 00:27:33,599
+And part of the satisfaction and the joy of it is that you share it with other people in it.
+
+265
+00:27:33,600 --> 00:27:37,039
+And I bet that's going to have to be true of all of them.
+
+266
+00:27:37,039 --> 00:27:48,319
+And I think that's because I believe Ishmael or Melville, when they think of moods, don't think of private, fleeting experiences.
+
+267
+00:27:48,319 --> 00:27:49,520
+Although there can be.
+
+268
+00:27:49,519 --> 00:27:56,160
+You can feel sort of giddy for an hour or two and nobody's around and it doesn't last and it doesn't connect.
+
+269
+00:27:56,160 --> 00:28:09,840
+But I mean, the moods that Melville is interested in and Ishmael is talking about are moods that come over you, that's the welling up, take you over, draw you in.
+
+270
+00:28:09,840 --> 00:28:10,879
+You don't plan it.
+
+271
+00:28:11,120 --> 00:28:16,320
+The squeezing of the hand didn't, it wasn't that he expected to be swept up like that.
+
+272
+00:28:16,319 --> 00:28:25,519
+They come over you, they draw you in, they color your whole world, they draw you in with other people, and they go away after a while.
+
+273
+00:28:26,160 --> 00:28:33,999
+That's the brief habit thing I read, partly because it's the closest thing I know to Melville, but it's different.
+
+274
+00:28:33,999 --> 00:28:36,400
+Different in an important way.
+
+275
+00:28:36,400 --> 00:28:38,560
+And I think the Melville one is more interesting.
+
+276
+00:28:38,559 --> 00:28:40,079
+At least it's more polytheistic.
+
+277
+00:28:40,319 --> 00:28:43,920
+If these are really a list of worlds, that's what we want to see.
+
+278
+00:28:43,920 --> 00:28:50,159
+And you could have a god for horses, horse people, maybe it's Diane, and so forth.
+
+279
+00:28:50,160 --> 00:29:02,600
+Whereas it's hard to have a god for dishes and all these funny things, ideas, and the strange things that make Nietzsche grab Nietzsche and hold him and draw him in.
+
+280
+00:29:03,239 --> 00:29:19,079
+But the grabbing and the filling of a whole, of your whole experience, and then going away without being, you know, without having nauseated you, but also not upsetting you because you wanted them to last.
+
+281
+00:29:19,080 --> 00:29:23,719
+That structure I think he shares with Malco.
+
+282
+00:29:23,719 --> 00:29:25,239
+Maybe we could try opening the door again.
+
+283
+00:29:25,239 --> 00:29:26,519
+Maybe they stop making noise.
+
+284
+00:29:27,160 --> 00:29:31,880
+I know maybe it's over, though, because I see people fanning as if they are going to pass out.
+
+285
+00:29:32,600 --> 00:29:34,839
+If it isn't over, we have to leave it.
+
+286
+00:29:35,479 --> 00:29:37,719
+They go home sometimes, though.
+
+287
+00:29:38,039 --> 00:29:38,680
+It's okay.
+
+288
+00:29:38,680 --> 00:29:40,999
+They usually stop around this time.
+
+289
+00:29:41,880 --> 00:29:43,719
+Their day is over, let's hope.
+
+290
+00:29:43,719 --> 00:29:44,519
+Okay.
+
+291
+00:29:45,160 --> 00:29:46,279
+Where are we?
+
+292
+00:29:46,600 --> 00:29:53,559
+So, and now again, Ishmael is respectful of all the resources of all the world's cultures.
+
+293
+00:29:53,559 --> 00:30:12,279
+And as long as they aren't taken for objective truth, as long as they aren't totalizing, as soon as they are, like pantheism, as soon as the feeling of lying on the grass and being one with the world is taken as the truth, the feeling that really reveals reality, then he's going to laugh at it.
+
+294
+00:30:12,440 --> 00:30:16,680
+He laughs at Emerson in another book of his called The Confidence Man.
+
+295
+00:30:17,160 --> 00:30:26,440
+Fans of pantheism and big enemies of, I don't know if you knew him personally, but he was a kind of intellectual enemy of Melville.
+
+296
+00:30:26,440 --> 00:30:37,319
+So, and I'm telling you always too, I want to sort of emphasize, look, this book is nearer the Odyssey than anything else written, probably.
+
+297
+00:30:37,319 --> 00:30:57,440
+And that's why we read the Odyssey at the beginning and this at the end, because there you go from the Homeric kind of pantheism to the Melville kind of pantheism, having passed through all the forms of the o of single gods or more and more single gods.
+
+298
+00:30:57,440 --> 00:31:00,879
+There are two in Aeschylus, remember.
+
+299
+00:31:00,880 --> 00:31:05,200
+There's just Augustus in Virgil.
+
+300
+00:31:05,200 --> 00:31:10,319
+There's the Supreme Being in Dante.
+
+301
+00:31:10,319 --> 00:31:14,160
+And then you get somebody who has this Homeric view.
+
+302
+00:31:14,160 --> 00:31:23,200
+So like Odysseus, it's clear that Ishmael is a cross-world person, at home on the land and in the sea and in any culture.
+
+303
+00:31:23,200 --> 00:31:28,400
+He has no, but he's even more, and that's because it's the modern world.
+
+304
+00:31:28,400 --> 00:31:32,080
+And the modern world, he doesn't have any home anymore.
+
+305
+00:31:32,080 --> 00:31:33,840
+He doesn't have any center.
+
+306
+00:31:33,840 --> 00:31:36,639
+He doesn't have any place that he's going.
+
+307
+00:31:36,959 --> 00:31:42,639
+There's no kingdom that and he's not a father and he's got no kids.
+
+308
+00:31:42,640 --> 00:31:46,559
+In other words, that we're back to he's a wanderer and he's an orphan.
+
+309
+00:31:46,559 --> 00:31:48,160
+He's sort of Odysseus.
+
+310
+00:31:48,160 --> 00:31:58,319
+If Odysseus was sort of full-time the way you see him in the book at the beginning when he's just wandering around sort of experiencing things.
+
+311
+00:31:58,640 --> 00:32:01,520
+So Melville's more radical than Homer.
+
+312
+00:32:01,519 --> 00:32:14,239
+He thinks you can't go back to after you've become a wanderer to go being rooted in your island with your bed in it made out of a tree, you know, and ground and roots in the ground.
+
+313
+00:32:14,239 --> 00:32:15,600
+There are no roots.
+
+314
+00:32:15,600 --> 00:32:18,280
+Ishmael is utterly unrooted.
+
+315
+00:32:18,279 --> 00:32:21,759
+And the modern world is getting more and more like that.
+
+316
+00:32:21,759 --> 00:32:35,239
+And that's why if you's going to be a kind of a host mod, if you're going to have a kind of polytheistic identity, you can't have father and son and kingdom in it.
+
+317
+00:32:35,959 --> 00:32:38,680
+So Ishmael's not committed to any set of worlds.
+
+318
+00:32:38,680 --> 00:32:40,920
+He has no home base.
+
+319
+00:32:42,200 --> 00:32:47,799
+But he isn't just disinterestedly curious, collecting experiences.
+
+320
+00:32:47,799 --> 00:32:58,920
+Now, who thinks that Odysseus is just collecting experiences, sort of not really getting involved even temporarily at all in these experiences?
+
+321
+00:32:58,920 --> 00:33:00,519
+Just an observer?
+
+322
+00:33:00,840 --> 00:33:03,639
+Where do we hear Odysseus described that way?
+
+323
+00:33:03,959 --> 00:33:05,879
+Now, there are so many things to remember.
+
+324
+00:33:05,879 --> 00:33:06,520
+Yeah.
+
+325
+00:33:07,160 --> 00:33:08,200
+Right, right.
+
+326
+00:33:08,200 --> 00:33:26,920
+And in the Tanto in the Inferno, where Odysseus is in there for false counseling by telling his sailors that the highest things human beings can do is become sort of observers of all sorts of worlds and all sorts of experience.
+
+327
+00:33:26,919 --> 00:33:54,519
+Now, Ishmael also thinks that it's right to do something with all sorts of worlds and all sorts of experience, but not just be observers for it, not just because it's another experience, another form of entertainment, but because while you're drawn into it, it gives you a world, it gives your life meaning, it's the best thing that can happen to you.
+
+328
+00:33:54,520 --> 00:33:58,280
+It's a divine intuition, it's a divine magnanimity.
+
+329
+00:33:58,279 --> 00:34:03,960
+And that's not what Dante thinks Odysseus is up to.
+
+330
+00:34:03,960 --> 00:34:11,319
+Now, it just occurs to me to ask myself, and you, and what does Homer think Odyssey is up to?
+
+331
+00:34:11,319 --> 00:34:15,039
+Is he letting himself be drawn into these worlds?
+
+332
+00:34:11,560 --> 00:34:26,880
+Yes, when he goes and lives with Calypso or he gets into these complicated games with the Phaeacians and so forth.
+
+333
+00:34:26,879 --> 00:34:29,919
+He does go and take part in the world.
+
+334
+00:34:29,919 --> 00:34:34,799
+He's not just observing, and he's certainly not laughing at them.
+
+335
+00:34:35,120 --> 00:34:39,680
+But there's something there.
+
+336
+00:34:40,000 --> 00:34:45,520
+I think it's something like, it's not an end in itself.
+
+337
+00:34:45,520 --> 00:34:51,119
+I mean, the point for Odysseus, it's interesting, I try to understand Homer.
+
+338
+00:34:51,120 --> 00:35:05,919
+The point for Odysseus is not to have a temporary world that gives you meaning, like the brief habits or like the list under the squeeze of the hand.
+
+339
+00:35:06,640 --> 00:35:13,040
+It isn't something that draws you in, gives you a whole world with meaning, and then leaves you again.
+
+340
+00:35:13,040 --> 00:35:27,520
+He doesn't ever get that involved because he's always got this other thing of getting home, of really belonging with Penelope and so forth on his island, or going to see his father in Hades.
+
+341
+00:35:27,520 --> 00:35:34,960
+So Odysseus is something, I don't know how to even put it, Odysseus is something between an observer.
+
+342
+00:35:35,120 --> 00:35:38,879
+Dante had it sort of on a whole pathway.
+
+343
+00:35:39,200 --> 00:35:43,600
+He's something like a collector of worlds.
+
+344
+00:35:44,879 --> 00:35:50,800
+That Ishmael has got some of Odyssey in him, but it's neither of those.
+
+345
+00:35:50,799 --> 00:35:52,879
+It's, hmm, here's something.
+
+346
+00:35:52,879 --> 00:35:54,399
+I don't know where it's going to lead.
+
+347
+00:35:54,399 --> 00:36:05,719
+But the worlds that Odysseus can get aren't the Phaeacians' world and the, what did I say, Calypso's world and so forth.
+
+348
+00:36:05,719 --> 00:36:10,520
+The only worlds available to Odysseus, which he also visits.
+
+349
+00:36:10,520 --> 00:36:13,080
+And there, he does more than visit them.
+
+350
+00:36:13,080 --> 00:36:22,839
+He really gets into them is the war world when he's in the aggressive stance of Aries, or do we see him in any other world?
+
+351
+00:36:22,839 --> 00:36:34,280
+Well, the domestic world when he finally gets home and we see him finally telling his life story in bed with Penelope or mentoring Telemachus.
+
+352
+00:36:34,919 --> 00:36:36,759
+Those are worlds.
+
+353
+00:36:37,640 --> 00:36:54,120
+Odysse gets into those worlds, presumably, by being drawn in, and they do get his life meaning when he's being a warrior or when he's taking over his castle, being the super king and super domestic.
+
+354
+00:36:54,120 --> 00:37:03,560
+Those are the right, those are the sort of kind of polytheistic things that Melville would like.
+
+355
+00:37:03,879 --> 00:37:05,479
+Yeah, I can't say more about it.
+
+356
+00:37:06,680 --> 00:37:08,999
+It's Odysseus, what?
+
+357
+00:37:10,120 --> 00:37:31,719
+If you took away the rooted bed in the family as somehow the superior mood, the really right getting in touch with re the deepest getting in touch with reality, if you treated all Atacis as equal, anything can draw you in, be a world, and give your life meaning for a while.
+
+358
+00:37:31,719 --> 00:37:33,719
+See, it's that for the while, too.
+
+359
+00:37:33,719 --> 00:37:40,280
+It's all so much more general, that is, anything can do it.
+
+360
+00:37:40,279 --> 00:37:42,399
+I'm talking about the Ishmael world now.
+
+361
+00:37:42,120 --> 00:37:47,919
+Anything can become a mood or a world and you've got to be ready to let it go.
+
+362
+00:37:48,560 --> 00:37:52,000
+And it's not that's different.
+
+363
+00:37:52,000 --> 00:38:01,040
+Although notice the way Odysseus apparently is happy with Calypso for a while, but after a year he gets bored and he's ready to let it go.
+
+364
+00:38:01,680 --> 00:38:13,759
+There's a lot of common feel for the experience of being drawn in and then satisfied and then going on.
+
+365
+00:38:14,080 --> 00:38:15,519
+Okay, I can't say more about it.
+
+366
+00:38:15,520 --> 00:38:17,040
+I just think it's interesting.
+
+367
+00:38:17,040 --> 00:38:25,520
+And I bet there's a moral to be said, but now I'll if I think of it, I'll say it next time, if there were a next time.
+
+368
+00:38:26,160 --> 00:38:28,000
+Next time I give it, I guess.
+
+369
+00:38:28,560 --> 00:38:32,879
+And maybe somebody's going to come to office hours and tell me more what the moral is.
+
+370
+00:38:32,879 --> 00:38:36,479
+Ah, David, I feel I'm about to get at something and I don't know what.
+
+371
+00:38:47,520 --> 00:38:48,479
+He got rid of that.
+
+372
+00:38:49,040 --> 00:38:51,759
+You mean that he puts that behind him in some way?
+
+373
+00:38:52,640 --> 00:38:54,160
+Where is he coming home?
+
+374
+00:38:54,160 --> 00:38:55,919
+He travels home to himself.
+
+375
+00:38:58,879 --> 00:39:00,879
+Oh, no, I I don't want to say that.
+
+376
+00:39:00,879 --> 00:39:04,719
+I think he's going to be drizzly again just because moods are like that.
+
+377
+00:39:04,719 --> 00:39:06,079
+He was in a grumpy mood.
+
+378
+00:39:06,080 --> 00:39:11,279
+It isn't as if now he's found sort of a deeper truth so he's not going to be at the end of heaven.
+
+379
+00:39:12,319 --> 00:39:13,839
+Okay, good, good, right, that's right.
+
+380
+00:39:13,839 --> 00:39:15,200
+Well, that's what I'm saying, too.
+
+381
+00:39:15,200 --> 00:39:16,960
+That's another way to say it.
+
+382
+00:39:16,960 --> 00:39:18,319
+There isn't any homecoming.
+
+383
+00:39:18,319 --> 00:39:19,759
+There isn't any island.
+
+384
+00:39:19,759 --> 00:39:25,680
+There isn't any self at all, any job at all, any identity at all.
+
+385
+00:39:25,680 --> 00:39:41,160
+Ishmael has none at the beginning of the book, and when he's an orphan at the end of the book, he is pure openness, pure attuning, receptivity to what draws him in and gives him meaning for a while.
+
+386
+00:39:41,160 --> 00:39:43,799
+That's his, that's him, I think.
+
+387
+00:39:44,600 --> 00:39:48,759
+That's what I want to call, he's the truly polytheistic person.
+
+388
+00:39:48,759 --> 00:40:01,479
+Odysse hasn't quite arrived at being fully polytheistic in that sense of being open to every divinity that the divine intuitions could all be called divinities if you want.
+
+389
+00:40:01,480 --> 00:40:08,440
+And he's open to every divinity any culture can offer or any time of day can offer or it just happens to you.
+
+390
+00:40:08,439 --> 00:40:09,000
+Yeah.
+
+391
+00:40:22,680 --> 00:40:24,759
+Polyphenus, the cyclop.
+
+392
+00:40:25,000 --> 00:40:28,439
+No, because he doesn't have her because he did it on his own, right?
+
+393
+00:40:28,759 --> 00:40:29,239
+Yeah.
+
+394
+00:40:29,480 --> 00:40:32,759
+Okay, well, that's, and that's the question of being a cross-world person.
+
+395
+00:40:32,759 --> 00:40:34,040
+So let's think about that.
+
+396
+00:40:34,040 --> 00:40:39,960
+Odyssey, I think that's probably very important for what I'm trying to say.
+
+397
+00:40:39,960 --> 00:40:56,440
+Remember, I wanted some third thing, not just doing it for experience, but not doing it because when you're in it, it seems totally satisfying and meaningful to you.
+
+398
+00:40:56,680 --> 00:41:00,680
+Odysseus sort of is defined as the cross-world person.
+
+399
+00:41:00,680 --> 00:41:03,239
+I mean, that's the sense in which Athena's with him.
+
+400
+00:41:03,239 --> 00:41:09,960
+I mean, the important thing for him is to be able, I think, to go from world to world and adapt.
+
+401
+00:41:09,960 --> 00:41:25,200
+So his moods are generally suspicious when he arrives, and then he's sort of citing things out, and then he's sort of gets in tune with whatever the current mood is, like the dinner party at the Phaeacians and so forth.
+
+402
+00:41:25,200 --> 00:41:42,880
+But what's what gives him guidance is that Athena, and of course, with the agreement of Zeus, makes him a person who is able to go from world to world.
+
+403
+00:41:42,879 --> 00:42:01,440
+And he, that sort of, it isn't that Ishmael goes from world to world, he does do that, but it's that he's able to live in these, each world fully and experience everything from that perspective.
+
+404
+00:42:01,439 --> 00:42:04,879
+I don't think that's the point for Odysseus.
+
+405
+00:42:04,879 --> 00:42:12,160
+The point for Odysseus is to be a wanderer all right.
+
+406
+00:42:12,480 --> 00:42:22,560
+But it's the it's funny, it's hard to put, but I think for Odysseus, it's the wandering itself, which is the point.
+
+407
+00:42:22,879 --> 00:42:32,000
+Whereas for Ishmael, it's where you stop as you wander and get in and get drawn in, which is the point.
+
+408
+00:42:32,000 --> 00:42:41,680
+The first sentence of the Odyssey is, I forget how it goes exactly, but it's the famous word is polytropi.
+
+409
+00:42:42,879 --> 00:42:53,120
+The muse is singing of Odysseus polytropai, which means wanderer and also clever.
+
+410
+00:42:53,120 --> 00:42:59,079
+And it's the cross-world word, presumably.
+
+411
+00:42:56,799 --> 00:43:03,400
+Adaptable to every world, I think, would be a way of translating it, probably.
+
+412
+00:43:05,319 --> 00:43:15,239
+And the emphasis for Ishmael is something like being able to be attuned to all these.
+
+413
+00:43:15,239 --> 00:43:26,520
+But it's not because he's been able to be attuned to lots of different worlds, but that he's able to get into them, into the world he's in, whatever one it is.
+
+414
+00:43:27,000 --> 00:43:30,519
+Boy, is that a it's either a very subtle difference or an important difference.
+
+415
+00:43:30,520 --> 00:43:31,239
+I can't tell.
+
+416
+00:43:31,239 --> 00:43:31,559
+Yeah.
+
+417
+00:43:33,799 --> 00:43:34,680
+That's right.
+
+418
+00:43:37,799 --> 00:43:43,319
+Even though he has all of this with a business every world, but it's also involved.
+
+419
+00:43:43,480 --> 00:43:45,399
+People are fine and using that.
+
+420
+00:43:45,399 --> 00:43:48,280
+Well, I have another way to graduate.
+
+421
+00:43:48,279 --> 00:43:53,640
+But he thinks he's gone into all the different baldness and he can't really think about it.
+
+422
+00:43:54,439 --> 00:43:56,120
+I think that's interesting.
+
+423
+00:43:56,120 --> 00:43:57,400
+That might be right.
+
+424
+00:43:57,399 --> 00:43:59,080
+I think that's important.
+
+425
+00:43:59,080 --> 00:44:04,040
+That his that I'm going to come back to that.
+
+426
+00:44:04,200 --> 00:44:14,759
+I think it's a big difference whether you've got a culture which has a certain set of gods or whether you're outside of all any particular culture going from culture to culture.
+
+427
+00:44:14,759 --> 00:44:21,080
+And that is one of the big differences between them, which is certainly related to what I'm saying.
+
+428
+00:44:21,080 --> 00:44:21,799
+Okay.
+
+429
+00:44:22,439 --> 00:44:23,559
+Let's see now.
+
+430
+00:44:25,640 --> 00:44:26,839
+Ishmael.
+
+431
+00:44:27,160 --> 00:44:28,040
+Okay, yeah, okay.
+
+432
+00:44:28,040 --> 00:44:36,920
+Odysseus, I just wrote here, is suspicious, curious, always worrying about his own survival and the survival of his crew.
+
+433
+00:44:36,919 --> 00:44:39,640
+That feels very different, for better or for worse.
+
+434
+00:44:39,640 --> 00:44:57,280
+I don't know what to do with it, than what when Ishmael says at the beginning of the book, I read this long ago, that he wants to be sociable with all the strange cultures and people he comes across on page six, the end of chapter one.
+
+435
+00:44:57,919 --> 00:44:59,599
+Not ignoring the good.
+
+436
+00:44:59,919 --> 00:45:09,919
+I'm quick to perceive a horror, could still be social with it, would they let me, since it is but well to be on friendly terms with all the inmates of the place one lodges in.
+
+437
+00:45:09,919 --> 00:45:17,840
+That means sort of you should get attuned to every everywhere that you could go in the world, I think.
+
+438
+00:45:17,839 --> 00:45:19,040
+Okay, I want to jump ahead.
+
+439
+00:45:19,040 --> 00:45:26,719
+I'm afraid timing, I can't wait, you know, I can't talk after five because there's no next lecture, so I want to jump ahead.
+
+440
+00:45:26,719 --> 00:45:42,719
+But I want to just say that this, that one more thing, whereas Odysseus, it seems to me, is always sort of outside of and what where he is, another way to put it is that Ishmael can be contented.
+
+441
+00:45:42,719 --> 00:45:46,800
+I think Ishmael feels at home wherever he goes.
+
+442
+00:45:46,799 --> 00:45:51,200
+I don't think Odysseus feels at home wherever he goes, partly because he's got a home.
+
+443
+00:45:51,200 --> 00:45:55,120
+If you haven't got a home, then you can feel at home wherever you go.
+
+444
+00:45:55,120 --> 00:45:58,080
+That's one of the things I'm trying to get at.
+
+445
+00:45:58,080 --> 00:46:14,400
+And the word for this feeling at home that I'm making up, so to speak, but remember I said and I brought it to read it this time, this important notion that the basic feeling of Ishmael is that he's contented.
+
+446
+00:46:14,399 --> 00:46:16,640
+He says, content.
+
+447
+00:46:16,640 --> 00:46:17,839
+That's it.
+
+448
+00:46:20,160 --> 00:46:24,960
+A strange feeling, no hopelessness is in it, no despair.
+
+449
+00:46:24,960 --> 00:46:29,719
+I speak now of my profoundest sense of being, not an incidental feeling.
+
+450
+00:46:30,040 --> 00:46:36,680
+So this, I don't, contentment doesn't seem to be the right basic feeling for Odysseus, does it?
+
+451
+00:46:37,319 --> 00:46:41,800
+It looks like it's sort of restlessness.
+
+452
+00:46:42,200 --> 00:46:45,800
+Sometimes because he wants to see more, sometimes because he wants to get home.
+
+453
+00:46:45,799 --> 00:46:53,479
+I don't think Odysseus is content until he's in bed with Penelope, having got his castle back and his son back, and then he is content.
+
+454
+00:46:53,480 --> 00:47:01,719
+But the interesting thing again is Ishmael's content all the time, wherever he is, whenever he makes himself at home.
+
+455
+00:47:01,719 --> 00:47:08,520
+Now I went mainly to talk about polytheism, and I haven't got there yet, so I'm going to go there in a hurry now.
+
+456
+00:47:10,359 --> 00:47:24,440
+Meldill had one important quote, which I'm not clear that I understand how to interpret, but I will tell you sort of why I think it's interesting and why it needs to be interpreted.
+
+457
+00:47:24,439 --> 00:47:26,200
+I think I've already quoted it once.
+
+458
+00:47:26,200 --> 00:47:41,080
+At the bottom of 336, the end of chapter 79, the quote that in a certain way is why I put the book in the Course, is where he's saying, if hereafter a highly cultured, are they making all that noise again?
+
+459
+00:47:41,080 --> 00:47:43,560
+Are they making that noise coming again from them?
+
+460
+00:47:43,560 --> 00:47:44,279
+I'm afraid so.
+
+461
+00:47:44,279 --> 00:47:45,640
+Sorry, I guess wrong.
+
+462
+00:47:46,600 --> 00:47:49,560
+But people stopped banning themselves for a while.
+
+463
+00:47:49,560 --> 00:47:51,000
+It got cooler anyway.
+
+464
+00:47:51,000 --> 00:47:52,200
+Okay, here we go again.
+
+465
+00:47:52,200 --> 00:48:18,399
+If hereafter any highly cultured poetical nation shall lure back to their birthright, the Merry May Day gods of old, that's the funny way of referring to the Pantheon of gods, and livingly enthroned again in the now egotistical sky, that's our modern sky, meaning in our world we're all subjects, sort of imposing meaning on things.
+
+466
+00:48:12,040 --> 00:48:19,439
+I'll come back to that in a minute.
+
+467
+00:48:19,680 --> 00:48:24,959
+In the now unhaunted hill, that means nature is just what science says it is.
+
+468
+00:48:24,960 --> 00:48:27,440
+There's no mystery, no gods in nature.
+
+469
+00:48:27,439 --> 00:48:34,320
+Then, to be sure, exalted to Jove's, let's say Zeus's high seat, the great sperm whale shall lord it.
+
+470
+00:48:34,319 --> 00:48:37,200
+Now, that's the quote that's interesting.
+
+471
+00:48:37,200 --> 00:48:54,080
+Melville either wishes the Pantheon would come back, something like the old pantheon would come back, or longs for the old pantheon to come back, or just happens, just considering if it did ever come back, then Moby Dick would lord it.
+
+472
+00:48:54,080 --> 00:48:55,919
+I don't know for sure.
+
+473
+00:48:57,919 --> 00:49:00,239
+But certainly, this much is true.
+
+474
+00:49:00,239 --> 00:49:15,360
+Melville admires and likes polytheism, and he likes it in its current form, which is Ishmael running around trying all these divine intuitions.
+
+475
+00:49:15,359 --> 00:49:21,759
+But he likes it even better, I think, although I'm not sure, in the Greek form.
+
+476
+00:49:22,080 --> 00:49:33,440
+My hunch that he likes it better is I think he'd find the sky better if it wasn't so egotistical, and I think he would find the nature better if it weren't so disenchanted.
+
+477
+00:49:33,439 --> 00:49:50,239
+But now I want to read why, and this is, if I don't get any further than this, this is the main thing I want to read, and that is contrast the polytheism of Homer and Melville with the polytheism of Nietzsche.
+
+478
+00:49:50,399 --> 00:49:51,920
+You have it on your page there.
+
+479
+00:49:51,919 --> 00:49:56,799
+Nietzsche suddenly says he's going to tell us the advantages of polytheism.
+
+480
+00:49:56,919 --> 00:50:10,920
+And I have a long quote: For an individual to posit his own ideal and derive from it his own law, joys, and rights, that may well have been considered hitherto the most outrageous human aberration as idolatry itself.
+
+481
+00:50:10,919 --> 00:50:21,719
+Posit means that you just give something the meaning that you want to give it, and you make the laws, and you then get the joy.
+
+482
+00:50:21,719 --> 00:50:24,360
+That's what I've been calling autonomy.
+
+483
+00:50:24,359 --> 00:50:32,200
+That's the modern subject in its form of being the source of meaning, the willful source of meaning.
+
+484
+00:50:32,200 --> 00:50:39,480
+That we take the place of God, we become the supreme being, we give meaning to everything.
+
+485
+00:50:39,480 --> 00:50:40,919
+That's Melville's view.
+
+486
+00:50:40,919 --> 00:50:44,279
+Melville is an activist, voluntarist.
+
+487
+00:50:44,359 --> 00:50:47,400
+There are words for this willful person.
+
+488
+00:50:47,399 --> 00:50:57,000
+According to the way Heidegger thinks about it, that's one stage beyond the never mind.
+
+489
+00:50:57,000 --> 00:50:58,200
+I don't think I should say that.
+
+490
+00:50:58,839 --> 00:51:08,520
+He goes on: the wonderful art and gift of creating gods, polytheism, was the medium through which this impulse could discharge it and perfect and ennoble itself.
+
+491
+00:51:08,520 --> 00:51:14,200
+Namely, this impulse of making up your own laws, making up your own meaning.
+
+492
+00:51:14,919 --> 00:51:16,679
+The bad thing was before that.
+
+493
+00:51:16,680 --> 00:51:22,600
+There was only one norm, man, and every people thought that it possessed this one ultimate norm.
+
+494
+00:51:22,600 --> 00:51:27,640
+That's the way there was always an idea of how people should behave in any culture.
+
+495
+00:51:27,960 --> 00:51:34,200
+But above and outside, in some overworld, one was permitted to behold a plurality of norms.
+
+496
+00:51:34,200 --> 00:51:37,959
+One god, now think about the Greek gods, the power- the Homeric gods.
+
+497
+00:51:37,960 --> 00:51:42,799
+One god was not considered a denial of another god, nor blasphemy against him.
+
+498
+00:51:43,200 --> 00:52:01,200
+So you can have Aphrodite in the erotic, and you can have Helen, and she was in that erotic, but she was also under Hera in the domestic, and you have Aries, and these gods are you don't have to have one answer to what the right way to live is, the right form of life is.
+
+499
+00:52:01,200 --> 00:52:15,759
+So the invention of gods and heroes and overmen of all kinds, big list here, was the inestimable preliminary exercise for the justification of egoism and the sovereignty of the individual.
+
+500
+00:52:16,319 --> 00:52:17,519
+That's Nietzsche.
+
+501
+00:52:17,520 --> 00:52:19,200
+That's not Melville.
+
+502
+00:52:19,200 --> 00:52:21,600
+That's got no receptivity.
+
+503
+00:52:21,600 --> 00:52:31,279
+He's not talking about attunements to gods, attunements to worlds, where you are receptive to what's going on.
+
+504
+00:52:31,279 --> 00:52:35,440
+He says people invent gods, invent worlds, and so forth.
+
+505
+00:52:35,439 --> 00:52:37,040
+Now go on with that.
+
+506
+00:52:38,000 --> 00:52:49,840
+In polytheism, the free-spiriting, many-spiriting of man attained its preliminary form, the strength to create for ourselves our own eyes, ever new eyes with ever more their own.
+
+507
+00:52:49,839 --> 00:52:54,480
+Hence, man alone among all animals, that's enough.
+
+508
+00:52:54,719 --> 00:52:56,719
+But there's a little more, the bad thing.
+
+509
+00:52:56,719 --> 00:53:00,160
+I want to go back, look at the beginning of the paragraph I just read.
+
+510
+00:53:00,160 --> 00:53:15,920
+Monotheism, on the other hand, this rigid consequence of the doctrine of one normal human type, faith in one normal God, that's the supreme being, besides whom there are only pseudo-gods, was perhaps the greatest danger that yet confronted humanity.
+
+511
+00:53:15,919 --> 00:53:32,839
+Okay, so I think Melville and Nietzsche agree that onto theology, monotheism from their point of view is this great danger, that there's only one perspective, one truth, one right way to be a human being, and so forth.
+
+512
+00:53:33,160 --> 00:53:45,160
+And that the great thing is that people, that polytheism denies that, gives people a plurality of good lives, for instance.
+
+513
+00:53:46,040 --> 00:53:48,279
+Now I'm going to take sort of Melville's side.
+
+514
+00:53:48,279 --> 00:53:56,200
+I think Melville is better than Nietzsche because Nietzsche thinks that you can just make up gods and you posit them.
+
+515
+00:53:56,200 --> 00:54:04,040
+You are autonomous and you freely give them meaning and you can give any God, you can pick your own God and give it meaning and that's fine.
+
+516
+00:54:04,040 --> 00:54:06,040
+What's wrong with that view?
+
+517
+00:54:06,040 --> 00:54:12,759
+Well, what's wrong with it is that if you posit the meaning, then it won't have any authority for you.
+
+518
+00:54:12,759 --> 00:54:22,599
+It won't be something in your life that you have to be open to, be controlled by, but don't control.
+
+519
+00:54:22,600 --> 00:54:30,120
+I mean, Helen couldn't go around positing the eroticness of the scene with Paris.
+
+520
+00:54:31,160 --> 00:54:39,480
+That wouldn't have, if she had, she would have no right to go away and leave her husband and child just because she made up an erotic scene.
+
+521
+00:54:39,480 --> 00:54:50,200
+It's got to be experienced as something independent of you, which draws you in and has authority over you while it happens.
+
+522
+00:54:50,200 --> 00:54:51,799
+That's why it's divine.
+
+523
+00:54:51,799 --> 00:54:53,799
+That's what's sacred about it.
+
+524
+00:54:54,120 --> 00:54:56,839
+That's what's healing about it, if it's healing.
+
+525
+00:54:57,080 --> 00:54:58,680
+You never can tell.
+
+526
+00:54:58,680 --> 00:55:03,719
+There's not enough about that in this book for me to be able to figure out how healing it is.
+
+527
+00:55:03,719 --> 00:55:07,400
+But in any case, that's what's special about it.
+
+528
+00:55:07,399 --> 00:55:09,319
+And it's just what Nietzsche misses.
+
+529
+00:55:09,319 --> 00:55:12,200
+Nietzsche, and here's a funny way to put it.
+
+530
+00:55:12,480 --> 00:55:22,160
+I mean, the enemy of Homeric polytheism or Melville polytheism, there are two enemies.
+
+531
+00:55:22,160 --> 00:55:28,080
+There's the onto-theology that there's only one mood, only one world, and so forth.
+
+532
+00:55:28,080 --> 00:55:35,680
+That's the, so to speak, traditional wrong, at least as far as Virgil.
+
+533
+00:55:36,319 --> 00:55:42,160
+But then there's the modern wrongness, which is the autonomy thing.
+
+534
+00:55:43,040 --> 00:55:50,000
+The two mistakes are that there's only one answer, or that there's a plurality of meanings, and they're all up to us.
+
+535
+00:55:50,000 --> 00:55:52,480
+We've taken the place of the Supreme Being.
+
+536
+00:55:53,359 --> 00:55:56,719
+With our will, we can give anything any meaning we please.
+
+537
+00:55:56,719 --> 00:55:58,160
+And isn't that wonderful?
+
+538
+00:55:58,879 --> 00:56:00,959
+That I think is the Nietzschean mistake.
+
+539
+00:56:00,960 --> 00:56:09,440
+So there's the sort of pre-modern mistake, Dante, Supreme Being, leveling all the meanings.
+
+540
+00:56:09,439 --> 00:56:22,080
+Then there's the modern mistake, the Descartes-Kant subject who has taken the place of the Supreme Being, but now gets rid of all mattering.
+
+541
+00:56:22,560 --> 00:56:24,000
+That's another way to put it.
+
+542
+00:56:24,000 --> 00:56:27,599
+If you posit the meaning of things, then it doesn't really matter to you.
+
+543
+00:56:27,759 --> 00:56:31,280
+It's just made up by you, and you can just get rid of it again.
+
+544
+00:56:32,319 --> 00:56:35,759
+Think of just to take sort of romantic love as an example.
+
+545
+00:56:35,759 --> 00:56:42,560
+You can't just go around and posit somebody as the one you're going to love, and then it wouldn't have any grip on you.
+
+546
+00:56:42,560 --> 00:56:44,480
+It wouldn't really matter to you.
+
+547
+00:56:44,480 --> 00:56:49,440
+You could just posit them as no longer somebody you love, and then that would be fine.
+
+548
+00:56:49,759 --> 00:57:00,200
+It's sort of like living in a virtual world as opposed to the real world where you just make up whatever happens, and if you don't like what the world you made up, then you just drop it and make up another one.
+
+549
+00:56:56,560 --> 00:57:01,640
+That's how it looks at Nietzsche.
+
+550
+00:57:01,879 --> 00:57:05,640
+Okay, now, having said that, I want to see what I am.
+
+551
+00:57:05,879 --> 00:57:16,280
+Okay, so Nietzsche wants to return to polytheism, but he's got a wrong from Melville, and I must agree, point of view about what's interesting about polytheism.
+
+552
+00:57:16,279 --> 00:57:22,440
+He goes, he uses it, here's another way to put it, as a weapon against monotheism.
+
+553
+00:57:22,439 --> 00:57:23,640
+Remember, I read that part.
+
+554
+00:57:23,799 --> 00:57:29,480
+Monotheism says one answer, one truth, one understanding of what human beings are up to.
+
+555
+00:57:29,719 --> 00:57:36,120
+But Nietzsche uses it as an answer to monotheism, and he gets, and he bases it on autonomy.
+
+556
+00:57:36,120 --> 00:57:39,640
+But autonomy is just the next stage of monotheism.
+
+557
+00:57:39,960 --> 00:57:45,080
+The individual subject is the supreme being, giving meaning to everything.
+
+558
+00:57:46,359 --> 00:57:47,879
+There'd be nothing sacred.
+
+559
+00:57:47,879 --> 00:57:50,200
+Nothing would have authority for you.
+
+560
+00:57:50,200 --> 00:57:50,999
+Okay.
+
+561
+00:57:51,319 --> 00:58:02,440
+The kind of mood that Melville is interested in would be like the contagious mood at a party, which you can't posit, and when it's happening, you can't make it go away.
+
+562
+00:58:02,439 --> 00:58:11,640
+You can't, your moods, that's what's interesting about the moods, is that there's something that has authority over you, that makes things matter for you.
+
+563
+00:58:11,640 --> 00:58:18,120
+That's the sense in which it's divine, even a party, in the Melville view.
+
+564
+00:58:19,640 --> 00:58:30,840
+The mood of a party is contagious, and it whooshes up and it lasts for a while, and it goes away, and it draws you in, and while you're in it, it's the party that's your world.
+
+565
+00:58:30,839 --> 00:58:35,080
+And the same thing for the squeeze of the hand, of course.
+
+566
+00:58:36,040 --> 00:58:41,080
+And that means that for Ishmael, moods aren't private and psychological.
+
+567
+00:58:42,160 --> 00:58:44,320
+They're cultural possibilities.
+
+568
+00:58:44,319 --> 00:58:55,120
+The kind of parties you can have, the kind of friendship, the kind of love, the kind of rituals you can have depends on the culture.
+
+569
+00:58:57,120 --> 00:59:03,840
+And the moods are ontological, not psychological, in that they cover the whole world.
+
+570
+00:59:03,839 --> 00:59:06,400
+They're not inner, fleeting things.
+
+571
+00:59:06,399 --> 00:59:09,920
+They're shared atmospheres.
+
+572
+00:59:09,919 --> 00:59:13,520
+And you can't summon them up by will, and they have authority for you.
+
+573
+00:59:13,520 --> 00:59:15,279
+Okay, let's see what I can.
+
+574
+00:59:15,759 --> 00:59:18,560
+That's why they're divine magnanimities.
+
+575
+00:59:19,520 --> 00:59:26,160
+And don't sort of poo-poo them, I think Ishmael would say, because after all, they're not like vocations.
+
+576
+00:59:26,160 --> 00:59:31,280
+They're not like a love that's eternal or a commitment that's eternal.
+
+577
+00:59:31,520 --> 00:59:38,959
+The commitment that's eternal, remember, is Father Mappel's story, that Jonah had a calling and it was his calling for life and he had to do it.
+
+578
+00:59:38,960 --> 00:59:42,560
+And if he didn't do it, his life was going to be awful inside the whale.
+
+579
+00:59:42,560 --> 00:59:45,120
+Finally, he gets spit up and does it.
+
+580
+00:59:45,120 --> 00:59:51,839
+So the idea here is that there aren't somehow such callings.
+
+581
+00:59:51,839 --> 01:00:10,480
+I don't know whether Ishmael thinks they don't appeal to him, whether he thinks there really are such callings or whether he thinks, like Nietzsche does, that they're fanatical or like Virgil does, like Virgil thinks romantic love, what might have been romantic love on Dido's part, is just madness and fanaticism.
+
+582
+01:00:10,480 --> 01:00:20,880
+I don't know what it isn't clear what Ishmael thinks of Father Mappel's Kierkegaardian sermon that you should be committed to something for your whole life.
+
+583
+01:00:20,879 --> 01:00:27,200
+But if you are, that gets in the way of the moods because they look trivial compared to that kind of commitment.
+
+584
+01:00:27,319 --> 01:00:40,999
+But if you think that that kind of commitment is either impossible or dangerous fanaticism, some kind of blindness, commitments or prisons, Nietzsche says, then you're open to ontological moods.
+
+585
+01:00:41,719 --> 01:00:44,599
+That's where Ishmael is.
+
+586
+01:00:44,600 --> 01:00:47,640
+It's not a question for Ishmael of will.
+
+587
+01:00:47,960 --> 01:00:51,239
+It's a question of openness and attunement.
+
+588
+01:00:52,279 --> 01:00:54,280
+That's the divine part.
+
+589
+01:00:54,600 --> 01:00:59,480
+So then comes the next question I want to ask, and this is the last one.
+
+590
+01:01:00,120 --> 01:01:06,120
+What is Melville longing for the return of Greek, of Homeric polytheism?
+
+591
+01:01:06,439 --> 01:01:08,039
+And if so, why?
+
+592
+01:01:08,040 --> 01:01:09,399
+What's wrong with his kind?
+
+593
+01:01:09,640 --> 01:01:14,600
+What does his kind of polytheism lack that Homeric polytheism had?
+
+594
+01:01:14,600 --> 01:01:15,159
+One.
+
+595
+01:01:15,160 --> 01:01:17,480
+And second, does he think we could get it?
+
+596
+01:01:17,799 --> 01:01:20,039
+And oh, well, second, does he think we should get it back?
+
+597
+01:01:20,040 --> 01:01:22,680
+And then finally, does he think we could get it back?
+
+598
+01:01:23,239 --> 01:01:26,599
+I don't really know, but I've got ideas about it.
+
+599
+01:01:26,600 --> 01:01:30,680
+So I'll tell you what I think, and then you can tell me what you think.
+
+600
+01:01:31,319 --> 01:01:36,839
+So why wouldn't it work, the Homeric Khan?
+
+601
+01:01:36,839 --> 01:01:39,400
+Well, that's what Kevin back there was on to.
+
+602
+01:01:39,879 --> 01:01:43,960
+For the Homeric Greeks, these worlds supported each other.
+
+603
+01:01:43,960 --> 01:01:44,599
+Remember?
+
+604
+01:01:44,600 --> 01:01:50,600
+They all had a family resemblance, a common style, and they were all interrelated.
+
+605
+01:01:50,600 --> 01:02:00,920
+So that, you remember, at the dinner party you sang about the heroes and about the love affairs, and in the wars, you fought because they sang about you.
+
+606
+01:02:00,919 --> 01:02:05,880
+And I just discovered another funny overlap, funny because it's sort of weird.
+
+607
+01:02:06,120 --> 01:02:11,320
+Athena is not only a cross-world goddess, but she's the goddess of weaving.
+
+608
+01:02:11,319 --> 01:02:13,200
+Doesn't that sound strange?
+
+609
+01:02:13,200 --> 01:02:28,319
+So it's the same intuition that Melville has, that somehow the gods in the polytheistic world are interconnected and intertwined in some way.
+
+610
+01:02:28,640 --> 01:02:36,159
+And she's, as the cross-world person, actually the one who's the goddess of the intertwining, I think.
+
+611
+01:02:36,879 --> 01:02:39,040
+And for Ishmael, they're not.
+
+612
+01:02:39,040 --> 01:02:41,039
+They're just lots of gods all over.
+
+613
+01:02:41,040 --> 01:02:47,920
+There's still a weaver god who somehow manages, I don't know how to put it, to hold the whole thing together.
+
+614
+01:02:47,919 --> 01:02:56,479
+But it's not held together in the tight, interconnected way that the Homeric world and its pantheon was held together.
+
+615
+01:02:57,759 --> 01:03:05,040
+So another way to put it is the Homeric Greeks agreed in their culture about what moods were important.
+
+616
+01:03:05,040 --> 01:03:08,480
+The ones that had the gods representing them.
+
+617
+01:03:08,480 --> 01:03:18,160
+Love, domestic, love erotic, war, aggression, technology with Hephaestus, domestic with Hera, and so forth.
+
+618
+01:03:18,160 --> 01:03:20,000
+Those were the important moods.
+
+619
+01:03:20,000 --> 01:03:31,279
+There wasn't a mood for, let's think of something like, hmm, think of a mood, well, patriotism that comes in later with Aeschylus.
+
+620
+01:03:32,080 --> 01:03:39,519
+Aespelus invents it, or tells the Athenians they've invented it, and helps them, makes it real by telling them.
+
+621
+01:03:39,759 --> 01:03:49,840
+That holds it up to them that they've made a city so amazing that they all should love it and put it ahead of everything.
+
+622
+01:03:49,839 --> 01:03:53,840
+And the more they love it and put it ahead of everything, the more amazing it becomes.
+
+623
+01:03:54,399 --> 01:03:58,600
+That's fine, but that's another culture already.
+
+624
+01:03:58,919 --> 01:04:13,000
+There isn't any, for the Homeric Greeks, patriotism isn't a god, and of course, neither is duty, the Virgil, the supreme mood or supreme rule of behavior or something.
+
+625
+01:04:13,000 --> 01:04:35,400
+So you get a culture that selects a certain bunch of worlds or moods, focuses them, makes them central, interrelates them, sees that they've got a common style, even though they're different, and that is what we can't have, what Ishmael can.
+
+626
+01:04:36,040 --> 01:04:41,960
+Now, I don't know whether we've got to have it or not.
+
+627
+01:04:41,960 --> 01:04:48,919
+So, an open question is whether that certainly must have healed people in Homer time.
+
+628
+01:04:48,919 --> 01:04:56,360
+I don't think they were cracked about the head once they believed in their polytheism, which they did.
+
+629
+01:04:56,359 --> 01:05:17,800
+But whether you have this much looser, opener kind of polytheism, where there is no bunch of moods which are the important ones, which everybody knows are the important ones, and are interrelated, woven together, and you can be a cross-world person among those moods.
+
+630
+01:05:19,879 --> 01:05:27,800
+I don't know what it's whether what's left of polytheism is enough.
+
+631
+01:05:27,799 --> 01:05:36,439
+That's another way of saying, I don't know whether Ishmael, if it isn't enough, he's longing for the return of the gods, of the Homeric kind of gods.
+
+632
+01:05:36,439 --> 01:05:40,440
+Of course, we're not going to get those gods, but some other pantheon.
+
+633
+01:05:40,439 --> 01:05:50,480
+Maybe he thinks that you don't need a pantheon anymore, that his kind of polytheism, which we've just been describing, is enough.
+
+634
+01:05:51,120 --> 01:05:52,399
+Let me see now.
+
+635
+01:05:52,719 --> 01:05:55,040
+So I was going to back up for a second.
+
+636
+01:05:55,040 --> 01:06:02,960
+So why don't we all accept the current kind of polytheism that Ishmael experiences, that Melville actually lives?
+
+637
+01:06:02,960 --> 01:06:05,839
+Because he writes to, well, two reasons, I think.
+
+638
+01:06:05,839 --> 01:06:08,559
+We're still looking for a traditional total meaning.
+
+639
+01:06:08,560 --> 01:06:09,759
+That's Starbucks.
+
+640
+01:06:09,759 --> 01:06:11,680
+He can't live in that.
+
+641
+01:06:12,319 --> 01:06:18,640
+Or if we don't have that total meaning, I'm back on the two ways to go wrong.
+
+642
+01:06:18,640 --> 01:06:21,759
+The onto-theological way, we still want to keep that.
+
+643
+01:06:21,759 --> 01:06:24,160
+That would keep us from this kind of polytheism.
+
+644
+01:06:24,160 --> 01:06:29,119
+The other one is that we're egotistically imposing our individual meaning on everything.
+
+645
+01:06:29,439 --> 01:06:32,079
+That's the Nietzsche one.
+
+646
+01:06:32,080 --> 01:06:37,280
+That gives us the egotistical sky, which Melville doesn't like.
+
+647
+01:06:37,279 --> 01:06:57,520
+So the question is: if you collect meanings from all stages of our culture and from all other cultures, even though they don't fit together, even though they're not in any hierarchical form, even though we don't know which one, neither they're not ranked in terms of importance or anything like that, is that enough to be healing?
+
+648
+01:06:57,520 --> 01:06:59,600
+Is that holy?
+
+649
+01:06:59,600 --> 01:07:01,040
+It's divine.
+
+650
+01:07:02,399 --> 01:07:06,320
+I don't know whether it's what it takes to be sacred and holy.
+
+651
+01:07:06,319 --> 01:07:11,680
+I think probably for Ishmael and Melville it is sacred and holy because it's divine.
+
+652
+01:07:11,680 --> 01:07:25,359
+In that case, what I really think is he thinks that it's enough to make it possible to lead a meaningful life to live Ishmael polytheism, Melville polytheism.
+
+653
+01:07:25,359 --> 01:07:40,599
+However, I think he thinks it would be even better for everybody if we had a Homeric kind of polytheism, because I think he doesn't like the egotistical sky, because it just gets our relation to moods and worlds wrong.
+
+654
+01:07:40,599 --> 01:07:46,120
+That's what Nietzsche's doing with all that willful, autonomous sky.
+
+655
+01:07:46,120 --> 01:07:48,279
+And he doesn't like the disenchanted hill.
+
+656
+01:07:48,279 --> 01:07:49,080
+Nobody does.
+
+657
+01:07:49,080 --> 01:07:58,439
+I mean, there was this beautiful, wonderful nature full of all kinds of power and wonderful things pulling you in, and we've lost it.
+
+658
+01:07:58,439 --> 01:07:59,799
+The wilderness is gone.
+
+659
+01:07:59,800 --> 01:08:00,920
+Do you read the bear?
+
+660
+01:08:00,920 --> 01:08:03,559
+Anybody read the Faulkner's The Bear anymore?
+
+661
+01:08:04,120 --> 01:08:10,040
+And it's all about the end of the wilderness, the end of the enchantedness.
+
+662
+01:08:10,279 --> 01:08:14,999
+When the end of the book, the railroad is coming through and they're chopping down the wilderness.
+
+663
+01:08:15,000 --> 01:08:18,919
+So something feels wrong about that.
+
+664
+01:08:19,239 --> 01:08:23,639
+So it looks like, let me catch up again.
+
+665
+01:08:23,639 --> 01:08:29,880
+So the pagan worlds don't support each other the way the worlds do in the Homeric pantheon.
+
+666
+01:08:29,880 --> 01:08:31,239
+Don't resonate with each other.
+
+667
+01:08:31,239 --> 01:08:33,799
+You're just attuned to this one and this one and this one.
+
+668
+01:08:33,800 --> 01:08:38,679
+And I think Ishmael must think that it would be great if they supported each other.
+
+669
+01:08:38,679 --> 01:08:41,239
+That would be the May Day gods returning.
+
+670
+01:08:41,239 --> 01:08:45,639
+And that, by the way, when the May Day gods return, I've got to say this, I forgot.
+
+671
+01:08:45,639 --> 01:08:50,120
+Why is the sperm whale take the place of Zeus?
+
+672
+01:08:51,319 --> 01:08:54,519
+Well, I said it, but it's important to say it again.
+
+673
+01:08:54,519 --> 01:08:56,279
+Where are the May Day gods returning?
+
+674
+01:08:56,279 --> 01:08:57,880
+363, is it?
+
+675
+01:08:58,200 --> 01:08:59,080
+Help me find it.
+
+676
+01:08:59,080 --> 01:09:01,239
+I keep finding it and losing it.
+
+677
+01:09:01,479 --> 01:09:03,239
+336, okay.
+
+678
+01:09:03,559 --> 01:09:25,040
+If you look on that page, what you see is that on the same page where he says that you need sort of Zeus to be in charge of this, one, I think, Zeus is sort of what makes possible the coordination between these worlds and how they support each other and how it's possible to go from world to world.
+
+679
+01:09:25,040 --> 01:09:32,639
+But I think that's not as important as the fact that, remember, that the whale is the unrepresentable.
+
+680
+01:09:32,639 --> 01:09:38,960
+So the whale is what keeps you open to all the colors of the rainbow, all the various gods.
+
+681
+01:09:38,960 --> 01:09:44,319
+It's on the same page where he talks about these Zeus being the head of all the gods.
+
+682
+01:09:44,319 --> 01:09:50,799
+He says up above, the great sperm whale has got this big, mighty brow.
+
+683
+01:09:50,800 --> 01:10:04,959
+You feel the deity and the dread powers more forcibly than any other object in living nature, for you see no one point precisely, not one distinct feature is revealed, no nose, eyes, ears, or mouth, no face.
+
+684
+01:10:04,960 --> 01:10:07,920
+It's again the same statement: the whale has no face.
+
+685
+01:10:07,920 --> 01:10:12,319
+It goes back to the whale picture in the Spouter Inn at the beginning of the book.
+
+686
+01:10:12,319 --> 01:10:29,359
+It's because the whale keeps open the fact that there isn't any right answer, that it leaves you open to respond to all the colors of the rainbow, all of divine magnanimities, all the moods that are out there.
+
+687
+01:10:29,359 --> 01:10:31,040
+That's the job.
+
+688
+01:10:31,359 --> 01:10:44,639
+And that's, and so the idea that you would have ideally, the Zeus, who is, as remember, Aeschylus says, not Homer, that is behind everything.
+
+689
+01:10:44,639 --> 01:10:49,519
+That is the same as the boundless sea, that is the same as the sperm whale.
+
+690
+01:10:49,519 --> 01:10:51,999
+It's the unrepresentable.
+
+691
+01:10:52,960 --> 01:10:58,519
+And on the basis of that, you can make up interpret makeup is the wrong word.
+
+692
+01:10:58,679 --> 01:11:11,879
+You can be drawn into various worlds, various interpretations, because the boundless sea and the sperm whale with no face keeps open.
+
+693
+01:11:11,880 --> 01:11:26,519
+the bad things that can happen if you get a supreme being that settles once and for all what color everything is, or the kind of whiteness that comes if you think you can add up what color everything is, and you get whiteness.
+
+694
+01:11:26,519 --> 01:11:32,279
+And so it's you've got to have the ocean, you've got to have the sperm whale, and then you can have the colors.
+
+695
+01:11:32,279 --> 01:11:34,439
+That's the picture that Ichmeel has.
+
+696
+01:11:34,439 --> 01:11:34,919
+Yeah.
+
+697
+01:11:37,239 --> 01:11:38,919
+And what do you do with that?
+
+698
+01:11:42,599 --> 01:11:44,200
+Don't ask me to think about it now.
+
+699
+01:11:44,200 --> 01:11:45,319
+We'll talk about it later.
+
+700
+01:11:45,319 --> 01:11:47,080
+I see that it's there.
+
+701
+01:11:47,319 --> 01:11:48,599
+I don't know what to do with it.
+
+702
+01:11:48,599 --> 01:11:53,719
+I'll say, so now I just want to I'm still trying to finish what I really want to say about all this.
+
+703
+01:11:54,760 --> 01:12:04,439
+So I think Melville isn't longing for the pantheon, the Homeric kind of world, but he would be very happy if it came back.
+
+704
+01:12:04,439 --> 01:12:06,200
+But what do you do while you're waiting?
+
+705
+01:12:06,200 --> 01:12:26,919
+Well then, just to summarize, you visit all the worlds, not as a tourist and a spectator, not so involved that you go native, not by imposing your interpretation on them, but openness to be absorbed in any particular world's sacred understandings they've got.
+
+706
+01:12:27,639 --> 01:12:34,519
+And the the squeeze of the hand is just an example of what it's like to be absorbed in a strange world.
+
+707
+01:12:35,479 --> 01:12:42,200
+So, my conclusion then is that we definitely what is what is what is the Ishmael telling us then, or Melville?
+
+708
+01:12:42,399 --> 01:13:09,759
+We have to bring, if you're going to live a meaningful life, and you happen to be one of the people who aren't convinced anymore by onto-theology and don't believe there's a supreme being, and if you are sophisticated enough not to anymore be in the modern autonomy con business either, then what you've got to do is there is the possibility.
+
+709
+01:13:09,760 --> 01:13:12,080
+Well, I listed all the things that it's not to sum up.
+
+710
+01:13:12,080 --> 01:13:13,839
+So, how should we act now?
+
+711
+01:13:13,840 --> 01:13:20,959
+That the Homeric gods are gone, the Aeschylus gods are gone, when these things are dead, they're dead for good.
+
+712
+01:13:21,359 --> 01:13:34,239
+Their works of art don't work for us anymore, Virgil and Augustus don't work either, and neither does this unconditional commitment story of Father Mapple.
+
+713
+01:13:34,239 --> 01:13:39,839
+So, you get this proposal to take all these moods as divine gifts.
+
+714
+01:13:39,840 --> 01:13:42,479
+Now, I've got to quickly skim this, I'm just at the end.
+
+715
+01:13:42,479 --> 01:13:44,479
+Time is just one more minute.
+
+716
+01:13:45,439 --> 01:13:53,999
+So, you've got to, I'm just going to say it one more time as I wrote it here: give up onto theology, a life grounded in revelation, reason, or unconditional commitment.
+
+717
+01:13:54,000 --> 01:13:55,999
+Give up will and autonomy.
+
+718
+01:13:56,000 --> 01:14:00,799
+There's no way that we can posit things mattering for us and having meaning in our life.
+
+719
+01:14:00,800 --> 01:14:14,479
+You've got to be willing to accept risk and sorrow, Ishmael says, and then you've got to be grateful for whatever ontological moods, that is, worlds, that is, gods, grab you and have authority in your life.
+
+720
+01:14:14,479 --> 01:14:19,120
+Then you will be open to relative meaning and relative happiness.
+
+721
+01:14:19,120 --> 01:14:23,599
+And I think you'll be saved or cured.
+
+722
+01:14:24,559 --> 01:14:28,359
+That's an open question because Neilville doesn't talk more about it.
+
+723
+01:14:27,040 --> 01:14:33,000
+Now I want to say something that only Heideggerians will understand, but it fascinates me.
+
+724
+01:14:33,239 --> 01:14:41,080
+Heidegger thought that there was a special kind, if you ask me, but is this a work of art, this?
+
+725
+01:14:41,399 --> 01:14:53,959
+Well, it certainly doesn't have a culture built around it, and nobody's making altars to it like they did to the Divine Comedy or to the Aeneid, or they don't perform it every year or read it every year on the National Public Radio.
+
+726
+01:14:53,960 --> 01:14:55,799
+It's not that kind of work of art.
+
+727
+01:14:55,800 --> 01:14:59,399
+But Heidegger knew that there wasn't anymore that kind of work of art.
+
+728
+01:14:59,399 --> 01:15:06,200
+But he thought that there was a German poet which he was very impressed by, Hilderland.
+
+729
+01:15:06,840 --> 01:15:09,080
+Is that how to spell it, I hope?
+
+730
+01:15:10,040 --> 01:15:11,879
+With an umlaut here.
+
+731
+01:15:11,880 --> 01:15:12,839
+Okay.
+
+732
+01:15:13,319 --> 01:15:18,599
+And that this poet was what Heidegger called a poet in a needy time.
+
+733
+01:15:18,599 --> 01:15:22,679
+And he was making a kind of work of art for a needy time.
+
+734
+01:15:22,679 --> 01:15:25,000
+And what does Hölderland do?
+
+735
+01:15:25,000 --> 01:15:31,559
+He talks about the Greeks and the gods and the hope that there could be a return of the gods.
+
+736
+01:15:31,559 --> 01:15:34,919
+And he keeps that possibility, so to speak, open.
+
+737
+01:15:34,920 --> 01:15:38,279
+That's all you can do in a needy time.
+
+738
+01:15:38,279 --> 01:15:46,359
+You can't have a work of art as you could when there was still some kind of unity in the culture.
+
+739
+01:15:46,359 --> 01:15:51,479
+And in a way, all I want to say only to myself in a way is, this is our Höderland.
+
+740
+01:15:51,479 --> 01:15:53,959
+He is our poet in needy times.
+
+741
+01:15:53,960 --> 01:15:57,319
+And this is the only kind of work of art you can have now.
+
+742
+01:15:57,319 --> 01:16:00,040
+And that makes it a work of art of sorts.
+
+743
+01:16:00,040 --> 01:16:00,599
+That's it.
+
+744
+01:16:00,599 --> 01:16:01,559
+Sorry I talked too long.

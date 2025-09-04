@@ -1,0 +1,3409 @@
+
+
+1
+00:00:00,000 --> 00:00:11,680
+So to tell myself about it, I wrote this, which probably you can't read, that being in the world and existence comes in two varieties.
+
+2
+00:00:11,680 --> 00:00:18,239
+There's, I think, what's called the tacit cogito, and then there's certainly a Cartesian cogito.
+
+3
+00:00:18,239 --> 00:01:04,479
+And this is about perception, this is about thought, this is pre-reflective, this is always reflection, this is motor intentionality, this is representational intentionality, this will be impersonal, like the body schema, this is the I think, that's engaged, and that's detached, and most important of all, that this one is supposed to be founded, I should really, I don't know where to put this, but the thesis of it all is not just that there are these two and that Descartes and all people after him, like Kant and Husserl, only thought about this one, but the thesis is that there not only that there is this, but that this is more basic than this.
+
+4
+00:01:04,880 --> 00:01:07,280
+This is founded on this.
+
+5
+00:01:07,280 --> 00:01:10,800
+That's what the whole chapter's about, I think.
+
+6
+00:01:11,119 --> 00:01:16,240
+So to connect up with last time, now I guess I've got everything.
+
+7
+00:01:16,239 --> 00:01:16,639
+Yeah.
+
+8
+00:01:16,640 --> 00:01:28,599
+So to connect up with last time, let's look at some pages for those ones I wrote on the board that are so important that I put them, that I thought I've said them, I want to say them again.
+
+9
+00:01:28,240 --> 00:01:34,439
+The middle of 473, that's where we get the name passive cogito for this.
+
+10
+00:01:34,760 --> 00:01:41,880
+I think it could also be called it is also sometimes called the pre-reflective cogito and so forth.
+
+11
+00:01:41,879 --> 00:01:44,920
+But I think the main name for it is passive cogito.
+
+12
+00:01:44,920 --> 00:02:05,959
+And he says about 15 lines down, what remains on the hither side of my particular thoughts that constitute the tacit cogito and the original thoughts, what remains, yeah, and the original project towards the world and what ultimately gets left.
+
+13
+00:02:05,959 --> 00:02:07,880
+So this is answered a question.
+
+14
+00:02:08,439 --> 00:02:10,360
+Oh, no wonder I can't make sense of it.
+
+15
+00:02:10,360 --> 00:02:11,160
+Let's try it again.
+
+16
+00:02:11,160 --> 00:02:11,959
+Well, what?
+
+17
+00:02:11,959 --> 00:02:12,519
+Question.
+
+18
+00:02:12,519 --> 00:02:18,280
+What remains on the other side of my particular thoughts that constitute the tacit cogito and the original project towards the world?
+
+19
+00:02:18,280 --> 00:02:26,360
+And what ultimately am I, insofar as I can catch a glimpse of myself independently of any particular act on the field of experience?
+
+20
+00:02:26,360 --> 00:02:28,040
+Well, we've heard that often.
+
+21
+00:02:28,040 --> 00:02:38,360
+The main reason I'm reading it is the tacit cogito is there, something that I am, and it's something different than reflection, and you've got to catch a glimpse of it.
+
+22
+00:02:38,360 --> 00:02:46,519
+That's that whole issue of how you ever catch a glimpse of it, because you can't catch a glimpse of it if you reflect on it, because that will transform it.
+
+23
+00:02:46,519 --> 00:02:50,040
+But we're not going to go into that, fall into that hole.
+
+24
+00:02:50,040 --> 00:03:07,239
+So on the 474, there are these important and weird statements, partly to deal with the sense in which there is an inner, which I still think is hard to get straight.
+
+25
+00:03:07,239 --> 00:03:13,800
+But I wanted to hear his note on 474 about I belong to myself while belonging to the world.
+
+26
+00:03:15,279 --> 00:03:27,279
+Something, this belonging to myself is something like what used to be called, or what was thought of as the inner, though it's certainly different than the inner for reasons we'll see.
+
+27
+00:03:27,999 --> 00:03:35,679
+But notice then, about a little below the middle, the world is wholly inside me, and I'm wholly outside myself.
+
+28
+00:03:35,679 --> 00:03:38,400
+That's the weird sentence to explain.
+
+29
+00:03:38,480 --> 00:03:43,599
+The B, it's wholly inside of me, because it's my experience.
+
+30
+00:03:43,600 --> 00:03:44,399
+It really is.
+
+31
+00:03:44,399 --> 00:03:45,920
+You can't deny it.
+
+32
+00:03:45,920 --> 00:03:52,239
+But my experience is just the experience of being an open head turned towards the world.
+
+33
+00:03:52,239 --> 00:03:54,800
+That's the hard thing to get used to.
+
+34
+00:03:54,800 --> 00:03:57,040
+So it's my experience.
+
+35
+00:03:57,040 --> 00:04:00,480
+It's not in some sense in my mind.
+
+36
+00:04:00,480 --> 00:04:02,239
+There's nothing in my mind.
+
+37
+00:04:02,239 --> 00:04:05,280
+Sometimes it looks like what he's saying, he doesn't have a mind.
+
+38
+00:04:05,280 --> 00:04:06,559
+I think that can't be right.
+
+39
+00:04:06,559 --> 00:04:11,199
+He thinks this actually happens, and this can call mind.
+
+40
+00:04:11,600 --> 00:04:14,559
+But you'd have to be careful when you did.
+
+41
+00:04:14,879 --> 00:04:28,559
+So anyway, those two sentences seem to be very important and always to keep in mind that when you're trying to figure out whether there is some kind of inner.
+
+42
+00:04:28,559 --> 00:04:34,000
+There is the experience of being a perspective on the world.
+
+43
+00:04:34,319 --> 00:04:42,319
+But that experience isn't anything that you can separate from actually interacting with the world.
+
+44
+00:04:42,319 --> 00:04:46,319
+That's the way I belong to myself while belonging to the world.
+
+45
+00:04:46,319 --> 00:04:52,079
+And that's the level at which I'm wholly inside and wholly outside, I think.
+
+46
+00:04:53,360 --> 00:05:03,720
+Otherwise, that list is just meant to show you various ways that these two columns are referred to.
+
+47
+00:05:04,040 --> 00:05:36,439
+I wanted to read also the important thing on 475, which seems to say, and though there are other ways of thinking about it, and I got email about this and discussion about this, nobody actually has denied that the way I belong to myself while being open in the world is probably generally something like, well, that's an experience.
+
+48
+00:05:36,679 --> 00:05:56,600
+If you ask sort of what experience could there be besides just empty head turned toward world, where the experience you have to say is there are people in the room in front of me and trees outside there, and you wouldn't be saying anything about what was mine.
+
+49
+00:05:56,600 --> 00:06:08,600
+I still think there is something that is mine, and that's this feeling that things are going all right or else they aren't when I'm getting my grip on the world.
+
+50
+00:06:08,600 --> 00:06:22,280
+And the funny thing is, and those are intermittent because when everything is going well, this is a bird of complication I haven't ever mentioned, it isn't, I think, that you just don't have a feeling that things are going wrong.
+
+51
+00:06:22,280 --> 00:06:29,480
+So all that you really ever have a feeling of is of your own sort of private, important feeling.
+
+52
+00:06:29,480 --> 00:06:56,800
+I mean, there are dreams and tickles and pains and itches, but the important, sort of transcendental, or trend would say, a feeling which is absolutely crucial for you to have a world and have objects at all is the tension you feel when you're not getting the optimal grip and you feel that everything else being equal, you better go over there.
+
+53
+00:06:56,800 --> 00:07:04,480
+You just don't because there are other things that you're getting a grip on over here and you can't be getting a grip on everything all the time.
+
+54
+00:07:04,480 --> 00:07:13,280
+The fact that you feel when you look at the front of the house that you get a fuller look at the house if you could go around and look at the fact is true.
+
+55
+00:07:13,280 --> 00:07:19,759
+But of course then you wouldn't be looking at the front and so you never get an optimal grip.
+
+56
+00:07:19,759 --> 00:07:29,360
+And maybe in that sense you always got a sense of the pull to get a better grip on the world.
+
+57
+00:07:30,319 --> 00:07:36,079
+So that maybe there is never a zero moment in which you are getting the fullest grip.
+
+58
+00:07:36,079 --> 00:07:37,040
+I don't know which to say.
+
+59
+00:07:37,040 --> 00:07:38,239
+See, I'm confused about that.
+
+60
+00:07:38,239 --> 00:07:54,480
+But I want to say on the other hand, yes, that when you're in full coping flow and everything is really right and you're absorbed in finding a mountain or playing tennis or whatever you're doing, then it seems to me you don't even have a feeling that everything is going well.
+
+61
+00:07:54,480 --> 00:07:57,199
+You're just totally absorbed in what you're doing.
+
+62
+00:07:57,199 --> 00:07:59,360
+And I don't know which marriage punching things.
+
+63
+00:07:59,520 --> 00:08:01,600
+I'll read you this passage, not that it settles it.
+
+64
+00:08:01,599 --> 00:08:02,800
+It's just about this.
+
+65
+00:08:03,120 --> 00:08:05,280
+About 15 lines down.
+
+66
+00:08:05,599 --> 00:08:16,160
+My existence as subjectivity, which is, well, I guess, you know, this, I suppose, well, no, subjectivity is subjectivity is going to be in both columns.
+
+67
+00:08:16,160 --> 00:08:21,280
+There's a kind of subjectivity over here and a kind of subjectivity over here.
+
+68
+00:08:21,280 --> 00:08:33,000
+And he's interested in now telling you about this kind of subjectivity, which is, again, this all that's left of the notion of my experience of being wholly inside and all that.
+
+69
+00:08:33,319 --> 00:08:46,600
+My existence of subjectivity is nearly one with my existence as a body and with the existence of the world, and because the subject that I am, when taken concretely, is inseparable from the body and the world.
+
+70
+00:08:46,599 --> 00:09:02,760
+The ontological world and body, which we find at the core of the subject, that so aside of the subject, are not the world or body as idea, but on the one hand, the world itself contracted into a comprehensive grasp.
+
+71
+00:09:02,760 --> 00:09:05,160
+There's the gripping story again.
+
+72
+00:09:05,160 --> 00:09:11,640
+And on the other, the body itself as a knowing body, I take it, that is, as a grasping body.
+
+73
+00:09:11,640 --> 00:09:26,120
+I take it there more as a body that has in it a body schema which guides it to constantly get a better and better grip on the world or handy towards that.
+
+74
+00:09:26,120 --> 00:09:28,920
+So that's all past stuff.
+
+75
+00:09:29,240 --> 00:09:30,920
+So now the new stuff.
+
+76
+00:09:30,920 --> 00:09:39,160
+So the story is we function in both these columns, and the question is, how are they related?
+
+77
+00:09:39,800 --> 00:10:06,200
+And it starts already to be a bad move if you call this column mind or what else did I have in here, subject, only because that's been taken over so much by the Cartesian tradition that it now seems that the mind is a self-sufficient domain that has in it a kind of indubitable content.
+
+78
+00:10:06,199 --> 00:10:12,280
+And if that's what mind is, then we don't want it in either column because there's just no such thing.
+
+79
+00:10:12,359 --> 00:10:17,280
+That's a sort of illegitimate extrapolation of this in that direction.
+
+80
+00:10:17,280 --> 00:10:32,800
+And subject has certainly come to me from Descartes to Kant to Husserl, some self-contained sphere of pure well-constituting experience of some sort.
+
+81
+00:10:32,800 --> 00:10:35,040
+And you don't want to say that.
+
+82
+00:10:38,719 --> 00:10:40,720
+But you do want to say something.
+
+83
+00:10:41,040 --> 00:10:50,400
+And you want to say that it's the reason you don't want to say that is that it's not self-sufficient and it's not foundational.
+
+84
+00:10:50,719 --> 00:10:58,800
+And therefore it's not like Descartes, Kant, Husserl, and I don't know about Searle.
+
+85
+00:10:58,800 --> 00:11:11,120
+And Searle is sort of sorted in this column, but because he's got a background and because he thinks there's a world of blue facts and so forth, he's not going to turn out to be somebody fully in this column.
+
+86
+00:11:11,120 --> 00:11:14,959
+So Merloponi doesn't want to just now talk about these two columns.
+
+87
+00:11:14,959 --> 00:11:20,080
+He wants to reverse the Cartesian claim that this is what's basic.
+
+88
+00:11:20,079 --> 00:11:31,200
+And if you have to think about that at all, you either understand all these stuff as unimportant or you ignore it, or for perception, for instance, you treat it as a kind of thought.
+
+89
+00:11:31,199 --> 00:11:34,800
+You're a cognitivist and an intellectualist.
+
+90
+00:11:34,800 --> 00:11:38,480
+And that, but what's really basic is this.
+
+91
+00:11:38,800 --> 00:11:40,960
+That's what he wants to reverse.
+
+92
+00:11:41,280 --> 00:11:49,360
+So you want to say to be in the column, you can call, so I won't have to keep pointing to column A, let's say A and column B.
+
+93
+00:11:49,520 --> 00:11:53,040
+That doesn't depend on anything except me to be able to talk about it.
+
+94
+00:11:53,040 --> 00:11:58,840
+You want to say that column B requires column A and not vice versa.
+
+95
+00:11:58,240 --> 00:12:04,920
+That is, you could be in this without that, but you can't be in that without this.
+
+96
+00:12:05,160 --> 00:12:08,280
+That's the big thesis.
+
+97
+00:12:08,280 --> 00:12:14,920
+Well, and there seem to be two pieces of the argument which runs through here.
+
+98
+00:12:14,920 --> 00:12:27,000
+I'm not going to redo the argument or try to construct it even, but there is a whole lot of discussion about how both columns require the background.
+
+99
+00:12:27,319 --> 00:12:32,840
+And the background just is a holistic version of this stuff.
+
+100
+00:12:33,160 --> 00:12:35,640
+The background is not a belief system.
+
+101
+00:12:35,959 --> 00:12:46,759
+The background is the way all of our practices, skills, hoping, and so forth hang together, even when we're not thematizing them.
+
+102
+00:12:46,760 --> 00:13:02,360
+So that comes out a lot, and I'll have to talk about it again in a minute, when we get back to his claim that even thinking requires a background, and that the background is always over here.
+
+103
+00:13:02,359 --> 00:13:04,040
+That's part of the argument.
+
+104
+00:13:04,040 --> 00:13:14,520
+I think the other half of the argument is that this kind of disengagement always has to have an engagement that it disengages from.
+
+105
+00:13:14,520 --> 00:13:24,840
+I don't know if that's a really deep point or whether that's just a a linguistic thing that you can help yourself to by just naming everything this way.
+
+106
+00:13:24,839 --> 00:13:32,760
+I guess it's something like the fact that we do talk about this as the disengaged attitude that he wants to say isn't accidental.
+
+107
+00:13:32,760 --> 00:13:44,160
+We have to refer to to it that way because it's always something that you find yourself in this and then you lose something, you get over here, and that's getting disengaged from that.
+
+108
+00:13:44,160 --> 00:13:46,320
+That's important too.
+
+109
+00:13:43,640 --> 00:13:48,559
+Okay, I have a moment to stop.
+
+110
+00:13:48,719 --> 00:13:54,000
+That's an attempt to get clear of the issues from last time.
+
+111
+00:13:54,000 --> 00:13:57,040
+I don't really want to argue about it, but I'm ready to explain it.
+
+112
+00:13:57,040 --> 00:13:57,760
+Yeah.
+
+113
+00:13:58,400 --> 00:14:04,560
+I heard a question about how to understand the occurrence of the feeling of tension.
+
+114
+00:14:08,160 --> 00:14:12,560
+Maybe it's a mistake to speak of it as a feeling of tension.
+
+115
+00:14:12,559 --> 00:14:16,959
+Maybe that's a psychologizing way of characterizing it.
+
+116
+00:14:17,520 --> 00:14:23,679
+It turns it into something that already seems to come subjective.
+
+117
+00:14:24,959 --> 00:14:26,880
+Maybe there's a more bodily way.
+
+118
+00:14:27,199 --> 00:14:29,920
+I think that's the personal way of thinking about the tension.
+
+119
+00:14:29,920 --> 00:14:40,640
+So that's the issue of argument to argue not is actually another question of whether or not you're slowly adjusting that responding to the totally underneath.
+
+120
+00:14:40,800 --> 00:14:41,520
+I like that.
+
+121
+00:14:41,520 --> 00:14:43,600
+Yes, let's say what we could have just said.
+
+122
+00:14:43,599 --> 00:14:51,840
+What I could have said is you're always responding to a pull, which you're moving to do something.
+
+123
+00:14:51,839 --> 00:15:05,280
+And I don't think you can get away from something like reduce the tension, reduce a tension, tension like on a spring, and a pull towards an equilibrium.
+
+124
+00:15:05,280 --> 00:15:08,160
+Those are narrow parts of the term, but it doesn't have to be called a feeling.
+
+125
+00:15:08,240 --> 00:15:11,760
+And it needs to be something which the subject has to have.
+
+126
+00:15:11,760 --> 00:15:12,000
+Right.
+
+127
+00:15:12,000 --> 00:15:13,280
+It isn't a private idea.
+
+128
+00:15:13,359 --> 00:15:14,479
+It should be like the ones that are.
+
+129
+00:15:14,640 --> 00:15:15,359
+Good, good.
+
+130
+00:15:15,359 --> 00:15:17,439
+It isn't a private feeling.
+
+131
+00:15:17,520 --> 00:15:19,679
+It isn't something I have as a subject.
+
+132
+00:15:19,679 --> 00:15:27,199
+That my body is attuned to the tensions and disequilibria and pulled to straighten them out.
+
+133
+00:15:27,199 --> 00:15:29,720
+But I thought you wanted to put once a minute.
+
+134
+00:15:30,599 --> 00:15:30,760
+Okay.
+
+135
+00:15:28,640 --> 00:15:31,800
+Open brain versus.
+
+136
+00:15:33,559 --> 00:15:36,520
+Right, but you just put the last nail in the top and for that.
+
+137
+00:15:36,520 --> 00:15:50,920
+I got more and more unhappy at that claim because I couldn't find any claim in the chapter that said it that I didn't, that I'm the one who gave myself the problem, find something over here which is the truth of the privacy over here.
+
+138
+00:15:50,920 --> 00:15:52,120
+And now I'm ready.
+
+139
+00:15:52,120 --> 00:15:54,120
+And I've gotten more and more unhappy with it.
+
+140
+00:15:54,120 --> 00:15:55,239
+You heard me backing down.
+
+141
+00:15:55,240 --> 00:15:57,400
+Well, maybe you don't feel it all the time.
+
+142
+00:15:57,400 --> 00:15:59,160
+I think Al was all right.
+
+143
+00:15:59,160 --> 00:16:03,800
+In the end, I should back down even further and say, well, it isn't something that you feel.
+
+144
+00:16:05,079 --> 00:16:08,600
+You don't have to thematize it or, well, never mind.
+
+145
+00:16:08,599 --> 00:16:09,559
+That's just a different point.
+
+146
+00:16:09,959 --> 00:16:12,120
+It isn't something you as a subject feel.
+
+147
+00:16:12,359 --> 00:16:14,840
+It's something that your body just does.
+
+148
+00:16:14,839 --> 00:16:16,920
+It seems like a better way to talk about it.
+
+149
+00:16:16,920 --> 00:16:17,400
+Yeah.
+
+150
+00:16:17,400 --> 00:16:19,959
+So there's some sort of gravitational theory.
+
+151
+00:16:19,959 --> 00:16:20,280
+Yeah.
+
+152
+00:16:20,359 --> 00:16:22,360
+Then you lose rationality in those things.
+
+153
+00:16:22,439 --> 00:16:24,839
+Oh, sure, then lose rationality.
+
+154
+00:16:24,839 --> 00:16:25,400
+That's all right.
+
+155
+00:16:25,400 --> 00:16:26,839
+I can't find it.
+
+156
+00:16:28,280 --> 00:16:30,199
+But then how do you help them break down?
+
+157
+00:16:30,199 --> 00:16:31,559
+How do you veil an action?
+
+158
+00:16:31,559 --> 00:16:33,319
+I'm going to know it all brainwashed.
+
+159
+00:16:33,559 --> 00:16:34,760
+Ah, oh, good, good, good.
+
+160
+00:16:34,760 --> 00:16:38,199
+Okay, I wouldn't call that rationality maybe, but we can call it that.
+
+161
+00:16:38,599 --> 00:16:41,480
+I think the rationality is so over here.
+
+162
+00:16:41,480 --> 00:16:43,319
+But you need something.
+
+163
+00:16:43,639 --> 00:17:06,520
+There is the story of the sort of gravitational view of it, as Jennifer says, and I've always got in my mind something like if the brain has got attractors and it's always trying to relax to the bottom of an attractor, which sounds like a gravitational metaphor for some kind of least energy thing, that we shouldn't, I mean, that's not the phenomenon.
+
+164
+00:17:06,520 --> 00:17:13,399
+If we got the phenomena right, then we help neural people like Walter Freeman defend their radical views.
+
+165
+00:17:13,520 --> 00:17:23,520
+But let me go on and think about where I think that the breakdown has got to be sort of internal to this five.
+
+166
+00:17:23,520 --> 00:17:26,399
+It isn't something that you only discover over here.
+
+167
+00:17:26,399 --> 00:17:38,800
+It's something that happens over here that throws you over here because when there is a problem, you can put all this on the back burner into the background and you'll think about it.
+
+168
+00:17:38,800 --> 00:17:46,719
+But when things break down, it isn't that you're already, they break down because you're already thinking about it.
+
+169
+00:17:46,720 --> 00:18:04,879
+They break down because it's like this gravity metaphor and just trying to take it over is pulling you in some direction and bang, it pulls you into a wall and you can't get any further in that direction and the pull is still there and the wall is still there.
+
+170
+00:18:04,879 --> 00:18:06,879
+Then you've got to figure something out.
+
+171
+00:18:06,879 --> 00:18:19,520
+I mean, let's, I mean, my more concrete example without a metaphor is, so I'm going to go out of the room, my hand is pulled to get ready for the doorknob without my thinking about it at all or feeling it at all.
+
+172
+00:18:19,839 --> 00:18:30,000
+It's just my body, this is trying to take over all this thing, my body is just getting organized for that kind of funny doorknob instead of a round doorknob and so forth.
+
+173
+00:18:30,000 --> 00:18:39,280
+And when I get there, either you could think magically it turns into a round doorknob or I'm part of a psychological experiment where it does.
+
+174
+00:18:39,280 --> 00:18:41,200
+And then my grip breaks down.
+
+175
+00:18:41,200 --> 00:18:44,000
+It was set to do this and now it's got to do that.
+
+176
+00:18:44,879 --> 00:18:47,760
+Maybe I'm so good at doors, I could cope with that.
+
+177
+00:18:47,760 --> 00:18:49,520
+Maybe I've never seen a door like that.
+
+178
+00:18:49,520 --> 00:18:53,280
+For a long time, they were only in Europe and the round doors were only in the United States.
+
+179
+00:18:54,000 --> 00:18:55,359
+Anyway, whatever.
+
+180
+00:18:55,319 --> 00:18:58,680
+Some it breaks down and I have to do something about it.
+
+181
+00:18:58,399 --> 00:19:04,440
+The other possibility would be, I love I think of more, uh you get there and the doorknob is stuck.
+
+182
+00:19:04,760 --> 00:19:11,559
+That'll certainly fix it if what you've been drawn to is to get out of the room and get a maximum dribble on lunch.
+
+183
+00:19:11,559 --> 00:19:15,640
+And there's another possibility I think, and I'm just trying to make him up.
+
+184
+00:19:15,639 --> 00:19:23,399
+You'd say to somebody, I want you to go over to the door and just act as if you were about to turn the doorknob and don't do it.
+
+185
+00:19:23,399 --> 00:19:36,359
+We can do that because that puts us into this thing that Schneider can't do that because he really is a full example of this body gravity business.
+
+186
+00:19:36,520 --> 00:19:37,479
+Now, did I help you?
+
+187
+00:19:40,440 --> 00:19:45,319
+You want to account for flexibility so you can change your mind in the flow.
+
+188
+00:19:45,319 --> 00:19:51,000
+I mean, you want to be able to account for being able to go down the hall and all of a sudden turn it off when it wasn't.
+
+189
+00:19:51,159 --> 00:19:55,879
+I think this is easy or giving a greater...
+
+190
+00:19:56,359 --> 00:19:57,719
+I don't think you want to get rid of that.
+
+191
+00:19:58,040 --> 00:19:59,079
+I'm not getting rid of it.
+
+192
+00:19:59,879 --> 00:20:09,160
+Well, I think we're going to sort of gravitate to a whole and we're reacting to the world in this methodistic kind of way.
+
+193
+00:20:09,639 --> 00:20:15,079
+Oh yeah, Eric is the world authority on directed discontent.
+
+194
+00:20:15,319 --> 00:20:17,079
+I think you're going to say something about that.
+
+195
+00:20:17,399 --> 00:20:30,440
+I think there is I think Elvid means that correct means to get rid of everything that has to do with first-person experience or subjective experience.
+
+196
+00:20:30,440 --> 00:20:36,360
+He doesn't like the term of feeling because it was rumors related to the subject.
+
+197
+00:20:36,839 --> 00:20:50,240
+There can be some kind of experience in between COVID in between something that's a feeling of the subject and just the behavior that is being used.
+
+198
+00:20:51,200 --> 00:21:02,960
+Wittgenstein tries to describe it, and Eric has written about this, as it tries to describe the kind of discontent that you've got when things are not going well and you're absorbed in it.
+
+199
+00:21:02,960 --> 00:21:06,159
+It describes a tailor making lapel.
+
+200
+00:21:06,159 --> 00:21:17,359
+And when the tailor gets it wrong, he starts to look unhappy and sort of, I don't know what else he does, but he probably, if the worst throws down his scissors or something.
+
+201
+00:21:18,079 --> 00:21:23,520
+There are obviously signs of behavior that go with this experience.
+
+202
+00:21:25,119 --> 00:21:26,559
+It shows itself in his behavior.
+
+203
+00:21:26,879 --> 00:21:27,999
+It doesn't have to be felt.
+
+204
+00:21:28,319 --> 00:21:31,119
+Yeah, that's what I think Wittgenstein thinks.
+
+205
+00:21:31,440 --> 00:21:36,079
+Adding an inner side to it, then asking yourself, what does a tailor have to feel?
+
+206
+00:21:36,079 --> 00:21:37,040
+You don't have to.
+
+207
+00:21:38,000 --> 00:21:44,879
+All he has to do is stop, be correct.
+
+208
+00:21:45,119 --> 00:21:46,639
+He'll look disgruntled.
+
+209
+00:21:46,639 --> 00:21:48,319
+Maybe he'll feel disgruntled.
+
+210
+00:21:48,319 --> 00:21:50,319
+But that's not what's important.
+
+211
+00:21:50,319 --> 00:21:50,880
+I take it.
+
+212
+00:21:50,879 --> 00:21:52,239
+That's what you think is going on.
+
+213
+00:21:52,399 --> 00:21:55,679
+I didn't say that's not what it's important, but he said what he was saying to behave.
+
+214
+00:21:55,919 --> 00:21:57,679
+But we've got what we still have to answer again.
+
+215
+00:21:58,240 --> 00:22:02,800
+Wittgenstein's going to emphasize, of course, the public behavioral aspects of it.
+
+216
+00:22:02,800 --> 00:22:03,199
+Rick.
+
+217
+00:22:06,240 --> 00:22:12,079
+I thought this was re-ashering the question I asked Sean, which is what's the relation between motor intentionality and consciousness.
+
+218
+00:22:12,079 --> 00:22:20,319
+And his answer at the data sign is that I guess he was quoting Lilo Panchi, who says that all this stuff happens on the margins of consciousness.
+
+219
+00:22:20,319 --> 00:22:48,040
+And it's important that something like this has to happen for the normal person, because if not, you run into the objection that the danger is to overgeneralize from Schneider's normal people, but as precise as Schneider described trying to address how many words we don't want to make the tension crystal clear in consciousness like a feeling, but we don't want to make it completely unconscious, which is the Schneider problem.
+
+220
+00:22:48,040 --> 00:23:03,240
+So this kind of lung of your own body state, which can come is on the fringe of consciousness, it can be striking, like when you're looking at a painting, and sometimes you really do sense the discomfort in looking at something and not hearing it correctly.
+
+221
+00:23:03,240 --> 00:23:03,639
+Right.
+
+222
+00:23:03,639 --> 00:23:08,679
+But just that it happens sometimes, doesn't it mean it's a conscious or conspicuous feeling all the time?
+
+223
+00:23:08,680 --> 00:23:09,159
+That's good.
+
+224
+00:23:09,159 --> 00:23:11,159
+I think that's absolutely right.
+
+225
+00:23:11,159 --> 00:23:14,119
+It's such a hard thing to get a grip on.
+
+226
+00:23:14,119 --> 00:23:22,600
+It's just because, but I do think if you, Jennifer, the two TAs have gotten sort of been a, it's like a ping pong ball between them.
+
+227
+00:23:22,599 --> 00:23:40,280
+I mean, you want to you want to say it's not a kind of feeling that's something that you could you know you're focusing your attention on and and in the garden of the business schematizing, but it you can't just be like an object in a gravitational field either.
+
+228
+00:23:40,280 --> 00:23:46,199
+Then you become like Schneider, like a zombie, like a robot, and you were not like that.
+
+229
+00:23:46,200 --> 00:24:09,559
+So you've got to say, I think Sean is right, it's just so hard to figure out what it means, that there is always dimly on the margin of awareness enough of a sense of whether it's going well or badly, so that when it goes badly, you're pulled out of it and don't just crash into the door or sort of slay at the doorknob and so forth.
+
+230
+00:24:09,720 --> 00:24:13,479
+And it's going well or poorly for the body subject, not the mind.
+
+231
+00:24:17,040 --> 00:24:19,040
+But okay, but where is this consciousness?
+
+232
+00:24:19,119 --> 00:24:20,399
+Is it a body conscious?
+
+233
+00:24:20,480 --> 00:24:21,280
+Is body conscious?
+
+234
+00:24:21,919 --> 00:24:33,439
+Okay, well, this is so hard to think, but I, I mean, of course it's hard to think because we've been in the Cartesian tradition for 300 years that consciousness is inner, is mental, and so forth.
+
+235
+00:24:33,440 --> 00:24:58,399
+And either you sort of give it up and try to be a behaviorist like Wittgenstein and just talk about how it looks, or you try to do the phenomenology of it, at which point you've got to describe something which is not the usual sort of inner, or not inner objects, but this marginal kind of awareness that the body has and enables it to be flexible and cope.
+
+236
+00:24:58,399 --> 00:24:59,679
+That's what you think.
+
+237
+00:24:59,680 --> 00:25:05,359
+Because the body's not a mechanism, it's a kind of conscious entity.
+
+238
+00:25:05,359 --> 00:25:09,839
+That's why motor intentionality is motor intentionality, not motor replacement.
+
+239
+00:25:09,839 --> 00:25:11,040
+Okay, that's good.
+
+240
+00:25:11,040 --> 00:25:11,520
+Yeah.
+
+241
+00:25:12,159 --> 00:25:14,079
+Just a question I think is sort of related.
+
+242
+00:25:14,399 --> 00:25:20,959
+Do you think Louis Blanche does way all together with having rationality, or do you think he's saying this is secondary to motor intentionality?
+
+243
+00:25:21,040 --> 00:25:22,800
+Oh, yeah, rationality goes over there.
+
+244
+00:25:22,800 --> 00:25:24,559
+He can have all the rationality he wants.
+
+245
+00:25:24,559 --> 00:25:26,159
+I don't think he gives away any rationality.
+
+246
+00:25:27,520 --> 00:25:30,000
+Do you think that Schneider has rationality?
+
+247
+00:25:30,000 --> 00:25:31,839
+Some kinds of rationality, yeah.
+
+248
+00:25:34,399 --> 00:25:34,559
+Right.
+
+249
+00:25:34,800 --> 00:25:35,920
+Good, yes, good point.
+
+250
+00:25:35,919 --> 00:25:52,319
+Schneider could figure out how to go home, figure out what a metaphor is by thinking it out, and he can figure out what sex is by seeing what people do and deducing what he should do, but he hasn't got motor intentionality.
+
+251
+00:25:52,879 --> 00:25:57,679
+I don't think rationality has much to do with just tension, but I mean, that's strictly.
+
+252
+00:25:57,839 --> 00:25:58,119
+That's right.
+
+253
+00:25:58,119 --> 00:25:59,479
+No, yes, I think Jennifer.
+
+254
+00:25:59,639 --> 00:26:00,920
+And it doesn't have to do that.
+
+255
+00:25:58,079 --> 00:26:01,479
+Good, good, good.
+
+256
+00:26:02,119 --> 00:26:09,159
+I think, right, the dialectic of what Jennifer started is to say, well, we aren't zombies.
+
+257
+00:26:09,159 --> 00:26:11,480
+We're not in a gravitational hole.
+
+258
+00:26:11,639 --> 00:26:13,000
+It's not mechanical.
+
+259
+00:26:13,000 --> 00:26:14,679
+It's got to be rational.
+
+260
+00:26:14,680 --> 00:26:18,760
+And I think the Merlot-Ponty then answers is what Rick said.
+
+261
+00:26:18,760 --> 00:26:39,319
+Well, rationalism is the right word for it, marginal consciousness, whatever that is, which doesn't have to be anything like the intellectualist is thinking about the cognitivist, but it has to be flexibly taking account, constantly able to be flexibly taking account.
+
+262
+00:26:39,319 --> 00:26:41,000
+Okay, that's helpful.
+
+263
+00:26:41,240 --> 00:26:42,520
+Now we've got Albert.
+
+264
+00:26:42,599 --> 00:26:50,040
+Yeah, well, I just wanted to start in the word that Jennifer's question is.
+
+265
+00:26:50,359 --> 00:26:57,319
+The issue is to try to show how atheism being doesn't isn't foundational perspective.
+
+266
+00:26:57,480 --> 00:27:05,559
+Your question, has it been treated partition consciousness as the foundation by most of being consciousness?
+
+267
+00:27:05,559 --> 00:27:10,760
+And it did by, and that's what my word was that talking about feelings does that too.
+
+268
+00:27:10,760 --> 00:27:19,879
+I think you did it by referring to the subject who needs to kind of view position through a GG and judge the extents of the detention.
+
+269
+00:27:19,879 --> 00:27:23,079
+So, and then, as he said, so that's fascinating to say.
+
+270
+00:27:23,240 --> 00:27:26,679
+And I think what Google said is exactly right somehow.
+
+271
+00:27:26,680 --> 00:27:39,479
+Even the very niche of the self, who is the one you feel in the patient has, must in some sense, be supervening on all that stuff going on in column A browser and got issues and judges what is going on.
+
+272
+00:27:40,520 --> 00:27:47,599
+Okay, I think you should go on, because that was supposed to be, but I do still want to stay in the cocky till for a bit longer.
+
+273
+00:27:47,919 --> 00:27:57,199
+Because I got email that showed me that there was also an issue that I didn't take up, which is about the feeling issue.
+
+274
+00:27:57,200 --> 00:28:15,920
+And it's interesting, and it shows how another way of worrying about this, there's all this business about whether how you experience the meaning of your life and whether you got a direct access, whether some kind of knowing whether you're in love or not.
+
+275
+00:28:16,319 --> 00:28:18,480
+We're not going to talk about indubitable sense data.
+
+276
+00:28:18,480 --> 00:28:19,040
+That's done.
+
+277
+00:28:19,280 --> 00:28:20,319
+We did that well.
+
+278
+00:28:20,319 --> 00:28:21,919
+But I don't think I did well.
+
+279
+00:28:21,919 --> 00:28:25,040
+The idea of whether you have indubitable feeling data.
+
+280
+00:28:25,040 --> 00:28:31,439
+And not now, not now, not the feeling data, which is a good thing we just discussed and put aside.
+
+281
+00:28:31,440 --> 00:28:36,720
+You don't need indubitable feeling data from over here to operate over here.
+
+282
+00:28:36,720 --> 00:28:38,879
+That's what we've just been saying.
+
+283
+00:28:39,200 --> 00:28:42,559
+We've got our own kind of sensitivity over here.
+
+284
+00:28:42,559 --> 00:28:46,719
+Well, how about this feeling data about your life or life?
+
+285
+00:28:47,040 --> 00:28:48,079
+I could say.
+
+286
+00:28:48,079 --> 00:28:57,199
+Well, that's something that Miramo Fonte is talking about in an interesting way, and you won't understand it probably, because he's taking that start.
+
+287
+00:28:57,200 --> 00:29:14,559
+And I just want to tell you what he's taking up and how he answers it, because it's got to do with this funny issue, again, you've got to get used to from lots of different points of view, that you can have an indubitable feeling, and the feeling could turn out to be wrong.
+
+288
+00:29:14,559 --> 00:29:23,359
+Remember, in perception, you can be certain you've done everything that you could, and you know that this object is really the object you're dealing with, that it's got an optimal grip on it.
+
+289
+00:29:23,359 --> 00:29:27,200
+And even then, it could just fade out and disappear.
+
+290
+00:29:27,200 --> 00:29:39,160
+In principle, there's always more to the object than you could ever get a full grip on, and therefore, even though you've got enough sort of grip to be certain, you could turn out to be wrong.
+
+291
+00:29:39,159 --> 00:29:41,959
+I mean, this is weird, but that's how it is.
+
+292
+00:29:41,960 --> 00:29:44,760
+Well, the same thing happens in our life, according to Merofonte.
+
+293
+00:29:44,839 --> 00:29:48,119
+I just found this this morning, and I can't resist talking about it.
+
+294
+00:29:48,680 --> 00:30:00,760
+Gartner has this interesting example of somebody who has an adolescent emotional crisis, and they take it to be a religious experience, and the guy goes into a monastery.
+
+295
+00:30:00,760 --> 00:30:10,919
+But then, after he's been there for X number of years, he reconsiders it and decides, no, it was an adolescent temporary psychosis.
+
+296
+00:30:10,919 --> 00:30:16,680
+He should be out in the business world, and he goes out in the business world, and that works fine too.
+
+297
+00:30:17,000 --> 00:30:29,079
+But now that's all the further Sartre goes, but I've always thought he should go in one more, and then on his deathbed, he decides to write, well, no, no, it was really a religious experience after all, and repents the time in the business world.
+
+298
+00:30:29,079 --> 00:30:41,159
+The point is supposed to be, for Sartre, you can never have any kind of certainty about your vocation or the meaning of your life.
+
+299
+00:30:41,160 --> 00:30:45,400
+And Merrill-Ponty wants to say, there's something right about Sartre.
+
+300
+00:30:45,720 --> 00:31:00,599
+You can never have it indubitably, but nonetheless, you can certainly tell the difference between a vocation, say, love and infatuation, or this adolescent experience and a religious experience.
+
+301
+00:31:00,599 --> 00:31:06,119
+This goes on on 442, 441, it starts.
+
+302
+00:31:08,760 --> 00:31:10,200
+He's answering Sartre.
+
+303
+00:31:10,280 --> 00:31:12,359
+Sart's at the bottom of 440.
+
+304
+00:31:12,359 --> 00:31:17,440
+That's when he suddenly starts talking about an incident of puberty as the first signs of a religious vocation.
+
+305
+00:31:17,760 --> 00:31:22,480
+Starts four or five pages, gets to be half a sentence here, without even a footnote.
+
+306
+00:31:22,480 --> 00:31:23,920
+And now he's talking about it.
+
+307
+00:31:23,919 --> 00:31:38,239
+He answers: there must be discoverable in some character in it, that is my experience, this puberty experience or religious experience, some characteristic which distinguishes vocation from incident.
+
+308
+00:31:38,240 --> 00:31:47,919
+In the first case, the mythical attitude insinuates itself into my basic relation, mystical attitude, insinuates itself into my basic relationship to the world and other people.
+
+309
+00:31:47,919 --> 00:31:50,079
+That is, I relate to everything through it.
+
+310
+00:31:50,079 --> 00:31:51,599
+That's the real vocation.
+
+311
+00:31:51,599 --> 00:31:57,520
+In the second, it is within the subject as an impersonal form of behavior devoid of inner necessity.
+
+312
+00:31:57,520 --> 00:32:11,119
+That's this thing he calls mistaken love, where it's only because I'm lonely or I'm middle-aged or I'm in a foreign country or something that I think I've got this experience.
+
+313
+00:32:11,119 --> 00:32:21,119
+And the important thing that Merlot-Ponty wants to say is that there's got to be some distinction.
+
+314
+00:32:21,119 --> 00:32:22,159
+And he does it.
+
+315
+00:32:22,159 --> 00:32:22,559
+Let's see.
+
+316
+00:32:22,559 --> 00:32:25,040
+I'm going to keep track of where I am.
+
+317
+00:32:25,040 --> 00:32:27,040
+I just read the top of 441.
+
+318
+00:32:27,040 --> 00:32:32,319
+On 442, very little below the middle.
+
+319
+00:32:32,319 --> 00:32:40,959
+What remains on the hither side of inner perception and makes no impression on the inward sense is not an unconscious.
+
+320
+00:32:41,119 --> 00:32:41,999
+I didn't want to read that.
+
+321
+00:32:42,000 --> 00:32:43,119
+That's just, never mind that.
+
+322
+00:32:43,200 --> 00:32:44,079
+Nothing wrong with it.
+
+323
+00:32:44,159 --> 00:32:45,520
+I'm just not going to talk about that.
+
+324
+00:32:45,520 --> 00:32:57,439
+He says, my life, my total being, is not dubious constructs, but the phenomena which are indubitably revealed to reflection.
+
+325
+00:32:57,440 --> 00:32:59,559
+It's simply a question of what I'm doing.
+
+326
+00:32:59,879 --> 00:33:07,319
+Well, that means that when I'm in it, really involved in it, I'll know it.
+
+327
+00:33:07,319 --> 00:33:08,520
+It's like maximum grip.
+
+328
+00:33:08,520 --> 00:33:09,959
+I'll show you in a second.
+
+329
+00:33:09,960 --> 00:33:12,120
+And that is farm.
+
+330
+00:33:12,119 --> 00:33:21,720
+That the just doing of it, though it makes it indubitable, you'll see, it doesn't make it certain.
+
+331
+00:33:21,720 --> 00:33:23,400
+He's on 445.
+
+332
+00:33:23,399 --> 00:33:26,199
+He's got more sorrow again on 444.
+
+333
+00:33:26,200 --> 00:33:36,200
+And on 445, he says when he starts saying you could never be sincere, you could never know what you're genuinely feeling.
+
+334
+00:33:36,200 --> 00:33:46,119
+And he says about 15 lines down, the only way out and into sincerity is by forestalling such scruples and taking a blind plunge into doing.
+
+335
+00:33:46,439 --> 00:33:49,000
+I think that's what he does think.
+
+336
+00:33:48,999 --> 00:33:53,880
+I think he thinks that as long as you stay over here and reflect, you can't have.
+
+337
+00:33:53,879 --> 00:34:08,120
+But if you just throw yourself into this supposed love and live your life in it, it'll become clear to you whether it's the superficial thing or whether it's something that really defines who you are.
+
+338
+00:34:08,120 --> 00:34:14,040
+I'm going to read you just one more thing on 446, about 15 lines down.
+
+339
+00:34:14,039 --> 00:34:16,760
+It'll start in the same way.
+
+340
+00:34:16,760 --> 00:34:22,280
+I can never coincide with my life, which is forever fleeing from itself.
+
+341
+00:34:22,280 --> 00:34:25,319
+In spite of which, there are inner perceptions.
+
+342
+00:34:25,319 --> 00:34:27,800
+This is something for Rick to worry about.
+
+343
+00:34:27,800 --> 00:34:29,160
+It's just what he's going to use.
+
+344
+00:34:29,399 --> 00:34:31,159
+He does believe in the inner, I think.
+
+345
+00:34:31,160 --> 00:34:32,439
+Well, yeah, he believes in the inner, like that.
+
+346
+00:34:32,600 --> 00:34:33,559
+Okay, right, right.
+
+347
+00:34:34,839 --> 00:34:35,160
+That's right.
+
+348
+00:34:35,479 --> 00:34:38,280
+They're not these inner objects like inner feelings.
+
+349
+00:34:38,240 --> 00:34:39,879
+Yes, there are inner perceptions.
+
+350
+00:34:39,879 --> 00:34:42,800
+That is, you can feel in love.
+
+351
+00:34:42,439 --> 00:34:47,439
+Or for the same reason that I am open to both illusion truths about myself.
+
+352
+00:34:47,680 --> 00:34:52,960
+That is, there are acts in which I collect myself together in order to surpass myself.
+
+353
+00:34:52,959 --> 00:34:57,440
+The co-gito is the recognition of this fundamental act.
+
+354
+00:34:57,439 --> 00:35:01,040
+I take it that must be the passive cogito.
+
+355
+00:35:01,039 --> 00:35:08,720
+That is, the co-guito in which I get the best grip on my life.
+
+356
+00:35:09,039 --> 00:35:12,399
+I want to say, just skipping a little, oh, notes goes on.
+
+357
+00:35:12,399 --> 00:35:18,479
+It says, in a position, I think the two assertions are to be flattened with each other, otherwise, there would be no cogito.
+
+358
+00:35:18,479 --> 00:35:21,680
+Nevertheless, we must be clear about the meaning of the equivalence.
+
+359
+00:35:21,680 --> 00:35:23,519
+Now he's going to take it back, I think.
+
+360
+00:35:23,519 --> 00:35:27,119
+It is not the I am which is preeminently contained in the I think.
+
+361
+00:35:27,120 --> 00:35:29,680
+This is one of these sort of founding claims.
+
+362
+00:35:30,319 --> 00:35:38,800
+That is, you don't find out whether you're in love or not, or who you are, what the location is, by thinking about it.
+
+363
+00:35:39,439 --> 00:35:51,040
+Not my existence, which is brought down to consciousness, which I have of it, but conversely, the I think, which is reintegrated into the transcending process of the I am and consciousness into existence.
+
+364
+00:35:51,039 --> 00:35:56,879
+So the claim is that you don't find out that this kind of cogito can't get you the answer.
+
+365
+00:35:56,879 --> 00:36:04,800
+So if you throw yourself into it, this kind of cogito is how you find out who you are.
+
+366
+00:36:05,280 --> 00:36:12,240
+I thought I had a place where it said I'm amazed that it could turn out to be wrong.
+
+367
+00:36:12,240 --> 00:36:15,119
+Jeebu, did I miss it in my notes?
+
+368
+00:36:15,120 --> 00:36:18,400
+Maybe I erased the glass.
+
+369
+00:36:18,399 --> 00:36:21,920
+Have I read anywhere where you could still be mistaken?
+
+370
+00:36:22,879 --> 00:36:24,079
+I'm sure he thinks so.
+
+371
+00:36:24,720 --> 00:36:25,999
+She said it somewhere.
+
+372
+00:36:25,999 --> 00:36:26,720
+I don't know where.
+
+373
+00:36:26,720 --> 00:36:27,519
+I lost it.
+
+374
+00:36:27,519 --> 00:36:32,359
+But anyway, you can be mistaken always because it likes in perception.
+
+375
+00:36:32,680 --> 00:36:41,160
+You're always, there's always more what it is to be the lover of so-and-so or to have the vocation of being a monk than you will ever experience.
+
+376
+00:36:41,160 --> 00:36:56,280
+And you can just, so to speak, keep making it explicit, as he calls it in some places, you know, money where you say it, but you can keep living it and working it out, and you may just come to some place where you discover that it wasn't what you thought it was.
+
+377
+00:36:56,280 --> 00:37:03,160
+And then you have to give it up, or it explodes like the house when you go around and it turns out to be a facade.
+
+378
+00:37:03,160 --> 00:37:04,680
+That's what he thinks.
+
+379
+00:37:04,680 --> 00:37:10,040
+Now, finally, the transparency of thought.
+
+380
+00:37:10,039 --> 00:37:17,959
+I skipped that altogether, but now I think we need it because that's the strongest story about founding.
+
+381
+00:37:17,959 --> 00:37:23,880
+The best, the best, so now that was already about founding, what I just said.
+
+382
+00:37:23,879 --> 00:37:36,040
+Notice that your sort of indubitable feelings are never inner objects and are always subject to finding out more about them by plunging into them.
+
+383
+00:37:36,039 --> 00:37:40,519
+And the plunging into them, the I am is more basic than the I think.
+
+384
+00:37:40,519 --> 00:37:43,480
+That's a founding claim about feeling.
+
+385
+00:37:43,479 --> 00:37:52,359
+Now, so the Cartesian person then says, yeah, the really rockdown thing, I'm the bottom thing that I'm sure of is my thinking.
+
+386
+00:37:52,359 --> 00:37:59,000
+And my thinking and reflecting is going to turn out not to be founded in this.
+
+387
+00:37:58,999 --> 00:38:01,319
+He's not going to claim that this is founded in this.
+
+388
+00:38:01,319 --> 00:38:03,559
+I mean, Carlo Day, they just don't care about this.
+
+389
+00:38:03,560 --> 00:38:08,680
+But the issue is about: could this stuff really require this?
+
+390
+00:38:08,999 --> 00:38:13,680
+And then he goes into this whole thing to try to prove it.
+
+391
+00:38:13,240 --> 00:38:19,680
+And the argument seems to be: well, you can't do, let's take doing arithmetic.
+
+392
+00:38:19,839 --> 00:38:22,319
+Let's take doing things with a triangle.
+
+393
+00:38:22,319 --> 00:38:32,319
+That looks like the most sort of disembodied certainty about the a priori properties of an ideal object.
+
+394
+00:38:32,319 --> 00:38:33,679
+It has no background.
+
+395
+00:38:33,680 --> 00:38:35,200
+It doesn't need any history.
+
+396
+00:38:35,519 --> 00:38:40,800
+You can just write it all on the board in swivels, and every other rational being can understand it.
+
+397
+00:38:40,800 --> 00:38:42,880
+The whole Cartesian picture.
+
+398
+00:38:42,879 --> 00:38:45,120
+And then he has his own view about that.
+
+399
+00:38:45,120 --> 00:38:49,039
+And it's always about intuition is more basic than thought.
+
+400
+00:38:49,039 --> 00:38:51,600
+It's all on page 448.
+
+401
+00:38:51,919 --> 00:39:11,280
+And what it amounts to is: if you can't experience what he calls physiogamy of the gestalt, it's about 15 lines down, of say that you won't be able to understand the formal definition of a triangle.
+
+402
+00:39:11,280 --> 00:39:14,640
+And you won't be able to discover anything interesting.
+
+403
+00:39:14,640 --> 00:39:25,119
+I suppose it's like if I told you that a circle is a closed figure, every point of which is equidistant from the center, but you didn't picture a circle.
+
+404
+00:39:25,120 --> 00:39:29,120
+You just tried to use that formal definition.
+
+405
+00:39:29,120 --> 00:39:43,920
+Well, that's not going to help you try to draw certain, you know, like things through the center of it, things parallel to the periphery of it, and all the constructions you can make to find out things about a circle.
+
+406
+00:39:43,919 --> 00:39:50,800
+And the whole thing, he says, that you need them, the middle of the very middle of the page, the circumstances of discovery.
+
+407
+00:39:51,439 --> 00:39:57,680
+And so he says a little lower down, on the right, formal thought feeds on intuitive thought.
+
+408
+00:39:57,999 --> 00:40:13,000
+And the idea of the idea of the idea is something like you could formalize all this and do it on a computer, but until you have an intuition about circles and triangles, you won't be able to find out anything new or interesting about them.
+
+409
+00:40:13,319 --> 00:40:17,480
+And I don't know if it's true or not, but that's what he's going to claim.
+
+410
+00:40:17,479 --> 00:40:21,879
+And so he says a little below about informative and intuitive thought.
+
+411
+00:40:21,879 --> 00:40:34,680
+But in reality, the place in which certainty arises and in which a truth makes its appearance is always intuitive thought, even though, or rather precisely because the principles are tacitly assumed here.
+
+412
+00:40:34,999 --> 00:40:37,959
+Now, I don't know if that's convincing.
+
+413
+00:40:37,959 --> 00:40:45,560
+I don't know if it's in it, but it's certainly his important move to make the last foundational move here.
+
+414
+00:40:46,200 --> 00:40:55,080
+At the bottom, the construction relates then to the configuration of the triangle, to the way in which it occupies space, to the relations expressed by all these other things.
+
+415
+00:40:55,080 --> 00:40:59,800
+Do these relations constitute a kind of material essence of the triangle?
+
+416
+00:40:59,800 --> 00:41:15,319
+And then he goes on, well, the triangle has to be, three lines down on the next page, at least potentially situated in my perceptual field, oriented and up and down and right and left, and implied in my general grip on the world.
+
+417
+00:41:15,879 --> 00:41:19,720
+So he's going to pull it over here into his grip story.
+
+418
+00:41:20,039 --> 00:41:25,879
+Again, I don't think it's important to try to defend it so much as just to see that he's doing it.
+
+419
+00:41:26,600 --> 00:41:27,159
+Yeah.
+
+420
+00:41:27,640 --> 00:41:27,879
+Really?
+
+421
+00:41:28,120 --> 00:41:31,000
+William Schneider doesn't have this.
+
+422
+00:41:30,999 --> 00:41:35,160
+So the point is that intuitive thoughts, well, formal thoughts feeds on intuitive thought.
+
+423
+00:41:35,160 --> 00:41:35,319
+Yeah.
+
+424
+00:41:35,560 --> 00:41:45,039
+Schneider, this peculiar kind of way of thinking of things that lacks the intuitive, digital holistic way of thinking.
+
+425
+00:41:45,120 --> 00:41:51,359
+So Schneider lacks kind of the perceptual stuff that he's got, but he also lacks the intellectual capacity.
+
+426
+00:41:51,359 --> 00:42:00,560
+But what he's left with is this kind of crude, intellectualist kind of way of thinking, which is precisely his biggest and it's abnormal.
+
+427
+00:42:00,560 --> 00:42:03,199
+Yeah, and it misses the meaning of what's going on.
+
+428
+00:42:03,680 --> 00:42:20,479
+But okay, I guess it's important for me to show, though, that a Cartesian mathematician, not a brain-injured person, who you might think somehow could do this formal thing without the intuitions, can't do it.
+
+429
+00:42:20,479 --> 00:42:31,839
+I mean, the argument is, even if mathematician is like Schneider, if this mathematician would try to do the mathematics without founding it in the intuition, it's the same point.
+
+430
+00:42:31,839 --> 00:42:33,680
+I don't think I'm disagreeing.
+
+431
+00:42:34,479 --> 00:42:38,160
+I want to, I think, yes, that's right.
+
+432
+00:42:38,399 --> 00:42:48,720
+In the background, those who know Kant, it's remembering Kant, without an intuition of space, you can't do geometry, and without an intuition of time, you can't do arithmetic.
+
+433
+00:42:49,120 --> 00:42:53,599
+Because you can't even count, except insofar as you have an intuition of time.
+
+434
+00:42:54,240 --> 00:43:07,600
+But with a certain change, which is interesting, he's going to put it in terms, wouldn't you know it, of our grip on the world, the middle of 49, a little below.
+
+435
+00:43:07,600 --> 00:43:18,080
+Thus, I grasp the concrete essence of the triangle, which is not a collection of objective characteristics, but the formula of an attitude, a certain modality of my hold on the world.
+
+436
+00:43:18,080 --> 00:43:24,319
+The hold is, that's not a mistranslation, but hold is just another word for grip that he's talking about.
+
+437
+00:43:24,800 --> 00:43:32,040
+And skipping a little, insofar as the triangle was implicated in my hold on the world, it was bursting with indefinite possibilities.
+
+438
+00:43:32,200 --> 00:43:35,640
+That's what the person figures out.
+
+439
+00:43:28,640 --> 00:43:40,359
+And finally, just the punchline is supposed to be 50 lines down on 450.
+
+440
+00:43:40,359 --> 00:43:43,800
+The subject of geometry is a motorcycle.
+
+441
+00:43:43,800 --> 00:43:45,079
+Well, bomb.
+
+442
+00:43:45,879 --> 00:44:08,919
+That means he's going to take the Cartesian subject of geometry over here and say, basically, that is, you could, without a body and without a maximum grip on the world and all the stuff that goes with it, and intuition, you couldn't be the kind of thinker that Descartes thinks you essentially are and could be whether you had a body or not.
+
+443
+00:44:08,919 --> 00:44:10,919
+You know, Descartes explicitly thinks you.
+
+444
+00:44:11,479 --> 00:44:14,439
+And finally, that's half the argument.
+
+445
+00:44:14,439 --> 00:44:25,079
+The other half, remember, I smuggled in on purpose, and what geometers deal with are essences of triangles, eternal characteristics of triangles.
+
+446
+00:44:25,080 --> 00:44:42,359
+Well, Naropunchi takes that on on 458 and 459, where he says, in effect, that there's a cultural institutional background that's assumed when you do geometry.
+
+447
+00:44:42,359 --> 00:44:54,920
+And in the middle of 458, so for a long time, people did Euclidean geometry, and they thought that all of the, what do you call it, axioms could be taken for granted.
+
+448
+00:44:54,919 --> 00:45:03,480
+And then it turned out that you could doubt the parallel postulate, and you could cancel it, and then you could make non-Euclidean geometry.
+
+449
+00:45:04,280 --> 00:45:32,480
+And then it turned out further that Euclidean geometry wasn't even the geometry of our physical space, that it was non-Euclidean and so forth, which for him shows that if you were doing geometry in the first place, you were taking this whole traditional background about what you can question and what you can't question for granted until somebody came along and questioned a piece of the background and then everything got changed.
+
+450
+00:45:32,479 --> 00:45:41,359
+That's supposed to show that what you're doing over here is always presupposing a background that's become, in his language, sedimented.
+
+451
+00:45:41,359 --> 00:45:45,199
+It's become just taken for granted in the practices over here.
+
+452
+00:45:45,200 --> 00:45:47,040
+So I'll just need to do a quick one.
+
+453
+00:45:48,560 --> 00:45:56,960
+Where about 20 lines down in 458, Euclidean geometry is one day revealed as operative for a certain period in history.
+
+454
+00:45:57,280 --> 00:46:03,839
+And it's there's the ground of the thoughts of these people, ground underline.
+
+455
+00:46:03,839 --> 00:46:17,920
+And to assume unquestionably what generalized science will come to consider as a contingent account of space, that's they assume as necessary the old geometries, which turns out now to look like a contingent.
+
+456
+00:46:17,919 --> 00:46:22,079
+So thus every truth of fact is a truth of reason and vice versa.
+
+457
+00:46:22,080 --> 00:46:29,839
+That means you have what looks like something that is a necessary thing is really a historical view.
+
+458
+00:46:29,839 --> 00:46:31,839
+And now what's the right thing?
+
+459
+00:46:32,160 --> 00:46:34,160
+I'm not going to try to explain that one.
+
+460
+00:46:34,560 --> 00:46:35,599
+Maybe it'll get clearer.
+
+461
+00:46:35,600 --> 00:46:35,999
+Let's see.
+
+462
+00:46:36,080 --> 00:46:43,599
+The relation of reason to fact or eternity to time, life of reflection to the unreflective, or thought to language.
+
+463
+00:46:43,600 --> 00:46:45,839
+Notice, by the way, this is a very important passage.
+
+464
+00:46:45,999 --> 00:46:48,959
+This is going to sum up all the founders.
+
+465
+00:46:49,839 --> 00:46:50,399
+Okay.
+
+466
+00:46:50,399 --> 00:46:52,479
+Back of reason to fact.
+
+467
+00:46:52,479 --> 00:46:55,839
+Reason is here, turns out to be founded on facts over here.
+
+468
+00:46:55,839 --> 00:46:58,600
+Fact meaning now is sedimented history.
+
+469
+00:46:58,600 --> 00:47:02,120
+Eternity to time, eternity is these essences.
+
+470
+00:46:58,240 --> 00:47:03,239
+Time is over here.
+
+471
+00:47:03,560 --> 00:47:10,200
+Life, reflection, and the unreflective, reflection here, or of thought to language.
+
+472
+00:47:10,839 --> 00:47:12,839
+That's interesting.
+
+473
+00:47:12,839 --> 00:47:19,079
+He wants to say that he wants to put language over here as a bodily thing.
+
+474
+00:47:19,080 --> 00:47:20,199
+We didn't talk about that.
+
+475
+00:47:20,680 --> 00:47:21,879
+The reasons you have to make.
+
+476
+00:47:22,200 --> 00:47:23,160
+I'm not going to get into that one.
+
+477
+00:47:23,959 --> 00:47:26,119
+It's like the intuitive triangle in here.
+
+478
+00:47:26,120 --> 00:47:28,519
+Yes, the intuitive things here, but how about language?
+
+479
+00:47:28,839 --> 00:47:29,559
+Intuitive language.
+
+480
+00:47:29,720 --> 00:47:30,839
+The intuitive language.
+
+481
+00:47:30,839 --> 00:47:31,400
+Okay.
+
+482
+00:47:31,399 --> 00:47:38,600
+Thought to language or thought to perception is a two-way relationship that phenomenology is called founding.
+
+483
+00:47:38,600 --> 00:47:53,160
+The founding term or originator, time over here, the unreflective, the fact, language, perception is primary in the sense that the originated is presented as determinant or exclusive form of the originator.
+
+484
+00:47:53,160 --> 00:47:55,079
+This is the originated.
+
+485
+00:47:55,800 --> 00:47:56,599
+This is the originator.
+
+486
+00:47:56,600 --> 00:47:58,839
+I'm in the middle of 458.
+
+487
+00:47:58,839 --> 00:48:00,999
+So this is just catching in all this.
+
+488
+00:48:01,959 --> 00:48:04,359
+All the middle part of 458.
+
+489
+00:48:08,039 --> 00:48:09,959
+Yeah, pundeum is in italic.
+
+490
+00:48:10,600 --> 00:48:11,800
+And vice versa.
+
+491
+00:48:12,280 --> 00:48:13,240
+A little before.
+
+492
+00:48:13,240 --> 00:48:16,999
+So is primary in the sense that the originator is seen.
+
+493
+00:48:17,240 --> 00:48:19,319
+There's the latter from the absorbing or former.
+
+494
+00:48:19,319 --> 00:48:23,159
+Yet the originator is not primary in the empiricist sense.
+
+495
+00:48:23,160 --> 00:48:24,439
+That is not.
+
+496
+00:48:24,439 --> 00:48:27,880
+And the originated is not simply derived from it.
+
+497
+00:48:28,200 --> 00:48:32,680
+And that's got to do with how this is a background for this.
+
+498
+00:48:32,999 --> 00:48:36,999
+And that's the whole argument, I think.
+
+499
+00:48:36,999 --> 00:48:38,359
+Let me see 440.
+
+500
+00:48:38,600 --> 00:48:39,879
+450.
+
+501
+00:48:39,879 --> 00:48:40,919
+I want to do one more.
+
+502
+00:48:40,919 --> 00:48:42,200
+450.
+
+503
+00:48:42,280 --> 00:48:43,599
+Middle, a little below the middle.
+
+504
+00:48:43,399 --> 00:48:48,640
+Whatever I think or decide is always against the background of what has been previously believed or done.
+
+505
+00:48:49,280 --> 00:49:00,080
+Then there's the Latin, whatever, that we possess a truth, but the experience of truth would be absolute knowledge only if we schematized every motive and so forth.
+
+506
+00:49:00,240 --> 00:49:03,120
+I don't think we need to grab it again.
+
+507
+00:49:03,600 --> 00:49:05,280
+No, that's fine.
+
+508
+00:49:05,999 --> 00:49:07,839
+Just 50 lines down in 461.
+
+509
+00:49:07,839 --> 00:49:10,000
+You just get used to these things coming back.
+
+510
+00:49:09,999 --> 00:49:25,520
+Even self-evident proof, I didn't say even, but I'm going to say even self-evident proof, which is irresistible in fact, like geometry before the non-euclidic one, is always questionable.
+
+511
+00:49:25,519 --> 00:50:17,000
+So the indubitable, certainly all the proofs of eucalyptus were indubitable, turns out always still questionable and that something could come along and show that what seems certain what seems certain and indubitable and was as certain and indubitable as anything could be wasn't something you didn't you could you might have to take back uh well let's see that's the other for this well then it gets named the tacit code did I start with that and so I don't need it again yes so that's it final temporality no yeah I can't just go on that's true okay but yeah I skipped something isn't it amazing you can't get away with it I try to take some quick and dirty road and instantly I get into trouble it's on page 471, I believe.
+
+512
+00:50:17,160 --> 00:50:17,959
+460.
+
+513
+00:50:18,359 --> 00:50:19,399
+Where's the sediment?
+
+514
+00:50:19,600 --> 00:50:25,400
+I'm looking for the on the right-hand side near the bottom where it talks about.
+
+515
+00:50:25,720 --> 00:50:27,960
+Okay, here it is, I think.
+
+516
+00:50:28,280 --> 00:50:28,919
+Got it.
+
+517
+00:50:28,919 --> 00:50:33,480
+459, starting at this paragraph.
+
+518
+00:50:33,479 --> 00:50:38,359
+We are now in a position to make up our minds about the question of evidence to describe the experience of truth.
+
+519
+00:50:38,359 --> 00:50:41,559
+There are no truths, just as there are.
+
+520
+00:50:41,800 --> 00:50:44,280
+There are truths, just as there are perceptions.
+
+521
+00:50:44,280 --> 00:50:50,119
+Not that we have to array before ourselves in their entirety the reasons for any assertion.
+
+522
+00:50:50,280 --> 00:50:52,760
+Then skipping about five lines from the bottom.
+
+523
+00:50:52,760 --> 00:50:56,520
+We should always find experiences which have not been made explicit.
+
+524
+00:50:56,519 --> 00:51:06,680
+Large-scale contributions from past and present, a whole sedimented history, which is not only relevant to the genesis of my thought, but which determines its significance.
+
+525
+00:51:06,839 --> 00:51:10,280
+Is that any answer to your question if not repeated?
+
+526
+00:51:10,280 --> 00:51:10,679
+What?
+
+527
+00:51:11,319 --> 00:51:33,319
+Well, we did in both columns, all right, but it has to, the more basic is in this column, because whatever is explicit over here only seems meaningful and true and certain because it's taking for granted a background from over here.
+
+528
+00:51:33,319 --> 00:51:35,160
+You can't go the other way.
+
+529
+00:51:35,479 --> 00:51:36,919
+Supposed to be a good point.
+
+530
+00:51:36,919 --> 00:51:37,240
+Yeah.
+
+531
+00:51:37,240 --> 00:51:38,519
+Can you two?
+
+532
+00:51:38,839 --> 00:51:39,560
+Yes.
+
+533
+00:51:39,560 --> 00:51:41,959
+Sedimental history definitely is over here.
+
+534
+00:51:42,200 --> 00:51:42,919
+That's right.
+
+535
+00:51:43,319 --> 00:51:47,640
+And background is that that's part of the event's potions in the argument.
+
+536
+00:51:47,879 --> 00:51:50,839
+Background, and that means sedimented history.
+
+537
+00:51:50,839 --> 00:51:55,640
+And that means that's expanding the notion of the volume a lot.
+
+538
+00:51:55,640 --> 00:51:59,240
+I think the sedimented history gets to be part of the motor intentionality.
+
+539
+00:51:59,399 --> 00:52:02,519
+It's the way the geometer is going to look at the triangle.
+
+540
+00:52:02,519 --> 00:52:02,919
+Yeah.
+
+541
+00:52:02,919 --> 00:52:04,519
+Right, so I mean, I'm saying this point.
+
+542
+00:52:04,519 --> 00:52:07,720
+Some of you previously said that they've been follow native practices.
+
+543
+00:52:07,879 --> 00:52:15,760
+And there's like a guy here, I've been scratching my head and talking about practices, but now I feel like I get why you say that, and I think you're actually right.
+
+544
+00:52:13,479 --> 00:52:23,119
+Oh, well, but the way that you just part of the text is good, because you never talk about practices, and you have to make thinking of it.
+
+545
+00:52:23,120 --> 00:52:27,839
+But where practices are, so to speak, and the low-find feeling is in the body.
+
+546
+00:52:27,839 --> 00:52:33,039
+And so that's why, you know, distance standing I like to use as an example of practices behind.
+
+547
+00:52:33,039 --> 00:52:34,079
+But that's body.
+
+548
+00:52:34,319 --> 00:52:34,720
+That's right.
+
+549
+00:52:34,720 --> 00:52:35,280
+That's good.
+
+550
+00:52:36,399 --> 00:52:36,720
+Good.
+
+551
+00:52:36,720 --> 00:52:41,999
+And that's where tension has come up in this marginal way where, you know, you just sit drawing closer or farther away to each other.
+
+552
+00:52:42,160 --> 00:52:42,399
+Good.
+
+553
+00:52:42,399 --> 00:52:43,599
+Remember the word?
+
+554
+00:52:43,600 --> 00:52:45,839
+I came across it this morning, rereading it.
+
+555
+00:52:47,439 --> 00:53:04,480
+Practinosia, not agnosia, but practinosia or something like that, is the understanding, the we are practinosia, he says, which is sort of have an understanding of our practices as a kind of knowledge.
+
+556
+00:53:04,479 --> 00:53:07,440
+It's a fancy word for know-how, I guess.
+
+557
+00:53:07,439 --> 00:53:08,720
+Something like that.
+
+558
+00:53:09,280 --> 00:53:10,319
+Anyway, you're good.
+
+559
+00:53:10,319 --> 00:53:11,520
+Put that in there.
+
+560
+00:53:11,519 --> 00:53:15,039
+Now, before you tune it in things, yeah.
+
+561
+00:53:18,479 --> 00:53:21,359
+More of us results are the age.
+
+562
+00:53:21,919 --> 00:53:23,839
+It's through the originated.
+
+563
+00:53:23,839 --> 00:53:24,640
+That's what we just.
+
+564
+00:53:24,879 --> 00:53:26,639
+Through the originated.
+
+565
+00:53:26,640 --> 00:53:28,319
+Yes, I can see that.
+
+566
+00:53:28,319 --> 00:53:31,280
+It's through this that this is made manifest.
+
+567
+00:53:37,519 --> 00:53:40,080
+Yeah, yeah, I think that's right.
+
+568
+00:53:40,080 --> 00:53:45,599
+It's only by reflection and talk about it.
+
+569
+00:53:46,160 --> 00:53:48,399
+Yes, but manifest is the crucial word.
+
+570
+00:53:48,399 --> 00:53:54,240
+I mean, this exists independently and could exist whether it was ever made manifest or not.
+
+571
+00:53:54,240 --> 00:53:58,399
+But it's true that only from over here can you talk about this.
+
+572
+00:53:58,519 --> 00:54:02,600
+Of course, that begins to raise this terrible question again, which we're not going to talk about.
+
+573
+00:54:02,600 --> 00:54:05,960
+How this can make this manifest without distorting it.
+
+574
+00:54:05,959 --> 00:54:12,520
+Because then it it's this issue of you don't want to come up with the view that I think can accompany it in representation.
+
+575
+00:54:12,519 --> 00:54:18,359
+That's the Kantian view he's against, because every time you think it, you may well be changing it.
+
+576
+00:54:18,359 --> 00:54:24,440
+So somehow something like this is necessary to manifest this.
+
+577
+00:54:24,439 --> 00:54:26,519
+But I I don't know what to say about that.
+
+578
+00:54:26,519 --> 00:54:28,279
+But some kind of A without B.
+
+579
+00:54:28,280 --> 00:54:29,399
+Could you have A without B?
+
+580
+00:54:29,640 --> 00:54:30,280
+I think you could.
+
+581
+00:54:30,280 --> 00:54:34,120
+I mean, if if not, I have gotten absolutely wrong.
+
+582
+00:54:34,120 --> 00:54:36,839
+I don't see why you couldn't have all this without this.
+
+583
+00:54:36,839 --> 00:54:40,999
+But but not with not with language and all this other stuff.
+
+584
+00:54:40,999 --> 00:54:42,599
+Well, he put language over here.
+
+585
+00:54:42,600 --> 00:54:43,800
+I know, but that's the whole point.
+
+586
+00:54:43,800 --> 00:54:48,920
+I know, but but now I thought you that there are two kinds of language according to him.
+
+587
+00:54:48,919 --> 00:54:55,400
+There's this embodied kind of language which you're going to put over here and a kind of formal language which you're going to put over here.
+
+588
+00:54:55,399 --> 00:55:01,959
+And then you're going to claim again that this is more basic than this, that all the meaning and the formal comes from over here.
+
+589
+00:55:02,359 --> 00:55:11,399
+Technically the way Wilhelm here presents it is that language is kind of I guess you would say it on the A side and then on the spot is kind of what happens.
+
+590
+00:55:11,399 --> 00:55:21,319
+But like Descartes didn't see the relation between language and and now I mean are we going to say that I wouldn't say there's intuitive language and then not intuitive language is that there's language and then there's thought.
+
+591
+00:55:21,560 --> 00:55:29,959
+Okay, and so the problem is is is reconciling set of into disagree practices and all that easy stuff without any deflections on that.
+
+592
+00:55:30,439 --> 00:55:34,119
+And you have the claim is, I mean, that's the founding claim.
+
+593
+00:55:34,120 --> 00:55:35,240
+You could have this.
+
+594
+00:55:35,280 --> 00:55:39,000
+And of course, now you're getting more and more taking in stuff over here.
+
+595
+00:55:39,080 --> 00:55:40,439
+It might have been over here.
+
+596
+00:55:40,439 --> 00:55:46,080
+But you make up a a kind of this, which you could have without this.
+
+597
+00:55:46,399 --> 00:55:58,000
+And you define this in a sufficiently formal, intellectualist, background-free, Cartesian way so that you can't have this without that.
+
+598
+00:55:59,120 --> 00:56:01,439
+That is the thesis, isn't it?
+
+599
+00:56:01,680 --> 00:56:03,839
+Let me refrain from the different questions.
+
+600
+00:56:04,080 --> 00:56:04,479
+Okay.
+
+601
+00:56:04,640 --> 00:56:11,440
+The temptation is to say, well, you can have something just like A without B, and that's what children and animals are.
+
+602
+00:56:11,439 --> 00:56:12,079
+What?
+
+603
+00:56:12,479 --> 00:56:13,199
+Yeah, yeah, you're right.
+
+604
+00:56:13,200 --> 00:56:14,159
+Okay, yeah, got it.
+
+605
+00:56:14,160 --> 00:56:14,560
+Okay.
+
+606
+00:56:14,560 --> 00:56:15,599
+And children and animals.
+
+607
+00:56:16,240 --> 00:56:20,000
+And that's the view that I think we'll often see.
+
+608
+00:56:19,999 --> 00:56:25,519
+Yeah, I think I read something in here, too, as well, in the primacy of perception where he said, it does particular things in the value.
+
+609
+00:56:25,600 --> 00:56:27,200
+I mean, it's just high degree.
+
+610
+00:56:27,519 --> 00:56:28,319
+Yes.
+
+611
+00:56:28,319 --> 00:56:28,879
+But...
+
+612
+00:56:28,879 --> 00:56:31,999
+That you can't even say animals are like us without X, point, and Z, which we have.
+
+613
+00:56:32,160 --> 00:56:32,399
+Okay.
+
+614
+00:56:34,720 --> 00:56:37,680
+I can see you want to say that when once we say that.
+
+615
+00:56:37,680 --> 00:56:39,760
+But then there's...
+
+616
+00:56:39,760 --> 00:56:40,800
+Boy, that's interesting.
+
+617
+00:56:40,800 --> 00:56:43,839
+See, that's why I wrote the column I wrote and not that.
+
+618
+00:56:43,839 --> 00:56:50,159
+Because in this column, this is what we share with the animals and the pre-linguistic.
+
+619
+00:56:50,479 --> 00:56:55,999
+This is something that we have to have that go beyond the animation.
+
+620
+00:56:55,999 --> 00:57:02,080
+But I hope you can pull this out of Rick, because if you do, it'll be a great step forward.
+
+621
+00:57:02,080 --> 00:57:03,359
+What's left of the founding?
+
+622
+00:57:03,359 --> 00:57:09,359
+What does founding mean once you've made this a prerequisite of this?
+
+623
+00:57:09,359 --> 00:57:16,959
+I think it's what we talked about in office in your office, something along the lines of enabling conditioning, or this point of conditions or the experience of existence and mentability.
+
+624
+00:57:16,999 --> 00:57:22,399
+I mean, I mean, I actually don't know, but I feel like there's just a holistic transformation of our existence.
+
+625
+00:57:22,399 --> 00:57:25,839
+It can be easy just as an instructive behavior in other ways.
+
+626
+00:57:25,839 --> 00:57:31,240
+And so, once we're like the way we are, our perception is whatever it is distinct from animals.
+
+627
+00:57:32,039 --> 00:57:33,159
+Well, I don't deny it.
+
+628
+00:57:28,640 --> 00:57:33,959
+That's fine.
+
+629
+00:57:34,200 --> 00:57:37,079
+I mean, except I don't understand you anymore.
+
+630
+00:57:37,080 --> 00:57:40,599
+The stance in which this is supposed to be founding for this.
+
+631
+00:57:41,959 --> 00:57:47,240
+I think it's a problem, but then graphs, you have to clarify what he means by conditions of existence and instability and everything.
+
+632
+00:57:47,479 --> 00:57:54,199
+Okay, but still, there's certainly this logical space for that differentiation because this arises out of that.
+
+633
+00:57:54,359 --> 00:57:56,999
+You might think it arises out of this method therapy.
+
+634
+00:57:56,999 --> 00:57:57,319
+Right.
+
+635
+00:57:57,720 --> 00:58:04,359
+So that you couldn't have all of those pieces together without having the other forms of life that are impossible behind that altogether.
+
+636
+00:58:04,680 --> 00:58:07,559
+Like you can't have three dots without having a triangle.
+
+637
+00:58:07,879 --> 00:58:15,079
+So the story would be that this is founded in this genetically.
+
+638
+00:58:15,479 --> 00:58:18,760
+Without this already in place, you can't get this.
+
+639
+00:58:18,760 --> 00:58:25,560
+But once you've got this, then there's more to this, namely what we put over here.
+
+640
+00:58:26,039 --> 00:58:36,839
+And but even this more over here is a prerequisite of a certain kind of intellectual activity over here.
+
+641
+00:58:36,839 --> 00:58:38,439
+Boy, is that complicated.
+
+642
+00:58:39,399 --> 00:58:48,279
+It is, but let's repeat it because it seems to be stupid individual pieces of hair.
+
+643
+00:58:48,439 --> 00:58:52,359
+Individual pieces of hair are more basic than overall hair is.
+
+644
+00:58:52,680 --> 00:58:57,480
+But once you've stipulated the individual pieces of the hair, you've also stipulated the hair.
+
+645
+00:59:02,519 --> 00:59:06,839
+Yeah, that's fascinating, but I don't think it's ingredient, but I think it's genetic.
+
+646
+00:59:06,839 --> 00:59:13,800
+I think it's only because, because that's got to do, well, we're getting, I think this is fascinating and important.
+
+647
+00:59:13,839 --> 00:59:23,839
+Let me just repeat what I said because it's the nearest thing I can think of to understanding it right now, but it sounds so complicated that I'm going to go over it slowly and maybe have to take it back.
+
+648
+00:59:23,839 --> 00:59:42,800
+It looks like there's this story which I'm always telling, which is infants and higher primates and the body schema that's in us, and any being that has a body like ours that's coming to be with this, get onto the way objects are in the world and so forth.
+
+649
+00:59:42,800 --> 00:59:48,160
+And that's certainly going to turn out to have to be in place before you get this.
+
+650
+00:59:48,479 --> 01:00:07,679
+But this can then generate, and this is the genetic thing, language and history and institutions and background, and they aren't for pre-linguists, just they call beyond pre-linguists.
+
+651
+01:00:07,680 --> 01:00:16,400
+They make possible something over here which you couldn't have had if you didn't have this.
+
+652
+01:00:16,720 --> 01:00:18,560
+But now there's one more thing.
+
+653
+01:00:18,560 --> 01:00:20,640
+So, oh, I know what I said wrong.
+
+654
+01:00:20,959 --> 01:00:21,999
+Let me start again.
+
+655
+01:00:22,319 --> 01:00:23,599
+That's not the way to put it.
+
+656
+01:00:23,600 --> 01:00:25,279
+Otherwise, that won't be any pleasant.
+
+657
+01:00:25,280 --> 01:00:37,519
+So you get this, and then you get some kind of this, which makes what happens when, and maybe that's the supervenience.
+
+658
+01:00:38,160 --> 01:00:52,879
+You get something like, I don't know yet, you got when the child gets to a certain point, it's able to learn language and think and reflect, and the kind of thing the Alice and Doffnik and so forth study.
+
+659
+01:00:52,879 --> 01:00:56,760
+You see, see that you have a perspective on the world.
+
+660
+01:00:56,760 --> 01:01:00,040
+Then that makes possible this.
+
+661
+01:01:00,039 --> 01:01:00,839
+Okay, I see now.
+
+662
+01:00:58,640 --> 01:01:03,080
+I want to say this, you get first.
+
+663
+01:01:03,399 --> 01:01:06,760
+You can go, human beings can go to this.
+
+664
+01:01:07,399 --> 01:01:10,280
+That makes possible this.
+
+665
+01:01:10,600 --> 01:01:18,359
+It makes possible something over here for things like geometry.
+
+666
+01:01:18,359 --> 01:01:29,240
+But that is what this kind of background enables you to do, I guess I could say, one of the things, disembodied.
+
+667
+01:01:29,240 --> 01:01:31,639
+How is your number four different from your number two?
+
+668
+01:01:31,640 --> 01:01:33,319
+From number two.
+
+669
+01:01:33,959 --> 01:01:37,720
+Well, that's, now I'd have to sort of figure that out.
+
+670
+01:01:37,720 --> 01:01:46,520
+You'd have to say, well, a three-year-old child has something like a kind of thought, a kind of reflection, and represents they have beliefs.
+
+671
+01:01:46,519 --> 01:01:51,640
+This is all the stuff that the developmental people study that come in at three.
+
+672
+01:01:51,640 --> 01:01:53,160
+And that stuff.
+
+673
+01:01:53,479 --> 01:01:59,479
+Yeah, I think that they have beliefs the way that those people think that they have beliefs.
+
+674
+01:01:59,560 --> 01:02:00,839
+No, not the way they think.
+
+675
+01:02:00,839 --> 01:02:01,720
+The beliefs.
+
+676
+01:02:01,720 --> 01:02:04,679
+Everything over here is going to be up for fighting over.
+
+677
+01:02:04,839 --> 01:02:06,039
+Isn't the way they think of it?
+
+678
+01:02:06,760 --> 01:02:08,439
+They can play to and book.
+
+679
+01:02:08,439 --> 01:02:10,520
+And isn't that what you're against?
+
+680
+01:02:10,519 --> 01:02:11,239
+That's right.
+
+681
+01:02:11,240 --> 01:02:11,800
+They do.
+
+682
+01:02:11,800 --> 01:02:14,359
+We're now trying to tell the true story of founding.
+
+683
+01:02:14,359 --> 01:02:17,400
+The true story of founding is you get this.
+
+684
+01:02:17,399 --> 01:02:22,920
+At a certain age, let's say three-year-old children get a certain version of this.
+
+685
+01:02:23,479 --> 01:02:25,160
+They've got beliefs, all right.
+
+686
+01:02:25,160 --> 01:02:35,400
+They just don't, and they've got thinking and they've got reflection, but all in a very uncritesian-detached sort of way.
+
+687
+01:02:35,399 --> 01:02:42,040
+But that's enough to give them this, which they've got as they grow up.
+
+688
+01:02:42,039 --> 01:02:46,319
+And on the basis of this, you can get the much more Cartesian.
+
+689
+01:02:46,319 --> 01:02:51,280
+So I'm going to have to move the Cartesian toe over here.
+
+690
+01:02:51,280 --> 01:02:52,399
+That's what we want me to do.
+
+691
+01:02:53,039 --> 01:02:56,879
+And this is going to be something what?
+
+692
+01:02:56,879 --> 01:03:01,039
+The pre-reflective Coke-toe, the no, the exact reflection.
+
+693
+01:03:01,039 --> 01:03:02,319
+The developmental.
+
+694
+01:03:02,879 --> 01:03:04,159
+I don't know what to say.
+
+695
+01:03:04,800 --> 01:03:07,200
+The linguistic Cokey Toe.
+
+696
+01:03:07,439 --> 01:03:08,720
+We haven't got a word for it.
+
+697
+01:03:09,200 --> 01:03:09,919
+The one?
+
+698
+01:03:13,760 --> 01:03:14,879
+I don't know what to say.
+
+699
+01:03:14,879 --> 01:03:16,800
+The question mark Coke-Toe.
+
+700
+01:03:17,039 --> 01:03:19,039
+Well, that might be the story.
+
+701
+01:03:21,439 --> 01:03:22,560
+The I think.
+
+702
+01:03:22,879 --> 01:03:24,480
+The I think.
+
+703
+01:03:24,800 --> 01:03:35,599
+Well, there's going to be a kind of I think which children have, and then there's going to be a kind of much more building role.
+
+704
+01:03:36,319 --> 01:03:46,159
+So for the record, this is for the record, this is your understanding of what's really happening, but would you attribute this to the Mobile Frontier as well?
+
+705
+01:03:46,640 --> 01:03:51,039
+Well, no, I think, yes.
+
+706
+01:03:51,039 --> 01:03:55,999
+I mean, I think not, I think, I don't know whether he sees it, but you've convinced me this whole discussion.
+
+707
+01:03:55,999 --> 01:04:07,599
+It's just you he's got to hold once he puts this in here as over here on this side and says that this is required.
+
+708
+01:04:07,600 --> 01:04:08,959
+What's the manifest quote?
+
+709
+01:04:08,959 --> 01:04:09,760
+Who said that?
+
+710
+01:04:09,760 --> 01:04:15,200
+Yeah, the the something here is required to manifest this.
+
+711
+01:04:15,200 --> 01:04:17,359
+And now the whole thing would be to sort this out.
+
+712
+01:04:17,359 --> 01:04:18,159
+Shall we try?
+
+713
+01:04:18,160 --> 01:04:20,080
+I mean, I don't know what it looked like.
+
+714
+01:04:20,640 --> 01:04:23,839
+This guy thinks this is in general as Aaron.
+
+715
+01:04:23,839 --> 01:04:28,920
+This doesn't, and this is representational intentionality.
+
+716
+01:04:29,160 --> 01:04:30,839
+That's going to go over here.
+
+717
+01:04:28,240 --> 01:04:33,800
+But there's going to be something over here like beliefs.
+
+718
+01:04:33,959 --> 01:04:38,040
+It's just that they're not going to be understood in that intellectualist way.
+
+719
+01:04:38,039 --> 01:04:39,560
+There's going to be reflection.
+
+720
+01:04:39,560 --> 01:04:41,000
+There's going to be thought.
+
+721
+01:04:40,999 --> 01:04:42,999
+That's going to be formal thinking over.
+
+722
+01:04:42,999 --> 01:04:47,560
+This is going to be something like intuitive thinking over here.
+
+723
+01:04:49,879 --> 01:04:53,079
+And disengage.
+
+724
+01:04:54,600 --> 01:04:56,599
+This is supposed to be really disengage.
+
+725
+01:04:56,999 --> 01:04:58,280
+What is this supposed to be?
+
+726
+01:04:58,519 --> 01:04:59,399
+I don't know.
+
+727
+01:04:59,959 --> 01:05:01,560
+There's got to be a way.
+
+728
+01:05:01,879 --> 01:05:04,999
+And this is the thing that Jennifer started by talking about.
+
+729
+01:05:04,999 --> 01:05:06,039
+We're back to that.
+
+730
+01:05:06,039 --> 01:05:16,200
+There's a kind of disengage, which goes with staying on the level of a background of coping when you're dealing with the doorknob.
+
+731
+01:05:16,519 --> 01:05:18,599
+And then there's this total disengage.
+
+732
+01:05:18,919 --> 01:05:28,839
+This is supposed to be the total disengaged theoretical with Descartes supposedly home.
+
+733
+01:05:28,839 --> 01:05:33,559
+This kind of disengaged is something like practical disengage.
+
+734
+01:05:33,560 --> 01:05:38,919
+For those who know Heidegger, this is going to be the unready, and this is going to be the present inherent.
+
+735
+01:05:38,919 --> 01:05:46,680
+Now, I don't know how much of that is in Narva Ponte, and I don't even know if it's right, but the vision was sort of driven into, yeah.
+
+736
+01:05:46,680 --> 01:05:48,439
+Okay, I find this very confusing.
+
+737
+01:05:48,760 --> 01:05:56,119
+And in particular, I don't see that you can do with column three what you're, what it seems like wants to be done with column three here.
+
+738
+01:05:56,439 --> 01:06:06,679
+One thing that I can make sense of, which is what I thought you were saying all semester long, was that stuff like, maybe background is okay, but stuff like practices and history just don't belong over on our side because they're not impersonal.
+
+739
+01:06:06,680 --> 01:06:10,440
+Okay, but now that we know what Nario Fonti said, history belongs there.
+
+740
+01:06:10,439 --> 01:06:18,959
+Well, okay, so then if you want to, if you want to say that and you want to stick all that stuff over there then I think that all that stuff has to be in one column.
+
+741
+01:06:18,959 --> 01:06:24,800
+You sort of have two columns over on that on that side and then you don't get any of the stuff on the B side until you've got all of that.
+
+742
+01:06:25,120 --> 01:06:25,760
+Well, I don't see why you're not.
+
+743
+01:06:26,720 --> 01:06:28,639
+Well we know that Marlowapanti doesn't say that.
+
+744
+01:06:28,640 --> 01:06:30,560
+One, he does say history's here.
+
+745
+01:06:30,560 --> 01:06:38,559
+Second, he says that this is something that we share with the pre-linguistic infants and with the animals.
+
+746
+01:06:38,959 --> 01:06:48,240
+It's the one that functions in anybody, that any kind of body that deals with perceptual objects and keeps them constant and so forth.
+
+747
+01:06:48,240 --> 01:07:00,400
+And it's definitely, I mean, I didn't sort of bring them in today, the quotes, but you can find plenty of quotes that it's not social, not linguistic, and so forth.
+
+748
+01:07:00,640 --> 01:07:03,040
+And he's analyzing that a lot of the time.
+
+749
+01:07:03,039 --> 01:07:04,880
+So you can't just get rid of it.
+
+750
+01:07:05,439 --> 01:07:20,000
+So no, this doesn't mean history of events, and it doesn't mean history of being or anything like that.
+
+751
+01:07:19,999 --> 01:07:29,199
+Sedimented, sedimented, but it does mean more than just this.
+
+752
+01:07:29,519 --> 01:07:33,280
+So but what columns into the A side?
+
+753
+01:07:33,760 --> 01:07:36,559
+What is it that the things include grouping everything?
+
+754
+01:07:36,800 --> 01:07:42,800
+This they have in common not being either of those two and being a necessary condition for both of them.
+
+755
+01:07:43,200 --> 01:07:44,240
+Okay, so founding.
+
+756
+01:07:44,240 --> 01:07:45,600
+Everything on the left side is founding.
+
+757
+01:07:45,999 --> 01:07:48,879
+This is the founder, and this is the founded.
+
+758
+01:07:48,879 --> 01:07:49,440
+Definitely.
+
+759
+01:07:49,440 --> 01:07:50,079
+That's what it is that's.
+
+760
+01:07:50,400 --> 01:07:55,439
+It doesn't seem that uncomplicated because what you say is first you get one, and then you get two, and then you get three.
+
+761
+01:07:55,680 --> 01:07:57,760
+So that sounds like two is founding for three.
+
+762
+01:07:58,079 --> 01:07:59,319
+Yes, I see.
+
+763
+01:07:59,320 --> 01:07:59,800
+You're right.
+
+764
+01:08:00,279 --> 01:08:00,600
+That's right.
+
+765
+01:07:58,320 --> 01:08:01,800
+So I can't put it that way.
+
+766
+01:08:02,119 --> 01:08:07,399
+I've got to say that this is all because of the complications about the word founding, right?
+
+767
+01:08:07,400 --> 01:08:09,559
+But what you're saying is true.
+
+768
+01:08:09,560 --> 01:08:16,919
+It looks like there's a founding relation between this and this.
+
+769
+01:08:17,239 --> 01:08:35,560
+And then, and that's the thing that Jin started, something about this is required for this, and yet, and now back to the founding of a different sort again, that that is going to be background and founding for this.
+
+770
+01:08:35,879 --> 01:08:37,640
+That's just how it's going to turn out.
+
+771
+01:08:37,640 --> 01:08:42,680
+And then my question is: why don't you just put everything in column three, you know, in column two or after column two?
+
+772
+01:08:42,680 --> 01:08:45,480
+Why is it back over on this basic set?
+
+773
+01:08:45,800 --> 01:08:51,959
+Because it's got, it's pre-reflective, and it's the body.
+
+774
+01:08:53,879 --> 01:09:00,999
+Reflection is required, compliance, but certainly the background is pre-reflective when it's functioning as a background.
+
+775
+01:09:00,999 --> 01:09:04,279
+Maybe we have to worry about what reflection means here.
+
+776
+01:09:05,079 --> 01:09:08,359
+I think it probably is this kind of reflection.
+
+777
+01:09:08,600 --> 01:09:15,560
+This is not the reflection of disembodied theoretical reflection.
+
+778
+01:09:15,560 --> 01:09:19,559
+This is something like reflection in practice.
+
+779
+01:09:19,560 --> 01:09:21,720
+And that's again like the ready to hand.
+
+780
+01:09:21,720 --> 01:09:27,800
+It's like in the activity of dealing with the door, how am I going to deal with the doorknob?
+
+781
+01:09:28,119 --> 01:09:31,640
+Kids have that before they, probably before language.
+
+782
+01:09:31,640 --> 01:09:44,720
+But this kind of practical reflection is going to be what is required already before you can get this.
+
+783
+01:09:43,480 --> 01:09:49,600
+But this may be prior to practical reflection.
+
+784
+01:09:43,640 --> 01:09:50,159
+I think it is.
+
+785
+01:09:50,400 --> 01:09:57,839
+I think it's either you're coping or there's breakdown in which you're sort of flailing around.
+
+786
+01:09:57,839 --> 01:10:12,559
+If you stop flailing around, flailing around flexibly and creatively, I don't mean falling apart, but if you get into the position of sort of figuring out what to do, you're over here.
+
+787
+01:10:12,560 --> 01:10:19,919
+And if you get into the position of sort of standing back completely and trying to have a theory what to do, you're over there.
+
+788
+01:10:19,919 --> 01:10:22,319
+Hey, you're stuck is much better.
+
+789
+01:10:22,320 --> 01:10:23,199
+But let me see.
+
+790
+01:10:23,199 --> 01:10:24,319
+Sediment and what?
+
+791
+01:10:24,320 --> 01:10:25,919
+What did you want to do with history?
+
+792
+01:10:26,159 --> 01:10:38,800
+I think instead of calling it with history, I wasn't there to say that it's sedimentation and that means Martin's your learning history and reduced behind the state.
+
+793
+01:10:38,959 --> 01:10:39,760
+It doesn't exist.
+
+794
+01:10:40,320 --> 01:10:41,039
+Let's look.
+
+795
+01:10:41,039 --> 01:10:44,319
+I thought it was something like the institutions came into it.
+
+796
+01:10:44,320 --> 01:10:45,520
+Where did I find this sediment?
+
+797
+01:10:45,520 --> 01:10:46,800
+A hill yard.
+
+798
+01:10:46,800 --> 01:10:49,600
+It's a large-scale contribution to the past.
+
+799
+01:10:49,680 --> 01:10:55,039
+I hope it hasn't the genesis of thought, it turns it beyond the bottom of 59.
+
+800
+01:10:58,320 --> 01:11:02,479
+Now we think against the background, just the middle of 60.
+
+801
+01:11:03,839 --> 01:11:05,839
+So I know what he's thinking about.
+
+802
+01:11:05,839 --> 01:11:16,800
+He's thinking about how the book for historical, the origin of geometry is the origin of certain institutions and background taken for granted.
+
+803
+01:11:16,879 --> 01:11:22,800
+It may mean something very different in hostil, but this is the area he's in.
+
+804
+01:11:22,800 --> 01:11:23,999
+So, what do you think?
+
+805
+01:11:24,239 --> 01:11:25,199
+Why don't you describe it?
+
+806
+01:11:25,360 --> 01:11:31,239
+Also, Columbus when he speaks about headaches for the depth of the body right.
+
+807
+01:11:32,360 --> 01:11:36,519
+But a seven-minute history is a different thing, I think.
+
+808
+01:11:37,079 --> 01:11:47,720
+I'm trying to see if it isn't in the examples that you hear about geometry and what you take for granted when you're doing geometry.
+
+809
+01:11:48,520 --> 01:11:56,599
+It's got to do with what stands behind having a true idea at the middle of forests, and having eigenic intuitions.
+
+810
+01:11:56,600 --> 01:12:01,720
+So, it's not just any, it's not just all the skills that you've got that you didn't have.
+
+811
+01:12:01,720 --> 01:12:06,760
+I mean, it doesn't mean to hear a seven-minute history certainly doesn't mean that I can play tennis.
+
+812
+01:12:06,760 --> 01:12:08,919
+It's much more institutional.
+
+813
+01:12:08,919 --> 01:12:10,839
+But I don't know how to say it.
+
+814
+01:12:18,119 --> 01:12:22,199
+I mean, that's probably not sufficiently precise to do it, but it's got to do with that.
+
+815
+01:12:22,199 --> 01:12:27,239
+It's not about I've learned that makes me my body, but it's what we've all considered.
+
+816
+01:12:27,320 --> 01:12:30,919
+I'm sure I understand the reason for having four separate places.
+
+817
+01:12:30,919 --> 01:12:39,720
+Why not just say that it is the pretty taken from B, and at once we have the A force background from B and that once?
+
+818
+01:12:40,199 --> 01:12:41,400
+Well, any thorns?
+
+819
+01:12:41,400 --> 01:12:45,400
+Because why would be the founding character?
+
+820
+01:12:45,560 --> 01:12:58,839
+That yesterday is before we turned against the fact that supposedly the big claim, remember I started the lecture, who would have thought that it would be destroyed by the end of the lecture, but I think that's very important.
+
+821
+01:12:59,079 --> 01:13:04,839
+The big claim is there are these two capacities, maybe now three, but uh four.
+
+822
+01:13:04,879 --> 01:13:15,519
+Then look, I started, there are these two capacities, and the important claim isn't that these don't exist, the important claim is that this is founding for this.
+
+823
+01:13:15,520 --> 01:13:17,279
+And we don't want to lose that.
+
+824
+01:13:13,560 --> 01:13:17,999
+That's it.
+
+825
+01:13:18,159 --> 01:13:22,319
+So that's why I've pushed it the phenomenon supposed to prove that.
+
+826
+01:13:22,320 --> 01:13:27,520
+That is supposed to prove that you can't uh now it's gotta prove two things.
+
+827
+01:13:27,520 --> 01:13:43,519
+I mean, it's gotta prove that without this you couldn't even get this childlike thing going this thing of three-year-olds going and it and and it's gotta prove, I think, that without this you couldn't get geometry going.
+
+828
+01:13:43,520 --> 01:13:46,239
+And there seem to be, I think, two foundings going on.
+
+829
+01:13:46,239 --> 01:13:49,359
+But if you can straighten it out, I'd be delighted.
+
+830
+01:13:49,360 --> 01:13:52,560
+But what I would also have somebody I hope wrote this chart down.
+
+831
+01:13:52,560 --> 01:13:56,800
+Has somebody got this written down so that I can click at home and think about it?
+
+832
+01:13:56,800 --> 01:13:57,839
+Jennifer, have you got it?
+
+833
+01:13:58,800 --> 01:13:59,039
+Okay.
+
+834
+01:14:01,039 --> 01:14:09,199
+Yeah, it's I thought it seems to me that when you know two to three you don't breathe forward, you need to go back to dying.
+
+835
+01:14:09,199 --> 01:14:14,479
+Um you need to get from language to the concept of the geometry.
+
+836
+01:14:14,480 --> 01:14:18,800
+And it seems to me that you have to retire two both founded for you.
+
+837
+01:14:19,119 --> 01:14:20,239
+Well, that's what I'm saying.
+
+838
+01:14:20,239 --> 01:14:24,159
+Yes, that's what I think that you that's why so it's interdependent.
+
+839
+01:14:24,159 --> 01:14:26,320
+You know, it's not just positive change.
+
+840
+01:14:26,640 --> 01:14:27,680
+Interdependent.
+
+841
+01:14:27,680 --> 01:14:28,640
+Very careful.
+
+842
+01:14:28,640 --> 01:14:29,520
+Interdependent.
+
+843
+01:14:29,520 --> 01:14:32,159
+If you go too far with that, you lose founding.
+
+844
+01:14:32,159 --> 01:14:42,479
+I mean, that's the question is how to keep all this interdependence and keep the claim, which is clearly important to Verlofunte, that these are all lined down here.
+
+845
+01:14:42,480 --> 01:14:48,720
+Somehow the stuff over here does a founding job to the stuff over here.
+
+846
+01:14:48,720 --> 01:14:56,079
+And now now you must introduce the complication that this that this part can still do a founding job for this part.
+
+847
+01:14:56,079 --> 01:14:58,439
+And that makes it hard to understand.
+
+848
+01:14:58,079 --> 01:15:00,039
+Yeah, good word.
+
+849
+01:15:00,360 --> 01:15:19,640
+Maybe feel like a kind of a holistic understanding of it where it is when you when you move to three, it's A and B combined together and when you move from three to four is A and D and one, two, and two combined together, so that you can interchange between the three of them, so it's not going to cause the pain that's turning between them.
+
+850
+01:15:19,640 --> 01:15:28,600
+But because when you do have geometry, you can go back and talk and classes with language and then produce, you know, not the next thing.
+
+851
+01:15:28,839 --> 01:15:31,400
+I'm not sure I understand you, but we've run out of time.
+
+852
+01:15:31,640 --> 01:15:36,359
+I mean, it's a story about what founding is that we have to get clear, which I'll talk.

@@ -1,0 +1,2976 @@
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:09,199
+Okay, so we've heard some things already about the differences between these ways of being, being that we have seen the Homeric Greek, the Athens, and Rome.
+
+2
+00:00:09,199 --> 00:00:12,960
+In Homeric Greece, it was Thusis, it was nature taking over.
+
+3
+00:00:12,960 --> 00:00:15,439
+In Athens, then it was Poiesis.
+
+4
+00:00:15,440 --> 00:00:18,239
+It was bringing about what is in the material.
+
+5
+00:00:18,240 --> 00:00:25,359
+It was the expressive way of being, cultivating and nurturing.
+
+6
+00:00:25,360 --> 00:00:32,719
+And then Professor Dreyfus has said that for the Romans, something else becomes most important, namely production.
+
+7
+00:00:32,719 --> 00:00:36,879
+And this is seen as a repressive and regulative and ordering way of being.
+
+8
+00:00:36,879 --> 00:00:39,759
+Order here is something imposed and invented.
+
+9
+00:00:39,759 --> 00:00:48,719
+People are not of the world or in the world in the same way that they were, but now they are in charge of the world.
+
+10
+00:00:49,040 --> 00:00:54,799
+And the new focus we could say maybe is on doing rather than on being perceptive to what's there.
+
+11
+00:00:54,799 --> 00:01:01,199
+Now, I've said last time that from the point of view of the Roman at the time of Augustus, Rome is very, very successful.
+
+12
+00:01:01,960 --> 00:01:10,199
+The idea of world power is new, and this, of course, depends on the will to create a world or unify this world or order it.
+
+13
+00:01:10,200 --> 00:01:16,360
+And some of the new elements in this culture are: it's very cosmopolitan, it's expansive.
+
+14
+00:01:16,920 --> 00:01:21,240
+There's a new emotion that's pietas or duty.
+
+15
+00:01:21,559 --> 00:01:28,520
+There is a focus on valuing the status quo and stability while outward expanding.
+
+16
+00:01:29,480 --> 00:01:38,839
+A strong value is that there is a leader at the head of the state, and the idea of the nation or duty to the nation is more important than personal choice.
+
+17
+00:01:38,839 --> 00:01:46,920
+And that's in turn tied to the idea of historical progress that can be extrapolated into the future, and then it is dependent on human.
+
+18
+00:01:46,999 --> 00:01:52,999
+Virgil is the one to glorify the new core value, pietas or duty.
+
+19
+00:01:52,999 --> 00:02:00,360
+And in this, he is very self-referential because he himself is dutifully writing the Aeneid because he has been commissioned to do so.
+
+20
+00:02:00,999 --> 00:02:12,760
+Aeneas is creating, the Aeneid is creating the new emotion that it's portraying as a chief virtue, and in this sense, it is a self-referential and autopoetic work, much like the Orestea.
+
+21
+00:02:13,080 --> 00:02:19,560
+The one question that I have, though, is why does Virgil put so much weight on Dido?
+
+22
+00:02:19,559 --> 00:02:20,839
+What's the reason for that?
+
+23
+00:02:20,839 --> 00:02:26,200
+And I wondered that all along, because that was precisely the point that had been criticized in Roman times.
+
+24
+00:02:26,199 --> 00:02:28,439
+The Romans said, Well, this is about our culture.
+
+25
+00:02:28,439 --> 00:02:34,439
+Why do we have to hear so much about this foreign queen, this African ruler, this other way of being?
+
+26
+00:02:35,320 --> 00:02:36,119
+That seems wrong.
+
+27
+00:02:36,119 --> 00:02:40,040
+We want to hear about the Ur Roman, Aeneas.
+
+28
+00:02:40,999 --> 00:02:43,240
+And I think there are some structural reasons.
+
+29
+00:02:43,240 --> 00:02:49,920
+For example, it has a point for the frame narration that Aeneas comes to Dido's shore and can tell about his traveling.
+
+30
+00:02:50,240 --> 00:02:54,559
+But I think there is a deeper reason for the importance of Dido.
+
+31
+00:02:54,879 --> 00:03:05,599
+Dido seems to be the anti-Aeneas, and I think in a traditional interpretation, she's the perfect example of how you can most grandiosely fail in pietas.
+
+32
+00:03:05,600 --> 00:03:10,800
+She fails in showing that virtue.
+
+33
+00:03:11,439 --> 00:03:27,600
+And yet, I think that in her character, we can find a kernel of overcoming the Roman way of being because Dido is both pointing backwards to an older way of being and she's pointing forward to what is to come and to take over the Roman way of being.
+
+34
+00:03:27,920 --> 00:03:42,400
+So I think that in this idea of the imposed and invented order is already inherent the idea of imposing order on one's own life and inventing one's own fate rather than doing one's duty towards a given fate.
+
+35
+00:03:42,400 --> 00:03:45,600
+So this is how I think Dido and Aeneas are different.
+
+36
+00:03:45,600 --> 00:03:55,360
+Okay, but before we go on with Dido, I want to introduce some of the terms that are new and important for the Roman way of being.
+
+37
+00:03:55,360 --> 00:04:03,839
+So in the first 100 lines, we already see that there is a new God, very important, which is Fatum, which is fate.
+
+38
+00:04:03,839 --> 00:04:09,040
+And this God or this force is personified often as three fates, as three women.
+
+39
+00:04:09,040 --> 00:04:13,439
+And what they're doing is that they're making this thread of fate.
+
+40
+00:04:14,400 --> 00:04:21,840
+And they signify the new understanding of being, of being in charge of the world, because this order is thought much like this thretch that they're making.
+
+41
+00:04:21,839 --> 00:04:26,720
+It is sort of linear, as singular, stringent, straight-line, determined.
+
+42
+00:04:26,719 --> 00:04:30,399
+And again, that has to do with the idea of historical progress and the faith.
+
+43
+00:04:30,640 --> 00:04:47,719
+We can see that Fatum or the Fates are more important than the older gods because if you remember the beginning of the Aeneid, it's that Juno, who formerly was Hera in the Greek world, Carthage is her city, and she really wants Carthage to be successful.
+
+44
+00:04:47,720 --> 00:04:52,759
+And she wants Carthage to be the head of nations and to rule the world, and not Rome.
+
+45
+00:04:52,759 --> 00:05:01,080
+And so she does everything she can to prolong the process of Rome being founded and Rome coming to a rise, but she can't stop it anymore.
+
+46
+00:05:01,079 --> 00:05:08,199
+All she can try to do is prolong this process and keep Aeneas away from the Italian shores.
+
+47
+00:05:08,199 --> 00:05:13,240
+But she has less power than Phartum, less power than the Fate.
+
+48
+00:05:14,119 --> 00:05:20,999
+Another important, I think, another interesting and important cultural force that is personified is Farma.
+
+49
+00:05:20,999 --> 00:05:23,800
+And you'll find her on page 85 of your version.
+
+50
+00:05:23,800 --> 00:05:26,759
+It's a very nice description of what Farma is.
+
+51
+00:05:28,439 --> 00:05:30,040
+I'll quote some.
+
+52
+00:05:30,040 --> 00:05:30,440
+Yeah.
+
+53
+00:05:32,360 --> 00:05:37,079
+Another, I knew there was one thing I wanted to talk about.
+
+54
+00:05:37,480 --> 00:05:40,919
+It turns out there are two different editions of this Aeneid.
+
+55
+00:05:41,079 --> 00:05:47,079
+Somebody came back after that they couldn't find on their pages the quotes that I was reading.
+
+56
+00:05:47,079 --> 00:05:56,360
+And it turns out that if you bought it new, you have different, roughly a page or two off from the broadband views.
+
+57
+00:05:56,360 --> 00:06:01,639
+How many have had trouble finding the quotes that I was giving you?
+
+58
+00:06:01,640 --> 00:06:02,999
+How many have not had trouble?
+
+59
+00:06:02,999 --> 00:06:03,999
+I just want to see little bit.
+
+60
+00:06:04,199 --> 00:06:05,960
+Okay, it's about 50-50.
+
+61
+00:06:05,959 --> 00:06:12,600
+So the only solution to that this year, next time, I'll know better, just say get rid of two years.
+
+62
+00:06:10,879 --> 00:06:15,160
+Just say Definitely 2, you could give something like a 2000 edition.
+
+63
+00:06:15,160 --> 00:06:18,559
+But in the meantime, we both have to give the line number.
+
+64
+00:06:18,559 --> 00:06:19,999
+We're going to give the book number.
+
+65
+00:06:16,119 --> 00:06:21,920
+It's always before 4, I take it now.
+
+66
+00:06:22,879 --> 00:06:23,999
+Now it's all four.
+
+67
+00:06:23,999 --> 00:06:24,480
+It's all four.
+
+68
+00:06:26,079 --> 00:06:29,279
+And if I don't do it again, remind me.
+
+69
+00:06:29,280 --> 00:06:29,519
+Okay.
+
+70
+00:06:30,639 --> 00:06:42,319
+So this would be in this edition on page 85, and it's lines roughly 230 to 260, where you find a very nice description of Farma, and I'm going to read some of it to you.
+
+71
+00:06:42,639 --> 00:06:47,999
+So then, swiftest of all evils, rumor runs straightway through Libya's mighty cities.
+
+72
+00:06:47,999 --> 00:06:51,759
+Rumor, whose life is speed, whose going gives her force.
+
+73
+00:06:51,759 --> 00:06:55,360
+Timid and small at first, she soon lifts up her body in the air.
+
+74
+00:06:55,360 --> 00:06:58,240
+She stalks the ground, her head is hidden in the clouds.
+
+75
+00:06:58,240 --> 00:07:05,360
+Provoked to anger at the gods, her mother earth gave birth to her, last come, they say, a sister to Koyos and Enceladus.
+
+76
+00:07:05,360 --> 00:07:18,480
+Fast-footed and light of wing, she's a terrifying, enormous monster, with as many feathers as she has sleepless eyes beneath each feather, amazingly as many sounding tongues and mouths, it raises up as many ears.
+
+77
+00:07:18,800 --> 00:07:25,439
+Between the earth and skies, she flies by night, screeching across the darkness, and she never closes her eyes in gentle sleep.
+
+78
+00:07:25,439 --> 00:07:36,480
+By day, she sits as sentinel on some steep roof or on high towers, frightening vast cities, for she holds fast to falsehood and distortion as often as to messages of truth.
+
+79
+00:07:36,800 --> 00:07:42,480
+So this is rumor or gossip that becomes important.
+
+80
+00:07:42,479 --> 00:07:50,480
+And I think that now in a changed societal circumstance, she becomes most important because we see here an awareness of public opinion.
+
+81
+00:07:50,479 --> 00:08:06,440
+And since we have no democracy anymore, and there is, in this sense, no more role for the chorus, as we had it, of casting a ballot or participating, now what we have is this public opinion as an important force in societal life.
+
+82
+00:08:01,520 --> 00:08:08,920
+And I think the description is really wonderful.
+
+83
+00:08:09,000 --> 00:08:20,759
+And it's also Farma who will partially bring Dido down because at this point where we just quoted in 85, she is telling everybody about the affair that Dido is having with.
+
+84
+00:08:20,760 --> 00:08:34,600
+Okay, the last new force or the last new set of ideas that I want to introduce is tied to this new emotion, to pietas or duty, and it ties in very well with the new dominating philosophy, which is the Stoic philosophy.
+
+85
+00:08:34,599 --> 00:08:44,520
+And this is a very old school of philosophical thought that is already present in Greece, but then now it has adapted and changed to the Roman way of being.
+
+86
+00:08:45,160 --> 00:08:57,319
+And the Stoic philosophy is interesting for us because it has many elements that are then later incorporated into Christianity, whereas other elements of it will be cast out of Christianity.
+
+87
+00:08:57,319 --> 00:09:04,040
+So for example, the Stoic philosophy accepts suicide, whereas in Christianity we'll see that it's not acceptable anymore.
+
+88
+00:09:04,040 --> 00:09:10,680
+And it is clearly the most important, it's the state philosophy at this time.
+
+89
+00:09:11,000 --> 00:09:15,479
+And I want to go over some of the important teachings of the Stoic philosophy.
+
+90
+00:09:15,479 --> 00:09:16,680
+Yeah, go ahead.
+
+91
+00:09:17,239 --> 00:09:18,759
+Stoic philosophy, yeah.
+
+92
+00:09:19,079 --> 00:09:27,319
+So the Stoic philosophy has all, it has a cosmology, it has a whole worldview and explanation of the science, but all of that we can't talk about right now.
+
+93
+00:09:27,319 --> 00:09:32,120
+All we want to talk about is their idea on emotions.
+
+94
+00:09:32,120 --> 00:09:38,840
+Because importantly, the Stoic says, well, you should calm your emotions and you should control them.
+
+95
+00:09:38,839 --> 00:09:45,080
+Because rightly understood, the emotions are direct consequences of a false judgment.
+
+96
+00:09:45,079 --> 00:09:53,599
+And if you falsely place value on outwards events that you don't have any influence over, then you will be very emotional about them.
+
+97
+00:09:53,599 --> 00:10:04,800
+But since they don't really count because you can't do anything about them, you should just accept these events as they happen to you, and you will see that your emotions also cease to exist.
+
+98
+00:10:04,800 --> 00:10:07,840
+So it's the philosophy of non-emotionality.
+
+99
+00:10:07,839 --> 00:10:12,079
+And I think that's how we nowadays also use the term still.
+
+100
+00:10:12,079 --> 00:10:18,000
+If someone's very stoic, their stone face is non-emotional.
+
+101
+00:10:18,319 --> 00:10:25,920
+And just from that one element of their teaching, you can see that the result is the very obedient Aeneas.
+
+102
+00:10:25,920 --> 00:10:34,480
+And the store lends itself to be a state philosophy for the Augustan state because it does focus on the preservation of status quo.
+
+103
+00:10:34,640 --> 00:10:41,200
+As a stoic, you don't have much interest in changing the outward condition because you learn to accept whatever happens to you.
+
+104
+00:10:41,520 --> 00:10:44,400
+It has the idea of a certain determinism.
+
+105
+00:10:44,479 --> 00:10:46,800
+They have one image that I think is interesting.
+
+106
+00:10:46,800 --> 00:10:52,640
+They say, well, you are like a dog which is chained to a cart and the cart is moving forward.
+
+107
+00:10:52,640 --> 00:10:58,000
+Now, if you really want to, you can try to drag behind the cart and make your life really hard.
+
+108
+00:10:58,400 --> 00:11:08,959
+But you can't unchain yourself from the cart, so you might as well be smart and walk ahead of the cart and not hurt yourself and just accept the path that this card, your fate, is taking.
+
+109
+00:11:09,680 --> 00:11:17,599
+That's kind of one of the core images of the storage in a very simplified form.
+
+110
+00:11:17,599 --> 00:11:22,480
+I think it has more sophisticated elements, but for us, that's enough.
+
+111
+00:11:22,479 --> 00:11:24,559
+Okay, now I wanna.
+
+112
+00:11:24,559 --> 00:11:29,600
+These are some of the concepts to keep in mind when we now move on to the question: who's Dido?
+
+113
+00:11:29,920 --> 00:11:39,800
+Dido has from a Virgil's Dido has some sisters in the, or sisters in spirit in the Odyssey.
+
+114
+00:11:39,800 --> 00:11:44,120
+She's modeled according to some of the characters of the Odyssey.
+
+115
+00:11:44,120 --> 00:11:50,359
+So, if you remember, Nausicaa is the Phaekin princess that Odysseus encounters on the beach.
+
+116
+00:11:50,359 --> 00:11:55,160
+And with Nausica, she has in common that she's a potential bride for Aeneas.
+
+117
+00:11:55,160 --> 00:11:59,559
+Where Nausicaa was a potential bride for Odysseus, she's also a potential bride.
+
+118
+00:11:59,559 --> 00:12:03,240
+He could also stay there and remain with her and marry her.
+
+119
+00:12:03,559 --> 00:12:10,040
+Then she has an element of Kirke, of the witch or sorceress.
+
+120
+00:12:11,000 --> 00:12:12,120
+Cersei, yeah.
+
+121
+00:12:12,439 --> 00:12:21,559
+Cersei in the Odyssey because she is bewitching Aeneas to stay there, like Cersei did with Aeneas, or try to do with Aeneas.
+
+122
+00:12:21,559 --> 00:12:34,360
+And then I think another interesting element is that she is like Calypso, an older goddess who then is forced to let the hero go because the Olympians are sending for the hero.
+
+123
+00:12:34,359 --> 00:12:41,639
+In the legend, Dido is sometimes thought of as already a goddess when she's founding Carthage.
+
+124
+00:12:41,640 --> 00:12:48,680
+And sometimes she's thought of as a mortal who then later is deified after her death and worshipped in Carthage.
+
+125
+00:12:49,319 --> 00:13:04,280
+And there is one nice historical person to compare her to, which is Cleopatra, because the scandalous affair that Antony had with Cleopatra is at that time, only 10 years passed.
+
+126
+00:13:04,280 --> 00:13:17,600
+So, all of the Roman readers remember that, and they remember that Antony and Cleopatra had a past and that they had a son, and that Augustus killed Antony, and Cleopatra killed herself, and he also killed a son.
+
+127
+00:13:17,920 --> 00:13:28,559
+So, the Roman reader has that very much in mind when he reads of Dido and wanting to have a family or a son with the Roman ruler.
+
+128
+00:13:29,199 --> 00:13:38,160
+Okay, but the most important comparison for us is between the two characters, Aeneas and Dido, which are the two central characters in book four.
+
+129
+00:13:38,479 --> 00:13:49,600
+And first, I want to point out that they are rather similar because they are both exiled and they're both founders of great cities or even civilizations.
+
+130
+00:13:49,599 --> 00:13:53,440
+Both are capable of ruling, both are strong characters.
+
+131
+00:13:53,439 --> 00:14:08,880
+And initially, it's Dido's empathy for Aeneas' situation that she takes him in and says, Yeah, I'm going to give you shelter, I'm going to host you here, and I'm going to provide help for you to move on and found your city.
+
+132
+00:14:08,880 --> 00:14:13,280
+But then there is important differences between them.
+
+133
+00:14:13,280 --> 00:14:20,720
+Whereas we've seen that the title king isn't so very favorable for the Roman ear.
+
+134
+00:14:20,719 --> 00:14:29,360
+So, Aeneas is always portrayed as the founder of Rome, but not as the king, but rather as the everyman, whereas Dido is clearly the queen.
+
+135
+00:14:30,640 --> 00:14:34,079
+Then they have some characteristics that are different.
+
+136
+00:14:34,079 --> 00:14:42,880
+So, Aeneas is portrayed as reasonable, as temperate, whereas Dido is then portrayed as emotional, lustful, and violent.
+
+137
+00:14:43,199 --> 00:14:50,080
+And Aeneas fulfills his duty despite his love, whereas for Dido, it's the other way around.
+
+138
+00:14:50,079 --> 00:14:54,720
+She loves despite of her duty.
+
+139
+00:14:54,719 --> 00:15:04,520
+For Aeneas, the most important emotion is pietas or duty, and for Dido it is fur or anger or madness.
+
+140
+00:15:05,400 --> 00:15:10,920
+Then they have a difference in the gods that are affiliated to them.
+
+141
+00:15:10,920 --> 00:15:22,120
+And I think Professor Raff is going to talk more about that because Aeneas defines himself as the carrier of the house gods, which is a set of gods that travel with him and that he needs to find or found a city for them.
+
+142
+00:15:22,120 --> 00:15:28,440
+Whereas Dido is invoking the old gods and her protectress is you know.
+
+143
+00:15:28,680 --> 00:15:38,360
+Aeneas could be seen as the or Roman, whereas Dido can be seen or read as anti-Roman in the sense that she's not very pious.
+
+144
+00:15:38,359 --> 00:15:43,000
+And then these qualities that I've pointed out, she's just not pious queen.
+
+145
+00:15:44,599 --> 00:15:49,000
+I think that we can give each of them a line that best describes them.
+
+146
+00:15:49,000 --> 00:15:54,840
+Aeneas says, I'm pious Aeneas, thereby saying, well, I am my fate.
+
+147
+00:15:55,640 --> 00:15:57,319
+This is who I am.
+
+148
+00:15:57,319 --> 00:16:07,879
+And there is a wonderful later version of Dido in an opera by Purcell where she sings in an aria, remember me but forget my fate.
+
+149
+00:16:08,199 --> 00:16:12,680
+So thereby she says, me and my fate, these are two things.
+
+150
+00:16:12,680 --> 00:16:14,360
+They're not one.
+
+151
+00:16:15,640 --> 00:16:36,920
+And when I talked about this lecture with Professor Dreyfus, we had a funny, we came to a funny moment because he had remembered the line as the following, that Dido says, remember my fate but forget me, which would be very Roman, a very Roman way of putting it, because what's really important for the Romans is the faith.
+
+152
+00:16:36,920 --> 00:16:42,920
+And the individual choice or the individual relation to it is not that important.
+
+153
+00:16:42,920 --> 00:16:48,559
+But so when Dido says, remember me, but forget my fate, this is what I've been trying to understand.
+
+154
+00:16:46,360 --> 00:16:53,039
+Why does she say that, and how does that relate to the Roman way of being?
+
+155
+00:16:53,600 --> 00:16:59,519
+That brings me to part four, which is Dido's love.
+
+156
+00:16:59,840 --> 00:17:06,719
+If you read book four, a lot of the times the love is portrayed as something that is like a wound.
+
+157
+00:17:06,719 --> 00:17:15,920
+It has a lot of similes to the spear in her side, it's like a fever, it's madness, it's even an infection or a poison.
+
+158
+00:17:15,920 --> 00:17:29,920
+If you imagine, if you remember the scene where Cupid is inducing the love to Dido, all night he's sitting, he is disguised as I neither son, and he's sitting on her lap, and he's blowing these poisonous fumes into her.
+
+159
+00:17:29,920 --> 00:17:37,680
+So it's a rather negative imagery, and I'm trying to understand what we can make of that.
+
+160
+00:17:37,999 --> 00:17:49,839
+Of course, if you look from the point of view of the Stoa, and the Stoa promotes non-emotionality and self-control and control the Stoics, yeah.
+
+161
+00:17:50,160 --> 00:18:17,279
+If the Stoics promote non-emotionality, of course, the love is something very negative because it's coming from the outside, it's induced from the outside, and Dido really lets herself go into this emotion, whereas she should realize that it's something outside of herself and that she should fight it back and not give into it because she should see that it's of no value in the Stoic way of thinking.
+
+162
+00:18:17,279 --> 00:18:21,999
+But she doesn't, therefore, she's very anti-Stoic.
+
+163
+00:18:22,320 --> 00:18:26,160
+There's also some external reasons for the love.
+
+164
+00:18:26,400 --> 00:18:31,559
+It's the conspiracy between Juno and Venus via Cupid as the inducer of the love.
+
+165
+00:18:30,640 --> 00:18:37,640
+And then I think you could give a very understandable and reasonable psychological explanation of the love story.
+
+166
+00:18:37,959 --> 00:18:46,759
+If you think of Dido, she is the great queen and she has dedicated her life to founding a great city and serving her country.
+
+167
+00:18:46,759 --> 00:18:58,759
+But now she is pretty lonely and she doesn't have children and now along comes dashing Aeneas and it's just very understandable that she now would recognize the old flames of love that as she says herself.
+
+168
+00:18:58,759 --> 00:19:15,559
+So the emotions would be she's lonely, she's lustful and desirous and then we would interpret her love as an inner conflict between two commitments between duty and love in the psychological rendering of the story.
+
+169
+00:19:15,880 --> 00:19:35,400
+Then there's also some prudential reasons for her love because as her sister Anna points out to her at the beginning, Anna says, well, it wouldn't actually not be so bad if you were to marry this foreign king because our city-state has been threatened by these tribes all the time.
+
+170
+00:19:35,479 --> 00:19:42,599
+So if we would have some more backup, if you'd have a king, you would strengthen our kingdom or your queendom.
+
+171
+00:19:43,239 --> 00:19:49,559
+So it's not only emotionality, but it's also that Dido as a good queen falls for Aeneas.
+
+172
+00:19:49,880 --> 00:19:53,160
+Okay, so what's the outcome of the story?
+
+173
+00:19:53,160 --> 00:20:03,479
+As you've read, it is that Dido and Aeneas fall in love, or at least Dido falls in love with Aeneas, and they consummate what Dido perceives as their marriage.
+
+174
+00:20:03,479 --> 00:20:05,479
+For Aeneas, it isn't that.
+
+175
+00:20:05,799 --> 00:20:12,839
+Then Aeneas gets many dreams and signs from Venus that it's now time to go, that he has to leave and has to found Rome.
+
+176
+00:20:12,840 --> 00:20:18,079
+And he tells Dido that and then flees at night.
+
+177
+00:20:18,080 --> 00:20:26,559
+And Dido is mad and raging, and she is making up her mind of what to do now.
+
+178
+00:20:26,880 --> 00:20:38,719
+And she prepares a big cleansing ritual, a big fire, and burns herself or sacrifices herself on this fire because Aeneas has left her.
+
+179
+00:20:38,719 --> 00:20:46,720
+And before she dies, she makes a big curse where she curses Rome and Carthage to have to be enemies.
+
+180
+00:20:47,120 --> 00:20:58,880
+I think to understand the Dido story, we have to look at two other moments or two moments at Dido's death and how it is portrayed and at Dido's place in the underworld.
+
+181
+00:20:58,880 --> 00:21:08,959
+So, first, if you look at the description of Dido's death, it is said that it's neither fateful nor is it merited, and it is untimely.
+
+182
+00:21:09,279 --> 00:21:19,039
+So, if you remember, the underworld's not really ready for her, that's why her soul can't leave her body, and we have to send for Iris to come down and help her leave her body.
+
+183
+00:21:19,360 --> 00:21:23,439
+And before she kills herself, she calls all of the gods for witnesses.
+
+184
+00:21:23,439 --> 00:21:31,680
+And I think that's an interesting moment because she does not what the gods want, and she also does not do what fate has in store for her.
+
+185
+00:21:31,999 --> 00:21:39,040
+And despite the fact that she neither does what the gods want, nor what her fate is, the gods don't condemn her.
+
+186
+00:21:39,040 --> 00:21:42,719
+And she's warned by her sister, but she's never condemned.
+
+187
+00:21:43,039 --> 00:21:50,479
+And then we have another encounter with Dido in the underworld, where Aeneas goes to the underworld and he meets with Dido.
+
+188
+00:21:50,799 --> 00:21:54,000
+And what happens is that Dido doesn't even talk to him.
+
+189
+00:21:53,999 --> 00:21:58,079
+She looks at him, but then she turns back and goes away.
+
+190
+00:21:58,080 --> 00:22:04,039
+And Aeneas is full of pity and full of tears and says, Talk to me, this is the last time we'll see each other.
+
+191
+00:22:01,519 --> 00:22:07,560
+And she doesn't want to talk with him.
+
+192
+00:22:07,719 --> 00:22:10,840
+But he says, well, I've simply done what fate had me do.
+
+193
+00:22:10,840 --> 00:22:12,359
+I had to do it.
+
+194
+00:22:12,360 --> 00:22:16,120
+And in my interpretation, I think that her choice is much better.
+
+195
+00:22:16,120 --> 00:22:20,439
+I think that she made the much more resolute and interesting choice and sticks with it.
+
+196
+00:22:20,439 --> 00:22:23,640
+And that's what I'm going to talk about next.
+
+197
+00:22:23,640 --> 00:22:27,640
+I think that it's not Aeneas who's great in the scene, but it's really Dido.
+
+198
+00:22:27,959 --> 00:22:32,439
+And I also don't suppose that we are to feel pity for Dido.
+
+199
+00:22:32,439 --> 00:22:34,279
+I think that she's not to be pitied.
+
+200
+00:22:34,279 --> 00:22:43,319
+Okay, in concluding, I think that Virgil's Aeneas is as a work as a work of art because it does unify the Roman way of life.
+
+201
+00:22:43,320 --> 00:22:48,039
+And this can be also shown in its popularity and its authority.
+
+202
+00:22:48,680 --> 00:22:57,799
+It is a work of art because it's self-referential and autopoetic in the sense that it does create the emotion that it presupposes as a core value.
+
+203
+00:22:57,799 --> 00:23:12,039
+And then in this sense, if you remember that I talked about the myths of the failed authorship, I think that this is more than just an anecdotal embellishment because it really becomes a work with which the culture itself is creating.
+
+204
+00:23:13,320 --> 00:23:27,479
+And for the new reading that I'm giving of Dido, it's not essential whether Virgil intended for this or not, but it's essential that these elements can be present or can be thought of present in the way of being.
+
+205
+00:23:27,799 --> 00:23:28,199
+T.S.
+
+206
+00:23:28,199 --> 00:23:36,359
+Eliot once described the meeting of Dido and Aeneas in the underworld, as the most civilized moment in Western literature.
+
+207
+00:23:36,360 --> 00:23:41,959
+And he said that in a lecture in 1944, in what the lecture was called What is a Classic?
+
+208
+00:23:41,959 --> 00:23:46,039
+And he said, well, why is it the most civilized moment in all of Western literature?
+
+209
+00:23:46,080 --> 00:23:52,559
+Because Aeneas does not forgive himself, although he did all that fate wanted him to do.
+
+210
+00:23:52,880 --> 00:23:56,079
+And in my eyes, this is the wrong approach of understanding it.
+
+211
+00:23:56,080 --> 00:24:04,400
+I think this is why Aeneas' choice remains inauthentic and is a worse choice than Dido's choice.
+
+212
+00:24:04,400 --> 00:24:08,320
+Okay, so now these are some terms that we have to understand.
+
+213
+00:24:08,320 --> 00:24:14,880
+It's the term inauthentic choice, authentic choice, and towards a way of being.
+
+214
+00:24:15,199 --> 00:24:19,920
+And I'm sure maybe Professor Jarves can help us understand these terms a little better.
+
+215
+00:24:19,920 --> 00:24:29,920
+But so, if you come from an Heideggerian understanding, every way of being that you see has three potential stances toward it.
+
+216
+00:24:29,920 --> 00:24:36,640
+You can either be indifferent, or you can choose inauthentically, or you can choose authentically.
+
+217
+00:24:36,640 --> 00:24:41,439
+This is kind of the way you put, as I think about it, you position yourself towards that way of being.
+
+218
+00:24:41,439 --> 00:24:44,559
+And it can be either in three ways.
+
+219
+00:24:45,519 --> 00:25:09,200
+If you are indifferent, this would be a way that you've never come to question your social role, or you've never experienced any unrest or unsettlement about the roles that are potential for you, and you've never really thought about the finitude of your being, but you just go on with everything as you're born into the order and the way of being.
+
+220
+00:25:09,199 --> 00:25:11,920
+You just continue it without questions.
+
+221
+00:25:12,239 --> 00:25:16,800
+And Heidegger does stress that it's not that being indifferent is not a negative.
+
+222
+00:25:16,799 --> 00:25:44,199
+It's the other two things that are interesting to me here because the inauthentic choice is one, let's say now in puberty, you suddenly realize that you are mortal and you this great unsettledness comes over you and you're very anxious about your existence and now what you do is you choose a social role but you do that as though you reach for a life preserver while drowning.
+
+223
+00:25:44,199 --> 00:25:52,039
+You choose this role and you really stick to that role because thereby you can settle your anxiety.
+
+224
+00:25:52,039 --> 00:25:54,920
+And that would be an inauthentic choice.
+
+225
+00:25:55,239 --> 00:26:12,119
+And then the last option is an authentic choice in which your anxiety would remain, in which you would be aware that this role can't save you from it, but that you would express that in the way that you accept that role or that you act that role.
+
+226
+00:26:12,439 --> 00:26:19,880
+And now my reading or my thesis is that Aeneas acts inauthentic and Dido acts authentic.
+
+227
+00:26:20,519 --> 00:26:30,759
+I think Aeneas remains inauthentic because he only goes along with his duty, it's not really chosen and he is like this dog dragged by the cart.
+
+228
+00:26:31,080 --> 00:26:38,439
+And I think that Dido is authentic because she actively chooses her stance and sees her situation.
+
+229
+00:26:38,759 --> 00:26:46,119
+And she has a little monologue with herself where she weighs all of her options.
+
+230
+00:26:46,120 --> 00:26:54,199
+If you go to page ninety-seven and that's the line seven hundred thirty-eight, I will read it to you.
+
+231
+00:26:55,640 --> 00:26:57,879
+She will not let things rest but carries on.
+
+232
+00:26:57,880 --> 00:27:00,999
+She still resolves these thoughts within her heart.
+
+233
+00:27:00,999 --> 00:27:01,800
+What can I do?
+
+234
+00:27:01,799 --> 00:27:11,640
+Shall I, whom he has mocked, go back again to my old suitors begging, seeking a wedding with Nemedians, whom I've already often scorned as bridegrooms?
+
+235
+00:27:11,640 --> 00:27:16,680
+Or should I sail away to on Trojan ships to suffer their even their harshest orders?
+
+236
+00:27:16,959 --> 00:27:25,599
+Shall I do so because the Trojans once received my help and gratefully for such old service, gratefulness for such old service is remembered by the mindful?
+
+237
+00:27:25,600 --> 00:27:30,239
+But even if I wish it, would they welcome someone so hated to their haughty ships?
+
+238
+00:27:30,239 --> 00:27:35,039
+For a lost one, do you not yet know, not feel the treason of the breed of Laomedon?
+
+239
+00:27:35,039 --> 00:27:35,600
+What then?
+
+240
+00:27:35,600 --> 00:27:43,439
+Shall I accompany alone the exultant sailor in their flight, or call on all my Tyrions, on all my troops to rush upon them?
+
+241
+00:27:43,439 --> 00:27:46,079
+How can I urge on those I once dragged from Zedon?
+
+242
+00:27:46,080 --> 00:27:51,439
+How can I now force them back again upon the sea and have them spread their canvas to the winds?
+
+243
+00:27:51,439 --> 00:27:55,519
+No, die as you deserve and set aside your sorrow by the sword.
+
+244
+00:27:55,840 --> 00:27:58,400
+So this doesn't seem to me very furious.
+
+245
+00:27:58,400 --> 00:28:04,480
+It seems to me like someone really thinking about, well, what is it really that I can do?
+
+246
+00:28:04,479 --> 00:28:08,959
+What is it that my social role and my historical circumstance allow for?
+
+247
+00:28:09,279 --> 00:28:14,079
+And she then takes a stand and says, this is what I'm going to do.
+
+248
+00:28:15,680 --> 00:28:20,320
+And I think that is what she means when she says, remember me, but forget my fate.
+
+249
+00:28:20,320 --> 00:28:24,079
+I don't think that she means an essential quality about herself, something inner.
+
+250
+00:28:24,080 --> 00:28:31,199
+And I don't think that she means her role as queen, but what I think she means is that she has taken a certain stance towards that role.
+
+251
+00:28:31,199 --> 00:28:36,160
+And in my interpretation, that is a very authentic and interesting choice.
+
+252
+00:28:36,160 --> 00:28:49,640
+And it's interesting to see that all the things that in the Stoic light we've characterized as negative, all the anxiety, all the fur war, all the anguish, burning, feeling of entrapment, that all that is necessary to help her realize that.
+
+253
+00:28:49,880 --> 00:28:50,280
+Great.
+
+254
+00:28:50,279 --> 00:28:51,079
+Thanks.
+
+255
+00:28:51,080 --> 00:28:52,199
+Okay, you're good, yeah.
+
+256
+00:28:53,160 --> 00:28:53,880
+Oh, yeah.
+
+257
+00:28:54,999 --> 00:28:56,920
+Thanks, Beatrice.
+
+258
+00:28:56,920 --> 00:29:06,120
+And now I have sort of several different things to do, and I have to try to figure out which way to do them.
+
+259
+00:29:06,360 --> 00:29:09,959
+First, I think I have to respond to what Beatrice just said.
+
+260
+00:29:09,959 --> 00:29:15,239
+I mean, we could have, if there were time, a kind of debate, because we do disagree.
+
+261
+00:29:15,880 --> 00:29:20,680
+I think I disagree half with what Beatrice said, not all of it.
+
+262
+00:29:22,039 --> 00:29:28,599
+Let me sum up what I, because you may not have seen what I'm disagreeing with.
+
+263
+00:29:28,600 --> 00:29:30,439
+I think I have understood it.
+
+264
+00:29:30,439 --> 00:29:35,320
+I mean, because I know these distinctions of authentic and inauthentic.
+
+265
+00:29:35,719 --> 00:29:37,400
+I have to say one word about that.
+
+266
+00:29:37,400 --> 00:29:38,840
+Don't get confused.
+
+267
+00:29:38,840 --> 00:29:48,199
+When Heidegger talks about being authentic and inauthentic, he doesn't mean that you can take a stand on your culture's understanding of being, because that's too pervasive.
+
+268
+00:29:48,199 --> 00:30:13,080
+And unless you're a super genius who can transform your culture completely, like in a way Jesus does, you have to live in the understanding of being that you've got, just like we've got an understanding of being of pretty much everything being under our control and flexible, and we can use any old thing and then throw it away and so forth.
+
+269
+00:30:13,479 --> 00:30:15,080
+I could talk more about that later.
+
+270
+00:30:15,320 --> 00:30:26,599
+But what the authentic and inauthentic would be is how you relate to your particular situation and your circumstances.
+
+271
+00:30:26,600 --> 00:30:36,280
+And Heidegger does think that you can, in your situation, you can just do what anyone in your culture with your understanding of being would do.
+
+272
+00:30:36,439 --> 00:30:48,400
+That would be to be inauthentic, to just take over a role and follow it as a way of getting off having to make any decisions really on your own.
+
+273
+00:30:48,719 --> 00:31:00,959
+Or you can take over the unique situation, as he puts it, and respond to the current situation and sort of what it calls for you to do.
+
+274
+00:31:02,160 --> 00:31:24,000
+Now, Nietzsche says that Aeneas is inauthentic because he just takes over what fate, what role fate has given him and does it, and moreover, uses an excuse for how absolutely shabbily and terribly he's treated Dido.
+
+275
+00:31:23,999 --> 00:31:31,039
+It's just amazing and how dense he is with respect to Dido and how she's suffering.
+
+276
+00:31:31,039 --> 00:31:39,999
+But the question is: is Aeneas just hiding, so to speak, behind this notion of faith and taking over this role?
+
+277
+00:31:39,999 --> 00:31:42,160
+Well, there's where I want to disagree with her.
+
+278
+00:31:42,160 --> 00:31:53,439
+From Virgil's point of view, and I think probably Stoic point of view, though I don't know enough about Stoicism to know for sure, you don't need to bring in fate at all.
+
+279
+00:31:53,439 --> 00:32:00,719
+Fate is just another way of describing somebody's character.
+
+280
+00:32:00,719 --> 00:32:03,920
+And Aeneas' character is to be pious.
+
+281
+00:32:03,920 --> 00:32:06,000
+It's not just his fate to be pious.
+
+282
+00:32:05,999 --> 00:32:08,400
+He's just that kind of person.
+
+283
+00:32:09,120 --> 00:32:21,759
+And where pious means to respect the tradition and do what is considered the best, most responsible, dutiful thing to do.
+
+284
+00:32:22,080 --> 00:32:33,479
+And what he, and he's, and the other half of fate is, given the kind of character you've got, you're going to be put into some situation or other.
+
+285
+00:32:33,799 --> 00:32:38,279
+And you can't choose your character.
+
+286
+00:32:38,519 --> 00:32:41,319
+Aeneas can't choose whether to be pious or not.
+
+287
+00:32:41,320 --> 00:32:50,439
+You've all got your characters, all of you, whether you're going to have interiority complexes or superiority or being nurturing or being aggressive and so forth.
+
+288
+00:32:51,320 --> 00:33:00,839
+People, you've got to take the character that you've been dealt, so to speak, and that's why it seems to be your fate.
+
+289
+00:33:00,840 --> 00:33:03,640
+And you've got to take the situation you've been dealt.
+
+290
+00:33:03,640 --> 00:33:12,120
+That you can't just be a Buddhist hermit or something.
+
+291
+00:33:12,600 --> 00:33:22,360
+You've got to deal with the situation you've got, being a 21st century American male or female and so forth.
+
+292
+00:33:22,359 --> 00:33:25,480
+And Aeneas does what he has to do.
+
+293
+00:33:26,040 --> 00:33:51,080
+Having a character of being a dutiful person and having put in the situation of being the leader of the totally demolished, the remains of the totally demolished Trojan city, he does exactly what he has to do.
+
+294
+00:33:51,560 --> 00:34:06,999
+It would make no sense for him, as pious Aeneas, to just drop what he's doing and stay with Dido because he loves her, because he really feels very happy with her and so forth.
+
+295
+00:34:07,799 --> 00:34:28,239
+His situation requires his character plus his situation as the saving person who is going to save Troy and turn it into something new and turns out very successful, namely Rome, makes him behave in this terrible way he does toward Dido.
+
+296
+00:34:28,239 --> 00:34:57,600
+So I think my reading of Aeneas is that it's not that he's inauthentic in taking up the role that his character and his situation have given him, it's that he's so obtuse about how he treats Dido in the light of it, and therefore uses this fate, where fate means, given his character and given his situation, he's got to leave her and he's got to leave Carthage.
+
+297
+00:34:57,600 --> 00:35:02,000
+He uses it in a way to treat her unbelievably, sort of.
+
+298
+00:35:02,000 --> 00:35:05,040
+It isn't even brutally, it's just dumb.
+
+299
+00:35:05,680 --> 00:35:11,439
+I will read my favorite line, which seems to be a kind of joke, to tell you what's wrong with Aeneas.
+
+300
+00:35:11,440 --> 00:35:13,519
+I mean, I want to say Aeneas is authentic.
+
+301
+00:35:13,520 --> 00:35:18,239
+Aeneas at the first, I think he does what he has to do.
+
+302
+00:35:18,239 --> 00:35:26,320
+He does not take the way out of doing what any old person would normally do in some routine way.
+
+303
+00:35:26,640 --> 00:35:31,600
+And he responds to his situation exactly the way he has to respond to it.
+
+304
+00:35:31,600 --> 00:35:35,360
+But he certainly doesn't respond to it, Dido, that way.
+
+305
+00:35:35,359 --> 00:35:37,920
+I want to read, I have to find it.
+
+306
+00:35:38,239 --> 00:35:44,000
+This is all not what I intended to say, but Beatrice is challenging me to say it.
+
+307
+00:35:44,640 --> 00:35:51,839
+Can anybody find the last thing Aeneas says when he leaves Dido?
+
+308
+00:35:53,520 --> 00:35:54,960
+Now let's see.
+
+309
+00:35:55,600 --> 00:35:57,600
+Is it 79?
+
+310
+00:35:57,919 --> 00:35:58,399
+No?
+
+311
+00:35:59,040 --> 00:36:00,239
+It's later than me.
+
+312
+00:36:00,239 --> 00:36:01,880
+Here it is, 92.
+
+313
+00:36:01,879 --> 00:36:02,599
+Okay.
+
+314
+00:36:03,879 --> 00:36:04,680
+This is.
+
+315
+00:36:01,279 --> 00:36:07,239
+Everybody has their own take on it.
+
+316
+00:36:07,399 --> 00:36:10,120
+I mean, this turns out to be not important.
+
+317
+00:36:10,120 --> 00:36:14,599
+I mean, I don't care whether Aeneas is absolutely dodo and dense.
+
+318
+00:36:14,600 --> 00:36:16,839
+I mean, neither does Virgil.
+
+319
+00:36:16,839 --> 00:36:18,199
+Yeah, over here, too.
+
+320
+00:36:18,520 --> 00:36:19,640
+Okay, good, good.
+
+321
+00:36:19,640 --> 00:36:21,239
+What, are you on the same book I am?
+
+322
+00:36:21,319 --> 00:36:23,000
+Yes, I haven't got the right pages.
+
+323
+00:36:23,239 --> 00:36:24,999
+Okay, let me give you the pages.
+
+324
+00:36:25,000 --> 00:36:37,080
+So we're in book four still, and I'm going to read from, well, I'm going to read line 460, and then I'm going to read more from whatever I said.
+
+325
+00:36:37,560 --> 00:36:39,560
+I'll go when I get there.
+
+326
+00:36:40,120 --> 00:36:40,760
+Okay.
+
+327
+00:36:41,080 --> 00:36:49,800
+You know, the one on page 90 of the new one, but now I've got you're all on, we're on 460.
+
+328
+00:36:49,799 --> 00:36:55,480
+Here's his last words to Dido to explain what he has done.
+
+329
+00:36:55,480 --> 00:37:04,280
+And what, and the sort of excuse, and this is where Beatrice seems to me to be on the right track somehow, the way he uses fate as an excuse.
+
+330
+00:37:04,279 --> 00:37:10,600
+I mean, fate, I think, is something he's got to follow because he's got the character he's got and the situation he's got.
+
+331
+00:37:10,600 --> 00:37:20,600
+But he doesn't have to use it as an excuse to not even have to take any blame or feel any sense of responsibility for Dido.
+
+332
+00:37:20,600 --> 00:37:24,360
+So he says, the bottom 90 to Dido.
+
+333
+00:37:26,839 --> 00:37:35,840
+If fate had granted me to guide my life by my own auspices and to unravel my troubles with unhampered will.
+
+334
+00:37:35,839 --> 00:37:38,040
+Then, now don't just stop at that.
+
+335
+00:37:38,040 --> 00:37:39,239
+Then, why?
+
+336
+00:37:39,239 --> 00:37:41,239
+What are you expecting him to say?
+
+337
+00:37:41,239 --> 00:37:42,680
+Here's this girlfriend.
+
+338
+00:37:42,680 --> 00:37:45,319
+Here, she's given everything to him.
+
+339
+00:37:45,319 --> 00:37:47,520
+She's totally dependent on him.
+
+340
+00:37:46,520 --> 00:37:48,640
+He's leaving her.
+
+341
+00:37:48,960 --> 00:37:54,400
+And he says, If fate had granted me another way of living my life, then I would.
+
+342
+00:37:54,719 --> 00:37:55,440
+What?
+
+343
+00:37:55,759 --> 00:38:01,199
+What would anybody normally sensible or considerate person say?
+
+344
+00:38:01,199 --> 00:38:01,680
+What?
+
+345
+00:38:02,319 --> 00:38:03,520
+Stay with you.
+
+346
+00:38:03,520 --> 00:38:04,719
+Yeah, why not?
+
+347
+00:38:04,719 --> 00:38:06,079
+I mean, he has to leave.
+
+348
+00:38:06,080 --> 00:38:11,199
+The least he could say to her is, boy, if I didn't have to leave, I would love to stay with you.
+
+349
+00:38:11,199 --> 00:38:12,480
+And what does he say?
+
+350
+00:38:12,480 --> 00:38:16,719
+Then I would cherish the first town of Troy, the sweet remains of my own people.
+
+351
+00:38:16,719 --> 00:38:19,199
+The tall rooftops of crime would remain.
+
+352
+00:38:19,199 --> 00:38:23,919
+My hand would plant again the second Pergamosis and the second Troy, and so forth.
+
+353
+00:38:23,919 --> 00:38:30,239
+So no matter what, whether I obeyed fate or whether I didn't obey faith, I would certainly leave you.
+
+354
+00:38:30,960 --> 00:38:32,719
+That's his parting words.
+
+355
+00:38:32,960 --> 00:38:34,879
+That's what I think is wrong with him.
+
+356
+00:38:34,879 --> 00:38:36,079
+But it doesn't matter.
+
+357
+00:38:36,080 --> 00:38:38,399
+What's right about him is what Virgil likes.
+
+358
+00:38:38,399 --> 00:38:45,839
+He's the perfect stoic person, absolutely doing what his character and what his situation requires.
+
+359
+00:38:46,160 --> 00:38:47,119
+My reading.
+
+360
+00:38:47,759 --> 00:38:54,160
+So we now have, now I see what else I want to say about this.
+
+361
+00:38:54,480 --> 00:39:01,280
+Oh, well, now I just want to talk more about Aeneid for a minute, just to back up what I've been saying.
+
+362
+00:39:01,279 --> 00:39:04,320
+He just defines himself as pious.
+
+363
+00:39:04,319 --> 00:39:06,080
+That's his character.
+
+364
+00:39:06,080 --> 00:39:08,560
+There's nothing more to be said about it.
+
+365
+00:39:10,000 --> 00:39:21,759
+On page 9 of this, we're in book one, just at the top of 310, especially the pious Aeneas.
+
+366
+00:39:22,080 --> 00:39:23,680
+That isn't quite what I want.
+
+367
+00:39:24,640 --> 00:39:26,879
+Where does he say, I am pious Aeneas?
+
+368
+00:39:26,960 --> 00:39:30,160
+If that's his identity, he introduces himself that way.
+
+369
+00:39:30,160 --> 00:39:31,680
+Well, let's try another place.
+
+370
+00:39:33,319 --> 00:39:34,919
+He says that he's pious, all right.
+
+371
+00:39:34,919 --> 00:39:36,439
+He's pious Aeneas.
+
+372
+00:39:36,440 --> 00:39:41,800
+But I thought there's a place, we'll see, where he announces that that's what he is.
+
+373
+00:39:41,799 --> 00:39:44,520
+But I have to say more now about what it is to be pious.
+
+374
+00:39:44,520 --> 00:39:52,280
+I have to talk a little bit about Aeneas before I get to the underworld, just because you've got to get some little more view of him.
+
+375
+00:39:52,520 --> 00:40:02,520
+To be pious is to respect the tradition and your duty.
+
+376
+00:40:02,839 --> 00:40:13,559
+Which, and that was coming out in the speech with Dido, because he either wants to go back to Troy and revive the tradition in the past, if he could, but fate doesn't allow him to do that.
+
+377
+00:40:13,560 --> 00:40:14,919
+Yeah, okay.
+
+378
+00:40:15,239 --> 00:40:17,399
+This is where he says he's pious Aeneas.
+
+379
+00:40:17,719 --> 00:40:18,840
+Good on it.
+
+380
+00:40:19,000 --> 00:40:20,279
+Yes, that's what I wanted.
+
+381
+00:40:20,279 --> 00:40:25,719
+14 for the line 534, I am pious Aeneas.
+
+382
+00:40:25,719 --> 00:40:28,279
+And I'm going to go on and talk about what else, but I'll read it now.
+
+383
+00:40:28,279 --> 00:40:29,399
+I have to explain it more.
+
+384
+00:40:29,399 --> 00:40:34,840
+I'm pious Aeneas, and I carry in my ships my household gods together with me and so forth.
+
+385
+00:40:34,839 --> 00:40:43,640
+Well, to be pious first is either to take up the tradition and go back to Troy and rebuild it.
+
+386
+00:40:43,640 --> 00:40:45,320
+That would be pious.
+
+387
+00:40:45,319 --> 00:40:55,879
+Or to take up this other role and have a future, build a new future for the remaining, for his son, and so forth.
+
+388
+00:40:55,879 --> 00:41:02,600
+And you can see this in this beautiful theme that you can constantly see Virgil working from.
+
+389
+00:41:02,600 --> 00:41:04,799
+I don't know, yes, even here, no, not here.
+
+390
+00:41:04,799 --> 00:41:07,719
+On the cover, I see that his son is there.
+
+391
+00:41:07,719 --> 00:41:10,760
+But what he's got is his father on his back.
+
+392
+00:41:10,759 --> 00:41:11,799
+That's the tradition.
+
+393
+00:41:11,799 --> 00:41:15,719
+He carries his father and always has his father with him.
+
+394
+00:41:15,719 --> 00:41:17,440
+And his son, by the hand.
+
+395
+00:41:16,600 --> 00:41:24,640
+The father on his back is his loyalty to the tradition, the past, and the son in his hand is his loyalty to the future.
+
+396
+00:41:24,640 --> 00:41:55,040
+It's sort of, you know, two generations away from, I was one generation away from the same kind of thing where, sort of, after the Depression in the United States, generally, because it's a country for immigrants, never mind the Depression, there's always this idea that the parents' job is to build a better future for their child, that they're going to do, the child is going to do better, be more educated, more successful, more happy than their parents.
+
+397
+00:41:55,680 --> 00:41:56,800
+He's got that.
+
+398
+00:41:56,799 --> 00:42:01,760
+He's going to, that's his dedication to the future.
+
+399
+00:42:01,759 --> 00:42:04,560
+Now, there's another person, and again, it's like a joke.
+
+400
+00:42:06,160 --> 00:42:10,640
+There is another person besides the past, which is his father, and the future, which is his son.
+
+401
+00:42:10,640 --> 00:42:11,760
+Who's that?
+
+402
+00:42:11,759 --> 00:42:13,759
+That he should be carrying out of Troy.
+
+403
+00:42:13,919 --> 00:42:16,800
+You'll miss anybody in the family picture?
+
+404
+00:42:17,440 --> 00:42:18,479
+His wife.
+
+405
+00:42:18,480 --> 00:42:20,160
+What happened to his wife?
+
+406
+00:42:20,160 --> 00:42:24,400
+Well, she's with him, walking along behind, we're told.
+
+407
+00:42:24,399 --> 00:42:26,079
+But then they just lose her.
+
+408
+00:42:26,080 --> 00:42:29,199
+Virgil doesn't even tell us how they lose her or when they lose her.
+
+409
+00:42:29,199 --> 00:42:34,000
+Just one day they seem to have sort of walked off and she's not there.
+
+410
+00:42:34,319 --> 00:42:39,999
+And I see this, but this isn't just an accident or stupidity on the part of Aeneas.
+
+411
+00:42:40,000 --> 00:42:41,359
+This is something deep.
+
+412
+00:42:41,359 --> 00:42:43,840
+There's really no place for her.
+
+413
+00:42:43,839 --> 00:42:46,239
+Because, and here's how you want to picture it, I think.
+
+414
+00:42:47,199 --> 00:42:50,719
+Aeneas only cares about the past and the future.
+
+415
+00:42:50,719 --> 00:42:53,120
+He doesn't care about the present.
+
+416
+00:42:53,440 --> 00:42:55,960
+His wife would be the present.
+
+417
+00:42:55,960 --> 00:42:58,399
+His present enjoyment, his present comfort.
+
+418
+00:42:58,399 --> 00:43:04,119
+All he's got is this heavy load on his back, which is his father, and his nice son by the hand.
+
+419
+00:43:04,440 --> 00:43:10,840
+So there's this thing from Lewis Carroll, which I always think about when I think about Aeneas.
+
+420
+00:43:10,839 --> 00:43:13,239
+Jam, what is it?
+
+421
+00:43:13,560 --> 00:43:17,400
+Jam yesterday and jam tomorrow, but never jam today.
+
+422
+00:43:17,640 --> 00:43:21,799
+That is, he's got, he would be happy to go back to the past.
+
+423
+00:43:21,799 --> 00:43:29,800
+He would go be happy, he is happy building up the future, but he can't take time out to enjoy the present.
+
+424
+00:43:29,799 --> 00:43:32,120
+Now, one last thing about that.
+
+425
+00:43:32,440 --> 00:43:42,840
+What would be the greatest danger for somebody like that who has this double sense of either going to Troy or going on to found Rome?
+
+426
+00:43:43,160 --> 00:43:48,680
+Well, we just seen the villain is that, from that perspective, is Dido.
+
+427
+00:43:48,680 --> 00:44:03,479
+Not because she's a bad person, but because she represents living in the present, happily, sensually, relaxed, and stopping worrying about founding Rome and stopping worrying about going back to Troy.
+
+428
+00:44:03,480 --> 00:44:05,080
+That would be a disaster.
+
+429
+00:44:05,080 --> 00:44:18,600
+And it's just because she's so sensual and such a good ruler and so smart and so beautiful that she represents this big threat to him, and he just has to sacrifice her and leave.
+
+430
+00:44:18,600 --> 00:44:22,600
+So, okay, so much I think is all I want to have time to say about that.
+
+431
+00:44:22,600 --> 00:44:23,719
+Let's see.
+
+432
+00:44:24,680 --> 00:44:34,919
+But Dido, I just want to say the point that Beatrice is making, which I think is interesting and important, is there's something special about Dido.
+
+433
+00:44:34,919 --> 00:44:37,800
+She's been sort of set up by the gods.
+
+434
+00:44:37,759 --> 00:44:44,359
+She's, another point that Beatrice didn't mention, she's had this first husband whom she was completely devoted to.
+
+435
+00:44:45,120 --> 00:44:45,919
+Is that his name, I think?
+
+436
+00:44:47,120 --> 00:44:49,120
+And who died?
+
+437
+00:44:49,120 --> 00:44:52,560
+So she is a very, very lonely widow.
+
+438
+00:44:52,560 --> 00:45:05,120
+And she still feels the old erotic and romantic love for this first husband, so that she's never been interested in any other man until Aeneas comes along.
+
+439
+00:45:05,120 --> 00:45:09,040
+And when Aeneas comes along, Beatrice mentioned it, I just want to repeat it.
+
+440
+00:45:09,040 --> 00:45:12,480
+She feels the ancient flames.
+
+441
+00:45:12,480 --> 00:45:25,760
+That is, she feels the first time she feels desire and romance and dependent on somebody else, a man.
+
+442
+00:45:25,759 --> 00:45:31,040
+And that's what destroys her.
+
+443
+00:45:31,040 --> 00:45:34,239
+But now I get to what Beatrice said that I thought was important.
+
+444
+00:45:34,239 --> 00:45:36,719
+She does do something interesting.
+
+445
+00:45:36,719 --> 00:45:39,760
+She takes control of her own destiny.
+
+446
+00:45:39,759 --> 00:45:44,320
+After going through all the options, she decides that she's got to kill herself.
+
+447
+00:45:44,319 --> 00:45:47,919
+That's, I mean, she could have decided that she's got to kill Aeneas.
+
+448
+00:45:47,919 --> 00:45:51,680
+She considered that, getting her army and attacking his army.
+
+449
+00:45:51,680 --> 00:45:56,799
+She could have considered that she could, you know, what?
+
+450
+00:45:56,799 --> 00:45:58,239
+Well, anyway, whatever.
+
+451
+00:45:58,560 --> 00:46:02,000
+She has decided, she took over control of her life.
+
+452
+00:46:02,000 --> 00:46:14,560
+I think if you want to read something interesting into that, as Beatrice does, it's that Virgil is sensing sort of an extrapolation of their current understanding of being.
+
+453
+00:46:14,560 --> 00:46:21,360
+That is, the way prophets can see into the future because they're in tune with the understanding of being.
+
+454
+00:46:21,359 --> 00:46:22,639
+How could she be doing that?
+
+455
+00:46:22,640 --> 00:46:25,120
+Well, their understanding of being is control.
+
+456
+00:46:25,680 --> 00:46:29,359
+What she's done is what he's done in Beatrice.
+
+457
+00:46:29,600 --> 00:46:43,800
+Sorry, what he's done in Dino is push the control thing one step further and say, you shouldn't just let your character and your situation tell you what you have to do.
+
+458
+00:46:44,120 --> 00:46:46,360
+She's taken control of her life.
+
+459
+00:46:46,359 --> 00:46:48,759
+And she's decided on her own.
+
+460
+00:46:48,759 --> 00:46:59,959
+That's the next stage, or really two stages later in the understanding of being, where we all think that an authentic person ought to take control of their life.
+
+461
+00:47:00,279 --> 00:47:14,120
+And in that way, so she is a marginal prediction of where this control of everything is going to lead.
+
+462
+00:47:14,120 --> 00:47:29,160
+It's going to lead to Kant, and I mention every once in a while when we're talking about the Odyssey, and autonomy, where you are totally in control of your life and the meaning of your life, and you can give whatever meaning you want to your character, you can give whatever meaning you want to your situation.
+
+463
+00:47:29,160 --> 00:47:32,680
+Dido is perhaps a mood in that direction.
+
+464
+00:47:32,680 --> 00:47:34,680
+Okay, that's all I can say about that.
+
+465
+00:47:34,680 --> 00:47:38,360
+But now you've been talked to by both of us for a long time.
+
+466
+00:47:38,359 --> 00:47:43,400
+If anybody has anything they want to say about this, you should certainly say it.
+
+467
+00:47:43,719 --> 00:47:44,199
+Yeah.
+
+468
+00:47:45,080 --> 00:47:45,719
+Yeah.
+
+469
+00:47:46,040 --> 00:47:46,519
+No.
+
+470
+00:47:47,480 --> 00:47:49,719
+I worried about that, that somebody would say that.
+
+471
+00:47:50,120 --> 00:47:53,320
+It happens to be a good thing to do.
+
+472
+00:47:53,319 --> 00:47:57,559
+Some of the best Roman Stoics commit suicide, and it's very admirable.
+
+473
+00:47:57,799 --> 00:47:58,999
+It's another culture.
+
+474
+00:47:59,000 --> 00:48:07,239
+It's just like the weird thing of bringing home a mistress like Cassandra did, just introducing her to your wife the way Agamemnon does.
+
+475
+00:48:07,879 --> 00:48:09,480
+Their cultures are different.
+
+476
+00:48:09,480 --> 00:48:15,800
+And it's still suicide was considered a heroic and honorable and brave thing to do.
+
+477
+00:48:15,799 --> 00:48:20,560
+That's a very big difference between the Romans and the positive life.
+
+478
+00:48:20,960 --> 00:48:23,999
+I know you're being ironic, but it's something that's how it sounds.
+
+479
+00:48:24,000 --> 00:48:26,479
+I know Buddhists don't believe you should commit suicide.
+
+480
+00:48:26,480 --> 00:48:27,120
+It's wrong.
+
+481
+00:48:29,359 --> 00:48:30,640
+Christians don't.
+
+482
+00:48:31,440 --> 00:48:32,719
+Jews don't either.
+
+483
+00:48:32,960 --> 00:48:42,559
+I don't know if any culture now does, but the Stoics certainly thought suicide was okay, more than okay, honorable, heroic, practically.
+
+484
+00:48:42,560 --> 00:48:44,399
+So that's that I have to put that in.
+
+485
+00:48:44,399 --> 00:48:46,000
+I'm glad you asked.
+
+486
+00:48:46,000 --> 00:48:47,919
+Now I better go right away.
+
+487
+00:48:47,919 --> 00:48:49,600
+No, no, I have one more thing I have to do.
+
+488
+00:48:49,600 --> 00:48:50,960
+So many things to do.
+
+489
+00:48:51,120 --> 00:49:06,000
+In on page 14, that is on book one, line 535, there's the other half of the sentence where he says, I am pious Aeneas, and I carry in my ships my household gods together with me.
+
+490
+00:49:06,000 --> 00:49:08,640
+That should strike you as interesting.
+
+491
+00:49:08,640 --> 00:49:14,239
+I mean, since this course is about gods, and since he's defining, what a weird thing to say.
+
+492
+00:49:14,239 --> 00:49:17,440
+I mean, he could have said, I'm here with my father and my son.
+
+493
+00:49:17,440 --> 00:49:22,320
+I mean, I've loved this place my life, but I had one once.
+
+494
+00:49:22,319 --> 00:49:24,480
+But he doesn't say that.
+
+495
+00:49:24,480 --> 00:49:27,840
+He says, I'm here, and I've got the household gods.
+
+496
+00:49:27,839 --> 00:49:32,399
+Well, I wish I could tell you something exciting about the household gods, and I'm working on it.
+
+497
+00:49:32,399 --> 00:49:34,080
+I'm trying to understand them.
+
+498
+00:49:34,640 --> 00:49:39,520
+How do they spell T-E-N-P-A-Pen case is what they're called.
+
+499
+00:49:39,520 --> 00:49:44,639
+If you will find anything about them, say, with the encyclopedia or something, let me know.
+
+500
+00:49:44,879 --> 00:49:46,160
+I thought I'd look there.
+
+501
+00:49:46,160 --> 00:49:46,799
+Yes.
+
+502
+00:49:46,799 --> 00:49:48,640
+P-E-N-T-E-S.
+
+503
+00:49:49,839 --> 00:49:51,359
+I think it's just T-E-S.
+
+504
+00:49:52,000 --> 00:49:53,120
+How do you spell pencils?
+
+505
+00:49:53,600 --> 00:49:54,639
+Anybody know?
+
+506
+00:49:55,600 --> 00:49:56,560
+I looked in the back.
+
+507
+00:49:56,560 --> 00:49:57,359
+I couldn't find it.
+
+508
+00:49:57,359 --> 00:49:58,640
+Maybe Beatrice, Euchar.
+
+509
+00:49:58,719 --> 00:50:00,079
+I looked under P-D-N.
+
+510
+00:50:00,080 --> 00:50:02,999
+P-E-S, well, maybe with an age computer.
+
+511
+00:50:01,440 --> 00:50:03,799
+Maybe probably E.
+
+512
+00:50:04,600 --> 00:50:05,319
+Who knows?
+
+513
+00:50:05,319 --> 00:50:13,239
+Anyway, those household gods, which I promise to bring in any information I find out, I know this much from trying to find out about them.
+
+514
+00:50:13,799 --> 00:50:15,239
+People don't talk about them much.
+
+515
+00:50:15,239 --> 00:50:17,160
+But obviously they're very important.
+
+516
+00:50:17,160 --> 00:50:20,760
+The only thing he saves from Troy is the household gods.
+
+517
+00:50:20,759 --> 00:50:23,239
+Well, it's not unrelated to what I just said.
+
+518
+00:50:23,239 --> 00:50:26,280
+The household gods are another version of the past.
+
+519
+00:50:26,279 --> 00:50:28,199
+They are the ancestors.
+
+520
+00:50:28,199 --> 00:50:30,680
+That much I can find out.
+
+521
+00:50:30,680 --> 00:50:34,439
+And naturally, that's like having your father on your back.
+
+522
+00:50:34,440 --> 00:50:38,600
+That's the tradition that you have to be true to the...
+
+523
+00:50:38,600 --> 00:50:44,680
+And your identity comes in large part from who your ancestors have been.
+
+524
+00:50:44,680 --> 00:50:58,440
+You say, you know, that I, my father, you hear a lot about that in a minute, how the whole history of all the ancestors of Augustus makes Augustus the important person he is.
+
+525
+00:50:59,960 --> 00:51:03,079
+So anyway, he's carrying with him these ancestors.
+
+526
+00:51:03,160 --> 00:51:08,839
+What I'd like to know is, Beatrice pictures them as all looking the same, like the pool of furies.
+
+527
+00:51:08,839 --> 00:51:16,680
+I really picture them like little models of grandpa and great-grandfather and great-grandmother, and they look exactly like your ancestors.
+
+528
+00:51:16,680 --> 00:51:18,120
+I have no idea.
+
+529
+00:51:18,359 --> 00:51:19,479
+Somebody ought to know.
+
+530
+00:51:20,199 --> 00:51:26,680
+After all, there's lots of pottery and stuff left around, and I'll find out.
+
+531
+00:51:26,919 --> 00:51:30,520
+It doesn't fit into any of the God story we're talking about.
+
+532
+00:51:30,520 --> 00:51:32,280
+Well, maybe it does.
+
+533
+00:51:32,279 --> 00:51:34,599
+Just final far-fetched thing.
+
+534
+00:51:34,600 --> 00:51:36,999
+I'm sort of talking in a vacuum about them.
+
+535
+00:51:37,239 --> 00:51:51,680
+I mean, if they are what I think they are, the sense of the history of that family, they're like many, many works of art, many, many gods.
+
+536
+00:51:52,000 --> 00:52:09,199
+If gods are what focuses and holds up to you what your culture is all about, and you see things in its light, these ought to focus and hold up to the people, like Aeneas, what he's up to.
+
+537
+00:52:09,199 --> 00:52:15,040
+To each person, has their family gods, which sort of they take out the ones that are important.
+
+538
+00:52:15,040 --> 00:52:23,040
+And the ones that are important, those family gods, are the ones that hold up to them what gives their family its identity.
+
+539
+00:52:23,040 --> 00:52:26,960
+And in the light of that, they see what's important to do.
+
+540
+00:52:26,960 --> 00:52:29,520
+So they do have a god-like character.
+
+541
+00:52:29,520 --> 00:52:32,159
+And of course, that's tied up with their being sacred.
+
+542
+00:52:32,160 --> 00:52:33,519
+They're certainly sacred.
+
+543
+00:52:33,520 --> 00:52:40,320
+As I think I've said before, Nietzsche says that every culture has something sacred at which you are not allowed to laugh.
+
+544
+00:52:40,319 --> 00:52:42,960
+And it's surely the household gods.
+
+545
+00:52:42,960 --> 00:52:47,920
+And so we have to figure out why they should be sacred and why they should be so important.
+
+546
+00:52:47,919 --> 00:52:56,719
+And I think it's because they give you a sense of, they give the person a sense of who they are and what their personal world is.
+
+547
+00:52:57,040 --> 00:53:03,599
+Okay, now I really have to go to the underworld part because it's so important for Dante.
+
+548
+00:53:03,600 --> 00:53:08,320
+I can come back to it when we get to Dante, but I'm going to do some of it now.
+
+549
+00:53:08,640 --> 00:53:22,400
+So don't worry about all the names, the battles, the places, and everything, but you have to pay attention to the mainly sort of what happens to the people in the underworld.
+
+550
+00:53:22,399 --> 00:53:32,680
+And then you'll understand a lot more about the Stoics if you contrast it with the underworld that we do know already, the underworld and the Odyssey.
+
+551
+00:53:31,040 --> 00:53:37,399
+It's like the absolute reverse of the underworld and the Odyssey.
+
+552
+00:53:37,480 --> 00:53:46,439
+It just shows you how far the understanding of being of these Stoic Romans is from the understanding of the heroic Greeks.
+
+553
+00:53:46,440 --> 00:53:52,359
+I mean, aescholicism isn't really important in this because we don't see what the underworld looks like for Aeschylus.
+
+554
+00:53:52,359 --> 00:53:54,199
+But let's look at the underworld here.
+
+555
+00:53:54,199 --> 00:54:04,280
+The one thing, and this you just have to remember until you get to Dante, there's no renting of the bad people in the underworld.
+
+556
+00:54:04,279 --> 00:54:12,440
+There's just a whole bunch in book six, starting on 805, bottom of 150 in my book.
+
+557
+00:54:12,600 --> 00:54:19,319
+There are people who hated their brothers, struck their fathers, deceived a client, were caught in adultery.
+
+558
+00:54:19,640 --> 00:54:23,320
+What a grab bag of bad things to do.
+
+559
+00:54:23,319 --> 00:54:31,640
+Here's one later, line 826, who assailed the chamber of his daughter, that is, a child molester.
+
+560
+00:54:31,640 --> 00:54:33,239
+I mean, they're all down there.
+
+561
+00:54:33,239 --> 00:54:36,839
+And they are all sort of scrambled.
+
+562
+00:54:36,839 --> 00:54:51,719
+Well, Dante, because the medievals are devoted to getting everything sorted out and clear in hierarchies, has them separated into nine different categories, and the categories are worse and worse, and you understand why they're worse and worse.
+
+563
+00:54:51,719 --> 00:54:53,080
+Nothing like that.
+
+564
+00:54:53,080 --> 00:54:56,040
+But now comes the really interesting comparison.
+
+565
+00:54:56,040 --> 00:55:10,199
+That is why they go to the underworld and what they learn about what it is to be a human being by seeing what it is to be a dead human being.
+
+566
+00:55:10,199 --> 00:55:19,040
+The first thing is just very quick, to say, Odysseus goes to the underworld to find out his future, to find out about going home.
+
+567
+00:55:19,359 --> 00:55:27,760
+And he discovers that he's finite and he's going to die, and we better stop playing around and looking around and go home.
+
+568
+00:55:28,399 --> 00:55:38,800
+And he goes to see his father and connect up with the tradition and to see, hear from his father the whole future.
+
+569
+00:55:39,120 --> 00:55:46,319
+And it's again, but mostly it's always the past.
+
+570
+00:55:46,319 --> 00:55:50,320
+It's from his father that he's going to learn this, and he's going to see his father.
+
+571
+00:55:50,319 --> 00:55:54,320
+Okay, but now comes the really interesting part.
+
+572
+00:55:54,319 --> 00:55:57,199
+And I wonder if you sort of noticed it.
+
+573
+00:55:57,440 --> 00:56:03,760
+If you read this, did you notice how they relate to their bodies once they're dead?
+
+574
+00:56:04,719 --> 00:56:06,880
+Well, what happens?
+
+575
+00:56:07,440 --> 00:56:25,600
+There's a part of the underworld on round page, the bottom of page 151, line 845, which is not full of criminals of various sorts who are being tortured in various ways, but a very nice place to be.
+
+576
+00:56:26,000 --> 00:56:29,680
+It's the land of gladness, this is 846.
+
+577
+00:56:29,680 --> 00:56:33,199
+Glades of gentleness, groves of blessedness.
+
+578
+00:56:33,199 --> 00:56:44,320
+Now that comes from Homer, because that's where Menelaus is going to go, for instance, where everything was a dream of ease.
+
+579
+00:56:44,319 --> 00:56:53,360
+And it shows up in Dante as limbo, which is where the virtuous pagans go, and even according to Dante.
+
+580
+00:56:53,359 --> 00:56:54,719
+And what do they do?
+
+581
+00:56:54,719 --> 00:56:58,239
+Well, this is where it gets sort of funny on 152.
+
+582
+00:57:00,000 --> 00:57:06,440
+They play around at being soldiers and heroes and so forth.
+
+583
+00:57:01,279 --> 00:57:07,560
+About 860.
+
+584
+00:57:09,160 --> 00:57:16,600
+From far, Aeneas wondered if their phantom armor and chariots, their spears and so forth, their horses grazed in the grass.
+
+585
+00:57:16,600 --> 00:57:17,799
+These are all phantom.
+
+586
+00:57:17,799 --> 00:57:19,239
+These are virtual.
+
+587
+00:57:19,560 --> 00:57:28,840
+The very same delight that once was theirs in life, in arms and chariots, and care to pasture their sleek steeds, has followed to this underneath.
+
+588
+00:57:28,839 --> 00:57:31,239
+Does you recognize that?
+
+589
+00:57:31,239 --> 00:57:40,920
+A kind of virtual place where you can fight and have battles, but nobody really ever gets hurt and there's no risk.
+
+590
+00:57:41,719 --> 00:57:42,839
+Anybody recognize that?
+
+591
+00:57:42,839 --> 00:57:43,879
+You were recognized.
+
+592
+00:57:43,879 --> 00:57:44,999
+It's the Holodeck.
+
+593
+00:57:45,000 --> 00:57:47,239
+It's the Holodeck from Star Trek.
+
+594
+00:57:47,239 --> 00:57:48,360
+Exactly.
+
+595
+00:57:49,399 --> 00:57:57,640
+There is this sort of virtual world in which these soldiers go and which they get to go riding on, what do they call it?
+
+596
+00:57:57,640 --> 00:58:00,760
+Not virtual horses, but the same sort of thing.
+
+597
+00:58:02,440 --> 00:58:03,880
+Where are they?
+
+598
+00:58:03,879 --> 00:58:05,880
+Pastoring their deeds.
+
+599
+00:58:06,199 --> 00:58:07,080
+I've lost the word.
+
+600
+00:58:07,399 --> 00:58:09,479
+Oh, phantom, phantom horse.
+
+601
+00:58:10,120 --> 00:58:12,199
+Somebody wanted to say something, something.
+
+602
+00:58:12,359 --> 00:58:12,839
+What?
+
+603
+00:58:13,640 --> 00:58:15,080
+Playground?
+
+604
+00:58:15,399 --> 00:58:19,320
+It's like kids, except that it's grown-ups.
+
+605
+00:58:19,560 --> 00:58:23,559
+They're playing like kids, because, and even, it's even safer.
+
+606
+00:58:23,560 --> 00:58:27,400
+I mean, kids sort of fall sometimes and get bloody noses or fight with each other.
+
+607
+00:58:27,399 --> 00:58:28,840
+You can get.
+
+608
+00:58:29,399 --> 00:58:36,600
+It's so weird because it says that they're doing the same thing that they delighted in when they were soldiers.
+
+609
+00:58:37,000 --> 00:58:45,520
+Well, not really, because what they delighted in, presumably, when they were soldiers, was being able to win and having something at stake.
+
+610
+00:58:45,160 --> 00:58:52,079
+But they, oh, that's another Star Trek connection.
+
+611
+00:58:52,399 --> 00:58:56,479
+I think it's in Star Trek, the generation, or whatever it's called.
+
+612
+00:58:56,480 --> 00:59:10,079
+Remember, is that the one where Kirk is riding around on horseback, but he's really been put in this other world where it's all virtual, and the Picard has to go and get him.
+
+613
+00:59:10,080 --> 00:59:12,000
+Does that sound familiar to you?
+
+614
+00:59:12,000 --> 00:59:19,839
+And they try to, and he's just been riding this nice horse and jumping across a chasm, and they point out to him that it really wasn't at all risky.
+
+615
+00:59:19,839 --> 00:59:26,399
+There were no surprises, and he couldn't get hurt, and it wasn't at all like jumping around on a real horse with real chasms.
+
+616
+00:59:26,399 --> 00:59:32,960
+And they convince him, and he leaves, I forget where he is, and comes back to the real world.
+
+617
+00:59:34,160 --> 00:59:44,800
+They are sort of living out the stoic dream of a world in which everything is under control, there are no surprises, and nobody can ever get hurt.
+
+618
+00:59:45,440 --> 00:59:52,640
+That's their idea of the good place to be, the perfect place to be.
+
+619
+00:59:53,120 --> 00:59:56,000
+So there's, let's see now.
+
+620
+00:59:56,319 --> 01:00:03,199
+But of course, there is something rather boring about that.
+
+621
+01:00:03,520 --> 01:00:11,840
+And you'd think they would want to maybe go back to the real world, and they can because virtual believes in reincarnation.
+
+622
+01:00:11,839 --> 01:00:16,239
+So their souls could go back to the real world.
+
+623
+01:00:16,239 --> 01:00:25,040
+You'd think that might be more interesting, risky, full of surprises, meaningful successes, and meaningful failures.
+
+624
+01:00:25,040 --> 01:00:28,239
+And do they want to go back to the real world?
+
+625
+01:00:28,719 --> 01:00:29,839
+Remember?
+
+626
+01:00:30,080 --> 01:00:31,120
+Our world?
+
+627
+01:00:32,199 --> 01:00:34,120
+They could get their bodies back.
+
+628
+01:00:34,120 --> 01:00:37,560
+Just think how Achilles would be happy to get his body back.
+
+629
+01:00:37,560 --> 01:00:39,480
+They don't want their bodies back.
+
+630
+01:00:39,480 --> 01:00:41,480
+They don't want to go to the real world.
+
+631
+01:00:41,640 --> 01:00:45,879
+On page one, on the next page, down here.
+
+632
+01:00:45,960 --> 01:00:49,639
+So in the middle of 154, line 950.
+
+633
+01:00:50,759 --> 01:01:03,239
+He asks his father, that is, Aeneas asks Anchises, but father, can it be that any souls would ever leave their dwelling here to go beneath the sky of earth and once again take on their sluggish bodies?
+
+634
+01:01:03,239 --> 01:01:04,840
+Are they madmen?
+
+635
+01:01:04,839 --> 01:01:05,880
+What about that?
+
+636
+01:01:07,000 --> 01:01:09,320
+You see, he's reversed 100%.
+
+637
+01:01:09,319 --> 01:01:10,919
+Achilles would give anything.
+
+638
+01:01:10,919 --> 01:01:18,680
+He would be a farmhand, he says, living on hard rations if he could just have the power of his body back.
+
+639
+01:01:18,680 --> 01:01:21,159
+These people don't think of the body as powerful.
+
+640
+01:01:21,160 --> 01:01:26,040
+They think of it as sluggish, and they don't want their bodies back.
+
+641
+01:01:26,520 --> 01:01:30,919
+And it gets again clear at 970.
+
+642
+01:01:31,239 --> 01:01:42,120
+Fiery energy in these seeds that is in them is some fiery energy, but it's ruined by their bodies.
+
+643
+01:01:42,120 --> 01:01:45,640
+The seeds are their sort of spark of life.
+
+644
+01:01:45,960 --> 01:01:51,160
+Their source is heavenly, but they are dulled by harmful bodies, blunted by their own earthly limbs.
+
+645
+01:01:51,160 --> 01:01:52,600
+They're mortal members.
+
+646
+01:01:52,600 --> 01:01:55,880
+Because of these, they fear and long and sorrow.
+
+647
+01:01:56,600 --> 01:02:00,280
+Because of these, they fear and long and sorrow and joy.
+
+648
+01:02:00,279 --> 01:02:02,440
+They do not see the light of heaven.
+
+649
+01:02:02,440 --> 01:02:05,239
+Oh, that's hard for me even to read it.
+
+650
+01:02:05,239 --> 01:02:06,919
+I'm so unsoiled.
+
+651
+01:02:07,239 --> 01:02:12,360
+It's bad to fear and long and sorrow and joy.
+
+652
+01:02:14,120 --> 01:02:16,960
+That's what happens to them when they're on earth.
+
+653
+01:02:16,199 --> 01:02:19,119
+And then they don't get to see the light of heaven.
+
+654
+01:02:19,440 --> 01:02:32,160
+They are dungeoned in the darkness and blind prison of their bodies, among which joy happens to be one of the things that they experience, and they don't want to experience joy.
+
+655
+01:02:32,160 --> 01:02:37,040
+I suppose because if you experience joy, as a sort of Buddhist line, you get attached to it.
+
+656
+01:02:37,199 --> 01:02:40,239
+Once you get attached to it, you'll be miserable if you have to give it up.
+
+657
+01:02:40,239 --> 01:02:42,080
+It's a stoic idea, too.
+
+658
+01:02:42,080 --> 01:02:46,880
+And so, but if you then, how do they ever get back?
+
+659
+01:02:46,879 --> 01:03:01,760
+How does anybody ever go back to be incarnated in a risky world where you can take, you can be surprised and you don't have everything under control?
+
+660
+01:03:01,759 --> 01:03:03,040
+Well, what happens to them?
+
+661
+01:03:03,040 --> 01:03:04,640
+Do you remember that?
+
+662
+01:03:04,960 --> 01:03:08,079
+Well, they have to be brainwashed, literally.
+
+663
+01:03:08,080 --> 01:03:12,960
+They have to be put into the river Lefe, which makes them forget everything.
+
+664
+01:03:13,279 --> 01:03:23,040
+And only when they've forgotten how really bad it was to have a body and be in this risky world, are they then ready to go back?
+
+665
+01:03:23,040 --> 01:03:27,919
+This is the middle of the next page, 980, 990.
+
+666
+01:03:28,719 --> 01:03:50,160
+After they've been there a certain time, they're summoned by the God to Leithe, that's the river of forgetfulness, in a great assembly, that free of memory, they may return beneath the curve of the upper world, that is, go back up to the earth, and they may once again begin to wish for bodies because they don't know what a drag it is to have a body.
+
+667
+01:03:50,160 --> 01:03:56,480
+And so, while they have forgotten everything, they are sent, they go back.
+
+668
+01:03:56,480 --> 01:03:58,319
+So much for that, three days.
+
+669
+01:03:58,319 --> 01:04:09,880
+So, but you can begin to see what a boring life this comes down to, where you don't even want joy.
+
+670
+01:04:09,879 --> 01:04:14,760
+And it's all just because you can get rid of all the risks that way.
+
+671
+01:04:15,879 --> 01:04:23,479
+And that's a kind of transition to Christianity, which I don't want to go into and don't have time to go into right yet.
+
+672
+01:04:23,480 --> 01:04:24,279
+We'll get there.
+
+673
+01:04:24,279 --> 01:04:26,199
+But consider this already.
+
+674
+01:04:26,839 --> 01:04:52,199
+If the Roman Empire was made up of people who didn't want to have any surprises, take any risks, experience any joy, if that's what the top most sensitive, most influential people felt, you could understand why it might be just swept away by a new, exciting, ecstatic religion where the body is super important.
+
+675
+01:04:52,199 --> 01:04:55,319
+After all, God gets a body and so forth.
+
+676
+01:04:55,640 --> 01:04:57,480
+But we'll see.
+
+677
+01:04:57,480 --> 01:05:06,600
+But there is this in it because you want to ask yourself later, how did this strange religion so quickly take over the Roman Empire?
+
+678
+01:05:06,600 --> 01:05:22,680
+And people thought of Virgil, Beatrice didn't mention this, but I'm sure she knows about this more than I do, as a kind of photo-Christian, that he expressed a kind of sadness about the world, namely, a world without a savior isn't worth living in.
+
+679
+01:05:22,680 --> 01:05:29,080
+They thought that he understood that, and that therefore he was setting up the pods of Christianity.
+
+680
+01:05:30,040 --> 01:05:34,279
+Now, one last thing we've got to have to talk about the underworld.
+
+681
+01:05:34,279 --> 01:05:37,159
+Let me just make sure that I am where I'm supposed to be.
+
+682
+01:05:37,160 --> 01:05:40,519
+Yeah, well, we've got to see the Ga.
+
+683
+01:05:41,080 --> 01:05:48,640
+All of this, in a way, is to get to the bottom of 156, lines 10, 45.
+
+684
+01:05:46,440 --> 01:05:53,760
+There, we're going to be told about Augustus.
+
+685
+01:05:54,080 --> 01:06:00,559
+And he, okay, so now turn your two eyes here to look upon your Romans, your own people.
+
+686
+01:06:00,560 --> 01:06:08,560
+Here is Caesar, and all the line of Julius, that's the Julius Caesar that you all know about.
+
+687
+01:06:08,560 --> 01:06:10,239
+And that will come.
+
+688
+01:06:10,239 --> 01:06:16,320
+I mean, these are all descendants of Aeneas beneath the mighty curve of heaven.
+
+689
+01:06:16,319 --> 01:06:22,959
+And this, this is the man you heard so often promised, Augustus Caesar.
+
+690
+01:06:22,960 --> 01:06:40,079
+You realize that this takes place, the whole Aeneid, written by Virgil at the time of Augustus, earlier, way earlier than Augustus, where Aeneas hasn't even founded Rome yet, so that all the things that have actually already happened can be predicted.
+
+691
+01:06:40,799 --> 01:06:45,600
+And they are being predicted by Aeneas' father.
+
+692
+01:06:45,600 --> 01:06:49,840
+There will be Julius Caesar, and after Julius Caesar, there'll be Augustus Caesar.
+
+693
+01:06:49,839 --> 01:06:53,199
+Augustus means, doesn't, it means what?
+
+694
+01:06:53,199 --> 01:06:59,120
+Something like venerable or I forget, what is Augustus?
+
+695
+01:06:59,759 --> 01:07:01,120
+God-like in some way.
+
+696
+01:07:01,919 --> 01:07:02,639
+I don't know.
+
+697
+01:07:03,359 --> 01:07:05,680
+Anybody knows they should come and tell me.
+
+698
+01:07:05,680 --> 01:07:10,879
+Augustus Caesar, son of a god, who will, and that's important.
+
+699
+01:07:12,480 --> 01:07:17,360
+So there's going to be a son of a god who's going to, so to speak, save the world.
+
+700
+01:07:17,680 --> 01:07:19,440
+That's what Virgil's writing.
+
+701
+01:07:19,440 --> 01:07:22,560
+That's what Aeneas' father is telling him.
+
+702
+01:07:22,560 --> 01:07:30,560
+Who will renew a golden age in Latvium, that's the Roman Empire, in fields where Saturn once was king, and so forth and so forth.
+
+703
+01:07:30,560 --> 01:07:32,520
+We don't need more of that.
+
+704
+01:07:31,440 --> 01:07:35,799
+And that may be all I need to tell you.
+
+705
+01:07:31,520 --> 01:07:36,520
+Let's see.
+
+706
+01:07:37,320 --> 01:07:40,520
+Oh, I see, I wrote down here: Augustus means venerated.
+
+707
+01:07:40,520 --> 01:07:42,119
+You think that's right?
+
+708
+01:07:42,119 --> 01:07:44,119
+And that's what you do for a god.
+
+709
+01:07:44,440 --> 01:07:56,199
+So he's son of a god, and I'm just looking at, and he's going to hold up to the people like a work of art, the essence of Rome.
+
+710
+01:07:56,200 --> 01:07:58,359
+That's what I want to talk about now.
+
+711
+01:07:59,320 --> 01:08:01,799
+Remember, we read it already, so I don't have to read it again.
+
+712
+01:08:01,799 --> 01:08:05,400
+It's line 130, where he's predicting that.
+
+713
+01:08:05,400 --> 01:08:06,680
+I'll just read the end of it.
+
+714
+01:08:06,999 --> 01:08:08,199
+You don't do what the Greeks did.
+
+715
+01:08:08,200 --> 01:08:09,480
+You don't make great statues.
+
+716
+01:08:09,480 --> 01:08:10,520
+You don't do astronomy.
+
+717
+01:08:10,520 --> 01:08:11,480
+You do so-and-so.
+
+718
+01:08:11,480 --> 01:08:15,319
+Yours will be the rulership of nations, remember, Romans.
+
+719
+01:08:15,320 --> 01:08:24,600
+These will be your arts to teach the ways of peace to those who conquer, to spare defeated people, to tame the proud.
+
+720
+01:08:26,839 --> 01:08:35,719
+That's what Augustus is supposedly focusing on articulating and holding up to the Romans by way of Virgil.
+
+721
+01:08:35,799 --> 01:08:38,439
+Virgil's doing the job because he's the artist.
+
+722
+01:08:38,440 --> 01:08:46,039
+He's making Augustus, well, he's made Aeneas already at one end of the beginning, a model of what a Roman should be.
+
+723
+01:08:46,039 --> 01:08:54,439
+And he's made Augustus now at the supposed end, because the predictions can't go any further, since that's all the further time has gone.
+
+724
+01:08:54,440 --> 01:08:58,999
+He's made him the perfect Roman.
+
+725
+01:09:00,919 --> 01:09:11,239
+And predicting all that glory for Rome would make you think that it was all right to be there.
+
+726
+01:09:12,839 --> 01:09:13,959
+Oh, yeah, that's all.
+
+727
+01:09:14,560 --> 01:09:24,959
+I mean, and it looks like, well, after all, Virgil is telling you, even though it looks like this is a sort of boring time, it's really a marvelous time for the Romans.
+
+728
+01:09:24,959 --> 01:09:29,680
+And then, this is the last thing I want to say, we talked about it already prematurely.
+
+729
+01:09:29,680 --> 01:09:46,239
+Then you get this very mysterious ending on 160, where Virgil seems to undercut the whole pageant, maybe, and say they go out, when they leave the underworld, they go through the gate of false dreams into the world above.
+
+730
+01:09:46,879 --> 01:09:48,560
+It's not clear.
+
+731
+01:09:48,879 --> 01:09:59,279
+One, it's not clear to me whether anybody would want to live in the world of Augustus, the Stoic world.
+
+732
+01:10:00,640 --> 01:10:02,799
+They'd literally rather be dead.
+
+733
+01:10:02,799 --> 01:10:05,039
+That's a pretty bad situation.
+
+734
+01:10:05,839 --> 01:10:15,759
+But even if you think that there might be something to be proud of that's worth doing in the world of Augustus, Virgil may be having your doubts.
+
+735
+01:10:15,759 --> 01:10:19,999
+Remember, that goes with what Theodor said, that he said, burn the manuscript.
+
+736
+01:10:19,999 --> 01:10:24,399
+One possible reason is he doesn't want to write propaganda.
+
+737
+01:10:24,400 --> 01:10:26,239
+But let's not read it that way.
+
+738
+01:10:26,240 --> 01:10:33,680
+I just, I can't help it because I find it so crazy, this ideal, the Stoic ideal.
+
+739
+01:10:33,680 --> 01:11:01,560
+But if, but let's suppose, I mean, when you read it, just look for the way this work focuses and understanding of being as control, as production, as taming the forces that get out of control, and see that that's another step toward monotheism because there's this one God, if there's any God at all.
+
+740
+01:11:01,200 --> 01:11:05,399
+I mean, there are these household gods, but they aren't what unifies the culture.
+
+741
+01:11:05,719 --> 01:11:11,079
+And if there's any gods at all, it's got to be Augustus who is the focus of all of this.
+
+742
+01:11:11,079 --> 01:11:17,959
+Okay, it's like a you'll see, it's like a breath of fresh air after this to go on and read the Gospel of John next time.

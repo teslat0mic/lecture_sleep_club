@@ -1,0 +1,3654 @@
+
+
+
+1
+00:00:00,000 --> 00:00:05,679
+So we're going to plunge back into this issue of the phenomenal field and the transcendental field.
+
+2
+00:00:05,999 --> 00:00:18,000
+I thought I could just skip it and go on to the next section, but there's so much that's interesting and important in there that we have to do that before we get to the phantom limb, which is also so interesting and important.
+
+3
+00:00:18,000 --> 00:00:25,119
+But we have two times as we have today and Thursday, so we certainly do the phantom limb part on Thursday.
+
+4
+00:00:25,119 --> 00:00:30,160
+I'm just thinking I'm going to get to it even starting on it today.
+
+5
+00:00:30,159 --> 00:00:49,280
+But let's go back to the what is the, I'm still trying to get clear for myself and for you all, what is at stake in saying that this is a phenomenal field that we're studying, and then saying it's not a transcendental field, and then saying, well, yes, it is.
+
+6
+00:00:49,280 --> 00:00:52,240
+It's a transcendental field if you understand it the right way.
+
+7
+00:00:52,240 --> 00:00:54,480
+That's what's going on in that chapter.
+
+8
+00:00:54,480 --> 00:00:59,199
+It's high-level sort of methodology and not phenomena.
+
+9
+00:00:59,200 --> 00:01:12,239
+And it's tied in with the idealism issue again, which I hate to fall back into because I don't think it matters to what's important about Nerlo-Ponty that he's an idealist, which I think he is.
+
+10
+00:01:12,240 --> 00:01:13,839
+But this issue will come up again.
+
+11
+00:01:13,840 --> 00:01:15,199
+But let's start.
+
+12
+00:01:15,199 --> 00:01:16,320
+Thanks, Rick.
+
+13
+00:01:17,200 --> 00:01:25,359
+So let's start with the phenomenal field taken as a transcendental field and why that's wrong on page 62.
+
+14
+00:01:26,560 --> 00:01:28,799
+So where are we here?
+
+15
+00:01:30,639 --> 00:01:34,079
+We're in the middle of the page 62.
+
+16
+00:01:34,079 --> 00:01:41,520
+That's, I mean, I again, because this is one, two, three pages in, you see phenomenal field in italics.
+
+17
+00:01:41,519 --> 00:01:43,199
+So that's where we're starting.
+
+18
+00:01:43,200 --> 00:01:45,839
+The criticism of the constant of the hypothesis.
+
+19
+00:01:45,840 --> 00:01:55,639
+Remember, that's the Gestalta saying there's no important correlation between the stimulus hitting the sense organs and what we see.
+
+20
+00:01:55,960 --> 00:02:08,039
+The criticism of the constancy hypothesis, and more generally, the relation of the idea of the world, opened up a phenomenal field, which now has to be more accurately circumscribed.
+
+21
+00:02:08,039 --> 00:02:15,239
+Well, the phenomenal field, in effect, says, well, if the constancy hypothesis is wrong, then we just have to describe the way the world looks.
+
+22
+00:02:15,240 --> 00:02:17,080
+That's what the Gestaltas said.
+
+23
+00:02:17,080 --> 00:02:25,719
+There's no other way to understand what we want to understand, namely perception, except to describe the perceived world.
+
+24
+00:02:25,719 --> 00:02:33,159
+Describing the sensations and what's happening on the retina and so forth turns out to be almost completely irrelevant.
+
+25
+00:02:33,159 --> 00:02:38,120
+I mean, you can't just put anything on the retina and see some utterly wild other thing.
+
+26
+00:02:38,120 --> 00:02:44,280
+It sets up some boundary conditions, but it certainly doesn't correlate with the perceptual world.
+
+27
+00:02:44,280 --> 00:02:46,119
+That's old stuff.
+
+28
+00:02:46,120 --> 00:02:51,640
+So now we're going to go and look up the phenomenal field, and we have to describe it.
+
+29
+00:02:51,640 --> 00:03:04,359
+And that suggests the recovery of a direct experience, which must be at least provisionally assigned its place in relation to scientific knowledge and to psychology and philosophical reflection.
+
+30
+00:03:04,359 --> 00:03:16,359
+So wow, these big methodological issues have to be faced if we're going to start just describing the phenomena the way the Gestaltas have taught us to do.
+
+31
+00:03:16,679 --> 00:03:21,879
+So then I think you can skip from 62 to 65.
+
+32
+00:03:21,880 --> 00:03:25,640
+Nothing important happens in there as far as I can see.
+
+33
+00:03:26,280 --> 00:03:36,280
+And it's really sort of the review of sort of modern philosophy as Descartes set it up.
+
+34
+00:03:39,039 --> 00:03:44,239
+And the fact that it's got only two at the bottom of 64, it's important that you'll come back.
+
+35
+00:03:44,240 --> 00:03:50,960
+That they've only got two kinds of being, the in-itself, which is pure determinate stuff.
+
+36
+00:03:51,280 --> 00:04:02,879
+what Searle would call the brute given, and the for-itself, consciousness, or I suppose nowadays, mind and world.
+
+37
+00:04:03,359 --> 00:04:10,879
+That's the two kinds of being that they've got, and they've got to try to understand everything in terms of that.
+
+38
+00:04:10,880 --> 00:04:13,520
+And we're not going to talk about that.
+
+39
+00:04:14,400 --> 00:04:26,960
+He's talking about, I just want to tell you one, he's talking about the Husserl version of it at the top of 65, the constituting I, the constituting ego, and so forth.
+
+40
+00:04:26,960 --> 00:04:30,000
+By the way, constituting flops all over the place, as I said.
+
+41
+00:04:30,640 --> 00:04:33,520
+He uses the two for what he wants to talk about.
+
+42
+00:04:33,520 --> 00:04:38,800
+The constituting ego or constituting I, that's pure Husserl.
+
+43
+00:04:38,799 --> 00:04:41,599
+I'm going to say this again later, but I think it's important.
+
+44
+00:04:41,599 --> 00:04:58,799
+What he has against Husserlian phenomenology is the idea that you could describe the experience of a subject independent of whether there was any world that existed and that the subject was involved in or not.
+
+45
+00:04:58,799 --> 00:05:02,960
+That's the kind of transcendental that he's against.
+
+46
+00:05:02,960 --> 00:05:08,559
+That gets you transcendental ego and transcendental phenomenology, Husserl, Husserl.
+
+47
+00:05:09,440 --> 00:05:24,439
+And at the end of that first paragraph on 65, I just say this because it's not Merleau-Ponty, but Husserl who's saying it could be held that perception is an incipient science, science a methodological and complete perception.
+
+48
+00:05:24,440 --> 00:05:26,439
+No, I'm not even sure that Husserl says that.
+
+49
+00:05:21,120 --> 00:05:28,120
+Cognitivism says it.
+
+50
+00:05:28,760 --> 00:05:52,599
+Cognitivism says that starting with little children who are already little Newtons making up their hypotheses about reality and checking them out, as you will hear from Alison Bopnik or here or from Kerrig at Harvard, they're very good in discovering what an incipient science this is and how it goes back to pre-linguistic children.
+
+51
+00:05:52,599 --> 00:05:55,080
+That's not Merlot-Ponty's view.
+
+52
+00:05:55,400 --> 00:06:14,919
+That is, science, whatever it is, and he's going to come and tell you what he thinks it is, is not for him, well, perception is not for him, making a lot of inferences from data as to what's out there until you get a reliable representation of the world.
+
+53
+00:06:14,919 --> 00:06:21,480
+That's the cognitivist vision of it, and far for Merleau-Ponty.
+
+54
+00:06:21,799 --> 00:06:35,159
+Now, what he's trying to do, and it seems like a sort of, it is a kind of non-secretary, to oppose that view to what he's trying to do, because it's so different, there's no common language even to say it.
+
+55
+00:06:35,159 --> 00:06:45,479
+But his slogan is, at the bottom of 65, he wants a philosophy which explains the upsurge of reason in a world not of its making.
+
+56
+00:06:47,960 --> 00:07:00,919
+That means he doesn't think there is any sort of rational structure to experience.
+
+57
+00:07:01,240 --> 00:07:09,760
+You have to start with experience in its ambiguous, what's his word?
+
+58
+00:07:04,679 --> 00:07:36,159
+Ambiguous is one of his words, with his indeterminate form, and find out how you get from there to the idea that there is some pre something outside experience that's determinate, that follows laws, and that could explain why experience takes the form it does.
+
+59
+00:07:36,159 --> 00:07:45,600
+For him, experience has to get to be more and more determinate and more and more, I guess he would say, logical.
+
+60
+00:07:45,919 --> 00:07:51,919
+I don't know what the word for it is, rational, I guess would be his word for it.
+
+61
+00:07:51,919 --> 00:08:02,480
+You've got to explain it without assuming that there is any rational order out there that experience is trying to get right.
+
+62
+00:08:02,479 --> 00:08:12,799
+It's not just a hypotheses making about the world, which will finally get the right hypothesis about what the sun is and the trees are and everything else is.
+
+63
+00:08:13,119 --> 00:08:28,159
+And one of the ways he puts this is, whatever norms govern perception, and the Gestaltas find lots of norms, what counts as a better figure than this, what counts as equilibrium, what counts as similarity.
+
+64
+00:08:28,159 --> 00:08:39,520
+It isn't because they correspond to some determinate, describable order out there, so to speak, in the universe.
+
+65
+00:08:39,520 --> 00:08:44,239
+That's just the order that the that's just the way our experience organizes itself.
+
+66
+00:08:44,240 --> 00:08:47,840
+And there's no reason behind that.
+
+67
+00:08:47,839 --> 00:09:00,120
+You get that from that, we, step by step, develop the idea that there is a determinate world with causal and other kinds of rational connections.
+
+68
+00:09:00,120 --> 00:09:20,520
+That's a quite, okay, so that's, and that's what he's going to talk about: why, how we get from this ambiguous, indeterminate perceptual experience which we have, to the idea of a determinate universe.
+
+69
+00:09:20,679 --> 00:09:23,240
+That's going, and I'm afraid we just have to go through it.
+
+70
+00:09:23,240 --> 00:09:24,520
+It's sort of fascinating.
+
+71
+00:09:24,520 --> 00:09:43,480
+I don't know why I thought we could omit it, because in the course of it, he goes through what's wrong with Plusero and the other kind of phenomenology, and he explains the crypto mechanism, how it works.
+
+72
+00:09:43,480 --> 00:09:46,280
+And we have to do that little by little.
+
+73
+00:09:46,280 --> 00:09:51,720
+One thing I want you to see on 68, though, no, no, that's not important.
+
+74
+00:09:51,959 --> 00:09:56,120
+I mentioned something on 68 last time, but I don't want to mention it again.
+
+75
+00:09:57,079 --> 00:10:01,480
+So the wrong transcendental view starts on 69.
+
+76
+00:10:01,480 --> 00:10:04,120
+So remember, there is a phenomenal field.
+
+77
+00:10:04,120 --> 00:10:05,960
+We're all agreeing about that.
+
+78
+00:10:05,960 --> 00:10:07,880
+That's what the Disco show us.
+
+79
+00:10:07,880 --> 00:10:09,559
+We've got to describe experience.
+
+80
+00:10:09,559 --> 00:10:20,280
+There's nothing, there's no other way to find out what it is or why it is the way it is, but to describe it in its own internal norms and order.
+
+81
+00:10:20,280 --> 00:10:21,480
+That's fine.
+
+82
+00:10:21,480 --> 00:10:27,640
+And then there's a way to take that phenomenal field as a transcendental field, and that's a bad move.
+
+83
+00:10:27,640 --> 00:10:30,920
+So that starts to be the criticism on 169.
+
+84
+00:10:30,919 --> 00:10:38,640
+I can't help telling you, maybe just for the sake of the ghost of one of the people involved, that there's a story behind this.
+
+85
+00:10:35,880 --> 00:10:39,599
+I don't think I mentioned this.
+
+86
+00:10:39,760 --> 00:10:43,280
+Have I mentioned Aaron Gervich as a hidden figure in all this?
+
+87
+00:10:43,280 --> 00:10:50,640
+Okay, well, Gervich was a student of Husserl who studied Gestalt psychology too.
+
+88
+00:10:50,640 --> 00:11:00,319
+and saw that there was an interesting relation between phenomenology and gestalt psychology, wrote his PhD thesis on that, and yet for I would.
+
+89
+00:11:00,319 --> 00:11:04,240
+And then the Nazis came and he had to flee to France.
+
+90
+00:11:04,240 --> 00:11:08,799
+And there, to make a little money, they had given some kind of job.
+
+91
+00:11:08,799 --> 00:11:13,840
+They made him a lecturer at some sort of very marginal institution.
+
+92
+00:11:13,839 --> 00:11:18,960
+And he lectured on the relation of phenomenology and Gestalt psychology.
+
+93
+00:11:18,959 --> 00:11:20,800
+And guess who was in the audience?
+
+94
+00:11:20,799 --> 00:11:33,440
+Merleau-Ponty, who had not yet written the phenomenology of perception and couldn't possibly have written the phenomenology of perception without Gervich, and who gives Gervich credit in about three footnotes.
+
+95
+00:11:33,439 --> 00:11:43,840
+And Gervich finally came to the United States and taught at Brandeis and finally got the sort of recognition he deserved by becoming a famous professor at the new school.
+
+96
+00:11:43,839 --> 00:11:52,640
+But in the meantime, Merleau-Ponty had sort of taken over Gervich's view, understood it, explained it, and refuted it.
+
+97
+00:11:53,039 --> 00:11:56,959
+It was a little late for him to come on to the scene.
+
+98
+00:11:56,959 --> 00:12:00,320
+And when his books were published, nobody paid any attention.
+
+99
+00:12:00,319 --> 00:12:06,560
+And in a certain way, rightly so, Merleau-Ponty had seen further.
+
+100
+00:12:06,559 --> 00:12:08,159
+Oh, I guess I can tell you another sad thing.
+
+101
+00:12:08,159 --> 00:12:15,920
+Merleau-Ponty saw further because he read Heidegger, and because he saw that Heidegger saw what was wrong with Husserl.
+
+102
+00:12:15,919 --> 00:12:20,559
+And Gervich, because Heidegger was a Nazi and had driven Mr.
+
+103
+00:12:20,559 --> 00:12:20,880
+and Mrs.
+
+104
+00:12:20,880 --> 00:12:28,360
+Gervich and all their friends out of Germany, except for having killed many of them, just couldn't study Heidegger.
+
+105
+00:12:28,679 --> 00:12:34,120
+So he never made the move from Husserl to Heidegger that Merleoponty made.
+
+106
+00:12:34,120 --> 00:12:37,799
+And that made him, I think, irrelevant.
+
+107
+00:12:38,280 --> 00:12:41,960
+Anyway, all that, believe it or not, is happening here on 69.
+
+108
+00:12:43,159 --> 00:12:50,520
+So the middle paragraph is where he starts to talk about the Gestalt people.
+
+109
+00:12:50,520 --> 00:12:58,520
+And he's criticizing the Husserl-Gervich view that he heard through Gervich.
+
+110
+00:12:58,839 --> 00:13:00,280
+So let me just read that.
+
+111
+00:13:00,280 --> 00:13:05,320
+Psychological reflection, once begun, then outruns itself through its own momentum.
+
+112
+00:13:05,319 --> 00:13:15,000
+That's a thesis of Husserl's, that if you start with psychology and think it through consistently, you end up with his kind of transcendental phenomenology.
+
+113
+00:13:15,000 --> 00:13:18,360
+And that's the view that Gervich defended too.
+
+114
+00:13:18,360 --> 00:13:28,760
+Having recognized the originality of phenomena in relation to the objective world, that's the phenomenal field, the critique of the constancy hypothesis.
+
+115
+00:13:28,760 --> 00:13:45,079
+It's through that the objective world is known to us, it, that is, psychology, is led to integrate with them every possible object and try to find out how that object is constituted through them, them meaning the Gestalt phenomena.
+
+116
+00:13:45,079 --> 00:13:49,080
+At the same time, the phenomenal field becomes a transcendental field.
+
+117
+00:13:49,079 --> 00:13:56,520
+Since it is now the universal focus of knowledge, consciousness definitely ceases to be a particular region of being.
+
+118
+00:13:56,520 --> 00:13:59,159
+That's a very dangerous move.
+
+119
+00:13:59,159 --> 00:14:03,720
+What that means is, and what and I, when Gervich was at Brandeis, so was I.
+
+120
+00:14:03,720 --> 00:14:06,280
+So I used to have dinner with Gervich every week.
+
+121
+00:14:06,640 --> 00:14:26,560
+And the big Gervich move, this is why this is so important to me, whenever I would defend Heidegger, which was very upsetting to him, he would then say, and I would say, talk about, I would talk about, say, the body in Merlot-Ponty as this sort of unreflective, unconscious power we have to organize things and everything.
+
+122
+00:14:26,799 --> 00:14:32,159
+And he would say, yes, but you've got to also think about how we are conscious of the body.
+
+123
+00:14:32,159 --> 00:14:36,240
+That's the last question that a phenomenologist has to ask.
+
+124
+00:14:36,240 --> 00:14:37,680
+That's what's happening here.
+
+125
+00:14:37,839 --> 00:14:45,280
+The Husserl-Gervich way of doing things is to finally always ask, and how are we conscious of that?
+
+126
+00:14:45,600 --> 00:14:59,280
+And we, as this kind of conscious, transcendental ego, must be organizing all of this, given our mental machinery and what's given to our consciousness.
+
+127
+00:14:59,280 --> 00:15:03,520
+And it's that which Merlot-Ponty is questioning.
+
+128
+00:15:03,520 --> 00:15:05,520
+I mean, you can only see it later.
+
+129
+00:15:05,520 --> 00:15:10,880
+We'll get to it more when we get more to the body issues.
+
+130
+00:15:10,880 --> 00:15:20,000
+But the really interesting question that used to come up between me and Gervich all the time was: to what extent are we conscious of our body and how?
+
+131
+00:15:20,319 --> 00:15:23,680
+And to what extent must we not be conscious of our body?
+
+132
+00:15:23,679 --> 00:15:28,960
+Must it be completely transparent when we're coping in flow?
+
+133
+00:15:28,960 --> 00:15:33,600
+And then why do you think there, and what do you think is the consciousness of that?
+
+134
+00:15:33,599 --> 00:15:36,159
+And so this is what the issue is.
+
+135
+00:15:36,159 --> 00:15:37,600
+So let's go on.
+
+136
+00:15:37,599 --> 00:15:46,800
+Consciousness becomesn't a particular region of being anymore, a collection of mental content and so forth and so forth, skipping down.
+
+137
+00:15:47,439 --> 00:15:51,040
+It goes out of being confined within psychological reflection.
+
+138
+00:15:51,319 --> 00:16:01,640
+It can no longer be a question of describing the world of lived experience, which Niero Ponte likes, which it carries within itself like some opaque data.
+
+139
+00:16:01,640 --> 00:16:03,079
+It has to be constituted.
+
+140
+00:16:03,079 --> 00:16:03,479
+What?
+
+141
+00:16:03,480 --> 00:16:06,520
+That seems like I messed it up by leaving out something.
+
+142
+00:16:06,520 --> 00:16:07,880
+Let's try it again.
+
+143
+00:16:08,679 --> 00:16:11,480
+So we've got consciousness as a particular region.
+
+144
+00:16:11,480 --> 00:16:12,199
+I'll try that again.
+
+145
+00:16:12,199 --> 00:16:14,520
+A certain collection of mental contents.
+
+146
+00:16:14,839 --> 00:16:24,919
+It, consciousness, no longer resides or is no longer confined within the domain of forms, which the psychological reflection had recognized.
+
+147
+00:16:24,919 --> 00:16:26,440
+That's Gestalt.
+
+148
+00:16:26,439 --> 00:16:30,520
+But the forms, like all things, exist for it, consciousness.
+
+149
+00:16:31,079 --> 00:16:38,520
+I think it's consciousness, because back if you see consciousness defines so-and-so, then after the semicolon, it.
+
+150
+00:16:38,520 --> 00:16:41,720
+And it makes philosophical sense that way, I think.
+
+151
+00:16:41,720 --> 00:16:42,360
+Let's do it.
+
+152
+00:16:42,360 --> 00:16:44,520
+And if it doesn't, I'll retreat.
+
+153
+00:16:45,400 --> 00:16:48,600
+The reason why I did I didn't do the preview about it without the phenomenal field.
+
+154
+00:16:48,679 --> 00:16:50,760
+Yeah, well, let's see.
+
+155
+00:16:50,760 --> 00:16:51,320
+Where's that?
+
+156
+00:16:52,439 --> 00:16:54,520
+Let's go back to the semicolon.
+
+157
+00:16:55,879 --> 00:16:57,000
+I thought it was pretty clear.
+
+158
+00:16:57,000 --> 00:16:58,439
+That's why I'm surprised.
+
+159
+00:16:58,440 --> 00:17:00,680
+It's like all things exist for it.
+
+160
+00:17:00,680 --> 00:17:02,119
+Does anybody have a sense about that?
+
+161
+00:17:03,160 --> 00:17:05,480
+It looks like you've got a point.
+
+162
+00:17:09,319 --> 00:17:13,799
+Wait a minute, where now, since it, well, I still haven't found it.
+
+163
+00:17:13,799 --> 00:17:15,080
+There's the phenomenal field.
+
+164
+00:17:15,079 --> 00:17:19,799
+So since it is now the universal focus of knowledge, consciousness.
+
+165
+00:17:19,799 --> 00:17:27,480
+See, I think the consciousness, the it is one of these, it's a construction where the it refers ahead to consciousness, not back to the phenomenal field.
+
+166
+00:17:27,480 --> 00:17:27,960
+I think.
+
+167
+00:17:27,960 --> 00:17:28,600
+Let's try that.
+
+168
+00:17:28,599 --> 00:17:33,400
+Since it is now the universal focus of knowledge, consciousness definitely ceases to be.
+
+169
+00:17:33,399 --> 00:17:36,000
+Yeah, consciousness is the it, in that sense.
+
+170
+00:17:36,000 --> 00:17:37,280
+You see what I mean?
+
+171
+00:17:35,720 --> 00:17:39,680
+Okay, so I think it's there down there too.
+
+172
+00:17:39,920 --> 00:17:47,599
+Consciousness can no longer be a question of describing the world of living experience which it carries within itself, because I'm conscious of everything.
+
+173
+00:17:47,599 --> 00:17:49,520
+That's the Gurich idea.
+
+174
+00:17:50,399 --> 00:17:51,839
+Like some opaque data.
+
+175
+00:17:51,839 --> 00:17:54,880
+That is, it is inside of consciousness is everything.
+
+176
+00:17:54,879 --> 00:18:01,439
+Consciousness doesn't need to, well, hold on.
+
+177
+00:18:01,760 --> 00:18:03,919
+Well, I don't know what that means, like an opaque data.
+
+178
+00:18:04,079 --> 00:18:05,680
+I thought I could explain that, but I can't.
+
+179
+00:18:05,680 --> 00:18:07,359
+It has to be constituted.
+
+180
+00:18:07,359 --> 00:18:08,480
+What is that now?
+
+181
+00:18:10,319 --> 00:18:19,039
+It can no longer be a question of describing the world of that it is just a you know a prepositional it or something.
+
+182
+00:18:19,039 --> 00:18:24,720
+It can no longer be a question of describing the world of living experience, which it carries within itself.
+
+183
+00:18:24,720 --> 00:18:27,679
+That it is consciousness, transcendental consciousness.
+
+184
+00:18:27,680 --> 00:18:33,839
+Like some opaque data, it, now what is it, has to be constituted.
+
+185
+00:18:34,160 --> 00:18:36,320
+I think that's the transcendental field.
+
+186
+00:18:36,319 --> 00:18:45,119
+I think that's us spelling out everything that's inside of consciousness.
+
+187
+00:18:45,119 --> 00:18:47,679
+It can't just be an opaque datum.
+
+188
+00:18:47,680 --> 00:18:51,199
+It's all going, which would mean something I wasn't conscious of.
+
+189
+00:18:51,200 --> 00:19:03,280
+Everything in the con in everything is something that I experience, and therefore everything is something that I'm either directly or marginally conscious of, and phenomenology is going to spell that all out.
+
+190
+00:19:03,280 --> 00:19:04,559
+That's what this says.
+
+191
+00:19:04,559 --> 00:19:07,599
+Because you'll see in just a minute it's going to turn against that view.
+
+192
+00:19:07,599 --> 00:19:09,520
+But it sounds very plausible.
+
+193
+00:19:09,760 --> 00:19:10,640
+So let's see now.
+
+194
+00:19:10,639 --> 00:19:12,399
+Where are what world?
+
+195
+00:19:12,639 --> 00:19:16,079
+The process of making explicit, that's the constituting.
+
+196
+00:19:16,079 --> 00:19:24,839
+Making explicit all the stuff that we're conscious of, which had laid bare the lived-through world, which is prior to the objective one.
+
+197
+00:19:24,839 --> 00:19:26,920
+Well, that could be Gestalt's psychology, too.
+
+198
+00:19:26,920 --> 00:19:27,559
+Sorry.
+
+199
+00:19:27,799 --> 00:19:29,799
+That's probably Gestalt's eye cover.
+
+200
+00:19:30,599 --> 00:19:34,439
+That they laid bare the lived-through world prior to the objective one.
+
+201
+00:19:35,319 --> 00:19:42,359
+Now, that process, this is remember how psychology goes beyond itself, off the deep end, so to speak.
+
+202
+00:19:42,359 --> 00:19:47,159
+That process is put into operation upon the lived-through world itself.
+
+203
+00:19:47,160 --> 00:19:53,559
+That's the Gurbich kind of question, and how are you conscious of that as a phenomenon?
+
+204
+00:19:53,559 --> 00:19:59,639
+Whatever you say, whatever at dinner, no matter what it was repeating it or talking about it, it was always that question.
+
+205
+00:20:00,440 --> 00:20:08,280
+So now, it's upon the lived-through world itself, thus revealing prior to the phenomenal field, the transcendental field.
+
+206
+00:20:08,280 --> 00:20:08,919
+Voila.
+
+207
+00:20:08,920 --> 00:20:21,240
+The transcendental field is the constitutive making explicit of all the content of transcendental consciousness, and transcendental consciousness covers everything.
+
+208
+00:20:21,240 --> 00:20:25,719
+There's nothing that we can talk about that we aren't conscious of.
+
+209
+00:20:25,720 --> 00:20:28,039
+That's the move in here.
+
+210
+00:20:28,280 --> 00:20:36,359
+To say, well, we're going to talk about the way the body is invisible when we're in flow, the sort of sports view of the body.
+
+211
+00:20:37,000 --> 00:20:44,280
+Somehow, that leads these people, and I know it from experience, to say, well, we'll just have to figure out how we're consciousness of that.
+
+212
+00:20:44,280 --> 00:20:46,680
+Otherwise, how are you people going to talk about it?
+
+213
+00:20:46,680 --> 00:20:50,520
+Which just seems wrong, and that's what we're going to find out in a minute.
+
+214
+00:20:50,520 --> 00:21:01,319
+Okay, the system, self-other-world, is in its turn taken as an object of analysis and is now a matter of awakening the thoughts that constitute other people.
+
+215
+00:21:01,399 --> 00:21:22,559
+See, now we're way away from, well, Heidegger, those of you who know Heidegger and Merloponte, there's a kind of being with that you don't constitute in your own inner individual consciousness as if your consciousness preceded being with other consciousnesses, which is what Husserl thinks.
+
+216
+00:21:22,559 --> 00:21:32,719
+He wrote three big, fat volumes on inner subjectivity, trying to get from the world of inner ownness, as he would have called it, to the shared world.
+
+217
+00:21:32,720 --> 00:21:35,839
+And those, how many know Husserl?
+
+218
+00:21:35,920 --> 00:21:37,119
+Probably very few, but just curious.
+
+219
+00:21:37,280 --> 00:21:38,879
+Anybody know Husserl's stuff?
+
+220
+00:21:39,039 --> 00:21:40,400
+You had in some other?
+
+221
+00:21:40,399 --> 00:21:41,280
+How many know Sartre?
+
+222
+00:21:41,599 --> 00:21:42,720
+I'm wondering about that.
+
+223
+00:21:42,720 --> 00:21:43,280
+Neither.
+
+224
+00:21:43,280 --> 00:21:44,559
+Well, isn't that interesting?
+
+225
+00:21:44,559 --> 00:21:46,719
+Because Sartre is completely Husserian on this.
+
+226
+00:21:46,720 --> 00:22:06,559
+He spends a lot of trouble in being in nothingness, showing how, starting with what is obviously given me with my own stream of experience, transcendental consciousness, I could get to believing that there were other minds, giving meaning to the very idea of other minds.
+
+227
+00:22:06,559 --> 00:22:08,640
+It isn't an empirical question.
+
+228
+00:22:08,639 --> 00:22:14,799
+It's not like in Descartes, how do I know that there are other minds behind these coats or something like that?
+
+229
+00:22:14,799 --> 00:22:20,879
+It's how in the world I can even make sense of other minds, given everything I've got is always content of my mind.
+
+230
+00:22:20,879 --> 00:22:24,000
+And they have interesting ideas about this.
+
+231
+00:22:24,879 --> 00:22:25,599
+Empathy.
+
+232
+00:22:26,000 --> 00:22:26,880
+Oh, never mind.
+
+233
+00:22:26,879 --> 00:22:29,839
+Because they're all obviously wrong anyway, as far as I can remember.
+
+234
+00:22:30,559 --> 00:22:34,799
+Been completely convinced by Heidegger that we are being with from the start.
+
+235
+00:22:34,799 --> 00:22:37,280
+The baby is being with before it's even born.
+
+236
+00:22:37,280 --> 00:22:41,439
+Apparently, the fetus gets in sync with the mother's voice and so forth.
+
+237
+00:22:41,440 --> 00:22:43,039
+Now, so let's see.
+
+238
+00:22:43,039 --> 00:22:45,119
+So, how do we constitute other people?
+
+239
+00:22:45,119 --> 00:22:47,280
+Myself as individual subject.
+
+240
+00:22:47,280 --> 00:23:01,000
+See, myself as individual subject means sort of not transcendental ego, like Bert Dreyfus, somebody who has properties that you see and I see and disagree about what you think I am and what I think I am.
+
+241
+00:23:01,000 --> 00:23:10,520
+That's all constituted within this transcendental consciousness, which even isn't Burt Dreyfus yet, without me constituting you and having views of me.
+
+242
+00:23:10,520 --> 00:23:14,599
+And you can see why you could write three volumes about this fact on the subject.
+
+243
+00:23:15,319 --> 00:23:17,480
+That's a suspicious thing when you can do that.
+
+244
+00:23:17,480 --> 00:23:24,839
+Heidegger says that you could tell a good philosopher because he writes very short books and papers, and there's something to that, I think.
+
+245
+00:23:24,839 --> 00:23:27,000
+So, those are all tangled up in this.
+
+246
+00:23:27,319 --> 00:23:28,120
+Now, let's see.
+
+247
+00:23:28,119 --> 00:23:29,159
+So, where are we?
+
+248
+00:23:29,399 --> 00:23:35,400
+The subject thoughts and constitutes other people, myself, and the world is a whole of my perception.
+
+249
+00:23:35,399 --> 00:23:37,240
+That's what we want to do in Husserl.
+
+250
+00:23:37,240 --> 00:23:41,799
+This new reduction would then recognize only one true subject, the thinking ego.
+
+251
+00:23:41,799 --> 00:24:01,159
+This move from natura naturata to natura naturans, that means, and as he explains, from the constitutive to the constituting, they're constituting this wrong thing, would complete the phenotizing begun by psychology and would leave nothing implicit or tacitly accepted in my knowledge.
+
+252
+00:24:01,319 --> 00:24:10,839
+This is, by the way, a brilliant summary of Husserl's whole story about how you get from psychology necessarily to the transcendental reduction.
+
+253
+00:24:11,559 --> 00:24:15,799
+Would leave nothing implicit or tacitly accepted in my knowledge.
+
+254
+00:24:15,799 --> 00:24:29,480
+It would enable me to take complete possession of my experience, thus equating thinking and thought, such as the ordinary perception of a transcendental philosophy and also, to all appearances at least, the program of transcendental phenomenology.
+
+255
+00:24:31,000 --> 00:24:32,200
+Did I say something wrong?
+
+256
+00:24:34,599 --> 00:24:35,920
+The ordinary perspective.
+
+257
+00:24:35,920 --> 00:24:37,120
+Yeah, I misread.
+
+258
+00:24:35,639 --> 00:24:41,280
+You can't, I mean, stop me when I just don't see what's on the page.
+
+259
+00:24:41,599 --> 00:24:45,599
+Okay, so now another aside.
+
+260
+00:24:47,039 --> 00:24:51,119
+This intellectual background is something that's so interesting and important.
+
+261
+00:24:51,119 --> 00:25:21,680
+Merlot Conte, in the preface, which I didn't have you read because I think it's just all wrong, goes out of his way to claim that there is what he calls the existential phenomenology of the last period of Husserl's life in which he gave up transcendental phenomenology because he understood, after carefully looking at the phenomena, maybe reading, he did read Being and Time wise, that his approach was his transcendental subjectivity story was just wrong.
+
+262
+00:25:22,000 --> 00:25:27,039
+And I didn't ask you to read it because I think that's just wrong about Husserl.
+
+263
+00:25:27,039 --> 00:25:32,399
+He stayed a transcendental phenomenologist believing in transcendental subjectivity to the end.
+
+264
+00:25:32,399 --> 00:25:33,600
+And now what do you get?
+
+265
+00:25:33,599 --> 00:25:41,599
+A footnote, which is, he says that Husserl stayed transcendental phenomenology.
+
+266
+00:25:41,599 --> 00:25:48,719
+And then he says, it is set forth in those terms in most of Husserl's works, even in those published during his last period.
+
+267
+00:25:48,720 --> 00:25:51,599
+You look like, looks like the book is refuting the preface.
+
+268
+00:25:51,599 --> 00:25:53,520
+They're having an argument with each other.
+
+269
+00:25:53,520 --> 00:25:54,639
+Well, they are.
+
+270
+00:25:55,039 --> 00:25:56,879
+And this is a clever footnote.
+
+271
+00:25:56,879 --> 00:26:08,080
+This is to say, I realize that everything Husserl published was transcendental phenomenology, but I, that is Marillo-Ponty, have read the unpublished manuscripts in Luven, which he had, before anybody else.
+
+272
+00:26:08,079 --> 00:26:11,520
+And if you'd read them, you'd see that he'd really given up transcendental phenomenology.
+
+273
+00:26:11,839 --> 00:26:16,879
+So you have to understand even those published during his last period under a line.
+
+274
+00:26:17,039 --> 00:26:32,839
+So this is, and it turns out, as far as I understand it, I've never seen in reading the unpublished manuscripts, as I did once upon a time, anything that holds up to this claim that Husserl ever gave up transcendental phenomenology, published or unpublished.
+
+275
+00:26:33,160 --> 00:26:40,119
+And in the latest, well, and now it's about five years old, publication of Husserl's doc, they're still publishing Husserl papers.
+
+276
+00:26:40,119 --> 00:26:44,679
+He wrote, I forget, was it 5,000 or 50,000?
+
+277
+00:26:44,680 --> 00:26:51,319
+I think it's more like 50,000 shorthand pages in his lifetime of just constantly writing about the phenomena.
+
+278
+00:26:51,319 --> 00:26:55,480
+Anyway, they published his own sort of obituary.
+
+279
+00:26:55,480 --> 00:27:04,359
+That is what he wrote just before he died just for some, I don't know what, magazine or encyclopedia that wanted to know what he was famous for.
+
+280
+00:27:04,359 --> 00:27:09,480
+And he claimed he was famous for discovering the transcendental reduction in transcendental objectivity.
+
+281
+00:27:09,480 --> 00:27:13,399
+That was his sort of claim to being a great philosopher.
+
+282
+00:27:13,399 --> 00:27:17,639
+So it's unlikely that in the unpublished manuscripts he'd given it up.
+
+283
+00:27:17,639 --> 00:27:19,240
+That's just an aside.
+
+284
+00:27:19,240 --> 00:27:19,639
+Yeah.
+
+285
+00:27:19,639 --> 00:27:21,559
+Can you guys explain what transcendental means?
+
+286
+00:27:22,440 --> 00:27:22,760
+Okay.
+
+287
+00:27:23,160 --> 00:27:24,520
+What is transcendental psychology?
+
+288
+00:27:24,520 --> 00:27:25,799
+Where is transcendental phenomenology?
+
+289
+00:27:25,799 --> 00:27:26,919
+Where is the transcendental field?
+
+290
+00:27:27,160 --> 00:27:27,319
+Okay.
+
+291
+00:27:28,200 --> 00:27:29,400
+Good, good, good, good.
+
+292
+00:27:29,399 --> 00:27:31,960
+Transcendental always goes back to Kant.
+
+293
+00:27:31,960 --> 00:27:37,480
+Transcendental always means the condition of the possibility of experience.
+
+294
+00:27:37,480 --> 00:27:42,760
+Or really, I think in Kant anyway, the condition of the possibility of objective experience.
+
+295
+00:27:42,760 --> 00:27:50,600
+I think that won't be, you have to leave out the objective because Husserl's interested in inner experience too, and oh boy.
+
+296
+00:27:50,599 --> 00:27:54,599
+But that's what is what his transcendental means.
+
+297
+00:27:54,599 --> 00:27:59,159
+But now there are two different people trying to claim transcendental.
+
+298
+00:27:59,160 --> 00:28:24,639
+When Husserl says transcendental, he means not only do I look for the conditions of possibility of objective experience, but I look for them in the conscious experiences of a ego, and it's a transcendental ego because its experiences have in them the resources that make it possible for there to be experience of objects.
+
+299
+00:28:24,639 --> 00:28:45,280
+And that and what Mero-Ponty is going to do by the end of this little section is take over transcendental because he's going to say, well, for me too, transcendental means the condition of the possibility of the experience of objects, but I'm not a transcendental Hussarian because I don't believe in the transcendental subject.
+
+300
+00:28:45,280 --> 00:29:05,760
+I don't believe that I am a completely lucid or lucid lucidable, I don't know what the right word is, sort of explicable subject in whose experience all the possibilities of objective experience are contained.
+
+301
+00:29:06,079 --> 00:29:26,319
+Not every fact, like how many bothams are on those orange trees, but that all the general characteristics of all the kinds of objects that there are you could find out are by introspecting, or that's I don't like that word, by reflecting on the structure of transcendental consciousness and its content.
+
+302
+00:29:26,319 --> 00:29:36,799
+Now, so when Mero-Ponty says transcendental, he's going to say, yeah, I'm interested in the conditions of the possibility of all objectivity, including the universe.
+
+303
+00:29:36,799 --> 00:29:43,119
+That's why he turns out to be an idealist, because all of that comes back to the field of experience.
+
+304
+00:29:43,119 --> 00:29:53,000
+And it's a transcendental field of experience because it makes possible all experience of objects, galaxies, and electrons and everything, which in a certain sense is why.
+
+305
+00:29:51,119 --> 00:29:55,639
+It makes possible all experience of objects.
+
+306
+00:29:55,960 --> 00:30:11,319
+But it, and I don't know how to put this exactly, but I'm going to read this stuff in a minute, but it's never going to be clear about itself, and it couldn't possibly know itself except through the objects that it is engaged with.
+
+307
+00:30:11,319 --> 00:30:12,360
+What's the it?
+
+308
+00:30:12,359 --> 00:30:13,240
+Ah, it.
+
+309
+00:30:14,039 --> 00:30:16,760
+The well, that's a good question.
+
+310
+00:30:16,760 --> 00:30:53,960
+The transcendental philosopher like Merlot Conte can describe the perceptual world, and in that world will be an ego with experiences, but the idea that there is an ego with experiences which is the source of it all and completely clear to itself, that you could perform the reduction to talk like leave out the world, study the conscious experience of a thing separate from the world, the transcendental ego.
+
+311
+00:30:53,960 --> 00:30:54,920
+You can't do that.
+
+312
+00:30:55,399 --> 00:30:56,680
+Merlot-Conte.
+
+313
+00:30:56,680 --> 00:31:07,399
+The phenomenal field, which is me in the world and all you in the world together, is the condition of the possibility of all objective experiences.
+
+314
+00:31:07,720 --> 00:31:08,839
+Does that help any?
+
+315
+00:31:08,839 --> 00:31:10,359
+I mean, that's really what's the issue here.
+
+316
+00:31:11,399 --> 00:31:11,559
+Yes.
+
+317
+00:31:11,720 --> 00:31:13,000
+And my own question, which I think.
+
+318
+00:31:13,399 --> 00:31:14,359
+Well, let me try that.
+
+319
+00:31:14,359 --> 00:31:16,920
+The phenomenal field is what everybody agrees on.
+
+320
+00:31:16,920 --> 00:31:19,240
+That's what Viggestalta got to.
+
+321
+00:31:19,240 --> 00:31:23,319
+That's just the field of perceptual experience.
+
+322
+00:31:23,319 --> 00:31:26,760
+That's the perceptual world, I think it's safe to say.
+
+323
+00:31:26,760 --> 00:31:32,760
+Now, that comes out of transcendental field in two different ways.
+
+324
+00:31:32,760 --> 00:31:52,959
+One of them is that's uh the that gets understood as the conscious experience of a self-sufficient subject who is the source of all objectivity and all order.
+
+325
+00:31:52,960 --> 00:31:54,480
+That's Husserl.
+
+326
+00:31:54,480 --> 00:32:07,839
+The other one is the perceptual field, the the phenomenological field, gets understood as itself is what's self-sufficient.
+
+327
+00:32:07,839 --> 00:32:16,000
+And objects and subjects are sort of precipitate out of it for uh uh in it because of its structure.
+
+328
+00:32:17,039 --> 00:32:35,199
+When we we meaning empirical people like us do phenomenology and explain its structure, we do a kind of well now I think you wouldn't want to call it transcendental phenomenology because that's Husserl copyright data.
+
+329
+00:32:35,200 --> 00:32:45,919
+We do a kind of transcendental existential phenomenology because we and this is the crucial term I'm going to get there in a minute we have to describe the world from within it.
+
+330
+00:32:45,920 --> 00:32:47,439
+We can't bracket it.
+
+331
+00:32:47,440 --> 00:32:51,119
+We're not self-sufficient transcendental subjects.
+
+332
+00:32:51,119 --> 00:33:00,319
+It's only that we will describe as far as we can and make explicit as we can the world that we're in.
+
+333
+00:33:00,319 --> 00:33:05,760
+But we'll never be able to describe it all, make it explicit all, even become conscious of it all.
+
+334
+00:33:05,760 --> 00:33:08,880
+That's the Merleau-Ponty idea.
+
+335
+00:33:09,520 --> 00:33:11,080
+Well, let's let's go.
+
+336
+00:33:11,079 --> 00:33:12,159
+Okay, good, good.
+
+337
+00:33:12,160 --> 00:33:12,479
+Okay.
+
+338
+00:33:13,119 --> 00:33:13,439
+Yeah.
+
+339
+00:33:14,720 --> 00:33:21,039
+His his argument is, and now we're going on page 70, we turn into straight Heidegger.
+
+340
+00:33:23,559 --> 00:33:33,000
+And his argument is, if you stick to the phenomena, I'll say it first, you discover that there's a kind of facticity, that you can never get behind your throwness.
+
+341
+00:33:33,000 --> 00:33:53,319
+These are Heidegger slogans, that consciousness can never get clear about itself, that I can never get clear about my history, that I'm always doing all this phenomenology from a perspective which I have inherited from my culture and my family and my history, a perspective I can never get clear about because I'm already in it.
+
+342
+00:33:54,599 --> 00:33:58,359
+You can get clear about those limits, yes, but you can't get how.
+
+343
+00:33:58,839 --> 00:33:59,399
+Why not?
+
+344
+00:33:59,399 --> 00:34:01,479
+I mean, if I say, why not?
+
+345
+00:34:03,560 --> 00:34:05,319
+Because that's part of the phenomenon.
+
+346
+00:34:05,319 --> 00:34:13,240
+Because once you see, you see that you are, you're colored by your culture, your language, your history, how do you get clear about that?
+
+347
+00:34:13,240 --> 00:34:15,240
+By looking at how you look at things.
+
+348
+00:34:15,240 --> 00:34:16,200
+And doing what?
+
+349
+00:34:16,359 --> 00:34:30,839
+Because to take a slogan which isn't going to solve anything, we do the, we, that's on page 74 of the punchline, by doing the phenomena of the phenomenon, we transform the phenomenal field into a transcendental one.
+
+350
+00:34:30,839 --> 00:34:42,199
+That the last line is, when we describe our experience, that's at the end of that section, the end of the phenomena, the phenomenal field section.
+
+351
+00:34:42,519 --> 00:34:56,280
+When we describe our experience, we discover that we can't find out our motives, that we can't get behind our thrownness, we can't find a perspective on everything outside of the history and the culture and the language.
+
+352
+00:34:56,280 --> 00:35:06,639
+And we we just do, I mean if we we do phenomenology, we come out of existential phenomenologists, if you if you describe what the the field of experience is really like.
+
+353
+00:35:06,799 --> 00:35:20,880
+It's full of ambiguity, opacity, and and not of an accidental sort, because you're never going to be able to get out of your another slogan, sinitude, which it looks like Usero thinks he's doing.
+
+354
+00:35:20,959 --> 00:35:25,119
+Looks like Userl thinks he's describing this from nowhere.
+
+355
+00:35:25,120 --> 00:35:31,600
+He describes the history of the West, but he describes the history of the West from his own transcendental point of view.
+
+356
+00:35:31,600 --> 00:35:37,200
+It doesn't occur to him that that's part of the history of the West and a very bad part, a Cartesian part.
+
+357
+00:35:37,200 --> 00:35:40,479
+Okay, this is what's happening with 70.
+
+358
+00:35:40,799 --> 00:35:42,240
+How many have had Heidegger now?
+
+359
+00:35:42,240 --> 00:35:43,520
+Lots of you, I hope.
+
+360
+00:35:43,519 --> 00:35:48,720
+Okay, because it's all of a sudden you will get a switch to Heidegger.
+
+361
+00:35:48,720 --> 00:36:00,560
+Now, where we are, note 12, where he sort of bakes off is whether Usero ever gave up this kind of extreme transcendental phenomenology.
+
+362
+00:36:00,560 --> 00:36:05,679
+He switches to his view, which is pure Heidegger view.
+
+363
+00:36:05,680 --> 00:36:16,880
+Now the phenomenal field, as we have revealed it in this chapter, now we're on Merlot-Ponty, places a fundamental difficulty in the way of any attempt to make experience directly and totally explicit.
+
+364
+00:36:16,879 --> 00:36:19,120
+That's what he thinks Usero is up to.
+
+365
+00:36:19,120 --> 00:36:37,680
+And one of the reasons is that this, I'm not sure why this is a reason, but he says it's one of the ways to see it is that the Gestaltists recognized that there was no way to make explicit why some Gestalts are better than others.
+
+366
+00:36:37,680 --> 00:36:43,120
+I'll read it because I think it's an important thing to him, but I don't really understand it as the interesting argument.
+
+367
+00:36:43,120 --> 00:36:44,079
+This isn't Heidegger.
+
+368
+00:36:44,080 --> 00:36:46,559
+That's why it's not quite right, I think.
+
+369
+00:36:46,560 --> 00:36:51,280
+It gets to be Heidegger on page 71, and then it gets to be really got its feet on the ground.
+
+370
+00:36:51,720 --> 00:37:00,919
+But he says that although the Gestalt may be expressible in terms of some internal law, this law must not be considered as a model in which the phenomena of structure are built.
+
+371
+00:37:01,720 --> 00:37:05,879
+Their appearance is not the external unfolding of preexisting reasons.
+
+372
+00:37:06,600 --> 00:37:09,799
+He thinks that there's some pre-existing reason.
+
+373
+00:37:09,799 --> 00:37:11,160
+I don't know why he thinks that.
+
+374
+00:37:11,319 --> 00:37:12,359
+No, I think he's for them.
+
+375
+00:37:12,359 --> 00:37:13,399
+Well, let's read it further.
+
+376
+00:37:14,439 --> 00:37:16,600
+I think that, does he think they got it right?
+
+377
+00:37:16,600 --> 00:37:22,520
+It's not because the form produces a certain state of equilibrium, solving a problem of maximum coherence.
+
+378
+00:37:23,560 --> 00:37:24,599
+You're right, you're right.
+
+379
+00:37:25,080 --> 00:37:28,999
+He agrees with the Gestaltas and Gestaltists, but he's disagreeing with their metaphysics.
+
+380
+00:37:29,080 --> 00:37:31,079
+Yes, that's the way to put it.
+
+381
+00:37:31,240 --> 00:37:32,200
+Let's put it very clearly.
+
+382
+00:37:32,200 --> 00:37:43,720
+The Gestaltists, when they describe it, don't try to find in experience why this is considered a good form and this is considered equilibrium and that isn't.
+
+383
+00:37:43,720 --> 00:37:45,240
+They're just describing it.
+
+384
+00:37:45,479 --> 00:37:47,160
+But that's good.
+
+385
+00:37:47,160 --> 00:38:10,839
+Then they've got a metaphysics, a funny kind of metaphysics, which he thinks is just quite wrong, which is to say, but of course the reason why, let's say this figure looks balanced and this figure doesn't look balanced, is because the brain representation of these two figures, one of them is solving a problem of least energy better than the other.
+
+386
+00:38:10,839 --> 00:38:12,519
+Their model is sort of a soap bubble.
+
+387
+00:38:12,519 --> 00:38:17,720
+A soap bubble manages to get round by getting to the least energy.
+
+388
+00:38:17,720 --> 00:38:25,960
+If you get all your particles distributed, if you're a soap bubble, so that there's the least energy required, you turn out to be round.
+
+389
+00:38:25,959 --> 00:38:38,080
+And their model is that there is some kind of ephemero-Ponty sort of mythos, an economy of energy, which explains the Defeld norms.
+
+390
+00:38:36,120 --> 00:38:41,439
+And he thinks there is no economy of energy to explain it.
+
+391
+00:38:41,600 --> 00:38:46,799
+You can't just turn to the brain and to principles of least energy to explain it.
+
+392
+00:38:46,799 --> 00:38:48,959
+That's what he's talking about here.
+
+393
+00:38:49,760 --> 00:38:59,839
+And so he's saying it's not because the form produces a certain state of equilibrium, solves a problem of maximum coherence, and the Kantian sense makes the world possible, and so forth and so forth.
+
+394
+00:38:59,839 --> 00:39:05,039
+I don't think he's going to talk about the economic thing here, of the energy story.
+
+395
+00:39:05,040 --> 00:39:11,120
+It is the very appearance of the world and not the condition of its possibility, the birth of a norm and not realized according to a norm.
+
+396
+00:39:11,120 --> 00:39:14,400
+That's pointing toward the energy story.
+
+397
+00:39:14,399 --> 00:39:19,759
+It is the identity of the external and the internal and not the projection of the internal in the external.
+
+398
+00:39:19,760 --> 00:39:22,560
+I don't know why he puts it that way.
+
+399
+00:39:22,560 --> 00:39:24,079
+Anyway, we can talk more about that.
+
+400
+00:39:24,160 --> 00:39:25,200
+Does that surprise you?
+
+401
+00:39:25,200 --> 00:39:25,439
+I mean.
+
+402
+00:39:25,919 --> 00:39:26,319
+No.
+
+403
+00:39:27,439 --> 00:39:38,160
+Well, I mean, I feel that last part he's the saying that the GitHub psychologists are making is mistake that there's a phenomenal world and the objective one, and that kind of the phenomenal one is kind of built out.
+
+404
+00:39:38,399 --> 00:39:48,560
+Yes, and grounded in the principles of De Spell psychology have to be found in the physical world in the least energy story, and they're looking for it in the brain.
+
+405
+00:39:48,560 --> 00:39:53,760
+And he thinks, and most people think that because they failed to find it, they were discredited.
+
+406
+00:39:53,760 --> 00:39:57,760
+Now, Merlot-Ponty thinks because they were looking for it, they should have been discredited.
+
+407
+00:39:57,760 --> 00:40:02,000
+I mean, it was the wrong question to be asking, he thinks.
+
+408
+00:40:01,999 --> 00:40:02,640
+Okay.
+
+409
+00:40:03,839 --> 00:40:06,640
+Now comes Heidegger, starting at the bottom 70.
+
+410
+00:40:06,640 --> 00:40:14,160
+If a universal constituting consciousness were possible, that's Husserl, the opacity of the fact would disappear.
+
+411
+00:40:14,160 --> 00:40:40,520
+Yet then we want reflection to maintain in the object, maintain, in the object on which it bears, its descriptive characteristics, this is sort of talking to Rick, and then if he's going to say now we've got sort of description on our side, its descriptive characteristics, and thoroughly to understand that object, we must not consider it a mere return to a universal reason and see it as anticipated in unreflective experience.
+
+412
+00:40:40,519 --> 00:40:47,879
+We must regard it as a creative operation which itself participates in the facticity of that experience.
+
+413
+00:40:47,879 --> 00:40:53,239
+Well, that is pretty opaque, but that's you, that's just, I'm glad I prepared you for it, I think.
+
+414
+00:40:53,240 --> 00:40:59,240
+To participate in the facticity of the experience means you can't stand outside and get it all clear.
+
+415
+00:40:59,640 --> 00:41:02,999
+You're in it, and you will not get it clear.
+
+416
+00:41:02,999 --> 00:41:05,559
+And then you can make a whole list of ways you can't get it clear.
+
+417
+00:41:05,560 --> 00:41:10,520
+Let me just say one more thing before you say things, because I want to finish this sentence, or the next sentence.
+
+418
+00:41:10,839 --> 00:41:16,519
+That is why phenomenology alone of all philosophies talks about a transcendental field.
+
+419
+00:41:16,519 --> 00:41:18,280
+Now, that's very important.
+
+420
+00:41:18,280 --> 00:41:21,160
+That's how to distinguish him from Husserl.
+
+421
+00:41:21,160 --> 00:41:41,160
+Husserl talks about a transcendental ego, which is this metaphysical consciousness in which everything is implicitly clarifiable, even though it's not all clear, because it's a universal, what Husserl says, an infinite task to do the job.
+
+422
+00:41:41,160 --> 00:41:47,480
+But it's nothing, nothing short, there's nothing there that couldn't be made clear and explicit.
+
+423
+00:41:47,479 --> 00:42:11,440
+And the transcendental field talk, according to Merlot Ponty, means that you understand that it's the perceptual field that's going to be the condition of the possibility of experiencing objects in general, Kant, but it's not going to be something that is a self-contained sort of race cogitans for itself entity.
+
+424
+00:42:06,200 --> 00:42:13,039
+The transcendental field is this.
+
+425
+00:42:13,200 --> 00:42:14,960
+It's the perceptual world.
+
+426
+00:42:14,959 --> 00:42:18,799
+That's the condition of the possibility of objects in general.
+
+427
+00:42:18,799 --> 00:42:24,319
+And that's the big distinction, which I think I sort of made clear, I hope.
+
+428
+00:42:24,319 --> 00:42:25,200
+Go ahead.
+
+429
+00:42:25,359 --> 00:42:29,599
+The opaque datum from 67 comes back again in 71.
+
+430
+00:42:29,600 --> 00:42:29,999
+Yes.
+
+431
+00:42:29,999 --> 00:42:31,280
+So I'm kind of curious.
+
+432
+00:42:31,280 --> 00:42:37,120
+So is the opaque datum just a quite version of the dead impression he talks about at the beginning?
+
+433
+00:42:37,439 --> 00:42:40,799
+In contrast to the living impression used by the romantics, which you heard?
+
+434
+00:42:41,040 --> 00:42:41,759
+I don't know.
+
+435
+00:42:41,760 --> 00:42:43,280
+Where does it come back?
+
+436
+00:42:43,439 --> 00:42:46,799
+Well, Ross, we only talked about the opacity of the fact that disappears.
+
+437
+00:42:46,799 --> 00:42:49,200
+The opacity of the fact that the opaque data?
+
+438
+00:42:49,280 --> 00:42:50,240
+No, I don't think so.
+
+439
+00:42:50,240 --> 00:42:51,679
+That's why I got puzzled.
+
+440
+00:42:51,680 --> 00:42:59,839
+I think I don't know the opaque datum is something what if the phenomenologists have to deal with and do.
+
+441
+00:43:00,080 --> 00:43:01,680
+Where's the first dimension of it?
+
+442
+00:43:01,760 --> 00:43:03,839
+I said I don't know what it means.
+
+443
+00:43:04,479 --> 00:43:05,519
+Now we have to find the reason.
+
+444
+00:43:07,760 --> 00:43:08,559
+You got it?
+
+445
+00:43:09,519 --> 00:43:10,559
+But in 69.
+
+446
+00:43:10,560 --> 00:43:11,839
+Oh, button 69?
+
+447
+00:43:11,919 --> 00:43:12,959
+It can no longer be a question.
+
+448
+00:43:13,359 --> 00:43:14,639
+Is no longer, I see.
+
+449
+00:43:14,879 --> 00:43:21,999
+It can no longer be a question describing the world of living experience, which it carries within itself, like some opaque data.
+
+450
+00:43:22,319 --> 00:43:43,919
+No, it's, I don't know what it means, Joe, but that's meant to be a criticism of the transcendental ego of Husserl that he's got in it all this unexplicated experience which you could make explicit.
+
+451
+00:43:43,919 --> 00:43:48,799
+That's why I don't know why, I mean, why would he call that an op opaque datum?
+
+452
+00:43:48,799 --> 00:43:50,479
+It has to be constituted.
+
+453
+00:43:50,479 --> 00:43:52,520
+That means made explicit.
+
+454
+00:43:52,519 --> 00:43:54,839
+The process of making explicit.
+
+455
+00:43:54,839 --> 00:43:56,999
+Opaque, I wonder what it is in French.
+
+456
+00:43:51,200 --> 00:43:58,439
+I don't have time to look right now.
+
+457
+00:43:58,680 --> 00:44:00,519
+I mean, probably it says opaque.
+
+458
+00:44:00,519 --> 00:44:09,399
+But opaque there clearly means implicit, not yet fully clarified from the point of view of the Husserl people.
+
+459
+00:44:09,399 --> 00:44:14,119
+Because everything could be made explicit and clarified if you had a lot of people working on it.
+
+460
+00:44:14,120 --> 00:44:17,160
+Husserl thought he was starting a big research program.
+
+461
+00:44:17,160 --> 00:44:23,960
+And if you had infinite time, because he thought it was going to take a huge amount to clarify everything.
+
+462
+00:44:24,760 --> 00:44:30,039
+So it's an opaque datum meaning something that needs to be clarified and can be clarified.
+
+463
+00:44:30,040 --> 00:44:30,359
+Yeah.
+
+464
+00:44:30,359 --> 00:44:31,720
+I understood something different, Green.
+
+465
+00:44:32,680 --> 00:44:39,880
+We talked about how the parts of the digital arouse expectations beyond them, and that's how they have a meaning.
+
+466
+00:44:40,519 --> 00:44:45,639
+I thought in that sense that the impressions were transparent, that they showed you something beyond them.
+
+467
+00:44:45,640 --> 00:44:49,720
+And I know the dead impression would be an opaque impression because it didn't show you anything beyond it.
+
+468
+00:44:49,720 --> 00:44:50,119
+Good.
+
+469
+00:44:50,120 --> 00:44:51,240
+I think that's another meaning.
+
+470
+00:44:51,240 --> 00:44:56,999
+I think back in the sensation chapter, where they were talking about impressions, they are opaque.
+
+471
+00:44:56,999 --> 00:44:58,519
+They don't have intentionality.
+
+472
+00:44:58,519 --> 00:45:01,240
+They just sort of sit there and they're useless.
+
+473
+00:45:01,240 --> 00:45:06,520
+They're like all the criticism of the limit that they give in these days without any meaning.
+
+474
+00:45:06,519 --> 00:45:09,640
+How could you ever get any knowledge out of them?
+
+475
+00:45:09,640 --> 00:45:10,760
+That's one opaque.
+
+476
+00:45:10,760 --> 00:45:22,440
+I think this is an entirely different opaque because it's in the context of, just as we saw, sort of it goes right on to say that this opaque stuff is what should be made explicit.
+
+477
+00:45:23,160 --> 00:45:28,040
+And now, you tell me there's an opaque maybe on 71 that will class me right on this?
+
+478
+00:45:28,040 --> 00:45:30,119
+Because there'd be a third meaning of opaque.
+
+479
+00:45:30,120 --> 00:45:34,680
+Boy, talk about meanings of, you know, of constitution and so forth.
+
+480
+00:45:34,680 --> 00:45:37,519
+As I understand it, the sensations are opaque.
+
+481
+00:45:37,600 --> 00:45:39,120
+They don't have any meaning.
+
+482
+00:45:39,120 --> 00:45:46,240
+The content of transcendental consciousness in Husserl is opaque because it hasn't yet been clarified.
+
+483
+00:45:46,240 --> 00:46:00,240
+It's opaque relative to how you would spell it out if you could describe everything inside of our experience as experienced without having to talk about the things, just the experience of the thing.
+
+484
+00:46:00,240 --> 00:46:01,680
+Now, what's the third opaque?
+
+485
+00:46:01,680 --> 00:46:03,680
+That's Heidegger facticity.
+
+486
+00:46:03,680 --> 00:46:14,319
+That's you can't get behind your throwiness, you don't know what your motives really are, you don't know what your history is making you see that you think is just out there and is really part of your perspective and blah, blah, blah.
+
+487
+00:46:14,319 --> 00:46:20,079
+That's opaque in the neat sense, the strong sentence, that you can't clarify it.
+
+488
+00:46:20,080 --> 00:46:20,879
+It's funny.
+
+489
+00:46:20,879 --> 00:46:21,999
+I'm glad you brought it up.
+
+490
+00:46:21,999 --> 00:46:23,679
+I think it's really kind of amusing.
+
+491
+00:46:23,680 --> 00:46:27,280
+Opaque to Husserl means not yet clarified.
+
+492
+00:46:27,280 --> 00:46:30,720
+And opaque to Heidegger means not clarifiable.
+
+493
+00:46:30,720 --> 00:46:33,920
+And neither one of them are talking about sensations.
+
+494
+00:46:33,919 --> 00:46:35,520
+That's my guess.
+
+495
+00:46:35,839 --> 00:46:37,359
+So back to where we were.
+
+496
+00:46:37,359 --> 00:46:41,280
+We're almost done with this, but it's so condensed.
+
+497
+00:46:41,280 --> 00:46:42,399
+I've got to see where I am.
+
+498
+00:46:42,399 --> 00:46:44,799
+I left behind my notes long ago.
+
+499
+00:46:44,959 --> 00:46:45,759
+Okay.
+
+500
+00:46:46,640 --> 00:46:47,200
+Oh, good.
+
+501
+00:46:47,200 --> 00:46:49,920
+Where are the transcendental feelings and vitalities?
+
+502
+00:46:50,560 --> 00:46:51,680
+I don't see it anymore.
+
+503
+00:46:51,680 --> 00:46:52,160
+It's gone.
+
+504
+00:46:53,519 --> 00:46:55,119
+Oh, yeah, got it on 71.
+
+505
+00:46:55,120 --> 00:46:57,120
+Okay, I'm catching up with where I am.
+
+506
+00:46:57,120 --> 00:46:58,640
+You just turn to Heidegger.
+
+507
+00:46:58,640 --> 00:47:00,079
+Yeah, that's what it says in my notes.
+
+508
+00:47:00,080 --> 00:47:00,640
+Okay.
+
+509
+00:47:00,640 --> 00:47:03,359
+The world indicates that reflection never holds.
+
+510
+00:47:03,359 --> 00:47:16,319
+Now this is Heidegger versus Husserl, on what you find out when you try to do your rigorous description of the phenomena.
+
+511
+00:47:16,319 --> 00:47:23,560
+And Heidegger's going to say, Husserl is bringing in all kinds of Cartesian baggage and assumption that keeps him from seeing what's really there.
+
+512
+00:47:23,879 --> 00:47:35,080
+The world indicates that reflection, this word, the field, indicates that reflection never holds arrayed and objectified before its gaze the whole world with a plurality of monads.
+
+513
+00:47:35,240 --> 00:47:49,879
+Husserl took over from Heidegger the idea that each of us was a monad, a self-contained transcendental, well, he didn't write it and say transcendental, a self-contained consciousness, a self-contained stream of experience.
+
+514
+00:47:49,959 --> 00:47:53,799
+That its view is never other than partial and of limited power.
+
+515
+00:47:53,799 --> 00:47:55,240
+That's Heidegger.
+
+516
+00:47:55,399 --> 00:48:03,319
+You can't have the world laid out in front of you, even as a limit of your hard work, even as an infinite task.
+
+517
+00:48:03,319 --> 00:48:05,480
+It just isn't the way it's structured.
+
+518
+00:48:05,479 --> 00:48:12,600
+It is also why phenomenology is phenomenology, that's also why phenomenology is phenomenology.
+
+519
+00:48:12,600 --> 00:48:20,120
+That is, a study of the advent of being to consciousness instead of presuming its possibility as given in advance.
+
+520
+00:48:20,120 --> 00:48:21,720
+Well, that's, you know what that is.
+
+521
+00:48:21,720 --> 00:48:26,839
+That's the same mysterious remark as he's going to study, where was that?
+
+522
+00:48:26,839 --> 00:48:34,280
+The at the bottom of 65, the upsurge of reason in a world not of its making.
+
+523
+00:48:34,280 --> 00:49:01,319
+I never fully understand that way of talking, but it's certainly got to do with the idea that order in our experience isn't something that you can presuppose is already there in an objective world, but the question is how our experience organizes itself so as to be rational and ordered.
+
+524
+00:49:02,200 --> 00:49:04,679
+That's something he thinks is perfectly fine to discuss.
+
+525
+00:49:04,680 --> 00:49:07,839
+That's what he's going to go on to discuss in the next few pages.
+
+526
+00:49:09,680 --> 00:49:24,080
+You can't say our experience or it gets, we discover that our experience is ordered because, one, there's already order in our transcendental ego, or that it's ordered because there's already a completely ordered universe out there.
+
+527
+00:49:24,080 --> 00:49:26,560
+There's nothing to get behind.
+
+528
+00:49:26,879 --> 00:49:33,680
+But there's just the world of experience, and the world of experience does come into more and more order.
+
+529
+00:49:34,720 --> 00:49:42,560
+Each of us gets a more maximal grip on things, and I guess the whole culture probably gets a more maximal grip on things.
+
+530
+00:49:42,879 --> 00:49:48,240
+It's not as if we're ever going to converge on the whole grip on things.
+
+531
+00:49:48,240 --> 00:49:51,119
+That's an inevitable illusion.
+
+532
+00:49:51,120 --> 00:49:52,639
+I'm getting ahead of the story again.
+
+533
+00:49:52,640 --> 00:49:54,399
+That's the crypto mechanism.
+
+534
+00:49:54,640 --> 00:50:02,160
+I think because you can get more and more order, you can finally get total order, which shows you the total order was there all along.
+
+535
+00:50:02,160 --> 00:50:05,439
+That's a series of mismoves.
+
+536
+00:50:05,439 --> 00:50:06,719
+I think I wrote five.
+
+537
+00:50:07,200 --> 00:50:09,200
+I'm going to get there today for sure.
+
+538
+00:50:10,720 --> 00:50:19,919
+How many missed moves you have to make to get the crypto mechanism mistake, and then one more missed move you get if you go on to idealism.
+
+539
+00:50:19,919 --> 00:50:22,240
+All happening in these pages.
+
+540
+00:50:22,240 --> 00:50:24,720
+Okay, so there comes a lot more Heidegger.
+
+541
+00:50:25,359 --> 00:50:32,560
+Again, starting in the middle of the page, reflection can never make me stop seeing the sun 200 yards away on a misty day.
+
+542
+00:50:32,560 --> 00:50:34,319
+I don't know if Husserl said it would.
+
+543
+00:50:34,319 --> 00:50:35,200
+I don't think so.
+
+544
+00:50:35,519 --> 00:50:44,240
+He's getting carried away with the non non-determinate, non-rational order of the phenomenal world.
+
+545
+00:50:44,240 --> 00:50:47,360
+It's got illusions in it that you can't get rid of.
+
+546
+00:50:47,359 --> 00:50:55,640
+Maybe he thinks Husserl is the kind of intellectualist who thinks that if you could really get clear enough about the moon and then perception, the moon illusion would go away.
+
+547
+00:50:51,200 --> 00:51:00,200
+He probably thinks that Husserl thinks that, but I don't know I doubt if he does.
+
+548
+00:51:00,519 --> 00:51:10,440
+But I think he thinks that Husserl doesn't appreciate the way the perceptual world has illusions and hallucinations just in it, and you're not going to get rid of them.
+
+549
+00:51:10,439 --> 00:51:25,960
+Like, you're not going to get rid, you can't see the sun as you can't see the sunset as an earth rise, no matter how much you believe, no matter how much rationality there is, thanks to Copernicus and Galileo and all that, in seeing it as an earth rise.
+
+550
+00:51:25,959 --> 00:51:28,519
+Our phenomenal world just doesn't work like that.
+
+551
+00:51:28,519 --> 00:51:30,839
+That's part of the facticity of it.
+
+552
+00:51:30,839 --> 00:51:35,080
+The body and the visual system just isn't rational.
+
+553
+00:51:35,080 --> 00:51:37,000
+That's maybe a clear way to put it.
+
+554
+00:51:36,999 --> 00:51:45,319
+And he thinks that Husserl thinks that finally the body and the visual system will be shown to be rational.
+
+555
+00:51:45,640 --> 00:51:49,399
+I mean, he attributes the Husserl views even crazier than I attribute to Husserl.
+
+556
+00:51:49,959 --> 00:51:51,480
+So I can't do much with that.
+
+557
+00:51:51,479 --> 00:51:52,599
+He's not attributing anything.
+
+558
+00:51:53,399 --> 00:51:54,519
+Oh, of course he is.
+
+559
+00:51:55,799 --> 00:51:56,439
+Well, not directly.
+
+560
+00:51:59,640 --> 00:52:00,679
+I doubt it.
+
+561
+00:52:00,680 --> 00:52:01,399
+Because he's...
+
+562
+00:52:07,640 --> 00:52:09,640
+The critical is what he uses.
+
+563
+00:52:11,399 --> 00:52:15,399
+And then he never mentions Kant.
+
+564
+00:52:15,720 --> 00:52:21,400
+Well, Kant's behind Husserl and Heidegger, and Meryl-Ponty's pretty close to Kant, too.
+
+565
+00:52:21,399 --> 00:52:31,319
+I mean, I think it seems obvious that when he says that, well, no, I mean it you maybe it is Kant.
+
+566
+00:52:31,319 --> 00:52:32,039
+I mean, I don't know.
+
+567
+00:52:32,040 --> 00:52:33,480
+I don't see how we can tell.
+
+568
+00:52:33,479 --> 00:52:43,360
+He's been criticizing a certain view, namely the view that thinks that the phenomenal field licenses transcendental phenomenology.
+
+569
+00:52:43,359 --> 00:52:45,200
+And now he's saying, no, let me read it more.
+
+570
+00:52:45,200 --> 00:52:49,680
+Maybe we'll find out whether it's Husserl or Kant.
+
+571
+00:52:50,959 --> 00:53:05,520
+See, Kant was, in this case, worse off than Husserl and easier to criticize, because Kant's whole project was to treat the perceptual world as if it was really the physical world.
+
+572
+00:53:05,519 --> 00:53:13,200
+So when Kant asks, how that is our experience of objects, he means causality, substances, and so forth.
+
+573
+00:53:13,200 --> 00:53:18,720
+He doesn't mean lecterns and certainly not moon illusions.
+
+574
+00:53:18,720 --> 00:53:21,599
+And Husserl was way ahead of that.
+
+575
+00:53:21,600 --> 00:53:26,000
+Husserl was actually trying to do a story about perceptual objects.
+
+576
+00:53:25,999 --> 00:53:31,439
+By the way, this is the whole story that Holy Schultis's book, Mind and A Body and World.
+
+577
+00:53:31,760 --> 00:53:45,760
+He tries to show how Kant is giving you a story about the structure of the kind of objects that science deals with and treating perceptual objects as if they were like that, treating the world as if it was the universe.
+
+578
+00:53:45,760 --> 00:53:52,720
+And that if Kant had understood what Merle-Ponty understood, he would have rewritten the whole first critique a different way.
+
+579
+00:53:52,720 --> 00:53:54,319
+And then so just tries to write it.
+
+580
+00:53:54,319 --> 00:53:55,039
+So he's right.
+
+581
+00:53:55,040 --> 00:53:58,079
+He's writing the first critique the way Kant should have written it.
+
+582
+00:53:58,879 --> 00:54:01,360
+This is probably in here.
+
+583
+00:54:01,359 --> 00:54:05,999
+But I don't think he's, well, let's go on.
+
+584
+00:54:05,999 --> 00:54:07,199
+We'll see what's in here.
+
+585
+00:54:07,680 --> 00:54:13,919
+So reflection can never make me stop seeing the sun 200 yards away on a misty day.
+
+586
+00:54:13,919 --> 00:54:15,920
+Now, I don't know what Kant thought about that.
+
+587
+00:54:15,919 --> 00:54:18,000
+I don't even know what Husserl thought about that.
+
+588
+00:54:17,999 --> 00:54:19,199
+It's certainly true.
+
+589
+00:54:19,200 --> 00:54:20,960
+I can't, he can't do it.
+
+590
+00:54:21,160 --> 00:54:36,200
+Or seeing it rise and set, as I just said, or thinking with the cultural apparatus with which my, or can't keep me from thinking with the cultural apparatus with which my education, my previous efforts, my personal history has provided me.
+
+591
+00:54:36,200 --> 00:54:38,839
+Now, that could be a criticism of Kant.
+
+592
+00:54:38,839 --> 00:54:39,639
+But you go on.
+
+593
+00:54:41,560 --> 00:54:48,680
+I never actually collect together or call up simultaneously all the primary thoughts which contribute to my perception or my present condition.
+
+594
+00:54:48,680 --> 00:54:56,119
+A critical philosophy attaches, and that could be Kant in the last analysis, no importance to this resistance offered by passivity.
+
+595
+00:54:56,120 --> 00:54:56,999
+Well, how can we tell?
+
+596
+00:54:57,160 --> 00:54:58,359
+Maybe it's going to get clearer.
+
+597
+00:54:58,359 --> 00:55:01,399
+So so far, that's Husserl and Kant.
+
+598
+00:55:01,560 --> 00:55:05,000
+As if Kant's philosophy.
+
+599
+00:55:04,999 --> 00:55:09,720
+Well, if you don't turn it into a general a critical philosophy, not the critical philosophy.
+
+600
+00:55:10,999 --> 00:55:15,240
+Well, let's go into the older translation that's philosophy such as got critical.
+
+601
+00:55:15,479 --> 00:55:15,959
+Really?
+
+602
+00:55:16,040 --> 00:55:16,439
+Yeah.
+
+603
+00:55:16,680 --> 00:55:17,720
+That's what I have.
+
+604
+00:55:18,040 --> 00:55:18,839
+Interesting.
+
+605
+00:55:18,839 --> 00:55:19,559
+Oh, boy.
+
+606
+00:55:19,560 --> 00:55:22,039
+I can't resist that better.
+
+607
+00:55:22,040 --> 00:55:27,319
+I mean, is this a place where they improve the translation or where do they make it worse?
+
+608
+00:55:28,760 --> 00:55:31,799
+But I think it's a place where they improved it, so I don't have to.
+
+609
+00:55:32,919 --> 00:55:38,120
+I never thought of an interpretation of a whole paragraph or perhaps chapter with hinge on it.
+
+610
+00:55:38,120 --> 00:55:39,160
+That's funny.
+
+611
+00:55:39,160 --> 00:55:44,120
+Check mind where page 71 in the print.
+
+612
+00:55:49,080 --> 00:55:49,720
+I don't know.
+
+613
+00:55:50,919 --> 00:55:58,600
+See, I can't, I mean, I'm not ready to believe that this could possibly have switched to a discussion of Kant because all you've got on your mind is.
+
+614
+00:55:58,600 --> 00:56:00,519
+Of course, Kant is in the background.
+
+615
+00:56:00,519 --> 00:56:04,999
+But I think a critical philosophy is exactly what he should say.
+
+616
+00:56:04,999 --> 00:56:11,119
+That's a philosophy that tries to find the rational basis of all objective experience.
+
+617
+00:56:06,200 --> 00:56:13,200
+And Kant does.
+
+618
+00:56:13,359 --> 00:56:16,959
+But if you think we'll have to look, we're going to look at this in the French.
+
+619
+00:56:20,080 --> 00:56:22,159
+Oh, yes, it's a big deal for Husserl.
+
+620
+00:56:22,160 --> 00:56:26,559
+Passivity, passive synthesis, a whole book that thick on passive synthesis.
+
+621
+00:56:26,560 --> 00:56:28,240
+But that's his response to Kant.
+
+622
+00:56:32,959 --> 00:56:33,200
+Right.
+
+623
+00:56:33,200 --> 00:56:37,040
+And Husserl thinks that synthesis isn't always done.
+
+624
+00:56:37,040 --> 00:56:38,319
+I mean, sometimes it is.
+
+625
+00:56:38,799 --> 00:56:44,319
+Everybody agrees by conscious application of categories and so forth.
+
+626
+00:56:44,319 --> 00:56:53,439
+But Husserl thinks, late Husserl, that there's some kind of synthesis that happens just by the gestalt organization of experience.
+
+627
+00:56:53,439 --> 00:57:00,400
+I mean, he's really very, very close to getting the right idea there, except that he thinks it's synthesis.
+
+628
+00:57:00,399 --> 00:57:10,400
+And then Nero-Ponty is going to criticize that later on, because synthesis presupposes that there's some kind of elements there that need to be put together.
+
+629
+00:57:10,399 --> 00:57:18,160
+Whereas if you really believe in passive whatever, you just say experience organizes itself this way.
+
+630
+00:57:18,160 --> 00:57:20,079
+Nobody synthesizes.
+
+631
+00:57:20,080 --> 00:57:22,160
+Synthesis is a Kantian term.
+
+632
+00:57:22,160 --> 00:57:32,079
+Passive synthesis is going to be Kantian, even if Kant never said it, because as soon as you say synthesis, you're in Husserl and not in Heidegger.
+
+633
+00:57:32,080 --> 00:57:38,240
+Now, you never, in all of being in time, I bet the word synthesis doesn't appear unless it maybe is an insult at some point.
+
+634
+00:57:38,959 --> 00:57:41,280
+But it's all over the place in Husserl.
+
+635
+00:57:41,280 --> 00:57:47,280
+I mean, that's because that transcendental ego does all this, even if it does it classively, whatever that means.
+
+636
+00:57:47,280 --> 00:57:48,319
+Okay, let's go on.
+
+637
+00:57:48,319 --> 00:57:49,199
+It's fascinating.
+
+638
+00:57:49,200 --> 00:57:55,240
+A critical philosophy attaches in the last analysis no importance to the resistance offered by passivity.
+
+639
+00:57:55,240 --> 00:57:59,240
+Okay, now, certainly Kant doesn't.
+
+640
+00:57:59,240 --> 00:58:05,319
+In a certain way, Husserl does, because he thinks that he's got to explain it as passive synthesis.
+
+641
+00:58:05,319 --> 00:58:06,200
+So let's go on.
+
+642
+00:58:06,200 --> 00:58:10,839
+As if it were necessary to become the transcendental subject in order to have the right to affirm it.
+
+643
+00:58:12,760 --> 00:58:13,960
+Good, tell me where.
+
+644
+00:58:13,959 --> 00:58:15,240
+Not necessary.
+
+645
+00:58:15,240 --> 00:58:16,280
+Yeah, let me try that again.
+
+646
+00:58:16,280 --> 00:58:24,760
+A critical philosophy attaches in the last analysis no importance to this resistance offered by passivity, like the moon illusion.
+
+647
+00:58:24,760 --> 00:58:31,640
+As if it were not necessary to become the transcendental subject in order to have the right to affirm it.
+
+648
+00:58:33,080 --> 00:58:34,440
+What does that mean?
+
+649
+00:58:34,760 --> 00:58:36,520
+As if it were not necessary.
+
+650
+00:58:36,519 --> 00:58:39,160
+Is that the same in the other translation?
+
+651
+00:58:40,040 --> 00:58:45,799
+As if it were not necessary to become a transcendental subject in order to have the right to affirm it.
+
+652
+00:58:45,799 --> 00:58:46,839
+Ah.
+
+653
+00:58:47,160 --> 00:59:03,560
+Well, I think hussarl, I don't know about Kant, but husseral things that you know you don't have to worry about passivity because it's just there.
+
+654
+00:59:03,560 --> 00:59:10,119
+Whereas from a husseral point of view, the activity, I can't say Kant because I don't know.
+
+655
+00:59:10,600 --> 00:59:19,640
+From a Husserl point of view, it would be necessary to become a transcendental subject in order to have the right to affirm it.
+
+656
+00:59:20,839 --> 00:59:26,039
+No importance to this resistance offered by passivity, as if it were not necessary.
+
+657
+00:59:26,040 --> 00:59:44,479
+I think that means that Cholesterol thinks that once you're a transcendental subject, you can affirm the resistance of passivity while at the same time trying to take it over and explain it.
+
+658
+00:59:44,799 --> 00:59:48,160
+That sentence is absolutely incomprehensible.
+
+659
+00:59:48,160 --> 00:59:49,680
+I'll try once more and I'll go on.
+
+660
+00:59:49,680 --> 00:59:58,319
+A critical philosophy attaches in the last analysis no importance to this resistance offered by passivity, that's sure.
+
+661
+00:59:59,919 --> 01:00:13,680
+That is, it doesn't care how we're integrated in the vital world, to talk another way, into the absorbable world, how our body does all sorts of stuff that our minds don't understand or would get in the way of.
+
+662
+01:00:14,560 --> 01:00:20,799
+That a critical philosophy doesn't pay any attention to that, which Merrill Ponte wants to pay lots of attention to.
+
+663
+01:00:21,839 --> 01:00:26,880
+As if it were not necessary to become the transcendental subject in order to have the right to affirm it.
+
+664
+01:00:28,160 --> 01:00:29,759
+I don't know what that means.
+
+665
+01:00:29,760 --> 01:00:32,239
+Yeah, I don't know if that is real.
+
+666
+01:00:32,240 --> 01:00:44,959
+But if you read the first part of the sentence as a sort of relation of a part for the previous thing, so he says, I never actually collect together and call up simultaneously all the clever thoughts.
+
+667
+01:00:44,959 --> 01:00:48,959
+That is to say, I'm never conscious of synthesizing actively.
+
+668
+01:00:49,999 --> 01:00:50,639
+That's right.
+
+669
+01:00:50,640 --> 01:00:53,359
+And then he says, here's the argument.
+
+670
+01:00:54,720 --> 01:01:08,639
+And the critical philosophy makes fails to acknowledge this point and thus makes no room for the idea that the relevant synthesis, so it's an endorsement of Christians as against cuts.
+
+671
+01:01:08,640 --> 01:01:09,440
+Whoa.
+
+672
+01:01:10,640 --> 01:01:14,079
+And I think there's this very strange paradox in your interpretation.
+
+673
+01:01:14,080 --> 01:01:15,519
+I don't know what I'm doing.
+
+674
+01:01:15,680 --> 01:01:20,399
+Every time he says something nice about Husserl, you can says he doesn't know what he's talking about.
+
+675
+01:01:21,479 --> 01:01:23,639
+Why did he ever say anything nice about Husserl?
+
+676
+01:01:23,959 --> 01:01:28,039
+Well, that was the reason why I just started reading the purpose, because it's full of nice things about Husserl.
+
+677
+01:01:29,240 --> 01:01:31,159
+Because he was afraid to agree with the Nazis.
+
+678
+01:01:31,160 --> 01:01:32,280
+Yeah, I still think so.
+
+679
+01:01:32,280 --> 01:01:38,600
+And every time he says anything nice about Husserl, he contradicts it when the published, he says, admits it isn't in the published writings.
+
+680
+01:01:38,600 --> 01:01:39,559
+I mean, that's a surprise.
+
+681
+01:01:40,999 --> 01:01:42,600
+Well, that's what I can't imagine.
+
+682
+01:01:42,600 --> 01:01:44,600
+I've got to go back and look at it again.
+
+683
+01:01:44,600 --> 01:01:50,679
+Not because I can't imagine him saying something nice about Husserl, although I don't know where he does, but I can't understand the sentences.
+
+684
+01:01:51,560 --> 01:02:02,359
+So some lots of people on doing reflection don't understand or see but don't give any special weight to the passivity.
+
+685
+01:02:02,359 --> 01:02:04,920
+That's the first thesis, right?
+
+686
+01:02:04,919 --> 01:02:06,760
+Okay, we all agree about that.
+
+687
+01:02:06,760 --> 01:02:16,280
+Now, a critical philosophy, or Kant, or Husserl, we don't know what, attaches in the last analysis no importance to this resistance offered by passivity.
+
+688
+01:02:16,280 --> 01:02:19,160
+I think that's going to be true of Kant and Husserl.
+
+689
+01:02:19,160 --> 01:02:25,480
+As if it were not necessary to become the transcendental subject in order to have the right to affirm it.
+
+690
+01:02:25,479 --> 01:02:27,079
+Ah, you're right, you're right.
+
+691
+01:02:27,080 --> 01:02:31,159
+He's saying, yep, it's a move beyond Kant.
+
+692
+01:02:31,160 --> 01:02:34,680
+He's not agreeing with it, but he's saying Husserl is one step beyond Kant.
+
+693
+01:02:34,680 --> 01:02:35,239
+I see.
+
+694
+01:02:35,240 --> 01:02:39,399
+Let's call that a critical, the critical philosophy, namely Kant.
+
+695
+01:02:39,399 --> 01:02:41,880
+I bet the translation has messed it up.
+
+696
+01:02:42,359 --> 01:02:48,359
+So Kant attaches in the last analysis no importance to this passivity.
+
+697
+01:02:48,359 --> 01:02:49,560
+That's right.
+
+698
+01:02:50,280 --> 01:02:57,319
+And now Husserl comes in and says, as if it were not necessary to become the transcendental subject in order to have the right to affirm it.
+
+699
+01:02:57,319 --> 01:03:05,160
+That is, Husserl's become a transcendental subject, and he has the right to say there is passive synthesis.
+
+700
+01:03:05,160 --> 01:03:07,200
+And that's a step beyond Kant.
+
+701
+01:03:07,200 --> 01:03:08,479
+Let's try it that way.
+
+702
+01:03:08,479 --> 01:03:11,999
+It tacitly assumes, consequently, I don't know what it is, yeah?
+
+703
+01:03:12,879 --> 01:03:18,799
+The critical philosophy tacitly assumes, consequently, that the philosopher's thinking is not conditioned by any situation.
+
+704
+01:03:18,799 --> 01:03:20,640
+Only Kant, not Husserl.
+
+705
+01:03:21,200 --> 01:03:21,519
+What?
+
+706
+01:03:22,479 --> 01:03:23,839
+Yeah, I can't understand that.
+
+707
+01:03:23,839 --> 01:03:38,959
+It seems to me he's just been saying all over the place that transcendental phenomenology makes the claim that it's not conditioned, that it's not to that it's that everything is constituting, and we are constituting our ego.
+
+708
+01:03:38,959 --> 01:03:40,160
+This is the topic of 70.
+
+709
+01:03:40,160 --> 01:03:41,440
+This is Husserl.
+
+710
+01:03:41,439 --> 01:03:44,480
+And everything else is constituted head.
+
+711
+01:03:44,479 --> 01:04:08,240
+Now I think he must be saying, well, at least Husserl thinks, I see, I think he thinks, that Husserl thinks, that you've got to be a transcendental subject who sees that everything ought to be made explicit and actively organized by the transcendental ego to see that there's a problem of passivity and affirm it.
+
+712
+01:04:08,240 --> 01:04:12,239
+So, wow, Leigh Husserl sees passive synthesis.
+
+713
+01:04:12,240 --> 01:04:14,080
+That is interesting.
+
+714
+01:04:14,080 --> 01:04:25,999
+And you couldn't, according to Husserl, I think this says, see passive synthesis if you didn't think that there was all of it would have been better if it was all active synthesis, which Kant maybe thought.
+
+715
+01:04:26,640 --> 01:04:32,799
+Whereas Mero-Ponkey thinks that you don't need to be a transcendental ego to affirm passive synthesis.
+
+716
+01:04:32,799 --> 01:04:33,919
+It's all over the place.
+
+717
+01:04:33,919 --> 01:04:35,839
+All you have to do is be open-minded.
+
+718
+01:04:36,319 --> 01:04:38,319
+You'll see the moon big on the horizon.
+
+719
+01:04:38,319 --> 01:04:40,079
+You'll see the sun rise and set.
+
+720
+01:04:40,120 --> 01:04:43,760
+You know, what a big, you're no big deal in affirming passive synthesis.
+
+721
+01:04:43,760 --> 01:04:49,119
+That's the structure of, sorry, the passivity is the structure of perceptual experience.
+
+722
+01:04:49,120 --> 01:04:55,319
+It organizes itself according to its own rules, doesn't care what we believe, doesn't care about what would be rational.
+
+723
+01:04:51,120 --> 01:04:56,439
+It just does it.
+
+724
+01:04:56,760 --> 01:05:08,920
+And now, to think that there's a problem of passivity and write a whole book about it, you have to be a transcendental ego who thinks that in the end it must all be explicable.
+
+725
+01:05:08,919 --> 01:05:12,519
+And then you introduce the idea of passive synthesis.
+
+726
+01:05:12,519 --> 01:05:15,319
+That's something Merrill-Conte will never say.
+
+727
+01:05:15,319 --> 01:05:17,480
+And you worry about it.
+
+728
+01:05:17,479 --> 01:05:18,119
+How about that?
+
+729
+01:05:18,120 --> 01:05:19,079
+Will that help?
+
+730
+01:05:20,760 --> 01:05:22,359
+Then I can understand the sentence, didn't you?
+
+731
+01:05:22,519 --> 01:05:23,399
+Yes, I'm not sure.
+
+732
+01:05:24,280 --> 01:05:25,720
+Pre-sciences further along.
+
+733
+01:05:25,879 --> 01:05:26,440
+Okay.
+
+734
+01:05:26,999 --> 01:05:33,159
+He's talking about, well, he writes, this is why maybe we need to read the NXL.
+
+735
+01:05:33,160 --> 01:05:34,359
+But he said it suspension.
+
+736
+01:05:34,359 --> 01:05:39,480
+He says, this is why the problem of the knowledge of other people is never posed in Kantian philosophy.
+
+737
+01:05:39,479 --> 01:05:42,119
+The transcendental ego is discovered.
+
+738
+01:05:42,120 --> 01:05:49,159
+That has evidence that discusses is just as much other people's as mine, right?
+
+739
+01:05:49,160 --> 01:05:58,519
+Analysis is from the South Nuclear Life side means that has nothing to do but to determine the general conditions which make possible a world for an ego.
+
+740
+01:05:58,519 --> 01:06:03,079
+Myself as an egoist, but it never comes up against the question creates anything.
+
+741
+01:06:03,080 --> 01:06:03,639
+That's good.
+
+742
+01:06:03,799 --> 01:06:04,120
+That's right.
+
+743
+01:06:07,240 --> 01:06:07,639
+I see.
+
+744
+01:06:07,959 --> 01:06:24,120
+He's saying there, I think, from other things I've read, he's congratulating Husserl for having written all these big volumes on deducing inner subjectivity from transcendental subjectivity.
+
+745
+01:06:24,120 --> 01:06:24,839
+And why?
+
+746
+01:06:25,160 --> 01:06:29,640
+Because at least Husserl recognizes that there are a lot of transcendental egos.
+
+747
+01:06:29,640 --> 01:06:30,439
+And he says that.
+
+748
+01:06:30,919 --> 01:06:35,319
+I mean, Husserl says it, and Merrill-Ponty says, and boy, that's a step in the right direction.
+
+749
+01:06:35,319 --> 01:06:38,959
+Kant, you can't tell when you read Kant who this transcendental ego is.
+
+750
+01:06:36,120 --> 01:06:41,759
+It seems to be just something everybody participates in.
+
+751
+01:06:42,080 --> 01:06:48,720
+I don't know when you read Kant, how Dan Warren or Ann Ginsberg or whoever taught it deals with this.
+
+752
+01:06:48,720 --> 01:06:56,399
+But in Husserl, it's very clear that there's a plurality of transcendental egos, and each one of them is synthesizing.
+
+753
+01:06:56,399 --> 01:07:01,680
+That's why he likes Leibniz's monadology over Kant on this point.
+
+754
+01:07:01,680 --> 01:07:16,560
+But I guess we all agree, but his Heideggerian vein, Merrill is like Ponty is going to say, of course, we don't have the problem of trying to show, deduce other egos.
+
+755
+01:07:16,799 --> 01:07:18,959
+And now I'll just give you a slogan.
+
+756
+01:07:18,959 --> 01:07:25,120
+It turns out in the chapter on other minds that we have intercorporeality.
+
+757
+01:07:25,120 --> 01:07:31,119
+That it's just something constitutive of the way our body works, that we're in sync with other people's bodies.
+
+758
+01:07:31,120 --> 01:07:43,200
+So if you let me, I duck that, not because I figure out that that's dangerous, not because I think that if I were doing that gesture, I'd be angry, so you must be angry.
+
+759
+01:07:43,200 --> 01:07:44,399
+I just do it.
+
+760
+01:07:44,879 --> 01:07:48,960
+And there we get to mirror neurons and stuff that people know about now.
+
+761
+01:07:48,959 --> 01:07:59,760
+But it could be that the way our body works, we are able to be in sync with other binds in other bodies, other embodied minds.
+
+762
+01:08:00,720 --> 01:08:06,079
+And therefore, he thinks that Husserl's got one step ahead with Kant, but he's got it wrong.
+
+763
+01:08:06,080 --> 01:08:06,959
+That's cool.
+
+764
+01:08:07,120 --> 01:08:07,759
+I keep reading.
+
+765
+01:08:07,840 --> 01:08:11,999
+Yeah, I think Herzegovina should think about Husserl getting one step right to him.
+
+766
+01:08:12,000 --> 01:08:19,880
+You know, right after who he's thinking, you know, the thought it says, if, on the other hand, contemporary philosophy since it says it's the Husserl.
+
+767
+01:08:19,880 --> 01:08:20,359
+Yeah.
+
+768
+01:08:19,120 --> 01:08:25,479
+And if other people come up calling for it, it is because he's trying to achieve a more radical self-recovery.
+
+769
+01:08:25,960 --> 01:08:32,599
+And then he goes on to explain what I think is the process, and then he goes on to explain the Calinarian perspective.
+
+770
+01:08:32,679 --> 01:08:34,359
+Does he do interceptivity there?
+
+771
+01:08:34,359 --> 01:08:35,080
+I don't remember.
+
+772
+01:08:35,080 --> 01:08:36,120
+And being with.
+
+773
+01:08:36,759 --> 01:08:37,719
+Let me see.
+
+774
+01:08:37,719 --> 01:08:38,280
+Let's go back.
+
+775
+01:08:39,479 --> 01:08:47,479
+Yeah, the very first sentence, the very first page of the book, he says that these wonderful ideas of how he goes, other moves in Husserl.
+
+776
+01:08:47,479 --> 01:08:50,920
+So that he should be blurry and how he's going to do it.
+
+777
+01:08:51,160 --> 01:08:55,639
+Well, I think if you could have your roots in Husserl and still User will be all wrong.
+
+778
+01:08:55,639 --> 01:08:59,000
+I mean, after all, I mean, lots of these great ideas have their roots.
+
+779
+01:09:00,599 --> 01:09:03,240
+Springs from the invitation, I'll be like Husserl.
+
+780
+01:09:03,399 --> 01:09:09,879
+Yes, I think, and that, and what that turns out to be, when you read further, let's look at the natural attitude.
+
+781
+01:09:09,880 --> 01:09:13,479
+And then he says, of course, User got the natural attitude utterly wrong.
+
+782
+01:09:13,479 --> 01:09:28,679
+But the idea that we should not, you know, not do Kant in this case and look at everything from the point of view of sort of scientific consciousness, but look at it from the point of view of an everyday natural world, that's good.
+
+783
+01:09:28,759 --> 01:09:30,519
+Userled made a big move.
+
+784
+01:09:30,519 --> 01:09:34,439
+No philosophers had ever really said, let's pay attention to the natural attitude.
+
+785
+01:09:34,519 --> 01:09:43,399
+User says it, and in three pages he's got it done with and performed the transcendental reduction and possible natural attitude just turns out to be a mistake.
+
+786
+01:09:43,719 --> 01:09:50,679
+But I think being completely disingenuous and lying, he's doing everything he can to give User credit.
+
+787
+01:09:50,679 --> 01:09:53,639
+Anyway, we obviously have a very different way of reading this.
+
+788
+01:09:53,639 --> 01:09:54,200
+Yeah.
+
+789
+01:09:55,559 --> 01:09:59,960
+You talked about the confusion about how there can be any transcendental egos.
+
+790
+01:09:59,960 --> 01:10:04,120
+I can't quote the whole of the conversation because I haven't read the critique, but I have read the groundwork.
+
+791
+01:10:04,120 --> 01:10:06,319
+When we talk about transcendental egos, are you still talking?
+
+792
+01:10:05,960 --> 01:10:09,200
+Are we talking about the same transcendental?
+
+793
+01:10:09,759 --> 01:10:11,759
+Something rather as the new mental self.
+
+794
+01:10:11,759 --> 01:10:12,160
+No.
+
+795
+01:10:12,880 --> 01:10:14,799
+We're not going to give how many back?
+
+796
+01:10:15,120 --> 01:10:32,959
+Well, I won't go along, but I mean, I take it that what we're supposed to think in Kant is that the transcendental ego, which is what unifies the objective world, isn't individuated, but the newlinal self, there are as many of them as there are people because each of them is morally responsible.
+
+797
+01:10:32,960 --> 01:10:40,079
+And it's certainly very important that every individual is going to go to heaven or hell and is morally responsible.
+
+798
+01:10:40,080 --> 01:10:47,280
+But the transcendental ego is more a kind of logical str structure, the structure of the categories.
+
+799
+01:10:47,280 --> 01:10:54,319
+And you don't even want to remember that the first edition was too psychological and it made it seem like it was something individuals might be doing.
+
+800
+01:10:54,319 --> 01:10:59,120
+So the second edition of the critique makes it all completely abstract.
+
+801
+01:10:59,120 --> 01:11:13,280
+So anyway, I'm not going to do Kant, but you could and do, and I think Kant does, not individuate the transcendental ego, still individuate the new self in the second critique.
+
+802
+01:11:13,280 --> 01:11:15,519
+No, nobody, we shouldn't be doing Kant.
+
+803
+01:11:15,599 --> 01:11:16,639
+You've got our hands full.
+
+804
+01:11:16,639 --> 01:11:17,999
+So let me go on.
+
+805
+01:11:18,000 --> 01:11:21,599
+Wow, this is getting much, much more interesting than I had imagined.
+
+806
+01:11:21,599 --> 01:11:22,399
+Where are we?
+
+807
+01:11:22,559 --> 01:11:23,679
+I got to read every sentence.
+
+808
+01:11:23,679 --> 01:11:28,079
+Starting from the spectacle of the world, is this what we're supposed to be?
+
+809
+01:11:28,719 --> 01:11:33,359
+Which is that of a nature open to a plurality of thinking subjects.
+
+810
+01:11:33,359 --> 01:11:37,359
+Okay, now that's what he thinks is the natural attitude.
+
+811
+01:11:37,359 --> 01:11:39,359
+That's what he thinks we should be studying.
+
+812
+01:11:39,359 --> 01:11:41,120
+That's what he wants to start.
+
+813
+01:11:41,120 --> 01:11:44,719
+But now, then comes, Husserl, switches it, or I think.
+
+814
+01:11:45,040 --> 01:11:55,000
+It, Husserl, transcendental phenomenology, looks for the conditions which make possible this unique world presented to a number of empirical cells and finds it in the transcendental ego.
+
+815
+01:11:55,080 --> 01:12:01,799
+That's pure Husserl, because Kant doesn't have a number of, well, maybe he has a number of empirical cells.
+
+816
+01:12:02,120 --> 01:12:04,040
+But I'm sure that must be Husserl.
+
+817
+01:12:04,040 --> 01:12:06,599
+Transcendental ego, I don't even know if that's Kant's terminology.
+
+818
+01:12:06,599 --> 01:12:07,160
+Anyone know?
+
+819
+01:12:07,160 --> 01:12:09,000
+Does Kant talk about transcendental ego?
+
+820
+01:12:09,000 --> 01:12:10,120
+So that's got to be Husserl.
+
+821
+01:12:10,120 --> 01:12:11,240
+No, no, no, no, he does.
+
+822
+01:12:11,240 --> 01:12:11,639
+He does.
+
+823
+01:12:13,240 --> 01:12:13,880
+Oh, really?
+
+824
+01:12:13,880 --> 01:12:14,439
+Okay.
+
+825
+01:12:14,439 --> 01:12:18,919
+In which they participate in that, because it is not a being, not a unity of value.
+
+826
+01:12:18,920 --> 01:12:23,639
+This is why the problem of the knowledge of other people is never posed in Kantian philosophy.
+
+827
+01:12:23,639 --> 01:12:27,639
+The transcendental ego, which it discusses, is just as much other people's as mine.
+
+828
+01:12:27,639 --> 01:12:28,519
+Yeah, okay.
+
+829
+01:12:28,519 --> 01:12:42,519
+So there are two different transcendental egos: the transcendental ego in Husserl, which is individuated, and the transcendental ego in Kant, which is as much other people's as mine, because it's the logical structure of objectivity.
+
+830
+01:12:42,519 --> 01:12:50,839
+Analysis is from the start located outside me and has nothing to do but to determine the general conditions which make possible a world for an ego.
+
+831
+01:12:50,840 --> 01:12:52,359
+Now, is that Kant?
+
+832
+01:12:53,160 --> 01:12:53,960
+Never posed.
+
+833
+01:12:54,599 --> 01:13:01,479
+The transcendental ego, which it discusses, that must be Husserl, is just as much other people.
+
+834
+01:13:01,639 --> 01:13:02,519
+No, that's Kant.
+
+835
+01:13:02,519 --> 01:13:03,319
+Clearly, Kant.
+
+836
+01:13:03,559 --> 01:13:05,399
+Just as much other people's as mine.
+
+837
+01:13:05,399 --> 01:13:13,639
+Analysis from the start outside me has nothing to do but to determine, yeah, that's Kant, the general conditions that make possible a world in general.
+
+838
+01:13:13,639 --> 01:13:19,160
+The transcendental unity of that perception is the condition of the possibility of objective experience in general.
+
+839
+01:13:19,160 --> 01:13:20,519
+I taught my daughter to say that.
+
+840
+01:13:24,439 --> 01:13:26,679
+That's even better in German.
+
+841
+01:13:26,679 --> 01:13:28,599
+But now let's see where I was.
+
+842
+01:13:28,639 --> 01:13:31,799
+And I think it's going to determine the general philosophy.
+
+843
+01:13:33,719 --> 01:13:34,120
+Okay.
+
+844
+01:13:35,559 --> 01:13:45,359
+Okay, determined the other hand, that could be that contemporary philosophy.
+
+845
+01:13:45,359 --> 01:13:47,999
+That's clearly, well, always got a big question.
+
+846
+01:13:48,000 --> 01:13:49,519
+That's either Husserl or Heidegger.
+
+847
+01:13:49,519 --> 01:13:50,080
+We have to find out.
+
+848
+01:13:51,120 --> 01:13:51,519
+What?
+
+849
+01:13:53,599 --> 01:13:55,040
+But they're both contemporary philosophy.
+
+850
+01:13:56,319 --> 01:13:57,200
+Let's see what happens.
+
+851
+01:13:57,679 --> 01:13:57,920
+Okay.
+
+852
+01:13:58,960 --> 01:14:00,879
+Takes this as its main theme.
+
+853
+01:14:00,880 --> 01:14:05,519
+And if other people become a problem for it, it's because it is trying to achieve a more radical self-discovery.
+
+854
+01:14:05,599 --> 01:14:06,880
+Sounds like Husserl Kini.
+
+855
+01:14:06,880 --> 01:14:15,759
+Reflection cannot be thoroughgoing or being a complete, or bring a complete elucidation of its object if it does not arrive at awareness of itself as well as its results.
+
+856
+01:14:15,759 --> 01:14:34,240
+We must not only adopt a reflective attitude in an impregnable hobbito, but furthermore reflect on this reflection, understand the natural situation which it is conscious of succeeding in which it is conscious of succeeding.
+
+857
+01:14:34,240 --> 01:14:34,799
+What is that?
+
+858
+01:14:34,800 --> 01:14:36,479
+Is that in the boy?
+
+859
+01:14:36,479 --> 01:14:39,679
+When you read this carefully, you wonder how anybody can understand a word of it.
+
+860
+01:14:40,319 --> 01:14:42,160
+That's not English.
+
+861
+01:14:42,160 --> 01:14:43,759
+I don't know what that is.
+
+862
+01:14:44,399 --> 01:14:45,359
+Are they waiting out there?
+
+863
+01:14:45,359 --> 01:14:46,080
+Not quite yet.
+
+864
+01:14:46,080 --> 01:14:47,200
+Okay, let's see.
+
+865
+01:14:47,200 --> 01:14:49,679
+And which is therefore part of its definition?
+
+866
+01:14:50,319 --> 01:14:50,719
+What?
+
+867
+01:14:52,639 --> 01:14:53,439
+Yeah, is it?
+
+868
+01:14:53,439 --> 01:14:59,280
+And which is therefore part of not merely practical philosophy, but realize the transformation which it brings within an hour.
+
+869
+01:14:59,280 --> 01:15:03,120
+Only on this condition of philosophy can become absolute knowledge.
+
+870
+01:15:04,800 --> 01:15:06,559
+It seems to be special.
+
+871
+01:15:06,559 --> 01:15:12,879
+So there will be no assertion of the absolute unity, all the less doubtful for not having come into being.
+
+872
+01:15:12,880 --> 01:15:16,479
+The core of philosophy is no longer an autonomous transcendental subjectivity.
+
+873
+01:15:16,479 --> 01:15:17,759
+Wow, that's Husserl.
+
+874
+01:15:17,759 --> 01:15:18,960
+And that's not Heidegger.
+
+875
+01:15:18,960 --> 01:15:22,439
+And you think he's already gotten rid of Husserl in the previous interview?
+
+876
+01:15:22,840 --> 01:15:23,879
+Big problem.
+
+877
+01:15:23,880 --> 01:15:25,079
+I'm not sure.
+
+878
+01:15:25,240 --> 01:15:27,639
+But I see that he's trying to differentiate.
+
+879
+01:15:21,120 --> 01:15:28,280
+Let's go this far.
+
+880
+01:15:28,439 --> 01:15:31,559
+He's differentiating Heidegger and Husserl in contemporary philosophy.
+
+881
+01:15:31,559 --> 01:15:35,639
+One of them has autonomous transcendental subjectivity.
+
+882
+01:15:35,639 --> 01:15:37,079
+Guess who that is?
+
+883
+01:15:37,080 --> 01:15:40,039
+You better know by now that's Husserl.
+
+884
+01:15:40,040 --> 01:15:45,799
+And so the core of philosophy is no longer an autonomous transcendental subjectivity.
+
+885
+01:15:45,800 --> 01:15:51,319
+That means that he's already talking about Heidegger versus Husserl and he's on Heidegger's side.
+
+886
+01:15:51,319 --> 01:15:53,319
+To be found everywhere and nowhere.
+
+887
+01:15:53,319 --> 01:16:00,599
+It lies in the perpetual beginning of reflection, at the point where an individual life begins to reflect on itself.
+
+888
+01:16:00,599 --> 01:16:01,960
+Reflection is truly reflection.
+
+889
+01:16:01,960 --> 01:16:03,240
+Now we're surely in Heidegger.
+
+890
+01:16:03,240 --> 01:16:11,160
+Only if it is not carried outside itself, only if it knows itself as reflection on an unreflected experience and pinned it with structure in our experience.
+
+891
+01:16:11,160 --> 01:16:12,439
+I think that's Heidegger.
+
+892
+01:16:12,439 --> 01:16:13,639
+Now let's go on.
+
+893
+01:16:14,759 --> 01:16:16,039
+One minute.
+
+894
+01:16:16,040 --> 01:16:17,160
+But I'm skipping a sentence.
+
+895
+01:16:17,160 --> 01:16:25,079
+But at the opposite extreme of philosophers, in the notion of a universal constituting consciousness, we encounter an exactly corresponding mistake.
+
+896
+01:16:25,880 --> 01:16:27,639
+I don't know who that is.
+
+897
+01:16:27,639 --> 01:16:28,920
+Berrickson's mistake.
+
+898
+01:16:28,920 --> 01:16:29,960
+I guess Berrickson.
+
+899
+01:16:29,960 --> 01:16:31,399
+I don't know what that is.
+
+900
+01:16:31,399 --> 01:16:33,479
+So let's not worry about Berrickson.
+
+901
+01:16:33,479 --> 01:16:36,039
+I want to see if I can reach the end of this.
+
+902
+01:16:36,040 --> 01:16:37,479
+Okay, let's see.
+
+903
+01:16:37,719 --> 01:16:42,839
+At the bottom of the page, we neither can become wholly conscious or make ourselves into a transcendental consciousness.
+
+904
+01:16:42,840 --> 01:16:45,399
+Well, Husserl thinks we can.
+
+905
+01:16:45,399 --> 01:16:52,039
+And of course, Heidegger says we can't become wholly conscious and make ourselves into transcendental consciousness.
+
+906
+01:16:54,200 --> 01:16:58,040
+And then we get to the phenomenon of the phenomenon, which I think I've talked about.
+
+907
+01:16:58,359 --> 01:17:06,399
+And the moral is supposed to be that when you do the phenomenon of the phenomena, this is my last sentence, you get to a kind of existentialist phenomenology.
+
+908
+01:17:06,120 --> 01:17:11,679
+The world is the phenomenal world that we must describe it from within, not as a transcendental ego.
+
+909
+01:17:12,000 --> 01:17:18,479
+And therefore we do, keep your eyes open for this, the conditions of existence, not the conditions of possibility.
+
+910
+01:17:18,800 --> 01:17:24,319
+And that's supposed to be the difference between Merlot-Ponty and Husserl.
+
+911
+01:17:24,319 --> 01:17:26,479
+And then we finished less than I thought.
+
+912
+01:17:26,639 --> 01:17:29,839
+Go and do the reading, because I'm going to get to the plant and limb next time.
+
+913
+01:17:29,840 --> 01:17:30,479
+Cool.

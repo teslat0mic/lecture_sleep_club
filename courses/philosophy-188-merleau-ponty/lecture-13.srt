@@ -1,0 +1,3787 @@
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:13,120
+I guess the biggest thing I want to say first is it's if the I remember I told you this, but it's important to know that from 122 to 140, he's explaining Yelp Goldstein.
+
+2
+00:00:13,120 --> 00:00:21,201
+And I'm going to go through it in detail because it's so hard and yet so interesting, because they are Gestaltists.
+
+3
+00:00:21,201 --> 00:00:24,240
+And like Gestaltists, they've got it sort of right.
+
+4
+00:00:24,241 --> 00:00:26,000
+They've got it sort of wrong.
+
+5
+00:00:26,000 --> 00:00:38,000
+So it just occurs to me as I'm talking to you that a further complication I didn't realize till this minute is that they've got it wrong in a different way than Kafka and Kohler have got it wrong.
+
+6
+00:00:38,001 --> 00:00:42,480
+It's not the same mistake that he's accusing them of.
+
+7
+00:00:43,360 --> 00:00:45,601
+Well, in the end it is.
+
+8
+00:00:45,601 --> 00:00:46,640
+In the end it is.
+
+9
+00:00:46,641 --> 00:00:48,161
+So they've got it wrong.
+
+10
+00:00:48,800 --> 00:01:05,040
+At the deepest and most broad level, they both, that is the Gestaltists we studied when we did the perception part on sensation and association and Yelp Goldstein, who are these neuro-Gestalt people, have all missed being in the world.
+
+11
+00:01:05,361 --> 00:01:30,840
+And it always comes back to that again, that they try to understand these Gestalts without bringing in this way that organisms are always involved in the world trying to achieve something, what John Kelly calls the normative dimension, that there's always something that they can be, that they're trying to do that they can do better or worse.
+
+12
+00:01:30,840 --> 00:01:36,200
+That's the deep level that the Gestaltists miss and that Gal Goldstein misses.
+
+13
+00:01:36,201 --> 00:01:37,881
+But now we have to go into detail.
+
+14
+00:01:37,881 --> 00:01:49,560
+But I want to make one other general statement, which I really didn't realize fully until this time through, that there's a big chunk you can skip, which isn't really getting us anywhere.
+
+15
+00:01:49,801 --> 00:01:52,040
+Now I wrote down very clearly.
+
+16
+00:01:52,040 --> 00:01:52,921
+I know where it is.
+
+17
+00:01:52,921 --> 00:01:53,561
+Here it is.
+
+18
+00:01:53,560 --> 00:01:56,840
+From 141 to 150.
+
+19
+00:01:56,840 --> 00:02:01,000
+Rereading it, I just found myself marking nothing.
+
+20
+00:02:01,000 --> 00:02:10,360
+He's going on and on in some detailed argument with intellectualists and empiricists, but not of the kind that we know, that's a neuro kind.
+
+21
+00:02:10,361 --> 00:02:14,201
+And it's not advancing the argument a bit as far as I can see.
+
+22
+00:02:14,201 --> 00:02:16,841
+So you can, I mean, you don't have to skip it.
+
+23
+00:02:16,840 --> 00:02:23,641
+In fact, of course, I would recommend that you read it because maybe there's something in there that I miss that I don't see anything.
+
+24
+00:02:24,441 --> 00:02:31,320
+So, I mean, TG is what's being done from 122 to 140.
+
+25
+00:02:31,961 --> 00:02:35,961
+You could sort of get along without that too, but I'm going to try to explain that.
+
+26
+00:02:35,961 --> 00:02:43,081
+But then you can skip 140 to 1 to 140.
+
+27
+00:02:43,641 --> 00:02:47,160
+There's at least plenty to struggle with and to read.
+
+28
+00:02:47,160 --> 00:02:48,361
+So let's start.
+
+29
+00:02:48,361 --> 00:02:49,641
+Did you see that?
+
+30
+00:02:49,641 --> 00:02:50,201
+Okay.
+
+31
+00:02:50,680 --> 00:02:54,680
+And now, let's go to going into this in detail.
+
+32
+00:02:55,241 --> 00:02:57,160
+As I find the first page.
+
+33
+00:02:58,521 --> 00:02:59,480
+Okay.
+
+34
+00:03:00,121 --> 00:03:07,000
+So it's first we have to look at what Georg and Goldstein think is normal.
+
+35
+00:03:07,000 --> 00:03:16,641
+And they've got a fairly okay view of the normal phenomenon, but they've always got.
+
+36
+00:03:17,600 --> 00:03:18,561
+Can you close the door already?
+
+37
+00:03:18,560 --> 00:03:20,001
+There's an adventure window.
+
+38
+00:03:20,081 --> 00:03:21,200
+I'm sorry.
+
+39
+00:03:22,881 --> 00:03:26,561
+Let me leave the windows open when there's everything's open in the big room.
+
+40
+00:03:26,560 --> 00:03:30,320
+And if he gets took hold on the people by the window, he can close that too.
+
+41
+00:03:30,321 --> 00:03:34,320
+Okay, so let's start with the take of 125.
+
+42
+00:03:34,641 --> 00:03:41,680
+I'm going to have to stick very close to the text because it's trying to unravel the text that you get into all the things.
+
+43
+00:03:42,000 --> 00:04:11,521
+Well, really, at the bottom of 124, they're basic, let me give you the big picture, that they try to understand normal human beings in terms of having both a concrete, tactile, grasping attitude and an abstract visual, mental, standing back attitude.
+
+44
+00:04:11,521 --> 00:04:16,480
+And in normal people, both these attitudes are fine.
+
+45
+00:04:16,480 --> 00:04:28,800
+And they work together by a kind of, quote, mixture, which Merle Ponty thinks is a completely inadequate way of understanding how they work together.
+
+46
+00:04:28,800 --> 00:04:31,121
+They don't really, they're not a mixture.
+
+47
+00:04:31,120 --> 00:04:36,961
+They're two aspects of this deeper thing called being in the world, according to him.
+
+48
+00:04:37,120 --> 00:04:43,961
+You can't get that by spurring together these two abstract, and I want to use that word for him.
+
+49
+00:04:43,961 --> 00:04:52,160
+These two modes that are aspects that Yelvin Goldstein singled out.
+
+50
+00:04:52,160 --> 00:04:55,441
+Not to say that they're wrong, he says in one place.
+
+51
+00:04:55,441 --> 00:05:03,081
+It's just to say that this way of thinking about it is too abstract because it leaves out, again, I have to use the word abstract.
+
+52
+00:05:04,280 --> 00:05:07,161
+The abstract attitude is this intellectual thing.
+
+53
+00:05:07,160 --> 00:05:29,240
+But now, just using abstract in the normal way, by taking out these two aspects and separating them, the concrete, the abstract attitude, then they never can mix them back together again because they leave out the deep thing of which they're both aspects.
+
+54
+00:05:29,240 --> 00:05:43,481
+And they can't understand fully what's wrong with Schneider, since they can't understand Schneider in terms just of these two aspects without getting at the underlying thing that's wrong with Schneider.
+
+55
+00:05:43,480 --> 00:05:47,321
+Now, I'll give you the punchline now, which we should be arriving at in an hour and a half.
+
+56
+00:05:47,321 --> 00:05:49,720
+His intentional arc has gone limp.
+
+57
+00:05:50,521 --> 00:05:58,521
+If you see what that means, you see that that's supposed to be the real meaning that explains all of his problems.
+
+58
+00:05:58,521 --> 00:06:01,481
+Okay, but now we have to get there bit by bit.
+
+59
+00:06:01,480 --> 00:06:02,680
+I just didn't want to lose you.
+
+60
+00:06:02,681 --> 00:06:05,160
+At the bottom of 124.
+
+61
+00:06:05,480 --> 00:06:18,840
+On 124 and 125, we're all now in Yeld-Goldsheim, and we're looking at what they understand as the normal and how they see that in terms of these two attitudes.
+
+62
+00:06:19,160 --> 00:06:23,480
+Another way to use these two attitudes, I want to make them not seem so strange to them.
+
+63
+00:06:23,800 --> 00:06:33,881
+The concrete is the practical involved, and the abstract is the theoretical detached.
+
+64
+00:06:33,881 --> 00:06:41,160
+That's just another, that may be more familiar way of talking about them, and more the way I talk about them.
+
+65
+00:06:41,121 --> 00:06:49,040
+And remember, there it is true that people can be involved and the people can be detached.
+
+66
+00:06:49,040 --> 00:06:50,160
+That's fine.
+
+67
+00:06:50,160 --> 00:06:57,600
+But the question is that those are two variations of something else.
+
+68
+00:06:57,600 --> 00:07:00,001
+And that's what they don't see.
+
+69
+00:07:00,800 --> 00:07:02,160
+Yeah, Richard, do you mind?
+
+70
+00:07:02,160 --> 00:07:03,280
+I mean, what I'm covering.
+
+71
+00:07:03,441 --> 00:07:05,201
+Yeah, don't I think we're all right.
+
+72
+00:07:05,521 --> 00:07:14,561
+But the way they, in history, the contrast is just between actually doing something and sort of something more like pretending to do it.
+
+73
+00:07:14,561 --> 00:07:18,720
+Abstract movements, say, would be movements performed with the eyeshadow.
+
+74
+00:07:19,040 --> 00:07:27,361
+But precisely what the ability to perform the abstract movement consists in is being able to sort of join the second nature.
+
+75
+00:07:27,360 --> 00:07:33,120
+Just, you know, sort of salute and intellectual system.
+
+76
+00:07:33,360 --> 00:07:34,320
+Oh, absolutely.
+
+77
+00:07:34,480 --> 00:07:35,840
+That's what's all we got to pay for.
+
+78
+00:07:35,920 --> 00:07:38,001
+But there isn't no reference to that.
+
+79
+00:07:38,160 --> 00:07:39,680
+Okay, well, that would be with me for the movement.
+
+80
+00:07:40,160 --> 00:07:48,801
+If you don't get those pages, you see them going on and on and on, talking about the intellectualist way of viewing the problem.
+
+81
+00:07:48,800 --> 00:07:54,720
+And the intellectualist way of viewing the problem just is to try to do it all in terms of the abstract.
+
+82
+00:07:54,720 --> 00:07:57,041
+If I can think what place to refer to.
+
+83
+00:07:57,040 --> 00:08:02,961
+Let's just keep Aldith's comment in mind and we'll get there.
+
+84
+00:08:03,360 --> 00:08:10,000
+Certainly just being able to salute with your eyes shut is not normally the abstract.
+
+85
+00:08:10,000 --> 00:08:12,881
+If he calls it that, we'd have to figure out what to do about it.
+
+86
+00:08:12,880 --> 00:08:16,161
+It's the concrete.
+
+87
+00:08:17,280 --> 00:08:18,281
+Well, no, I see.
+
+88
+00:08:18,281 --> 00:08:21,601
+The concrete, you have to really be in your sit in a situation.
+
+89
+00:08:21,600 --> 00:08:25,041
+The abstract I see always has to do with what you can imagine.
+
+90
+00:08:31,161 --> 00:08:35,561
+Okay, so the patient is unable to perform abstract movements with his eyes sucks.
+
+91
+00:08:35,561 --> 00:08:38,840
+Movement status, which are not relevant to any actual situation.
+
+92
+00:08:39,240 --> 00:08:40,840
+Movement doesn't make sense order.
+
+93
+00:08:43,240 --> 00:08:44,520
+But that's all theoretical.
+
+94
+00:08:44,520 --> 00:08:45,480
+That's all.
+
+95
+00:08:45,480 --> 00:08:45,800
+Why?
+
+96
+00:08:45,801 --> 00:08:47,561
+Because it's not relevant to any situation.
+
+97
+00:08:47,561 --> 00:08:48,921
+It's de-situated.
+
+98
+00:08:48,921 --> 00:08:56,921
+The essence of the theoretical way I'm using it is not to be involved in a concrete practical situation.
+
+99
+00:08:56,921 --> 00:08:57,801
+So imagining things.
+
+100
+00:08:59,640 --> 00:08:59,801
+What?
+
+101
+00:08:59,961 --> 00:09:05,721
+Because the aspect of Bunker characterized that they don't actually perform any situation as you imagine.
+
+102
+00:09:06,041 --> 00:09:07,801
+So you're not involved in a real situation.
+
+103
+00:09:07,961 --> 00:09:12,521
+Well, if you are involved in the situation, you're imagining you're involved in the situation.
+
+104
+00:09:12,921 --> 00:09:14,521
+You're involved in an imaginary situation.
+
+105
+00:09:14,520 --> 00:09:15,161
+That's right.
+
+106
+00:09:15,321 --> 00:09:15,721
+All day.
+
+107
+00:09:17,081 --> 00:09:18,921
+Being involved in that.
+
+108
+00:09:20,201 --> 00:09:21,641
+No, throwing out into your own world.
+
+109
+00:09:21,801 --> 00:09:24,201
+Yeah, it shouldn't project the world in either.
+
+110
+00:09:24,360 --> 00:09:33,561
+But if you're involved in an imaginary situation or imagining you're involved in a situation, that's not practical hands-on activity.
+
+111
+00:09:33,561 --> 00:09:35,481
+You're not getting any feedback.
+
+112
+00:09:35,480 --> 00:09:39,801
+You're not getting any, you know, you can't fail to get a grip.
+
+113
+00:09:39,801 --> 00:09:54,921
+Try to, you know, imagining getting a grip on your coffee mug or imaginary, although getting a grip on an imaginary coffee mug, it comes to the same thing, is not the same as actually getting a grip on it.
+
+114
+00:09:54,921 --> 00:09:56,601
+Here's one way to say it.
+
+115
+00:09:56,840 --> 00:09:59,321
+Only this is not in here, but it might help.
+
+116
+00:09:59,641 --> 00:10:03,481
+I know this might help a lot, might just blur things.
+
+117
+00:10:03,480 --> 00:10:25,201
+In Milner and Goodale, who are these people who are the interesting ones who actually videotape people's hands when they were getting ready to go out the door and actually showed how their hand was magically at the door for as soon as they formed the intention to go out, meaning their hand began to take the shape of the doorknob as soon as they got ready to go out, which is terrific.
+
+118
+00:10:25,441 --> 00:10:29,761
+I also discovered something which I haven't mentioned, but it's now become very interesting.
+
+119
+00:10:29,760 --> 00:10:34,801
+You can also say, imagine that you're just getting up and going out the door.
+
+120
+00:10:34,801 --> 00:10:37,201
+What do you think happens to their hand then?
+
+121
+00:10:37,520 --> 00:10:39,920
+Well, it's hard to just picture.
+
+122
+00:10:39,921 --> 00:10:49,761
+But it takes a sort of a door shape, but not an actually concretely relevant door shape.
+
+123
+00:10:49,760 --> 00:10:51,281
+That's very interesting.
+
+124
+00:10:51,281 --> 00:11:00,401
+That shows that the attitude of imagining going out the door is not like going out the door or getting ready to grip an imaginary cup.
+
+125
+00:11:00,401 --> 00:11:09,681
+Your hand will sort of get somewhere, but if it's getting ready to grip your coffee cup and drink your coffee, it has to get exactly right to get where the handle is and everything.
+
+126
+00:11:09,681 --> 00:11:10,961
+That's different.
+
+127
+00:11:10,961 --> 00:11:12,961
+And now, we'll have to rethink.
+
+128
+00:11:13,360 --> 00:11:14,481
+Yeah, one last problem.
+
+129
+00:11:15,041 --> 00:11:21,201
+I think that Schneider's problem is that he cannot perform abstract movements without picking up.
+
+130
+00:11:21,600 --> 00:11:26,001
+It's not the definition of abstract movements that requires him to get theoretical sense.
+
+131
+00:11:26,081 --> 00:11:27,201
+There isn't real contrast, though.
+
+132
+00:11:27,201 --> 00:11:28,961
+I'm not questioning the contrast to draw it.
+
+133
+00:11:28,961 --> 00:11:34,961
+But the concrete abstract is a contrast between two different kinds of anomalous experience.
+
+134
+00:11:35,041 --> 00:11:36,961
+He has a great number of different abstracts.
+
+135
+00:11:36,961 --> 00:11:38,641
+Snyder tends to do the abstract.
+
+136
+00:11:39,041 --> 00:11:40,961
+Snyder really can't do either one of the lines.
+
+137
+00:11:40,961 --> 00:11:43,041
+That's why it's so hard to follow.
+
+138
+00:11:43,360 --> 00:11:47,440
+He can't, he does have a certain abstract, a very weird abstract.
+
+139
+00:11:47,441 --> 00:11:58,681
+Remember, he has to do as if he was a computer, figure out where his arm is and where his head is and bring his arm in relation to his head when he's imagining the mood.
+
+140
+00:11:56,401 --> 00:12:01,561
+But that by the terms, he's not just seems to me.
+
+141
+00:12:01,880 --> 00:12:06,201
+That is all given as evidence that he's unable to do his abstract movement.
+
+142
+00:12:06,201 --> 00:12:10,441
+He does this weird flux and both are right.
+
+143
+00:12:11,000 --> 00:12:11,641
+I think.
+
+144
+00:12:12,840 --> 00:12:19,881
+When he both have this peculiar character, that's what I want to talk about.
+
+145
+00:12:19,880 --> 00:12:24,761
+There's a sort of a right way to do abstract and what normal people do.
+
+146
+00:12:24,760 --> 00:12:35,081
+And then there's Schneider version of it, which is somehow a broken down, distorted version of it, so that he has to find his hand and find his head and bring his hand in an objective place to his head.
+
+147
+00:12:35,081 --> 00:12:40,681
+That's abstract, all right, but it's not the way people imagine that the solutions.
+
+148
+00:12:40,921 --> 00:12:43,801
+And he has to figure out analogies, whatever.
+
+149
+00:12:43,801 --> 00:12:49,001
+When he behaves like a computer, he's certainly not in the concrete attitude.
+
+150
+00:12:49,000 --> 00:12:54,601
+And he's certainly not in the normal abstract attitude because he's not normal.
+
+151
+00:12:54,600 --> 00:12:57,880
+But I think he's in the abnormal abstract attitude.
+
+152
+00:12:57,880 --> 00:13:00,521
+But maybe that's not the way they talk about it.
+
+153
+00:13:00,681 --> 00:13:01,321
+Let's look.
+
+154
+00:13:01,641 --> 00:13:01,961
+Yeah.
+
+155
+00:13:01,961 --> 00:13:04,201
+Yeah, and this is kind of a point Ola mention last week.
+
+156
+00:13:04,201 --> 00:13:12,360
+I think it's certainly important to pay attention to how, at least when Grailton Goldskin talked about it, it spent about obstructing how to movement.
+
+157
+00:13:12,360 --> 00:13:14,840
+And I think bringing in attitudes is complicated.
+
+158
+00:13:15,240 --> 00:13:17,241
+I did find a path where he doesn't talk about that.
+
+159
+00:13:17,321 --> 00:13:17,721
+Yeah.
+
+160
+00:13:17,720 --> 00:13:19,241
+It's not till later on.
+
+161
+00:13:19,240 --> 00:13:21,721
+So I'm not sure what the relation is.
+
+162
+00:13:22,120 --> 00:13:22,520
+Easy.
+
+163
+00:13:22,840 --> 00:13:28,600
+What you make in the concrete attitude are concrete movements, and what you make in the abstract attitude are abstract movements.
+
+164
+00:13:28,600 --> 00:13:30,041
+I don't see any big deal.
+
+165
+00:13:30,600 --> 00:13:32,201
+Well, I think it might be a big deal.
+
+166
+00:13:32,201 --> 00:13:35,081
+Well, then tell me how, or maybe we don't know yet.
+
+167
+00:13:35,401 --> 00:13:35,961
+Keep an eye open.
+
+168
+00:13:36,201 --> 00:13:46,240
+Okay, well, one thing I think is that, well, when we're talking about attitudes, it's kind of well, I just give it a kind of Heideggerian take where it's like that, I mean not what's that.
+
+169
+00:13:41,801 --> 00:13:48,961
+I see, no, no, that would that would be giving them too much credit.
+
+170
+00:13:49,201 --> 00:13:49,681
+That's right.
+
+171
+00:13:50,081 --> 00:13:51,281
+That's what I'm afraid of, yeah.
+
+172
+00:13:51,281 --> 00:13:52,081
+I see.
+
+173
+00:13:52,401 --> 00:13:53,520
+Well, keep your eyes open.
+
+174
+00:13:53,520 --> 00:13:58,321
+I'm pretty sure that concrete and abstract attitude are their terms.
+
+175
+00:13:58,321 --> 00:14:00,561
+And we have to just get used to that.
+
+176
+00:14:00,561 --> 00:14:02,161
+Well, no, movement is the one that's.
+
+177
+00:14:02,240 --> 00:14:03,521
+Well, so is attitude, no?
+
+178
+00:14:04,161 --> 00:14:04,640
+I don't see it.
+
+179
+00:14:04,961 --> 00:14:07,281
+You said you found it about one place.
+
+180
+00:14:07,281 --> 00:14:09,201
+Well, but it's their term.
+
+181
+00:14:09,201 --> 00:14:12,961
+I mean, Nikki, the fact that it's their term, and that it's not.
+
+182
+00:14:13,120 --> 00:14:14,241
+I don't know whose term it is.
+
+183
+00:14:14,240 --> 00:14:19,201
+I mean, it might just be more little scientific, but I guess I want to go back to the previous point in this page.
+
+184
+00:14:19,600 --> 00:14:29,601
+There is this important distinction of abstract movements that make with his eyes open versus abstract movements with which he cannot make with his eyes closed.
+
+185
+00:14:29,600 --> 00:14:33,840
+So, I mean, that's, I feel like that's the important distinction to get it clear.
+
+186
+00:14:34,000 --> 00:14:35,121
+Why is that important?
+
+187
+00:14:35,120 --> 00:14:35,441
+I don't know.
+
+188
+00:14:35,441 --> 00:14:38,081
+Well, one thing that's how the problem is introduced.
+
+189
+00:14:38,081 --> 00:14:46,480
+And so, if you want to know what striders can and can do, we want to really try to do the abstract movement with his eyes open in a very weird important way.
+
+190
+00:14:46,880 --> 00:14:49,041
+Can do the abstract movement with the vital.
+
+191
+00:14:49,360 --> 00:14:54,401
+Well, that's tied up with the role of the visual in it, which has got some very important thing.
+
+192
+00:14:54,401 --> 00:15:03,681
+The visual, insofar as he's got a little bit of vision, which isn't much, he has more of the abstract way of being able to cope.
+
+193
+00:15:03,681 --> 00:15:05,921
+I'm trying to find a word that's different than abstract movement.
+
+194
+00:15:06,000 --> 00:15:08,561
+What you want is a word for abstract behavior.
+
+195
+00:15:08,561 --> 00:15:09,520
+I mean, who cares?
+
+196
+00:15:09,760 --> 00:15:11,120
+Movement is too specific.
+
+197
+00:15:11,120 --> 00:15:12,961
+Maybe if you don't like attitude, let's get it.
+
+198
+00:15:13,120 --> 00:15:18,201
+Right, but what's the word that Galvin Geltengoldstein are using, but we want to know what's wrong with that way of thinking, but it's not a problem.
+
+199
+00:15:18,401 --> 00:15:20,561
+Well, I'll settle for movement.
+
+200
+00:15:20,561 --> 00:15:22,161
+I'm our comportnite.
+
+201
+00:15:22,161 --> 00:15:24,561
+Anyway, he has, what was I just saying?
+
+202
+00:15:25,600 --> 00:15:34,360
+He has the abstract comportment, and vision helps him out insofar.
+
+203
+00:15:34,360 --> 00:15:40,281
+And that's why you get all this discussion of the relation of abstract movement to vision.
+
+204
+00:15:40,281 --> 00:15:45,321
+And he doesn't have much vision, and he doesn't have much abstract movement either.
+
+205
+00:15:45,321 --> 00:15:51,000
+But if vision does help him, he can't do it at all without thinking what he's doing.
+
+206
+00:15:51,000 --> 00:15:51,321
+Yeah.
+
+207
+00:15:59,321 --> 00:16:02,760
+The language also does critique of their view.
+
+208
+00:16:03,961 --> 00:16:14,120
+Also that it's too cognitive, that it's absolutely another clue.
+
+209
+00:16:14,120 --> 00:16:19,561
+He thinks that they do it in terms of consciousness or else mechanical.
+
+210
+00:16:19,961 --> 00:16:30,201
+That's when he gets, I will get to that, when he starts putting it in Sartrean forms, that they think that it's either physiological, that everybody's behavior.
+
+211
+00:16:31,000 --> 00:16:32,120
+It isn't just Schneider.
+
+212
+00:16:32,760 --> 00:16:58,280
+That's their basic understanding, but Schneider has it in a they think, I understand it, everybody's behavior is misunderstood if you think that it's either physiological and mechanical or that it's mental and computational, roughly, or intellectually.
+
+213
+00:16:58,601 --> 00:17:03,800
+Those are the wrong ways of thinking about the way people behave.
+
+214
+00:17:04,121 --> 00:17:18,000
+And when he's talking about the wrong ways, he'll use terms like the in-itself, which is the empiricist mechanical understanding of movement in faith.
+
+215
+00:17:18,320 --> 00:17:26,240
+And then he'll call the other one, when he'll use for itself, which is Sarkrian terminology, for the conscious part.
+
+216
+00:17:26,240 --> 00:17:30,560
+And those are clues that it's not his view he's giving.
+
+217
+00:17:30,560 --> 00:17:33,601
+It's not even Geld and Goldstein at their best.
+
+218
+00:17:33,601 --> 00:17:54,400
+But he's saying that, well, really, because Geld and Goldstein separate the abstract and the concrete movement and don't see how they're commonly grounded in being in the world, you can push their view to the extreme where it really becomes the physiological versus the mental.
+
+219
+00:17:54,401 --> 00:17:56,880
+And that just shows that it's wrong.
+
+220
+00:17:57,280 --> 00:18:03,201
+And because it does so, it can't get near what's wrong with Schneider.
+
+221
+00:18:03,201 --> 00:18:06,240
+Because I'll just keep repeating this, but it helps to know where you're heading.
+
+222
+00:18:06,240 --> 00:18:09,280
+Schneider's got something wrong with being in the world.
+
+223
+00:18:09,841 --> 00:18:13,761
+He has funny words for it's leveled, it's limp, it's weak.
+
+224
+00:18:13,760 --> 00:18:21,760
+So whatever it is, it's not something wrong with their abstract movement or their concrete movement, although it expresses itself that way.
+
+225
+00:18:21,760 --> 00:18:23,921
+There's a deeper something wrong.
+
+226
+00:18:24,240 --> 00:18:25,601
+Yeah, Olivia.
+
+227
+00:18:26,240 --> 00:18:39,600
+Well, Mario says that you thought that the moment is open to those verbal and imaginary situations which you can choose for himself, and we don't need to get it to give him rewards to come to you.
+
+228
+00:18:40,080 --> 00:18:43,281
+Oh, that's just a pun on situations, I think.
+
+229
+00:18:43,921 --> 00:18:45,361
+I don't see what you're saying there.
+
+230
+00:18:45,361 --> 00:18:50,560
+The important thing is he's open to something real and imaginary.
+
+231
+00:18:50,800 --> 00:19:04,201
+If you want to use the word situation, both for being in a situation which is coping and being in a situation in which you're just staring at something without doing anything or have anything at stake, call them both situations if you want.
+
+232
+00:19:04,201 --> 00:19:11,240
+But the important thing is there are two ways of doing things, being involved and being detached.
+
+233
+00:19:11,240 --> 00:19:16,921
+And you're making that joke, it seems to me, to say, well, being in detached is a situation too.
+
+234
+00:19:16,921 --> 00:19:17,480
+Yeah.
+
+235
+00:19:17,800 --> 00:19:21,400
+But then there are two kinds of situations: being involved and being detached.
+
+236
+00:19:21,401 --> 00:19:23,560
+And you have to re just rese the whole thing.
+
+237
+00:19:23,560 --> 00:19:25,560
+But nothing is added, is it?
+
+238
+00:19:25,881 --> 00:19:30,121
+I think being an aspect of two doesn't mean that you're detached.
+
+239
+00:19:30,280 --> 00:19:32,760
+Is there why you shouldn't be in the theory of it?
+
+240
+00:19:33,000 --> 00:19:34,201
+You don't.
+
+241
+00:19:35,080 --> 00:19:35,881
+You don't either.
+
+242
+00:19:35,881 --> 00:19:37,401
+Well, tell me why not.
+
+243
+00:19:37,401 --> 00:19:55,320
+Because I I well, it's like I think this thing of somebody making an abstract movement without actually being going into a situation with all these comments in your head, being in the world, how you must have that confidence the door be situated with being situated having a concept that others.
+
+244
+00:19:57,000 --> 00:19:58,280
+You have to be situated.
+
+245
+00:19:58,280 --> 00:20:01,880
+I want you to have an abstract movement going for the door.
+
+246
+00:20:01,881 --> 00:20:07,161
+Well, minimally situated, you have to find where your arm is and where your head is.
+
+247
+00:20:07,560 --> 00:20:17,800
+Your body is an un your your your body is just a blob and your directedness is very uh what?
+
+248
+00:20:19,080 --> 00:20:21,001
+Well, and you remember what happens.
+
+249
+00:20:21,000 --> 00:20:35,640
+Your directedness is either sort of totally mechanical, in which you just go to the door in a completely involved way, or it's so uh unsituated that uh well, oh what?
+
+250
+00:20:35,641 --> 00:20:41,880
+Or you can't get to the door what what what does he have to do to go out the door if you want?
+
+251
+00:20:42,080 --> 00:20:49,040
+If he isn't involved, he has to, when you tell him, don't go out the door, just go up to the door and stop.
+
+252
+00:20:49,040 --> 00:20:50,321
+That's what he can't do.
+
+253
+00:20:51,441 --> 00:20:52,321
+That's clear.
+
+254
+00:20:52,320 --> 00:20:54,081
+But let me just say, why can't he?
+
+255
+00:20:54,480 --> 00:20:56,800
+Try to get the, keep your eye on the phenomenon.
+
+256
+00:20:56,800 --> 00:20:59,280
+We'll go to the vocabulary later.
+
+257
+00:21:00,320 --> 00:21:02,720
+What is it that he can't do about doors?
+
+258
+00:21:02,720 --> 00:21:10,080
+He can certainly march right out the door if you tell him to, as long as he's in the situation as, let's say, now it's time to go home.
+
+259
+00:21:10,720 --> 00:21:17,760
+And he can go into his own house too, remember, if he's trying to go to his house, but he walks right by and doesn't recognize his house if he's not.
+
+260
+00:21:17,760 --> 00:21:21,201
+That is, then when he's in the concrete situation, he's just like an ant.
+
+261
+00:21:21,201 --> 00:21:25,921
+He's totally involved, and he has no other options and can't stand that.
+
+262
+00:21:25,921 --> 00:21:28,081
+That's what it is to go out the door for him.
+
+263
+00:21:28,480 --> 00:21:33,361
+What's so funny is that you can tell him, well, just go up to the door but not out of it.
+
+264
+00:21:33,361 --> 00:21:34,880
+And he can't do it.
+
+265
+00:21:34,881 --> 00:21:35,840
+Why?
+
+266
+00:21:36,480 --> 00:21:47,600
+Well, because if you're going to go out the door, your hand has to start taking the form, and your body has to start taking the shape that it's going to need when you get there and go out.
+
+267
+00:21:47,921 --> 00:21:54,481
+If you tell him you're going to go to the door, but you're not really going to go out, then his hand and body can't take the right shape and he can't go.
+
+268
+00:21:54,480 --> 00:21:56,400
+He can't do it, as I understand it.
+
+269
+00:21:56,401 --> 00:21:57,840
+But first him, then I'll go.
+
+270
+00:21:57,921 --> 00:21:58,480
+Okay, go ahead.
+
+271
+00:22:01,201 --> 00:22:06,560
+Concrete wants to be part of the very highest involved in an imaginary situation.
+
+272
+00:22:09,841 --> 00:22:10,240
+Right.
+
+273
+00:22:11,280 --> 00:22:17,201
+But signers and concrete situations has been willing to participate in the experiment.
+
+274
+00:22:17,201 --> 00:22:24,320
+So these con like when he's trying to perform a concrete task, we're still kind of messed up because of the intentional artist messed up.
+
+275
+00:22:24,321 --> 00:22:26,961
+So he's going to do all these preparatory movement and stuff like that.
+
+276
+00:22:27,240 --> 00:22:36,281
+When it comes to the abstract situation Oh, he can, in his peculiar way, he can figure out that something's a triangle by feeling that it's got three sides.
+
+277
+00:22:36,280 --> 00:22:41,961
+He can figure out that it's a metaphor by saying, well, it's the hearing and seeing is done by sense organs.
+
+278
+00:22:41,961 --> 00:22:43,560
+That's why it's a metaphor.
+
+279
+00:22:43,560 --> 00:22:45,080
+He can do abstract stuff.
+
+280
+00:22:45,080 --> 00:22:57,961
+It's just very, uh very peculiarly unrelated to any feel for how you normally involve in dealing at triangles or metaphors, I think.
+
+281
+00:22:57,961 --> 00:23:26,361
+Well, you have to do the abstract you have to bring it into a concrete situation, like you have to actually phrase like the triangle or something like that, and then do like, oh, the triangle has no like like when um he was describing how the uh subtract and you all have didn't have the concept of numbers, like five plus four minus four, they said, well, five remains, but they didn't understand the plus four minus four, like the abstract concept right there.
+
+282
+00:23:26,361 --> 00:23:33,640
+Like because numbers were just a sequence of things that just count in the moment in the concrete situation, but he couldn't like abstract them.
+
+283
+00:23:33,961 --> 00:23:38,760
+And I think that's because the intentional art is not and he can't doesn't have the background.
+
+284
+00:23:39,000 --> 00:23:40,601
+Yes, that's always because of that.
+
+285
+00:23:40,601 --> 00:23:44,760
+But all we're just all we're discussing, I keep thinking, is our terminology.
+
+286
+00:23:44,760 --> 00:23:56,360
+Are you going to say that he hasn't got any abstract attitude because he can't do these things, or his abstract attitude is sort of utterly minimal and computer-like?
+
+287
+00:23:56,361 --> 00:24:02,760
+It's like saying, does he have a concrete attitude if he can go out the door, but he can't go toward the door and stop.
+
+288
+00:24:02,760 --> 00:24:06,921
+I would say in both cases, maybe I'm all off on this and I'll learn a lot.
+
+289
+00:24:06,921 --> 00:24:15,601
+In both, if he has some kind of pathetic parody of the abstract and some kind of pathetic animal-like parody of the concrete.
+
+290
+00:24:11,480 --> 00:24:22,161
+It isn't as if he doesn't have them, he can make these wallets, but he has them in ways that normal people don't.
+
+291
+00:24:22,161 --> 00:24:25,280
+And the question is sort of what's missing.
+
+292
+00:24:25,280 --> 00:24:32,000
+And Gelb and Goldstein really say, I think, listen, we'll pay attention to this, what's missing is the right mix of the two.
+
+293
+00:24:32,000 --> 00:24:41,760
+There's a footnote where he catches Geld talking about we need the proper mixture of the abstract and the concrete, and Schneider doesn't have it.
+
+294
+00:24:41,760 --> 00:24:47,600
+But of course, and immediately, Merolopante says, surely that's not going to explain the weird.
+
+295
+00:24:47,760 --> 00:24:52,401
+And then he catches Geld saying in another meeting, well, I was wrong about that.
+
+296
+00:24:52,401 --> 00:24:53,520
+I shouldn't have said mixture.
+
+297
+00:24:53,841 --> 00:25:01,120
+But the problem is they don't have anything else to say because they don't have this fundamental thing of which those two are aspects.
+
+298
+00:25:02,080 --> 00:25:03,840
+Okay, Topi and then Faldom.
+
+299
+00:25:03,841 --> 00:25:04,240
+Yeah.
+
+300
+00:25:04,720 --> 00:25:06,401
+That's all I did.
+
+301
+00:25:06,961 --> 00:25:14,560
+How in both cases, in the abstract is a concrete, situation, but in the abstract case, this is an anti-reading situation.
+
+302
+00:25:14,560 --> 00:25:24,080
+And we think the point he's going to make is that if Golden, if he's a normal person, you can have abstract things that they both have the other word, but in different ways.
+
+303
+00:25:24,080 --> 00:25:30,640
+So they both retire like situations, but one of them creates.
+
+304
+00:25:30,881 --> 00:25:32,001
+For normal people.
+
+305
+00:25:32,320 --> 00:25:33,040
+Yes.
+
+306
+00:25:34,560 --> 00:25:37,921
+I guess I'm just, I know, only worried about the word situation.
+
+307
+00:25:38,560 --> 00:25:47,921
+I'll give him the word situation, but then we need a new word for what I was calling the concrete situation where you're involved in actually doing something.
+
+308
+00:25:47,881 --> 00:25:56,600
+Call that situation A and another situation where you're not involved in concretely coping and doing something.
+
+309
+00:25:56,601 --> 00:25:59,161
+You're imagining things and so forth.
+
+310
+00:25:56,161 --> 00:26:02,441
+If you want to call that a situation, call it situation I, the imagining.
+
+311
+00:26:02,681 --> 00:26:04,600
+It's just a question of words.
+
+312
+00:26:04,601 --> 00:26:07,240
+They're just two different things you can do.
+
+313
+00:26:07,240 --> 00:26:21,560
+You can cope in an involved way, or you can cope in a way which is not animal-like, not grounded in some task that is going on.
+
+314
+00:26:21,560 --> 00:26:22,840
+Well, task is ambiguous.
+
+315
+00:26:22,841 --> 00:26:23,961
+They're all ambiguous.
+
+316
+00:26:23,961 --> 00:26:26,760
+But the phenomenon isn't ambiguous.
+
+317
+00:26:27,000 --> 00:26:31,640
+It's clear enough that there are two kinds of tasks, as well as two kinds of situations.
+
+318
+00:26:32,681 --> 00:26:33,081
+What?
+
+319
+00:26:33,080 --> 00:26:34,120
+And you're coping to.
+
+320
+00:26:34,280 --> 00:26:35,801
+And there are two kinds of cope.
+
+321
+00:26:37,401 --> 00:26:39,401
+So don't worry about the vocabulary.
+
+322
+00:26:39,401 --> 00:26:40,601
+Worry about the phenomena.
+
+323
+00:26:40,601 --> 00:26:47,560
+But what matters, what matters is that what we're dealing with in tasks is not a two-way argumentation of the phenomenon.
+
+324
+00:26:47,560 --> 00:26:50,441
+There's three different phenomena, all of which are on the plan.
+
+325
+00:26:50,760 --> 00:26:55,720
+And you don't want to get caught up in the vocabulary, but I think it's important to see that there are three different tell me the three.
+
+326
+00:26:55,720 --> 00:27:03,160
+Well, the three are the first is worldistic behavior, which is concrete.
+
+327
+00:27:03,320 --> 00:27:04,040
+That's it.
+
+328
+00:27:04,201 --> 00:27:07,001
+That's what he calls centripetal.
+
+329
+00:27:07,161 --> 00:27:07,961
+Use that term.
+
+330
+00:27:08,121 --> 00:27:11,000
+Yes, it's coming from world in.
+
+331
+00:27:11,080 --> 00:27:11,961
+That's right.
+
+332
+00:27:11,961 --> 00:27:20,921
+And then there is centriputal, which is where the background is thrown at the soul and page 143.
+
+333
+00:27:21,161 --> 00:27:22,681
+The background is thrown out.
+
+334
+00:27:22,681 --> 00:27:23,560
+You're imagining.
+
+335
+00:27:23,641 --> 00:27:23,961
+Right.
+
+336
+00:27:23,961 --> 00:27:25,240
+And that's abstract.
+
+337
+00:27:25,240 --> 00:27:25,641
+Right.
+
+338
+00:27:25,961 --> 00:27:33,240
+Both of those are forms of normal behavior.
+
+339
+00:27:33,240 --> 00:27:36,360
+Both of those are forms of situated behavior.
+
+340
+00:27:36,361 --> 00:27:38,840
+Both of those are forms of lived experience.
+
+341
+00:27:39,161 --> 00:27:39,800
+Those are two.
+
+342
+00:27:40,040 --> 00:27:41,761
+And then there's a third contrast.
+
+343
+00:27:41,560 --> 00:27:48,161
+Even though there is a difference between the dwarfs listening to me and my imagining the presence of the door, those are different.
+
+344
+00:27:48,881 --> 00:28:01,361
+But the third contrast is where I must use my intellect and my vision to find my arm, flex my muscle, and go through the motions that my mind tells me I would perform if I were engaged.
+
+345
+00:28:01,361 --> 00:28:07,921
+And he writes me, you know, the all three on 827, when he first describes a situation where I'm ringing to a friend.
+
+346
+00:28:07,921 --> 00:28:08,161
+Yeah.
+
+347
+00:28:08,161 --> 00:28:09,441
+Oh, yeah, I'm going to have your pain.
+
+348
+00:28:10,161 --> 00:28:47,201
+Then he says, if I then execute, quote, the same movement, but without any presence, that is to say, not in confidence in the frame, or even imaginary partner in my mind, that is to say, it's not in my abstract situation, but treated as a set of movements and steps, if I perform a flexion of the forearm in relation to my upper arm, with the combination of matter, a flexion of the fibers, my body, which a moment ago was the vehicle of the movement, both in the abstract and in the concrete case, now becomes its own energy.
+
+349
+00:28:47,441 --> 00:28:54,240
+Its motif function is no longer going to be called someone in the world, but towards my body itself, towards my forehead or arm.
+
+350
+00:28:54,240 --> 00:28:56,560
+And so that's the third class.
+
+351
+00:28:56,560 --> 00:28:58,560
+So there's these new distinctions.
+
+352
+00:28:58,881 --> 00:29:03,121
+Well, it seems to me that only two of them play a big role.
+
+353
+00:29:03,121 --> 00:29:05,520
+I mean, that third thing doesn't come around.
+
+354
+00:29:05,520 --> 00:29:17,841
+And Prince White is saying, you know, continuously, on the novel, every event, factor or whatever events ranges, predictions, uh, conventions, the growth, probability as virtual action centers, towards.
+
+355
+00:29:17,401 --> 00:29:25,600
+So, the body itself, or towards the object or these two sides are parts of the leader and is really.
+
+356
+00:29:25,601 --> 00:29:28,520
+And the third thing of sort of scary and searching the world is.
+
+357
+00:29:26,320 --> 00:29:33,400
+That may be true, but that's just still in a more local manner.
+
+358
+00:29:33,560 --> 00:29:40,361
+Because what's extinct is whether he wants to understand the contrast here, between a theoretical past attitude and an engagement attitude.
+
+359
+00:29:40,441 --> 00:29:47,161
+The point is, this is evidence of what a truly detached attitude would look like, but it's not what he's calling the abstract attitude.
+
+360
+00:29:47,161 --> 00:29:51,160
+That's right, because maybe they're both abstract.
+
+361
+00:29:51,161 --> 00:29:53,640
+I don't give an it's a kind of parody of the normal attitude.
+
+362
+00:29:56,681 --> 00:29:58,441
+Good, good, but let's do that.
+
+363
+00:29:59,881 --> 00:30:03,000
+It's as if he had, let's say that for the Heideggerians.
+
+364
+00:30:03,000 --> 00:30:11,001
+It's as if the concrete attitude is ready to hand is dealing with things ready to hand, and the abstract attitude is dealing with things present at hand.
+
+365
+00:30:12,201 --> 00:30:13,480
+Sometimes ready to handle something.
+
+366
+00:30:13,641 --> 00:30:16,040
+No, no, they have no present at hand in the abstract.
+
+367
+00:30:16,681 --> 00:30:27,641
+I think his point was that there can be an abstract attitude where you've already looked at something that is present of hand and really articulating your body to do something in a very present-of-hand way.
+
+368
+00:30:27,641 --> 00:30:30,281
+That's the abstract attitude that's not coping.
+
+369
+00:30:30,280 --> 00:30:35,400
+But there is an abstract attitude that is coping, that a normal person, you know, develops.
+
+370
+00:30:35,401 --> 00:30:47,000
+Like, if I was my original point before was if I was going to go open that door and had an abstract attitude towards it, um, I wouldn't actually calculate when the harm goes and look at it in my having to go right at it.
+
+371
+00:30:47,000 --> 00:31:03,921
+I would just do it with my head and that's this abstract attitude that't the actual wait wait wait wait man if you just want to go out the door, that's not the abstract attitude.
+
+372
+00:31:03,720 --> 00:31:05,280
+Oh, big three minutes.
+
+373
+00:31:09,641 --> 00:31:12,961
+If you imagine going out the door, you're in the present at hand business.
+
+374
+00:31:12,961 --> 00:31:21,761
+Well, my point was that usually when I imagine the moment right now, I'm not calculating looking at that door handle, even in my imagination.
+
+375
+00:31:22,161 --> 00:31:24,880
+I'm just kind of doing it to my imagination.
+
+376
+00:31:25,201 --> 00:31:31,681
+Yeah, so I mean, it's hard to know what that third thing is, I guess, in Heideggerian terms.
+
+377
+00:31:32,480 --> 00:31:33,601
+I don't even know.
+
+378
+00:31:34,000 --> 00:31:34,720
+Excuse me, Boston.
+
+379
+00:31:34,961 --> 00:31:38,320
+If you imagine going out the door, you have to do Heideggerian terms.
+
+380
+00:31:38,641 --> 00:31:41,840
+Are you looking at the door as a present-at-hand thing?
+
+381
+00:31:41,841 --> 00:31:45,041
+Or are you weird?
+
+382
+00:31:45,441 --> 00:31:46,001
+I don't know.
+
+383
+00:31:46,000 --> 00:31:46,561
+I don't know.
+
+384
+00:31:46,560 --> 00:31:47,201
+Do you know?
+
+385
+00:31:48,401 --> 00:31:50,560
+I think sometimes I've never done it before.
+
+386
+00:31:50,560 --> 00:31:55,760
+I've just learned that, yeah, I've actually got to look at the thing in a present-hand way.
+
+387
+00:31:55,921 --> 00:32:04,961
+I've already done it here, and then I have this memory of it, but I still don't have that open attitude, so I've got to actually look at the present at hand, even though it's actually going out the door.
+
+388
+00:32:05,201 --> 00:32:08,880
+But I mean, I think there's two ways of having this abstract attitude.
+
+389
+00:32:10,560 --> 00:32:12,160
+Well, I'm completely agree.
+
+390
+00:32:12,320 --> 00:32:13,760
+There's all of the important ones.
+
+391
+00:32:13,760 --> 00:32:14,961
+I would review that.
+
+392
+00:32:14,961 --> 00:32:32,640
+There is, if you want to do it in Heidegger and quick, there is the ready-to-hand and the present-at-hand, and then, of course, there is transcendence, being in the world, openness, which with both of those modes of intentionality, that's what they're called now, and not attitude and not motion.
+
+393
+00:32:32,641 --> 00:32:44,641
+The ready-to-hand kind of intentionality, the present-hand kind of intentionality, presupposes being in the world, which is not itself a kind of intentionality, Heidegger says, but the condition for the other two.
+
+394
+00:32:44,641 --> 00:32:47,841
+That's exactly what Marlowe Punty has thought.
+
+395
+00:32:48,560 --> 00:32:52,720
+Like Heidegger, he calls it existence sometimes, and sometimes he calls it things in the word.
+
+396
+00:32:52,800 --> 00:32:55,921
+Those are synonymous for him and for Heidegger.
+
+397
+00:32:56,320 --> 00:32:57,080
+Yeah.
+
+398
+00:32:57,720 --> 00:32:59,080
+You're going to say that?
+
+399
+00:32:56,560 --> 00:33:00,761
+Oh, with this one passage.
+
+400
+00:33:01,240 --> 00:33:02,360
+Any quote?
+
+401
+00:33:02,841 --> 00:33:13,000
+There is this quote, which is sort of funny quote, where he does it with, I mean, we might as well look at it, where he introduces, here we are, on page 140.
+
+402
+00:33:13,961 --> 00:33:16,840
+It's got Husserl in it, but it doesn't matter.
+
+403
+00:33:17,161 --> 00:33:19,800
+Husserl's been credited with this distinction.
+
+404
+00:33:19,800 --> 00:33:21,880
+Well, at least we have to read what he's talking about.
+
+405
+00:33:22,201 --> 00:33:24,441
+There's one of these punchlines on 140.
+
+406
+00:33:24,441 --> 00:33:34,521
+The distinction between concrete and abstract movement, between Greyfen and Seigen, comes down to the distinction between the physiological and the Tsaigig.
+
+407
+00:33:35,000 --> 00:33:36,601
+This is not his view.
+
+408
+00:33:36,600 --> 00:33:39,240
+Existence in itself and existing for itself.
+
+409
+00:33:39,241 --> 00:33:40,520
+That's wrong.
+
+410
+00:33:40,520 --> 00:33:45,961
+That's what happens if you push Geld and Goldstein with their mixture to the limit.
+
+411
+00:33:45,961 --> 00:33:47,320
+And then there's the footnote.
+
+412
+00:33:47,321 --> 00:33:51,320
+Husserl's often been credited with this distinction, which is a bad distinction.
+
+413
+00:33:51,401 --> 00:33:53,800
+In fact, it is found in Descartes and Kant.
+
+414
+00:33:53,801 --> 00:33:55,801
+It's bad wherever you find it.
+
+415
+00:33:55,801 --> 00:33:59,720
+In our opinion, Husserl's originality lies beyond the notion of intentionality.
+
+416
+00:33:59,721 --> 00:34:08,920
+I mean, if you don't giving him credit for this distinction, which is what Sartre would do, by the way, it's Sartre, too, who has the for-itself in itself distinction.
+
+417
+00:34:08,921 --> 00:34:10,520
+That's not important.
+
+418
+00:34:11,881 --> 00:34:25,560
+If Husserl's got anything right, it's to be found in the elaboration of his notion of the discovery beneath the intentionality of representations of deeper intentionality, which he's always claiming Husserl's got, which I'm not going to do as Husserl's got.
+
+419
+00:34:25,721 --> 00:34:29,480
+But anyway, what others, and this is the funny part, have called existence.
+
+420
+00:34:29,480 --> 00:34:30,441
+Who's the others?
+
+421
+00:34:30,441 --> 00:34:31,801
+That's Heidegger.
+
+422
+00:34:31,801 --> 00:34:33,641
+That's the deeper thing.
+
+423
+00:34:33,640 --> 00:34:36,040
+It probably shouldn't be called deeper intentionality.
+
+424
+00:34:36,200 --> 00:34:37,640
+At least Heidegger won't call it that.
+
+425
+00:34:37,721 --> 00:34:38,840
+But it doesn't matter.
+
+426
+00:34:38,841 --> 00:34:45,201
+It's what, it's this deeper thing that makes the two normal kinds of intentionality possible.
+
+427
+00:34:45,520 --> 00:34:53,201
+And giving a little, the next footnote sort of gives away where he is.
+
+428
+00:34:53,841 --> 00:35:07,280
+It says Galvin Goldstein never named the third term between the psychic and the physiological, between the for itself and the in itself, to which their analysis always led them, and which we call existence.
+
+429
+00:35:07,281 --> 00:35:10,640
+So now he's taken over the Heidegger term.
+
+430
+00:35:10,801 --> 00:35:12,000
+It's very confusing.
+
+431
+00:35:12,321 --> 00:35:14,161
+That's why I want you to look at this quote.
+
+432
+00:35:14,160 --> 00:35:20,081
+It's unfortunate that there's just two different meanings of existence right next to each other.
+
+433
+00:35:20,080 --> 00:35:34,641
+There's existence for itself and existence in itself, which is the Tharkean, Cartesianized, Husserlian understanding of the two modes of being.
+
+434
+00:35:35,281 --> 00:35:45,681
+And then there is existence the way Heidegger uses it, which is neither of them, neither in itself nor for itself, but something deeper which makes them possible.
+
+435
+00:35:45,680 --> 00:35:48,000
+And unfortunately, that's also called existence.
+
+436
+00:35:48,241 --> 00:35:49,520
+I can't do anything about it.
+
+437
+00:35:50,640 --> 00:35:54,401
+Everybody's claiming the word existence, except maybe not Husserl.
+
+438
+00:35:54,480 --> 00:35:56,640
+I think only Thark.
+
+439
+00:35:56,640 --> 00:36:07,201
+Thark, just to get a you have to understand just for a minute that the way things develop is absolutely peculiar in the history of continental philosophy at this point.
+
+440
+00:36:07,200 --> 00:36:21,121
+Husserl has his view, which is, I think, basically Cartesian, basically for itself, in itself's talk, and representation, intentionality, transcendental consciousness, and so forth.
+
+441
+00:36:21,361 --> 00:36:30,921
+Heidegger reacts against that, develops his whole notion of being in the world and existence as more basic than any kind of intentionality.
+
+442
+00:36:31,480 --> 00:36:53,000
+And then the funny thing is, Sartre comes around, and being French and unable to think outside of Descartes, at least in those days, Cartesianizes Heidegger, turns it back into consciousness and objects in itself, for itself, and links up with Husserl.
+
+443
+00:36:53,000 --> 00:36:56,520
+So that Sartre can be thought of as sort of existentialized Husserl.
+
+444
+00:36:56,520 --> 00:37:00,041
+And Husserl thought, and Husserl, no.
+
+445
+00:37:00,680 --> 00:37:02,441
+There's one other peculiar twist.
+
+446
+00:37:02,441 --> 00:37:06,841
+The Husserl thought that Heidegger was existentialized Husserl, but never mind that.
+
+447
+00:37:07,080 --> 00:37:13,160
+The main thing is that you see what Husserl looks like when put in existential terms, you look at Sartre.
+
+448
+00:37:13,480 --> 00:37:18,040
+Then he got it partly by actually listening to Husserl.
+
+449
+00:37:18,120 --> 00:37:26,520
+Then he got it in part by trying to sort of state what Heidegger's saying, but state it in a way that a Cartesian could understand it.
+
+450
+00:37:27,160 --> 00:37:32,201
+And the crucial thing to pay attention to is whether consciousness plays a crucial role or not.
+
+451
+00:37:32,200 --> 00:37:36,361
+In Husserl and Sartre, consciousness plays an absolutely crucial role.
+
+452
+00:37:36,361 --> 00:37:41,881
+Whether it's active or passive, it's always constituting, it's always synthesizing.
+
+453
+00:37:41,881 --> 00:37:45,961
+And in Heidegger, consciousness doesn't even appear in Demon Terms.
+
+454
+00:37:45,961 --> 00:37:51,640
+And it's not a question of actively or passively synthesizing.
+
+455
+00:37:52,441 --> 00:37:55,561
+It's this whole issue of opening up the world.
+
+456
+00:37:55,560 --> 00:37:56,121
+Yeah.
+
+457
+00:37:56,600 --> 00:37:57,880
+The other question.
+
+458
+00:37:59,080 --> 00:38:01,240
+If I just follow my notes, we'll get there.
+
+459
+00:38:01,241 --> 00:38:03,081
+I'm going to go to following my notes.
+
+460
+00:38:03,080 --> 00:38:10,201
+And maybe we will also discover the answer to some of this difficult terminological trouble we're having.
+
+461
+00:38:10,200 --> 00:38:19,441
+I mean, as far as I'm concerned, if we keep our, if we can agree on the phenomena, the vocabulary can fall where it may, but I'm not sure we're agreeing on the phenomena.
+
+462
+00:38:19,441 --> 00:38:24,081
+But let's start at the bottom of 124, which is where Alva picked it up.
+
+463
+00:38:25,361 --> 00:38:41,361
+At least we can say that the normal subject can immediately come to grips with his body, enjoys, let's see, enjoys the use of his body, not only insofar as it is involved in a concrete setting, given situation, not only in relation to the tasks imposed by a particular job.
+
+464
+00:38:41,361 --> 00:38:44,561
+He is not open merely to real situations.
+
+465
+00:38:44,801 --> 00:38:49,601
+I don't think that's what got us into this discussion.
+
+466
+00:38:49,600 --> 00:38:50,800
+And that's true.
+
+467
+00:38:51,281 --> 00:38:58,480
+So, but the normal person is also involved, and it's very important in the concrete setting.
+
+468
+00:38:58,480 --> 00:39:06,000
+And he also has this other use of his body, which I don't think makes much difference here.
+
+469
+00:39:06,000 --> 00:39:11,760
+But over and above all this, his body is correlated with pure stimuli devoid of any practical bearing.
+
+470
+00:39:11,761 --> 00:39:20,081
+He is open to the verbal and imaginary situations which he can choose for himself or which may be suggested to him in the course of an experiment.
+
+471
+00:39:20,080 --> 00:39:34,241
+Well, roughly, anyway, that's Gelden Goldstein's distinction between involved, I think, and abstract, though I see that there are two different ways that he has his body.
+
+472
+00:39:36,401 --> 00:39:39,361
+I don't think it's going to turn out to be important, but we will see.
+
+473
+00:39:39,361 --> 00:39:43,361
+On 125, there's more about the normal about 59.
+
+474
+00:39:43,441 --> 00:39:51,121
+And in the case of the normal subject, the body is available not only in real situations into which it's drawn, it can turn aside from the world.
+
+475
+00:39:51,120 --> 00:39:54,321
+You see, let me just gloss it the way I understand it.
+
+476
+00:39:54,321 --> 00:39:59,161
+The real situations into which the body is drawn is what I call involved.
+
+477
+00:39:56,801 --> 00:40:04,040
+And I was calling situations, but let's call them real situations.
+
+478
+00:40:04,200 --> 00:40:06,361
+Hooray, we've got a vocabulary now.
+
+479
+00:40:06,600 --> 00:40:14,041
+Real situations means a situation in which you're really doing something, you're not just imagining it, you're coping actually.
+
+480
+00:40:14,040 --> 00:40:18,200
+So you could be involved in a real situation, and then you're drawn into it.
+
+481
+00:40:18,200 --> 00:40:18,841
+We know all that.
+
+482
+00:40:18,841 --> 00:40:21,321
+That's the affordance talk.
+
+483
+00:40:21,321 --> 00:40:23,321
+It can turn aside from the world.
+
+484
+00:40:23,321 --> 00:40:29,721
+I call that as a disengaged attitude, of which theory would be a part.
+
+485
+00:40:29,721 --> 00:40:31,881
+But let's call it turning aside from the world.
+
+486
+00:40:31,881 --> 00:40:35,720
+Notice he does it, and that's called, he doesn't call out a situation here.
+
+487
+00:40:35,801 --> 00:40:38,121
+If you did, you'd have to call it an unreal situation.
+
+488
+00:40:38,120 --> 00:40:48,040
+He can turn aside from the world, apply its activity to stimuli, which affect its sensory surfaces, lend itself to experimentation, and generally speaking, take a place in the realm of the potential.
+
+489
+00:40:48,361 --> 00:40:49,720
+And that's fine.
+
+490
+00:40:49,721 --> 00:40:51,720
+That's what I think of disengage.
+
+491
+00:40:51,721 --> 00:40:58,281
+It is because of the confinement within the actual, that an unsound sense of touch calls for special movements and so forth.
+
+492
+00:40:58,281 --> 00:41:16,201
+Now, Niger is, in a certain way, confined within the actual, though only partly, because he also has this sort of weird, computer-like way of trying to make sense of the world when he isn't in the actual, but it's pretty pathetic.
+
+493
+00:41:16,200 --> 00:41:24,200
+And just as his confinement in the actual is pretty pathetic, because whenever he's confined in the actual, there is not on the horizon any other attribute.
+
+494
+00:41:24,200 --> 00:41:26,360
+That's what I mean, that he's behaving like an animal.
+
+495
+00:41:26,361 --> 00:41:30,041
+He's locked into wallet-making or going home.
+
+496
+00:41:30,040 --> 00:41:31,401
+Remember this funny example.
+
+497
+00:41:31,401 --> 00:41:36,601
+If he's going home, then his house is going to whistle to him and call him and draw him in when he goes by.
+
+498
+00:41:36,600 --> 00:41:43,520
+But if he's not going home, he won't even recognize his house when he goes by because he doesn't have on the bargin of whatever project he has.
+
+499
+00:41:43,680 --> 00:41:58,161
+Let's suppose if he's not going home, he's walking home with Gurvich, then that's his project to go to Gurvich's house, then his house won't even solicit him because it's not on the margin of his current involvement.
+
+500
+00:41:58,160 --> 00:42:00,321
+Okay, so that's what's happening here.
+
+501
+00:42:00,321 --> 00:42:04,721
+So now let's see, Don Larry's Morgan, all of this is important.
+
+502
+00:42:05,040 --> 00:42:08,321
+So there's his body.
+
+503
+00:42:08,321 --> 00:42:10,720
+I'm skipping a little to the left side of the page.
+
+504
+00:42:10,801 --> 00:42:13,520
+Body dependent on actual situations.
+
+505
+00:42:14,401 --> 00:42:17,441
+I'm going to begin that kind of long sentence.
+
+506
+00:42:17,441 --> 00:42:31,600
+For a key, for instance, to appear as such, you might have experienced the kind of bullet per touch that requires Taspa field and global impressions may be coordinated into a shape, just as notes, mere stepping stones, are stepping stones in a melody.
+
+507
+00:42:31,600 --> 00:42:34,480
+By the way, this is all Gut Gestalt talking anyway.
+
+508
+00:42:34,721 --> 00:42:37,441
+This is Gal Colstein talking.
+
+509
+00:42:37,441 --> 00:42:46,720
+And when Narrow finds he is, no, but he is trying to do what he always does, so get the best out of them, but show how they've missed something important.
+
+510
+00:42:46,721 --> 00:42:50,160
+So now he's getting the best out of them in the button.
+
+511
+00:42:50,160 --> 00:42:57,201
+So very viscosity of Haspile data, which makes the body dependent upon actual situations.
+
+512
+00:42:57,200 --> 00:42:59,841
+That's Schneider anyway.
+
+513
+00:43:00,160 --> 00:43:10,321
+Reduces the object to a collection of successive characteristics, perception to an abstract account, recognition to a rational synthesis.
+
+514
+00:43:10,321 --> 00:43:12,881
+See, these are things that he can do.
+
+515
+00:43:13,200 --> 00:43:28,600
+Now, whether you want to call the abstract account and the rational synthesis abstract attitude or not, I think depends on whether you mean normal, which it isn't, or what's left of the abstract attitude in Schneider, because Schneider can do it.
+
+516
+00:43:26,881 --> 00:43:30,760
+But it's just worth nice and rhetoric, you know.
+
+517
+00:43:31,321 --> 00:43:36,520
+Or just maybe there's been slightly as the confinement to the concrete, that's what he really means.
+
+518
+00:43:36,841 --> 00:43:41,240
+And the symptoms are the confinement to the concrete is negative.
+
+519
+00:43:41,401 --> 00:43:45,720
+It's not an identification of the abstract with the rational synthesis.
+
+520
+00:43:45,721 --> 00:43:54,200
+It's precisely because he lacks a normal abstract note of the modules that he's forced to use rational synthesis.
+
+521
+00:43:54,361 --> 00:44:00,520
+But that isn't, surely it's not out of confinement as a concrete that we can perform.
+
+522
+00:44:00,520 --> 00:44:04,921
+It does give you this abstract account that he sounds that locks him around.
+
+523
+00:44:04,921 --> 00:44:05,640
+This is what he said.
+
+524
+00:44:05,961 --> 00:44:07,400
+Well, where does he take it?
+
+525
+00:44:07,401 --> 00:44:16,281
+He does it above the middle of the page because he's confined to the concrete and actual, and he has an unsound sense of touch.
+
+526
+00:44:16,281 --> 00:44:18,361
+And then he goes to the key.
+
+527
+00:44:18,680 --> 00:44:27,480
+And in the key, the body is dependent on the actual situations.
+
+528
+00:44:27,480 --> 00:44:44,441
+But it looks, oh yeah, and in the concrete, when he tries to deal with the key, all he gets is a bunch of isolated tactile impressions, which he then has to put together in a kind of rational synthesis and say, I guess after feeling it a while, this is a key.
+
+529
+00:44:44,761 --> 00:44:46,200
+Okay, now let's see what else.
+
+530
+00:44:46,200 --> 00:45:00,601
+Whereas the normal person, every event related to movement or sense of touch causes consciousness to put up a host of intentions, which run from the body as the center of potential action, either toward the body itself or toward the object.
+
+531
+00:45:00,921 --> 00:45:12,480
+Well, we all agree that kind of what Schneider doesn't have, whenever he's written anything involved or detached, he can.
+
+532
+00:45:14,160 --> 00:45:21,681
+He doesn't have any other intentions but the thing that he sort of stuck in.
+
+533
+00:45:21,680 --> 00:45:30,801
+Either he's stuck in isolated fragments like tactile impressions, or he's stuck in some job like making your own wallet.
+
+534
+00:45:30,801 --> 00:45:41,681
+And nothing, he laps all of this other intentions, hold of other intentions that normal people.
+
+535
+00:45:41,680 --> 00:45:48,560
+By the way, it's so hard to follow this because notice he's doing Gel Goldstein, Gestald's talk.
+
+536
+00:45:48,560 --> 00:45:57,760
+He wouldn't say consciousness puts up a host of intentions that run from the body as the center of potential action toward the body itself.
+
+537
+00:45:58,560 --> 00:46:03,040
+That's much too necessarily sarcarian in Trump's project language.
+
+538
+00:46:03,361 --> 00:46:06,561
+It puts too much activity on the side of consciousness.
+
+539
+00:46:06,560 --> 00:46:16,400
+But he would say, not consciousness sprouts out a host of intentions, but that the body responds to a host of solicitations.
+
+540
+00:46:16,401 --> 00:46:20,161
+That even Gel Goldstein will sometimes say that.
+
+541
+00:46:20,160 --> 00:46:28,401
+But at this point, it sounds, whenever you see the word consciousness, I would be willing to bet, though I could go wrong and mislead you.
+
+542
+00:46:28,401 --> 00:46:30,640
+It's never going to be Merloponte.
+
+543
+00:46:30,721 --> 00:46:35,041
+It's going to be the Gail Goldstein view in these pages.
+
+544
+00:46:35,040 --> 00:46:36,400
+And that's what he's saying here.
+
+545
+00:46:36,560 --> 00:46:39,200
+So he's giving you their view at the bottom of that paragraph.
+
+546
+00:46:39,200 --> 00:46:49,601
+Now, the normal person reckons with the possible, which thus, without shifting from its position of the possible, requires a sort of actuality.
+
+547
+00:46:49,921 --> 00:46:51,000
+I don't know what that means.
+
+548
+00:46:51,000 --> 00:46:52,640
+That's a question line.
+
+549
+00:46:53,200 --> 00:46:54,000
+Do you understand that?
+
+550
+00:46:54,000 --> 00:46:57,561
+The normal person replies, well, ah, this is it?
+
+551
+00:46:58,921 --> 00:47:00,680
+Possibilities, provided it's possible.
+
+552
+00:46:56,801 --> 00:47:01,801
+It doesn't even normalize that.
+
+553
+00:47:03,881 --> 00:47:08,361
+Although, if it is, then it's no, it can't be for him.
+
+554
+00:47:08,520 --> 00:47:12,920
+At least the back of the house is never possible, but actual, if you know the house.
+
+555
+00:47:13,000 --> 00:47:14,600
+The normal person recognizes.
+
+556
+00:47:14,680 --> 00:47:15,961
+I don't know what that means.
+
+557
+00:47:16,441 --> 00:47:17,401
+I really don't.
+
+558
+00:47:17,401 --> 00:47:18,600
+Let's try the next sentence.
+
+559
+00:47:18,600 --> 00:47:26,921
+In the patient's case, however, the field of actuality is limited to what is metrics in the shape of a real contact or related to these data by explicit process of deduction.
+
+560
+00:47:26,921 --> 00:47:28,120
+Well, there you get the two.
+
+561
+00:47:28,120 --> 00:47:33,961
+Real contact is the broken down version of the gauge actual.
+
+562
+00:47:33,961 --> 00:47:43,000
+And putting it together by a process of deduction is Snyder's broken down version of the abstract rational.
+
+563
+00:47:43,000 --> 00:47:45,560
+And people have nothing in between.
+
+564
+00:47:46,761 --> 00:47:52,361
+I don't claim to have understood that very well, although I don't think I've betrayed it either.
+
+565
+00:47:54,441 --> 00:48:00,921
+So they think Snyder has an impoverished concrete because he lacks the abstract.
+
+566
+00:48:00,921 --> 00:48:05,161
+That's what I think what I've just been reading say.
+
+567
+00:48:05,560 --> 00:48:14,600
+That if he didn't have all this possibility, if he couldn't also bring in an abstract account, he couldn't do what he's doing.
+
+568
+00:48:14,921 --> 00:48:19,161
+I'm going to go fast over this because I'm going to get to the end and you used a lot of time.
+
+569
+00:48:19,160 --> 00:48:24,600
+So they don't see what's missing in Schneider that normal people have, which is the body schema.
+
+570
+00:48:24,600 --> 00:48:26,761
+They don't have that way of putting it.
+
+571
+00:48:26,761 --> 00:48:34,041
+They see Schneider lacks motor intentionality, which is an openness to other situations.
+
+572
+00:48:34,040 --> 00:48:36,601
+They see this on 126.
+
+573
+00:48:36,921 --> 00:48:38,120
+This is what they say.
+
+574
+00:48:38,120 --> 00:48:41,921
+What he lacks is neither motility nor thought.
+
+575
+00:48:41,921 --> 00:48:44,641
+And we are brought, oh, this is the amazing point.
+
+576
+00:48:41,401 --> 00:48:46,640
+I've got to go through this probably.
+
+577
+00:48:46,881 --> 00:48:51,841
+This is really hard because they get so close to getting it right at this point.
+
+578
+00:48:51,841 --> 00:48:54,240
+And it sounds almost like Meryl-Ponte.
+
+579
+00:48:54,241 --> 00:48:55,280
+He's owned you.
+
+580
+00:48:55,281 --> 00:48:57,040
+But it's not Meryl of Funti's own view.
+
+581
+00:48:57,040 --> 00:49:00,080
+I don't know what to make of it, but I'll read it and try to tell you what I think.
+
+582
+00:49:00,080 --> 00:49:11,361
+What Schneider lacks, and this is got to be, I take it, speaking in the name of Gail Goldstein, all the footnotes of Gel Goldstein, the whole context, is neither motility nor thought.
+
+583
+00:49:11,361 --> 00:49:28,081
+We are brought to the recognition of something between movement as a third-person process and thought as a representation of movement, something that there's an anticipation of, arrival at the objective, and ensured by the body itself as a motor power, a motor project, motor intentionality.
+
+584
+00:49:28,080 --> 00:49:36,080
+And that's to say that Gestaltists normally already recognize responding to a force.
+
+585
+00:49:36,401 --> 00:49:48,721
+That is, they normally don't think that it's all the projects of consciousness that direct our movements, that our movement can be responding to the solicitation of things.
+
+586
+00:49:48,721 --> 00:49:55,120
+So, and the Schneider lacks that, it looks like, though, I can't believe it because I would have thought that's what he had.
+
+587
+00:49:55,441 --> 00:49:56,240
+So let's go on.
+
+588
+00:49:56,241 --> 00:50:02,480
+The patient either conceives the ideal formula of the movement, or else he launches his body and blind attempts to perform it.
+
+589
+00:50:02,480 --> 00:50:08,080
+Whereas to the normal person, every movement is indissoluly movement and consciousness of movement.
+
+590
+00:50:08,080 --> 00:50:10,080
+See, that's a bad way to put it.
+
+591
+00:50:10,241 --> 00:50:18,240
+Mixture of the physiological, mechanical on the one hand, and the mental on the other.
+
+592
+00:50:18,560 --> 00:50:23,280
+That's what they see within motor intentionality is.
+
+593
+00:50:23,600 --> 00:50:25,760
+I guess I'm trying to think this through.
+
+594
+00:50:25,761 --> 00:50:39,000
+It looks like they have the phenomenon of motor intentionality, but they don't have a way to express it except by saying that it's a mixture of movement and consciousness.
+
+595
+00:50:39,000 --> 00:50:41,240
+But they've got, and I think that's right.
+
+596
+00:50:41,241 --> 00:50:50,121
+I think that's the, remember, I said the criticism of the Gestalt people is always that they've got the phenomena right, but they've got the wrong way of describing it.
+
+597
+00:50:50,120 --> 00:50:52,201
+And that's what he's saying here.
+
+598
+00:50:52,200 --> 00:50:53,961
+And now comes in the background.
+
+599
+00:50:53,961 --> 00:50:56,920
+They've got a notion of background, but it's not his background.
+
+600
+00:50:57,640 --> 00:50:59,401
+So let's look at it.
+
+601
+00:50:59,721 --> 00:51:07,241
+This can be expressed by saying that for the normal person, every movement has a background, and that the movement and its background are moments of a unique totality.
+
+602
+00:51:07,560 --> 00:51:14,441
+The background to the movement is not a representation associated with it, but it's input in the movement, inspiring and sustaining it at every moment.
+
+603
+00:51:14,441 --> 00:51:16,761
+That's good Gestalt thinking.
+
+604
+00:51:16,761 --> 00:51:23,641
+The plunge into action is to the subject's point of view, an original way of relating itself to the object, and is on the same footing as perception.
+
+605
+00:51:23,640 --> 00:51:24,601
+Okay.
+
+606
+00:51:24,921 --> 00:51:29,400
+Light has thus thrown on the distinction between abstract and concrete movement.
+
+607
+00:51:29,401 --> 00:51:37,640
+The background in concrete movement is the world as given, whereas the background to abstract thought is built up.
+
+608
+00:51:37,721 --> 00:51:51,801
+So there's top-down background and there's bottom-up background, and it's certain that Nero Hunting says, remember his notion of background is supposed to be deeper than and take account of both kinds of backgrounds.
+
+609
+00:51:51,801 --> 00:51:54,361
+I read that quote last time.
+
+610
+00:51:54,361 --> 00:52:04,601
+So they're ready to say that when you're concretely engaged, you do it, you have motor intentionality on a back of it.
+
+611
+00:52:04,921 --> 00:52:14,800
+And when you're abstractly thinking, you have mental stuff going on on a mental sort of background.
+
+612
+00:52:15,600 --> 00:52:26,161
+What they can't say is that all of this is always in a bigger background, namely the organism trying to get an optimal grip on the world.
+
+613
+00:52:26,640 --> 00:52:32,000
+That's not even in there as a candidate, and that's what's missing for them, I think.
+
+614
+00:52:32,241 --> 00:52:37,441
+So then comes the motion to the friend and the journal, can we done that with those sorts of systems?
+
+615
+00:52:37,761 --> 00:52:38,641
+Okay.
+
+616
+00:52:39,600 --> 00:52:41,920
+Let me see where I am and what I can skip.
+
+617
+00:52:42,401 --> 00:52:44,080
+I think so.
+
+618
+00:52:44,080 --> 00:52:46,000
+There are two backgrounds.
+
+619
+00:52:46,000 --> 00:52:51,361
+And that's as near as the Giacaltis can get to getting it right, I think.
+
+620
+00:52:51,520 --> 00:52:53,680
+I want to read now on 129.
+
+621
+00:52:54,000 --> 00:52:56,800
+By the way, there's more background talk on 120.
+
+622
+00:52:57,761 --> 00:53:03,760
+There's a kind that doesn't take place in the realm of being of the actualist, the middle of 128.
+
+623
+00:53:03,761 --> 00:53:09,441
+The latter, on the other hand, the virtual, that's what the abstract deals with.
+
+624
+00:53:09,441 --> 00:53:11,280
+The first adheres to a given background.
+
+625
+00:53:11,281 --> 00:53:13,200
+The second throws out its own background.
+
+626
+00:53:13,200 --> 00:53:19,121
+See, these are not the background that Heidegger and Merlot want to talk about.
+
+627
+00:53:19,680 --> 00:53:20,961
+So let me say that.
+
+628
+00:53:20,961 --> 00:53:24,801
+So now on 129, about five lines.
+
+629
+00:53:24,801 --> 00:53:36,000
+The reason is that all the operations require the same ability to mark out boundaries and directions in a given world, sort of where we're talking about lots of things that he's listed.
+
+630
+00:53:36,000 --> 00:53:37,441
+I hope you don't go back and get them.
+
+631
+00:53:37,680 --> 00:53:53,441
+Established lines of force to keep perspectives and view in the world, to organize the given world in accordance with the projects of the present moment, to build into the geographical setting of behavioral ones, a system of meanings outwardly expressive of the subject's internal activity.
+
+632
+00:53:53,441 --> 00:53:57,480
+There, we're clearly not in Merlot-Ponte-Haydeck.
+
+633
+00:53:57,721 --> 00:54:09,561
+But the idea of the subject's internal activity getting expressed outward, the whole conceptual framework of inner and outer is something Merillo-Ponte and Heidegger both are not.
+
+634
+00:54:09,560 --> 00:54:18,921
+In Heidegger the phrase is, you know, Gaussian is the world grispingly, and I just read you a similar phrase in Merillo-Ponte, that we are perceiving we are the world.
+
+635
+00:54:19,801 --> 00:54:23,881
+So this inner-outer talk is clearly something you won't buy.
+
+636
+00:54:23,881 --> 00:54:33,320
+For the patient, the world exists only as one ready-made in Kijio, whereas the normal person, his projects polarize the world, and he magically gets to view.
+
+637
+00:54:33,321 --> 00:54:37,721
+I used to think this was a perfect statement of Merilo-Ponte's position.
+
+638
+00:54:37,721 --> 00:54:39,480
+Now I think it can't be.
+
+639
+00:54:39,480 --> 00:54:41,961
+For one thing, it's in Miguel Goldstein's section.
+
+640
+00:54:41,961 --> 00:54:49,080
+The two, projecting, remember, is always, I think, too Sartrean, too, non-Eigen, too Heideggerian.
+
+641
+00:54:49,080 --> 00:54:51,401
+It starts kind of understanding of Heidegger.
+
+642
+00:54:51,401 --> 00:54:57,961
+It's an active, never mind what projection is in Heidegger, Persar is this kind of activity.
+
+643
+00:54:58,361 --> 00:55:06,040
+Bringing magically a host of signs which guide action as notices in a museum guide the visit.
+
+644
+00:55:06,361 --> 00:55:09,400
+See that's that's fine, but that's sort of off.
+
+645
+00:55:09,401 --> 00:55:19,401
+It isn't that the subject projects a meaning which then gives things in the world significance.
+
+646
+00:55:19,401 --> 00:55:25,321
+It's that things in the world just have significance and draw actions out of you.
+
+647
+00:55:25,321 --> 00:55:32,601
+So the function of projection or summoning in the sense of meeting summons out in the person is also what makes abstract movement.
+
+648
+00:55:32,600 --> 00:55:35,880
+I guess, I mean, it's that's why I say this is hard.
+
+649
+00:55:35,881 --> 00:55:39,081
+And I may be wrong, and I'm reading it differently than I used to.
+
+650
+00:55:39,080 --> 00:55:42,161
+I used to think there's Merleoponchi stating this view.
+
+651
+00:55:42,160 --> 00:55:46,320
+But I want to say now that three things suggest that's wrong.
+
+652
+00:55:41,801 --> 00:55:48,560
+And I'm saying it, and then you can figure it out on your own.
+
+653
+00:55:48,721 --> 00:55:51,601
+One, the footnotes are all together with Goldstein.
+
+654
+00:55:51,841 --> 00:55:55,361
+He's explaining their view of Schneider.
+
+655
+00:55:55,361 --> 00:56:06,401
+And he's using the vocabulary, projection, subject, consciousness, which is not the kind of his vocabulary, I think.
+
+656
+00:56:06,640 --> 00:56:06,881
+Yeah.
+
+657
+00:56:07,120 --> 00:56:08,080
+Yeah, I think you're right.
+
+658
+00:56:08,881 --> 00:56:13,361
+In rereading this, I've only used the terms geographical setting and a behavioral one.
+
+659
+00:56:13,441 --> 00:56:14,801
+And that's gestalt psychology.
+
+660
+00:56:15,120 --> 00:56:17,120
+That's exactly what he thinks is wrong there.
+
+661
+00:56:18,321 --> 00:56:19,840
+So they'll say a little more about that.
+
+662
+00:56:20,000 --> 00:56:26,880
+So the geographical setting would be, I guess, what we could call the objective world and corresponds to objective space.
+
+663
+00:56:26,881 --> 00:56:31,040
+So the gestalt psychologist would think that there's the real objective space that's out there.
+
+664
+00:56:31,040 --> 00:56:33,760
+And we're, you know, in the sense perceptions.
+
+665
+00:56:33,761 --> 00:56:41,601
+Well, and the behavioral setting or the behavioral environment is kind of the virtual or phenomenal one, but not the real one.
+
+666
+00:56:41,600 --> 00:56:43,520
+It's the one we project onto that.
+
+667
+00:56:43,761 --> 00:56:44,560
+That's the clue.
+
+668
+00:56:44,560 --> 00:56:44,720
+Right.
+
+669
+00:56:44,881 --> 00:56:50,400
+So the reason why this is important is because, you know, this chapter is on the spatiality of one's own body and motility.
+
+670
+00:56:50,401 --> 00:56:57,600
+And it's these two kinds of spaces that we need to get clear on the objective world space, you know, in this paper and with our lives with another.
+
+671
+00:56:57,600 --> 00:56:59,280
+And that's the kind of space that we need to.
+
+672
+00:56:59,680 --> 00:57:06,800
+Okay, there's not a projection of the mind or subject or consciousness, I think the Gestaltists would have said.
+
+673
+00:57:06,801 --> 00:57:13,841
+It's not a projection of consciousness on to this physical geographical space.
+
+674
+00:57:13,841 --> 00:57:21,200
+It's the lived world, the real bottom line, which will call forth the appropriate action from us.
+
+675
+00:57:21,841 --> 00:57:23,040
+The objective view.
+
+676
+00:57:23,680 --> 00:57:25,520
+That's the richness.
+
+677
+00:57:25,761 --> 00:57:33,560
+It's interesting, though, I mean, I always get tripped up because the Gestaltas have the phenomena right of the world calling forth the action from us.
+
+678
+00:57:33,961 --> 00:57:36,921
+They think it's all exactly.
+
+679
+00:57:36,921 --> 00:57:43,160
+They got keep saying this, the Gestaltas have the phenomena right, but they have the conceptualization of it wrong.
+
+680
+00:57:43,160 --> 00:57:48,441
+They've only got the categories of conscious and physical world.
+
+681
+00:57:48,441 --> 00:57:51,000
+They've got for itself and in itself, maybe.
+
+682
+00:57:51,000 --> 00:57:51,800
+I don't know about that.
+
+683
+00:57:51,801 --> 00:57:52,601
+Do they?
+
+684
+00:57:52,841 --> 00:57:54,280
+I don't know whether they use those terms.
+
+685
+00:57:54,281 --> 00:57:56,280
+I doubt that they're just disguised.
+
+686
+00:57:56,761 --> 00:57:58,921
+They come up with their own terms like geographical.
+
+687
+00:58:00,841 --> 00:58:08,201
+Okay, but it it it certainly seems always to be the right phenomena described in the wrong way.
+
+688
+00:58:08,200 --> 00:58:10,921
+That's what I think this whole chapter is going to go on about.
+
+689
+00:58:10,921 --> 00:58:12,120
+Ooh, fifteen minutes.
+
+690
+00:58:12,120 --> 00:58:12,280
+Yeah.
+
+691
+00:58:13,160 --> 00:58:16,680
+Well, you mentioned Stars in that paragraph drawing book 29.
+
+692
+00:58:16,761 --> 00:58:23,880
+But when you put it off the paragraph, it talks about more of the requirements and an aspect of it, of the projection.
+
+693
+00:58:24,361 --> 00:58:27,560
+So is he basically saying that even the critical projection?
+
+694
+00:58:27,801 --> 00:58:31,000
+There's an ethical ethical.
+
+695
+00:58:31,160 --> 00:58:32,760
+This is just utterly unethical.
+
+696
+00:58:33,241 --> 00:58:34,040
+Why would you say that?
+
+697
+00:58:34,040 --> 00:58:38,440
+But come and tell me in office hours or after class, because we're so far from anything ethical.
+
+698
+00:58:38,441 --> 00:58:39,640
+I just don't know.
+
+699
+00:58:39,801 --> 00:58:47,961
+Well, these critical projections, if you're saying it's right, projection is the wrong category for understanding how meaning gets in the world.
+
+700
+00:58:47,961 --> 00:58:49,560
+Let me put it when they're in the museum.
+
+701
+00:58:49,560 --> 00:58:54,041
+The mind does not put meaning in the world like putting signs in a museum.
+
+702
+00:58:54,040 --> 00:58:55,320
+Meaning is in the world.
+
+703
+00:58:55,321 --> 00:59:00,921
+Meaning is as in the world as you can get in a Heidegger in the world.
+
+704
+00:59:00,921 --> 00:59:07,401
+I mean, if you were asking where did the meaning get put into the physical universe, then you could say, well, maybe consciousness put it there.
+
+705
+00:59:07,401 --> 00:59:08,921
+Who knows how it got there?
+
+706
+00:59:08,921 --> 00:59:10,760
+In fact, well, never mind.
+
+707
+00:59:10,761 --> 00:59:18,961
+But if you're talking about the world in which people live and act, they don't go around projecting onto this world meanings.
+
+708
+00:59:19,200 --> 00:59:19,681
+Yeah.
+
+709
+00:59:19,680 --> 00:59:21,040
+This is what the book is.
+
+710
+00:59:24,881 --> 00:59:25,360
+Really?
+
+711
+00:59:25,361 --> 00:59:26,321
+Tell me, where?
+
+712
+00:59:26,961 --> 00:59:31,280
+It's around 100 CPI content from this point.
+
+713
+00:59:31,361 --> 00:59:42,240
+I think the intentional artist says, rather, that the massive consciousness is underlined by intentional art that projects around us all that.
+
+714
+00:59:42,480 --> 00:59:43,361
+Anchor screen.
+
+715
+00:59:43,361 --> 00:59:43,760
+Wow.
+
+716
+00:59:43,921 --> 00:59:45,360
+Let me tell people where that is.
+
+717
+00:59:45,361 --> 00:59:49,361
+This is on page 157 for us.
+
+718
+00:59:49,361 --> 00:59:51,601
+But I was going to get to that and read that.
+
+719
+00:59:51,600 --> 00:59:52,480
+Oh, is it?
+
+720
+00:59:52,480 --> 00:59:53,040
+Yes.
+
+721
+00:59:53,040 --> 00:59:54,720
+That's interesting.
+
+722
+00:59:54,801 --> 00:59:56,000
+Very interesting.
+
+723
+00:59:56,000 --> 00:59:56,480
+Okay.
+
+724
+00:59:56,480 --> 00:59:57,680
+That's a tough one.
+
+725
+00:59:57,680 --> 00:59:59,120
+I don't know what to say about that.
+
+726
+00:59:59,120 --> 01:00:01,280
+I'll have to go back to the drawing board.
+
+727
+01:00:01,281 --> 01:00:03,281
+But I don't like it.
+
+728
+01:00:03,680 --> 01:00:06,480
+And let me think of this, Lee.
+
+729
+01:00:06,801 --> 01:00:12,000
+See, I think what, well, let's get the phenomena right first.
+
+730
+01:00:12,321 --> 01:00:21,520
+Okay, the phenomena is that the more we learn about the world from experience, the more and what we learn shows up in the world for us.
+
+731
+01:00:21,520 --> 01:00:33,121
+So that you talk meralte like a city which once you had to figure out, now it looks like this is the way to the grocery store and this is the way to the bank and it and the streets look like that.
+
+732
+01:00:33,120 --> 01:00:40,881
+So that the intentional art is the way experience feeds back into the world so that you don't need a representation of the world in your mind.
+
+733
+01:00:42,881 --> 01:00:43,841
+Well that's that's the question.
+
+734
+01:00:44,200 --> 01:00:47,040
+But the question is, are we projecting meaning onto the world?
+
+735
+01:00:47,361 --> 01:00:48,720
+And that's what we're not doing.
+
+736
+01:00:49,520 --> 01:00:59,320
+But here in this passage, there is a this other kind of temporal projection which inherently our sensitivity for receiving the meaning as well.
+
+737
+01:00:56,401 --> 01:01:02,200
+Let me say it by way that that's exactly right, Rick cited.
+
+738
+01:01:02,520 --> 01:01:05,080
+It's very helpful, and I don't think you disagree with this.
+
+739
+01:01:05,080 --> 01:01:15,720
+It's the difference is between a blank world that has no meaning, on which consciousness projects meaning, and the intentional arc, which is what I was trying to describe, the phenomenon.
+
+740
+01:01:15,721 --> 01:01:22,681
+The world is already full of meaning, but as I get more and more experience, the world gets more and more meaning.
+
+741
+01:01:22,680 --> 01:01:34,520
+And I I'm sorry he calls that projection, but at least it isn't the kind of projection that Sark talks about where it's influenced by either direction.
+
+742
+01:01:34,761 --> 01:01:35,160
+Right.
+
+743
+01:01:35,160 --> 01:01:47,000
+Okay, but it's wrong to call it projection because projection really sounds like when it's normally used by these people, all meaning comes from us and is put on the world.
+
+744
+01:01:47,000 --> 01:01:55,480
+And we agree, in this passage, projection means as I have experience, my world acquires more and more meaning.
+
+745
+01:01:55,480 --> 01:02:00,600
+And it's true, this experience that it has meaning, and so the meaning is that there before your experience is.
+
+746
+01:02:00,921 --> 01:02:05,240
+That's true, but it's so subtle, but it's so different, fundamental.
+
+747
+01:02:05,241 --> 01:02:06,200
+Consider again.
+
+748
+01:02:06,200 --> 01:02:13,000
+It's like this blank world in which consciousness puts up these signposts that tell you where to turn in the coil.
+
+749
+01:02:13,080 --> 01:02:13,961
+Let's take the city.
+
+750
+01:02:13,961 --> 01:02:15,080
+It's a funny difference.
+
+751
+01:02:15,080 --> 01:02:18,120
+It's as if the city were just the sort of geographical setting.
+
+752
+01:02:18,120 --> 01:02:19,881
+It had these buildings and streets.
+
+753
+01:02:19,881 --> 01:02:22,201
+And then consciousness projects on that.
+
+754
+01:02:22,600 --> 01:02:26,361
+Turn right here to go to the grocery, turn left here to go to the cleaners.
+
+755
+01:02:26,361 --> 01:02:29,000
+And that's that's close.
+
+756
+01:02:29,000 --> 01:02:31,881
+That's the way Sartre thinks about it, I think.
+
+757
+01:02:32,200 --> 01:02:47,280
+Now, but what Merrill-Ponty thinks is, well, it's true when I come to the city, this already has a lot of meaning, but as I cope with it, it gets more and more, and this street comes to look like the way to the cleaners and the way to the soul.
+
+758
+01:02:41,801 --> 01:03:05,841
+And now, the only difference is, instead of saying consciousness projects onto the city that meaning, what he says is the lived body, in coping with the city, gets a richer and richer experience of the city.
+
+759
+01:03:05,841 --> 01:03:08,000
+And that's called the intentional arc.
+
+760
+01:03:08,000 --> 01:03:09,441
+Now, are we disagreeing about that?
+
+761
+01:03:09,441 --> 01:03:10,720
+I'm just trying to get the distinction.
+
+762
+01:03:10,961 --> 01:03:20,161
+I don't think we disagree, but I think the important thing to bear in mind is that there's a third round between consciousness and pure mechanistic approach.
+
+763
+01:03:20,480 --> 01:03:24,240
+But still, there's a discrepancy between the body and the consciousness.
+
+764
+01:03:24,241 --> 01:03:26,720
+The body is here before the consciousness.
+
+765
+01:03:26,801 --> 01:03:29,280
+You're not conscious, that's your body.
+
+766
+01:03:29,281 --> 01:03:29,841
+The lived body.
+
+767
+01:03:30,721 --> 01:03:35,361
+The feedback is being guided by the consciousness.
+
+768
+01:03:35,361 --> 01:03:44,240
+So the consciousness thinks that the significance, the meaning, are in the world in an almost objective way, because they're here because the body is in the world.
+
+769
+01:03:44,241 --> 01:03:50,560
+Just like the consciousness doesn't understand, cannot grasp the fact that the body is in the world before consciousness.
+
+770
+01:03:52,160 --> 01:03:53,120
+I see what you mean.
+
+771
+01:03:53,120 --> 01:03:57,600
+I mean, what he's saying is it's from the that's what Sartre is missing, in other words.
+
+772
+01:03:57,600 --> 01:04:29,881
+If you don't have a sense that the lived body outside of consciousness can be responding to meanings and feeding meanings back into the world, which is what we'll do what the intentional arc is, then you have to think that you have consciousness gave meanings to this meaningless world, which is what Bart does think, and Kant, I mean, all intellectualists think it, because any intellectual sees that the world is full of meaning and they wonder where it came from, and it couldn't have just come from the physical world, so the mind must have put it there.
+
+773
+01:04:26,640 --> 01:04:31,480
+That's the mistake.
+
+774
+01:04:31,480 --> 01:04:36,041
+But they proved that something put it there, meaning the body put it there.
+
+775
+01:04:36,040 --> 01:04:43,081
+And that's, and now the only problem is that it'd be unfortunate to use the word projection for both of these, but he did.
+
+776
+01:04:43,080 --> 01:04:45,160
+And so now we've got, and now, Eric, yeah.
+
+777
+01:04:48,281 --> 01:04:48,760
+Oh, really?
+
+778
+01:04:49,881 --> 01:04:50,280
+Really?
+
+779
+01:04:50,761 --> 01:04:51,240
+Where's that?
+
+780
+01:04:51,881 --> 01:04:53,321
+The bulk area of this movement.
+
+781
+01:04:53,560 --> 01:04:54,200
+Really, really.
+
+782
+01:04:54,200 --> 01:04:55,000
+Well, show me, show me.
+
+783
+01:04:55,321 --> 01:04:56,601
+I'm delighted.
+
+784
+01:04:57,160 --> 01:04:57,801
+Why does he use it?
+
+785
+01:04:58,841 --> 01:04:59,560
+I'm lost yet.
+
+786
+01:04:59,560 --> 01:05:00,120
+I'm not expecting it.
+
+787
+01:05:00,680 --> 01:05:01,160
+Which page?
+
+788
+01:05:01,241 --> 01:05:02,361
+Yeah, the same page.
+
+789
+01:05:03,560 --> 01:05:04,040
+Which page?
+
+790
+01:05:06,040 --> 01:05:07,721
+157 of this.
+
+791
+01:05:07,721 --> 01:05:08,361
+What do you want?
+
+792
+01:05:08,361 --> 01:05:09,561
+You get the old one.
+
+793
+01:05:09,560 --> 01:05:10,280
+No, no, no.
+
+794
+01:05:10,921 --> 01:05:12,120
+This one was very sick.
+
+795
+01:05:12,600 --> 01:05:14,200
+136 and the other one?
+
+796
+01:05:14,761 --> 01:05:17,240
+But I still don't see it, and I think it's so funny.
+
+797
+01:05:18,441 --> 01:05:19,321
+Okay, searchlight.
+
+798
+01:05:19,401 --> 01:05:19,720
+Thanks.
+
+799
+01:05:20,520 --> 01:05:21,160
+Virtual.
+
+800
+01:05:21,160 --> 01:05:22,120
+Where's searchlight?
+
+801
+01:05:22,120 --> 01:05:22,600
+Oh, yeah.
+
+802
+01:05:22,600 --> 01:05:23,160
+Okay.
+
+803
+01:05:23,160 --> 01:05:24,680
+Searchlight is inadequate.
+
+804
+01:05:24,921 --> 01:05:26,441
+Is that projection?
+
+805
+01:05:26,921 --> 01:05:28,520
+In French, it's polyclon.
+
+806
+01:05:30,841 --> 01:05:31,401
+Interesting.
+
+807
+01:05:31,480 --> 01:05:33,320
+Well, it's sort of a joke.
+
+808
+01:05:33,321 --> 01:05:34,761
+But okay.
+
+809
+01:05:36,200 --> 01:05:38,040
+The idea that phenomena is the same.
+
+810
+01:05:38,040 --> 01:05:44,921
+I mean, it's something, the searchlight has the light in it, and it puts it onto the objects which are intrinsically dark.
+
+811
+01:05:44,921 --> 01:05:50,441
+That's the SARC language, the for itself, gives all the meaning to the in-itself.
+
+812
+01:05:50,441 --> 01:05:59,321
+And Gel Goldstein, it's the, what do you call it, gives the meaning to the geographical what do they call the other thing?
+
+813
+01:06:00,841 --> 01:06:01,480
+Okay.
+
+814
+01:06:01,480 --> 01:06:03,401
+So, uh, okay, but good.
+
+815
+01:06:03,401 --> 01:06:05,000
+We've got something here anyway.
+
+816
+01:06:05,000 --> 01:06:08,281
+So now let's read it again, because it's a very important quote.
+
+817
+01:06:08,281 --> 01:06:11,721
+And then it's sort of summing up what what we've just been saying.
+
+818
+01:06:12,480 --> 01:06:19,360
+The life of consciousness, cognitive life, the life of desire, perpetual life, all of that.
+
+819
+01:06:21,361 --> 01:06:22,160
+Perceptual view.
+
+820
+01:06:22,241 --> 01:06:23,040
+Yeah, what did I say?
+
+821
+01:06:23,040 --> 01:06:23,600
+Perpetual life.
+
+822
+01:06:24,961 --> 01:06:25,600
+Very funny.
+
+823
+01:06:25,600 --> 01:06:34,000
+Okay, perceptual life is suspended by an intentional arc which projects around about us.
+
+824
+01:06:34,000 --> 01:06:43,441
+And that's, now you have to understand that to me, always already has projected and goes on projecting, put it in the Heidegger chart.
+
+825
+01:06:43,441 --> 01:07:01,441
+Always already projects and goes on projecting around us our past, our future, our human being, our physical and ideological and moral situation, or rather, which results in our being situated in all these respects, situated in this engaged sense of situation.
+
+826
+01:07:01,441 --> 01:07:13,601
+It is this intentional arc which brings about the unity of the senses, of intelligence, of sensibility, and motility, and it's this which goes limp in illness, that is, in Schneider, particularly, in this case.
+
+827
+01:07:13,841 --> 01:07:18,401
+Do we, let me see, as I said all this, let me say it again, it's so important.
+
+828
+01:07:18,721 --> 01:07:20,081
+You see what he's doing?
+
+829
+01:07:20,080 --> 01:07:48,721
+He's saying the whole view that somehow either the whole world, that we have a representation of the world, and as we learn more and more about the world, we update our mental representations, which is the cognitive view, or that we have this conscious capacity to project meanings onto the world, which is the psychoanalytical or psychosomething psycho psychological view.
+
+830
+01:07:48,961 --> 01:07:53,440
+I don't know who to attribute it to, besides Sart, but it's certainly not just Sartre's view.
+
+831
+01:07:53,440 --> 01:07:55,600
+I mean, it's a big view.
+
+832
+01:07:55,601 --> 01:07:57,480
+That neither of those views is right.
+
+833
+01:07:56,881 --> 01:08:03,560
+We neither have a mental representation of the world nor do we project the meanings onto the world.
+
+834
+01:08:03,881 --> 01:08:11,080
+The world is, this I put in my computer book way back, the best representation of itself.
+
+835
+01:08:11,080 --> 01:08:15,400
+You don't need a copy of it and you don't need to give it meaning from scratch.
+
+836
+01:08:15,801 --> 01:08:24,680
+The world is always already there and giving you a whole lot of meanings and guidance and gets more and more the better you get at dealing with things.
+
+837
+01:08:24,681 --> 01:08:28,600
+That's just a brilliantly right thing to say.
+
+838
+01:08:29,080 --> 01:08:30,841
+You're not looking unhappy with that, are you?
+
+839
+01:08:30,841 --> 01:08:33,240
+You're looking that you look like you're unhappy.
+
+840
+01:08:33,641 --> 01:08:47,480
+The problem is that I think you were saying that what I described is very likely to be reasonable, for example, but the problem is that the body has not existed at the beginning of this chapter, but it is only a part of the system of the world itself.
+
+841
+01:08:47,481 --> 01:08:50,520
+And so it's like this thing designed the world existing.
+
+842
+01:08:50,521 --> 01:08:51,400
+Yeah, it's this stage.
+
+843
+01:08:51,801 --> 01:08:52,120
+Right.
+
+844
+01:08:52,120 --> 01:08:53,160
+It's this circle.
+
+845
+01:08:53,160 --> 01:08:55,240
+If people don't see this in there, I feel...
+
+846
+01:08:58,521 --> 01:09:03,640
+At the very end, the remote part of the body says, well, because of the path towards the world itself.
+
+847
+01:09:06,440 --> 01:09:07,320
+It's always for him.
+
+848
+01:09:07,400 --> 01:09:13,240
+I keep saying, keep remembering that the body is responding to the solicitations of things.
+
+849
+01:09:13,240 --> 01:09:15,961
+Of course, things don't solicit if you don't have a body.
+
+850
+01:09:15,961 --> 01:09:21,080
+But the body couldn't respond to their solicitations unless they actually had them.
+
+851
+01:09:21,400 --> 01:09:23,240
+And that's the intentional art.
+
+852
+01:09:23,240 --> 01:09:24,520
+That's the feedback loop.
+
+853
+01:09:24,521 --> 01:09:27,240
+That's the basic story he's got.
+
+854
+01:09:27,240 --> 01:09:28,760
+And he doesn't give it up.
+
+855
+01:09:29,080 --> 01:09:37,721
+He makes it even stronger in the next book, The Visible and the Invisible, where, you see, there's certain interesting, important, general things to say.
+
+856
+01:09:37,721 --> 01:09:47,360
+There is a tendency in this book for it to look sort of Kantian, meaning it looks like the body is really the source of the unity of the world.
+
+857
+01:09:41,881 --> 01:09:49,280
+It's the body schema that does it.
+
+858
+01:09:49,601 --> 01:10:02,480
+And then it looks too much like the body's got some kind of privilege over the meaningful world, whereas what we've just been saying about the intentional arc shows that it's totally equal, the body and the world.
+
+859
+01:10:04,481 --> 01:10:04,801
+Exactly.
+
+860
+01:10:04,881 --> 01:10:06,480
+But you can't talk about the bitty anymore.
+
+861
+01:10:06,641 --> 01:10:06,881
+I know.
+
+862
+01:10:06,881 --> 01:10:08,400
+Well, that's what I was leading up to.
+
+863
+01:10:08,400 --> 01:10:26,640
+In the visible and the invisible, he stops talking about the body because the body has gotten too much over to looking like a constituting subject, an entity which gives the meaning to things and has some kind of prior unity, which it objects on things.
+
+864
+01:10:27,521 --> 01:10:29,520
+When he's at his best, he never says that.
+
+865
+01:10:29,521 --> 01:10:34,160
+But he does sort of go in that something like using the word project and so forth.
+
+866
+01:10:34,160 --> 01:10:40,640
+And so when he writes his next book, which he didn't finish, he just dropped the body and talks about the flesh.
+
+867
+01:10:40,641 --> 01:10:43,440
+And the flesh includes the body and the world.
+
+868
+01:10:43,440 --> 01:10:47,841
+It's that whole big gestalt, which he's always had his eye on.
+
+869
+01:10:47,841 --> 01:10:52,560
+The big gestalt, which is bigger than us and the world.
+
+870
+01:10:52,561 --> 01:10:54,640
+And so you see why.
+
+871
+01:10:54,641 --> 01:11:01,280
+And then the people read the visible and the invisible, and they get it so wrong and say, well, Nero Ponte has totally changed his position.
+
+872
+01:11:01,280 --> 01:11:03,280
+He doesn't believe in the body anymore.
+
+873
+01:11:03,280 --> 01:11:04,560
+He believes in the flesh.
+
+874
+01:11:04,561 --> 01:11:06,160
+Well, he hasn't changed it.
+
+875
+01:11:06,160 --> 01:11:08,160
+He's been true to it.
+
+876
+01:11:08,160 --> 01:11:09,841
+He's taken it to its limit.
+
+877
+01:11:09,841 --> 01:11:11,120
+He's cleaned it up.
+
+878
+01:11:11,120 --> 01:11:14,721
+All you have to say is that he's cleaned up his act between this book.
+
+879
+01:11:14,721 --> 01:11:19,040
+Don't let anybody tell you, though, I think it's all over the French literature as far as I can see.
+
+880
+01:11:19,040 --> 01:11:23,280
+Nero-Ponte made some kind of radical change, repudiated this book.
+
+881
+01:11:23,280 --> 01:11:24,881
+You read that again and again.
+
+882
+01:11:24,881 --> 01:11:25,921
+It's just not so.
+
+883
+01:11:25,921 --> 01:11:30,520
+I'm glad we've got Olivier here to represent the good French reading of it.
+
+884
+01:11:30,841 --> 01:11:31,160
+Yeah.
+
+885
+01:11:26,721 --> 01:11:33,160
+I was going to make a small point on the quote.
+
+886
+01:11:33,240 --> 01:11:35,961
+You won't want to stand up here when there is an investment on art.
+
+887
+01:11:36,040 --> 01:11:40,921
+If we just do the word orience after that instead of project, it would make a lot more sense.
+
+888
+01:11:40,921 --> 01:11:42,200
+Well, let's try that.
+
+889
+01:11:42,200 --> 01:11:44,040
+Where is that projecting?
+
+890
+01:11:44,040 --> 01:11:46,040
+The light, the consciousness, the conscious light.
+
+891
+01:11:46,120 --> 01:11:46,600
+Oh, yeah.
+
+892
+01:11:47,481 --> 01:11:47,801
+Okay.
+
+893
+01:11:47,801 --> 01:11:51,881
+Which I say which projects around us, which orients us in.
+
+894
+01:11:52,200 --> 01:11:56,360
+Well, no, because he wants the word light to projects.
+
+895
+01:11:56,360 --> 01:12:05,560
+In this, don't forget that he is saying, quite sensibly, that it's because you get experience of the world.
+
+896
+01:12:05,561 --> 01:12:07,560
+I mean, how do we put it?
+
+897
+01:12:07,561 --> 01:12:09,240
+It's a tricky sub-think.
+
+898
+01:12:09,240 --> 01:12:11,560
+But your world looks different than my world.
+
+899
+01:12:12,040 --> 01:12:19,721
+The city that looks easy to get around into you looks like it's a puzzle to solve with a map to me.
+
+900
+01:12:20,280 --> 01:12:25,721
+So there is some sense that each of us is putting our meaning into the world.
+
+901
+01:12:25,721 --> 01:12:27,560
+We don't want to deny that.
+
+902
+01:12:27,881 --> 01:12:42,280
+And so each, so at one level, and that's he's got this right in sort of, there is the body projecting around all of us our physical situation.
+
+903
+01:12:42,280 --> 01:12:47,320
+It's projecting around all of us our basic perceptual situation.
+
+904
+01:12:47,320 --> 01:12:53,240
+It's projecting around us our shared moral situation, where his comment comes in.
+
+905
+01:12:53,561 --> 01:13:03,720
+That is, with our general sense of who's good and bad, and what's right and wrong, and what's disgusting, and what's admirable, and so forth, which we all share.
+
+906
+01:13:03,721 --> 01:13:11,520
+Because remember, sort of, it's one perceived in me, one perceived the world, one perceives all these moral qualities too.
+
+907
+01:13:11,320 --> 01:13:18,560
+But then there is also going to have to be my own past and future.
+
+908
+01:13:19,280 --> 01:13:23,600
+Besides this general human setting, I don't know whether that's going to be in here.
+
+909
+01:13:27,841 --> 01:13:29,680
+The example of the friend.
+
+910
+01:13:29,681 --> 01:13:34,721
+So like a friend, like my mother, you know, has a sense of whether I'm happy or sad, but you know my voice.
+
+911
+01:13:34,721 --> 01:13:35,040
+Okay.
+
+912
+01:13:35,040 --> 01:13:39,440
+And if it's part of the friend, in fact, what I wouldn't hear, but here is this primary world.
+
+913
+01:13:39,681 --> 01:13:40,400
+Where do you see that?
+
+914
+01:13:40,400 --> 01:13:41,440
+Oh, yeah, the primary world.
+
+915
+01:13:42,240 --> 01:13:44,480
+Okay, the primary world is the one I was describing.
+
+916
+01:13:45,040 --> 01:13:49,280
+And its secondary meaning target out in the primary world.
+
+917
+01:13:49,280 --> 01:14:05,921
+And so all I went on to this speech about is, but there is a sense in which I'm organizing, that is enriching this world and responding to maybe the better thing is to say the rich sort of thing.
+
+918
+01:14:05,921 --> 01:14:12,400
+The world is already rich, but as I get more and more tuned into it, I can respond more and more to its richness.
+
+919
+01:14:12,561 --> 01:14:14,320
+Let me say that again about the city.
+
+920
+01:14:14,320 --> 01:14:16,240
+You could hear a clue where it's have to stop.
+
+921
+01:14:16,240 --> 01:14:26,320
+You could hear that as I get more and more experienced, I project into the city more and more signposts, the bakers over here and the restaurants over there.
+
+922
+01:14:26,320 --> 01:14:31,600
+Or you could say, the funny thing to say, but I think it's what Mario Ponte and Heidegger think.
+
+923
+01:14:31,601 --> 01:14:34,641
+There's all this rich and gibbs and things.
+
+924
+01:14:34,641 --> 01:14:36,480
+There's all this richness in the world.
+
+925
+01:14:36,481 --> 01:14:37,520
+There are two different views.
+
+926
+01:14:38,721 --> 01:14:45,961
+Well, as you just said, I mean, I think we're looking, he has a kind of more view that Olivia was suggesting, where we're kind of finally getting meaning.
+
+927
+01:14:45,961 --> 01:14:47,721
+I think that's it.
+
+928
+01:14:45,841 --> 01:14:48,360
+We have another one.
+
+929
+01:14:48,641 --> 01:14:50,801
+But then there is a better view where we're just getting more.
+
+930
+01:14:51,040 --> 01:14:52,160
+Keep your eyes open.
+
+931
+01:14:52,160 --> 01:14:53,120
+I will too.
+
+932
+01:14:53,120 --> 01:15:01,400
+I mean, it does look like Mario Ponte in this book, anyway, thinks that we play a role in adding more and more meaning to the city.
+
+933
+01:15:02,200 --> 01:15:10,040
+It could be, you could have a weird metaphysical view, but it may be the right one, is to say all this meaning is already in the city.
+
+934
+01:15:10,040 --> 01:15:13,881
+The street that leads to the baker and the street that leads to the restaurant and so forth.
+
+935
+01:15:13,881 --> 01:15:22,841
+And as you get more and more familiar with the city, you get more and more attuned to all the meaning and references that are already there among the objects.
+
+936
+01:15:22,841 --> 01:15:27,641
+I think that that's what he would like to say, but I don't know anywhere where he says it.
+
+937
+01:15:27,641 --> 01:15:31,560
+Last you look like you want to say, do you find any place where he says anything like that?
+
+938
+01:15:31,881 --> 01:15:34,040
+No, you don't think it's Merloponte.
+
+939
+01:15:34,040 --> 01:15:34,440
+That's me.
+
+940
+01:15:34,440 --> 01:15:35,320
+No, that's me.
+
+941
+01:15:36,280 --> 01:15:36,761
+Okay.
+
+942
+01:15:36,761 --> 01:15:37,961
+Well, let me.
+
+943
+01:15:38,200 --> 01:15:42,921
+And no one else probably were bumping around.
+
+944
+01:15:42,921 --> 01:15:45,000
+We read the crucial quotes, I think.
+
+945
+01:15:45,160 --> 01:15:48,440
+I'll go back, and if we haven't, I'll bring them in next time.

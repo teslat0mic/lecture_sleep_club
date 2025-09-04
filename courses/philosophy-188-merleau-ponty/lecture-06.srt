@@ -1,0 +1,3549 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:04,721
+And I want to sort of sum up something about the idealism.
+
+2
+00:00:04,801 --> 00:00:14,721
+Try to sort out the vocabulary, which is, I think, hopeless, but try to be a little clearer than I was last time because I feel that I didn't get it quite right.
+
+3
+00:00:14,721 --> 00:00:19,920
+But I'm going to lay it out in an order I think is clear.
+
+4
+00:00:19,920 --> 00:00:22,481
+I want to go back to page 10.
+
+5
+00:00:22,481 --> 00:00:25,681
+That's where, it's just the phrase I was looking for.
+
+6
+00:00:26,321 --> 00:00:28,161
+About 10 lines from the bottom.
+
+7
+00:00:28,160 --> 00:00:29,601
+We talked about it before.
+
+8
+00:00:29,601 --> 00:00:39,481
+Normal functioning must be understood as a process of integration in which the text of the external world is not so much copied as composed.
+
+9
+00:00:40,760 --> 00:00:44,921
+That's what's going to make the idealism.
+
+10
+00:00:45,481 --> 00:00:48,361
+There isn't any external world to copy.
+
+11
+00:00:48,361 --> 00:00:54,121
+There is us composing the perceptual world.
+
+12
+00:00:54,441 --> 00:01:08,361
+And I think the process of integration is sort of interesting because he has this terribly sloppy discipline of constitution, which really ought to be left to Husserl and idealists because Husserl started it.
+
+13
+00:01:08,361 --> 00:01:14,121
+And I think integration would be a nice word for what our articulation remember.
+
+14
+00:01:14,121 --> 00:01:15,241
+We talked about that.
+
+15
+00:01:15,481 --> 00:01:26,441
+What we do, according to Merlot Fontey, which is that it's a kind of composing of the perceptual world, integration is, or articulation is.
+
+16
+00:01:26,760 --> 00:01:42,841
+And as such, it means that the perceptual world is always relative to us because there is no perceptual world except so far as we integrate it, articulated, organized it, in other words, he says constituted.
+
+17
+00:01:42,841 --> 00:01:51,000
+And he never tells you, I've been keeping my eye open, well, how he's using the word constituted, and it flops all over.
+
+18
+00:01:51,000 --> 00:01:54,920
+So anyway, that's a nice line on page 10, which sets up page 47.
+
+19
+00:01:54,920 --> 00:01:59,000
+I'm just jumping down to what we were talking about last time.
+
+20
+00:01:59,321 --> 00:02:03,320
+Only I found another quote, which I didn't mention last time.
+
+21
+00:02:03,321 --> 00:02:05,320
+I had it in my notes, but I missed it.
+
+22
+00:02:05,321 --> 00:02:12,760
+And it's important to be one of the places where he makes the distinction between the world and the universe, which I made a lot of fuss about.
+
+23
+00:02:13,081 --> 00:02:22,560
+Unfortunately, there are other places where he doesn't make a good, the same or clear distinction between the world and the universe, but I'll try to explain as I go what's happening.
+
+24
+00:02:22,721 --> 00:02:30,641
+Anyway, on 47, which is in attention and judgment, the best way is always to look for the footnote.
+
+25
+00:02:30,640 --> 00:02:33,041
+Here, the footnote is Kostero F.
+
+26
+00:02:33,040 --> 00:02:33,201
+R.
+
+27
+00:02:33,280 --> 00:02:33,361
+M.
+
+28
+00:02:33,441 --> 00:02:35,601
+Wortile, page 331.
+
+29
+00:02:35,601 --> 00:02:37,601
+That'll get you in the neighborhood.
+
+30
+00:02:39,201 --> 00:02:42,321
+That paragraph on 47 ends.
+
+31
+00:02:42,961 --> 00:02:57,520
+If, however, this de facto power is used without being explicitly posited, we become incapable of seeing past the rending of separate experiences, the phenomena of perception, and the world born in perception.
+
+32
+00:02:57,520 --> 00:02:58,801
+And never mind all that talk.
+
+33
+00:02:59,280 --> 00:03:01,441
+Now we want to, now the crucial.
+
+34
+00:03:01,440 --> 00:03:10,241
+If we get it wrong, we dissolve the perception and the world, sorry, we dissolve the perceived world.
+
+35
+00:03:10,561 --> 00:03:14,961
+Remember, we've been using the term perceptual world a lot.
+
+36
+00:03:14,961 --> 00:03:20,161
+I don't know whether that's very frequent, but this is a place where he says perceptual world.
+
+37
+00:03:20,481 --> 00:03:28,481
+That's what he's going to call the phenomenal field when he finally gets settled on his terminology.
+
+38
+00:03:28,481 --> 00:03:34,481
+So, and it's a mistake to dissolve the perceived world into a universe.
+
+39
+00:03:34,801 --> 00:03:51,841
+And the universe is the galaxies and the molecules and everything that's there determinate independent of us and our activity of integrating or organizing.
+
+40
+00:03:51,841 --> 00:03:52,241
+That's it.
+
+41
+00:03:52,321 --> 00:03:57,840
+If we dissolve the perceived world into a universe, which is nothing, and now, now comes the idealism.
+
+42
+00:03:57,841 --> 00:04:01,200
+I mean, so far, anybody could agree.
+
+43
+00:04:01,201 --> 00:04:14,681
+There is a perceived world, it's relative to us, and we can make a move in which we go to the universe, which is whatever there is not relative to us, and you'd be a realist.
+
+44
+00:04:14,680 --> 00:04:25,561
+But what he says about the universe is: into a universe which is nothing but this very world cut off from its constitutive origins and made manifest because they are forgotten.
+
+45
+00:04:25,561 --> 00:04:28,201
+Well, that's to say, and he always seems to think this.
+
+46
+00:04:28,201 --> 00:04:36,121
+I mean, the universe is some derivative abstraction from the perceived world.
+
+47
+00:04:36,520 --> 00:04:46,280
+In the preface, which you're not reading, he says that science is to the perceived world the way a map is to the landscape.
+
+48
+00:04:46,601 --> 00:05:05,000
+It's a very attenuated representation of some features, and it's important that the universe is nothing but this world cut off from its constitutive origins.
+
+49
+00:05:05,000 --> 00:05:16,760
+I mean, so you can't believe, if you believe that, that the universe is electrons and galaxies and stuff, if that means things in themselves that are not relative to us.
+
+50
+00:05:16,760 --> 00:05:24,201
+Because he's saying the universe is defined as leaving something out of the perceived world.
+
+51
+00:05:24,201 --> 00:05:27,321
+I just think it's wrong, but that's what he says.
+
+52
+00:05:27,321 --> 00:05:31,000
+Now, I'll go on because all this is sort of relevant to what I said last time.
+
+53
+00:05:31,000 --> 00:05:42,921
+Thus, intellectualism leads consciousness on a footing of familiarity with absolute being, while the idea of a world in itself, now that's the world in itself is the universe.
+
+54
+00:05:42,920 --> 00:05:46,201
+I mean, that's, I talk about confusing terminology.
+
+55
+00:05:46,201 --> 00:05:50,801
+It persists as a horizon, as the clued analytic reflection.
+
+56
+00:05:51,121 --> 00:06:07,761
+So if you make this move and leave out the way we organize our experience into the perceptual world, then if you could do that, which he thinks you can't really get away with, you'd have a world in itself, and that is the universe.
+
+57
+00:06:07,760 --> 00:06:08,481
+I believe.
+
+58
+00:06:08,481 --> 00:06:08,641
+Yep.
+
+59
+00:06:08,961 --> 00:06:09,601
+You don't think so?
+
+60
+00:06:09,680 --> 00:06:13,441
+So are you saying that he thinks that the universe is the world in itself?
+
+61
+00:06:13,441 --> 00:06:14,561
+It's another name.
+
+62
+00:06:14,561 --> 00:06:18,721
+He thinks that the universe, he thinks what the universe really is.
+
+63
+00:06:18,721 --> 00:06:35,201
+I mean, people think the universe, people like me, benigned realists, think the universe has got galaxies and electrons and water and black holes and stuff in it, and they're just like they always were, and they'll be that way after we're all gone, and so forth and so forth.
+
+64
+00:06:36,241 --> 00:06:38,160
+That's what people think the universe is.
+
+65
+00:06:38,160 --> 00:06:53,841
+But what the universe really is, is some aspect of the perceptual world, which if you leave out a whole lot, it's very Cartesian or Galileo-like in a way.
+
+66
+00:06:53,841 --> 00:07:14,721
+You leave, instead of saying you leave out the secondary qualities and you find out what the universe is, which is the realist way, he thinks the universe is a kind of residue left after you leave out meaning and everything relative to perception, and that you couldn't even make any sense.
+
+67
+00:07:15,280 --> 00:07:17,680
+I think I have it later in my lecture.
+
+68
+00:07:18,961 --> 00:07:21,641
+All the concepts used by science.
+
+69
+00:07:21,640 --> 00:07:22,801
+Our only meaningful.
+
+70
+00:07:22,880 --> 00:07:26,241
+Maybe I can find it, but I was writing no all over the margin.
+
+71
+00:07:26,241 --> 00:07:30,880
+Are only meaningful relative to the, yeah, here we are.
+
+72
+00:07:30,880 --> 00:07:34,481
+68 is part of the answer to what you just said, Rick.
+
+73
+00:07:36,361 --> 00:07:43,000
+About four lines down, scientific consciousness borrows all its modes from the structures of living experience.
+
+74
+00:07:43,321 --> 00:07:44,760
+You don't have to believe that.
+
+75
+00:07:44,760 --> 00:07:52,040
+You don't have to believe that quantum physics, which is bizarre phenomena that he doesn't know about, but it refutes him.
+
+76
+00:07:52,040 --> 00:08:01,321
+I mean, these particles that are waves do and go through two slots at once and the weird entanglement that they talk about and so forth.
+
+77
+00:08:01,321 --> 00:08:05,000
+That's not modeled on living experience.
+
+78
+00:08:05,000 --> 00:08:18,841
+Science has the perfect right and capacity to come up with totally new concepts, aliens, everyday experience, to describe what they discover out there as the properties of things.
+
+79
+00:08:18,841 --> 00:08:22,361
+Let me finish that paragraph, three lines from the bottom.
+
+80
+00:08:23,081 --> 00:08:30,361
+The pre-scientific life of consciousness alone endows scientific operations with meaning.
+
+81
+00:08:31,000 --> 00:08:33,881
+And to which these latter always refer back.
+
+82
+00:08:34,920 --> 00:08:37,401
+That's about the end of that paragraph on 68.
+
+83
+00:08:37,961 --> 00:08:41,001
+Now, again, again, I just think that's wrong.
+
+84
+00:08:41,321 --> 00:08:47,720
+I don't see how quantum weirdness refers back to our everyday experience.
+
+85
+00:08:48,200 --> 00:08:56,200
+And that's what he thinks, which means that the universe is, there isn't any universe in itself.
+
+86
+00:08:56,200 --> 00:09:00,680
+There is what science talks about, and what science talks about is relative to us.
+
+87
+00:09:00,680 --> 00:09:03,081
+Okay, so let's say it's the terminology of theory.
+
+88
+00:09:03,081 --> 00:09:06,601
+Rouletain T has a distinction between the universe and the world in itself.
+
+89
+00:09:06,601 --> 00:09:09,240
+And it seems like he wants to say there is no world in itself.
+
+90
+00:09:09,400 --> 00:09:10,440
+That's the prejudice of the world.
+
+91
+00:09:10,521 --> 00:09:11,960
+That's the problem that he gets.
+
+92
+00:09:11,041 --> 00:09:12,281
+That's what you get.
+
+93
+00:09:12,281 --> 00:09:17,160
+So he's got a story of science where he's going to call the object of science the universe.
+
+94
+00:09:17,160 --> 00:09:19,841
+And you think that the world in itself is the universe.
+
+95
+00:09:20,081 --> 00:09:21,841
+Well, no, that's interesting.
+
+96
+00:09:21,841 --> 00:09:22,640
+Let me think.
+
+97
+00:09:19,321 --> 00:09:25,521
+We just know what this includes into the universe, which is nothing.
+
+98
+00:09:19,801 --> 00:09:26,640
+Yes, that's true.
+
+99
+00:09:26,880 --> 00:09:31,440
+So he thinks there is stuff that science talks about.
+
+100
+00:09:31,440 --> 00:09:34,240
+What science talks about is the universe.
+
+101
+00:09:34,240 --> 00:09:45,680
+But science thinks the universe is in itself, whereas in fact the universe is a kind of abstraction from the perceived world.
+
+102
+00:09:45,680 --> 00:09:50,160
+And it's a kind of cultural construction, he says later, about nebulae.
+
+103
+00:09:50,160 --> 00:10:00,880
+And as I keep saying, if this was an important part of his philosophy, I would I didn't say it this way, but I wouldn't be teaching it, and I would hope you would all leave.
+
+104
+00:10:00,880 --> 00:10:03,920
+But this is not an important part of his.
+
+105
+00:10:04,240 --> 00:10:10,000
+It doesn't matter to what's important in that he's an idealist of the universe.
+
+106
+00:10:10,001 --> 00:10:14,640
+It doesn't play any important role finally in his argument.
+
+107
+00:10:15,281 --> 00:10:19,280
+And so he's okay.
+
+108
+00:10:19,281 --> 00:10:22,800
+I mean, he's as okay as Kant, which is pretty okay.
+
+109
+00:10:22,801 --> 00:10:26,800
+Remember, Kant, for those who had it, is an empirical realist.
+
+110
+00:10:26,801 --> 00:10:31,200
+He thinks Newtonian science isn't about things in themselves.
+
+111
+00:10:31,200 --> 00:10:33,440
+It's about appearances.
+
+112
+00:10:33,440 --> 00:10:35,920
+It's about the phenomenal world.
+
+113
+00:10:35,920 --> 00:10:43,920
+But as a science, about the phenomenal world, it's got inner subjective agreement and lots of control and beautiful structure.
+
+114
+00:10:43,920 --> 00:10:46,081
+And he and Mirlupensky is like that.
+
+115
+00:10:46,081 --> 00:10:48,561
+He's a very likely like economy.
+
+116
+00:10:48,880 --> 00:10:49,121
+Yeah.
+
+117
+00:10:49,440 --> 00:11:04,241
+Well, given what you just said, you may have just answered my question, but it sounded to me like you were saying that Mirlupansky is making sort of a strong metaphysical claim that uh about, you know, the kind of sort of different kind of idealism, that the universe and electrons are just something, you know, we make up or they're all relative to us.
+
+118
+00:11:04,240 --> 00:11:18,041
+But I I read it in this sort of just making an epistemic claim that the kind of knowledge that science gives us is only possible against the background of our sort of ordinary understanding of the world and things like that, which you might agree with if you're a mental health.
+
+119
+00:11:18,200 --> 00:11:29,321
+But I think that epistemic claim is he turns it into a metaphysical claim because he really wants to say, and you can see it around the notion of determinant, there is nothing determinate.
+
+120
+00:11:29,321 --> 00:11:33,721
+There is no determinate the perceptual world is never fully determinate.
+
+121
+00:11:33,720 --> 00:11:37,000
+It's always just in the process of getting determinate.
+
+122
+00:11:37,001 --> 00:11:52,680
+And it and the idea that there's a universe out there that is determinate, that metaphysical realist claim he thinks is false because there's we or at least that there's I I think he thinks it's false.
+
+123
+00:11:52,920 --> 00:11:55,321
+I don't know if he thinks it's unintelligible.
+
+124
+00:11:55,321 --> 00:12:17,400
+He certainly yeah, I don't know how he would have the right to think it's unintelligible, but I have a feeling he does think it's unintelligible because he thinks that if we get access to it only through the perceptual world, then it must be that the perceptual world is in some way necessary for it.
+
+125
+00:12:17,400 --> 00:12:20,361
+And that it's such a loser argument.
+
+126
+00:12:20,361 --> 00:12:22,920
+I mean, he doesn't have a concept of access.
+
+127
+00:12:22,920 --> 00:12:34,361
+He doesn't have a concept that the practices by which we find out about the universe could be completely accidental to the structure of the universe.
+
+128
+00:12:34,361 --> 00:12:41,121
+That however we find out about electrons, which is very interesting in the sociology of science can study it.
+
+129
+00:12:41,121 --> 00:12:43,560
+Those are not essential properties of electrons.
+
+130
+00:12:43,561 --> 00:12:50,880
+They're contingent properties, but they show up in it's under certain conditions and you can use them to bombard things and so forth.
+
+131
+00:12:49,720 --> 00:12:56,801
+And there's stuff out there, at least it's intelligible, I suppose, that has its own structure.
+
+132
+00:12:57,121 --> 00:13:01,200
+And we get access to that.
+
+133
+00:13:01,200 --> 00:13:17,121
+Anyway, so but he thinks he turns the epistemological, to put it your way, into an ontological claim that there couldn't be any completely determinate thing in itself because our only access to it is through the perceptual world and the perceptual world isn't going to ever be determinate.
+
+134
+00:13:17,680 --> 00:13:19,680
+I find it strange to be defending relative onto yourself.
+
+135
+00:13:19,761 --> 00:13:20,560
+Oh, I'm glad you are.
+
+136
+00:13:20,561 --> 00:13:24,081
+I think determinants need to be an epistemic notion as well.
+
+137
+00:13:24,880 --> 00:13:25,841
+I don't see that.
+
+138
+00:13:25,841 --> 00:13:27,281
+Well, let me think about it.
+
+139
+00:13:28,321 --> 00:13:34,081
+So the perceptual world is only experienced as determinant.
+
+140
+00:13:34,081 --> 00:13:49,760
+But then why would he say that it's a kind of illusion that we have to break this crypto mechanism that we think that there is an objective determinate world?
+
+141
+00:13:50,880 --> 00:14:20,480
+Why doesn't he just think that's why doesn't he think, like normal people think, that we discover this objective determinate world through our epistemological, our capacities for learning about things, and that it's only insofar as it's our learning about it that it's indeterminate, but really we find out through our learning about it that it's determinate.
+
+142
+00:14:20,480 --> 00:14:21,521
+He has a name for that.
+
+143
+00:14:21,521 --> 00:14:23,680
+He keeps criticizing those guys.
+
+144
+00:14:23,680 --> 00:14:25,121
+What does he say?
+
+145
+00:14:25,121 --> 00:14:28,801
+He says that, oh, that's the prejudge du Monde.
+
+146
+00:14:28,801 --> 00:14:31,280
+That's the prejudice of the world.
+
+147
+00:14:31,281 --> 00:14:33,921
+Oh, that's the, what's the other word for that?
+
+148
+00:14:33,920 --> 00:14:35,321
+The experience right?
+
+149
+00:14:35,321 --> 00:14:37,481
+I think we jump from the experience error.
+
+150
+00:14:37,480 --> 00:14:37,640
+Okay.
+
+151
+00:14:37,880 --> 00:14:38,601
+Experience error.
+
+152
+00:14:35,041 --> 00:14:39,480
+That was the world I live in.
+
+153
+00:14:39,880 --> 00:14:46,041
+These are all pretty insulting sounding notions for just an epistemological distinction, I think.
+
+154
+00:14:46,041 --> 00:14:48,361
+So we can discuss, we have to discuss it more.
+
+155
+00:14:48,361 --> 00:14:52,201
+But I would love to, I mean, if there's a way to defend him, I would love to defend him.
+
+156
+00:14:52,200 --> 00:14:57,880
+It's my second to Heidegger as far as being somebody I think has got a lot of truth.
+
+157
+00:14:57,880 --> 00:14:58,361
+Yeah.
+
+158
+00:15:00,041 --> 00:15:05,960
+Do you not think this ongoing is on his density?
+
+159
+00:15:06,361 --> 00:15:07,000
+He do I what?
+
+160
+00:15:07,160 --> 00:15:09,000
+He doesn't hold in respect to the perceived world as well.
+
+161
+00:15:09,001 --> 00:15:14,680
+He doesn't hold in respect to the he doesn't hold what with respect to the perceived world.
+
+162
+00:15:15,240 --> 00:15:17,320
+You've got to think the same objection you were talking about.
+
+163
+00:15:17,400 --> 00:15:18,040
+Right, right.
+
+164
+00:15:18,041 --> 00:15:18,921
+No, no, right.
+
+165
+00:15:18,920 --> 00:15:19,400
+Good point.
+
+166
+00:15:19,400 --> 00:15:20,680
+I have to keep saying that.
+
+167
+00:15:20,680 --> 00:15:23,880
+And I found a place, but now I've lost it for a moment.
+
+168
+00:15:23,880 --> 00:15:25,640
+But keep your eye open for it.
+
+169
+00:15:26,121 --> 00:15:36,841
+He thinks, certainly he thinks the perceived world is always somewhat indeterminate and always being made more and more determinate in some direction and being losing its determinacy in another.
+
+170
+00:15:36,841 --> 00:15:43,080
+And I even found a place, I wish I had grabbed it, where it seemed, maybe I've got it in my notes, but I don't think so.
+
+171
+00:15:43,081 --> 00:15:47,240
+Where he says, in effect, that it happens extremely fast, which is what I want.
+
+172
+00:15:47,240 --> 00:15:54,201
+In microseconds, the world is thinking, oh, it's got to do with the vegetable kingdom and all that funny talk.
+
+173
+00:15:54,200 --> 00:16:02,601
+Where is that, where we're supposed to experience the vegetable kingdom taking place in, in effect, in milliseconds in front of our eyes?
+
+174
+00:16:02,601 --> 00:16:03,640
+It's a big footnote.
+
+175
+00:16:03,640 --> 00:16:04,841
+So maybe.
+
+176
+00:16:05,400 --> 00:16:07,081
+Isn't it in that huge footnote?
+
+177
+00:16:07,081 --> 00:16:08,040
+That's what.
+
+178
+00:16:08,281 --> 00:16:19,160
+Because I was surprised to see that, and I like that, that he thinks that the world is indeterminate, but it's all that we're constantly making very fast, making it determinate.
+
+179
+00:16:19,160 --> 00:16:21,040
+I mean, we normally you don't see that.
+
+180
+00:16:19,960 --> 00:16:23,441
+You have to slow it down with the ship, for example.
+
+181
+00:16:24,081 --> 00:16:26,081
+But where is you?
+
+182
+00:16:26,081 --> 00:16:31,841
+We're supposed to be like the beginning of the vegetable kingdom taking.
+
+183
+00:16:31,841 --> 00:16:33,441
+At every moment, we've got to find it.
+
+184
+00:16:33,440 --> 00:16:37,040
+At every moment, trees and nature, and all that.
+
+185
+00:16:37,200 --> 00:16:37,521
+What?
+
+186
+00:16:38,160 --> 00:16:38,880
+I don't know yet.
+
+187
+00:16:38,880 --> 00:16:39,680
+I mean, I'm not reading yet.
+
+188
+00:16:39,680 --> 00:16:41,041
+I'm not saying, but I remember.
+
+189
+00:16:41,041 --> 00:16:44,800
+At every moment, trees and nature and everything like that.
+
+190
+00:16:44,801 --> 00:16:45,280
+There we are.
+
+191
+00:16:45,281 --> 00:16:45,761
+There we are.
+
+192
+00:16:45,761 --> 00:16:47,841
+50 and 51.
+
+193
+00:16:49,440 --> 00:16:54,240
+Now we're in attention and judgment with the footnote, the faculty of judging.
+
+194
+00:16:54,561 --> 00:16:55,761
+Yeah, let's look at this.
+
+195
+00:16:55,761 --> 00:16:57,121
+This is just another point.
+
+196
+00:16:57,121 --> 00:17:00,240
+I mean, see, this is just, I'm agreeing with him.
+
+197
+00:17:00,240 --> 00:17:05,601
+One, that Merlot Ponty thinks that the perceptual world is indeterminate.
+
+198
+00:17:05,920 --> 00:17:10,240
+And I agree with him, that he convinces me that it is.
+
+199
+00:17:10,801 --> 00:17:16,000
+That there is, that we're always organizing it.
+
+200
+00:17:16,001 --> 00:17:18,800
+What was the word we just found back there that I liked?
+
+201
+00:17:18,801 --> 00:17:19,841
+That's page six.
+
+202
+00:17:20,640 --> 00:17:21,520
+Things in the air.
+
+203
+00:17:22,640 --> 00:17:24,640
+We're doing, is that integrating it?
+
+204
+00:17:24,640 --> 00:17:25,041
+Yeah.
+
+205
+00:17:25,041 --> 00:17:26,720
+Now, here's what he says here.
+
+206
+00:17:26,720 --> 00:17:36,321
+When I glance rapidly about at the objects surrounding me in order to find my bearings and locate myself, I scarcely can be said to grasp the world in some instantaneous aspect.
+
+207
+00:17:36,321 --> 00:17:42,880
+I identify here the door, there the windows, and so forth and so forth, which are given to me as simple meanings.
+
+208
+00:17:42,880 --> 00:17:47,920
+When I contemplate an object with watching it and so forth, this isn't getting to be where I want yet.
+
+209
+00:17:48,240 --> 00:18:02,000
+I become aware that each perception, not merely that the sights which I'm discovering for the first time, reenacts its own account of the birth of intelligence and has some element of creating an intelligence about it, in order that I may recognize the tree.
+
+210
+00:18:02,400 --> 00:18:03,201
+Here's the line.
+
+211
+00:18:03,200 --> 00:18:12,920
+In order that I may recognize the tree as a tree, it is necessary that beneath this familiar meaning, the momentary arrangement of the visible scene should begin all over again.
+
+212
+00:18:12,920 --> 00:18:14,761
+That's a really strong claim.
+
+213
+00:18:14,761 --> 00:18:20,280
+You walk into the room, and very quickly, you've got to make sense of everything.
+
+214
+00:18:20,281 --> 00:18:27,081
+It gets very easy, and you could do it very quickly in microseconds because you're very familiar with this room of chairs.
+
+215
+00:18:27,081 --> 00:18:35,400
+If you walk into a strange enough situation, like the mass in the ship again, where he found one to slow you down, it takes you a while to arrange it.
+
+216
+00:18:35,400 --> 00:18:37,240
+But it's very interesting here.
+
+217
+00:18:37,561 --> 00:18:46,440
+The momentary arrangement of the visual scene should begin all over again, as on the first day of the vegetable kingdom, to outline the individual idea of a tree.
+
+218
+00:18:49,001 --> 00:18:50,200
+That's the secondary.
+
+219
+00:18:50,361 --> 00:18:55,241
+Yes, that's the role of secondary attention, normal attention.
+
+220
+00:18:55,480 --> 00:18:58,281
+Only it's missed by the people who are doing it.
+
+221
+00:18:58,281 --> 00:18:59,241
+It's so fast.
+
+222
+00:18:59,240 --> 00:19:11,960
+I thought, I was very suspicious of this because I think it's always dubious when a philosopher tells you that something happens so fast or so marginal or so small or so unconscious.
+
+223
+00:19:12,841 --> 00:19:18,601
+As I hear the joke goes, it's like excusing an illegitimate child on the grounds that it's a very small one.
+
+224
+00:19:18,601 --> 00:19:25,000
+It sounds like he's saying that it goes so fast, you don't have to worry about it or something.
+
+225
+00:19:25,001 --> 00:19:45,240
+And so I asked Walter Freeman, my neuroparallelocontean, do you think it's so that the brain has to actually start with a kind of chaos and disorder, and organize that into an attractor every time I recognize an object like a tree, even if I'm familiar with it?
+
+226
+00:19:45,240 --> 00:19:48,200
+And he said, yes, it takes, I forget how many microseconds.
+
+227
+00:19:48,200 --> 00:19:56,640
+But he, with his electrodes on rabbit brains, says he can actually see the brain correlate of this happening.
+
+228
+00:19:56,960 --> 00:19:57,841
+So that's fine.
+
+229
+00:19:57,841 --> 00:19:59,361
+I'm arguably by that.
+
+230
+00:20:00,160 --> 00:20:02,240
+It happens so fast you don't see it.
+
+231
+00:20:02,640 --> 00:20:03,841
+It doesn't, you know.
+
+232
+00:20:03,841 --> 00:20:15,841
+You therefore think, go back to the crypto mechanism, you therefore think that you were always encountering determinate objects because this ordering it, what was the phrase here?
+
+233
+00:20:15,841 --> 00:20:20,960
+There's some arranging of it happens there, very, very fast.
+
+234
+00:20:20,960 --> 00:20:28,400
+And sort of outside consciousness, not in some unconscious place, but just too fast for you to see it.
+
+235
+00:20:30,561 --> 00:20:31,200
+Okay?
+
+236
+00:20:31,521 --> 00:20:37,200
+So the important point that you're answering the question is how we can accept what he says.
+
+237
+00:20:37,521 --> 00:20:38,640
+About the perceptual world.
+
+238
+00:20:39,121 --> 00:20:41,601
+Yeah, I accept what he says about the perceptual world.
+
+239
+00:20:41,601 --> 00:20:55,601
+Of course we have to keep constantly arranging it and ordering it and taking some things that were in the background and indeterminate and making them a figure and making them more determinate and losing other bits of determination.
+
+240
+00:20:55,601 --> 00:20:57,361
+That's just how it goes.
+
+241
+00:20:57,361 --> 00:20:59,441
+Therefore, it seems sort of obvious.
+
+242
+00:20:59,521 --> 00:21:03,040
+I can't imagine how anybody would want to deny it.
+
+243
+00:21:03,041 --> 00:21:11,601
+If it weren't for us, there wouldn't be this kind of perceptual world, always becoming more determinate, but never completely determinate.
+
+244
+00:21:11,601 --> 00:21:14,561
+If that's how it is, that's the wrong claim.
+
+245
+00:21:14,561 --> 00:21:21,761
+If that's the phenomena, then it clearly depends on our capacity to arrange it.
+
+246
+00:21:22,481 --> 00:21:23,361
+That's now.
+
+247
+00:21:23,361 --> 00:21:23,841
+Yeah.
+
+248
+00:21:25,920 --> 00:21:29,040
+You know, I, yeah, yeah, well, that's why I was hedging.
+
+249
+00:21:29,281 --> 00:21:30,321
+That's a deep question.
+
+250
+00:21:30,321 --> 00:21:35,001
+Yeah, and she's calling me on saying that it takes place outside of consciousness.
+
+251
+00:21:35,001 --> 00:21:36,200
+That is the wrong way to put it.
+
+252
+00:21:36,200 --> 00:21:36,440
+What?
+
+253
+00:21:34,720 --> 00:21:39,720
+Yes, this arranging of the world.
+
+254
+00:21:40,041 --> 00:21:57,240
+And he wants to say, he says I'll get there in the lecture, that it's the job of phenomenologists to describe the process, and yet he also seems to say that it happens so momentarily that you don't see it, and it's very hard to see it.
+
+255
+00:21:57,240 --> 00:21:58,841
+And how does he get us to see it?
+
+256
+00:21:58,841 --> 00:22:01,560
+Well, two ways that I can think of.
+
+257
+00:22:01,561 --> 00:22:06,920
+One, I keep saying he's brilliant at finding sort of breakdown situations that slows it down.
+
+258
+00:22:06,920 --> 00:22:18,440
+And that's how we find ourselves trying to arrange the ship and the trees, the math and the trees, and there's this instability, and we're sort of uneasy because we can't get a good grip on it.
+
+259
+00:22:18,440 --> 00:22:19,880
+And then we do.
+
+260
+00:22:19,880 --> 00:22:21,400
+And that's one way he does it.
+
+261
+00:22:21,400 --> 00:22:29,321
+The other way he does it, and this is now a pitch for you to read the Cézanne essay in Sense and Nonsense, which I've got on reserve.
+
+262
+00:22:29,640 --> 00:22:46,521
+Great artists, particularly Cézanne, and maybe only Cézanne, as far as I can tell from reading him, have been able to see it and slow it down enough to paint it so that when you look at a Cézanne painting, you experience this coming into stability of the objects in it.
+
+263
+00:22:46,521 --> 00:22:49,960
+That's why they're painted so weird, and yet you don't know they're painted weird.
+
+264
+00:22:49,960 --> 00:22:51,321
+It's a brilliant essay.
+
+265
+00:22:51,321 --> 00:22:58,121
+Anyway, so, but it happens usually so fast that you're not aware of it.
+
+266
+00:22:59,001 --> 00:23:02,281
+That's a better way of saying than outside consciousness.
+
+267
+00:23:03,480 --> 00:23:05,801
+You can't see it, it just goes too fast.
+
+268
+00:23:05,801 --> 00:23:08,040
+There are things in the world all over that go too fast.
+
+269
+00:23:08,041 --> 00:23:13,800
+The fluorescent light is flickering at 60 cycle, but you don't see it.
+
+270
+00:23:14,440 --> 00:23:16,681
+And that's it.
+
+271
+00:23:17,081 --> 00:23:25,440
+But it's the job of the phenomenologist to convince you, to get you to see it in special situations and to convince you that, of course, it's happening all the time.
+
+272
+00:23:19,960 --> 00:23:27,361
+And this thing about the tree is fascinating.
+
+273
+00:23:27,440 --> 00:23:29,201
+I mean, I'd never paid attention to it before.
+
+274
+00:23:29,200 --> 00:23:32,000
+It's a very interesting, strong claim.
+
+275
+00:23:32,001 --> 00:23:34,480
+And so, say, I don't paint trees like that.
+
+276
+00:23:34,480 --> 00:23:38,321
+You paint trees coming into stability as trees.
+
+277
+00:23:38,321 --> 00:23:39,121
+Yeah.
+
+278
+00:23:40,160 --> 00:23:42,640
+I thought Father Van Dande's feeling this comment.
+
+279
+00:23:42,801 --> 00:23:50,320
+I don't see why the natural world is different from the perceptual world and why the reason.
+
+280
+00:23:50,880 --> 00:23:51,601
+Well, Mrs.
+
+281
+00:23:51,601 --> 00:23:53,041
+Belov and she is giving it.
+
+282
+00:23:53,041 --> 00:24:02,561
+He pointed out that the fact that our access to the sensory world is different from the very great way doesn't mean that electrons depend on its own costs.
+
+283
+00:24:02,561 --> 00:24:02,880
+Right.
+
+284
+00:24:02,880 --> 00:24:15,760
+Well, the fact that our access to the perceived objects, electronic most, doesn't depend on our.
+
+285
+00:24:15,761 --> 00:24:16,801
+No, no, you're right.
+
+286
+00:24:16,801 --> 00:24:18,160
+It doesn't mean it.
+
+287
+00:24:18,160 --> 00:24:26,400
+And in fact, the predatory fade duo, the world, the prejudice of the world and the crystal mechanism and everything, according to him, hides it.
+
+288
+00:24:26,400 --> 00:24:31,121
+And common sense and the meaning of even our words don't capture it.
+
+289
+00:24:31,121 --> 00:24:32,321
+So it's his job.
+
+290
+00:24:32,321 --> 00:24:34,400
+And that's tied up with what I said to her.
+
+291
+00:24:34,640 --> 00:24:36,321
+He doesn't think it's obvious at all.
+
+292
+00:24:36,321 --> 00:24:44,000
+He thinks it's his job to get us to see that even though it could be the case.
+
+293
+00:24:44,001 --> 00:24:45,440
+Maybe I'm missing the point.
+
+294
+00:24:45,440 --> 00:24:46,161
+I don't know yet.
+
+295
+00:24:46,160 --> 00:24:51,041
+I mean, you're ready to say, of course, we're having this experience of organizing it.
+
+296
+00:24:51,200 --> 00:24:52,801
+I think that I misunderstood you.
+
+297
+00:24:52,801 --> 00:25:05,721
+But why couldn't that be that we're not that we're imposing it, but that we are getting back representing it, getting it right about it.
+
+298
+00:25:05,720 --> 00:25:06,280
+I see your point now.
+
+299
+00:25:04,960 --> 00:25:12,041
+I haven't understood any reason to think that the left turning is any more mind-dependent than the other encounter.
+
+300
+00:25:12,521 --> 00:25:13,721
+Very, I see your point now.
+
+301
+00:25:13,720 --> 00:25:14,441
+Very interesting.
+
+302
+00:25:14,440 --> 00:25:14,920
+Very good.
+
+303
+00:25:14,920 --> 00:25:15,720
+I missed you.
+
+304
+00:25:16,041 --> 00:25:16,200
+Dr.
+
+305
+00:25:16,361 --> 00:25:18,121
+James was sort of his mind-ending change.
+
+306
+00:25:18,361 --> 00:25:18,680
+I see.
+
+307
+00:25:18,680 --> 00:25:20,121
+Well, that's that's good.
+
+308
+00:25:24,281 --> 00:25:26,121
+Yeah, perceptual and learning.
+
+309
+00:25:26,440 --> 00:25:32,841
+Either you ought to be an idealist about the perceptual world and the world of science, or you ought to be a realist about the idea.
+
+310
+00:25:33,001 --> 00:25:36,121
+But you can't have girls, which is realistic about mind-blooded ideals.
+
+311
+00:25:36,601 --> 00:25:37,000
+Interesting.
+
+312
+00:25:37,081 --> 00:25:38,121
+Oh, dear.
+
+313
+00:25:38,121 --> 00:25:39,801
+I have to think hard about this.
+
+314
+00:25:39,801 --> 00:25:40,841
+Let me see.
+
+315
+00:25:42,440 --> 00:25:48,041
+I'm certainly not happy with the alternative, so I see exactly what you're saying.
+
+316
+00:25:48,760 --> 00:25:49,640
+I have to think about it.
+
+317
+00:25:50,280 --> 00:25:54,361
+Let me make Alva's point in as simplest possible way.
+
+318
+00:25:54,360 --> 00:25:55,960
+So take the tree example.
+
+319
+00:25:55,961 --> 00:25:59,961
+So in X microseconds, I organize my experience as a tree.
+
+320
+00:25:59,961 --> 00:26:03,801
+Why shouldn't I think there was a completely determinate tree all along?
+
+321
+00:26:03,800 --> 00:26:06,121
+And this is how I come to perceive it.
+
+322
+00:26:06,121 --> 00:26:09,001
+So that I didn't compose it, I copied it.
+
+323
+00:26:09,001 --> 00:26:10,441
+That's what you're saying.
+
+324
+00:26:10,441 --> 00:26:19,800
+And if you can say that, and if I'm going to say that about electrons, that science copies them, it doesn't compose them, why shouldn't I say it about trees?
+
+325
+00:26:19,800 --> 00:26:20,680
+This isn't electrons.
+
+326
+00:26:21,401 --> 00:26:26,121
+I'm just not just neither compose it nor copy it, but in charge of it.
+
+327
+00:26:34,121 --> 00:26:36,920
+No, no, that I can I think I agree with him.
+
+328
+00:26:36,921 --> 00:26:38,521
+I want to resist that.
+
+329
+00:26:38,521 --> 00:26:51,520
+That that that's that would say that you don't have in your experience the coming into uh determinateness of your experience of the lectern.
+
+330
+00:26:51,521 --> 00:27:13,440
+He thinks that with his Manuel-Conte story and with his masts and ships and with endless other stuff about motion, about space, about time, about everything that the whole book is going to be about, that he's got a story about how stable objects with stable properties are composed by your bodily response.
+
+331
+00:27:13,521 --> 00:27:14,720
+I'm not going to give that up.
+
+332
+00:27:16,561 --> 00:27:18,560
+That's what you need to do to get a grip.
+
+333
+00:27:18,561 --> 00:27:21,440
+Yes, but getting a grip on something isn't inventing that nature.
+
+334
+00:27:21,521 --> 00:27:22,961
+Oh, he's clear about that.
+
+335
+00:27:22,961 --> 00:27:24,160
+Well, that's fine.
+
+336
+00:27:24,160 --> 00:27:25,760
+I mean, there's so there are three levels.
+
+337
+00:27:25,760 --> 00:27:26,400
+Let's see.
+
+338
+00:27:27,441 --> 00:27:36,081
+I'm assuming that he can tell us how we come to get a determinate, stable experience of trees and electrons.
+
+339
+00:27:36,081 --> 00:27:38,481
+I'm also saying we don't have anything like that.
+
+340
+00:27:38,481 --> 00:27:40,880
+Sorry, not electrons, trees and lecterns.
+
+341
+00:27:41,200 --> 00:27:47,041
+I'm saying there's no story about how we come to get a stable grip on electrons of the same sort.
+
+342
+00:27:47,760 --> 00:27:51,121
+There's a sociological story of how we get to discover them.
+
+343
+00:27:51,121 --> 00:27:52,080
+That's all right.
+
+344
+00:27:52,081 --> 00:28:03,601
+But it isn't as if every time a scientist sets about to think about electrons, he has to compose them because he's thinking about them and not perceiving them.
+
+345
+00:28:03,601 --> 00:28:09,841
+If he's perceiving something, like through a telescope or something, then of course he has to go through this constitution thing.
+
+346
+00:28:09,840 --> 00:28:11,760
+But oh, it's so complicated.
+
+347
+00:28:11,760 --> 00:28:30,401
+If what he perceives, I'll just say this once more and put it aside, has a nature, a natural kind, and essential properties, then the process he goes through to perceive it is clearly irrelevant to what it is.
+
+348
+00:28:31,121 --> 00:28:34,441
+And I just think that's okay.
+
+349
+00:28:34,441 --> 00:28:35,800
+That's the prejudice of the world.
+
+350
+00:28:34,081 --> 00:28:36,840
+Well, that's the prejudice.
+
+351
+00:28:36,921 --> 00:28:43,401
+Well, that's yes, I suppose so, except that Electra isn't a natural kind, and that's important.
+
+352
+00:28:43,401 --> 00:28:44,440
+But what a minute.
+
+353
+00:28:44,840 --> 00:28:50,761
+So, but I want to worry about the first thing he said, which is much harder.
+
+354
+00:28:50,760 --> 00:29:02,440
+Why can't we say that we're just perceiving, that is, copying, that is, I mean, this this is this isn't just a trivial objection from Alva.
+
+355
+00:29:02,441 --> 00:29:05,880
+This is what everybody in the cognitive science business thinks.
+
+356
+00:29:07,001 --> 00:29:09,480
+Everybody, say Alice and Goffnick, for instance.
+
+357
+00:29:09,481 --> 00:29:21,881
+I mean, they've got this idea that what we're doing is making, learning to form the representations which copy the way things are.
+
+358
+00:29:21,881 --> 00:29:28,761
+And the things are completely determinate, and the representations are determinate, and it takes a little bit of indeterminacy to get there.
+
+359
+00:29:28,760 --> 00:29:32,440
+And Merle Ponty is making a big fuss about this indeterminacy it takes to get there.
+
+360
+00:29:32,441 --> 00:29:38,841
+But what right does he have to say that we're composing the world instead of representing it?
+
+361
+00:29:39,401 --> 00:29:41,000
+That's the question.
+
+362
+00:29:41,800 --> 00:29:45,560
+It's about the perceptual stuff, never mind the science.
+
+363
+00:29:46,760 --> 00:29:50,440
+Following Alva's point, I think there are three possible provisions here.
+
+364
+00:29:50,441 --> 00:29:50,840
+Okay.
+
+365
+00:29:50,840 --> 00:29:54,280
+One, that we are creating the object, and that's just idealism.
+
+366
+00:29:54,521 --> 00:29:58,680
+The other, that we're representing the world, and that's indirect realism.
+
+367
+00:29:58,680 --> 00:30:03,081
+So then, right, the third option, which I think people figure that, which is that we have access to it.
+
+368
+00:30:03,081 --> 00:30:05,801
+Direct access would not be a direct realism.
+
+369
+00:30:05,961 --> 00:30:09,960
+We have indirect realism, idealism, and direct realism.
+
+370
+00:30:09,961 --> 00:30:14,201
+And I thought with Iron Allen, your story would be the access to it.
+
+371
+00:30:14,521 --> 00:30:15,320
+To everyday stuff.
+
+372
+00:30:17,200 --> 00:30:21,520
+And that's not incompatible with this talk of composing, because composing can mean sort of two things.
+
+373
+00:30:19,961 --> 00:30:22,720
+It can mean like cooking up.
+
+374
+00:30:23,041 --> 00:30:30,881
+But also, if you think about composing a photograph, it's sort of deciding what's going to, or not deciding, but making something the foreground and something the background.
+
+375
+00:30:30,881 --> 00:30:36,000
+And, you know, just a simple shift in perspective can change that without you inventing anything.
+
+376
+00:30:36,800 --> 00:30:39,201
+It's one thing to organize your experience.
+
+377
+00:30:39,200 --> 00:30:43,840
+If we're named enough of that, it's the other, to organize the world, creating the world.
+
+378
+00:30:43,840 --> 00:30:45,520
+And that's where the idealism comes in.
+
+379
+00:30:45,521 --> 00:30:52,241
+So it seems like if we're composing, you know, there's an organizational sense in our experience, that's one thing.
+
+380
+00:30:52,240 --> 00:30:58,961
+But if we're actually organizing the world to create the authors in the perceived world, that seems to be the kind of idealistic.
+
+381
+00:30:59,441 --> 00:31:00,320
+I was trying to agree with you.
+
+382
+00:31:00,481 --> 00:31:01,760
+Yeah, I'm even reading it with you.
+
+383
+00:31:01,760 --> 00:31:03,121
+It's more direct realist.
+
+384
+00:31:05,121 --> 00:31:09,200
+Yes, square that direct realism is just indeterminacy, determinacy talk.
+
+385
+00:31:09,200 --> 00:31:10,481
+And this is the problem, I think.
+
+386
+00:31:12,001 --> 00:31:12,800
+It's turning in.
+
+387
+00:31:12,800 --> 00:31:14,880
+I mean, it keeps, there are two different issues.
+
+388
+00:31:14,881 --> 00:31:18,160
+I have no question about what Meryloponty thinks.
+
+389
+00:31:18,640 --> 00:31:27,761
+It's not epistemological with him because he actually keeps saying it's a mistake in your metaphysics to think that there's a determinate world.
+
+390
+00:31:28,240 --> 00:31:29,360
+This is Cartesian.
+
+391
+00:31:29,360 --> 00:31:35,680
+He says, wow, there are these subjects and they have access, however, to a determinate world.
+
+392
+00:31:35,680 --> 00:31:36,321
+No.
+
+393
+00:31:36,320 --> 00:31:43,360
+He's got a whole story, and the whole book is a story about how we make this stuff determinate.
+
+394
+00:31:43,360 --> 00:31:47,920
+Not just our experience of it, but we make the perceptual world determinate.
+
+395
+00:31:48,320 --> 00:31:49,600
+That he believes.
+
+396
+00:31:49,601 --> 00:31:55,200
+Now, I think the interesting problem that Alva has posed me is: why does he think that?
+
+397
+00:31:55,521 --> 00:31:56,480
+What's the argument?
+
+398
+00:31:56,481 --> 00:32:00,160
+It may end up having to say that we don't know yet.
+
+399
+00:32:00,160 --> 00:32:09,480
+There's a funny footnote where he says, only when we get to the chapter in time will you understand why this is transcendental idealism of the sort that I'm giving you.
+
+400
+00:32:09,800 --> 00:32:24,280
+I don't remember how the chapter on time is going to help, but I guess he's going to argue, like Kant, that if time is dependent on us and the kind of bodies we have, and somehow argue that there wouldn't be any time if it weren't for that.
+
+401
+00:32:24,280 --> 00:32:25,881
+I don't know how he's going to argue that.
+
+402
+00:32:26,280 --> 00:32:36,520
+Then he'd have the right to say what Alva thinks he doesn't have the right to say, and I grant you, I don't see how he has the right to say it yet either, or whether he ever will.
+
+403
+00:32:36,840 --> 00:33:03,081
+That at some point, the idea could be that we have direct access to determinate objects, and the description of how our direct access to them has to become determinate in our experience doesn't show that it's metaphysically wrong to think that this world is made up of determinate objects.
+
+404
+00:33:03,081 --> 00:33:03,800
+I take it.
+
+405
+00:33:04,200 --> 00:33:05,081
+That's what you say.
+
+406
+00:33:05,081 --> 00:33:06,440
+And I think that's right.
+
+407
+00:33:06,441 --> 00:33:07,240
+Do you have an answer?
+
+408
+00:33:07,240 --> 00:33:07,640
+You look like.
+
+409
+00:33:07,800 --> 00:33:08,521
+Wait a minute.
+
+410
+00:33:08,521 --> 00:33:10,360
+There's somebody up there and then I want to hear what you have to say.
+
+411
+00:33:10,360 --> 00:33:10,680
+Yeah.
+
+412
+00:33:10,680 --> 00:33:17,400
+Yeah, I think this example might enforce the whole manner of the paper that shows that you may echo.
+
+413
+00:33:17,561 --> 00:33:24,601
+If you imagine the camera in pictures, like we're very passive, it has a lot of things.
+
+414
+00:33:24,840 --> 00:33:25,721
+Interesting.
+
+415
+00:33:25,720 --> 00:33:26,041
+Yeah.
+
+416
+00:33:26,601 --> 00:33:27,160
+Ah.
+
+417
+00:33:27,160 --> 00:33:27,400
+Now.
+
+418
+00:33:30,521 --> 00:33:35,081
+Now, it's true that when we're looking at the photograph ourselves, we are kind of composing.
+
+419
+00:33:35,081 --> 00:33:38,001
+We know, that, you know, this is a violent beef.
+
+420
+00:33:38,160 --> 00:33:38,561
+Good, good.
+
+421
+00:33:38,521 --> 00:33:40,961
+Show it to a fly, it might not understand it that way.
+
+422
+00:33:41,081 --> 00:33:44,121
+So it's true that we are in position depth as sensitive.
+
+423
+00:33:44,121 --> 00:33:48,760
+So I don't know if it's kind of like the positive word inside of why we outside anymore.
+
+424
+00:33:49,001 --> 00:33:49,920
+It's very funny.
+
+425
+00:33:49,720 --> 00:33:51,121
+It's like the quantum business.
+
+426
+00:33:51,280 --> 00:33:58,800
+I mean, it's as if somehow everything gets resolved into indeterminacy until you look at it and make it determinate.
+
+427
+00:33:58,800 --> 00:34:13,601
+Not only the picture, but the tree that it's got a picture of isn't just there, completely determinate, such that if you and all human beings cease to exist, there'd still be that determinate tree.
+
+428
+00:34:13,601 --> 00:34:15,280
+I think that's what he thinks.
+
+429
+00:34:15,280 --> 00:34:17,200
+I mean, I'm glad we're having this discussion.
+
+430
+00:34:17,200 --> 00:34:18,721
+It's very illuminating to me.
+
+431
+00:34:18,720 --> 00:34:23,201
+I've never realized how completely weird his position is.
+
+432
+00:34:23,200 --> 00:34:35,601
+I mean, it is really strange to claim that there is this composing or that doesn't work, whatever these other words are finally constituting, but I don't like that word.
+
+433
+00:34:35,601 --> 00:34:39,441
+Organizing, articulating, going on.
+
+434
+00:34:39,441 --> 00:34:42,721
+And there's something there, by the way.
+
+435
+00:34:42,720 --> 00:34:44,640
+We don't make it up out of whole cloth.
+
+436
+00:34:45,360 --> 00:34:51,680
+He's got there, there are boundary conditions on what you can make of it.
+
+437
+00:34:51,680 --> 00:34:56,561
+The tree and the photograph, you can't look, you can't turn them into a picture of an elephant.
+
+438
+00:34:57,121 --> 00:35:10,801
+But given those boundary conditions, it's only when you get the right set, you unlock it, and it becomes determinate in your experience.
+
+439
+00:35:11,121 --> 00:35:14,081
+And this is the amazing move.
+
+440
+00:35:14,081 --> 00:35:18,720
+And there is no determinate perceptual world.
+
+441
+00:35:19,521 --> 00:35:24,481
+The perceptual world just is the world as you experience it.
+
+442
+00:35:24,921 --> 00:35:25,481
+Why?
+
+443
+00:35:25,760 --> 00:35:26,321
+Yeah.
+
+444
+00:35:26,640 --> 00:35:36,200
+I think Waggy thinks that, and I think he's wrong in his thinking, as we go in the first couple of pages with the experience error, you know, prejudice of the world in constantly, I thought it was dope.
+
+445
+00:35:36,441 --> 00:35:50,441
+But I'll actually suggest something like this last week, I think, where he wants to criticize the scientists who are starting with the prejudice of the world understood as the scientific universe, the world in itself.
+
+446
+00:35:50,441 --> 00:36:05,081
+And that if you start with that, and if you drill in the experience error, then you're going to get this understanding of perception as external stimuli, mechanisms producing sensations, and you're not going to have room for the indeterminacy percept.
+
+447
+00:36:05,481 --> 00:36:10,680
+I'm going to start off by recognizing the phenomenology of the indeterminacy of percept.
+
+448
+00:36:10,680 --> 00:36:10,920
+Right.
+
+449
+00:36:11,001 --> 00:36:11,640
+This is part of it.
+
+450
+00:36:11,640 --> 00:36:13,720
+I think James was talking about the epistemic issue.
+
+451
+00:36:13,720 --> 00:36:15,320
+And then he's going to confuse this.
+
+452
+00:36:15,320 --> 00:36:15,800
+But I'm going to say that.
+
+453
+00:36:16,921 --> 00:36:18,201
+So it seems.
+
+454
+00:36:18,200 --> 00:36:19,241
+So it seems.
+
+455
+00:36:19,240 --> 00:36:24,601
+So first we let's just give ourselves an assignment for the rest of the semester to keep our eyes open.
+
+456
+00:36:24,601 --> 00:36:49,160
+I mean, I don't think it's any problem to see that he thinks that he did, thanks to Gestaltsists and going on beyond the Gestaltsists, he's got a story of how in each person's experience there is indeterminacy and turning into determinacy, and it's all like the masks and the ships happening all the time, only very fast.
+
+457
+00:36:49,481 --> 00:36:58,201
+It's when he turns that into metaphysics and says, and that shows there aren't any determinate objects in the everyday world.
+
+458
+00:36:58,760 --> 00:37:03,800
+That move, I have no idea where it comes, how he can justify that.
+
+459
+00:37:05,240 --> 00:37:06,680
+So he tries to justify the science.
+
+460
+00:37:06,720 --> 00:37:07,440
+I think he's just wrong.
+
+461
+00:37:07,441 --> 00:37:08,961
+I can get started with James now.
+
+462
+00:37:08,961 --> 00:37:13,920
+He's just preventing using the epistemic active story and turning it into an unblocking mold.
+
+463
+00:37:14,041 --> 00:37:15,240
+I think that's right.
+
+464
+00:37:15,240 --> 00:37:19,480
+But we add now something you and Albert were just saying, or you were attributing to Albert.
+
+465
+00:37:19,481 --> 00:37:54,240
+It looks like he thinks that if it were the determinate way that the prejudice of the world thinks it is, then we would be, I don't know whether tempted or forced to have the wrong view of perception, that this determinate thing sends out determinate waves that get picked up by my sense organs, which are transfusers, and gets processed in the brain up to the point where I am able to recreate in my experience the determinate object whose information and energy was sent to me.
+
+466
+00:37:54,240 --> 00:37:57,121
+That's become very hard to resist, I take it.
+
+467
+00:37:57,280 --> 00:37:58,401
+That's part of the thing.
+
+468
+00:37:58,401 --> 00:38:11,521
+He thinks there's no way to resist that wrong-headed way of thinking about it, except to realize that this is a phenomenal world of appearances which has to be made determinate all the time.
+
+469
+00:38:11,521 --> 00:38:22,481
+Once you think that, then you're free to have a kind of Walter Freeman neuroscience and a Merlot-Ponty phenomenology of perception.
+
+470
+00:38:22,481 --> 00:38:32,560
+And you can just say, well, the usual way of thinking about perception and the usual way of thinking about how the how the brain deals with it is just wrong.
+
+471
+00:38:33,921 --> 00:38:35,760
+But that doesn't give him the right to say it.
+
+472
+00:38:36,001 --> 00:38:45,121
+I think to say that if you don't hold the view his way, you can hardly resist holding a view which a lot of people like him and me think is wrong is not enough of an argument.
+
+473
+00:38:45,121 --> 00:38:45,440
+Yeah.
+
+474
+00:38:47,680 --> 00:38:49,360
+Wait, wait, I'm going to close that door.
+
+475
+00:38:49,360 --> 00:38:51,160
+There's enough background noise, I can't hear him.
+
+476
+00:38:51,200 --> 00:38:51,600
+Yeah.
+
+477
+00:38:52,001 --> 00:38:57,640
+If you think that's how we find the unjusted expression of our perception, how long is that?
+
+478
+00:38:59,441 --> 00:39:01,481
+Maybe I don't really make sense of things.
+
+479
+00:39:01,881 --> 00:39:03,840
+Let's see what you're saying.
+
+480
+00:39:03,840 --> 00:39:06,041
+Wait till we get to the chapter on the things.
+
+481
+00:39:04,881 --> 00:39:11,480
+I don't know whether what you're saying makes sense or not, but it's too hard to go into at this point.
+
+482
+00:39:12,601 --> 00:39:26,920
+He's got, maybe it's true that our view of what it would be like to be a completely determinate house is somehow incoherent or can't be put together with our experience of the house coming into determinacy.
+
+483
+00:39:27,240 --> 00:39:29,081
+That's, I think, what you're saying.
+
+484
+00:39:29,081 --> 00:39:29,960
+I don't know.
+
+485
+00:39:29,961 --> 00:39:30,840
+Keep your eye open.
+
+486
+00:39:31,160 --> 00:39:32,361
+That's what you should watch.
+
+487
+00:39:32,360 --> 00:39:40,121
+Where in this book and how often and with what sort of arguments is he going to get you over into his idealist camp?
+
+488
+00:39:40,121 --> 00:39:41,481
+That I don't know.
+
+489
+00:39:41,881 --> 00:39:45,480
+And as possible paper topic, it's sensational.
+
+490
+00:39:45,481 --> 00:39:50,121
+If anybody finds the argument and makes it persuasive, that's an A-plus paper.
+
+491
+00:39:50,121 --> 00:39:53,001
+Okay, now back to where we were.
+
+492
+00:39:53,001 --> 00:39:55,240
+It's going to be hot in here if we close the door, isn't it?
+
+493
+00:39:55,240 --> 00:39:55,560
+Yeah.
+
+494
+00:39:55,561 --> 00:39:56,840
+Close the door again.
+
+495
+00:39:56,840 --> 00:40:01,001
+I'd rather have noise than everybody going to sleep from the heat.
+
+496
+00:40:01,481 --> 00:40:02,121
+Thanks.
+
+497
+00:40:02,121 --> 00:40:03,481
+Sorry about that.
+
+498
+00:40:03,481 --> 00:40:08,280
+Okay, now I'm just going to catch up because I'm already way behind where I want to be.
+
+499
+00:40:09,240 --> 00:40:11,961
+I don't think this is a waste of time at all.
+
+500
+00:40:13,561 --> 00:40:15,561
+Let's look at 48.
+
+501
+00:40:15,561 --> 00:40:17,240
+This is all part of the same argument.
+
+502
+00:40:17,240 --> 00:40:18,921
+Maybe it'll be helpful.
+
+503
+00:40:20,521 --> 00:40:27,960
+Against philosophy with two guides and observable in any doctrine of the understanding.
+
+504
+00:40:28,200 --> 00:40:29,880
+So here's what philosophy has.
+
+505
+00:40:29,881 --> 00:40:35,721
+A week is undertaken from a naturalistic view which expresses, oh, I see.
+
+506
+00:40:35,720 --> 00:40:40,121
+This, by the way, I just quit sort of vlogging, because this is not his view.
+
+507
+00:40:40,121 --> 00:40:41,640
+This is a thing.
+
+508
+00:40:41,640 --> 00:40:45,160
+I wanted to show you a typical not marilo-Ponty passage.
+
+509
+00:40:45,160 --> 00:40:46,360
+This is listerl.
+
+510
+00:40:46,601 --> 00:40:57,281
+He says, what you go is, you bring up a subject who is a constituting agent and exists only and the subject exists only for the constituting agent.
+
+511
+00:40:57,601 --> 00:41:01,440
+And I could be only and so forth.
+
+512
+00:41:01,441 --> 00:41:04,721
+There's the idea of absolute constituting consciousness.
+
+513
+00:41:04,720 --> 00:41:09,841
+And that's the other side of there being an absolutely determinate universe.
+
+514
+00:41:09,840 --> 00:41:20,001
+And I just want to read the last sentence, because it's interesting when Marilo Ponty is giving you a husseral kind of that's constitution in a very strong idealist.
+
+515
+00:41:20,800 --> 00:41:34,321
+And he says authentic reflection instead of turning from one to the other, that is, the universe is completely constituted, created by transcendental consciousness, or the universe is completely determinate already.
+
+516
+00:41:34,320 --> 00:41:53,440
+Those two views, which are just the subject-object view from Descartes, taken to their natural extreme, he says authentic reflection, that's him, instead of turning from one to the other as both true, that's Descartes, in the manner of philosophy of the understanding rejects them both as false.
+
+517
+00:41:53,441 --> 00:42:08,720
+I mean, there is no, for him, the idea of a totally constituting consciousness that just sort of puts together objects out of phylody data on the one hand, and the idea of a completely determinate universe in itself, you've got to give them up.
+
+518
+00:42:08,720 --> 00:42:16,561
+That's a subject-object metaphysics, or sometimes later you'll see in the reading, I just want to tell you so you'll recognize it.
+
+519
+00:42:16,561 --> 00:42:25,121
+He switches over to Sark vocabulary, where a Cartesian subject is a for-itself, and the objects are in themselves.
+
+520
+00:42:25,121 --> 00:42:33,281
+That that for that subject-object or for-itself, in itself oncology, he's rejecting them both as false.
+
+521
+00:42:33,280 --> 00:42:34,721
+That's sure.
+
+522
+00:42:36,441 --> 00:42:51,961
+And he has a right to do that regardless of what the answer to our previous question is, because he can say about these people, they don't understand the process of perception by which we get access to the perceptual world.
+
+523
+00:42:51,961 --> 00:43:05,800
+And he can, that's a different point than whether the world we get access to by our perceptual process has been determined all along, or whether it being determinate depends on our access to Albert's question.
+
+524
+00:43:05,800 --> 00:43:13,481
+So, what interests us is a story about how we come to have the perceptual world we have.
+
+525
+00:43:13,481 --> 00:43:21,561
+And then he wants to say, not by being a pure transcendental consciousness, we've got to be embodied in a way that I'm going to come through right now.
+
+526
+00:43:24,041 --> 00:43:32,921
+And it's not because we are sort of pure open reflectors of a completely determined world and universe which is already there.
+
+527
+00:43:33,561 --> 00:43:35,160
+That's out of the question.
+
+528
+00:43:35,401 --> 00:43:38,200
+I mean, I think he makes that case absolutely convincing.
+
+529
+00:43:38,200 --> 00:43:51,081
+I mean, he's got plenty to say against volcano kind of constitutive phenomenology and plenty to say against any kind of behaviorist empiricist information that comes in from the world out there, and the brain just reconstructs it.
+
+530
+00:43:51,800 --> 00:43:52,280
+Why?
+
+531
+00:43:52,360 --> 00:43:53,640
+So, let's go on.
+
+532
+00:43:53,720 --> 00:43:54,840
+The 54.
+
+533
+00:43:55,401 --> 00:43:57,400
+This is all supposed to be just reviewing.
+
+534
+00:43:59,640 --> 00:44:02,841
+The 54 one is the.
+
+535
+00:44:03,160 --> 00:44:10,041
+So, now see, again, in the light of this discussion, I'm going to see what extreme views he's got here.
+
+536
+00:44:10,041 --> 00:44:21,601
+He says, at the end of the page, however, the Gestalt psychologists, I quoting Gestalt, who practice the description of phenomena are not normally aware of the philosophical implications, and I don't think that's just epistemological connection.
+
+537
+00:44:22,320 --> 00:44:30,640
+They do not see that the return to perceptual experience, insofar as it's consequential and radical, puts out of court all forms of realism.
+
+538
+00:44:30,640 --> 00:44:35,680
+See, there he goes, James, right, from epistemology to metaphysics.
+
+539
+00:44:35,680 --> 00:44:44,721
+That is to say, all philosophies which leave consciousness and take as given its results, its results being a world and the universe of things in themselves.
+
+540
+00:44:45,041 --> 00:44:51,680
+The real sin of intellectualism lies precisely in having taken as given the determinate universe of science.
+
+541
+00:44:52,401 --> 00:44:54,640
+So there we go.
+
+542
+00:44:55,601 --> 00:44:58,481
+So Elephantine has this view.
+
+543
+00:44:58,481 --> 00:45:00,961
+I'm going to skim it, but we covered a lot of this in our discussion.
+
+544
+00:45:01,200 --> 00:45:02,240
+Beware right there.
+
+545
+00:45:02,240 --> 00:45:08,561
+And well, we can get right around, of course, just to remind you of the what?
+
+546
+00:45:09,360 --> 00:45:11,601
+I've got a page in the old book instead of the new book.
+
+547
+00:45:11,760 --> 00:45:13,280
+Wonder where the crypto mechanism is.
+
+548
+00:45:13,280 --> 00:45:14,960
+I'm just going to align through it.
+
+549
+00:45:14,961 --> 00:45:17,841
+There it is, on page 67 here.
+
+550
+00:45:18,320 --> 00:45:30,160
+This is just the other half of the story that we cover up all this activity of making the perceptual world determinate.
+
+551
+00:45:30,481 --> 00:45:41,121
+That's the view he's going to hold, and I think rather plausibly, no matter whether the perceptual world is determinate all along or not, the crypto mechanism.
+
+552
+00:45:41,921 --> 00:45:43,521
+Maybe I'm not making sense.
+
+553
+00:45:45,121 --> 00:45:45,920
+Let me read it.
+
+554
+00:45:45,921 --> 00:45:48,081
+Nothing is more difficult than to know exactly what we see.
+
+555
+00:45:48,081 --> 00:45:52,880
+There's a natural intuition, a sort of crypto mechanism, which we have to break in order to reach phenomenal being.
+
+556
+00:45:52,881 --> 00:45:53,440
+Oh, yeah.
+
+557
+00:45:53,441 --> 00:45:54,960
+No, I think I was wrong.
+
+558
+00:45:54,961 --> 00:45:57,121
+I mean, that's another metaphysical claim.
+
+559
+00:45:57,121 --> 00:46:12,921
+That says that there's something in us that hides this making determinate of the indeterminate and makes us think wrongly the metaphysical view that everything is determinate.
+
+560
+00:46:12,921 --> 00:46:18,601
+That's how perception hides itself and enables things to be constituted.
+
+561
+00:46:18,601 --> 00:46:23,640
+That is, makes us believe in the metaphysics of the determinant things.
+
+562
+00:46:23,961 --> 00:46:37,080
+So and so there is no world, no determinate world, no determinate universe, only our job is to describe the.
+
+563
+00:46:37,081 --> 00:46:43,240
+And now this could be just epistemological, which would be fine, because that's what he's interested in doing.
+
+564
+00:46:43,240 --> 00:46:53,160
+About five lines down in 66, the first philosophical act would appear to be to return to the world of actual experience, which is prior to the objective world.
+
+565
+00:46:53,160 --> 00:46:58,121
+Now you can hear that prior as necessary in order to get an objective world.
+
+566
+00:46:58,121 --> 00:47:00,041
+And then that's fine.
+
+567
+00:47:00,200 --> 00:47:04,680
+Remember, I keep saying don't feel that you have to drop the course or give up on marriage fine.
+
+568
+00:47:05,001 --> 00:47:06,920
+That's for him the interesting issue.
+
+569
+00:47:06,921 --> 00:47:23,800
+To describe the way our perceptual activity gives us the experience of a determinate objective world and then covers up the activity by which he did that.
+
+570
+00:47:23,800 --> 00:47:26,441
+I mean, that's that's what the book is about.
+
+571
+00:47:26,441 --> 00:47:32,440
+All this metaphysics is just him finds a one-up science, I think.
+
+572
+00:47:32,441 --> 00:47:41,640
+Well, also and also head off a bad account of perception, which you've all driven through if you take the view he doesn't want.
+
+573
+00:47:41,640 --> 00:47:42,840
+So let's see now.
+
+574
+00:47:42,840 --> 00:47:54,321
+There's a shared perceptual world, it's an intersubjective world, and we take it for landing without experience, and we can uh study how we came to have it.
+
+575
+00:47:54,320 --> 00:48:01,680
+And now I just want to s set strengths and vocabulary that I was not very clear about, although Rick corrected me.
+
+576
+00:48:02,001 --> 00:48:04,881
+There is a public shared world.
+
+577
+00:48:04,881 --> 00:48:08,481
+Let's call it an intersubjective world.
+
+578
+00:48:09,041 --> 00:48:12,160
+And he uses that term somewhere, but I give him finds it.
+
+579
+00:48:12,160 --> 00:48:14,640
+But that means he wouldn't deny it.
+
+580
+00:48:15,041 --> 00:48:20,640
+But it's really not only an intersubjective world we'll see later, it's an intercorporeal world.
+
+581
+00:48:20,640 --> 00:48:27,520
+Because our body organizes it in cooperation with all these, my body organizes it in cooperation with all of you guys' bodies.
+
+582
+00:48:27,840 --> 00:48:34,320
+And if you say intersubjective, that's too much buying into Cartesian thought.
+
+583
+00:48:34,320 --> 00:48:37,841
+But there is a shared intercorporeal world.
+
+584
+00:48:37,840 --> 00:48:52,640
+Only if you think that's an objective world, he hears that as making a metaphysical claim that there is a completely determinate world in itself already there.
+
+585
+00:48:52,640 --> 00:49:04,160
+So I last time said this shared intercorporeal world that's got all the stuff into we've got, it's okay to say that's the objective world, but not the way he's receiving it.
+
+586
+00:49:04,160 --> 00:49:11,521
+The objective world for him is a metaphysical misunderstanding, and I had to straighten that out before I think I just did.
+
+587
+00:49:11,760 --> 00:49:14,960
+Let's see, I have quotes, let's see if I know how many I have to read.
+
+588
+00:49:15,280 --> 00:49:21,680
+By the way, well, here's one that's back a little bit in what I said, about five lines down in 62.
+
+589
+00:49:21,840 --> 00:49:28,881
+He says, the decisive moment in perception, because that's what he wants to talk about, the upsurge of a true and exact world.
+
+590
+00:49:28,881 --> 00:49:32,160
+I mean, that's what he's interested in.
+
+591
+00:49:32,481 --> 00:49:34,920
+How that comes into stability.
+
+592
+00:49:34,720 --> 00:49:41,640
+Of course, he's always hearing it metaphysically too, how there comes to be a true and exact world at all.
+
+593
+00:49:41,800 --> 00:49:45,160
+That's his metaphysical spin on it.
+
+594
+00:49:47,320 --> 00:49:51,320
+And now this is getting to the phenomenal field, the middle of the page.
+
+595
+00:49:51,320 --> 00:50:11,961
+The criticism of the constancy hypothesis, more generally, the reduction of the idea of the world, opened up a phenomenal field, which now has to be more accurately circumscribed and suggested the rediscovery of the direct experience, which must be at least provisionally assigned its place in the relation to scientific knowledge and psychology and philosophical reflection.
+
+596
+00:50:11,961 --> 00:50:25,721
+So that's to say, and I keep wanting to stress it, the phenomenal field means that there is some way that we organize experience so that we've got this shared world.
+
+597
+00:50:25,720 --> 00:50:27,561
+And that's what he's interested in.
+
+598
+00:50:27,881 --> 00:50:37,320
+And he wants to understand how that phenomenal field is opened up by us in our active bodies.
+
+599
+00:50:37,320 --> 00:50:39,081
+Did I see a hand back there?
+
+600
+00:50:39,401 --> 00:50:40,200
+You're right?
+
+601
+00:50:40,200 --> 00:50:41,721
+I'm like, all right, okay.
+
+602
+00:50:41,720 --> 00:50:42,680
+Let's see then.
+
+603
+00:50:42,680 --> 00:50:44,680
+62.
+
+604
+00:50:44,680 --> 00:50:54,601
+And he's just against what he's talked about in the next paragraph, that there is a truth in itself in italics, which is the reason underlying appearances.
+
+605
+00:50:54,601 --> 00:50:55,960
+There isn't any reason.
+
+606
+00:50:55,961 --> 00:51:06,201
+There may be, maybe in Kant, and maybe he'd be happy with that, some unknowable thing in itself, which somehow puts the boundary conditions on what we can take to be what.
+
+607
+00:51:06,200 --> 00:51:18,121
+But there isn't any world with any content, any description, any structure in itself, accordingly, which explains why we have the experiences we have.
+
+608
+00:51:18,121 --> 00:51:21,121
+It's got to be turned around and be the other way.
+
+609
+00:51:20,041 --> 00:51:24,241
+Okay, very much for that.
+
+610
+00:51:24,561 --> 00:51:36,881
+So he wants to, about 66 lines, 66, about six lines down, he wants to return to the world of actual experiences, experience which is prior to the objective world.
+
+611
+00:51:36,881 --> 00:51:39,920
+I keep repeating this now in the new language we've got.
+
+612
+00:51:39,921 --> 00:51:51,441
+Well, it's at least prior to it in the epistemological, chronological sense that we've got to keep doing this job before you have it.
+
+613
+00:51:51,441 --> 00:51:54,481
+And he thinks also metaphysically prior.
+
+614
+00:51:54,481 --> 00:52:04,640
+So skipping down a bit, our task will be to rediscover phenomena, the layer of living experience through which people, other people, and things are first given to us.
+
+615
+00:52:04,640 --> 00:52:05,920
+You see, that's okay.
+
+616
+00:52:05,921 --> 00:52:07,121
+That's safe.
+
+617
+00:52:07,121 --> 00:52:13,361
+The system self, other things is coming into being, reawaken perception and foil its trick.
+
+618
+00:52:13,360 --> 00:52:26,320
+That's the crypto mechanism of allowing us to forget it as a fact and as perception in the interest of the object which it presents to us, the determinate object, and the tradition, which so forth.
+
+619
+00:52:26,640 --> 00:52:29,041
+Okay, that is all okay.
+
+620
+00:52:29,041 --> 00:52:33,840
+Now comes the whole attack on introspection.
+
+621
+00:52:34,160 --> 00:52:35,440
+I don't have to say much about it.
+
+622
+00:52:35,441 --> 00:52:49,761
+I just recommend that you read 66 and 67, because when you tell people that you're doing phenomenology, they will inevitably think you're doing introspection, and they will think that introspection has been shown to be wrong, which he would completely agree.
+
+623
+00:52:49,760 --> 00:52:58,961
+That is, everybody just sitting there inactive, meditating on their own private experiences, get all sorts of weird answers.
+
+624
+00:52:59,200 --> 00:53:10,360
+The different introspectionist schools of psychology got different answers, as I think I mentioned, my favorite is the Buddhist meditating of Varela in his awful book, The Embodied Mind.
+
+625
+00:53:10,921 --> 00:53:26,121
+I wouldn't mind Varela doing his Buddhist meditation and coming up with the idea that there are no selves and no objects, but in that book, the idea is that's what Meriloponte was trying to do when he did phenomenology, but we doing meditation do it better.
+
+626
+00:53:26,441 --> 00:53:33,480
+But meditation is certainly introspection, and there's nothing further from what Merlopony is doing.
+
+627
+00:53:34,760 --> 00:53:40,121
+He's separating himself for two or three pages from doing introspection.
+
+628
+00:53:40,121 --> 00:53:45,801
+And he even says, in this nice footnote on 67, that he will begin differently.
+
+629
+00:53:46,760 --> 00:53:53,640
+Pay attention to internal experience and external experience of perceiving subjects.
+
+630
+00:53:53,640 --> 00:53:59,640
+That is, he's interested in how I experience the trees and the mask taking shape.
+
+631
+00:53:59,640 --> 00:54:07,481
+He's interested in sort of a Vishnal description of how a whole population of people all agree that this figure is similar to that figure.
+
+632
+00:54:07,481 --> 00:54:09,241
+That's all right, too.
+
+633
+00:54:09,240 --> 00:54:24,041
+The one thing I think he's against, and that's the meditation in introspection story, is that you could be a passive, reflective observer of your experience and find out anything important.
+
+634
+00:54:24,041 --> 00:54:26,121
+Because he thinks for two reasons.
+
+635
+00:54:26,121 --> 00:54:35,000
+One, you're really an active, engaged body coper, and that's where you find out what's important about experience.
+
+636
+00:54:35,320 --> 00:54:44,160
+And second, reflection modifies what you're finding and gives you false stuff.
+
+637
+00:54:44,481 --> 00:55:00,801
+So that you've got to be able to unreflectively catch yourself or observe people, it doesn't matter which, in their embodied interaction with the world if you want to find out what he wants to find out, which is the nature of perception.
+
+638
+00:55:01,280 --> 00:55:06,880
+The thing about how reflection falsifies things, I thought was pretty important, so I'm going to look for it in a minute.
+
+639
+00:55:07,360 --> 00:55:08,800
+We have the footnote here.
+
+640
+00:55:08,800 --> 00:55:09,441
+Right.
+
+641
+00:55:09,441 --> 00:55:15,440
+I don't think that for those of you that know that meditation is introspective.
+
+642
+00:55:16,160 --> 00:55:17,521
+I don't think he's misunderstood.
+
+643
+00:55:17,680 --> 00:55:28,800
+Okay, I think, no, I, well, well, look, I think that Varela thinks that phenomenology, and I talk to Varela a lot about this, that phenomenology is introspection and Buddhism is better than introspection.
+
+644
+00:55:28,800 --> 00:55:31,121
+But I'll find you the quotes next time.
+
+645
+00:55:31,360 --> 00:55:33,840
+And if he didn't, that would be terrific.
+
+646
+00:55:35,280 --> 00:55:36,320
+And maybe he doesn't.
+
+647
+00:55:36,320 --> 00:55:40,801
+I mean, anybody who's got the body mind can try to figure find out.
+
+648
+00:55:41,441 --> 00:55:48,720
+Okay, so now where reflection in this leads you is on 72, about two-thirds of the way down.
+
+649
+00:55:48,720 --> 00:56:00,321
+Reflection is truly reflection only if it's not carried outside itself, only if it knows itself as reflection on an unreflected experience and consequently is a change in structure of our experience.
+
+650
+00:56:00,320 --> 00:56:08,000
+So if you want to find out what your experience is, then you don't want to do it by doing something to it that changes its structure.
+
+651
+00:56:08,001 --> 00:56:11,761
+You'll just find out what happens when you reflect on it.
+
+652
+00:56:11,760 --> 00:56:15,601
+And so it's what he's doing is not introspection.
+
+653
+00:56:15,601 --> 00:56:16,240
+This is true.
+
+654
+00:56:16,800 --> 00:56:18,881
+We'll find out what Varela thinks he's doing.
+
+655
+00:56:18,881 --> 00:56:23,520
+But what Merlot-Fontee thinks he's doing is not introspection and not reflection.
+
+656
+00:56:23,521 --> 00:56:33,600
+And it's a tricky job of finding out what our experience is like when we're actively engaged in coping with the world unreflectively, sort of in flow.
+
+657
+00:56:33,601 --> 00:56:37,961
+Somebody told me they thought this book is all really the phenomenology of sports.
+
+658
+00:56:34,961 --> 00:56:39,640
+I think that's a nice way to think about it.
+
+659
+00:56:39,881 --> 00:56:49,160
+If sports are people most engaged in the flow, unreflectively, dealing with the world, that's the model Merlot Ponty wants.
+
+660
+00:56:49,160 --> 00:56:53,561
+That's how you find out what it's really like to be a perceiving human being.
+
+661
+00:56:53,561 --> 00:57:03,720
+So there's a university of sports in Norway, the Chancellor of which is a Merillot Ponty scholar, and they're big fans of Merilo-Ponty.
+
+662
+00:57:03,720 --> 00:57:05,960
+And Merlot Ponty would be happy with that.
+
+663
+00:57:06,441 --> 00:57:06,921
+Yeah.
+
+664
+00:57:07,720 --> 00:57:10,601
+I just want to think about the photograph analogy.
+
+665
+00:57:10,601 --> 00:57:19,481
+It seems like this leading to me because it seems like the K-Doint photograph is an objective capture of our things.
+
+666
+00:57:19,481 --> 00:57:26,680
+But it's like the camera process is built to replicate our optimization.
+
+667
+00:57:26,680 --> 00:57:31,881
+And we build in replicates our retina structure.
+
+668
+00:57:31,881 --> 00:57:38,041
+And then the chemistry re-release of our sensation.
+
+669
+00:57:38,200 --> 00:57:41,081
+It's not a reflection of our perception, so we have to interact.
+
+670
+00:57:41,081 --> 00:57:45,720
+But if the photography, like the fly candy, I say, well, let's not go back to that.
+
+671
+00:57:45,720 --> 00:57:46,840
+I mean, you're right.
+
+672
+00:57:47,481 --> 00:57:49,080
+But yet, it's true.
+
+673
+00:57:49,081 --> 00:57:56,041
+The photograph is doing the, what do you call it, getting this, the sensation, it's getting the sense impression.
+
+674
+00:57:56,521 --> 00:57:57,400
+What's these words?
+
+675
+00:57:57,401 --> 00:58:00,360
+I'm going to be remembering the constancy hypothesis.
+
+676
+00:58:00,840 --> 00:58:05,561
+What's on the film is like what's on the retina.
+
+677
+00:58:05,561 --> 00:58:12,760
+And the question then becomes sort of, and what does that tell us about perception?
+
+678
+00:58:12,760 --> 00:58:19,320
+And Merylot Ponty would have to say not much, because the role of what's on our retina isn't what people think it is.
+
+679
+00:58:19,320 --> 00:58:25,840
+It isn't sort of giving us the picture of the world, which needs to be cleaned up and fixed up a bit.
+
+680
+00:58:26,640 --> 00:58:29,600
+And when it gets to the highest level, we'll have a good picture of the world.
+
+681
+00:58:29,601 --> 00:58:30,720
+Now, I don't want to go back.
+
+682
+00:58:30,720 --> 00:58:35,680
+Just that time is really running out and I'm very far from where I want to be.
+
+683
+00:58:35,680 --> 00:58:39,601
+74, not infrospective.
+
+684
+00:58:39,601 --> 00:58:40,241
+Okay.
+
+685
+00:58:40,561 --> 00:58:48,321
+And then you can have an objective science of your prior, of first-person experience.
+
+686
+00:58:48,320 --> 00:58:50,320
+Pearl says that rightly.
+
+687
+00:58:50,320 --> 00:58:52,000
+The Gestaltists understood that.
+
+688
+00:58:52,001 --> 00:58:53,121
+That's what they were doing.
+
+689
+00:58:53,121 --> 00:58:55,521
+And Merylo-Ponty's footnote says that.
+
+690
+00:58:55,521 --> 00:58:58,961
+There's no problem with that.
+
+691
+00:58:58,961 --> 00:59:18,640
+Now, the important thing is, and that's what I don't want to miss, that when he starts this chapter on the phenomenal field, we're now finally to the phenomenal field, which is, I'm going on next time, by the way, no matter what, go read for next week the problem of the body, at least that first section of the problem of the body.
+
+692
+00:59:18,640 --> 00:59:24,561
+I hope to get to the Phantom Limb talk next week, so try to get over the weekend, try to get through that assignment.
+
+693
+00:59:24,561 --> 00:59:27,200
+It's 30 pages, it's not impossible.
+
+694
+00:59:27,200 --> 00:59:29,761
+But now, here we are in the phenomenal field.
+
+695
+00:59:29,760 --> 00:59:36,321
+And he starts by telling you about a whole bunch of affordances, which are nice, but we can just run page 60.
+
+696
+00:59:36,320 --> 00:59:43,201
+Then he tells you about how things afford, well, what?
+
+697
+00:59:44,081 --> 00:59:45,360
+Well, and anti-affordances.
+
+698
+00:59:45,360 --> 00:59:48,960
+A child sees a candle, is repulsive once, he gets burnt by it, and all that.
+
+699
+00:59:49,521 --> 00:59:56,081
+This is just good Gestaltist and uh Gibsonian-like talk.
+
+700
+00:59:56,400 --> 01:00:03,680
+What I want to focus on is 61, this, which struck me as important in the time I was reading it through, the third line.
+
+701
+01:00:03,681 --> 01:00:07,480
+Sense experience on the other hand, well let's see what on the other hand watch.
+
+702
+01:00:07,480 --> 01:00:08,841
+Well there's no pure quality.
+
+703
+01:00:05,041 --> 01:00:09,961
+He said that lots of times.
+
+704
+01:00:10,280 --> 01:00:13,961
+Sense experience on the other hand, which are not like sense data.
+
+705
+01:00:13,961 --> 01:00:18,200
+That would be pure quality, red patches here now.
+
+706
+01:00:18,200 --> 01:00:21,480
+Sense experience is responding to affordances.
+
+707
+01:00:21,480 --> 01:00:25,160
+Sense experience invests the quality with a vital value.
+
+708
+01:00:25,160 --> 01:00:29,160
+Yeah, you know, to eat, to walk on, to run away from.
+
+709
+01:00:29,480 --> 01:00:38,440
+Grasp it first in its meaning for us, for that heavy mass which is our body, whether it comes about that it always involves a reference to the body.
+
+710
+01:00:38,761 --> 01:00:41,240
+That's a sentence which I think is interesting.
+
+711
+01:00:41,240 --> 01:00:47,320
+The first thing is, it's so important that all of this is done in terms of its vital value for us.
+
+712
+01:00:47,320 --> 01:00:53,160
+And I don't particularly like that jargon, but it's the same point I keep wanting to say.
+
+713
+01:00:53,160 --> 01:00:57,961
+It's our engaged experience when we're trying to cope with the world.
+
+714
+01:00:57,961 --> 01:01:00,360
+We're trying to get a maximum grip on it.
+
+715
+01:01:01,320 --> 01:01:03,880
+That's the bottom line for him.
+
+716
+01:01:04,360 --> 01:01:06,920
+And he'll come, I'll give you other quotes.
+
+717
+01:01:06,921 --> 01:01:12,041
+By the way, just for fun, you should look at the idea of that heavy mass that is our body.
+
+718
+01:01:12,041 --> 01:01:17,560
+Have I ever told you this TOTUS thing about why I've got body and world on the list?
+
+719
+01:01:17,560 --> 01:01:25,320
+I mean, if you keep your eyes open, you'll see that Merillau-Ponty never tells you what the body is like and never makes any use of it.
+
+720
+01:01:25,961 --> 01:01:33,881
+As TOTUS said to me once, I mean, if a Martian read Merleau-Ponty, he wouldn't have any idea what human beings were like.
+
+721
+01:01:33,881 --> 01:01:37,240
+They would just be this sort of heavy mass that moves around.
+
+722
+01:01:37,480 --> 01:01:39,001
+That's the one thing the body does.
+
+723
+01:01:39,001 --> 01:01:43,560
+It moves around in order to get a better look at things and a better grasp of things.
+
+724
+01:01:43,560 --> 01:01:56,880
+But a batted body has a front and a back, an up and a down, a right and a left, and it moves forward more easily than backward and copes with things that are in front of it and balances in a gravitational field.
+
+725
+01:01:56,881 --> 01:01:59,280
+All this is what TOS is interested in.
+
+726
+01:01:59,280 --> 01:02:03,520
+It's super important that Merlot-Ponty, you can't do everything at once.
+
+727
+01:02:03,520 --> 01:02:06,640
+He hasn't really got an idea of the body.
+
+728
+01:02:06,641 --> 01:02:18,800
+The body for him is, it is the capacity to respond to the solicitations of things, and the solicitation of things are their vital significance to me.
+
+729
+01:02:18,801 --> 01:02:26,240
+It's to get the affordances, get a grasp on your coffee mug, or be able to walk out your door.
+
+730
+01:02:26,240 --> 01:02:29,520
+So now, let me go more about that.
+
+731
+01:02:29,841 --> 01:02:32,160
+I'm trying to get a better grip on my world.
+
+732
+01:02:32,160 --> 01:02:35,041
+I experience there's always promising the world.
+
+733
+01:02:35,121 --> 01:02:40,320
+Well, the perceptive world is promising me more, calling me to follow solicitation.
+
+734
+01:02:40,320 --> 01:02:44,160
+And I'm partly repenting my previous time teaching this.
+
+735
+01:02:44,160 --> 01:02:49,680
+And for years, I've said, well, the point is to have a set to go around the house, for instance.
+
+736
+01:02:49,681 --> 01:02:50,800
+Let's talk about a house.
+
+737
+01:02:50,801 --> 01:02:56,560
+But you're set to do, if you go around the back, around trying to go see the map, if you think of that.
+
+738
+01:02:57,520 --> 01:03:00,001
+If you can take it, and so forth.
+
+739
+01:03:00,001 --> 01:03:04,480
+I think that's not capturing the vital values, Joy.
+
+740
+01:03:04,721 --> 01:03:08,001
+It's not that I'm simply set to see more.
+
+741
+01:03:08,560 --> 01:03:13,760
+And this is the slogan that you've got to keep in mind all the time in this part and everywhere.
+
+742
+01:03:13,761 --> 01:03:19,280
+I'm not just set to see more, I'm not just ready to see more, I'm drawn to see better.
+
+743
+01:03:19,600 --> 01:03:23,041
+That's the vital norm that he's built in.
+
+744
+01:03:23,041 --> 01:03:29,520
+That we're always drawn to get a better view, more detailed, firmer group.
+
+745
+01:03:29,520 --> 01:03:31,280
+And that makes everything different.
+
+746
+01:03:31,280 --> 01:03:34,400
+That turns all this talk into talk about norms.
+
+747
+01:03:34,400 --> 01:03:38,280
+It's always not a question just of other possible perspectives.
+
+748
+01:03:35,121 --> 01:03:41,480
+It's always a question of better perspectives.
+
+749
+01:03:42,200 --> 01:03:49,560
+And I went, if you look at the primacy of perception, you'll see that that's the crucial point of the article.
+
+750
+01:03:49,560 --> 01:03:51,880
+I'll just call your attention to it.
+
+751
+01:03:51,881 --> 01:03:58,600
+He says perception can't be understood in terms of possibility or necessity.
+
+752
+01:03:58,600 --> 01:04:00,520
+Take that with a house.
+
+753
+01:04:00,520 --> 01:04:11,081
+If you're a Husserlian, you think that you've got a mental structure of a house and it shows you the necessary, tells you the necessary properties.
+
+754
+01:04:11,081 --> 01:04:14,440
+Like, for instance, it's necessary that it's a house that will have a back.
+
+755
+01:04:14,761 --> 01:04:19,081
+That's not what perception is.
+
+756
+01:04:19,240 --> 01:04:22,041
+Well, maybe it's then got to do with possibility.
+
+757
+01:04:22,041 --> 01:04:23,801
+Then you get to somebody like C.I.
+
+758
+01:04:23,801 --> 01:04:35,640
+Lewis, who sort of converts the husseral position of this meaning that tells you the necessary structure of a house to possibilities.
+
+759
+01:04:35,641 --> 01:04:37,560
+If I go around, I'll see the back.
+
+760
+01:04:38,121 --> 01:04:41,640
+That makes the back not a necessity, but a possibility.
+
+761
+01:04:41,641 --> 01:04:44,200
+But Meryl Fonte says the neither is right.
+
+762
+01:04:44,200 --> 01:04:46,280
+The back is an actuality.
+
+763
+01:04:46,280 --> 01:04:52,600
+But that connects with his constantly thing, which I stress, saying, remember, it's the presence of the back that matters.
+
+764
+01:04:52,600 --> 01:04:55,720
+It's the presence of what's under the spaker family.
+
+765
+01:04:55,721 --> 01:04:59,480
+How something can be concealed but present.
+
+766
+01:04:59,480 --> 01:05:01,720
+And that's what we're worrying about.
+
+767
+01:05:01,721 --> 01:05:08,200
+And he says, so the back of a house isn't necessary, and it isn't possible.
+
+768
+01:05:08,200 --> 01:05:09,160
+It's actual.
+
+769
+01:05:09,641 --> 01:05:11,800
+He has all kinds of words for this.
+
+770
+01:05:11,801 --> 01:05:12,841
+And real.
+
+771
+01:05:13,961 --> 01:05:14,440
+Real?
+
+772
+01:05:14,440 --> 01:05:15,160
+Yeah, real.
+
+773
+01:05:15,160 --> 01:05:16,121
+Not actual.
+
+774
+01:05:16,681 --> 01:05:17,160
+Really?
+
+775
+01:05:17,400 --> 01:05:18,600
+You are really actual.
+
+776
+01:05:18,841 --> 01:05:19,081
+Really?
+
+777
+01:05:19,320 --> 01:05:21,121
+Okay, I've misremembered it.
+
+778
+01:05:21,121 --> 01:05:22,240
+I haven't read it for a while.
+
+779
+01:05:22,240 --> 01:05:23,680
+So it's actual.
+
+780
+01:05:19,480 --> 01:05:26,160
+So not necessary or possible, but actual.
+
+781
+01:05:26,480 --> 01:05:32,560
+And I'm just trying to call your attention to the fact that this is tied up with all this talk about vital things.
+
+782
+01:05:32,961 --> 01:05:36,480
+One more passage on 61, about 12 lines down.
+
+783
+01:05:36,480 --> 01:05:44,961
+Sense experience is that vital communication with the world that makes it present as a familiar setting of our life.
+
+784
+01:05:44,961 --> 01:05:48,320
+See, it's not just looking at the world.
+
+785
+01:05:48,320 --> 01:05:55,520
+It's not, it's got this thing he called vital communication is constantly trying to get a better grip.
+
+786
+01:05:56,081 --> 01:06:00,961
+It is to that that the perceived object and perceiving subject owe their thickness.
+
+787
+01:06:00,961 --> 01:06:06,640
+It is the intentional tissue, which is, which the effort to know will try to take apart.
+
+788
+01:06:06,641 --> 01:06:11,280
+Intentional tissue is another word for the actual or the real.
+
+789
+01:06:11,280 --> 01:06:13,760
+I mean, it's supposed to be, or thickness.
+
+790
+01:06:13,761 --> 01:06:17,280
+These are all words for the same thing.
+
+791
+01:06:17,600 --> 01:06:20,721
+And I had another one that I wanted to.
+
+792
+01:06:21,841 --> 01:06:24,961
+But the point is, it looks like it has a back.
+
+793
+01:06:24,961 --> 01:06:26,160
+Yeah, that's right.
+
+794
+01:06:26,160 --> 01:06:27,041
+It doesn't matter.
+
+795
+01:06:27,041 --> 01:06:28,480
+This is not telepathy.
+
+796
+01:06:28,480 --> 01:06:31,680
+I talked to Rick about this before office hour yesterday.
+
+797
+01:06:31,681 --> 01:06:37,041
+But the point isn't whether you can tell from the front of a house whether it's a facade or a house.
+
+798
+01:06:37,200 --> 01:06:38,881
+That would be telepathy.
+
+799
+01:06:38,881 --> 01:06:40,640
+That would be impossible.
+
+800
+01:06:40,641 --> 01:06:42,720
+That would make illusions disappear.
+
+801
+01:06:43,520 --> 01:06:49,761
+If you've been on a set in which you've seen lots of facades, then you don't even have to believe it's a facade.
+
+802
+01:06:49,761 --> 01:06:51,041
+You're just taking it.
+
+803
+01:06:51,200 --> 01:06:52,961
+You just take the next building as a facade.
+
+804
+01:06:53,041 --> 01:06:53,761
+It looks like that.
+
+805
+01:06:54,320 --> 01:06:57,280
+And if you take it as a facade, it looks like a facade.
+
+806
+01:06:57,280 --> 01:06:59,440
+Or if it looks like a facade, you take it as a facade.
+
+807
+01:06:59,520 --> 01:07:00,560
+The other way around.
+
+808
+01:07:00,881 --> 01:07:01,520
+Both.
+
+809
+01:07:01,520 --> 01:07:05,880
+I mean, once you've been surrounded by facades, you see facades.
+
+810
+01:07:05,041 --> 01:07:08,041
+And that means that it looks thin.
+
+811
+01:07:08,600 --> 01:07:17,001
+And if you've been walking down a normal street with normal houses and you don't even notice you've walked onto a movie bed, then it will look thick.
+
+812
+01:07:17,001 --> 01:07:22,200
+It will look like that not only does it have a necessary back and a possible bag.
+
+813
+01:07:22,200 --> 01:07:23,720
+He isn't denying that.
+
+814
+01:07:23,721 --> 01:07:29,160
+It also looks, and this is the important thing, like it has an actual or real.
+
+815
+01:07:29,160 --> 01:07:39,720
+And when it doesn't, right then, not just deductively, has to be there, necessary, not just possible that if I go around I'll see it, but actually there.
+
+816
+01:07:39,721 --> 01:07:49,160
+And he can only get that argument going, and that's what I want to be expressing, when he brings in this vital function.
+
+817
+01:07:49,160 --> 01:07:50,680
+That is the vital functional.
+
+818
+01:07:50,681 --> 01:07:53,800
+There's another, I know what I'm looking for, my last chance here.
+
+819
+01:07:53,801 --> 01:07:57,881
+There's another fascinatingly obscure passage which I think I can make sense.
+
+820
+01:07:57,961 --> 01:07:59,560
+It's got to do with practicity.
+
+821
+01:07:59,801 --> 01:08:01,160
+Let me look over here.
+
+822
+01:08:03,320 --> 01:08:12,121
+By the way, there's this whole history of modern philosophy from 62 to 65, which is fine and brilliant, really French achievement.
+
+823
+01:08:12,121 --> 01:08:14,121
+But it's just like a French philosophy paper.
+
+824
+01:08:14,121 --> 01:08:18,041
+You could skip it and you wouldn't hurt anything for your reading again.
+
+825
+01:08:18,041 --> 01:08:20,280
+So there's the world going up well.
+
+826
+01:08:20,360 --> 01:08:21,400
+Okay, 71.
+
+827
+01:08:21,641 --> 01:08:23,160
+I think the vital thing comes back.
+
+828
+01:08:24,121 --> 01:08:27,001
+Yes, at the top of 71, that's the last thing I'll read.
+
+829
+01:08:27,001 --> 01:08:28,280
+I've got one minute.
+
+830
+01:08:28,280 --> 01:08:45,001
+If then we want reflection to maintain in the object on which it bears its descriptive characteristics and thoroughly to understand the object, we must not consider it as a mere return to universal reason, this is old stuff, and see it as anticipated in unreflected experience.
+
+831
+01:08:45,001 --> 01:08:48,200
+We must regard it as a creative, be careful there.
+
+832
+01:08:48,200 --> 01:08:57,520
+That just means articulation, operation, which itself participates in the facticity of that experience.
+
+833
+01:08:57,520 --> 01:09:00,160
+Now, I thought that was fairly obscure.
+
+834
+01:09:00,400 --> 01:09:12,081
+What it means to participate in the faculty, in the facticity of the experience, is you are solicited by a call to get it better.
+
+835
+01:09:12,081 --> 01:09:15,121
+I think that's what it's got to mean.
+
+836
+01:09:15,440 --> 01:09:25,121
+And that's why there's a place now where he says that we there's no separation between us and the world.
+
+837
+01:09:26,240 --> 01:09:27,440
+I think I have to give up.
+
+838
+01:09:27,440 --> 01:09:28,881
+It's too bad, Isaac.
+
+839
+01:09:29,200 --> 01:09:33,200
+There's no separation between us and the world.
+
+840
+01:09:33,200 --> 01:09:35,041
+Oh, well, let me, here, quick.
+
+841
+01:09:35,520 --> 01:09:43,840
+Notice it's not Merlot-Ponty from the middle of 69 to about 50 lines down on 70.
+
+842
+01:09:44,160 --> 01:09:46,720
+And then it says, now the phenomenal field.
+
+843
+01:09:46,721 --> 01:09:49,121
+He says, the weed reveal.
+
+844
+01:09:49,440 --> 01:09:53,200
+And now, if I could just find what there is, this interesting.
+
+845
+01:09:53,200 --> 01:09:55,921
+He talks about, it's the vital point again.
+
+846
+01:09:55,921 --> 01:09:58,480
+I'm going to read the chunk starting in the middle of the page.
+
+847
+01:09:58,480 --> 01:10:03,600
+But although the Gestalt is fast for a while, it may be expressible in terms of some internal law, and so on.
+
+848
+01:10:03,681 --> 01:10:06,320
+Their experience is not the external unfolding and so forth.
+
+849
+01:10:06,641 --> 01:10:17,600
+It's not because the form produces a certain state of equilibrium, solving a problem, the maximum coherence, making a world possible, that it enjoys privileged such and such, skipping down.
+
+850
+01:10:17,600 --> 01:10:21,520
+It is the birth of a norm and is not realized according to a norm.
+
+851
+01:10:21,520 --> 01:10:27,520
+It is the identity of the external and internal, and not the projection of the internal to the external.
+
+852
+01:10:27,520 --> 01:10:33,680
+That norm talk and identity talk is this vital significance call.
+
+853
+01:10:33,681 --> 01:10:53,081
+That is, there my being solicited to cope with something and something showing up as having importances for me to cope with is the essential is the total interconnection between internal and external.
+
+854
+01:10:53,081 --> 01:10:56,840
+So it doesn't even make sense to talk about internal and external anymore.
+
+855
+01:10:56,841 --> 01:10:57,961
+Okay, I did it.
+
+856
+01:10:57,961 --> 01:10:58,680
+I talked too long.
+
+857
+01:10:58,681 --> 01:10:59,240
+I'm sorry.
+
+858
+01:10:59,240 --> 01:11:00,121
+I'm stopping.

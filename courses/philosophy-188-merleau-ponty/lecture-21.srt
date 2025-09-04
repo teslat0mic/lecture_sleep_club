@@ -1,0 +1,3933 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:07,679
+Well, well then let's go into the movement chapter, or a part of the space chapter.
+
+2
+00:00:07,919 --> 00:00:10,199
+And we're starting with 312.
+
+3
+00:00:09,679 --> 00:00:11,959
+The real starting is on 311.
+
+4
+00:00:12,120 --> 00:00:19,319
+I mean as you realize there are these spaces in the book which correspond to changing of subjects.
+
+5
+00:00:19,639 --> 00:00:36,039
+Incidentally in the French copy there in the in the table of contents there are a list of these topics which they have put in the German translation in these spaces which is very helpful as if in that space it would say movement.
+
+6
+00:00:36,039 --> 00:00:47,319
+So if anybody reads German and that got translated into the Dutch I now know and so you get a lot more perspicuous grasp of it if you had that.
+
+7
+00:00:47,319 --> 00:00:51,399
+But there's no reason I'm afraid why any of us I'm going to try to get the German.
+
+8
+00:00:51,400 --> 00:01:03,080
+If I get the German then I'll be able or the Dutch even Martin I could then tell you the names of these how it maps the French table of contents on these sections that would be interesting that would be valuable.
+
+9
+00:01:03,080 --> 00:01:04,439
+Okay let's do that.
+
+10
+00:01:04,440 --> 00:01:20,840
+So what I'm going to hand out I promise as soon as I get time which is probably this coming weekend is the detailed table of contents that's in the French translated into English and how that maps pages on how that maps onto this.
+
+11
+00:01:20,840 --> 00:01:50,239
+Okay but boy is this I know you have this feeling constantly being in the wamp okay on 311 just worth reviewing just minimally because it's so absolutely fundamental and oddly enough there seem to be maybe not any more after two lectures have gone, still people who thought that the maximal grip story was not the basic story in the phenomenology of perception, and I was sort of making a fuss about it.
+
+12
+00:01:50,240 --> 00:01:57,440
+And you can understand why somebody might think that, because the phrase maximal grip only occurs about three times in the whole book.
+
+13
+00:01:57,440 --> 00:02:12,000
+But everything about equilibrium, getting a grip on the world, lowering attention, not paying attention, but lowering the pull of things away from getting the optimal that Sean talked about.
+
+14
+00:02:12,000 --> 00:02:13,359
+All of that's in there.
+
+15
+00:02:13,919 --> 00:02:23,679
+And he says it on 311, for instance, in what I think might be a new term, but I'm looking now at the middle of the first paragraph on 311.
+
+16
+00:02:23,680 --> 00:02:37,439
+But we saw above, above is all the discussion of the orientation, of size, of shape that we've been talking, Sean was talking about.
+
+17
+00:02:37,439 --> 00:02:43,680
+We saw above that in reality, the vertical and the horizontal, nobody talked about that much.
+
+18
+00:02:43,679 --> 00:02:45,040
+That's the inverting lenses.
+
+19
+00:02:45,039 --> 00:02:49,279
+That's so long and complicated that I think nobody wants to touch it, neither Vienna.
+
+20
+00:02:50,160 --> 00:02:57,280
+But the vertical and horizontal, ultimately defined as the best hold our body could take on the world.
+
+21
+00:02:57,280 --> 00:02:59,280
+That's the optimal grip.
+
+22
+00:02:59,280 --> 00:03:14,799
+And beneath the height, as relations between objects are derivative and viewed in their primary significance, breadth and height, as relations between objects are derived and viewed in their primary significance, they too are existential dimensions.
+
+23
+00:03:14,799 --> 00:03:17,280
+Maybe that's a new phrase, I'm not sure.
+
+24
+00:03:17,280 --> 00:03:33,439
+But existential dimension means that they are aspects of objects which can only appear to an engaged, embodied consciousness.
+
+25
+00:03:33,919 --> 00:03:35,680
+That's the other big theme.
+
+26
+00:03:35,679 --> 00:03:38,080
+I mean, these are not two separate things, of course.
+
+27
+00:03:39,599 --> 00:03:54,679
+One theme is there's a lot the objective observer misses, can't understand constant size, constant shape, depth, distance, orientation.
+
+28
+00:03:56,119 --> 00:03:57,479
+I'm missing the one.
+
+29
+00:03:57,479 --> 00:04:18,439
+Anyway, can't understand those, you only can understand those as deviations from an optimal grip, and you can only understand that if you're an engaged being with a body that moves toward and is sensitive to the need for an optimal grip.
+
+30
+00:04:18,439 --> 00:04:20,680
+And that's existential phenomenology.
+
+31
+00:04:22,679 --> 00:04:39,160
+That's the claim that these aspects of objects are only given to or only experienced above by an engaged, embodied, active receiver.
+
+32
+00:04:39,160 --> 00:04:47,960
+And that's just, I keep telling you the overall story because I think it's so hard to keep track of the overall story in all the details.
+
+33
+00:04:47,960 --> 00:04:53,479
+Okay, now we're going to go into one of the details, starting on 312.
+
+34
+00:04:54,760 --> 00:04:58,039
+So now we want to understand movement, it says.
+
+35
+00:04:58,359 --> 00:05:02,999
+And we know already what the form of the answer is going to be.
+
+36
+00:05:03,000 --> 00:05:04,440
+The form, just what I said.
+
+37
+00:05:04,439 --> 00:05:14,679
+The form of the answer is going to be that you can only understand movement when you relate it in some way or other to the tendency we have to get an optimal grip.
+
+38
+00:05:14,679 --> 00:05:20,200
+How that particular game is going to be played in this chapter is always new, always different.
+
+39
+00:05:20,199 --> 00:05:26,880
+But on 312 at the top, he's talking about the existential dimensions without naming it.
+
+40
+00:05:26,880 --> 00:05:44,640
+He says in the middle of the top sentence on 312, we shall have to rediscover beneath the objective idea of movement a pre-objective experience from which it borrows its significance, and in which movement still leads to the person perceiving it is a variation of the subject's hold on his world.
+
+41
+00:05:44,640 --> 00:05:47,679
+I mean that's race will just come up always.
+
+42
+00:05:48,319 --> 00:05:51,280
+And I guess that adds a new element to what I wanted to say.
+
+43
+00:05:51,280 --> 00:05:53,679
+It's always on the pre-objective.
+
+44
+00:05:53,679 --> 00:05:55,280
+That was what's implied.
+
+45
+00:05:55,280 --> 00:06:06,640
+The pre-objective story is always a story about the grip on the world and always tied up with involvement in the world and moving toward a better grip on the world.
+
+46
+00:06:06,720 --> 00:06:13,040
+That's what gets you the pre-objective pre-conceptual phenomenon.
+
+47
+00:06:13,039 --> 00:06:25,519
+That is, the phenomena that you get that way can't be described from the objective, detached, another Sean term, determinate description of it.
+
+48
+00:06:25,919 --> 00:06:27,119
+Indeterminate, add that.
+
+49
+00:06:27,119 --> 00:06:37,999
+I mean, it's all the indeterminate comes in too, insofar as you are an embodied, engaged being moving to get a better grip on the world.
+
+50
+00:06:38,000 --> 00:06:45,920
+That that gives you more or less determinacy as you get a better or less good grip.
+
+51
+00:06:46,799 --> 00:06:50,000
+So the hold on the world.
+
+52
+00:06:50,000 --> 00:06:54,800
+Now, now, with your book open, I give you guidelines again.
+
+53
+00:06:54,799 --> 00:07:08,400
+If you haven't figured it out for yourself, it stops being marlow-pon p after the word world, and you get the objectivist description of what goes on in movement.
+
+54
+00:07:08,400 --> 00:07:16,760
+That goes on clear to, well, it goes on in one form to the bottom of the page.
+
+55
+00:07:17,319 --> 00:07:20,360
+And then it looks like Merleau-Ponty is going to tell us something.
+
+56
+00:07:20,360 --> 00:07:24,039
+He says, well, that doesn't give us a movement.
+
+57
+00:07:24,039 --> 00:07:36,840
+The objectivist got into paradoxes of Zeno-like sort, where a completely determinate object is occupying always some completely determinate place, and then there's no movement.
+
+58
+00:07:36,839 --> 00:07:43,800
+So movement seems to vanish from a determinate, objectivist description.
+
+59
+00:07:43,799 --> 00:07:46,840
+And he says that at the bottom of 312.
+
+60
+00:07:46,839 --> 00:07:54,280
+And then he goes on and goes back to not giving his view.
+
+61
+00:07:55,160 --> 00:07:59,880
+But more of it, then he goes on back to Zeno's paradoxes.
+
+62
+00:07:59,880 --> 00:08:07,720
+And so that whole next paragraph is about how you can't account for movement from this objectivist point of view.
+
+63
+00:08:07,719 --> 00:08:18,760
+And see if I can the end of that paragraph, it's impossible to conceive in one and the same moving body, the very act of transition, which always occurs between two instances.
+
+64
+00:08:19,640 --> 00:08:28,440
+This is his criticism of the objectivist in whatever proximity to each other we choose them.
+
+65
+00:08:28,439 --> 00:08:38,120
+So that in thinking clearly about movement, I do not understand how it can ever begin for me and to be given to me as a phenomenon.
+
+66
+00:08:38,439 --> 00:08:41,400
+And of not Merlot-Ponty.
+
+67
+00:08:41,400 --> 00:08:46,440
+He's now reduced the objectivist position to hopelessness.
+
+68
+00:08:46,439 --> 00:08:47,720
+You remember the dialectic.
+
+69
+00:08:47,719 --> 00:08:51,240
+I mean, it says there's always for him two wrong positions.
+
+70
+00:08:51,240 --> 00:08:55,760
+Usually it's intellectualist and empiricist that you've gotten used to knowing.
+
+71
+00:08:55,080 --> 00:08:58,319
+Oddly enough, in this chapter, it's not.
+
+72
+00:08:58,640 --> 00:09:03,919
+It's objectivist versus Vestaltist, which is very sort of disoriented.
+
+73
+00:09:03,919 --> 00:09:08,079
+The new dialectic, two new bad guys, and a new synthesis.
+
+74
+00:09:08,079 --> 00:09:11,840
+I'll show you the passage where he thumbs that up.
+
+75
+00:09:12,079 --> 00:09:15,680
+The empiricist doesn't show up in this chapter, as far as I can see.
+
+76
+00:09:15,679 --> 00:09:16,640
+I don't know why.
+
+77
+00:09:17,039 --> 00:09:21,840
+There ought to be an empiricist story about movement, which ought to be wrong, according to him.
+
+78
+00:09:21,839 --> 00:09:24,080
+But if it was here, I missed it.
+
+79
+00:09:24,719 --> 00:09:26,559
+Okay, so now he goes on.
+
+80
+00:09:26,559 --> 00:09:28,720
+We're on 3.13.
+
+81
+00:09:28,719 --> 00:09:30,240
+Wait, let me see if I've got...
+
+82
+00:09:30,240 --> 00:09:32,400
+Yeah, so now he goes on, and yet I walk.
+
+83
+00:09:32,400 --> 00:09:46,799
+I have the experience of movement in spite of the demands and dilemmas of clear thought, which means in defiance of all reason, that I perceive movement without any identical moving object, without any external landmark, and without any relativity.
+
+84
+00:09:46,799 --> 00:09:48,959
+And that's going to be mysterious.
+
+85
+00:09:48,959 --> 00:09:52,640
+But right now he's introducing not his own view.
+
+86
+00:09:52,640 --> 00:09:54,160
+Oh, well, I see.
+
+87
+00:09:54,719 --> 00:09:56,080
+That is Merrill-Ponty's view.
+
+88
+00:09:56,160 --> 00:09:59,120
+I wasn't up to that when I read it through.
+
+89
+00:09:59,120 --> 00:10:01,599
+That's not Merloponte, that's Vestalta.
+
+90
+00:10:01,600 --> 00:10:05,360
+And I hadn't realized yet that he wasn't in the Gestalt business.
+
+91
+00:10:05,360 --> 00:10:10,559
+So now the Gestalt says to the objectivist, no, no, you're wrong.
+
+92
+00:10:11,199 --> 00:10:21,360
+We can perceive movement even when there's nothing that moves and no framework against which it moves, just pure movement.
+
+93
+00:10:21,360 --> 00:10:22,959
+And you would think, gee, I don't know.
+
+94
+00:10:22,959 --> 00:10:24,479
+I can't believe there's such a thing.
+
+95
+00:10:24,480 --> 00:10:25,760
+How could we perceive that?
+
+96
+00:10:25,760 --> 00:10:27,360
+Well, you see it every day.
+
+97
+00:10:27,360 --> 00:10:29,280
+It's called the psi phenomenon.
+
+98
+00:10:29,280 --> 00:10:33,520
+In here, there's a funny little letter at one point which looks like a Norwegian.
+
+99
+00:10:33,520 --> 00:10:36,240
+Oh, it isn't the right Greek letter.
+
+100
+00:10:36,240 --> 00:10:39,800
+But that whatever psi is, what does a psi look like?
+
+101
+00:10:38,959 --> 00:10:41,480
+Does it look like mid?
+
+102
+00:10:42,839 --> 00:10:43,640
+It's in phi.
+
+103
+00:10:43,640 --> 00:10:45,400
+So it's a phi, so it looks like that.
+
+104
+00:10:46,439 --> 00:10:50,200
+And that's why it looks like an O in Norwegian.
+
+105
+00:10:50,839 --> 00:10:52,839
+But I see a psi.
+
+106
+00:10:52,839 --> 00:10:53,880
+It's the phi.
+
+107
+00:10:53,880 --> 00:10:57,079
+I've always said psi all my life, the phi phenomenon.
+
+108
+00:10:57,079 --> 00:10:59,560
+And you see that every day.
+
+109
+00:10:59,880 --> 00:11:01,799
+You realize that you see that every day?
+
+110
+00:11:01,799 --> 00:11:04,119
+You don't have to be in a gestaltist lab to see it.
+
+111
+00:11:04,120 --> 00:11:07,000
+Just I want to see how much I have to explain.
+
+112
+00:11:07,480 --> 00:11:10,200
+Somebody tell me, where do you see it every day?
+
+113
+00:11:10,839 --> 00:11:12,760
+You see it less now than in the 50s.
+
+114
+00:11:12,760 --> 00:11:14,520
+I can look in the board with it.
+
+115
+00:11:15,400 --> 00:11:17,800
+When I was a kid, it was all over them.
+
+116
+00:11:18,280 --> 00:11:19,640
+But it's a neon sign.
+
+117
+00:11:19,640 --> 00:11:23,080
+It seems to fling, something seems to flip back and forth.
+
+118
+00:11:23,079 --> 00:11:28,920
+And you see, you know, something like an arrow going from here to there and going from here to there, but there isn't any arrow in between.
+
+119
+00:11:29,079 --> 00:11:30,439
+There isn't any arrow at all.
+
+120
+00:11:30,439 --> 00:11:34,039
+You turn this one on, and then that one on when you turn this one off.
+
+121
+00:11:34,600 --> 00:11:39,959
+And when you get the sink right, you see a luminous something going back and forth.
+
+122
+00:11:39,959 --> 00:11:41,240
+That must still be somewhere.
+
+123
+00:11:41,240 --> 00:11:43,799
+Although, there the girl with a length.
+
+124
+00:11:43,959 --> 00:11:45,160
+There's a length going up and down.
+
+125
+00:11:45,319 --> 00:11:45,799
+Where is that?
+
+126
+00:11:46,280 --> 00:11:47,000
+Las Vegas.
+
+127
+00:11:47,000 --> 00:11:47,799
+Las Vegas.
+
+128
+00:11:47,799 --> 00:11:48,200
+Okay, good.
+
+129
+00:11:48,360 --> 00:11:52,199
+You have to go to Las Vegas to see the phi phenomenon now.
+
+130
+00:11:52,199 --> 00:11:53,480
+It was Tara, Indiana.
+
+131
+00:11:53,480 --> 00:11:55,960
+It was all over the place once upon a time.
+
+132
+00:11:55,959 --> 00:11:58,440
+Okay, well, I'm glad there's still one left.
+
+133
+00:11:58,760 --> 00:12:02,840
+Anyway, that's the DeStal story he's talking about.
+
+134
+00:12:02,840 --> 00:12:07,240
+There, but now get rid of the leg.
+
+135
+00:12:07,240 --> 00:12:21,480
+And all you would need is a bright spot, which is what the Gestaltists were studying, which moves back and forth as you turn on and off the whatever, the lights in a black room.
+
+136
+00:12:21,719 --> 00:12:24,160
+You can picture that, even if you haven't seen it.
+
+137
+00:12:23,640 --> 00:12:27,359
+And it turns out that it's very interesting.
+
+138
+00:12:27,600 --> 00:12:36,640
+The movement goes back and forth, but there's nothing moving and nothing in the middle, and yet you see pure motion.
+
+139
+00:12:36,640 --> 00:12:42,560
+That's what the Gestaltists says, and that's what Miro-Ponty thinks is equally wrong.
+
+140
+00:12:42,559 --> 00:12:45,039
+And just he's so interesting in the way he thinks.
+
+141
+00:12:45,039 --> 00:12:47,840
+I mean, he thinks the objectivist has got something right.
+
+142
+00:12:47,839 --> 00:12:50,480
+You better be able to see an object moving.
+
+143
+00:12:50,480 --> 00:12:52,720
+Oh, you're not seeing motion.
+
+144
+00:12:52,719 --> 00:12:59,520
+Even though you're having this phenomenon of something going back and forth, and it looks like motion, he isn't denying that.
+
+145
+00:12:59,520 --> 00:13:02,160
+That's what the Gestalts have got right.
+
+146
+00:13:02,160 --> 00:13:05,360
+It doesn't look like an object in motion.
+
+147
+00:13:05,360 --> 00:13:07,599
+Of course, the Gestaltists never said it did.
+
+148
+00:13:07,600 --> 00:13:11,840
+But Miro-Ponty is interested in how we perceive objects in motion.
+
+149
+00:13:11,839 --> 00:13:14,640
+And he thinks the Gestaltists are just as wrong.
+
+150
+00:13:14,799 --> 00:13:20,160
+The objectivist can't explain how he thinks the object is so important that he can't explain the motion.
+
+151
+00:13:20,160 --> 00:13:22,080
+And that leads you to Zeno.
+
+152
+00:13:22,079 --> 00:13:28,560
+And now the Gestaltist thinks you can see the motion so much that you don't need to bring in the object.
+
+153
+00:13:28,559 --> 00:13:30,559
+And he's going to say that's wrong.
+
+154
+00:13:30,880 --> 00:13:32,720
+But here's what he says.
+
+155
+00:13:33,600 --> 00:13:40,559
+I perceive movements without any identical moving object, without any external landmark, and without any relativity.
+
+156
+00:13:40,559 --> 00:13:44,880
+Relativity means a distinction between what's moving and the background.
+
+157
+00:13:44,880 --> 00:13:46,640
+It is all as gone.
+
+158
+00:13:46,640 --> 00:13:47,600
+There's no background either.
+
+159
+00:13:47,600 --> 00:13:50,880
+There's just this light going back and forth in the dark room.
+
+160
+00:13:50,880 --> 00:13:58,160
+And there isn't any movement really, but there's the phenomenon of movement, which we experience.
+
+161
+00:13:58,480 --> 00:14:03,760
+We experience well, or maybe we should put it this way: hmm, I wonder if this is in the French or the English.
+
+162
+00:14:03,760 --> 00:14:09,120
+It occurs to me that the Gestalt people are saying we experience motion.
+
+163
+00:14:09,120 --> 00:14:11,559
+And these aspects asking about movement.
+
+164
+00:14:11,559 --> 00:14:12,120
+Is that right?
+
+165
+00:14:10,080 --> 00:14:15,960
+To have movement, you've got to have an object moving, I would think.
+
+166
+00:14:10,080 --> 00:14:19,239
+But motion, you see this bright spot going back and forth.
+
+167
+00:14:19,240 --> 00:14:21,880
+Is there any distinction like that in French?
+
+168
+00:14:21,880 --> 00:14:23,320
+Well, there is, isn't there?
+
+169
+00:14:24,919 --> 00:14:29,400
+Because in Botany, you didn't move an object moving right there.
+
+170
+00:14:29,640 --> 00:14:30,760
+Not according to him.
+
+171
+00:14:30,839 --> 00:14:33,160
+Oh, well, then you get a spot-like thing.
+
+172
+00:14:33,160 --> 00:14:35,240
+We get the illusion of an object moving.
+
+173
+00:14:35,319 --> 00:14:39,880
+Well, the object being the sort of spot that seems to be going from here to there.
+
+174
+00:14:39,880 --> 00:14:41,160
+I mean, there's you don't need any.
+
+175
+00:14:41,240 --> 00:14:43,320
+I mean, it's a funny sort of object.
+
+176
+00:14:43,959 --> 00:14:45,080
+It's an intermittent thing.
+
+177
+00:14:45,160 --> 00:14:47,400
+It's not as good as you experience.
+
+178
+00:14:47,559 --> 00:14:53,000
+God is going to experience the experience of moving one line and another thing, which is moving.
+
+179
+00:14:53,000 --> 00:14:57,000
+Well, I think that's what the next page is supposed to argue against.
+
+180
+00:14:57,000 --> 00:15:23,160
+And you're supposed to say, if it was intervening, if it went through the intervening space, if something went through the intervening space, it would in this little picture, if you had these two lines, like the leg of the girl, flipping up and down, I mean, let's just call neon with every neon sign lights in a dark room, you would think that it would pass through completing this thing in the middle.
+
+181
+00:15:23,160 --> 00:15:27,559
+And apparently the phenomena is that there it doesn't do that.
+
+182
+00:15:27,560 --> 00:15:29,959
+So it's it's pure passage.
+
+183
+00:15:30,040 --> 00:15:32,679
+And maybe that's wrong, but I think that's what he's arguing.
+
+184
+00:15:32,679 --> 00:15:34,519
+Let me see if I can find the line.
+
+185
+00:15:34,759 --> 00:15:36,039
+Top of 314.
+
+186
+00:15:36,120 --> 00:15:41,960
+The perception of positions varies inversely, I would say inversely to, I think, the translator.
+
+187
+00:15:42,279 --> 00:15:45,400
+Inversely to that of movement.
+
+188
+00:15:45,400 --> 00:15:52,039
+It is even possible to show that movement is never the successive occurrence by a moving body of every position between the two extremes.
+
+189
+00:15:52,040 --> 00:15:58,479
+So it's a very peculiar thing that moves because it doesn't move through the space in between.
+
+190
+00:15:58,479 --> 00:16:04,080
+If you think there's evidence of that, so there's not much left for a moving object.
+
+191
+00:16:04,080 --> 00:16:11,679
+And I think he thinks, and I don't know the Ferrimer stuff, that the Gestalt people have just gotten rid of the moving object.
+
+192
+00:16:11,999 --> 00:16:13,439
+Let's see if I can.
+
+193
+00:16:13,759 --> 00:16:17,519
+Without an identical moving object, we see movements.
+
+194
+00:16:17,600 --> 00:16:22,239
+I would have said, I wonder, I'm going to go back and look later, but I want to say now motion.
+
+195
+00:16:22,239 --> 00:16:22,640
+What?
+
+196
+00:16:22,640 --> 00:16:23,679
+I didn't bring a pen?
+
+197
+00:16:23,679 --> 00:16:24,880
+That surprises me.
+
+198
+00:16:24,880 --> 00:16:26,720
+Oh, here's what I'm going to do.
+
+199
+00:16:26,880 --> 00:16:29,039
+I wonder if there are two words.
+
+200
+00:16:29,040 --> 00:16:30,880
+Well, that's what Olivia means.
+
+201
+00:16:30,880 --> 00:16:32,799
+Olivia is finishing writing a book.
+
+202
+00:16:32,800 --> 00:16:36,640
+He has to get it in by the end of the week, so he's not going to be here.
+
+203
+00:16:36,640 --> 00:16:38,160
+Yeah, that's the.
+
+204
+00:16:38,160 --> 00:16:40,640
+Okay, now what do you say online about motion?
+
+205
+00:16:41,519 --> 00:16:46,080
+The position is produced by having these two dots turning on and off.
+
+206
+00:16:46,320 --> 00:16:48,160
+There are a template between them.
+
+207
+00:16:48,160 --> 00:16:48,560
+Yeah.
+
+208
+00:16:48,560 --> 00:16:50,880
+But what you proceed is one dot.
+
+209
+00:16:50,880 --> 00:16:53,120
+Well, one dot.
+
+210
+00:16:54,160 --> 00:16:54,959
+Okay, but say.
+
+211
+00:16:56,080 --> 00:17:07,600
+Yes, you see it as if it was going through the intervening positions, and yet you don't see these stars as passing through a stage in which they produce the middle bar.
+
+212
+00:17:07,600 --> 00:17:09,040
+I don't want to get involved in it.
+
+213
+00:17:09,040 --> 00:17:21,919
+I mean, he's got some things from Wertheimer which make it seem that if the Daltons have evidence, then you'd be even less than what Alva says you see.
+
+214
+00:17:21,999 --> 00:17:24,959
+And I have no opinion, and I don't think we have to make up our mind about this.
+
+215
+00:17:26,400 --> 00:17:28,079
+One bot is threatened, one body's trending.
+
+216
+00:17:28,239 --> 00:17:29,359
+Oh, yeah, don't agree with that.
+
+217
+00:17:29,360 --> 00:17:30,479
+I was going to ignore that.
+
+218
+00:17:30,479 --> 00:17:32,640
+That's the Dennett phenomenon.
+
+219
+00:17:32,600 --> 00:17:34,479
+And I don't see that.
+
+220
+00:17:34,479 --> 00:17:39,279
+I thought about that, Alva, and I didn't see that it was going to help with this or hurt this either.
+
+221
+00:17:39,279 --> 00:17:41,640
+So let's put it aside for the time being.
+
+222
+00:17:42,199 --> 00:17:48,360
+If we get time, we can go back to a very peculiar phenomenon that's been discussed a lot in the literature.
+
+223
+00:17:48,600 --> 00:17:50,039
+Let's see now.
+
+224
+00:17:51,320 --> 00:18:01,560
+Okay, so Meryl-Ponty wants us to understand how we experience an object in motion, which I'm going to call movement, if I find other ones.
+
+225
+00:18:01,880 --> 00:18:05,239
+And that's what he's setting out to do.
+
+226
+00:18:05,239 --> 00:18:10,040
+And now we've gotten, we're already on page 314 and 315.
+
+227
+00:18:10,999 --> 00:18:22,360
+And the intellectualist now, I'm just running through the argument, and answers the Gestaltist who says in his extremist form, well, there's no object moving.
+
+228
+00:18:22,360 --> 00:18:24,919
+Well, that's ridiculous, the intellectualist says.
+
+229
+00:18:24,919 --> 00:18:37,560
+If I didn't see an object moving, it wouldn't be movement because if something just was over here and then popped up over here, you wouldn't count it as movement.
+
+230
+00:18:37,560 --> 00:18:44,280
+There's got to be an object, and it's got to go through the intervening space, says the intellectualist or the objectivist.
+
+231
+00:18:44,600 --> 00:18:45,959
+Really, more like an intellectualist.
+
+232
+00:18:45,959 --> 00:18:53,160
+He becomes an intellectualist at this point because he says, well, even if you don't see a moving object, you at least have to think one.
+
+233
+00:18:53,479 --> 00:19:05,160
+That's what he says on about halfway down the bottom paragraph on 315.
+
+234
+00:19:05,160 --> 00:19:15,640
+Even though the psychologist, that's always the Gestalt psychologist, at least in this spectrum, may show that stroboscopic motion is produced without any intermediate stimulus between the extreme positions.
+
+235
+00:19:15,640 --> 00:19:21,479
+And even that a luminous line A doesn't travel through the space separated from B.
+
+236
+00:19:21,560 --> 00:19:23,160
+See, that's what he thinks.
+
+237
+00:19:23,160 --> 00:19:26,559
+That no line is perceived between A and B during stroboscopic motion.
+
+238
+00:19:25,080 --> 00:19:30,319
+In fact, I do not see the pencil and so forth and so forth.
+
+239
+00:19:32,640 --> 00:19:39,199
+So there still has to be a moving body between the points for movement to be apparent.
+
+240
+00:19:39,199 --> 00:19:47,600
+And if it's not perceptively present, it is thought of as rare.
+
+241
+00:19:47,600 --> 00:19:56,640
+Now, maybe, I'm not, we shouldn't go into it here, but maybe what Alva's showing is you can't help thinking about it as if there is a dot moving.
+
+242
+00:19:56,640 --> 00:20:06,959
+And Bernheim is trying to prove with some kind of experiments that you never actually see a dot moving by telling you things like you don't see it completing things in the middle.
+
+243
+00:20:07,279 --> 00:20:08,880
+And I don't know.
+
+244
+00:20:09,360 --> 00:20:13,279
+So he thinks, yes, makes sense of motion.
+
+245
+00:20:13,279 --> 00:20:17,359
+You've got to at least think that there's something moving.
+
+246
+00:20:17,360 --> 00:20:19,120
+But of course, he's not for that.
+
+247
+00:20:20,080 --> 00:20:34,559
+So then comes another interesting move that the Gestaltists say we have to perform, not think the movements of an object, but perform a perceptual synthesis.
+
+248
+00:20:34,560 --> 00:20:36,400
+This is on 317.
+
+249
+00:20:37,040 --> 00:20:37,840
+Wait a minute now.
+
+250
+00:20:38,479 --> 00:20:41,919
+I've got to tell you again where it's not Merrill-Ponty.
+
+251
+00:20:42,959 --> 00:20:56,880
+Okay, on page 316, it's been Merrow-Ponty explaining the phi phenomenon until about eight lines from the bottom.
+
+252
+00:20:58,239 --> 00:20:59,199
+No, no, sorry.
+
+253
+00:20:59,199 --> 00:21:01,599
+All that explaining is Merrow-Ponty.
+
+254
+00:21:01,600 --> 00:21:02,719
+That's the Gestaltist.
+
+255
+00:21:02,719 --> 00:21:07,919
+And that ends where he says identity of the object in motion.
+
+256
+00:21:07,919 --> 00:21:14,999
+Now it goes back to Mero-Ponty explaining, well, I don't know.
+
+257
+00:21:15,959 --> 00:21:18,519
+It's when Mero-Ponty is explaining the Gestaltists.
+
+258
+00:21:18,519 --> 00:21:21,479
+He's so close to them that he's not agreeing with them.
+
+259
+00:21:21,479 --> 00:21:27,640
+I don't know why he wrote not Merillop-Ponty, but he explains the psych phenomena.
+
+260
+00:21:27,640 --> 00:21:28,359
+But let's go on.
+
+261
+00:21:28,439 --> 00:21:30,919
+I'll try to see if I understand why I said that.
+
+262
+00:21:30,919 --> 00:21:41,319
+Movement, and the Gestalt psychologist replies, is one of those psychic phenomena which, like given sense, contains such a color and form are related and so forth.
+
+263
+00:21:41,320 --> 00:21:44,039
+Now, he's still explaining.
+
+264
+00:21:44,360 --> 00:21:48,600
+I guess I want to say it's neither Merillo-Ponty nor not Merillo-Ponty.
+
+265
+00:21:49,959 --> 00:21:54,040
+It's Mero-Ponty telling you, frankly, this is what the Gestaltsists think.
+
+266
+00:21:54,279 --> 00:22:00,120
+When it's really hard to understand, it's when Merillo-Ponty is giving you a view and he looks like it's his view.
+
+267
+00:22:00,120 --> 00:22:08,600
+And since he's usually on the side of the Gestaltist, more or less, you confuse me because, but it's just what it is.
+
+268
+00:22:08,600 --> 00:22:12,840
+It's Merlot-Ponty frankly telling you this is what the Gestaltists think.
+
+269
+00:22:12,840 --> 00:22:19,400
+And he's doing that on 317, the top, but we are not concerned with this.
+
+270
+00:22:19,400 --> 00:22:22,679
+And, oh, there's just a funny typo that I can correct.
+
+271
+00:22:22,679 --> 00:22:24,359
+I'm getting annoyed at these types.
+
+272
+00:22:24,439 --> 00:22:31,479
+The top is 317, but we are not concerned with this, and there is no question of trying to reduce movement to a state of rest.
+
+273
+00:22:31,479 --> 00:22:33,880
+I'm interested in that because that's a new mistake.
+
+274
+00:22:33,880 --> 00:22:38,919
+I'm collecting mistakes in mistranslation, which they've added to the preview.
+
+275
+00:22:38,919 --> 00:22:44,759
+Now, let's go to the issue, the issues, the middle of the page.
+
+276
+00:22:45,080 --> 00:22:49,959
+The Gestaltists talk about dynamic phenomena.
+
+277
+00:22:49,959 --> 00:22:55,040
+And that gets them into a question of the synthesis.
+
+278
+00:22:55,040 --> 00:22:58,079
+I guess that's just what tied up with dynamics.
+
+279
+00:22:53,880 --> 00:23:00,080
+He doesn't explain why it has to be a synthesis.
+
+280
+00:23:00,800 --> 00:23:06,719
+Dynamic phenomena take their unity from me, who live through them and who affect their synthesis.
+
+281
+00:23:06,719 --> 00:23:10,239
+Now, it is important to realize that's not Merloponte's view.
+
+282
+00:23:10,560 --> 00:23:13,040
+He's still explaining the Gestalt's view.
+
+283
+00:23:13,040 --> 00:23:17,679
+So you could say it's not Merloponte, except he's frankly explaining the Gestalt theory.
+
+284
+00:23:17,679 --> 00:23:20,079
+So you don't have to be puzzled.
+
+285
+00:23:20,080 --> 00:23:38,400
+Then he says, thus we pass from an idea of movement, which is destructive of it, to an experience of movement, which I would like to say motion, which tries to provide it with a basis, and also from this experience to an idea without which, strictly speaking, the experience is meaningless.
+
+286
+00:23:39,040 --> 00:23:41,439
+So then he sort of puts it all together.
+
+287
+00:23:41,439 --> 00:23:52,400
+We cannot then regard either the psychologist, Gestalt people, or the logician, the objectivist, as vindicated, or rather both must be vindicated.
+
+288
+00:23:52,400 --> 00:23:58,719
+And we have to find a means of reconciling the thesis and antithesis as both true.
+
+289
+00:23:59,040 --> 00:24:01,600
+So this is the dialectic so far.
+
+290
+00:24:02,479 --> 00:24:04,160
+Let me just tell the object.
+
+291
+00:24:04,400 --> 00:24:06,959
+I just wrote it to myself, so I'll read it to you.
+
+292
+00:24:06,959 --> 00:24:11,919
+The objectivist says, movement has changed your place of a determinate object.
+
+293
+00:24:11,999 --> 00:24:15,360
+Gestaltist replies, we can see pure motion.
+
+294
+00:24:15,360 --> 00:24:17,199
+You don't need a determinate object.
+
+295
+00:24:17,199 --> 00:24:21,199
+The intellectualist says, well, you at least have to think that there's an object.
+
+296
+00:24:21,199 --> 00:24:28,320
+And the Gestaltist says, well, not exactly, but we do have to perform a perceptual synthesis, whatever that is.
+
+297
+00:24:28,640 --> 00:24:38,479
+And then Merloponte, having gone through all that, puts in, somewhat confusingly, but interesting.
+
+298
+00:24:38,479 --> 00:24:44,360
+He switches to the question of synthesis, 3AT, and he starts attacking the idea of synthesis.
+
+299
+00:24:45,239 --> 00:24:49,479
+I mean, how the Gestaltist got saddled with the idea of synthesis, I don't know.
+
+300
+00:24:49,479 --> 00:24:51,880
+What he's really talking about is Husserl.
+
+301
+00:24:51,880 --> 00:24:58,839
+And he starts criticizing Husserl as the logician on the middle of 3AT.
+
+302
+00:24:58,840 --> 00:25:02,280
+And what he says is extremely interesting about Hutton.
+
+303
+00:25:02,600 --> 00:25:06,839
+And I never understood it till this morning, so I'm feeling very pleased with myself.
+
+304
+00:25:06,919 --> 00:25:08,200
+I don't know how long that will last.
+
+305
+00:25:08,519 --> 00:25:39,959
+Okay, so starting in the middle of the page, the logician says, if we take E, the logician, say, different appearances of movement at different points on its course, they will be appearances of one and the same movement, only if they are appearances of one and the same object in motion, of one and the same air shining depth, of one and the same, that is, appearance, of one and the same something which presents itself through them all.
+
+306
+00:25:42,120 --> 00:25:50,999
+Now, keep in mind, and this is what I thought this morning, which maybe helped me understand this, the old story about perceiving a house.
+
+307
+00:25:50,999 --> 00:25:57,799
+And the question, I put the phenomenon out right now, and so you can bear in mind right now what the issue is.
+
+308
+00:25:57,799 --> 00:26:02,279
+There are two ways of thinking about perceiving a unified house.
+
+309
+00:26:02,279 --> 00:26:04,600
+This is constantly coming up.
+
+310
+00:26:04,600 --> 00:26:20,999
+So you could think that what you basically see are aspects, or in viteral language, obstruction, perspective views of the house, like the front, the side, the back.
+
+311
+00:26:20,999 --> 00:26:29,839
+And then you synthesize them with some rule that a house has them, and a rule that tells you what order they will come by, you should go around and so forth.
+
+312
+00:26:24,919 --> 00:26:31,280
+This goes back to time.
+
+313
+00:26:32,160 --> 00:26:37,999
+And you end up with what, or you should begin to have a feel for what Merofonte's answer to that is.
+
+314
+00:26:37,999 --> 00:26:40,160
+No, no, you don't do that, he would say.
+
+315
+00:26:40,160 --> 00:26:49,839
+You always first basically see the whole house, and you only see these perspectives as perspective views of the object.
+
+316
+00:26:49,840 --> 00:26:52,239
+So they don't need to be synthesized.
+
+317
+00:26:52,560 --> 00:26:59,200
+They're given to you as always already together as aspectual views.
+
+318
+00:26:59,199 --> 00:27:05,439
+They're given to you perceptually as already aspectual views of a single object.
+
+319
+00:27:05,439 --> 00:27:09,200
+And this is what he's now going to object and talk about.
+
+320
+00:27:09,199 --> 00:27:15,599
+He says, but the moving object, you see where we are, two-thirds down, 318.
+
+321
+00:27:15,600 --> 00:27:22,239
+But, this is Mero-Ponte now answering the Hussarian or the logician or whatever.
+
+322
+00:27:22,560 --> 00:27:35,199
+But the moving object needs to be posited as being a part only if its appearances at different points have themselves been brought into being as discrete perspectives.
+
+323
+00:27:35,199 --> 00:27:44,880
+That is, determinate perspectives as the object goes by, or determinate perspectival views of the house.
+
+324
+00:27:44,880 --> 00:27:50,640
+If you think that's what you're dealing with, then you've got to question, how do you synthesize it?
+
+325
+00:27:50,640 --> 00:27:51,679
+So let's go.
+
+326
+00:27:51,840 --> 00:27:59,520
+The logician knows on principle that only positing consciousness, sorry, knows in principle, only positive consciousness.
+
+327
+00:27:59,519 --> 00:28:05,519
+And it is this postulate, this supposition of a wholly determinate world, that that should remind you of Sean.
+
+328
+00:28:05,519 --> 00:28:18,839
+And Sean's basic insight is whenever determined each other's updates, you know, something's gone wrong, because for Merlot-Ponty, perception is just indeterminate in lots and lots of different ways, and it's not determinate in any way.
+
+329
+00:28:18,840 --> 00:28:27,559
+So the decent people, whoever they are, think that there is something wholly determined.
+
+330
+00:28:27,560 --> 00:28:30,039
+And then he calls that pure being.
+
+331
+00:28:30,360 --> 00:28:37,400
+That the devil is, the logician's conception of multiplicity and consequently of synthesis.
+
+332
+00:28:37,400 --> 00:28:38,439
+You see why?
+
+333
+00:28:38,439 --> 00:28:44,519
+It makes him believe that synthesis is adding up determinate perspective views.
+
+334
+00:28:44,519 --> 00:28:48,999
+Now, you have pointed out sometimes that Merlot-Ponty uses the word synthesis.
+
+335
+00:28:48,999 --> 00:28:50,360
+Yes, he does.
+
+336
+00:28:50,360 --> 00:29:06,360
+He uses it to describe the always already organized perceptual object, but it's not an mental activity as it is if you think that there are these determinate perspective views that have to be added up.
+
+337
+00:29:06,360 --> 00:29:07,800
+There's an amazing footnote.
+
+338
+00:29:07,800 --> 00:29:09,640
+I'll just jump ahead through it.
+
+339
+00:29:11,640 --> 00:29:23,479
+Where just at the bottom of 322, after an incredibly long and incomprehensible, to me anyway, footnote about Bergson, but we don't know Bergson, so just don't worry about the footnote.
+
+340
+00:29:23,479 --> 00:29:26,360
+But in the end, he says something which I didn't want him to say.
+
+341
+00:29:26,360 --> 00:29:32,360
+In fact, I said to somebody in office hours that Kant has a distinction between synopsis and synthesis.
+
+342
+00:29:32,360 --> 00:29:40,679
+Synopsis is when you get the whole first, and synthesis is when you've got the elements first and you have to put them together according to a rule in Kant.
+
+343
+00:29:40,679 --> 00:29:51,880
+So here he says, let us say at the bottom of 322, let us say for a moment that we prefer to the notion of synthesis, that is synopsis, which does not yet point to an explicit positing of diversity.
+
+344
+00:29:51,880 --> 00:30:10,160
+And every time he saw a synthesis and Merilo Fontin was saying it, you wrote synopsis, and every time you saw a synthesis and Marilyn Fontaine was criticizing the intellectualist and I think personal, you would try, and Kant, I've got a new phrase after the talk I gave.
+
+345
+00:30:10,479 --> 00:30:12,640
+People who believe in the myth of the mental.
+
+346
+00:30:12,959 --> 00:30:18,319
+There's always talk about the myth of the given if you follow in other courses maybe.
+
+347
+00:30:18,640 --> 00:30:26,239
+The myth of the mental is that you've got these determinate elements and the mind has to contribute something to get them together.
+
+348
+00:30:26,800 --> 00:30:30,160
+And that's what you want to get rid of, according to Merlot Fontini.
+
+349
+00:30:30,239 --> 00:30:31,439
+So let's go on.
+
+350
+00:30:31,759 --> 00:30:37,919
+The moving object, or other, as we call it, the mobile entity, is not identical beneath the phases of movement.
+
+351
+00:30:37,919 --> 00:30:39,599
+It is identical in them.
+
+352
+00:30:39,600 --> 00:30:41,599
+That's the crucial sense.
+
+353
+00:30:41,759 --> 00:30:42,880
+You understand that?
+
+354
+00:30:43,040 --> 00:30:44,400
+You've got to keep the house in mind.
+
+355
+00:30:44,400 --> 00:30:47,039
+And that's why I've never understood this passage before.
+
+356
+00:30:47,040 --> 00:30:52,239
+That is, there are two possibilities that take us thought with the house.
+
+357
+00:30:52,239 --> 00:31:13,360
+So you can have some intellectual unit, a rule of gunfilm, that holds together the determinate phases of the house as you go over the bit of you, or the momentary positions of the object as it moves.
+
+358
+00:31:13,360 --> 00:31:18,079
+You've got these thematized determinate something or others, elements, let's call them.
+
+359
+00:31:18,080 --> 00:31:28,320
+And beneath that, or behind that, or putting that together is what he calls the beneath the movement.
+
+360
+00:31:28,320 --> 00:31:29,999
+Now, what does it say?
+
+361
+00:31:29,999 --> 00:31:31,039
+It's not beneath the movement.
+
+362
+00:31:31,040 --> 00:31:32,320
+It's identical in them.
+
+363
+00:31:32,320 --> 00:31:34,239
+Well, again, the house story works.
+
+364
+00:31:34,239 --> 00:31:38,400
+It's the experience of the whole house, the synopsis.
+
+365
+00:31:38,400 --> 00:31:47,160
+The given house with all of its parts already there and present, though not completely determined, of course, and particularly not the backstage, but all there.
+
+366
+00:31:47,479 --> 00:31:55,239
+That is the unity that is the house, that is the experience of the house, and that's what he's contrasting with.
+
+367
+00:31:55,239 --> 00:31:57,640
+That's what he says it's identical in them.
+
+368
+00:31:57,640 --> 00:32:02,839
+That unity is prior to any intellectuals taking apart the elements.
+
+369
+00:32:02,919 --> 00:32:03,880
+Look, you want to say something?
+
+370
+00:32:03,880 --> 00:32:05,959
+Is your knowledge already there?
+
+371
+00:32:05,959 --> 00:32:07,960
+It's strong, ontological framework.
+
+372
+00:32:08,279 --> 00:32:09,080
+What did I?
+
+373
+00:32:09,080 --> 00:32:10,200
+Oh, what's already there?
+
+374
+00:32:10,199 --> 00:32:11,160
+Oh, the unity.
+
+375
+00:32:11,320 --> 00:32:13,320
+That's a phenomenological claim.
+
+376
+00:32:13,320 --> 00:32:24,600
+That when you're experiencing a house, the experience is of the house as already unified and already present in its various indeterminate aspects.
+
+377
+00:32:25,080 --> 00:32:25,960
+Here we go.
+
+378
+00:32:26,440 --> 00:32:27,799
+What are the other alternatives?
+
+379
+00:32:28,359 --> 00:32:29,799
+What were the two annihilators?
+
+380
+00:32:30,040 --> 00:32:33,080
+Oh, that's not ontological, it's not epistemological.
+
+381
+00:32:33,080 --> 00:32:34,199
+Those are the other two?
+
+382
+00:32:34,199 --> 00:32:35,079
+That's right.
+
+383
+00:32:35,080 --> 00:32:40,359
+It's not about the house as it is the being of the house, because then you'll get it.
+
+384
+00:32:40,759 --> 00:32:45,160
+Whenever you think about being, you get an answer that's determinate the way he's using being.
+
+385
+00:32:45,160 --> 00:32:47,399
+So it can't be about the being of the house.
+
+386
+00:32:47,399 --> 00:32:54,920
+The being is what you get after the crypto mechanism has turned everything into sort of crystallized everything into determinacy.
+
+387
+00:32:55,319 --> 00:33:00,760
+And epistemologically, no, it's not got to do with what you know about.
+
+388
+00:33:00,759 --> 00:33:02,840
+But it could all turn out to be wrong.
+
+389
+00:33:02,839 --> 00:33:13,640
+We jumped to the end of the lecture, where you might just go around the back and define something out that hasn't got a back, it's just got a backyard and some potholes enough with the sod.
+
+390
+00:33:14,279 --> 00:33:20,359
+That doesn't mean, epistemologically, that means that you didn't know it was a house.
+
+391
+00:33:20,359 --> 00:33:21,880
+But that's not the question.
+
+392
+00:33:21,879 --> 00:33:25,919
+The phenomenological question is: did you see it as a whole house with a back or not?
+
+393
+00:33:24,839 --> 00:33:31,279
+And the answer is yes, you saw it as a whole house with an indeterminate but present hidden back.
+
+394
+00:33:31,279 --> 00:33:34,399
+So it's not epistemological, I think, and not ontological.
+
+395
+00:33:35,920 --> 00:33:37,439
+Why is that indeterminate?
+
+396
+00:33:37,440 --> 00:33:39,359
+Oh, well, because you don't know enough about it.
+
+397
+00:33:39,359 --> 00:33:40,479
+I mean, it needn't be.
+
+398
+00:33:40,480 --> 00:33:58,160
+I've just been repeating it to say, I mean, it's going to come up to the importance that indeterminate can range a lot from every aspect of the house is indeterminate, and that you can find out more and more about it by zooming in on it and making it more and more figured there upon two things.
+
+399
+00:33:58,160 --> 00:34:00,479
+But some of it's more indeterminate than others.
+
+400
+00:34:00,480 --> 00:34:09,679
+And I'm assuming now that you're concerning a house, which you have every reason to believe is a house, although that's too intellectual, that you're just set to see a house and there one is.
+
+401
+00:34:09,679 --> 00:34:14,400
+And now you're set to see a house and there it is, but you've never gone around it.
+
+402
+00:34:14,399 --> 00:34:17,120
+Well, the back is pretty indeterminate.
+
+403
+00:34:17,120 --> 00:34:21,600
+Jumping ahead of something because I understood a lot of things this morning I never understood before.
+
+404
+00:34:22,239 --> 00:34:29,039
+He's going to say in a minute that there's something, what remains he's saying in the movement is the style of movement.
+
+405
+00:34:29,440 --> 00:34:31,679
+What in the world could that mean?
+
+406
+00:34:31,679 --> 00:34:34,479
+I think that's coming up very soon on 319.
+
+407
+00:34:34,480 --> 00:34:40,000
+Why don't we wait for a second till we get to 319 and I will explain it in terms of a house.
+
+408
+00:34:40,000 --> 00:34:42,560
+Four houses are very important.
+
+409
+00:34:43,440 --> 00:34:44,319
+Now let's see.
+
+410
+00:34:44,319 --> 00:34:45,120
+Wherein I go.
+
+411
+00:34:45,120 --> 00:34:47,199
+Every sentence here is interesting.
+
+412
+00:34:47,199 --> 00:34:52,319
+It is not because I find the same stone on the ground that I believe in its identity throughout its movement.
+
+413
+00:34:52,319 --> 00:34:55,679
+Remember you threw a stone in the garden early on in the chapter.
+
+414
+00:34:55,679 --> 00:35:06,080
+It is, on the contrary, because I perceive it as identical during that movement with an implicit identity that remains to be described, that I go to pick it up and recover it.
+
+415
+00:35:06,080 --> 00:35:10,439
+We shall not try, we shall not find in the Stonian movement everything we know.
+
+416
+00:35:10,440 --> 00:35:12,040
+Well, that's all we need there.
+
+417
+00:35:12,199 --> 00:35:17,400
+Well, what is it that stays the same when you throw the stone?
+
+418
+00:35:17,399 --> 00:35:21,560
+And through the movement, you certainly can't get a very good picture of it.
+
+419
+00:35:21,560 --> 00:35:23,719
+It's just a kind of blur.
+
+420
+00:35:23,719 --> 00:35:29,160
+But he says, mysteriously, I think, he pulls a pen out of the bag.
+
+421
+00:35:29,160 --> 00:35:38,040
+I mean, he's got the intellectualist and ontologist and logician who says, well, that remains the same as how a rock fail when you throw a rock.
+
+422
+00:35:38,040 --> 00:35:43,319
+And he's got the other people, the Gestalt people, who say, no, nothing needs to remain the same.
+
+423
+00:35:43,319 --> 00:35:47,160
+There's just can be such a thing as pure emotion, and that's what you see.
+
+424
+00:35:47,399 --> 00:35:49,319
+And he says, neither can be right.
+
+425
+00:35:49,319 --> 00:35:53,640
+There's got to be something there that moves, or what Alva said in the beginning.
+
+426
+00:35:53,640 --> 00:35:58,360
+And it's got to, and it can't be a completely determinate rock.
+
+427
+00:35:58,839 --> 00:36:02,759
+We're talking about perception now, not the epistemology or ontology.
+
+428
+00:36:02,759 --> 00:36:05,719
+It doesn't look like a completely determinate rock.
+
+429
+00:36:05,719 --> 00:36:07,560
+So what do you see?
+
+430
+00:36:07,560 --> 00:36:13,319
+Well, oddly enough, you see a style going by, about 18 lines down.
+
+431
+00:36:13,319 --> 00:36:16,279
+The moving object as an on 319.
+
+432
+00:36:16,440 --> 00:36:24,439
+The moving object as object of an indefinite series of explicit and concordant perceptions has property.
+
+433
+00:36:24,839 --> 00:36:28,359
+The moving object has objects, indefinite properties.
+
+434
+00:36:28,440 --> 00:36:29,799
+Oh, yeah, that's what that's wrong.
+
+435
+00:36:30,279 --> 00:36:33,479
+Yeah, I'm getting this dyslexical surprising.
+
+436
+00:36:33,480 --> 00:36:35,479
+Yeah, that's not what he's talking about.
+
+437
+00:36:35,480 --> 00:36:39,480
+The mobile entity has only a style.
+
+438
+00:36:39,799 --> 00:36:44,759
+What is impossible is that the perceived and never mind, the circle, that's just another example.
+
+439
+00:36:44,920 --> 00:36:46,199
+What does that mean?
+
+440
+00:36:46,520 --> 00:36:50,759
+Well, I started listing what that what what a style might be.
+
+441
+00:36:50,759 --> 00:36:59,039
+I said, well, maybe like fast or slow or blurred or awkward or floppy or zigzag.
+
+442
+00:36:54,920 --> 00:37:01,279
+I didn't know what really belonged on that list.
+
+443
+00:37:01,520 --> 00:37:05,039
+But finally, he gives you an example at the top of 321.
+
+444
+00:37:05,040 --> 00:37:07,679
+What is the style of a bird flying?
+
+445
+00:37:07,679 --> 00:37:11,920
+Well, six lines down, it's a flurry of cummage.
+
+446
+00:37:12,239 --> 00:37:15,439
+So the style is flurried, apparently.
+
+447
+00:37:15,440 --> 00:37:20,639
+So I wasn't far off when I got to awkward and floppy and maybe zigzagged.
+
+448
+00:37:20,640 --> 00:37:25,120
+But the question would be, how do you put that back in terms of a house?
+
+449
+00:37:25,440 --> 00:37:30,239
+Well, you haven't seen the back yet, but you know already, no, it's not.
+
+450
+00:37:30,239 --> 00:37:38,000
+You perceive already the style of the house, and you know that the back, you perceive that the back, is going to have a certain style.
+
+451
+00:37:38,000 --> 00:37:44,640
+That means you're looking at a Georgian house from the front or a colonial house from the front or a Maybeck house from the front.
+
+452
+00:37:44,640 --> 00:38:02,639
+You don't know how many windows it's got on the back, what color it's been painted on the back, but you do see that it's going to, you see the hidden back as not only as present with no characteristics, you see it as present with a Georgian style or a Maybeck style.
+
+453
+00:38:02,799 --> 00:38:04,320
+That's what he's up to.
+
+454
+00:38:04,319 --> 00:38:06,560
+And it works for houses.
+
+455
+00:38:07,440 --> 00:38:11,679
+I guess it works for birds flying fluffy pumblichly by.
+
+456
+00:38:11,679 --> 00:38:12,880
+I don't know.
+
+457
+00:38:12,879 --> 00:38:14,960
+But that's what he's trying to do.
+
+458
+00:38:14,960 --> 00:38:16,000
+So let's see him.
+
+459
+00:38:16,160 --> 00:38:20,400
+So it's not an object defined in terms of collection of properties.
+
+460
+00:38:20,719 --> 00:38:23,920
+It's got to be something that moves on two-thirds down.
+
+461
+00:38:23,920 --> 00:38:28,719
+Or at most something colored or luminous without any actual color.
+
+462
+00:38:28,719 --> 00:38:34,719
+I mean, some that he's being very general, that he wants something in there that moves.
+
+463
+00:38:34,719 --> 00:38:39,479
+And I guess maybe, Alvis, he's saying that he thinks Wernheimer is just wrong.
+
+464
+00:38:39,359 --> 00:38:43,080
+That maybe, you know, that the truth is there is always something that moves.
+
+465
+00:38:39,920 --> 00:38:45,399
+He was explaining Wernheimer's view before.
+
+466
+00:38:45,879 --> 00:38:48,279
+His view is: yes, there's an object.
+
+467
+00:38:48,520 --> 00:38:52,280
+If you see movement, you don't just see motion.
+
+468
+00:38:52,279 --> 00:39:00,520
+You see an object that moves, but it's a very peculiar thing because it's an object without any determinate characteristics.
+
+469
+00:39:00,520 --> 00:39:03,719
+It's an object with just a style.
+
+470
+00:39:03,719 --> 00:39:11,400
+It's just a way of moving, sort of adverbially, fluffily or awkwardly or flappily or whatever.
+
+471
+00:39:12,199 --> 00:39:13,880
+That's the story.
+
+472
+00:39:13,879 --> 00:39:15,479
+Now let's see.
+
+473
+00:39:18,359 --> 00:39:20,040
+Those pictures are no more.
+
+474
+00:39:20,359 --> 00:39:21,239
+No, that's right.
+
+475
+00:39:21,239 --> 00:39:22,519
+You're just one step ahead.
+
+476
+00:39:22,520 --> 00:39:25,879
+They're just as not present as the back.
+
+477
+00:39:25,879 --> 00:39:27,079
+I was going to get to that.
+
+478
+00:39:27,080 --> 00:39:27,879
+We haven't finished.
+
+479
+00:39:28,359 --> 00:39:29,719
+Let me come back to that.
+
+480
+00:39:30,040 --> 00:39:33,160
+I think that's the right thing to say next, which I just want to catch up.
+
+481
+00:39:33,160 --> 00:39:36,600
+Normally, if you throw a stone, where are we on?
+
+482
+00:39:36,600 --> 00:39:37,399
+319.
+
+483
+00:39:37,399 --> 00:39:41,080
+Okay, normally if we throw a stone, we don't see a determinate object.
+
+484
+00:39:41,319 --> 00:39:44,119
+And we see more than a moving blur.
+
+485
+00:39:44,120 --> 00:39:46,120
+We see a blur with a style.
+
+486
+00:39:46,120 --> 00:39:48,120
+And then I say the house thing.
+
+487
+00:39:48,120 --> 00:39:50,919
+And then this is just where Albert said it.
+
+488
+00:39:50,920 --> 00:40:00,679
+And then it's as if, unlike the house, which is more determinate from the front, I'm assuming again that you're looking at the front and you've never seen the back.
+
+489
+00:40:00,679 --> 00:40:03,559
+So the front's a lot more determinate than the back.
+
+490
+00:40:03,560 --> 00:40:06,360
+A moving object is back all over.
+
+491
+00:40:07,399 --> 00:40:08,919
+That's just what you intuitive.
+
+492
+00:40:08,920 --> 00:40:13,559
+And that's just what he says on 310 with a variant that they move the name.
+
+493
+00:40:13,560 --> 00:40:16,440
+It's that it's as indeterminate as you can get.
+
+494
+00:40:16,440 --> 00:40:23,240
+So as the back of, say, a May-Bac house is as indeterminate as you can get as long as it's a May-Bac house.
+
+495
+00:40:23,239 --> 00:40:28,399
+So only the style is left on as far as the back is concerned.
+
+496
+00:40:28,719 --> 00:40:39,360
+So in movement, it's as if all you ever saw was the way the movement is perceived is the way the back, the unfamiliar back of the house is perceived.
+
+497
+00:40:39,359 --> 00:40:42,319
+And that's what he seems to be saying on.
+
+498
+00:40:43,199 --> 00:40:47,919
+I sort of guessed that, and I was so amazed and pleased to find it in the footnote.
+
+499
+00:40:47,920 --> 00:40:49,439
+He doesn't make anything of it.
+
+500
+00:40:49,440 --> 00:40:53,120
+But once you're playing a house game, you might as well make something of it.
+
+501
+00:40:53,120 --> 00:40:56,240
+About six lines down on 320.
+
+502
+00:40:56,239 --> 00:41:06,800
+He talks about how the way the object is seen is that is only as the back of objects or the face behind you is seen.
+
+503
+00:41:06,799 --> 00:41:13,919
+That's exactly the minimal amount of determinativeness that you could have, but you got something.
+
+504
+00:41:13,920 --> 00:41:20,479
+Whenever he says early on and says it every once in a while, it isn't as if there's just a chasm behind you or a blank space behind you.
+
+505
+00:41:20,960 --> 00:41:26,399
+There's already a room and floor and stuff, but in a very indeterminate way.
+
+506
+00:41:26,399 --> 00:41:30,239
+And if I was, you know, the more unfamiliar the room, the more indeterminate.
+
+507
+00:41:30,319 --> 00:41:34,640
+For me, already it's blackboard and screen that I didn't remember.
+
+508
+00:41:34,640 --> 00:41:36,319
+Okay, so let's see now.
+
+509
+00:41:36,319 --> 00:41:39,040
+So it's all it's back.
+
+510
+00:41:39,040 --> 00:41:41,679
+Movement is back all over.
+
+511
+00:41:41,679 --> 00:41:44,000
+Now let's see what we get from there.
+
+512
+00:41:44,319 --> 00:41:45,919
+Well, that's the end of that point.
+
+513
+00:41:45,920 --> 00:41:51,279
+I mean, now he's made his point against the that's the dialectic.
+
+514
+00:41:51,279 --> 00:41:55,999
+He's got the two wrong views, and he's got his answer, and it's neat.
+
+515
+00:41:56,560 --> 00:41:59,120
+And it draws on the house phenomenon.
+
+516
+00:41:59,440 --> 00:42:00,399
+Phenomenon, what?
+
+517
+00:42:00,359 --> 00:42:06,079
+It's a phenomenon and the phenomenon to say is the fact.
+
+518
+00:42:06,399 --> 00:42:07,120
+A fact.
+
+519
+00:42:07,199 --> 00:42:08,120
+What is the always.
+
+520
+00:42:08,600 --> 00:42:12,919
+The always-there unity of the house is a phenomenon.
+
+521
+00:42:12,920 --> 00:42:16,039
+It's not a fact for the following reason.
+
+522
+00:42:16,040 --> 00:42:20,679
+I mean, it's the always-there unity of the perceptual house.
+
+523
+00:42:20,679 --> 00:42:23,239
+And it's what I said about the epistemology thing.
+
+524
+00:42:23,239 --> 00:42:30,919
+The always-there unity of the perceptual house doesn't mean that, in fact, there's a unified house there, because it could turn out to be go wrong.
+
+525
+00:42:31,160 --> 00:42:32,119
+Go around it.
+
+526
+00:42:32,359 --> 00:42:46,440
+But the perception from the front of a facade that you're set to view as a house is just got the same amount of determinacy and indeterminacy in it as your perception of a real house.
+
+527
+00:42:46,440 --> 00:42:51,640
+It's not an epistemological point that one of them lacks something, the other one's got.
+
+528
+00:42:52,279 --> 00:43:01,080
+Now, when we get to the illusion part, which we may well get to today, that's, I have to qualify that story, but not take it back.
+
+529
+00:43:01,480 --> 00:43:09,000
+There's always the whole future taken for granted in what you see.
+
+530
+00:43:09,000 --> 00:43:19,640
+And the question of whether that's reliable or not is not the phenomenologist question.
+
+531
+00:43:19,640 --> 00:43:25,800
+It has to be the epistemologist question, what evidence you have to trust that, and what evidence goes against that.
+
+532
+00:43:25,799 --> 00:43:26,199
+Yeah.
+
+533
+00:43:32,440 --> 00:43:35,399
+Focusing on other things, or is it foreground up?
+
+534
+00:43:35,399 --> 00:43:38,120
+The rough and background and foreground.
+
+535
+00:43:38,120 --> 00:43:39,640
+Whoa, you're on to the next one.
+
+536
+00:43:39,640 --> 00:43:42,280
+Everybody is so, that's the next issue.
+
+537
+00:43:42,279 --> 00:43:44,840
+The next issue is foreground and background.
+
+538
+00:43:44,839 --> 00:43:47,160
+And I just wrote here, I didn't like your question.
+
+539
+00:43:47,160 --> 00:43:50,439
+How can we tell what is background and what is moving?
+
+540
+00:43:50,440 --> 00:43:51,719
+That's the question, right?
+
+541
+00:43:51,719 --> 00:43:55,080
+Or how do we make that just how do we sort that out phenomenologically?
+
+542
+00:43:56,319 --> 00:44:00,080
+If that's your question, and I'm not putting words in your mouth, that's the next question.
+
+543
+00:44:00,080 --> 00:44:06,400
+And that gets us back to the train and playing cards in the train, but I have to get us where we are.
+
+544
+00:44:06,879 --> 00:44:08,080
+Let's see.
+
+545
+00:44:08,399 --> 00:44:10,160
+Well, let me, I'm on 320.
+
+546
+00:44:10,160 --> 00:44:11,999
+I'm not quite ready to go to that yet.
+
+547
+00:44:12,000 --> 00:44:12,880
+Almost.
+
+548
+00:44:13,120 --> 00:44:16,400
+I'm always hammering on this notion of synthesis.
+
+549
+00:44:16,399 --> 00:44:25,359
+But I think that's, I wish Olivier were here because he defends the view that this is like literal, and I'm always trying to find evidence that it's not.
+
+550
+00:44:25,520 --> 00:44:27,759
+This is a very important paragraph for me.
+
+551
+00:44:27,759 --> 00:44:29,520
+I have to say something about it.
+
+552
+00:44:29,520 --> 00:44:33,760
+It's so painfully connected with my own biography.
+
+553
+00:44:34,319 --> 00:44:36,160
+So let's look at the last sentence.
+
+554
+00:44:36,799 --> 00:44:40,799
+He talks about he wants to reject the Kantian notion of synthesis.
+
+555
+00:44:40,799 --> 00:44:45,120
+I bet it begins, but it amounts to introducing non-fetish consciousness into the perception of movement.
+
+556
+00:44:45,120 --> 00:44:53,520
+That is, as we've shown, it amounts to rejecting not only the a priori essential necessity, never mind that, but the Kantian notion of synthesis.
+
+557
+00:44:53,520 --> 00:44:54,559
+We've gone through that.
+
+558
+00:44:54,560 --> 00:45:02,800
+The Kantian notion of synthesis is there are elements and then you have to bring in something mental to fix it.
+
+559
+00:45:02,799 --> 00:45:05,199
+And then he's skipping over the, well, I have to read it.
+
+560
+00:45:05,199 --> 00:45:10,240
+Link's work belongs to and is typical of the second period of Husserl's phenomenology.
+
+561
+00:45:10,239 --> 00:45:25,759
+That is, he's saying Link, whoever he is, has rejected synthesis, like the second period of Husserl's phenomenology, which marks a transition from the eidetic method of Nevermind or Lotusism and so on, to the existentialism of the last period.
+
+562
+00:45:26,000 --> 00:45:28,320
+Think you're all going to read that sentence.
+
+563
+00:45:28,319 --> 00:45:30,880
+I have to say something about it.
+
+564
+00:45:31,199 --> 00:45:36,400
+And Olivier may wait, well I'll tell him what I said, and he may want to say something about it.
+
+565
+00:45:36,399 --> 00:45:54,600
+I mean, what I think is that that's just false, that there is a view of Husserl which says, yes, in ideas, in early Husserl, it's like Kant, but in the end, Husserl introduces the notion of passive synthesis, and then he becomes like Meryl-Ponty.
+
+566
+00:45:54,600 --> 00:45:58,520
+And I wrote my PhD thesis on that sentence.
+
+567
+00:45:58,920 --> 00:46:06,840
+I believed Meryl-Ponty that there was an existentialism in the last period, and I read all later Husserl stuff, and I looked for it.
+
+568
+00:46:06,839 --> 00:46:17,400
+And finally, I never found it, but I made up things to support it because I believe that it must be there, and I'm just missing it.
+
+569
+00:46:17,399 --> 00:46:39,560
+But I now think, no, there's no, there's never, if existentialism means what I said at the beginning of the hour, that you have to be engaged and moving toward in a body, moving toward an optimal grip on the world, and that that's the bottom line and explains all the phenomena, then Husserl never had it.
+
+570
+00:46:39,560 --> 00:46:53,399
+And it's just misleading to talk about the existentialism of the last period and make why Meryl-Ponty wants to make himself less original and read it back into Husserl is a subject for intellectual history.
+
+571
+00:46:53,719 --> 00:46:56,600
+I have speculations, but they're not relevant.
+
+572
+00:46:56,600 --> 00:46:59,560
+But you shouldn't just believe it.
+
+573
+00:46:59,560 --> 00:47:18,760
+And that means you should think that even, even if Husserl had something which he, and even if passive synthesis was some non-mentalist way of unifying perspectives, Husserl never got beyond the idea of perspectives, I think.
+
+574
+00:47:18,759 --> 00:47:24,679
+But even if he got beyond the idea of perspectives, he never got the crucial phrase.
+
+575
+00:47:24,679 --> 00:47:31,599
+That's why I was emphasizing in fact here, where he talks about existential dimensions.
+
+576
+00:47:31,920 --> 00:47:34,640
+Husserl doesn't have existential dimensions.
+
+577
+00:47:34,640 --> 00:47:44,560
+That is, he doesn't have us involved in the world, moving to get a grip as a necessary condition for there being any objects with any properties at all.
+
+578
+00:47:44,560 --> 00:47:46,560
+At least if he does, I don't know it.
+
+579
+00:47:47,759 --> 00:47:49,679
+We'll talk about that later if you're disagreeing.
+
+580
+00:47:49,679 --> 00:47:51,839
+Are you disagreeing and holding it from your mouse?
+
+581
+00:47:51,920 --> 00:47:53,039
+I think it's a difficult question.
+
+582
+00:47:53,040 --> 00:47:54,080
+It's a difficult question.
+
+583
+00:47:54,080 --> 00:47:55,119
+Well, I believe that.
+
+584
+00:47:55,440 --> 00:48:01,600
+It cost me my PhD in the sense that I got my degree, but I never published my thesis, but I decided it was wrong.
+
+585
+00:48:01,920 --> 00:48:02,560
+Yeah.
+
+586
+00:48:04,160 --> 00:48:17,679
+I have people also put this for the discussion, but my studies doing everything against what he just said, but actually these are still the onto my stuff that we believe that we have to be reading it out of you know this was your business.
+
+587
+00:48:18,719 --> 00:48:20,479
+It's gotten the benefits of God.
+
+588
+00:48:20,640 --> 00:48:22,799
+It's not about the other body movement, anyway.
+
+589
+00:48:22,799 --> 00:48:27,519
+But I still think the potential evidence for oh well, that's amazing.
+
+590
+00:48:27,520 --> 00:48:27,919
+Okay.
+
+591
+00:48:27,920 --> 00:48:36,479
+Well it it it could be that Sean and I are one step beyond Merlot Fonte and and have something that isn't a big part of this book that I'm going to complain.
+
+592
+00:48:36,799 --> 00:48:41,759
+I'm I'm going to treat Meryl Fontea like he treats Husserl and read my views back into him.
+
+593
+00:48:42,080 --> 00:48:42,479
+Yeah.
+
+594
+00:48:42,799 --> 00:48:48,559
+It seems like some people would would say that something is dangerous with existentialism is the notion of being in the world.
+
+595
+00:48:48,560 --> 00:48:48,879
+Yes.
+
+596
+00:48:49,040 --> 00:48:51,919
+That maximum grip kind of lashes onto being in the world.
+
+597
+00:48:51,920 --> 00:48:52,400
+Yes.
+
+598
+00:48:52,399 --> 00:49:02,400
+And that if if that is the hallmark of existentialism and it seems that if Husserl doesn't have being in the world, then that is that would be the decisive.
+
+599
+00:49:02,399 --> 00:49:10,600
+And that would tie, we don't want to go more into Husserl, but that would tie up with what he thinks the phenomenological reduction is and whether he ever gives it up.
+
+600
+00:49:10,600 --> 00:49:14,120
+Because and that's a difficult question.
+
+601
+00:49:10,000 --> 00:49:16,999
+Okay, but now we're off to her question.
+
+602
+00:49:17,239 --> 00:49:19,239
+I just had to catch up with it.
+
+603
+00:49:19,960 --> 00:49:22,840
+I want to make sure that I up to it.
+
+604
+00:49:22,839 --> 00:49:24,359
+Okay, now we've got a notion.
+
+605
+00:49:24,359 --> 00:49:27,640
+And this I now remember I said toward the end I understand less and less.
+
+606
+00:49:27,640 --> 00:49:31,800
+Up to now I was happy that I understood something and ready to lay it out.
+
+607
+00:49:31,799 --> 00:49:35,479
+But more and more it gets to be hard to understand for me.
+
+608
+00:49:35,640 --> 00:49:42,040
+So we want to know how we can tell what is the background and what's moving.
+
+609
+00:49:42,040 --> 00:49:45,399
+Or how we make the separation might be better instead of how we can tell.
+
+610
+00:49:45,399 --> 00:49:48,999
+That sounds the wrong way to look at the large ball.
+
+611
+00:49:50,759 --> 00:49:51,800
+There it is.
+
+612
+00:49:51,799 --> 00:49:52,440
+Okay.
+
+613
+00:49:53,239 --> 00:50:01,800
+How we distinguish, how we distinguish what is background and what is doing the moving.
+
+614
+00:50:01,799 --> 00:50:17,399
+Well then comes the thing we discussed long ago, but we have to go over it again, about whether you're in a train, when you're in a train and there's some other train next to you, remember, and the question, and either train starts to move, it doesn't matter.
+
+615
+00:50:17,399 --> 00:50:18,839
+One of the trains moves.
+
+616
+00:50:21,000 --> 00:50:27,719
+And then I sense as fixed whatever train I'm involved in.
+
+617
+00:50:27,719 --> 00:50:36,280
+If I'm leading in my train, then if my train starts to move, I experience the train next to me as moving.
+
+618
+00:50:36,279 --> 00:50:45,479
+If I'm fixed in paying attention to something in the other in the train next to mine, and my train starts to move, I experience my train that's moving.
+
+619
+00:50:45,480 --> 00:50:47,479
+And you could do variations with the other train moving.
+
+620
+00:50:47,480 --> 00:50:48,120
+It doesn't matter.
+
+621
+00:50:48,120 --> 00:50:53,719
+The point is that you anchor in something, as he puts it.
+
+622
+00:50:53,719 --> 00:50:56,080
+It is the background.
+
+623
+00:50:55,000 --> 00:51:00,639
+And then, relative to that, you can recognize movement.
+
+624
+00:51:02,080 --> 00:51:05,199
+And let me see now.
+
+625
+00:51:05,199 --> 00:51:08,640
+And now, what makes you see it that way?
+
+626
+00:51:08,640 --> 00:51:10,319
+But I want to make sure I've got up to that.
+
+627
+00:51:12,000 --> 00:51:16,879
+Well, I'm on a 323 just to say where I am about 50 miles down.
+
+628
+00:51:16,879 --> 00:51:20,160
+The fact remains that every object in motion is given in a field.
+
+629
+00:51:20,160 --> 00:51:24,480
+Just as we need a mobile entity in movement, that's what we've been doing up to now.
+
+630
+00:51:24,480 --> 00:51:26,080
+We need a basis for movement.
+
+631
+00:51:26,080 --> 00:51:27,999
+That's what her question got us to.
+
+632
+00:51:28,879 --> 00:51:34,719
+And then it isn't enough to say that it depends on how it is relative to the edges of the visual field.
+
+633
+00:51:34,879 --> 00:51:37,920
+I don't know whether Gibson says something like that.
+
+634
+00:51:38,879 --> 00:51:40,559
+He doesn't want to say that.
+
+635
+00:51:40,560 --> 00:51:54,800
+He has a more existentialist view, namely, where you're involved is what is stationary, and what's peripheral or background will be what is.
+
+636
+00:51:54,799 --> 00:51:58,960
+Wait a minute, where you're involved, see, I've lost already.
+
+637
+00:51:58,960 --> 00:52:01,840
+Which is the figure and which is the ground?
+
+638
+00:52:02,160 --> 00:52:10,400
+And where I'm involved in reading this book, that's the background, I guess.
+
+639
+00:52:10,399 --> 00:52:14,560
+And whatever, no?
+
+640
+00:52:14,879 --> 00:52:15,759
+I don't know.
+
+641
+00:52:16,000 --> 00:52:17,759
+Hell, Rick, do you know?
+
+642
+00:52:17,759 --> 00:52:28,800
+I mean, what's, I mean, how does he sort out the fact that there's a separation between where I am and what I'm paying attention to?
+
+643
+00:52:28,799 --> 00:52:34,960
+Because there's this, I guess it's the background is what I'm not paying attention to, but taking for granted.
+
+644
+00:52:34,960 --> 00:52:37,600
+And that's what I'm going to count as fixed, right?
+
+645
+00:52:37,600 --> 00:52:40,759
+And what I'm paying attention to is what I'm going to count as moving.
+
+646
+00:52:40,759 --> 00:52:41,639
+Yeah, okay.
+
+647
+00:52:41,640 --> 00:52:45,160
+I panicked for a minute, but that's not so hard.
+
+648
+00:52:45,799 --> 00:52:48,280
+And this is the bottom of 323.
+
+649
+00:52:48,600 --> 00:52:56,120
+Accordingly, as we give to a certain part of the field the value of figure or background, it appears to us to be moving or at rest.
+
+650
+00:52:56,359 --> 00:52:57,719
+And even they're in parallel.
+
+651
+00:52:57,719 --> 00:53:00,760
+Figure is the one that's moving, background is the one at rest.
+
+652
+00:53:00,839 --> 00:53:12,839
+Then he does it with a ship, and he talks about, and then he talks about something very mysterious on the next page, but I think we should wait till we get there.
+
+653
+00:53:14,359 --> 00:53:21,080
+So when I see an object, so the next question is: what makes me see it that way?
+
+654
+00:53:21,080 --> 00:53:33,960
+When I see a moving object, then I'm anchored in one frame of reference, that's the background, as non-moving, and then I see whatever I'm looking at as moving.
+
+655
+00:53:33,960 --> 00:53:42,120
+And I think there's something more going on here, which I'm having trouble understanding the question to which it's an answer.
+
+656
+00:53:42,120 --> 00:53:52,520
+But I think it's something like: but when there are two frames of reference, why do I anchor in one rather than the other?
+
+657
+00:53:52,520 --> 00:54:04,760
+And that I think just depends on my interest, like whether I'm interested in this train or that train, or paying attention to the water under the bridge, or paying attention to the tower, to take another example, and so forth.
+
+658
+00:54:05,160 --> 00:54:06,360
+That's okay.
+
+659
+00:54:06,359 --> 00:54:17,879
+But then comes the question: something like: what is it that about the moving one that leads me to see it as moving?
+
+660
+00:54:18,520 --> 00:54:36,560
+And it looks to me like he's not just saying that it's because it's a blur, but he says this mysterious, interesting thing on 324 with all, we've got the clouds and the river and all that and the bridge, but he gives you all these examples of how you switch your attention.
+
+661
+00:54:36,560 --> 00:54:40,320
+And when you switch your attention, one thing moves or the other.
+
+662
+00:54:40,640 --> 00:54:44,319
+But now comes this next mysterious question, which is what I'm trying to answer.
+
+663
+00:54:44,319 --> 00:54:49,600
+What makes part of the field count as an object in motion and the other as background?
+
+664
+00:54:49,600 --> 00:54:51,520
+That seems to be a new question.
+
+665
+00:54:51,520 --> 00:55:01,759
+I mean, you could say, well, it's where I put my attention that decides which counts as object in motion and background.
+
+666
+00:55:01,759 --> 00:55:10,880
+But he wants to know what's the phenomenon that makes one part count as motion and the other as background.
+
+667
+00:55:11,359 --> 00:55:12,559
+How do they look different?
+
+668
+00:55:12,879 --> 00:55:18,160
+Not which is which, which is the question of how I focus my attention.
+
+669
+00:55:18,160 --> 00:55:30,080
+But when I do focus my attention and I see one of them is moving, how does that relate to this bigger ground business of where I'm anchored and where I'm paying attention?
+
+670
+00:55:30,080 --> 00:55:31,120
+They're all looking puzzled.
+
+671
+00:55:31,120 --> 00:55:33,039
+Well, it is puzzling, but maybe it'll get clearer.
+
+672
+00:55:33,279 --> 00:55:38,800
+What I think is interesting and puzzling is, we're now in 324.
+
+673
+00:55:38,799 --> 00:55:43,760
+What makes part of the field count as an object in motion and another as background?
+
+674
+00:55:43,759 --> 00:55:47,279
+In the way in which we establish our relationship to them by the act of looking.
+
+675
+00:55:47,279 --> 00:55:55,440
+Okay, we know now that looking determines which is going to count as motion and which is going to count as background.
+
+676
+00:55:55,440 --> 00:56:05,040
+So we want to know what is the sort of phenomenal character of the motion looking part and the background looking part.
+
+677
+00:56:05,120 --> 00:56:08,800
+That's a funny question, hard to get a grip on, but that's what he's asking.
+
+678
+00:56:08,799 --> 00:56:10,599
+Okay, so we goes to the stone.
+
+679
+00:56:09,679 --> 00:56:15,880
+Never mind now this relative stuff with the trains, just any old thing.
+
+680
+00:56:09,759 --> 00:56:17,399
+The stone flies through the air.
+
+681
+00:56:17,719 --> 00:56:28,760
+What do these words mean, other than that our gaze, lodged and anchored in the garden, is attracted by the stone and so to speak, drags at its anchor.
+
+682
+00:56:28,759 --> 00:56:39,080
+I like that because I think I can understand it, that I'm not sure I understand the question or the answer, but here's what I think he's saying, that it's got to do with maximum grip again.
+
+683
+00:56:39,080 --> 00:56:42,120
+That's what amuses me, though he doesn't mention maximum grip.
+
+684
+00:56:42,120 --> 00:56:47,240
+But what is it that my regard drags it with its anchor?
+
+685
+00:56:47,239 --> 00:56:52,040
+Well, there's this stone going by, and I'm trying to get a good look at it.
+
+686
+00:56:52,040 --> 00:56:56,840
+But unfortunately, I'm anchored here on the ground in my garden.
+
+687
+00:56:56,839 --> 00:57:07,400
+But the fact that it's getting more and more out of my grip as it goes through the air, that's the experience of it being the one that's in motion.
+
+688
+00:57:07,399 --> 00:57:17,640
+The one that's in motion is the one on which you would like to have a better grip than you've got by running after it and getting a better look at it, but you can't.
+
+689
+00:57:18,199 --> 00:57:20,039
+I think that's what's happening here.
+
+690
+00:57:20,040 --> 00:57:21,160
+Let me just make a little more.
+
+691
+00:57:21,160 --> 00:57:25,400
+So that's what it is for me to drag it my anchor.
+
+692
+00:57:25,399 --> 00:57:30,360
+That is, it's me wanting to get an optimal grip because I'm paying attention to it.
+
+693
+00:57:30,359 --> 00:57:32,519
+That's why it looks like the thing moving.
+
+694
+00:57:32,520 --> 00:57:34,199
+I'm paying attention to it.
+
+695
+00:57:34,199 --> 00:57:37,719
+And it looks furthermore like it's moving.
+
+696
+00:57:37,719 --> 00:57:46,759
+Now, otherwise, if you just separated it from the background, it looks like it's moving because I want to run after it and get a better look at it, and I can't.
+
+697
+00:57:46,759 --> 00:57:47,559
+I think.
+
+698
+00:57:47,560 --> 00:57:51,800
+The relation between the moving object and its background passes through our body.
+
+699
+00:57:51,799 --> 00:57:54,359
+How is its body mediation being conceived?
+
+700
+00:57:54,359 --> 00:58:00,719
+How does it come about that the relation of objects to it can differentiate them as motion and rest?
+
+701
+00:58:01,279 --> 00:58:10,240
+And then he says lots of things, but I never got it any clearer than I just did because he goes off on eye movements at that point.
+
+702
+00:58:10,239 --> 00:58:12,640
+And it doesn't, he doesn't say more about this.
+
+703
+00:58:13,440 --> 00:58:14,959
+But let me see if I can, yeah.
+
+704
+00:58:15,440 --> 00:58:15,759
+Yeah.
+
+705
+00:58:15,759 --> 00:58:17,279
+Well, now I'm getting confused.
+
+706
+00:58:17,279 --> 00:58:21,919
+And I understand the stones lying across the garden, and you're anchored in the garden.
+
+707
+00:58:21,920 --> 00:58:23,039
+That's your background.
+
+708
+00:58:23,040 --> 00:58:27,279
+If you want to get a mask for the stone, they're ripping you.
+
+709
+00:58:27,279 --> 00:58:38,560
+But if you're, though, in a car, and this happens all the time, and you're looking out the window, you're moving actually at a speed, and there are posts, there are telephone posts going by.
+
+710
+00:58:38,560 --> 00:58:47,120
+In one case, you're anchored in movement, yet you want to get a maskful grip on a post that's going by, or if the posts are going by, how is that explained?
+
+711
+00:58:48,319 --> 00:58:48,719
+That's good.
+
+712
+00:58:48,799 --> 00:58:50,879
+This is the kind of thing that was bothering me, though.
+
+713
+00:58:50,879 --> 00:58:54,959
+I couldn't quite focus it, but I was asking myself things like this.
+
+714
+00:58:54,960 --> 00:59:04,399
+When one train moves away, you're anchored there, and suppose it's your train that's moving, and the other train looks blurry.
+
+715
+00:59:04,399 --> 00:59:06,000
+It's the same question as yours.
+
+716
+00:59:06,000 --> 00:59:13,199
+Then why don't you see the train that you're moving away from and you're losing your grip on is moving?
+
+717
+00:59:13,199 --> 00:59:14,319
+I worried about that.
+
+718
+00:59:14,319 --> 00:59:15,920
+Let me see what I've decided.
+
+719
+00:59:16,640 --> 00:59:17,040
+Go ahead.
+
+720
+00:59:17,600 --> 00:59:19,519
+I think it actually goes further.
+
+721
+00:59:19,520 --> 00:59:21,199
+Why doesn't one look stable?
+
+722
+00:59:21,199 --> 00:59:24,959
+I mean, why isn't there a certain stability in one and not in both?
+
+723
+00:59:24,960 --> 00:59:25,920
+There's no stability.
+
+724
+00:59:25,920 --> 00:59:27,199
+No, no, I think there is.
+
+725
+00:59:27,199 --> 00:59:28,959
+I mean, the car is stable.
+
+726
+00:59:28,960 --> 00:59:31,360
+I mean, let's try to sort out these two examples.
+
+727
+00:59:31,600 --> 00:59:32,959
+The background is stable.
+
+728
+00:59:32,960 --> 00:59:36,319
+I mean, you're not having any, I mean, it's a framework.
+
+729
+00:59:36,319 --> 00:59:37,999
+I see your framework is moving.
+
+730
+00:59:38,000 --> 00:59:39,919
+Yes, your car is stable and moving.
+
+731
+00:59:40,120 --> 00:59:42,279
+I'm, uh, just in other columns.
+
+732
+00:59:42,279 --> 00:59:42,600
+Yeah.
+
+733
+00:59:43,480 --> 00:59:45,319
+Very easy to talk to me about it.
+
+734
+00:59:45,399 --> 00:59:45,640
+Yeah.
+
+735
+00:59:48,440 --> 00:59:57,559
+Your mother's not going to be good for the copy is moving and very still for it is because you can mention it, but it still looks like it's moving.
+
+736
+00:59:59,080 --> 01:00:02,839
+There's no correlation between the stillness and grip.
+
+737
+01:00:02,839 --> 01:00:04,279
+I don't even know what it looks like.
+
+738
+01:00:04,279 --> 01:00:05,000
+It's moving.
+
+739
+01:00:05,000 --> 01:00:05,879
+I mean, it looks like.
+
+740
+01:00:05,879 --> 01:00:07,880
+I mean, you know that it's moving.
+
+741
+01:00:08,199 --> 01:00:17,560
+But it seems to me that you were so good if you could meet the baseball right in the middle of your video and with all its parts internally, you could see the themes and everything.
+
+742
+01:00:17,560 --> 01:00:22,199
+And you can't be that good if you're a majorly outfielder.
+
+743
+01:00:22,199 --> 01:00:24,679
+Then I'm not sure the object looks like it's moving.
+
+744
+01:00:24,679 --> 01:00:30,679
+It seems to me what it does is that you know it's moving and you're moving and you better get there when it gets there.
+
+745
+01:00:32,040 --> 01:00:34,039
+What would make it look like it was moving?
+
+746
+01:00:34,040 --> 01:00:41,000
+An object stationary in your visual field with all of its details clear against the blue sky.
+
+747
+01:00:41,000 --> 01:00:42,999
+What would be the moving look about?
+
+748
+01:00:43,399 --> 01:00:53,160
+If you aren't losing a grip on it at all, if you aren't trying to get a better grip than you've got and failing, I just think it was a little party.
+
+749
+01:00:53,480 --> 01:00:56,919
+Well, this diagram is made.
+
+750
+01:00:57,160 --> 01:00:58,839
+The sky is really watching.
+
+751
+01:00:59,719 --> 01:01:01,719
+You can move your eyes with it.
+
+752
+01:01:01,879 --> 01:01:04,599
+It still strikes in your visual field.
+
+753
+01:01:04,600 --> 01:01:08,279
+But the diagram gives us, well, I'm picturing you're looking straight up at a flyball.
+
+754
+01:01:08,279 --> 01:01:14,520
+You've got nothing but a blue sky and a stationary quote, a ball that's hanging there in the middle of your visual field.
+
+755
+01:01:14,520 --> 01:01:15,719
+You're running like mad.
+
+756
+01:01:15,719 --> 01:01:17,480
+You've got all the details.
+
+757
+01:01:18,040 --> 01:01:21,559
+You know surely that it's moving, and you, because you're running.
+
+758
+01:01:21,560 --> 01:01:24,120
+But I don't see that it was won't moving, according to me.
+
+759
+01:01:24,279 --> 01:01:30,399
+Well, you want to say what highlighting is sort of the same between nerves moving and then it's both running.
+
+760
+01:01:25,080 --> 01:01:31,359
+Well, I am trying to make that.
+
+761
+01:01:32,319 --> 01:01:34,799
+I used to be a multi-per-multivert.
+
+762
+01:01:34,799 --> 01:01:40,160
+And this digital development, when somebody fixes what's called a knuckleball, the ball doesn't spin.
+
+763
+01:01:40,160 --> 01:01:42,560
+It just comes at you.
+
+764
+01:01:42,560 --> 01:01:46,879
+And you can actually see like the antigon on there.
+
+765
+01:01:46,879 --> 01:01:49,439
+And it honestly doesn't feel like it's moving.
+
+766
+01:01:49,440 --> 01:01:53,279
+You know, it's just like, but I know it's moving, so I'm going to test it thing.
+
+767
+01:01:53,279 --> 01:01:54,880
+It's over there and I'm here.
+
+768
+01:01:54,879 --> 01:01:57,119
+But it actually doesn't look like it's moving.
+
+769
+01:01:57,120 --> 01:01:57,999
+Well, good.
+
+770
+01:01:58,000 --> 01:02:05,679
+But I mean, all this is interesting, but I feel uneasy only that I haven't got the basic grip on this much.
+
+771
+01:02:05,679 --> 01:02:12,080
+I mean, let's go to the Jennifer's puzzle, because it seems to me somehow we've got to solve that one first.
+
+772
+01:02:12,799 --> 01:02:14,479
+I had this story about the car.
+
+773
+01:02:14,640 --> 01:02:16,160
+Oh, no, I just got stumped.
+
+774
+01:02:16,160 --> 01:02:25,199
+But where we got stumped was the idea of a stable background which is moving, because that's what this funny thing is about being in a train or being in a car.
+
+775
+01:02:25,520 --> 01:02:28,640
+I think we're supposed to say, it's sort of related to what I said to Alva.
+
+776
+01:02:28,640 --> 01:02:31,199
+I don't think you experience the cars moving.
+
+777
+01:02:31,199 --> 01:02:35,999
+You experience the post going by as nerving, and they're moving because you can't get a grip on them.
+
+778
+01:02:36,000 --> 01:02:36,880
+So it's okay.
+
+779
+01:02:36,879 --> 01:02:37,199
+Okay.
+
+780
+01:02:37,839 --> 01:02:39,279
+Did you give it to me to help me or that?
+
+781
+01:02:39,600 --> 01:02:40,000
+No, I think that's not a problem.
+
+782
+01:02:40,080 --> 01:02:41,279
+No, I think it's okay.
+
+783
+01:02:41,279 --> 01:02:42,400
+Okay, go ahead.
+
+784
+01:02:42,640 --> 01:02:45,839
+By the way, look, and that isn't what's moving.
+
+785
+01:02:45,839 --> 01:02:49,120
+I mean, it could be if you were running or something, but so maybe that's.
+
+786
+01:02:49,279 --> 01:02:58,080
+I think that's irrelevant to this remark, because sometimes you experience your body as moving, and you experience the cars moving, too.
+
+787
+01:02:58,080 --> 01:02:59,999
+That would be what?
+
+788
+01:03:00,000 --> 01:03:00,879
+How would that happen?
+
+789
+01:03:00,879 --> 01:03:06,960
+That would be because it stopped being the background, and you were concentrating on it.
+
+790
+01:03:07,440 --> 01:03:09,199
+How do you experience your body as moving?
+
+791
+01:03:09,279 --> 01:03:11,080
+Did you talk about that in your section?
+
+792
+01:03:09,920 --> 01:03:13,080
+Not that I've known.
+
+793
+01:03:13,080 --> 01:03:15,160
+Uh more college.
+
+794
+01:03:10,000 --> 01:03:16,359
+Rick, you want to say something about this?
+
+795
+01:03:16,440 --> 01:03:18,679
+I hope that's well I don't know.
+
+796
+01:03:18,679 --> 01:03:23,960
+When I'm driving, you know, when I'm feeding, I feel like I'm going back.
+
+797
+01:03:23,960 --> 01:03:26,040
+I don't feel like the background is going back.
+
+798
+01:03:26,120 --> 01:03:31,239
+I feel like I'm just hauling and that I really need to watch out that I'm going to hit something like a, you know.
+
+799
+01:03:31,640 --> 01:03:32,040
+Okay, good.
+
+800
+01:03:33,080 --> 01:03:34,679
+When I'm running, I feel myself moving.
+
+801
+01:03:34,679 --> 01:03:38,279
+So there's kind of appropriate sexual elements, emotional awareness.
+
+802
+01:03:38,279 --> 01:03:44,600
+You know, but when yeah, I mean, when you're in your convertible and you feel the, you know, the faster you go, the more the air is going to happen.
+
+803
+01:03:44,839 --> 01:03:55,160
+If you factor, try to, if you factor all that out, though, no gigglies, no danger, no wind in your hair, you're just going along in your car moving.
+
+804
+01:03:55,160 --> 01:03:56,439
+Do you really feel the moving?
+
+805
+01:03:56,440 --> 01:03:57,719
+No bumps, that's not fair.
+
+806
+01:03:57,719 --> 01:03:59,239
+I mean, that's all outside of...
+
+807
+01:03:59,239 --> 01:04:00,439
+Well, you're talking about major moving.
+
+808
+01:04:00,440 --> 01:04:01,560
+It's like playing, you know, it's like...
+
+809
+01:04:01,560 --> 01:04:06,839
+Well, just trying to distinguish the accidental cues from the essential cues.
+
+810
+01:04:06,839 --> 01:04:13,080
+I mean, I think Merlot Fonte thinks there's an essential cue, and it's got to do with this dragging at the anchor.
+
+811
+01:04:13,080 --> 01:04:20,199
+And that's, I think, but I'm not sure that that's only natural that he would think it, because he always wants to bring it back to maximum grip.
+
+812
+01:04:20,199 --> 01:04:31,000
+And the only way to bring it back to maximum grip is to say that when you're focusing on something and you see it as moving, you see it as you would like to get a better grip on it and you can't.
+
+813
+01:04:31,000 --> 01:04:32,359
+The posts going by.
+
+814
+01:04:32,759 --> 01:04:33,479
+I'm not sure.
+
+815
+01:04:33,480 --> 01:04:46,439
+This seems like why maximum grip may be the right idea, Karen, because when you perceive something as moving, it is the case that you implicitly understand very that we in some sense are aware, but the crop gate, you do need to do stuff.
+
+816
+01:04:46,440 --> 01:04:49,080
+You do need to move to keep it in view.
+
+817
+01:04:49,080 --> 01:04:52,439
+You do need to alter your relationship to it to maintain access to it.
+
+818
+01:04:52,480 --> 01:04:54,839
+And isn't that on the on my side, so to speak?
+
+819
+01:04:55,040 --> 01:04:58,880
+That is, you're trying to get a better grip on it, and you have to move to do it.
+
+820
+01:04:58,879 --> 01:05:01,279
+That's part of, I mean, there must be two sides.
+
+821
+01:05:01,279 --> 01:05:05,679
+I don't know what's in here, but it looks like you've got one piece of it, and I've got one piece of it.
+
+822
+01:05:06,000 --> 01:05:11,119
+Either you drag at your anchor, which is what he says, or you move your anchor, which is what you said.
+
+823
+01:05:11,120 --> 01:05:15,120
+You pick your anchor up, and then you run to try to get a better grip on it.
+
+824
+01:05:15,520 --> 01:05:19,679
+I'm trying to describe it in the more geometrical way than in the more essential way.
+
+825
+01:05:19,839 --> 01:05:20,080
+Okay.
+
+826
+01:05:20,080 --> 01:05:24,160
+Because it just means that you really may not have it.
+
+827
+01:05:24,160 --> 01:05:26,640
+It's also your child's right around.
+
+828
+01:05:26,799 --> 01:05:28,959
+And it's in a very small confined space.
+
+829
+01:05:28,960 --> 01:05:33,679
+And the child is never engaged by any outer grip.
+
+830
+01:05:34,879 --> 01:05:36,399
+That's a better counterexample.
+
+831
+01:05:36,399 --> 01:05:37,679
+I don't know what to say about that.
+
+832
+01:05:37,679 --> 01:05:38,960
+I see the problem.
+
+833
+01:05:38,960 --> 01:05:39,439
+Yeah.
+
+834
+01:05:40,160 --> 01:05:42,799
+Maybe maximum grip doesn't work very well here.
+
+835
+01:05:42,799 --> 01:05:45,759
+And maybe he doesn't mention it because it doesn't work very well here.
+
+836
+01:05:46,239 --> 01:05:49,119
+But then I can't make any sense of this passage.
+
+837
+01:05:49,120 --> 01:06:07,199
+Otherwise, you haven't got an alternative reading of the middle of 324 for the child because he seems to say that what makes some part of the field count as an object in motion, why it should be the child and not the playpen that's in motion, depends on this anchor phenomenon.
+
+838
+01:06:07,199 --> 01:06:08,559
+That might just be wrong.
+
+839
+01:06:09,279 --> 01:06:12,160
+What's the relation between anchorage and maximum grip?
+
+840
+01:06:12,160 --> 01:06:14,719
+Because it seems like this is all about grip is happening.
+
+841
+01:06:14,879 --> 01:06:16,640
+No, no, this is not just about anchorage.
+
+842
+01:06:16,640 --> 01:06:18,239
+That would be a foreground-background issue.
+
+843
+01:06:18,319 --> 01:06:18,879
+That's a question.
+
+844
+01:06:18,879 --> 01:06:19,520
+What is the relation?
+
+845
+01:06:19,759 --> 01:06:20,799
+Okay, I'm going to tell you.
+
+846
+01:06:22,319 --> 01:06:24,879
+It isn't just a foreground-background.
+
+847
+01:06:24,879 --> 01:06:26,719
+That's the way he introduced anchor.
+
+848
+01:06:26,720 --> 01:06:31,839
+Because the anchor is in the stable framework relative to which things move.
+
+849
+01:06:31,840 --> 01:06:35,599
+But now he's got this funny phenomenon, which I was so interested in trying to figure out.
+
+850
+01:06:35,599 --> 01:06:37,359
+It's pulling at the anchor.
+
+851
+01:06:37,359 --> 01:06:39,840
+That's where I think is where you introduce maximum grip.
+
+852
+01:06:39,960 --> 01:06:42,199
+Why is it pulling the anchor?
+
+853
+01:06:42,519 --> 01:06:58,359
+Well, look, he says that when you try to ask the question, which is in most movement, he says you're lodged and anchored in the garden, and you're attracted by the stone, which, so to speak, drags at its anchors.
+
+854
+01:06:58,359 --> 01:07:04,120
+Now, I can't believe the stone is dragging at its anchors, because it looks like it says that.
+
+855
+01:07:04,120 --> 01:07:06,920
+It must be that you are dragging at your anchor in order to.
+
+856
+01:07:07,319 --> 01:07:11,479
+I made this up: that you're dragging at your anchor to get a better grip of the stone.
+
+857
+01:07:11,479 --> 01:07:19,559
+That is, you'll run to see it better, or at least you feel, sort of Sean-like point, you feel if only I could keep up with it, I could see it better, but I can't.
+
+858
+01:07:19,880 --> 01:07:28,920
+So, to the question, your view would be that through the gaze, the gaze is anchored in a kind of background way, something stable, I guess.
+
+859
+01:07:29,239 --> 01:07:31,239
+And the background is what motion or tension.
+
+860
+01:07:31,399 --> 01:07:34,599
+I would find the maximum grip, and we can't, unless you're dragging.
+
+861
+01:07:35,000 --> 01:07:35,479
+We're trying.
+
+862
+01:07:36,519 --> 01:07:39,399
+That's what I think he thinks, but I'm not sure.
+
+863
+01:07:39,720 --> 01:07:40,040
+Yeah.
+
+864
+01:07:41,960 --> 01:07:59,559
+Well, you're saying the increase in the background, your anchorage is in the background, but since the lodge is in the middle sounds, it could be one in the background, and the body is where the acreage happens, and then either last, which is messages, both the background and the object.
+
+865
+01:07:59,639 --> 01:08:03,080
+So, since you're in the acreage, you're the absolute within the value.
+
+866
+01:08:03,080 --> 01:08:08,120
+So, for you, you're an absolute here, and you can perceive both of the things that went throughout the middle.
+
+867
+01:08:08,599 --> 01:08:10,679
+No, you went back to the first piece.
+
+868
+01:08:11,479 --> 01:08:15,559
+There are two points, one clear point, that your body is an absolute.
+
+869
+01:08:15,559 --> 01:08:24,359
+It anchors you somewhere in the train or in the car or in the classroom, and that's the zero background relative to which there's motion.
+
+870
+01:08:24,359 --> 01:08:26,239
+I think we all agree about that.
+
+871
+01:08:26,399 --> 01:08:27,759
+Your body is the background.
+
+872
+01:08:27,760 --> 01:08:32,399
+I mean, it's the sort of that's the first meaning of anchoring.
+
+873
+01:08:32,399 --> 01:08:36,160
+Your body, wherever your body is anchored, counts as the background.
+
+874
+01:08:36,160 --> 01:08:37,679
+I think he says that.
+
+875
+01:08:38,160 --> 01:08:39,679
+It might not be a third term here.
+
+876
+01:08:39,680 --> 01:08:41,359
+I mean, sometimes it's a third term.
+
+877
+01:08:41,359 --> 01:08:43,679
+But right now, that's all he just says.
+
+878
+01:08:43,680 --> 01:08:44,479
+Yes, James.
+
+879
+01:08:47,120 --> 01:08:51,040
+You're assuming that maximum growth is something you actually achieve.
+
+880
+01:08:51,040 --> 01:08:53,599
+And I thought we it rejected that by.
+
+881
+01:08:53,599 --> 01:08:54,559
+Yes, you're always trying.
+
+882
+01:08:57,519 --> 01:09:01,679
+So you're in the outfield and you're felt to keep in track with the ball coming towards you.
+
+883
+01:09:01,920 --> 01:09:06,000
+You don't need to characterize the success as constantly achieving maximum growth.
+
+884
+01:09:06,000 --> 01:09:11,519
+We can characterize it as constantly ensuring you're getting a better or something like that.
+
+885
+01:09:11,680 --> 01:09:12,239
+That would be fine.
+
+886
+01:09:12,479 --> 01:09:13,439
+So it is nothing.
+
+887
+01:09:13,599 --> 01:09:14,239
+Is that matter?
+
+888
+01:09:15,279 --> 01:09:17,040
+And tracking the ball as it comes towards you.
+
+889
+01:09:17,359 --> 01:09:19,919
+Which side of the side.
+
+890
+01:09:19,920 --> 01:09:20,960
+Okay, well, then it has to be true.
+
+891
+01:09:21,439 --> 01:09:22,959
+I want to go back to this.
+
+892
+01:09:23,599 --> 01:09:29,359
+So because I hope, and maybe I can't get done with it, but I think I can.
+
+893
+01:09:29,359 --> 01:09:32,000
+So, but it's on 326.
+
+894
+01:09:32,000 --> 01:09:33,279
+I think that's it.
+
+895
+01:09:33,760 --> 01:09:36,799
+Okay, then I want to say something about jump to 343.
+
+896
+01:09:36,800 --> 01:09:39,919
+That's what I was hoping to get to, because we're finishing space there.
+
+897
+01:09:39,920 --> 01:09:41,199
+And that's pretty quick.
+
+898
+01:09:41,199 --> 01:09:43,359
+But it's got a lot of interesting things in it.
+
+899
+01:09:43,359 --> 01:09:51,439
+And it's all about this business of what the woostering or not.
+
+900
+01:09:51,439 --> 01:09:57,599
+And how and is the do we get fooled how do we get fooled in experience and so forth?
+
+901
+01:09:57,599 --> 01:10:00,479
+I'm just going to hit the highlights in five minutes.
+
+902
+01:10:00,800 --> 01:10:05,439
+And that is on face 346 and 347.
+
+903
+01:10:06,880 --> 01:10:23,559
+There is something like you can, he says, tell the difference between illusion and perception, because you can, if it's a perception, then you can find out more and more about it.
+
+904
+01:10:24,040 --> 01:10:37,399
+And you can, if you can't find out more and more about it by investigating it, if you can, then it's on the real, even if it may turn out retroactively to be wrong.
+
+905
+01:10:37,720 --> 01:10:38,759
+That's interesting.
+
+906
+01:10:38,760 --> 01:10:41,319
+It's not experienced as an illusion.
+
+907
+01:10:41,319 --> 01:10:44,040
+Oh boy, I'm not going to get these data clear.
+
+908
+01:10:44,680 --> 01:10:47,080
+There are two issues going on in these pages, I guess.
+
+909
+01:10:47,960 --> 01:10:53,719
+One is how you experience the illusion illusory from the real.
+
+910
+01:10:54,040 --> 01:11:09,719
+And second, since he admits that sometimes you're fooled, how you could turn out to be fooled in your experience of the difference between the illusory and the real and mistake something for real, which isn't there.
+
+911
+01:11:09,720 --> 01:11:12,359
+And his example is the stone on the path.
+
+912
+01:11:12,359 --> 01:11:14,359
+You think that there's a stone on the path.
+
+913
+01:11:14,359 --> 01:11:17,799
+This is starting at 346.
+
+914
+01:11:17,800 --> 01:11:25,319
+The difference, five, four lines down, the difference between illusion and perception is intrinsic, and the truth of perception can be read off from perception itself.
+
+915
+01:11:25,319 --> 01:11:31,639
+See, that's the strong claim that it really looks different if it's illusory and if it's a perception.
+
+916
+01:11:31,639 --> 01:11:42,679
+And that's odd, but he says, so you've got this stone, and you draw nearer, and it turns out to be a patch of sunlight.
+
+917
+01:11:42,680 --> 01:11:49,639
+The flat stone, like all things in the distance, appears only as a field of confused structure in which the connections are not yet articulated.
+
+918
+01:11:49,639 --> 01:11:58,799
+In this sense, the illusion, like the image, is not observable, which means that my body has no grip on it, and that I cannot help behold it before.
+
+919
+01:11:58,800 --> 01:12:08,000
+So, up to a certain point, you can't tell whether something is a real thing or an illusion, because you can't get a grip on it.
+
+920
+01:12:08,000 --> 01:12:11,199
+But then you can get a grip on it.
+
+921
+01:12:11,199 --> 01:12:17,040
+And when you do get a grip on it, then it looks experience quite differently than illusion.
+
+922
+01:12:17,040 --> 01:12:23,359
+You can experience it as what you can get a better grip on, find out more about, explore, and so forth.
+
+923
+01:12:23,359 --> 01:12:24,880
+And that's important, okay?
+
+924
+01:12:24,880 --> 01:12:32,639
+There's a difference in your experience between what you take to be real because you've got a grip on it and what you don't know yet.
+
+925
+01:12:32,639 --> 01:12:38,879
+But then, he says in the next sentence, and yet I'm capable of omitting this distinction and falling into illusion.
+
+926
+01:12:38,880 --> 01:12:39,679
+Why?
+
+927
+01:12:40,319 --> 01:12:57,599
+Because you don't want to know, so to speak, or you don't care, or you've taken a drug or something, and you're not making the demand on your experience that you don't decide whether it's real or not until you've explored it.
+
+928
+01:12:58,000 --> 01:13:03,279
+Then you can have all kinds of ghosts and phantoms in your experience.
+
+929
+01:13:03,279 --> 01:13:06,080
+And come back to that in another chapter.
+
+930
+01:13:08,559 --> 01:13:10,080
+But now there's a third point.
+
+931
+01:13:10,080 --> 01:13:12,559
+This only seems happening three pages.
+
+932
+01:13:12,559 --> 01:13:27,359
+But nonetheless, and this is the last point, even when you do get a maximum grip, and you now have a difference of experience between the vague kind of experience where you can't tell whether it's an illusion or not, like the stone from a dinner.
+
+933
+01:13:27,599 --> 01:13:29,839
+Now you've got a real grip on it.
+
+934
+01:13:29,840 --> 01:13:31,439
+It still continues to be.
+
+935
+01:13:32,000 --> 01:13:37,679
+That's this business of, say, the girl on Telegraph Avenue or the back of the house.
+
+936
+01:13:38,239 --> 01:13:40,679
+It looks like it's perfectly clear.
+
+937
+01:13:40,000 --> 01:13:42,199
+It's just sort of indeterminate.
+
+938
+01:13:42,519 --> 01:13:48,439
+But lo and behold, when you go to make it more determinate, it turns out to be something else.
+
+939
+01:13:48,439 --> 01:13:51,639
+And you just have to accept that.
+
+940
+01:13:51,639 --> 01:13:53,959
+That's something that can happen.
+
+941
+01:13:53,960 --> 01:14:00,199
+And that's why the illusion reality issue is not totally a mistake.
+
+942
+01:14:00,920 --> 01:14:12,839
+Even though you can tell in your experience the difference between the difference between the experience of illusion and experience of reality, the experience of reality can turn out to be wrong.
+
+943
+01:14:12,840 --> 01:14:14,439
+And it can't turn out that.
+
+944
+01:14:14,439 --> 01:14:16,040
+It's an illusion.
+
+945
+01:14:16,040 --> 01:14:17,639
+And then what happens?
+
+946
+01:14:17,639 --> 01:14:20,199
+Well, then you have to correct them.
+
+947
+01:14:20,199 --> 01:14:27,479
+And then you get this business at the top of 347 of crossing out the previous illusion and regarding it as known void.
+
+948
+01:14:28,120 --> 01:14:30,120
+That's what happens with the girl.
+
+949
+01:14:30,439 --> 01:14:33,160
+Retroactively, it turns out to be a man.
+
+950
+01:14:33,160 --> 01:14:40,919
+And retroactively, it turns out to be a man, and then I have to retroactively see it differently, even from the back.
+
+951
+01:14:41,080 --> 01:14:46,839
+As he says about the stone, everything gets changed when you discover that it's an illusion.
+
+952
+01:14:46,840 --> 01:14:48,599
+Let's see where he says that.
+
+953
+01:14:50,439 --> 01:14:52,920
+But that's relevant to what we're talking about.
+
+954
+01:14:53,239 --> 01:14:55,080
+Well, I can't find it right away.
+
+955
+01:14:55,080 --> 01:14:56,359
+So let me go on.
+
+956
+01:14:56,359 --> 01:15:05,559
+So what you've got is this complicated thing that you never can be totally an illusion.
+
+957
+01:15:05,559 --> 01:15:07,479
+That's the last point I want to make.
+
+958
+01:15:07,479 --> 01:15:19,639
+He says it's always in the light of taking what you're currently experiencing as not an illusion, that you cross out the previous as an illusion.
+
+959
+01:15:19,639 --> 01:15:22,120
+No, I can't talk there, there's only one minute left.
+
+960
+01:15:22,120 --> 01:15:39,519
+You cross out the previous as an illusion, but it's always in terms of something else that you take as you have the experience of it being real, and you take it to be real, you put your trust in the world, as he put, I put my confidence in the world, as he says at the bottom of 346.
+
+961
+01:15:39,840 --> 01:15:47,759
+And that means that it's always in terms of something else which you now take to be real, that you cross out what's previous.
+
+962
+01:15:47,760 --> 01:15:54,559
+And that leads him to his kind of answer to skepticism about handling from the bottom of 347.
+
+963
+01:15:54,559 --> 01:16:00,479
+There is the absolute certainty of the world in general, but not of any one thing in particular.
+
+964
+01:16:00,800 --> 01:16:08,160
+That means that somehow you've always got a grip on something, I put it in my grip terms.
+
+965
+01:16:08,160 --> 01:16:14,080
+And you can trust in general, and you do trust, that whatever you get a grip on is real.
+
+966
+01:16:14,080 --> 01:16:23,279
+But there's no guarantee that it may not turn out to be a facade, or the girl may turn out to be a guy, or the stone may turn out to be a spot of sunlight.
+
+967
+01:16:23,279 --> 01:16:29,679
+And it may always, therefore, always be the case that about any particular thing, you have to take it back.
+
+968
+01:16:29,680 --> 01:16:40,319
+And it's always on the basis of a basic attunement you've got with the world, which he thinks you couldn't possibly take back, that you do corrections within it.
+
+969
+01:16:40,319 --> 01:16:40,880
+One last comment.
+
+970
+01:16:41,760 --> 01:16:42,719
+Empirical realism.
+
+971
+01:16:42,720 --> 01:16:44,479
+I mean, we're now getting out of idealism.
+
+972
+01:16:44,639 --> 01:16:47,599
+This is a strongest statement I've seen that is anti-idealism.
+
+973
+01:16:48,160 --> 01:16:49,040
+Yes, yes, yes.
+
+974
+01:16:49,040 --> 01:16:51,359
+Well, I'll say something to you, but don't you get confused.
+
+975
+01:16:51,359 --> 01:16:52,160
+Don't you listen.
+
+976
+01:16:52,160 --> 01:16:56,800
+But I mean, but empirical realism is a kind of idealism in Kant, so don't say that.
+
+977
+01:16:56,800 --> 01:16:59,040
+That's just further confusing.
+
+978
+01:16:59,040 --> 01:17:00,399
+Okay, that's it.

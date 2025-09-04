@@ -1,0 +1,3351 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:01,440
+Okay, here we go.
+
+2
+00:00:01,440 --> 00:00:03,840
+Back to understanding to begin with.
+
+3
+00:00:04,161 --> 00:00:15,080
+I think, and I've never been clear at all about any of this, so if you see me sort of struggling and reading for my notes and repeating myself, it's because I'm still trying to get a grip on it.
+
+4
+00:00:15,320 --> 00:00:19,241
+But I think I had a good grip on what we talked about last time.
+
+5
+00:00:19,241 --> 00:00:27,320
+I think that it's very important to sort out these two meanings of understanding, which is what we were doing last time.
+
+6
+00:00:28,200 --> 00:00:39,000
+And there is, remember, a primordial understanding, and that brings in the for the sake of which, and we talked about that.
+
+7
+00:00:39,320 --> 00:00:46,760
+And then, but you can't take a stand on your own being, and that's understanding.
+
+8
+00:00:46,760 --> 00:00:53,801
+That's a kind of understanding, which you don't have to think about, but which you just understand what it is to be you.
+
+9
+00:00:54,760 --> 00:01:03,000
+That's the primordial kind, that's the ultimate for the sake of which kind of activity.
+
+10
+00:01:03,000 --> 00:01:16,681
+But then there's, but you can't take a stand on what it is to be you except by using equipment, and that's what he calls the basic kind of understanding, or the primary kind of understanding.
+
+11
+00:01:16,681 --> 00:01:20,921
+And that's the one that I want to talk about today more.
+
+12
+00:01:20,921 --> 00:01:30,440
+We talked plenty about for the sake of which is and roles and all that last time, but we didn't go in far enough to the kind of basic understanding.
+
+13
+00:01:30,440 --> 00:01:33,561
+And I want to say one more general thing.
+
+14
+00:01:33,561 --> 00:01:39,801
+These two kinds of understanding have something interesting in common, which we did talk about.
+
+15
+00:01:39,801 --> 00:01:42,281
+Neither is aiming at a goal.
+
+16
+00:01:42,761 --> 00:01:48,201
+I can't aim at the goal of being a teacher, though I can aim at the goal of being a professor.
+
+17
+00:01:48,200 --> 00:01:58,481
+And when I am coping in the most basic way of just being drawn in by affordances, which I'm going to talk about more, you don't have a goal either.
+
+18
+00:01:58,480 --> 00:02:01,601
+You just act.
+
+19
+00:02:01,600 --> 00:02:13,041
+You go through the two go in and out, and you lean on the and put your papers on the lecturing, and you do it, but not with a plan, a representation of the success conditions.
+
+20
+00:02:13,041 --> 00:02:19,361
+You just, if you've got familiarity with lecturins and doors and stuff, you just do it.
+
+21
+00:02:19,360 --> 00:02:31,761
+And remember, I keep saying Heidegger's example from basic problems is you go to the classroom, you use the door, and even more, you use the latch, the door handle, and you don't need to think about that.
+
+22
+00:02:31,761 --> 00:02:32,960
+And it isn't a goal.
+
+23
+00:02:32,960 --> 00:02:36,001
+It's just something that you can do.
+
+24
+00:02:36,401 --> 00:02:40,321
+You are what Heidegger calls pressing into possibilities.
+
+25
+00:02:40,320 --> 00:02:42,561
+Now we need to talk more about that.
+
+26
+00:02:42,881 --> 00:02:45,761
+But I also want to avoid something.
+
+27
+00:02:46,080 --> 00:02:53,121
+Listening to the last time I taught this, which is what I always do, which is, I know is considered weird by everybody else, but I can't help it.
+
+28
+00:02:53,120 --> 00:02:55,761
+I have to find out what worked and what didn't.
+
+29
+00:02:55,761 --> 00:03:12,401
+Well, what didn't work and wasted an hour was arguing about on page 186 what in the world Heidegger means by the difference between genuine and non-genuine understanding, since he never explains it except in that paragraph.
+
+30
+00:03:12,401 --> 00:03:17,041
+And I don't know anywhere in any of the other books from his lectures where he explains it either.
+
+31
+00:03:17,041 --> 00:03:22,801
+And since I don't know what it means, and it doesn't seem to make any difference anywhere else, we're just going to ignore it.
+
+32
+00:03:22,801 --> 00:03:26,080
+If anybody wants to bring it up in office hours, I do have an idea.
+
+33
+00:03:26,561 --> 00:03:30,401
+I have a whole interpretation of what it means in my commentary, but it's just made up.
+
+34
+00:03:30,401 --> 00:03:33,200
+I mean, I have no text to back up this.
+
+35
+00:03:33,200 --> 00:03:40,600
+I just, I just, if I had to fill in those words, I could tell you what I'd say, but I'm not going to tell you what I'd say because it isn't important.
+
+36
+00:03:38,320 --> 00:03:43,961
+So that gets us to where we want to be.
+
+37
+00:03:45,960 --> 00:03:59,401
+In the background from now on of what I'm going to say today is that we want to understand understanding in such a way that we can understand the move from understanding to interpretation.
+
+38
+00:03:59,720 --> 00:04:10,520
+And there is, I guess, three, or two or three, I don't know which interesting, important, difficult issues involved in that.
+
+39
+00:04:10,840 --> 00:04:20,601
+To begin with, understanding can be thought of as preconceptual and interpretation as conceptual.
+
+40
+00:04:20,921 --> 00:04:22,761
+And that's a big issue.
+
+41
+00:04:22,761 --> 00:04:39,961
+If any of you have had McDowell or any sort of current stuff in philosophy of mind, philosophy of action, that and what and Heidegger has a very interesting and a very sophisticated view of what the preconceptual is and how you get from there to the conceptual.
+
+42
+00:04:39,960 --> 00:04:53,801
+And that is, how do you get from just letting yourself be drawn into the affordances to dealing with entities as entities?
+
+43
+00:04:53,801 --> 00:04:58,360
+That means dealing with them as substances, with properties.
+
+44
+00:04:58,681 --> 00:05:02,761
+And how do you get from there to logic?
+
+45
+00:05:02,761 --> 00:05:05,481
+So it's not going to be done until next time.
+
+46
+00:05:05,480 --> 00:05:18,521
+But a fascinating issue that nobody has anything interesting to say about, except maybe Sam Totis, who I mentioned and whose views about it, though he sees the problem, his answer is pretty implausible.
+
+47
+00:05:18,521 --> 00:05:23,561
+So nobody's got anything interesting to say about a very interesting question.
+
+48
+00:05:24,080 --> 00:05:36,241
+If our basic way of relating to things is preconceptual, it's just dealing, period, how can you get to explain?
+
+49
+00:05:36,240 --> 00:05:59,121
+And if, of course, we have conceptual ways of relating to things and logic and we deal with substances with properties, what's the relation between this primordial kind, not primordial, primary kind of pressing into possibilities, which is basic for us having a world at all, our ability to think.
+
+50
+00:05:59,120 --> 00:06:04,960
+That is, to encounter substances and study their properties and their aspects.
+
+51
+00:06:04,960 --> 00:06:06,481
+I'll talk more about that.
+
+52
+00:06:07,041 --> 00:06:09,921
+And this is what's happening in this chapter.
+
+53
+00:06:09,921 --> 00:06:19,761
+Heidegger's going from a most basic way of being in the world that people have and that most people, most philosophers have never even glimmered.
+
+54
+00:06:19,761 --> 00:06:27,841
+And even now, people like McDowell, whom I'm arguing with all the time in the literature, haven't even glimmered yet.
+
+55
+00:06:27,840 --> 00:06:32,241
+Heidegger's going from this most basic kind of coping.
+
+56
+00:06:32,241 --> 00:06:38,001
+The only person who's got it and understood it is Marilla Ponty, as interpreted by Sean Kelly.
+
+57
+00:06:38,001 --> 00:06:49,361
+But I mean, they go from this very basic kind of interpreting, sorry, not interpreting, coping, to the most formal kind of logic.
+
+58
+00:06:49,360 --> 00:06:50,480
+How do you get there?
+
+59
+00:06:50,480 --> 00:06:52,561
+Well, this is a story about how you get there.
+
+60
+00:06:52,960 --> 00:06:55,600
+In this, what I'm going to talk about today are the steps.
+
+61
+00:06:55,600 --> 00:07:07,440
+I'm not going to get to logic, I don't think, but are the steps by which our experience gets converted from transparent coping to thinking.
+
+62
+00:07:07,480 --> 00:07:22,681
+And the object of our experience gets converted from letting yourself be drawn in by affordances to thinking about substances and their properties.
+
+63
+00:07:23,001 --> 00:07:36,440
+And it's about how you get change from a dozen who is transparently coping pretty much like an animal, although there are distinctions, which, again, I'd be glad to talk about in office hours, but not here.
+
+64
+00:07:36,840 --> 00:07:47,320
+For us, it looks pretty much like you go from being this open head turned toward the world to being something like a subject.
+
+65
+00:07:47,320 --> 00:08:02,440
+Of course, you're never completely a subject in the Cartesian sense because you're never completely self-contained and autonomous, but you at least you think, you have ideas, you have feelings in you and moods when you're being weird.
+
+66
+00:08:02,600 --> 00:08:04,200
+You've got a mood that nobody else has.
+
+67
+00:08:04,200 --> 00:08:07,641
+It must be in you and not in the public atmosphere.
+
+68
+00:08:07,641 --> 00:08:10,200
+You've got your own skills.
+
+69
+00:08:10,200 --> 00:08:15,001
+And so, well, I don't, no, that's not part of you as a subject.
+
+70
+00:08:15,001 --> 00:08:18,521
+That's part of you as a Dasein at the basic level.
+
+71
+00:08:18,521 --> 00:08:37,321
+But anyway, there is some, I don't know how is the right way to characterize it, but there's something that you are when you're not just being drawn in by affordances, which is misunderstood as self-sufficient subject, but something there has to be brought out.
+
+72
+00:08:37,960 --> 00:08:39,241
+What do you become?
+
+73
+00:08:39,240 --> 00:08:44,521
+And how do you become it when you stop just being drawn in?
+
+74
+00:08:44,521 --> 00:08:47,481
+All that is in here in this important chapter.
+
+75
+00:08:47,720 --> 00:09:05,121
+In such a big, in such a mess because of the two meanings of understanding which I told you last time in a third one which I found when I went through it again today, which I'll mention later, doesn't radically change things.
+
+76
+00:09:05,120 --> 00:09:08,241
+But that's so that's one of the big questions.
+
+77
+00:09:08,480 --> 00:09:17,761
+In effect, how we get from Dasein being in the world to something like subjects thinking about something like substances.
+
+78
+00:09:17,761 --> 00:09:25,601
+And or how do we get from affordance relation to objects to thinking with concepts about them?
+
+79
+00:09:25,600 --> 00:09:34,960
+And then there's another whole issue which I've been fighting with my TAs for years, and now I think I know the answer, about which Heidegger, I think, always got it right.
+
+80
+00:09:34,960 --> 00:09:40,321
+It's just that it's subtle, and Heidegger doesn't unfortunately say it clearly enough.
+
+81
+00:09:40,320 --> 00:09:44,161
+But the question is, is about the as structure.
+
+82
+00:09:44,161 --> 00:09:51,601
+And we're going to talk about how, when you're responding to affordances, you're not even responding to them as affordances.
+
+83
+00:09:51,600 --> 00:09:53,841
+You're just responding.
+
+84
+00:09:54,161 --> 00:09:57,840
+Then interpretation brings in the as structure.
+
+85
+00:09:57,840 --> 00:10:03,920
+I'm going to die I just blurt it out now, but I'll read passages and say m say more about it in a minute.
+
+86
+00:10:03,920 --> 00:10:15,360
+But the question is, Heidegger says, you know, that the the as structure is a basic feature of the world.
+
+87
+00:10:15,680 --> 00:10:38,761
+And that makes it sound like the as structure, so to speak, goes all the way down, that there's nothing more than than tables, which are things that I'm not even thinking, the stuff which we experience as a table and the stuff we experience the th the the whatever we experience as a door, and so forth, that that's what they're that's what the world is made up of.
+
+88
+00:10:38,241 --> 00:10:44,600
+Stuff that affords things, and you see it as affording things.
+
+89
+00:10:45,880 --> 00:10:47,400
+That's one version.
+
+90
+00:10:47,400 --> 00:10:49,720
+But I think that's wrong.
+
+91
+00:10:49,721 --> 00:10:53,080
+I think the as structure, well, it's half right.
+
+92
+00:10:53,080 --> 00:10:57,080
+I'll tell you what the answer is because then you could keep your head where we're heading.
+
+93
+00:10:57,400 --> 00:11:01,640
+The reason everything is so confused is there are two perspectives.
+
+94
+00:11:01,640 --> 00:11:07,720
+From the point of view of somebody watching me go out the door, they can say I'm using the door as a door.
+
+95
+00:11:07,880 --> 00:11:08,920
+That would be right.
+
+96
+00:11:08,920 --> 00:11:10,360
+And that's what it is.
+
+97
+00:11:10,360 --> 00:11:11,080
+It's a door.
+
+98
+00:11:11,080 --> 00:11:12,201
+And what am I doing with it?
+
+99
+00:11:12,201 --> 00:11:14,521
+I'm treating it as a door.
+
+100
+00:11:14,521 --> 00:11:16,281
+I'm seeing it as a door.
+
+101
+00:11:16,281 --> 00:11:18,041
+I'm using it as a door.
+
+102
+00:11:18,041 --> 00:11:21,721
+That's what somebody watching me can rightly say.
+
+103
+00:11:22,041 --> 00:11:33,160
+But when I'm experiencing it, you should get used to this now, and just being drawn out to go out, just being drawn to go out, I'm not experiencing it as a door.
+
+104
+00:11:33,160 --> 00:11:38,440
+I'm not even experiencing it as drawing me to go out.
+
+105
+00:11:38,441 --> 00:11:42,680
+I'm just letting myself be drawn to go out.
+
+106
+00:11:42,680 --> 00:11:44,200
+And that's it.
+
+107
+00:11:44,840 --> 00:11:52,521
+So the reason, so what the fight between me and the TAs has always been, I was always saying the as structure doesn't go all the way down.
+
+108
+00:11:52,521 --> 00:11:56,360
+And they were saying, yes, everything that shows up shows up as something.
+
+109
+00:11:56,680 --> 00:11:59,160
+And the answer is right.
+
+110
+00:11:59,160 --> 00:11:59,721
+Both.
+
+111
+00:12:00,281 --> 00:12:03,080
+If it's in the business of showing up, it's showing up as something.
+
+112
+00:12:03,080 --> 00:12:10,840
+But when it's in the business of just being coped with, then it doesn't show up as anything.
+
+113
+00:12:10,840 --> 00:12:12,200
+It doesn't show up at all.
+
+114
+00:12:12,600 --> 00:12:15,320
+And both of those stories are right.
+
+115
+00:12:15,320 --> 00:12:21,481
+Now, well, maybe it's a time to pause just to make sure, but that's only supposed to be an overture.
+
+116
+00:12:21,481 --> 00:12:30,080
+I mean, I haven't argued anything or cited any passages, but if you're lost already or have something to say already, this is the time to do it.
+
+117
+00:12:30,400 --> 00:12:31,360
+Yeah.
+
+118
+00:12:36,481 --> 00:12:40,160
+The world shows up but not with an as structure.
+
+119
+00:12:40,160 --> 00:12:41,840
+Ah, good question.
+
+120
+00:12:41,840 --> 00:12:50,320
+I my first impulse is to say, well, no, my impulse is to be confused, so let me think a little longer.
+
+121
+00:12:50,721 --> 00:12:56,721
+What pulls me in one I my first impulse is to say, no, no, I mean, gee, you're not confused.
+
+122
+00:12:56,721 --> 00:13:01,041
+I mean, my first impulse is to say the world always shows up as an as structure.
+
+123
+00:13:01,041 --> 00:13:07,120
+What else could it show up, show up as, except having things with functions and so forth?
+
+124
+00:13:07,120 --> 00:13:14,721
+It certainly doesn't show up as brute facts the way John Searle thinks it does and and then Descartes and so forth.
+
+125
+00:13:14,721 --> 00:13:18,880
+So then you might think, well, the world always shows up as having an as structure.
+
+126
+00:13:18,880 --> 00:13:22,640
+It's and but we show you this is ambiguous.
+
+127
+00:13:22,801 --> 00:13:24,721
+Whoa, already it's confusing.
+
+128
+00:13:24,880 --> 00:13:29,200
+Shows up to somebody looking at it from the outside, not absorbed.
+
+129
+00:13:29,201 --> 00:13:33,440
+But if it but when you're absorbed, then it doesn't seem to show up with an as structure.
+
+130
+00:13:33,441 --> 00:13:35,360
+But now you're asking a third question.
+
+131
+00:13:35,360 --> 00:13:38,881
+And when you're not absorbed, could it ever show up without an as structure?
+
+132
+00:13:38,880 --> 00:13:40,801
+That's what you just asked, I think.
+
+133
+00:13:40,801 --> 00:13:46,160
+And uh it may have to do with anxiety or breakdown.
+
+134
+00:13:46,320 --> 00:13:47,840
+You can do it with the wor with the workshop.
+
+135
+00:13:47,840 --> 00:13:51,281
+You don't need anxiety, which is just all super breakdown.
+
+136
+00:13:51,281 --> 00:14:03,680
+Well, when remember when the tool is broken, then the workshop, the world, the little mini world of the workshop, shows itself.
+
+137
+00:14:03,680 --> 00:14:08,761
+But I guess it shows itself as lacking the equipment you need.
+
+138
+00:14:08,400 --> 00:14:14,360
+I think things always as, but I think it's worth trying to figure it out.
+
+139
+00:14:14,680 --> 00:14:22,521
+Okay, I'm going to go on, and now I say here in my notes, let's look in bold type.
+
+140
+00:14:22,521 --> 00:14:37,880
+Well, when you've got problems like the two I just talked about, how you get from absorption to concepts, and whether the as structure goes all the way down, there's nothing else to do but go back to the phenomenon, which is just what Heidegger would say to do.
+
+141
+00:14:37,880 --> 00:14:42,600
+Now, I take it that that's what he's doing on 189.
+
+142
+00:14:42,920 --> 00:14:48,200
+But I also say that I wanted to say something about 188, so let's talk about that.
+
+143
+00:14:59,481 --> 00:15:00,840
+Well, that's part of the puzzle.
+
+144
+00:15:00,840 --> 00:15:02,041
+So let's go back there.
+
+145
+00:15:02,041 --> 00:15:13,320
+We need a lot of explaining right at the beginning of the part on understanding and interpretation, starting about four lines down in number, in section 32.
+
+146
+00:15:15,561 --> 00:15:20,761
+The projecting of the understanding has its own possibility, that of developing itself.
+
+147
+00:15:20,761 --> 00:15:28,920
+This development of the understanding we call interpretation, in it, the understanding appropriates understandingly that which is understood by it.
+
+148
+00:15:29,561 --> 00:15:35,240
+Now, that sounds like there's some change when you go from understanding to interpretation.
+
+149
+00:15:35,241 --> 00:15:41,241
+But then he says, in interpretation, understanding does not become something different, it becomes itself.
+
+150
+00:15:41,561 --> 00:15:45,400
+Such interpretation is grounded existentially in understanding.
+
+151
+00:15:45,400 --> 00:15:48,281
+The latter does not arise from the former.
+
+152
+00:15:48,281 --> 00:15:54,480
+That is, you can't get understanding isn't sort of what you get when you've done some interpreting.
+
+153
+00:15:53,481 --> 00:15:59,201
+Interpreting is what you can do when you've already done some understanding.
+
+154
+00:15:59,761 --> 00:16:04,400
+And it's clear that whatever understanding is, it's more basic than interpretation.
+
+155
+00:16:04,400 --> 00:16:06,400
+That's part of his plane.
+
+156
+00:16:06,400 --> 00:16:14,640
+And it's unclear, boy, is it unclear, how the understanding does not become something different, it becomes itself.
+
+157
+00:16:15,680 --> 00:16:22,960
+But how it does that, but it's also somehow the precondition of interpretation.
+
+158
+00:16:22,961 --> 00:16:30,801
+And how can it be both the precondition of interpretation and become itself in interpretation?
+
+159
+00:16:30,801 --> 00:16:32,641
+It seems very puzzling.
+
+160
+00:16:32,880 --> 00:17:02,241
+What you want to do, we haven't done it yet, but I keep saying it, is separate as much as possible the phenomenon of understanding, which is this primary kind, the phenomenon of interpretation, so that you can do it and do it in a way so that you can make sense of the fact that interpretation is somehow the working out of the understanding, and yet, period.
+
+161
+00:17:02,241 --> 00:17:03,041
+That's right.
+
+162
+00:17:03,041 --> 00:17:16,241
+Okay, yes, that it somehow grows out of the understanding, but it does it in a way that it preserves the understanding aspect of the understanding somehow.
+
+163
+00:17:16,241 --> 00:17:18,241
+Yeah, if you look puzzled, that's all right.
+
+164
+00:17:19,521 --> 00:17:24,160
+He begins, I think, with a big puzzle on 188 there.
+
+165
+00:17:24,160 --> 00:17:30,400
+But then I was going to go to 189, where he starts sort of telling us more about the phenomenon.
+
+166
+00:17:30,400 --> 00:17:33,360
+So let's look now at 189.
+
+167
+00:17:33,360 --> 00:17:49,161
+In the German, we're at the bottom of 148, and it says to say about the second sentence of the, well, we might as well begin that paragraph.
+
+168
+00:17:49,160 --> 00:18:07,160
+In terms of the significance which is disclosed in understanding the world, concernful being emits the ready-to-hand, gives itself to understand whatever involvement that which is encountered can have.
+
+169
+00:18:07,160 --> 00:18:09,401
+Well, that's keep thinking about a door.
+
+170
+00:18:09,400 --> 00:18:15,080
+So somehow what's disclosed is something is disclosed as a door.
+
+171
+00:18:15,080 --> 00:18:23,320
+And now, but we don't know whether that means that you just use it to go out or that you see it as a door.
+
+172
+00:18:23,320 --> 00:18:24,920
+He hasn't settled that yet.
+
+173
+00:18:24,920 --> 00:18:32,761
+To say that circumspection discovers means that the world, which has already been understood, comes to be interpreted.
+
+174
+00:18:32,761 --> 00:18:36,521
+Okay, it looks, I just want to keep stressing this because this is my side.
+
+175
+00:18:36,521 --> 00:18:40,360
+It looks like something could be understood and not interpreted.
+
+176
+00:18:40,360 --> 00:18:44,281
+That is, so interpretation does not go all the way down.
+
+177
+00:18:44,281 --> 00:18:46,921
+That's how so many people miss that.
+
+178
+00:18:47,001 --> 00:18:52,600
+So the ready, and it's a what's already been understood comes to be interpreted.
+
+179
+00:18:52,600 --> 00:18:53,880
+Think about the door.
+
+180
+00:18:53,880 --> 00:19:02,600
+What's already been understood in the sense that it's the two go out, and when it's to when you're going somewhere, it draws you to go out.
+
+181
+00:19:02,840 --> 00:19:04,361
+It comes to be interpreted.
+
+182
+00:19:04,360 --> 00:19:05,640
+And what does that mean?
+
+183
+00:19:05,640 --> 00:19:12,840
+Well, he says the ready to hand, that's the door, comes explicitly into the sight which understands.
+
+184
+00:19:12,840 --> 00:19:28,000
+See, I think that already means what was already a door, which on reflection or when you observe it, you see as a door, can come into the coping, the ready-to-hand.
+
+185
+00:19:28,640 --> 00:19:43,521
+But if it comes into the coping as a door, which it can, then when you're studying it or when there's something wrong with it, then it comes explicitly into a sight which understands.
+
+186
+00:19:43,840 --> 00:19:45,360
+That's not obscure.
+
+187
+00:19:46,080 --> 00:19:50,400
+You can, instead of just going out the door, pay attention to the door.
+
+188
+00:19:50,400 --> 00:19:51,680
+I mean, he's not denying it.
+
+189
+00:19:51,680 --> 00:19:52,561
+He's not crazy.
+
+190
+00:19:52,561 --> 00:19:54,640
+You can go out the door as a door.
+
+191
+00:19:54,640 --> 00:19:58,000
+You can respond to affordances as affordances.
+
+192
+00:19:58,001 --> 00:20:01,440
+And when you do, you're at the level of interpretation.
+
+193
+00:20:03,521 --> 00:20:07,120
+It's when what you're doing becomes explicit.
+
+194
+00:20:08,561 --> 00:20:10,481
+And then immediately he explains it.
+
+195
+00:20:10,481 --> 00:20:11,920
+And this is the phenomenon.
+
+196
+00:20:11,920 --> 00:20:17,920
+All preparing, putting to rights, repairing, improving, rounding out are accomplished in the following way.
+
+197
+00:20:17,920 --> 00:20:27,360
+We take a part, and it's in order to, that which is circumspectively ready to hand, and we concern ourselves with it in accordance with what becomes visible through this process.
+
+198
+00:20:27,680 --> 00:20:34,480
+So we get, I guess the simplest thing to say is we notice it.
+
+199
+00:20:34,481 --> 00:20:42,561
+When it becomes explicit to a sight which understands, and it becomes visible, that means we notice it.
+
+200
+00:20:42,561 --> 00:20:47,281
+It's invisible when we're just, the doorknob, for instance, is invisible.
+
+201
+00:20:47,281 --> 00:20:49,600
+It isn't in a sight which understands.
+
+202
+00:20:49,840 --> 00:20:55,920
+And it isn't explicit when we're just going through the door in affordance way.
+
+203
+00:20:55,921 --> 00:21:06,640
+But if the doorknob sticks, or if the doorknob is the wrong kind, we're used to round kinds, but this is the straight kind and we haven't ever seen one before or something, then we can notice it.
+
+204
+00:21:06,640 --> 00:21:09,240
+Then it comes into the sight which understands.
+
+205
+00:21:09,241 --> 00:21:12,600
+That's what he's going to call interpretation.
+
+206
+00:21:08,400 --> 00:21:13,561
+So let's go on.
+
+207
+00:21:13,880 --> 00:21:23,080
+That which has been circumspectively taken apart with regard to its inordered to and taken apart as such, that which is explicitly understood has the structure of something as something.
+
+208
+00:21:23,080 --> 00:21:27,801
+Okay, as soon as you notice it, you notice it as something.
+
+209
+00:21:28,521 --> 00:21:38,920
+The circumspective question as to what this particular thing that is ready to hand may be receives the circumspectively interpretive answer that it is for such and such a purpose.
+
+210
+00:21:39,400 --> 00:21:42,760
+That's now, that's the phenomenon.
+
+211
+00:21:42,761 --> 00:21:44,201
+It's not all that mysterious.
+
+212
+00:21:44,920 --> 00:21:52,201
+It's just hard to sort it out because they are all these phenomena that are very sort of close to each other.
+
+213
+00:21:52,360 --> 00:21:54,360
+I'm going to skip a little and go on then.
+
+214
+00:21:54,680 --> 00:22:05,640
+That which is disclosing understanding, that which is understood, is already accessible in such a way that its as which can be made to stand out explicitly.
+
+215
+00:22:05,640 --> 00:22:14,201
+That means, in my talk, that it's already got an inorder to, a function.
+
+216
+00:22:14,201 --> 00:22:25,960
+It's already, and that, and we're responding to that function as we get pulled out in being drawn to go out, as I keep saying.
+
+217
+00:22:25,961 --> 00:22:29,160
+And that can be made explicit.
+
+218
+00:22:29,160 --> 00:22:33,080
+And that's, again, then it's seen as a door.
+
+219
+00:22:33,080 --> 00:22:37,480
+The as makes up the structure of the explicitness of something that is understood.
+
+220
+00:22:37,481 --> 00:22:39,960
+It constitutes the interpretation.
+
+221
+00:22:39,961 --> 00:22:42,440
+And that's where he introduces.
+
+222
+00:22:42,441 --> 00:22:47,640
+So interpretation, explicit, noticed, all go together.
+
+223
+00:22:47,640 --> 00:22:56,480
+In dealing with what is environmental ready to hand, by interpreting it circumspectively, we see it as a table, a door, a carriage, or a bridge.
+
+224
+00:22:53,400 --> 00:22:58,401
+Notice that.
+
+225
+00:22:58,561 --> 00:23:08,001
+It doesn't say in dealing with what is environmentally ready to hand, period, we see it as a table.
+
+226
+00:23:08,241 --> 00:23:10,160
+It's important to get it straight.
+
+227
+00:23:10,160 --> 00:23:21,761
+In dealing with what is environmentally ready to hand by interpreting it circumspectively, circumspectively doesn't help much because either you do understanding circumspectively too.
+
+228
+00:23:21,761 --> 00:23:25,680
+Circumspectively means you're taking account of the context.
+
+229
+00:23:25,680 --> 00:23:38,561
+Even when you go out the door in your most understanding way, that is just drawn out the door, you take account of the doorknob, otherwise you couldn't turn it and get out.
+
+230
+00:23:38,561 --> 00:23:43,920
+And so this basic taking account, which isn't noticing, which is, it's invisible.
+
+231
+00:23:43,920 --> 00:23:48,480
+It's just that your skill meshes with the familiarity.
+
+232
+00:23:48,481 --> 00:23:50,801
+But circumspection is always there.
+
+233
+00:23:50,801 --> 00:23:55,281
+I mean, it's the way you take account of the familiarity and the situation.
+
+234
+00:23:55,281 --> 00:23:59,200
+But when you do the circumspection, how does it say this here?
+
+235
+00:23:59,441 --> 00:24:01,281
+I'm just going to find it again.
+
+236
+00:24:02,561 --> 00:24:04,640
+I've lost it already.
+
+237
+00:24:06,561 --> 00:24:15,601
+In dealing with what is environmentally ready to hand by interpreting it circumspectively, then you see it as a table, a door, a carriage, or a bridge.
+
+238
+00:24:15,600 --> 00:24:17,840
+He's not saying that that's what you always do.
+
+239
+00:24:18,160 --> 00:24:30,801
+I'm constantly fighting off about five or ten generations of TAs who think this sentence says, or PhDs, who think this sentence says, well, whenever you're dealing with anything, you see it as something.
+
+240
+00:24:30,801 --> 00:24:32,561
+I think that's wrong.
+
+241
+00:24:32,880 --> 00:24:41,880
+So, skipping down a little more, any mere pre-predicated seeing of the ready-to-hand is in itself something which already understands and interprets.
+
+242
+00:24:38,481 --> 00:24:43,480
+Now, that's complicated.
+
+243
+00:24:45,400 --> 00:24:57,721
+That's because, I think, that there is something where predicative sounds like substances with properties, or bringing it under the concept door.
+
+244
+00:24:58,041 --> 00:25:15,880
+And he's saying, well, there's a kind of seeing of the ready-to-hand which understands and interprets, which is pre-predicative, not substance with properties, and pre-conceptual, and so forth.
+
+245
+00:25:15,880 --> 00:25:22,201
+Well, that would be a big headache if it weren't that he's already told you exactly what that is.
+
+246
+00:25:22,201 --> 00:25:23,241
+Do you recognize that?
+
+247
+00:25:23,241 --> 00:25:34,360
+Does anybody recognize what it would be like to see something as something, but not see it as a substance with properties, with context-free properties?
+
+248
+00:25:34,360 --> 00:25:38,680
+How about seeing it as something with contextual, something or others?
+
+249
+00:25:39,001 --> 00:25:42,200
+Aspects, does that ring any bell with anybody?
+
+250
+00:25:43,160 --> 00:25:45,720
+What about the hammer that's too heavy?
+
+251
+00:25:45,721 --> 00:26:02,281
+Seeing the hammer, experiencing the hammer as too heavy, is a pre-predicative form of, if I understand it right, interpretation, because it's already experiencing it as too heavy.
+
+252
+00:26:02,281 --> 00:26:03,801
+That's what we're talking about.
+
+253
+00:26:03,801 --> 00:26:06,601
+Or I'm experiencing that the hammer is too heavy.
+
+254
+00:26:06,600 --> 00:26:12,121
+It's already, as the analytic people would be important, find important to say, propositional.
+
+255
+00:26:12,761 --> 00:26:15,080
+I experience that the hammer is too heavy.
+
+256
+00:26:15,080 --> 00:26:19,320
+I don't experience the bang of anything when the hammering is going well.
+
+257
+00:26:19,640 --> 00:26:23,761
+So there is a, so there is basic understanding.
+
+258
+00:26:22,521 --> 00:26:26,640
+It isn't predicative for sure.
+
+259
+00:26:22,840 --> 00:26:30,240
+That is, I'm certainly not understanding the hammer weighs five pounds.
+
+260
+00:26:30,561 --> 00:26:34,880
+It's not even pre-predicative if the hammer isn't too heavy.
+
+261
+00:26:35,201 --> 00:26:43,440
+But if the hammer is too heavy, then you pay attention, notice, you see it, all that talk.
+
+262
+00:26:43,680 --> 00:26:52,720
+And so he goes on: any near pre-predicative seeing of the ready-to-hand is in itself something which already understands and interprets.
+
+263
+00:26:52,721 --> 00:26:56,241
+Yes, which doesn't mean that every time you understand, you interpret.
+
+264
+00:26:56,241 --> 00:26:57,761
+That's the mistake.
+
+265
+00:26:58,080 --> 00:27:03,841
+But does not the absence of such an as make up the nearness of any pure perception of something?
+
+266
+00:27:03,841 --> 00:27:09,120
+Whenever we see with this kind of sight, we already do so understandingly and interpretively.
+
+267
+00:27:09,120 --> 00:27:10,801
+That's the same thing.
+
+268
+00:27:14,561 --> 00:27:18,961
+I don't want to read further, but except to myself to see that I haven't left anything out.
+
+269
+00:27:34,720 --> 00:27:36,481
+Well, that's a hard one at the bottom.
+
+270
+00:27:36,640 --> 00:27:39,921
+I wasn't going to talk about it, but I feel I have to.
+
+271
+00:27:40,561 --> 00:27:48,080
+In the mere encountering of something, it is understood in terms of a totality of involvements.
+
+272
+00:27:48,080 --> 00:28:09,801
+I take that to mean that you understood, when you understand the door as to go out, or the table as to put the lectern on, your familiarity and your skillful coping already has in it, so to speak, an understanding of the referential totality.
+
+273
+00:28:09,800 --> 00:28:18,041
+That is, you understand that the door leads to the floor and the floor supports you and all that, and you don't think any of that.
+
+274
+00:28:18,041 --> 00:28:30,681
+But you, because you've got this familiarity, which you've developed all from since you were a kid, of all this stuff, which all is interrelated, the table, the chair, the lectern, the lights, the blackboard, and so forth.
+
+275
+00:28:30,680 --> 00:28:48,360
+When I, even when I transparently, that is unreflectively, unnoticingly, but because my mind is on what I'm trying to teach, I'm writing something on the blackboard, my understanding is already taking, see, now you've got to be careful.
+
+276
+00:28:48,361 --> 00:28:57,640
+I mean, you can say my understanding is already taking account of the blackboard as part of the referential totality, but you've got to be very careful there.
+
+277
+00:28:58,441 --> 00:29:05,481
+You don't mean that that's part of your, that you have to think about that or notice it or anything like that.
+
+278
+00:29:05,481 --> 00:29:16,921
+It's just, like circumspection at the bottom level, part of what, part of the way your familiarity is always right there in your absorbed coping.
+
+279
+00:29:16,921 --> 00:29:22,120
+I mean, if things lead you to respond in such and such a skillful way, let's change to my other example.
+
+280
+00:29:22,680 --> 00:29:36,120
+If when it's hot in the room, you're just drawn to open the window, you already related to the window as part of the referential totality for getting fresh air into something called rooms where people go and sit and breathe and so forth.
+
+281
+00:29:36,120 --> 00:29:41,641
+But none of that needs to be in any way in your mind.
+
+282
+00:29:41,640 --> 00:29:54,321
+It's just what I'm calling in other places a myth of the mental to say, well, then you've got to judge that it's a window and judge that it's for fresh air and remember that it'll cool down the room.
+
+283
+00:29:54,321 --> 00:29:54,960
+Of course not.
+
+284
+00:29:54,961 --> 00:29:56,241
+None of that.
+
+285
+00:29:56,240 --> 00:29:57,041
+Is that all right?
+
+286
+00:29:53,321 --> 00:30:00,320
+I mean, people are looking a little dazed for some reason.
+
+287
+00:30:00,561 --> 00:30:01,441
+You're looking dazed.
+
+288
+00:30:01,441 --> 00:30:01,600
+Yeah.
+
+289
+00:30:01,921 --> 00:30:02,800
+Go ahead first.
+
+290
+00:30:02,800 --> 00:30:03,200
+Yeah.
+
+291
+00:30:20,080 --> 00:30:22,801
+Yeah, well, let me say yes and no.
+
+292
+00:30:22,800 --> 00:30:25,040
+That is, no wonder you're puzzled.
+
+293
+00:30:25,041 --> 00:30:44,400
+Understanding can exist alone without interpretation, even though your skill and the affordances that your skill meshes with are already the skills that you develop so that the referential totality is built into the affordances.
+
+294
+00:30:44,401 --> 00:30:46,161
+But that's still understanding.
+
+295
+00:30:46,160 --> 00:30:54,321
+But then if you have an interpretation, that is, if you notice what you're doing, the understanding has got to be there already and stay there.
+
+296
+00:30:54,321 --> 00:30:58,160
+So you never get interpretation without understanding, answer you.
+
+297
+00:30:58,160 --> 00:31:01,281
+But you can have understanding without interpretation.
+
+298
+00:31:01,280 --> 00:31:17,521
+Before you say anything, Dave, I want to read something because he just said something that Heidegger was expecting him to say and answered on page 160 of his lecture course, The History of the Concept of Time.
+
+299
+00:31:17,521 --> 00:31:19,120
+No, it's not 160.
+
+300
+00:31:19,120 --> 00:31:20,720
+Okay, well, I don't find it.
+
+301
+00:31:21,760 --> 00:31:23,521
+How about 260?
+
+302
+00:31:24,481 --> 00:31:25,361
+Yes.
+
+303
+00:31:35,921 --> 00:31:38,561
+Well, it isn't quite right on, but it's very relevant.
+
+304
+00:31:39,001 --> 00:31:46,200
+Interpretation as such does not actually disclose, for that is what understanding itself takes care of.
+
+305
+00:31:46,280 --> 00:31:47,960
+See, that's relevant to what you're saying.
+
+306
+00:31:47,961 --> 00:31:50,120
+That's always got to be there.
+
+307
+00:31:50,120 --> 00:31:58,441
+Interpretation always only takes care of bringing out what is disclosed as a cultivation of the possibilities inherent in the understanding.
+
+308
+00:31:58,441 --> 00:32:01,481
+That means, you know, noticing it as a door.
+
+309
+00:32:01,481 --> 00:32:12,600
+You can do that, but it can't be disclosed as a door except on this bottom level of familiarity and coping, responding data.
+
+310
+00:32:16,280 --> 00:32:21,481
+Would there be in your view the frank thing?
+
+311
+00:32:21,481 --> 00:32:23,720
+Oh, in one way.
+
+312
+00:32:25,961 --> 00:32:26,760
+Well, good.
+
+313
+00:32:32,600 --> 00:32:34,440
+Well, that's a trick question.
+
+314
+00:32:34,441 --> 00:32:41,161
+I mean, that's the kind of question that causes years of argument between me and everybody else.
+
+315
+00:32:41,160 --> 00:33:09,401
+So I want to say, and this is just apropos exactly of what we're talking about, you can have an I mean, let's, if understanding means noticing, you can, and seeing as, and thinking about it, so forth, any of that, then understanding, and if that stuff is what interpretation does, make explicit and notice, you can certainly have understanding without interpretation.
+
+316
+00:33:09,401 --> 00:33:37,680
+However, since your familiarity is familiarity with a world, and a world already has an ad structure all over it in the referential hole, doors are for going out and so forth, insofar as your skill meshes with the world, it's already got an implicit as structure, but you've got to be very careful.
+
+317
+00:33:37,680 --> 00:33:38,801
+That's what you're asking about.
+
+318
+00:33:38,800 --> 00:33:58,001
+Implicit as structure means, and this is the very tricky part, that you can get out of your absorption and notice what you're doing, and you'll discover that you're using the door as a door, and it already was a door, and it already had the function of going out.
+
+319
+00:33:58,001 --> 00:33:59,041
+That's fine.
+
+320
+00:33:59,041 --> 00:34:14,321
+But if you want to stick to what you're experiencing when you're going out at the basic level of understanding, then you're not experiencing this as stuff, you're just dealing with it, and it's drawing you to do the appropriate thing.
+
+321
+00:34:14,321 --> 00:34:27,681
+So the trick is, all around this business of explicitly, you make the, to make the as structure explicit could mean it's there in your experience already, but you haven't noticed it.
+
+322
+00:34:27,680 --> 00:34:30,001
+That's what I think is the wrong thing to say.
+
+323
+00:34:30,481 --> 00:34:32,000
+Well, no, even that's not wrong.
+
+324
+00:34:32,401 --> 00:34:38,320
+It's there in what you're experiencing, namely the door.
+
+325
+00:34:38,640 --> 00:34:42,161
+But it's not there in your experience.
+
+326
+00:34:42,160 --> 00:34:46,481
+And you've got to be very careful, or you'll become a cognitivist.
+
+327
+00:34:46,481 --> 00:34:48,640
+It's a big, it's right on the horizon.
+
+328
+00:34:48,640 --> 00:35:08,160
+If you think that what you figure out later or notice later, namely the as structure, is already there in some way implicitly, you've got to be very clear that you don't mean that it's that there is anything, well, what?
+
+329
+00:35:08,160 --> 00:35:08,481
+I don't know.
+
+330
+00:35:09,001 --> 00:35:20,361
+If I could put it any clearer, you don't mean that when you do notice the as structure of your experience, you notice what has been there all along.
+
+331
+00:35:20,361 --> 00:35:26,600
+What you notice is not the as structure of your experience, but your as structure of the world, which has been there all along.
+
+332
+00:35:26,600 --> 00:35:28,600
+And that's the implicit.
+
+333
+00:35:29,240 --> 00:35:31,241
+That's in your skill.
+
+334
+00:35:31,881 --> 00:35:41,001
+Your skill of just responding to the two go out has already is the skill it is because doors do what doors do.
+
+335
+00:35:41,720 --> 00:35:48,920
+And therefore, when you reflect, you can always make explicit that you were using the door as a door.
+
+336
+00:35:50,120 --> 00:35:51,001
+Is that any help?
+
+337
+00:35:51,001 --> 00:35:52,680
+It's very subtle.
+
+338
+00:35:55,961 --> 00:35:59,720
+It's interpreting, but it's not yet taking something apart.
+
+339
+00:36:02,200 --> 00:36:09,001
+Okay, well, as long as, but if you define interpreting as taking something as something, which he does, you can't have that.
+
+340
+00:36:09,001 --> 00:36:31,080
+Except that I'm trying to give justice to just your position, saying, but it's in the familiarity already, and you're acting out of your familiarity, and your familiarity is to, so to speak, you've been trained up in your culture, with doors and so forth, to treat doors as doors.
+
+341
+00:36:31,080 --> 00:36:36,201
+But that's, you know, well, but that's not what he's going to call interpretation, I think.
+
+342
+00:36:36,680 --> 00:36:47,640
+Because he's pretty clear that you can have understanding without interpretation in that passage I read from the concept of time, but you can't have interpretation without understanding.
+
+343
+00:36:48,280 --> 00:36:52,041
+If you want to put in a slogan, that's what I'm trying to say over and over and over.
+
+344
+00:36:52,041 --> 00:36:59,441
+That's why I knew exactly where it was in basic history concept of time because he's trying to say it over and over in his lectures.
+
+345
+00:36:59,441 --> 00:37:00,160
+I see a hand.
+
+346
+00:37:00,160 --> 00:37:01,441
+Yeah, Tyler.
+
+347
+00:37:12,561 --> 00:37:13,360
+Uh-huh.
+
+348
+00:37:13,361 --> 00:37:14,801
+Well, that is serious.
+
+349
+00:37:14,800 --> 00:37:20,401
+If that's what he says, everything I've said for the last hour is wrong.
+
+350
+00:37:20,401 --> 00:37:21,520
+So let's look at it.
+
+351
+00:37:21,521 --> 00:37:22,481
+What page?
+
+352
+00:37:28,800 --> 00:37:31,120
+Oh, well, that's all very, very relevant.
+
+353
+00:37:31,120 --> 00:37:32,961
+So let's look at it.
+
+354
+00:37:34,561 --> 00:37:38,080
+He's talking about, let's start at the top of 200.
+
+355
+00:37:38,080 --> 00:37:40,961
+In German, we're at the middle of 157.
+
+356
+00:37:41,280 --> 00:37:44,961
+But to what extent does it become a derivative mode of interpretation?
+
+357
+00:37:44,961 --> 00:37:47,760
+Let's see, what have we modified in it, whatever that is?
+
+358
+00:37:47,760 --> 00:37:51,680
+We can point out the modification if we stick to certain limiting cases.
+
+359
+00:37:51,680 --> 00:37:53,441
+Oh, I don't know whether this is too far ahead.
+
+360
+00:37:53,441 --> 00:37:54,561
+Let's skip down.
+
+361
+00:37:54,561 --> 00:37:56,961
+The hammer is heavy, then so forth.
+
+362
+00:37:56,961 --> 00:37:57,521
+That's good.
+
+363
+00:37:57,521 --> 00:38:01,041
+The thing, a hammer has the property of heaviness.
+
+364
+00:38:01,041 --> 00:38:05,600
+Well, of course, that's already different than to say it's too heavy.
+
+365
+00:38:05,760 --> 00:38:08,800
+Let me remind you: aspects are situational.
+
+366
+00:38:08,800 --> 00:38:14,001
+When the hammer is too heavy, it's too heavy for me at this time with this job.
+
+367
+00:38:14,001 --> 00:38:19,120
+It isn't when you put it on the shelf and see it just sitting there, too heavy.
+
+368
+00:38:19,120 --> 00:38:21,040
+That's not a property of the hammer.
+
+369
+00:38:21,041 --> 00:38:24,241
+That's something that comes out of our relation to the hammer.
+
+370
+00:38:24,240 --> 00:38:29,600
+However, if the hammer weighs five pounds, that's a property of the hammer.
+
+371
+00:38:29,600 --> 00:38:36,241
+No matter how strong or weak I am, whether the hammer's on the shelf or I'm hammering with it, it always weighs five pounds.
+
+372
+00:38:36,240 --> 00:38:45,000
+Properties just in here in substances, and they are not situational, but aspects like too heavy do.
+
+373
+00:38:45,001 --> 00:38:47,561
+Now, whether that's going to be important here, I don't know.
+
+374
+00:38:47,561 --> 00:38:49,720
+The hammer has the property of heaviness.
+
+375
+00:38:49,720 --> 00:38:50,680
+Okay, no, no, no, no, no.
+
+376
+00:38:51,481 --> 00:38:54,280
+Now, where are we going to go, Tyler?
+
+377
+00:38:54,280 --> 00:39:04,440
+Interpretation is carried out primordially, not no, where oh, that's what I was just reading.
+
+378
+00:39:04,441 --> 00:39:07,880
+Okay, I'll read it because I could put it on the pod.
+
+379
+00:39:08,200 --> 00:39:23,561
+Interpretations is carried out primordially, not in a theoretical statement, but in an action of circumspective concern, laying aside the unsuitable tool or exchanging it without wasting words.
+
+380
+00:39:23,561 --> 00:39:25,320
+Huh, that's interesting.
+
+381
+00:39:25,561 --> 00:39:36,360
+Well, that suggests from the fact that words are absence, it may not be concluded that interpretation is accurate.
+
+382
+00:39:36,441 --> 00:39:37,561
+That's right.
+
+383
+00:39:39,800 --> 00:39:44,921
+The kind of interpretation which is expressed is not all in an assertion.
+
+384
+00:39:46,841 --> 00:39:48,120
+Interpretation.
+
+385
+00:39:51,001 --> 00:39:55,240
+See, I think, and what Tyler says, I think it's a question of the context here.
+
+386
+00:39:55,240 --> 00:40:19,961
+I think that he's talking about interpretation, and he's saying it's not theoretical there, but it's already situational, like too heavy, and you lay aside the unsuitable tool without wasting words, yes, but at that point, you're already no longer just pressing into the affordances.
+
+387
+00:40:19,961 --> 00:40:34,641
+You come into a problem, and he's trying to say the problem doesn't require reflection and it doesn't require assertions, which is what he's thinking about, but you can respond directly to the problem.
+
+388
+00:40:35,120 --> 00:40:44,880
+But as soon as you are responding to the hammer as too heavy, if that's part of your experience, then it's already interpretive.
+
+389
+00:40:45,200 --> 00:40:46,561
+That's how I'm going to read that.
+
+390
+00:40:46,881 --> 00:40:49,600
+When we get there, keep your eyes open when you get there.
+
+391
+00:40:49,600 --> 00:40:52,641
+See if you think that's right.
+
+392
+00:40:53,600 --> 00:40:56,481
+Okay, good problems.
+
+393
+00:40:56,961 --> 00:40:59,600
+Now, back to this.
+
+394
+00:40:59,921 --> 00:41:01,041
+Where are we?
+
+395
+00:41:02,881 --> 00:41:04,160
+Oh, it's funny.
+
+396
+00:41:05,361 --> 00:41:09,120
+I've got a quote here on 189, which has to do with this pre-predicate.
+
+397
+00:41:09,120 --> 00:41:10,080
+Oh, that's what I just read.
+
+398
+00:41:10,080 --> 00:41:12,080
+It's the same, that's what we're talking about.
+
+399
+00:41:12,080 --> 00:41:13,281
+We've just done it.
+
+400
+00:41:13,280 --> 00:41:16,481
+So let me go on and look at my notes some more.
+
+401
+00:41:23,521 --> 00:41:26,400
+I say back here on 261, he says it again.
+
+402
+00:41:26,401 --> 00:41:28,000
+Let's see if that's helped.
+
+403
+00:41:28,321 --> 00:41:35,360
+Remember, of course, that the lectures are always interesting because he's always trying to say clearer what he's so.
+
+404
+00:41:35,361 --> 00:41:41,361
+Let's look at 261 at the top of 261 of the history of the concept of time for a minute.
+
+405
+00:41:41,361 --> 00:41:45,281
+I don't know what I'm going to get when I read this, but I marked it, so it must be important.
+
+406
+00:41:48,640 --> 00:42:00,001
+Interpretation, I'm about five lines down and putting together some stuff, brings to prominence as what the encountered thing can be taken, how it is to be understood.
+
+407
+00:42:00,001 --> 00:42:15,640
+The primary form of all interpretation as the cultivation of understanding, that is, making something more out of understanding, is the consideration of something in terms of the as what, considering something as something.
+
+408
+00:42:15,800 --> 00:42:16,680
+Oh, we're back to that.
+
+409
+00:42:16,841 --> 00:42:18,521
+I don't think he's saying anything new there.
+
+410
+00:42:18,521 --> 00:42:21,241
+So maybe I'm looking in the wrong place.
+
+411
+00:42:21,240 --> 00:42:25,801
+Yeah, well, it doesn't hurt to repeat it, but we repeated it a dozen times.
+
+412
+00:42:27,401 --> 00:42:30,521
+So we're getting to where the as comes into it.
+
+413
+00:42:40,921 --> 00:42:45,241
+So I want to say, and I put it in here, but I have to put it someplace.
+
+414
+00:42:45,240 --> 00:42:54,200
+One of the problems is it hasn't really sort of perturbed this conversation, which is good, but it could, and you've got to, so I'll warn you.
+
+415
+00:42:54,200 --> 00:42:59,640
+Remember that understanding means two, or I think now three different things when Heidegger uses it.
+
+416
+00:42:59,640 --> 00:43:01,080
+I'll tell you the third one in a minute.
+
+417
+00:43:01,080 --> 00:43:02,681
+But let's just do the first two.
+
+418
+00:43:03,481 --> 00:43:13,161
+Understanding always has got in it the relation to the ultimate for the sake of which it's part of the familiarity.
+
+419
+00:43:13,160 --> 00:43:16,361
+And you can have that kind of understanding.
+
+420
+00:43:16,361 --> 00:43:23,800
+That is, I can be, it's because, I don't want to say as a teacher, that's not right.
+
+421
+00:43:23,800 --> 00:43:26,120
+It's because I am a teacher.
+
+422
+00:43:26,120 --> 00:43:34,281
+Remember, you design, I should say so this: the Dasein, remember, he says, in understanding is its possibilities.
+
+423
+00:43:34,280 --> 00:43:39,481
+So I am a teacher, and that's at the level of understanding.
+
+424
+00:43:39,481 --> 00:43:43,080
+It doesn't require noticing anything or thinking about anything.
+
+425
+00:43:43,080 --> 00:43:47,400
+So, that both at the top, I'm just repeating something I said last time, but I think it's important.
+
+426
+00:43:47,800 --> 00:44:06,880
+Something interesting that Heidegger's seen, that understanding at the highest level, primordial understanding of me as a teacher, which isn't something you can represent and aim for at all, because it's about a possibility that I am, not a possibility that I can achieve.
+
+427
+00:44:06,881 --> 00:44:10,241
+You never achieve being a teacher, you just are.
+
+428
+00:44:10,240 --> 00:44:16,880
+At the highest level, possibility is higher than actuality, he says, and you are your possibility.
+
+429
+00:44:16,881 --> 00:44:22,641
+It's clear for being a teacher, but it's also clear for responding to the affordance of going out the door.
+
+430
+00:44:24,481 --> 00:44:36,401
+It isn't as if going out the door is the kind of possibility which will become, which you can represent as a goal and then achieve it.
+
+431
+00:44:36,401 --> 00:44:41,041
+At this basic level, you don't represent it as a goal and then achieve it.
+
+432
+00:44:41,041 --> 00:44:43,441
+You just are.
+
+433
+00:44:43,441 --> 00:44:48,721
+I mean, you're so absorbed in what you're doing, this is the way to put it, that you aren't even there.
+
+434
+00:44:48,881 --> 00:44:51,120
+You just are the going out the door.
+
+435
+00:44:51,120 --> 00:45:09,841
+So, he sees at the both levels, that there's the highest and the lowest, that there's a sense in which you can be the possibility instead of it being something, instead of sort of waiting to the actuality, waiting to succeed at whatever.
+
+436
+00:45:10,640 --> 00:45:13,361
+If I could find it instantly, it's on 404.
+
+437
+00:45:13,361 --> 00:45:16,881
+What I'm saying is in here.
+
+438
+00:45:17,041 --> 00:45:26,561
+This has got something to do with not being a subject at the level of that he's interested in.
+
+439
+00:45:26,561 --> 00:45:31,201
+Okay, this is a very interesting sentence in 405, just in the middle of nowhere.
+
+440
+00:45:31,200 --> 00:45:32,321
+Meet.
+
+441
+00:45:34,961 --> 00:45:48,521
+Remember, I say that he's also interested in showing that at the basic level of coping, you are not a self or anything like a subject.
+
+442
+00:45:49,321 --> 00:45:51,800
+You just are the absorbed coping.
+
+443
+00:45:51,961 --> 00:45:56,600
+That sounds like a weird thing to say, but I'm sure he understands it and believes it.
+
+444
+00:45:56,600 --> 00:46:13,721
+The middle of 405, right sort of halfway into 354 in the German, the middle of 405, this funny paragraph, a specific kind of forgetting is essential for the temporality that's constitutive for letting something be involved.
+
+445
+00:46:13,720 --> 00:46:15,800
+The self must forget itself.
+
+446
+00:46:15,800 --> 00:46:22,201
+If lost in the world of equipment, it is to be able actually to go to work and manipulate something.
+
+447
+00:46:22,521 --> 00:46:24,280
+Now, that's fascinating.
+
+448
+00:46:24,280 --> 00:46:32,841
+And that just says if you're really coping, if you're really in flow, if you're really absorbed, you have to lose track.
+
+449
+00:46:32,841 --> 00:46:34,040
+There isn't any you.
+
+450
+00:46:34,041 --> 00:46:36,441
+There's just coping going on.
+
+451
+00:46:36,441 --> 00:46:40,200
+And the more you're absorbed, the better the coping.
+
+452
+00:46:40,200 --> 00:46:50,120
+And if you really, as he says, if you, quote, actually go to work, that is, if you're really involved, you don't have a self.
+
+453
+00:46:50,120 --> 00:46:54,760
+So at that bottom level, you don't have the self.
+
+454
+00:46:54,760 --> 00:46:57,241
+So all I'm saying, why am I saying this?
+
+455
+00:46:57,240 --> 00:46:58,841
+I'm answering something.
+
+456
+00:47:00,680 --> 00:47:02,201
+Nobody remember?
+
+457
+00:47:02,600 --> 00:47:05,000
+Maybe if I look here, I'll know why I'm saying this.
+
+458
+00:47:11,401 --> 00:47:16,041
+Oh, well, yeah, I'm talking about the three meanings of understanding that I want to warn you about.
+
+459
+00:47:16,041 --> 00:47:19,161
+And I'm saying that there is this bottom level.
+
+460
+00:47:19,160 --> 00:47:40,721
+And oh, yeah, and I was just doing the parallel between the two kinds that we talked about last time: the primordial and the primary levels of understanding, that is, the for the sake of which kind and the just being drawn into it kind, are such that you just get completely absorbed.
+
+461
+00:47:41,441 --> 00:47:45,840
+You don't represent the situation and so forth.
+
+462
+00:47:45,841 --> 00:47:47,120
+You just do it.
+
+463
+00:47:47,120 --> 00:47:53,681
+I'm just doing my teacher thing, and I'm just doing my lecture and thing at the top level and the bottom level.
+
+464
+00:47:53,680 --> 00:47:59,281
+And I'm so absorbed there isn't even any special me monitoring what's going on.
+
+465
+00:47:59,280 --> 00:48:04,160
+But now, what I want to tell you is that there's a third kind, a third use of understanding.
+
+466
+00:48:04,160 --> 00:48:06,561
+No big deal, but just getting the language straight.
+
+467
+00:48:06,561 --> 00:48:09,361
+It isn't a new phenomenon at all.
+
+468
+00:48:09,361 --> 00:48:13,040
+Okay, so there are three different ways he uses understanding.
+
+469
+00:48:13,361 --> 00:48:16,001
+Primordial existential structure.
+
+470
+00:48:16,001 --> 00:48:17,201
+That's the new one.
+
+471
+00:48:17,200 --> 00:48:20,401
+Then there's the primary one, which we just talked about.
+
+472
+00:48:22,240 --> 00:48:25,041
+But you have to go back now and do them in this new order.
+
+473
+00:48:25,760 --> 00:48:32,401
+Understanding is the name for primordial existential structure.
+
+474
+00:48:32,401 --> 00:48:34,001
+I'm going to give you a chart next time.
+
+475
+00:48:34,001 --> 00:48:36,401
+I promised it this time, but I didn't finish it.
+
+476
+00:48:36,401 --> 00:48:41,041
+But there is a level of these primordial existential structures.
+
+477
+00:48:41,041 --> 00:48:42,161
+What are they?
+
+478
+00:48:42,160 --> 00:48:51,841
+Well, there is disposedness, falling, or being absorbed, better say being absorbed, and understanding.
+
+479
+00:48:51,841 --> 00:48:56,401
+And those are, he calls them primordial existential structures.
+
+480
+00:48:56,401 --> 00:49:06,401
+Well, he doesn't call them that, but he says the following quote, equiprimordial with disposingness and constituting this being is understanding on 182, right at the beginning.
+
+481
+00:49:06,401 --> 00:49:10,681
+So, no, not right at the beginning, but where on 182.
+
+482
+00:49:07,361 --> 00:49:14,281
+Must be in the right at the beginning of the understanding chapter.
+
+483
+00:49:15,240 --> 00:49:18,120
+Yeah, right, the first sentence of 31.
+
+484
+00:49:18,441 --> 00:49:24,120
+See, disposedness is one of the existential structures in which the being of the there maintains itself.
+
+485
+00:49:24,120 --> 00:49:28,841
+Equiprimordial with it in constituting this being is understanding.
+
+486
+00:49:28,841 --> 00:49:31,320
+Well, there's a funny use of equiprimordial.
+
+487
+00:49:31,321 --> 00:49:35,561
+It just means they are the basic structures of Dasein.
+
+488
+00:49:35,640 --> 00:49:37,480
+Remember, they always come in threes.
+
+489
+00:49:37,481 --> 00:49:41,561
+And I'm going to show you next time a lot of the various names for the threes.
+
+490
+00:49:41,561 --> 00:49:53,161
+But the important thing is that one of the ways of using understanding is that it's a structure, and we haven't filled in anything about that structure yet.
+
+491
+00:49:53,160 --> 00:49:54,200
+That's the new one.
+
+492
+00:49:54,200 --> 00:50:03,080
+I didn't realize that he's going to call understanding a primordial structure, but if he wants to, it's okay with me.
+
+493
+00:50:03,080 --> 00:50:10,440
+But then that primordial structure gets filled in, and that's primary understanding.
+
+494
+00:50:10,921 --> 00:50:12,761
+It gets realized.
+
+495
+00:50:13,080 --> 00:50:17,321
+That is, this primordial structure, how does it get realized?
+
+496
+00:50:17,321 --> 00:50:18,841
+By coping.
+
+497
+00:50:19,160 --> 00:50:25,561
+Just as the primordial structure of disposedness gets realized as what?
+
+498
+00:50:25,561 --> 00:50:27,801
+I just want to make sure you're awake.
+
+499
+00:50:28,441 --> 00:50:31,881
+How does disposedness become concrete, as he puts it?
+
+500
+00:50:31,881 --> 00:50:34,361
+That's his word from I realize.
+
+501
+00:50:34,680 --> 00:50:38,201
+Oh, if nobody knows the answer to that, I'm going home.
+
+502
+00:50:38,200 --> 00:50:39,961
+It's just too depressing.
+
+503
+00:50:39,961 --> 00:50:40,600
+Come on.
+
+504
+00:50:40,600 --> 00:50:47,481
+How does disposedness get realized, get made concrete, actually come into your experience?
+
+505
+00:50:47,481 --> 00:50:53,281
+It doesn't come in as some abstract, Heidegger fancy term, disposedness.
+
+506
+00:50:53,600 --> 00:50:54,641
+It's what?
+
+507
+00:50:54,640 --> 00:50:56,401
+No, not circumspection.
+
+508
+00:50:57,600 --> 00:50:58,721
+Come on.
+
+509
+00:50:58,720 --> 00:50:59,600
+Hmm?
+
+510
+00:50:52,680 --> 00:50:59,920
+Mood.
+
+511
+00:51:00,240 --> 00:51:01,120
+Who said that?
+
+512
+00:51:01,120 --> 00:51:01,920
+Some hero.
+
+513
+00:51:01,921 --> 00:51:07,840
+Oh, I wish it was somebody else, Eugene, because I know you know this already.
+
+514
+00:51:08,640 --> 00:51:11,040
+Anyway, it's mood, of course.
+
+515
+00:51:11,041 --> 00:51:13,761
+Disposedness gets realized as mood.
+
+516
+00:51:13,760 --> 00:51:16,160
+It gets concrete as mood.
+
+517
+00:51:16,160 --> 00:51:18,881
+Now you can make the same parallel statement.
+
+518
+00:51:18,881 --> 00:51:22,641
+Understanding gets realized as coping.
+
+519
+00:51:22,640 --> 00:51:25,760
+It becomes concrete as coping or dealing.
+
+520
+00:51:25,760 --> 00:51:28,481
+Eugene has convinced me that I shouldn't say coping.
+
+521
+00:51:28,481 --> 00:51:32,241
+I think I've admitted that, because it sounds like you're having a problem.
+
+522
+00:51:32,240 --> 00:51:34,320
+So let me say it in Heidegger's talk.
+
+523
+00:51:34,640 --> 00:51:38,481
+Understanding becomes concrete in coping.
+
+524
+00:51:38,481 --> 00:51:41,920
+So we've got this formal thing, which he calls primordial.
+
+525
+00:51:41,921 --> 00:51:42,881
+I wish he didn't.
+
+526
+00:51:42,881 --> 00:51:45,120
+Just an abstract notion, understanding.
+
+527
+00:51:45,120 --> 00:51:48,561
+And then it becomes concrete in coping.
+
+528
+00:51:49,200 --> 00:51:57,841
+And it becomes most fully manifest, I think, he would say, in the ultimate for the sake of which.
+
+529
+00:51:57,841 --> 00:51:59,440
+Those are the two we already had.
+
+530
+00:51:59,441 --> 00:52:19,681
+Those are the two ways that you can talk about the way this abstract structure called understanding, which hasn't got any content yet, can become primordially manifest in the experience of the ultimate for the sake of which, which is governing your life.
+
+531
+00:52:19,680 --> 00:52:24,481
+Well, not even the experience, just in the way the for the sake of which governs your life.
+
+532
+00:52:24,481 --> 00:52:30,961
+Or it can become realized in just going out the door, not as the door, but just to go out.
+
+533
+00:52:30,961 --> 00:52:35,441
+And either, but that's not the primordial way it gets realized.
+
+534
+00:52:35,441 --> 00:52:41,800
+That's what Heidegger is going to call the primary way, the everyday way, the common sense way, the pragmatic.
+
+535
+00:52:42,120 --> 00:52:46,841
+So there's something like primordial understanding and pragmatic understanding.
+
+536
+00:52:46,841 --> 00:52:51,401
+The primordial understanding gets realized in living your life as or whatever you are.
+
+537
+00:52:52,041 --> 00:52:55,080
+There's always in the way, just living your life, period.
+
+538
+00:52:55,080 --> 00:53:01,240
+And the primary kind gets realized just by doing things, which you're doing all the time.
+
+539
+00:53:01,240 --> 00:53:02,441
+Right now you're doing lots of things.
+
+540
+00:53:02,441 --> 00:53:10,761
+You're sitting in the chair and you're staying awake, some of you, hopefully, and then you're taking notes and so forth.
+
+541
+00:53:10,760 --> 00:53:13,721
+That's the primary kind of understanding.
+
+542
+00:53:13,720 --> 00:53:15,561
+I saw a hand somewhere, I believe.
+
+543
+00:53:15,881 --> 00:53:17,001
+I just hallucinated.
+
+544
+00:53:17,001 --> 00:53:17,480
+Yeah.
+
+545
+00:53:20,600 --> 00:53:27,080
+Ah, well, I can only, I mean, good, but I thought I could help you with that by just your intuition.
+
+546
+00:53:27,321 --> 00:53:35,001
+If you've got some abstract notion, disposedness, then you want to know, well, what specifically would be a case of disposedness?
+
+547
+00:53:35,321 --> 00:53:43,481
+And then somebody says, well, it gets concrete in moods, but it gets concrete in what, in specific moods.
+
+548
+00:53:43,481 --> 00:53:47,480
+It gets concrete in fear, say, or so forth.
+
+549
+00:53:48,041 --> 00:53:51,161
+I guess you force me to become clear about this.
+
+550
+00:53:51,160 --> 00:53:57,801
+To come concrete means you get an actual case of it.
+
+551
+00:53:57,800 --> 00:54:05,001
+You get this very abstract thing, and then you want to re see, well, what would it be like for this abstract thing to actually be happening?
+
+552
+00:54:05,001 --> 00:54:06,521
+And same thing with understanding.
+
+553
+00:54:06,521 --> 00:54:11,800
+You get this very abstract thing, understanding, and that's just a word that Heidegger just introduces.
+
+554
+00:54:11,841 --> 00:54:16,201
+And you want to know, well, what would it be for something like understanding to actually be happening?
+
+555
+00:54:16,200 --> 00:54:18,761
+Then you get COVID.
+
+556
+00:54:19,080 --> 00:54:19,961
+Okay?
+
+557
+00:54:20,280 --> 00:54:20,840
+Okay.
+
+558
+00:54:21,080 --> 00:54:22,521
+I'm ready to go on.
+
+559
+00:54:22,521 --> 00:54:23,481
+Uh well.
+
+560
+00:54:29,760 --> 00:54:39,840
+Well, 184, I say, is where he switches to understanding is the realization of an existential structure like usability.
+
+561
+00:54:40,160 --> 00:54:41,120
+No, no, no, no.
+
+562
+00:54:46,160 --> 00:54:46,961
+Well, that doesn't.
+
+563
+00:54:46,961 --> 00:54:51,761
+I mean, I mean, I'm sure it's in there, sort of, but I don't need it for what I'm going to do.
+
+564
+00:54:56,481 --> 00:55:01,761
+Oh, and then this important line, I'm just sort of reviewing because I see important lines that I haven't said.
+
+565
+00:55:01,760 --> 00:55:04,481
+But I keep saying you don't have a goal.
+
+566
+00:55:04,800 --> 00:55:12,161
+They're just possibilities, and they never get actual when you're coping at either of these levels.
+
+567
+00:55:12,640 --> 00:55:15,840
+It's not a kind of surro-like intentionality.
+
+568
+00:55:15,841 --> 00:55:20,401
+Now, let's see, somewhere on 155, he just says that, and I figure I ought to say it.
+
+569
+00:55:25,200 --> 00:55:26,481
+Oh, look at this.
+
+570
+00:55:26,481 --> 00:55:28,320
+A nice thing I didn't say either.
+
+571
+00:55:28,321 --> 00:55:32,801
+But let's find it first.
+
+572
+00:55:33,120 --> 00:55:42,080
+Well, there's the quote I talked about at the top of 185, which gets through the two kinds: the primordiality, Daisy, and so forth.
+
+573
+00:55:42,080 --> 00:55:43,360
+But that's not what I want right now.
+
+574
+00:56:01,280 --> 00:56:02,800
+Well, this is this crucial stuff.
+
+575
+00:56:02,800 --> 00:56:05,441
+I just explained this hard paragraph.
+
+576
+00:56:05,441 --> 00:56:07,520
+So now I'll read the hard paragraph I explained.
+
+577
+00:56:07,521 --> 00:56:11,241
+The bottom, the very middle of 185.
+
+578
+00:56:11,561 --> 00:56:13,161
+I'm going to start reading.
+
+579
+00:56:13,481 --> 00:56:17,000
+This has all got to do with how you don't pay attention.
+
+580
+00:56:17,001 --> 00:56:18,920
+Now the word is going to be thematized.
+
+581
+00:56:18,921 --> 00:56:25,001
+Furthermore, the character of understanding as projection is such that the understanding does not grasp thematically.
+
+582
+00:56:25,001 --> 00:56:33,400
+And only I've read this once before, that it shouldn't say upon which it projects.
+
+583
+00:56:33,401 --> 00:56:35,801
+It should say towards which it projects.
+
+584
+00:56:35,800 --> 00:56:37,801
+That is to say, possibilities.
+
+585
+00:56:37,800 --> 00:56:46,041
+Grasping in such a manner would take away from them as what take away from what is projected its very character as a possibility.
+
+586
+00:56:46,041 --> 00:56:56,280
+That is, you don't pay attention to them as possibilities, then you would just have something you had in your mind instead of being drawn into the affordance.
+
+587
+00:56:56,280 --> 00:57:02,681
+Projection in throwing throws before itself the possibility as possibility and lets it be as such.
+
+588
+00:57:03,321 --> 00:57:08,120
+That means, I think, you don't think about it as a possibility.
+
+589
+00:57:09,080 --> 00:57:15,480
+As projecting, understanding is the kind of being of Dasein in which it is its possibilities as possibilities.
+
+590
+00:57:15,481 --> 00:57:18,441
+Ooh, ooh, why do I like, I don't like that.
+
+591
+00:57:18,441 --> 00:57:26,360
+As projecting, understanding is the kind of being of Dasein, in which it is its possibility.
+
+592
+00:57:27,961 --> 00:57:30,361
+Why as possibility?
+
+593
+00:57:32,041 --> 00:57:33,800
+I don't know what that adds.
+
+594
+00:57:33,800 --> 00:57:39,160
+Why shouldn't it say as projecting, understanding is the kind of being of Dasein in which it is its possibilities?
+
+595
+00:57:39,160 --> 00:57:40,600
+I certainly understand that.
+
+596
+00:57:40,600 --> 00:57:47,080
+That's when you're so absorbed in what you're doing that the self disappears, the passage I read.
+
+597
+00:57:47,080 --> 00:57:49,080
+What is it to be the possibilities?
+
+598
+00:57:53,921 --> 00:57:54,800
+That's good.
+
+599
+00:57:54,800 --> 00:57:55,681
+That's good.
+
+600
+00:57:55,680 --> 00:57:56,481
+I think that's right.
+
+601
+00:57:56,481 --> 00:57:59,760
+It's not that you experience your possibilities as possibilities.
+
+602
+00:57:59,760 --> 00:58:00,080
+Good.
+
+603
+00:58:00,080 --> 00:58:02,481
+It has to be that, but that's what you really are.
+
+604
+00:58:02,481 --> 00:58:05,840
+All that's left of you is your absorbed flow.
+
+605
+00:58:05,841 --> 00:58:06,721
+I guess.
+
+606
+00:58:06,720 --> 00:58:08,720
+I mean, it would be nice to look at the German.
+
+607
+00:58:08,720 --> 00:58:09,921
+I suppose.
+
+608
+00:58:11,521 --> 00:58:11,840
+Good.
+
+609
+00:58:11,841 --> 00:58:14,160
+Eugene, where's our other German understander?
+
+610
+00:58:14,160 --> 00:58:15,281
+He's not here today.
+
+611
+00:58:15,280 --> 00:58:15,760
+Okay.
+
+612
+00:58:16,001 --> 00:58:17,840
+Well, just we could look at it later.
+
+613
+00:58:17,841 --> 00:58:20,561
+But it's on 145.
+
+614
+00:58:20,561 --> 00:58:24,321
+It's the end of a long paragraph.
+
+615
+00:58:25,041 --> 00:58:28,320
+Sort of the middle, sort of the bottom-ish part of 145.
+
+616
+00:58:28,640 --> 00:58:30,880
+The very last sentence of the paragraph.
+
+617
+00:58:31,200 --> 00:58:34,001
+I bet it's correctly translated.
+
+618
+00:58:34,321 --> 00:58:39,840
+As projecting, understanding is the kind of being of Dasein in which it is its possibilities as possible.
+
+619
+00:58:40,001 --> 00:58:42,161
+I like David, Dave's version.
+
+620
+00:58:42,800 --> 00:58:48,961
+Heidegger's telling me what it is from his perspective, not what it is from the acting perspective.
+
+621
+00:58:50,240 --> 00:58:51,600
+Same, I thought it would be.
+
+622
+00:58:51,600 --> 00:58:54,240
+So anyway, we got a way out, so let's take it.
+
+623
+00:58:55,600 --> 00:59:00,001
+So we're doing the four watt pronoun.
+
+624
+00:59:00,001 --> 00:59:07,521
+I'm still looking for the sentence I was looking for where it says projecting has nothing to do with comporting yourself towards a plan that has been thought out.
+
+625
+00:59:07,521 --> 00:59:09,120
+That's somewhere on this page.
+
+626
+00:59:09,120 --> 00:59:10,721
+So it says on my notes.
+
+627
+00:59:10,720 --> 00:59:11,840
+I don't see it in there.
+
+628
+00:59:11,841 --> 00:59:13,681
+Do you see it anywhere?
+
+629
+00:59:18,160 --> 00:59:21,521
+Well, that's all right, except that I better correct it so that I.
+
+630
+00:59:21,841 --> 00:59:23,520
+No, I don't have my pen.
+
+631
+00:59:23,841 --> 00:59:24,640
+It's there?
+
+632
+00:59:24,640 --> 00:59:25,280
+Where?
+
+633
+00:59:25,921 --> 00:59:27,520
+Four sentences down.
+
+634
+00:59:28,160 --> 00:59:30,401
+Okay, let's see.
+
+635
+00:59:30,720 --> 00:59:32,080
+I still don't see it.
+
+636
+00:59:32,080 --> 00:59:34,561
+Four sentences down on 185.
+
+637
+00:59:36,800 --> 00:59:38,760
+Ah, well, where Spielram is in the brackets.
+
+638
+00:59:38,760 --> 00:59:39,561
+Okay, let's see.
+
+639
+00:59:39,561 --> 00:59:42,760
+Being and as thrown.
+
+640
+00:59:42,760 --> 00:59:43,720
+Let's go back there.
+
+641
+00:59:38,401 --> 00:59:45,320
+Gets its spiel round.
+
+642
+00:59:38,401 --> 00:59:45,481
+Okay.
+
+643
+00:59:46,120 --> 00:59:49,481
+And as thrown, Dasein is thrown into the kind of being which we call projecting.
+
+644
+00:59:49,481 --> 00:59:49,880
+Ah, good.
+
+645
+00:59:50,120 --> 00:59:51,640
+Yeah, there's a crucial sentence.
+
+646
+00:59:51,640 --> 00:59:56,040
+Projecting has nothing to do with comporting oneself sort of plan that's been thought out.
+
+647
+00:59:56,041 --> 01:00:01,320
+I mean, those of you who had Searle know that when you're trying to do something, it's like having a plan.
+
+648
+01:00:01,321 --> 01:00:03,801
+I mean, it's a little more basic, but it's the same idea.
+
+649
+01:00:04,041 --> 01:00:10,361
+It is not some, you set yourself some kind of goal and you're acting to achieve it.
+
+650
+01:00:10,921 --> 01:00:16,521
+And Dasein has, as Dasein already projected itself as long as it's projecting.
+
+651
+01:00:19,401 --> 01:00:22,200
+Yeah, it's always already being drawn into things.
+
+652
+01:00:22,200 --> 01:00:23,961
+That's what that's saying again.
+
+653
+01:00:23,961 --> 01:00:26,041
+Okay, so now I can go on.
+
+654
+01:00:26,200 --> 01:00:33,080
+Oh, I wanted to read you a quote, which I'm going to give out next time when I get all this together.
+
+655
+01:00:33,080 --> 01:00:37,720
+But I don't like projecting, as I've said again and again.
+
+656
+01:00:37,720 --> 01:00:46,600
+It sounds too much like you are doing it, and I want it to be responding to, being drawn by, an affordance.
+
+657
+01:00:46,600 --> 01:00:51,161
+I think Heidegger just hasn't quite got the right words for it.
+
+658
+01:00:51,160 --> 01:00:57,800
+I think that he's being amazing to get this close to this bottom level when no philosopher ever has before.
+
+659
+01:00:59,561 --> 01:01:06,521
+And a student of Gervich, a student of Heidegger named Aaron Gervich, gets it much righter.
+
+660
+01:01:07,720 --> 01:01:13,880
+Gerich is sort of my teacher, and I guess that's how I guess I should give him credit for tuning me into this.
+
+661
+01:01:13,880 --> 01:01:15,000
+I'm just going to read.
+
+662
+01:01:15,481 --> 01:01:22,680
+This is his idea of how what happens in acting, like going out a door or if you're making a tennis stroke or anything you want.
+
+663
+01:01:22,680 --> 01:01:29,920
+What is imposed on us to do is not determined by us as someone standing outside the situation, simply looking on at it.
+
+664
+01:01:29,920 --> 01:01:40,241
+What occurs and is imposed are rather prescribed by the situation, and we do more and greater justice to it the more we let ourselves be guided by it.
+
+665
+01:01:40,481 --> 01:01:43,441
+That's the let yourself be drawn in.
+
+666
+01:01:43,441 --> 01:01:49,680
+The less reserved we are in immersing ourselves in it and subordinating ourselves to it.
+
+667
+01:01:49,680 --> 01:01:54,880
+That is, the better you're better at it and everything is going right, the more you're absorbed in it.
+
+668
+01:01:54,880 --> 01:01:57,200
+That's his immersing ourselves in it.
+
+669
+01:01:57,201 --> 01:02:04,720
+We find ourselves in a situation and are interwoven with it, encompassed by it, indeed, just absorbed into it.
+
+670
+01:02:04,720 --> 01:02:06,880
+That's just everything is right there.
+
+671
+01:02:08,081 --> 01:02:15,040
+That says there's no you, that you're absorbed into it, that the more you're absorbed into it, the better things are going.
+
+672
+01:02:15,521 --> 01:02:27,920
+It's not, he's not trying to describe how it looks from outside by looking at it, but you do greater justice to the situation the more you let yourself be absorbed in it to the point where you disappear.
+
+673
+01:02:27,920 --> 01:02:29,920
+Gerbich has got it exactly right.
+
+674
+01:02:29,920 --> 01:02:31,441
+So, I'm going to, that's such a nice quote.
+
+675
+01:02:31,441 --> 01:02:38,401
+I'm going to give it, so put it on the website, give it to everybody so they can read it over and over if you get, if you feel lost.
+
+676
+01:02:39,361 --> 01:02:53,200
+And that's just the same as that specific kind of forgetting in which you have to have if you're going to go to work and really get something done.
+
+677
+01:02:53,201 --> 01:02:57,840
+A lot of this, I said already, so I have to go over it to see what I haven't said already.
+
+678
+01:03:10,441 --> 01:03:13,000
+Well, now I'm ready to read 188.
+
+679
+01:03:13,321 --> 01:03:24,441
+I mean, we've got enough phenomena on the plate so that we can understand, I mean, enough, yeah, enough phenomena that we can understand as sort of abstract things.
+
+680
+01:03:24,441 --> 01:03:26,920
+So, 188, where is it?
+
+681
+01:03:26,920 --> 01:03:29,800
+The projecting of the understanding has its own possibility.
+
+682
+01:03:29,800 --> 01:03:31,000
+Where is it?
+
+683
+01:03:32,281 --> 01:03:35,080
+Okay, yes, but I did read it already.
+
+684
+01:03:35,481 --> 01:03:38,680
+It's the third line of that section.
+
+685
+01:03:38,680 --> 01:03:42,441
+The projecting of the understanding has its own possibility of developing itself.
+
+686
+01:03:42,441 --> 01:03:45,160
+This development of the understanding we call interpretation.
+
+687
+01:03:45,161 --> 01:03:50,521
+In it, the understanding appropriates understandingly that which is understood by it.
+
+688
+01:03:50,521 --> 01:03:56,361
+And all this stuff, which seems just incomprehensible, I hope it begins to seem comprehensible.
+
+689
+01:03:56,361 --> 01:04:01,800
+In interpretation, understanding does not become something different, it becomes itself.
+
+690
+01:04:02,121 --> 01:04:13,561
+That sounds like this implicit story that it's been an as thing all along, but then he says such interpretation is grounded existentially in understanding, the latter does not arise from the former.
+
+691
+01:04:13,561 --> 01:04:21,880
+And then you get the sense: well, whatever understanding is, it's more basic than interpretation, and it makes interpretation possible.
+
+692
+01:04:21,880 --> 01:04:27,320
+And without it, you couldn't have interpretation, though, without interpretation, you can have understanding.
+
+693
+01:04:27,321 --> 01:04:29,000
+That's the grounding relation.
+
+694
+01:04:29,000 --> 01:04:33,481
+That's the same thing that I read in the time lectures.
+
+695
+01:04:33,481 --> 01:04:34,441
+Okay.
+
+696
+01:04:39,241 --> 01:04:50,521
+Okay, now, no, yeah, now I was going to say more about this normative pull to where you, I'm not sure I want to say it.
+
+697
+01:04:50,521 --> 01:04:51,401
+Let me see that.
+
+698
+01:04:57,521 --> 01:05:04,720
+Okay, here's another way of putting it, where he talks about the blackboard being in the wrong place in another lecture course.
+
+699
+01:05:04,720 --> 01:05:09,360
+But I'll talk about the bench being where you're sitting, suppose they were movable chairs.
+
+700
+01:05:09,361 --> 01:05:14,960
+Experiencing the ready-to-hand is an instance, I'm just reading my own stuff, of the normative pull.
+
+701
+01:05:14,960 --> 01:05:17,280
+The bench affords sitting.
+
+702
+01:05:17,281 --> 01:05:22,561
+So if the bench in the classroom is facing the wrong way, we'll have to turn it around.
+
+703
+01:05:22,561 --> 01:05:30,401
+But remember, improving is no longer simply responding to the situation and doing what the ready-to-hand draws you to do.
+
+704
+01:05:30,401 --> 01:05:34,561
+Improving always gets you to the unready-to-hand.
+
+705
+01:05:34,640 --> 01:05:38,080
+The unready-to-hand always gets you the as structure.
+
+706
+01:05:38,081 --> 01:05:44,240
+So now we're experiencing the bench as for facing the lecture, and it's not.
+
+707
+01:05:44,241 --> 01:05:45,760
+So we're going to improve it.
+
+708
+01:05:45,760 --> 01:05:49,680
+If you move to improve, you have to focus on what counts as appropriate.
+
+709
+01:05:49,680 --> 01:05:51,760
+You thematize the what-for.
+
+710
+01:05:52,081 --> 01:05:58,561
+There's always, that's the basic, what the understanding, the basic understanding understands is the what for.
+
+711
+01:05:58,561 --> 01:06:00,960
+What does that remind you of?
+
+712
+01:06:00,960 --> 01:06:03,120
+Well, it's the two go out.
+
+713
+01:06:03,361 --> 01:06:05,600
+You don't experience the door.
+
+714
+01:06:05,920 --> 01:06:07,840
+You experience the two go out.
+
+715
+01:06:07,840 --> 01:06:13,040
+That's how Heidegger expresses that by saying what you experience is the what for.
+
+716
+01:06:13,361 --> 01:06:22,720
+The as structure comes in as soon as you respond in terms of the function, instead of responding to the solicitation that it has by virtue of having that function.
+
+717
+01:06:22,720 --> 01:06:24,080
+I'm saying the same thing again and again.
+
+718
+01:06:24,081 --> 01:06:27,360
+The function of the door is for you to go out of the room.
+
+719
+01:06:27,361 --> 01:06:29,840
+That's what it does as a door.
+
+720
+01:06:30,561 --> 01:06:34,880
+And you don't respond to its function.
+
+721
+01:06:34,880 --> 01:06:37,680
+You respond to it drawing you to go out.
+
+722
+01:06:37,680 --> 01:06:38,561
+That's the solicitation.
+
+723
+01:06:40,121 --> 01:06:46,441
+There are things in the world to which you're responding, but it's misleading to suggest that you experience them as things to which you're responding.
+
+724
+01:06:46,441 --> 01:06:54,521
+That is, and here's a new slogan which I put in italics: one perceives only the invitation, not the source of the invitation.
+
+725
+01:06:54,840 --> 01:06:58,441
+That's just the same as, let me say it in terms of solicitation.
+
+726
+01:06:58,441 --> 01:07:04,200
+You perceive the solicitation, that is, you're drawn out the door, not the window, when you want to leave.
+
+727
+01:07:04,201 --> 01:07:10,441
+But you don't have to perceive the door, which is, so to speak, doing the soliciting for you to go out.
+
+728
+01:07:10,441 --> 01:07:18,360
+That's just, again, to say at the understanding level, you just take up the affordance and do it.
+
+729
+01:07:18,361 --> 01:07:22,441
+At the interpretation level, you can perceive the door as a door.
+
+730
+01:07:22,441 --> 01:07:28,441
+And if the door has anything wrong with it, like the bench is the wrong way, then you can perceive its function and you can fix it.
+
+731
+01:07:28,840 --> 01:07:35,640
+But when everything's going well, you don't perceive the source of the invitation or solicitation, you just do it.
+
+732
+01:07:38,521 --> 01:07:43,960
+That doesn't mean that to sit on the bench, we that doesn't deny that to sit on the bench, you have to see the bench.
+
+733
+01:07:43,960 --> 01:07:46,040
+That's what circumspection does.
+
+734
+01:07:46,040 --> 01:07:49,000
+That is, you have to take account of the bench.
+
+735
+01:07:49,000 --> 01:07:52,600
+And you have to have a familiarity with what benches do.
+
+736
+01:07:52,840 --> 01:07:57,800
+Then, if you're tired or if you're at a class, you just sit on it.
+
+737
+01:07:58,121 --> 01:08:00,680
+You are drawn into the affordance.
+
+738
+01:08:00,680 --> 01:08:04,281
+You are, I forget what Gervich said, but I liked his way of saying it.
+
+739
+01:08:04,760 --> 01:08:06,120
+What did he say?
+
+740
+01:08:06,600 --> 01:08:13,320
+We are, we are guided by it.
+
+741
+01:08:13,960 --> 01:08:17,080
+That's just another attempt to say this.
+
+742
+01:08:17,081 --> 01:08:18,120
+Okay.
+
+743
+01:08:20,040 --> 01:08:23,600
+So when something goes wrong, then you see something as something.
+
+744
+01:08:23,241 --> 01:08:24,401
+I said that.
+
+745
+01:08:28,241 --> 01:08:33,040
+That's when the ready of the hand comes expressly into the sight that understands.
+
+746
+01:08:33,040 --> 01:08:34,080
+And I said that.
+
+747
+01:08:34,081 --> 01:08:38,401
+Oh, but there's another way to say it, that there is a counter thrust.
+
+748
+01:08:38,401 --> 01:08:42,561
+Possibilities exert their counter thrust upon Dasein.
+
+749
+01:08:42,880 --> 01:08:44,640
+I don't remember where that is, though.
+
+750
+01:08:44,640 --> 01:08:46,080
+See, I didn't write down a page number.
+
+751
+01:08:46,081 --> 01:08:47,680
+Does that sound familiar to anybody?
+
+752
+01:08:47,920 --> 01:08:55,920
+If you come across it, counterthrust is just another name for resist your just being drawn into it.
+
+753
+01:08:56,880 --> 01:09:01,600
+Then the ready of the hand becomes expressly into the sight that understands.
+
+754
+01:09:01,600 --> 01:09:04,800
+I wonder if that's where counter thrust goes.
+
+755
+01:09:05,040 --> 01:09:06,880
+That's on 189.
+
+756
+01:09:06,880 --> 01:09:08,321
+188, we're on 188.
+
+757
+01:09:08,401 --> 01:09:10,321
+Oh, boy, everything comes right there at the beginning.
+
+758
+01:09:10,321 --> 01:09:11,361
+Where is it?
+
+759
+01:09:14,561 --> 01:09:16,561
+188, the top of the page?
+
+760
+01:09:18,161 --> 01:09:19,680
+What, German, where?
+
+761
+01:09:21,281 --> 01:09:22,481
+Oh, the Ruchlog.
+
+762
+01:09:22,640 --> 01:09:23,600
+I see, yes.
+
+763
+01:09:23,600 --> 01:09:24,080
+Okay.
+
+764
+01:09:25,040 --> 01:09:27,521
+Yes, they exert, well, let's read it.
+
+765
+01:09:27,600 --> 01:09:31,600
+It says, as understanding Dasein projects, it's being upon possibilities.
+
+766
+01:09:31,600 --> 01:09:32,240
+Okay.
+
+767
+01:09:32,561 --> 01:09:48,080
+This being toward possibilities, that's the to go out, which understands is itself an ability to be, and it is so because of the way these possibilities, as disclosed, exert their counter thrust upon Dasein.
+
+768
+01:09:48,960 --> 01:09:50,401
+I've got it wrong.
+
+769
+01:09:51,040 --> 01:09:54,080
+The counter thrust isn't breakdown, as I just said it is.
+
+770
+01:09:54,081 --> 01:09:58,320
+The counter thrust is another way of saying it's drawing you in.
+
+771
+01:09:58,561 --> 01:10:01,120
+You're going by the door, and the door draws you in.
+
+772
+01:10:01,121 --> 01:10:03,521
+I'm pretty sure that's what it's about.
+
+773
+01:10:04,720 --> 01:10:07,521
+I wish I had a pen so I could fix what I'm doing.
+
+774
+01:10:07,521 --> 01:10:10,760
+Can I borrow a pen from you?
+
+775
+01:10:11,081 --> 01:10:12,040
+Okay.
+
+776
+01:10:12,680 --> 01:10:13,240
+Okay.
+
+777
+01:10:13,880 --> 01:10:14,840
+Let's just.
+
+778
+01:10:16,760 --> 01:10:17,401
+No.
+
+779
+01:10:17,401 --> 01:10:18,040
+Okay.
+
+780
+01:10:18,521 --> 01:10:26,920
+Then our response is either to stay fully involved and fix the problem or pay attention to our activity.
+
+781
+01:10:27,561 --> 01:10:33,000
+That which is disclosed in understanding.
+
+782
+01:10:33,321 --> 01:10:34,281
+Now, where's the next?
+
+783
+01:10:34,281 --> 01:10:38,441
+On 189, I just suddenly all the page numbers have disappeared from here.
+
+784
+01:10:38,441 --> 01:10:43,960
+That which is disclosed in understanding, that which is understood, help me find that one.
+
+785
+01:10:45,561 --> 01:10:46,200
+I got it.
+
+786
+01:10:46,201 --> 01:10:48,441
+A little below the middle, in the middle of the line.
+
+787
+01:10:48,441 --> 01:10:56,840
+That which is disclosed in understanding, that which is understood, is already accessible in such a way that it's as which can be made to stand out explicitly.
+
+788
+01:10:56,840 --> 01:10:59,321
+The as makes up the structure of the explicitness.
+
+789
+01:10:59,321 --> 01:11:02,200
+We've already said that, so I don't need that anymore.
+
+790
+01:11:02,760 --> 01:11:04,600
+I think I'm going to make it to the end.
+
+791
+01:11:13,081 --> 01:11:21,800
+On 190, I like when something, when all my stuff is gone, oh, here.
+
+792
+01:11:24,040 --> 01:11:24,840
+I'm going to read it.
+
+793
+01:11:24,840 --> 01:11:25,561
+Somebody will find it.
+
+794
+01:11:25,561 --> 01:11:37,000
+When something within the world is encountered as such, the thing in question already has an involvement which is disclosed in our understanding of the world, and this involvement is one that gets laid out in interpretation.
+
+795
+01:11:37,401 --> 01:11:40,840
+Again, I don't know where it is, but it doesn't matter.
+
+796
+01:11:40,840 --> 01:11:42,760
+We've said it a million times.
+
+797
+01:11:50,760 --> 01:11:56,320
+Okay, now I'm going to read, stop with 199, the first full paragraph.
+
+798
+01:11:53,401 --> 01:12:00,000
+The ready-to-hand is always understood in terms of a totality of involvements.
+
+799
+01:12:00,241 --> 01:12:01,040
+We talked about that.
+
+800
+01:12:01,281 --> 01:12:03,920
+This totality need not be grasped explicitly.
+
+801
+01:12:03,920 --> 01:12:07,920
+That proves that you can have understanding without interpretation.
+
+802
+01:12:09,121 --> 01:12:12,240
+without being grasped explicitly by a thematic interpretation.
+
+803
+01:12:12,241 --> 01:12:24,160
+Even if it has undergone such an interpretation, so I notice the door, for instance, it recedes into an understanding which does not stand out from the background.
+
+804
+01:12:24,161 --> 01:12:34,401
+So it always goes back into the background, where it governs what you're doing, and you take account of it circumspectively, but you don't, it isn't explicit at all.
+
+805
+01:12:34,401 --> 01:12:41,120
+And this is the very mode in which it is the essential foundation for everyday circumspective interpretation.
+
+806
+01:12:41,600 --> 01:12:43,361
+I sort of rest my case with that.
+
+807
+01:12:43,361 --> 01:12:47,280
+I mean, so there is something more fundamental than interpretation.
+
+808
+01:12:47,281 --> 01:12:54,800
+And even when there's interpretation, as soon as you get used to coping with whatever you're coping with, then it goes back into the background.
+
+809
+01:12:54,800 --> 01:13:00,481
+And when it's in the background and you're not noticing it, you're not seeing it, then it counts as understanding.
+
+810
+01:13:00,481 --> 01:13:07,280
+And that understanding is always there and is the foundation for interpretation, whenever you get it.
+
+811
+01:13:07,281 --> 01:13:12,800
+Now, I have the feeling I was sort of preaching more to myself than to you all.
+
+812
+01:13:12,800 --> 01:13:36,240
+But now, when you go back and read this, if you do, the next thing is to see, and we're going to start with that next time, the way you get from this level to the next stages up to logic and the predicate calculus, all of which is going on on the next bunch of pages, up the page.
+
+813
+01:13:36,561 --> 01:13:42,920
+Well, I don't know quite where I'm going to stop, but I hope to get up to 203 next time.
+
+814
+01:13:38,241 --> 01:13:44,840
+But, okay.
+
+815
+01:13:46,680 --> 01:13:47,720
+Thanks.

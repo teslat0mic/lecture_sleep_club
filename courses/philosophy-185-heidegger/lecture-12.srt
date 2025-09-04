@@ -1,0 +1,3102 @@
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:07,519
+Now, back to the question, two questions, which we're going to get answered in the chapter on the one.
+
+2
+00:00:07,519 --> 00:00:13,919
+One of the questions is: what's the ultimate source of intelligibility in the world?
+
+3
+00:00:14,239 --> 00:00:17,359
+And the second is, who are you?
+
+4
+00:00:17,359 --> 00:00:20,239
+Who is each Dasein person?
+
+5
+00:00:20,559 --> 00:00:23,439
+And we're going to find out both these things.
+
+6
+00:00:23,439 --> 00:00:32,400
+And I sort of jumped in and talked about all over the place last time, which was fine, except now I want to do it more systematically.
+
+7
+00:00:32,400 --> 00:00:45,120
+So, starting with the who question, which is on 163, that's how he gets into it, though he doesn't come back to that until toward the end.
+
+8
+00:00:45,120 --> 00:00:55,719
+But he starts with, on 163, let me see where we are.
+
+9
+00:00:59,160 --> 00:01:09,880
+The ontological relevance of our Dasein being with, which is where he begins on number 27, German 126, page 123.
+
+10
+00:01:10,199 --> 00:01:27,480
+The ontologically relevant result of our analysis of being with is the insight that the subject character, remember he's always got to get rid of the subject, the subject character of one's own Dasein and that of others is to be defined existentially, that is, in terms of certain ways in which one may be.
+
+11
+00:01:27,480 --> 00:01:34,040
+In that with which we concern ourselves environmentally, the others are encountered as they are.
+
+12
+00:01:34,040 --> 00:01:35,959
+They are what they do.
+
+13
+00:01:35,960 --> 00:01:38,280
+So I keep saying that every once in a while.
+
+14
+00:01:38,280 --> 00:01:40,120
+This is one of the places he says it.
+
+15
+00:01:40,119 --> 00:01:43,639
+Later in Division II, he says, one is what one does.
+
+16
+00:01:43,639 --> 00:01:48,439
+That's obviously what you can say once you've got the one thing in there.
+
+17
+00:01:48,439 --> 00:02:01,959
+And I also wanted to give you the punchline, if I could get it right this time, from when I started to say what the people say across the universe, the father says to the son, why don't you do something?
+
+18
+00:02:01,960 --> 00:02:05,239
+And you are what you do.
+
+19
+00:02:05,559 --> 00:02:13,079
+And the son says, no, what you do depends on who you are.
+
+20
+00:02:13,079 --> 00:02:19,639
+And Jude, who was listening in on this, says, it's, you are how you do it.
+
+21
+00:02:19,640 --> 00:02:21,720
+And that's a very Heideggerian answer.
+
+22
+00:02:21,960 --> 00:02:37,840
+You know, that's like talking about the ultimate for the sake of which, in which I said, you can't say that somebody just is a role that they're performing, and you can't say they're just the totality of their actions.
+
+23
+00:02:38,400 --> 00:02:43,360
+And their identity turns out to depend on how they're doing their role.
+
+24
+00:02:43,359 --> 00:02:52,720
+So it's not, I can't just be the sum total of Burke Dreyfus's actions, and the ultimate for the sake of which just being me.
+
+25
+00:02:53,119 --> 00:02:57,600
+But it's not enough just to be a professor, or not enough even to just be a teacher.
+
+26
+00:02:57,600 --> 00:03:01,120
+So there's got to be this third thing, and this is Division II talk.
+
+27
+00:03:01,119 --> 00:03:07,919
+But since I got that story and I was trying to remember the punchline, and I found somebody who did, I thought I would just tell you.
+
+28
+00:03:07,919 --> 00:03:39,119
+So you turn out when you look at it in Division II, you are the special way that you take over some role which you have to have to give intelligibility in order to, you have to have an ultimate for the sake of which, and the for the sake of which is the how you take how you take over and perform that whatever public intelligible role you take up, I think.
+
+29
+00:03:39,119 --> 00:03:41,200
+Anyway, that was just filling in.
+
+30
+00:03:41,519 --> 00:03:45,440
+Now we have to go on to the stuff I have to cover today.
+
+31
+00:03:45,759 --> 00:03:52,640
+To begin with, I jumped in without telling you, but you may have discovered it for yourselves, presumably.
+
+32
+00:03:52,639 --> 00:03:55,600
+This is a very, very confused chapter.
+
+33
+00:03:55,600 --> 00:04:16,480
+It's very original in some ways and very important to make lots of sense of things, but Heidegger's got two different views going at once, which he doesn't distinguish very well, and which he actually sometimes, I'll show you, goes back and forth between them within a single paragraph.
+
+34
+00:04:17,239 --> 00:04:21,720
+I think I already mentioned this last time, but I think it's just important to say it again.
+
+35
+00:04:21,720 --> 00:04:28,280
+And whether one is he's getting from Kierkegaard, in which the one turns out to be very bad.
+
+36
+00:04:28,840 --> 00:04:34,520
+There's a negative story to tell about the norms and about conforming.
+
+37
+00:04:34,520 --> 00:04:58,199
+And the other, I don't know whether he gets it, but you will recognize it if you've had any Wittgenstein, which is a positive view that it's the shared practices which are the source of intelligibility, and it's a positive fact about the way we are, that we've got these shared practices and they form the background of all that we're doing.
+
+38
+00:04:58,200 --> 00:05:08,679
+And it's as if Heidegger has sort of understood and even extrapolated both of them, but they're in complete opposition to each other.
+
+39
+00:05:08,679 --> 00:05:21,239
+And yet, and this is why it's so interesting, it's true that there are these two totally different opposed understandings of the role of the practices.
+
+40
+00:05:23,239 --> 00:05:31,079
+And the only way to make sense of it is not to sort of wallow around in the confusion, but to keep your eye on the phenomenon.
+
+41
+00:05:31,080 --> 00:05:37,239
+And when you do, you'll be able to understand, and this is how I'm going to organize it.
+
+42
+00:05:37,239 --> 00:05:44,440
+There is a neutral subject, namely the role of norms and conformism as essential to Dasein.
+
+43
+00:05:44,759 --> 00:05:52,999
+Then there is a negative account of how that can lead to conformism, and that's bad for Dasein.
+
+44
+00:05:52,999 --> 00:06:01,359
+And then there's a positive part that that can be the basis of all intelligibility, is the basis of all intelligibility.
+
+45
+00:06:00,919 --> 00:06:03,359
+And he's got to hold on to all of that.
+
+46
+00:06:03,679 --> 00:06:17,200
+And all you have, and he says, just, and I'm going to read it to you at the end because it's the last thing he says, is, well, don't worry about the fact that we've got no good ontological way of characterizing all this.
+
+47
+00:06:17,200 --> 00:06:19,040
+Just hold on to the phenomena.
+
+48
+00:06:19,040 --> 00:06:20,799
+That's what you have to do.
+
+49
+00:06:21,040 --> 00:06:25,759
+I'm always saying that, but in this case, it's even more important, and that he's saying it.
+
+50
+00:06:25,759 --> 00:06:29,759
+And with that, you can sort of find your way through the confusion.
+
+51
+00:06:29,759 --> 00:06:37,520
+Okay, so number one, the neutral phenomena of norms, mostly what I talked about last time.
+
+52
+00:06:37,840 --> 00:06:40,640
+It coordinates my activity.
+
+53
+00:06:40,960 --> 00:06:49,999
+I am what I do, and I do what one does, and that's running, always running through whatever he's saying.
+
+54
+00:06:53,519 --> 00:06:56,560
+Why am I telling myself to look at this?
+
+55
+00:06:57,520 --> 00:07:02,879
+Well, I see the middle of 155, another place where he says this kind of thing.
+
+56
+00:07:02,879 --> 00:07:18,480
+The end of the first full paragraph, German 119, Dasein finds itself proximally in what it does, uses, expects, avoids, in those things environmentally ready to hand with which it is proximally concerned.
+
+57
+00:07:18,480 --> 00:07:21,680
+That's this, you are what you do, one is what one does.
+
+58
+00:07:21,999 --> 00:07:32,640
+This is so much important part of getting rid of the idea that Dasein is a self or a subject or an ego or consciousness or anything like that.
+
+59
+00:07:32,639 --> 00:07:39,520
+It's Dasein is a whole, is whatever a Dasein's activity adds up to.
+
+60
+00:07:39,519 --> 00:07:57,239
+Okay, now the and the thing I mentioned last time, which I want to repeat just because it's so interesting and important, is the slyness, and that's his word, of the one, the norms.
+
+61
+00:07:57,639 --> 00:08:09,160
+And this is on 166.6 where he uses the term, the beginning of the second full paragraph in German 128.
+
+62
+00:08:09,800 --> 00:08:14,280
+Of course, the one is as little present at hand as Dasein itself.
+
+63
+00:08:14,279 --> 00:08:21,240
+The more openly the one behaves, the harder it is to grasp, and the slyer it is, that the less it is nothing at all.
+
+64
+00:08:21,239 --> 00:08:23,080
+What's the phenomena there?
+
+65
+00:08:23,080 --> 00:08:26,520
+Well, it's the same as the nearest and farthest away.
+
+66
+00:08:30,519 --> 00:08:32,840
+It's right in front of our face, so to speak.
+
+67
+00:08:32,840 --> 00:08:35,880
+It's all over the place, everywhere.
+
+68
+00:08:35,879 --> 00:08:45,640
+And that's how, and it's that, and that makes it so sly and hard to grasp, like the goldfish, like the water to the fish.
+
+69
+00:08:45,639 --> 00:08:48,679
+But it's also, you could be more specific.
+
+70
+00:08:48,680 --> 00:09:00,279
+I mean, it's not just another case of something that withdraws to do its job, which it is, but that you can see it, sort of how it works and withdraws.
+
+71
+00:09:00,279 --> 00:09:02,759
+And this was my example of distance standing.
+
+72
+00:09:02,999 --> 00:09:04,359
+It's right in your face.
+
+73
+00:09:04,359 --> 00:09:06,280
+You're doing it all the time.
+
+74
+00:09:06,279 --> 00:09:15,560
+You couldn't get you know get along if you didn't have this complicated skill for how far to stand from people when you talk to them and interact with them.
+
+75
+00:09:15,560 --> 00:09:16,999
+But you don't notice it.
+
+76
+00:09:16,999 --> 00:09:18,680
+Your parents didn't notice it.
+
+77
+00:09:18,680 --> 00:09:24,439
+Nobody actually taught it to you in the sense that that they couldn't because they wouldn't have been able to tell it to you.
+
+78
+00:09:24,440 --> 00:09:25,560
+They didn't know it.
+
+79
+00:09:25,560 --> 00:09:31,680
+And secondly, it's much more subtle and complicated than anybody's ever been able to figure out.
+
+80
+00:09:31,320 --> 00:09:36,159
+There's a field, I don't think I mentioned it, called proxemics in anthropology.
+
+81
+00:09:36,320 --> 00:09:41,680
+Apparently, I haven't studied that field, whose business it is to study distance standing.
+
+82
+00:09:41,999 --> 00:09:42,639
+How near?
+
+83
+00:09:42,639 --> 00:09:43,920
+Proxemics.
+
+84
+00:09:44,239 --> 00:09:49,200
+And they try to write the rules for it, but the rules are for any culture.
+
+85
+00:09:49,200 --> 00:09:54,560
+But the rules turn out to always be more complicated and extrapolatable in other situations.
+
+86
+00:09:54,560 --> 00:10:06,560
+I told you how near you stand could depend on whether the other person has the flu or whether there's an air hammer making a lot of noise in the background or whether you're standing in a reading room, library reading room.
+
+87
+00:10:06,560 --> 00:10:13,680
+And you have a skill for getting all of that, getting it right, where getting it right means where you and the other person feel comfortable.
+
+88
+00:10:13,680 --> 00:10:27,200
+And you do it all without in perfect coordination and reach the point where everybody feels comfortable and it's right there happening in front of you and it's totally sly, you don't see it, but it's directing your activity.
+
+89
+00:10:27,600 --> 00:10:28,720
+That's a neat point.
+
+90
+00:10:28,800 --> 00:10:31,600
+Heidegger certainly got it right.
+
+91
+00:10:32,560 --> 00:10:50,799
+And so I got another example I didn't mention where you don't have to be trying to do it or thinking about it in other cases where people get on an elevator and given how many people there are, they distribute themselves in a certain way that seems to work, in which everybody feels at home.
+
+92
+00:10:50,800 --> 00:10:59,280
+They don't all get together or bunched up in one corner against each other, except unless there are a lot of people in the elevator, and which, of course, then they do.
+
+93
+00:10:59,279 --> 00:11:03,280
+And that's all, they could feel that and work it out.
+
+94
+00:11:03,920 --> 00:11:07,760
+And it only shows up in breakdown cases.
+
+95
+00:11:07,759 --> 00:11:09,680
+And what would be a breakdown case?
+
+96
+00:11:09,680 --> 00:11:15,039
+Well, John Searle's got this wonderful example of the best kind of breakdown case.
+
+97
+00:11:15,039 --> 00:11:41,480
+He says, if you look, you'll see at international, say, philosophy congresses, any kind of international congress kind of meeting, that the people from, how does he say, the people from Scandinavia are, no, the people from North Africa are backing the people from Scandinavia into the corner because the people from North Africa are trying to get near enough to have a conversation, and the people from Scandinavia are trying to get far enough to have a conversation.
+
+98
+00:11:41,879 --> 00:11:45,480
+And their different distance things just clash.
+
+99
+00:11:45,480 --> 00:11:50,999
+And then you might become aware of it because it's breaking down.
+
+100
+00:11:51,320 --> 00:12:22,119
+So, and now we've got a name for this: ontological existential characteristic that people are always governed by the norms and led to do without even noticing it what one does, and that's called distantiality, or abstandischkeit, at the bottom of page 164, German 127.
+
+101
+00:12:22,440 --> 00:12:25,720
+The one has its own ways in which to be.
+
+102
+00:12:25,720 --> 00:12:42,200
+The tendency of being with, which we call distantiality, and then that's a good translation of Abstandisch, is grounded in the fact that being with one another concerns itself as such with averageness, which is an existential characteristic of the they.
+
+103
+00:12:42,200 --> 00:12:45,960
+That's not a very perspicuous definition.
+
+104
+00:12:45,960 --> 00:12:52,679
+He's got an, because it sounds like you're paying attention, concerning yourself with it.
+
+105
+00:12:52,680 --> 00:12:59,080
+You don't concern yourself with how you get distributed in elevators or how far you stand from people.
+
+106
+00:12:59,080 --> 00:13:01,480
+So let's try the top of 164.
+
+107
+00:13:01,840 --> 00:13:02,880
+Maybe it'll do better.
+
+108
+00:13:02,879 --> 00:13:03,759
+I don't remember.
+
+109
+00:13:03,759 --> 00:13:16,320
+The care about this distance between them, like in distance standing, for instance, but it also could be any other distance more metaphorical, where you how far you deviate from the norms.
+
+110
+00:13:16,320 --> 00:13:23,600
+The care about the distance between them is disturbing to being with one another, though this disturbance is one that is hidden from it.
+
+111
+00:13:23,600 --> 00:13:25,200
+That's the slier again.
+
+112
+00:13:25,200 --> 00:13:30,800
+If we may express it existentially, such being with one another has the character of distantiality.
+
+113
+00:13:30,800 --> 00:13:39,359
+The more inconspicuous this kind of being is to everyday Dasein in itself, all the more stubbornly and primordially does it work itself out.
+
+114
+00:13:39,359 --> 00:13:45,040
+That's a better, I think, notion of it, though it sounds like he's defining it at the bottom of the page.
+
+115
+00:13:45,039 --> 00:13:47,520
+He's not defining it very well.
+
+116
+00:13:47,519 --> 00:13:50,960
+But distantiality is the name for what?
+
+117
+00:13:51,519 --> 00:13:59,120
+The pressure, you have to say, not concern again, but this fly, how does he put it?
+
+118
+00:14:00,720 --> 00:14:04,480
+Inconspicuous pressure to conform to the norms.
+
+119
+00:14:04,480 --> 00:14:06,960
+That's distantiality.
+
+120
+00:14:11,680 --> 00:14:18,800
+And that kind of inconspicuous pressure isn't a kind of intentionality.
+
+121
+00:14:18,799 --> 00:14:20,240
+That's important.
+
+122
+00:14:20,480 --> 00:14:24,960
+That's why it's so hard, as he says by the end of the chapter, to find any way to talk about it.
+
+123
+00:14:24,960 --> 00:14:31,840
+I mean, it isn't if you try to get the right distance from people to have a conversation with them.
+
+124
+00:14:33,279 --> 00:14:34,720
+You just do it.
+
+125
+00:14:35,039 --> 00:14:44,240
+And so this constant pressure to perform doesn't lead you to have the intention of doing such and such.
+
+126
+00:14:44,239 --> 00:14:54,279
+It doesn't lead you even to have this more primordial kind of coping that you have when you're an expert at things and like with the familiarity in the room.
+
+127
+00:14:54,279 --> 00:14:56,120
+So that's much closer.
+
+128
+00:14:57,239 --> 00:15:00,280
+You're taking account of it all the time.
+
+129
+00:15:00,279 --> 00:15:17,320
+And it's forming the background of all of your activity without it ever having to be something conscious that you're trying to achieve as a goal or even something that you are just directed toward as some achievement.
+
+130
+00:15:17,320 --> 00:15:20,760
+It's just something that you are led to do.
+
+131
+00:15:20,759 --> 00:15:26,040
+And that's the way it works.
+
+132
+00:15:26,680 --> 00:15:30,759
+And it manifests itself.
+
+133
+00:15:31,320 --> 00:15:33,080
+I mean, again, what's the phenomenon?
+
+134
+00:15:33,080 --> 00:15:35,560
+Well, mostly it's invisible.
+
+135
+00:15:35,560 --> 00:15:37,000
+So there isn't any phenomenon.
+
+136
+00:15:36,999 --> 00:15:37,879
+It's withdrawn.
+
+137
+00:15:37,879 --> 00:15:55,399
+But if it manifests itself at all, it manifests itself as, and I'm not going to do distance standing, but generally, this pressure toward inconspicuous conforming to the norms becomes conspicuous when you start worrying about what the neighbors will think.
+
+138
+00:15:55,400 --> 00:16:05,720
+I mean, my mother, particularly, I think, I don't know if it's now, maybe that was mother's in the 50s or something, I don't know, was always worrying about what the neighbors would think.
+
+139
+00:16:05,720 --> 00:16:15,319
+And if we didn't mow our lawn that week and it got longer than everybody else's lawn, that would be a bad thing because the neighbors would think we were, I don't know, reckless or something.
+
+140
+00:16:18,360 --> 00:16:19,720
+And it was always like that.
+
+141
+00:16:19,720 --> 00:16:22,840
+I mean, once I remember asking her why she always put the shades down.
+
+142
+00:16:22,839 --> 00:16:24,839
+We lived on the first floor in a ranch house.
+
+143
+00:16:24,839 --> 00:16:30,519
+And she said, well, the neighbors, what would they think if they saw that we didn't have time to make the bed that day?
+
+144
+00:16:30,519 --> 00:16:40,799
+Well, there is a norm, and you better conform to it, and there are all these neighbors watching to make sure that you conform to it, and you will be sensitive to that.
+
+145
+00:16:41,200 --> 00:16:43,200
+That's the phenomena, I think.
+
+146
+00:16:43,200 --> 00:16:48,960
+Now, that leads to the negative form.
+
+147
+00:16:49,279 --> 00:16:56,799
+Up to now, I've been talking about the neutral form, except for the neighbors, which is already beginning to be a conformist issue.
+
+148
+00:16:56,799 --> 00:17:02,319
+But up to the neighbors, I meant to stop and say that's the neutral description.
+
+149
+00:17:02,319 --> 00:17:11,440
+It's sly, it governs everything you do, it's inconspicuous, it's making what you do sharedly intelligible.
+
+150
+00:17:11,440 --> 00:17:13,919
+That's just that's it.
+
+151
+00:17:13,920 --> 00:17:16,239
+Now, but now the negative form.
+
+152
+00:17:16,239 --> 00:17:31,919
+This is where he suddenly switches over as if somehow the word averageness at the bottom of 164 triggered something in him, which is reading a lot of Kierkegaard, and he goes mad against it.
+
+153
+00:17:31,920 --> 00:17:36,480
+How awful this business, this concern with averageness is.
+
+154
+00:17:42,960 --> 00:17:44,720
+I'm saving it till the end.
+
+155
+00:17:44,720 --> 00:17:50,480
+But if I don't get there, remind me, but I will, because there's the, but just not to be mysterious.
+
+156
+00:17:50,480 --> 00:17:58,480
+I said it already last time when he says the one articulates the referential totality, but I can give you some phenomena for that later.
+
+157
+00:17:58,480 --> 00:18:10,799
+But here he is going completely mad against averageness at the top of 165, about four lines down, still 127 in the German.
+
+158
+00:18:10,799 --> 00:18:21,239
+In this averageness, with which it prescribes what can and may not be ventured, it, the one, keeps watch over everything exceptional and thrusts itself to the fore.
+
+159
+00:18:21,559 --> 00:18:26,839
+Everything exceptional means the German would be better outstanding.
+
+160
+00:18:26,839 --> 00:18:28,520
+I mean, that's the idea.
+
+161
+00:18:28,519 --> 00:18:39,319
+I mean, anybody who's doing anything special that is, you know, gets sort of pushed back to doing the norm, what is the normal thing.
+
+162
+00:18:39,319 --> 00:18:42,999
+Every kind of priority gets noiselessly suppressed.
+
+163
+00:18:42,999 --> 00:18:46,680
+Priority ought to be something like superiority, I think.
+
+164
+00:18:48,519 --> 00:18:54,200
+The German word for that outstanding is forun, which would be being ahead.
+
+165
+00:18:54,200 --> 00:18:57,319
+Every kind of priority gets noiselessly suppressed.
+
+166
+00:18:57,319 --> 00:19:02,359
+Overnight, everything that is primordial gets glossed over as something that has long been well known.
+
+167
+00:19:02,360 --> 00:19:05,960
+Everything gained by a struggle becomes just something to be manipulated.
+
+168
+00:19:05,960 --> 00:19:07,400
+All this is true, too.
+
+169
+00:19:07,400 --> 00:19:08,680
+That's the amazing thing.
+
+170
+00:19:08,680 --> 00:19:13,639
+It's not that he's suddenly lost touch with the phenomenon or is just raving.
+
+171
+00:19:13,640 --> 00:19:28,359
+He's just looking at the same phenomena from a different angle now and seeing that the tendency toward norms and averageness, which is just something neutral and necessary, has this bad consequence.
+
+172
+00:19:29,239 --> 00:19:31,720
+So every secret loses its force.
+
+173
+00:19:31,720 --> 00:19:38,359
+This care of averageness reveals in turn an essential tendency of Dasein we call leveling down.
+
+174
+00:19:38,360 --> 00:19:43,799
+That's the, if the translator knew Kierkegaard, he would just call it leveling.
+
+175
+00:19:43,960 --> 00:19:45,720
+It's a Kierkegaard term.
+
+176
+00:19:45,720 --> 00:20:01,920
+Leveling is exactly what Pete Kierkegaard doesn't have a name for the one, but in his book, The Present Age, if you want to read more about this, in this little book, The Present Age, Kierkegaard is talking about the way everything gets leveled.
+
+177
+00:20:01,319 --> 00:20:06,319
+And he happens, for his own reasons, to be blaming it on the press.
+
+178
+00:20:06,880 --> 00:20:09,599
+But that's, you could say now the media.
+
+179
+00:20:09,599 --> 00:20:19,759
+I mean, part of all this averageness, leveling down, everything that's really been interesting and one becomes common knowledge and people think they knew it all along.
+
+180
+00:20:19,759 --> 00:20:22,159
+That all the media's business.
+
+181
+00:20:22,160 --> 00:20:25,440
+But of course, you get it in all other, a lot of areas too.
+
+182
+00:20:25,920 --> 00:20:27,360
+It isn't just in the media.
+
+183
+00:20:27,360 --> 00:20:30,720
+But Kierkegaard is very unhappy about the media.
+
+184
+00:20:30,720 --> 00:20:32,880
+And Heidegger just takes over leveling.
+
+185
+00:20:32,880 --> 00:20:46,559
+So distantiality, which is neutral, averageness, which ought to be neutral, and leveling down, which is certainly them, as ways of being for the one constitute what we know as publicness.
+
+186
+00:20:46,799 --> 00:20:49,440
+That is also a word from Kierkegaard.
+
+187
+00:20:49,440 --> 00:20:51,759
+Kierkegaard talks about the public.
+
+188
+00:20:51,759 --> 00:20:55,119
+The media is really speaking for the public.
+
+189
+00:20:55,120 --> 00:21:03,039
+And the public is, well, there's a place where Kierkegaard says there's no truth in the crowd.
+
+190
+00:21:03,999 --> 00:21:15,680
+The public has always sort of covered up everything that's really interesting and important for us into this banality, the standard way of doing things.
+
+191
+00:21:15,680 --> 00:21:26,079
+And it's constantly, remember I said, co-opting or coercing or repressing all the deviations, some of which are no doubt crazy.
+
+192
+00:21:26,319 --> 00:21:28,880
+But I didn't say that last time, but that's obvious.
+
+193
+00:21:28,880 --> 00:21:37,919
+But some of which are very important, original stuff that somebody like Heidegger has worked hard to work out in his book.
+
+194
+00:21:37,920 --> 00:21:41,839
+And people will say, oh, that just, that can't be right.
+
+195
+00:21:42,400 --> 00:21:44,879
+That's not how one thinks about it.
+
+196
+00:21:44,880 --> 00:21:53,159
+So he says, Publicness proximally controls every way in which the world and Dasan gets interpreted, and it is always right.
+
+197
+00:21:53,480 --> 00:22:00,680
+That turns out to be a very interesting and important sentence, because now I have to make a digression.
+
+198
+00:22:00,999 --> 00:22:05,239
+Sort of, how many are reading about this stuff in my commentary?
+
+199
+00:22:06,200 --> 00:22:08,200
+Oh, needle, middle.
+
+200
+00:22:08,279 --> 00:22:20,999
+Anyway, in my commentary, in case you ever read it, and for those who read it, I go completely wrong and off the rails at this point because I didn't, I don't know, I just wasn't paying attention.
+
+201
+00:22:20,999 --> 00:22:24,680
+I only paid attention to that little bit of that sentence.
+
+202
+00:22:24,680 --> 00:22:29,960
+I mean, in the context, obviously, that's not something positive.
+
+203
+00:22:29,960 --> 00:22:38,999
+But I said, ah, yes, look, Heidegger thinks that publicness are the norms, and the norms control interpretation.
+
+204
+00:22:38,999 --> 00:22:42,839
+And they are the basis of all intelligibility, and they're always right.
+
+205
+00:22:42,839 --> 00:22:48,999
+I mean, it's always right to pronounce Gloucester and not Gloucester.
+
+206
+00:22:48,999 --> 00:22:55,720
+It's always right to do all the right pronunciations, and that's good, otherwise you wouldn't be able to understand each other.
+
+207
+00:22:55,720 --> 00:23:00,919
+And it's right to eat food with a fork in our culture and with your hands in Morocco.
+
+208
+00:23:00,920 --> 00:23:03,800
+And of course, it is kind of like a pun.
+
+209
+00:23:04,519 --> 00:23:07,320
+Driving, you're always on, you have to do what's right.
+
+210
+00:23:07,559 --> 00:23:09,480
+In our case, always drive on the right.
+
+211
+00:23:09,480 --> 00:23:16,359
+And it's a good thing that there's some way that one drives, otherwise, it'd be disaster.
+
+212
+00:23:16,360 --> 00:23:25,080
+So I thought, aha, he's got this important idea that the norms are tell us the right way to do things.
+
+213
+00:23:25,079 --> 00:23:27,480
+And if it weren't for that, we wouldn't know what to do.
+
+214
+00:23:27,480 --> 00:23:31,159
+And because of that, we've got an organized world.
+
+215
+00:23:31,360 --> 00:23:50,799
+And I thought, aha, he's flipping in this passage at that point from his Kierkegaardian railing to what he believes from his Heideggerian, sorry, from his Wittgensteinian, which he doesn't know, but I mean, Wittgenstein-like belief in the positive powers of the norms in the background.
+
+216
+00:23:50,799 --> 00:24:01,440
+And then a lot of people wrote sort of that there was something wrong with my commentary because I didn't do Division II and that there you and that, oh, let me know, I have to say a little more about it.
+
+217
+00:24:01,440 --> 00:24:11,680
+In fact, wait a minute, I've got to give you guys this part, find my lecture, which is somewhere in here.
+
+218
+00:24:13,200 --> 00:24:22,399
+I wrote some notes for myself about this, and I have to see that I do it in the right way, the part of getting how I got it wrong and how you shouldn't get it wrong.
+
+219
+00:24:22,400 --> 00:24:23,200
+Okay.
+
+220
+00:24:27,279 --> 00:24:48,640
+No, I don't know what I was looking for here, but anyway, so what, oh yeah, people said I didn't understand that in Division II that Heidegger showed something was wrong with Division I and that I couldn't write a commentary just on Division I because it would be wrong in some way that I would realize if I had added Division II.
+
+221
+00:24:48,640 --> 00:24:50,399
+So I thought that might be right.
+
+222
+00:24:50,400 --> 00:25:04,799
+But what was peculiar is in all the reviews, nobody ever said what it was that was wrong about Division I if you just wrote, what does Heidegger take back that he said in Division I, in Division II?
+
+223
+00:25:04,799 --> 00:25:06,920
+And I couldn't find anybody who knew.
+
+224
+00:25:06,920 --> 00:25:14,039
+And it looked to me like Division I was right from beginning to end, and that Heidegger thought it was, and if he was taking something back, he would have said so.
+
+225
+00:25:14,039 --> 00:25:14,960
+And so forth.
+
+226
+00:25:14,960 --> 00:25:16,440
+But there is an answer.
+
+227
+00:25:15,999 --> 00:25:21,880
+There is something, and this is exactly the place where Heidegger is saying something.
+
+228
+00:25:22,839 --> 00:25:24,039
+Or no, sorry.
+
+229
+00:25:25,480 --> 00:25:31,320
+Heidegger is saying something which is only half the story in Division I.
+
+230
+00:25:31,319 --> 00:25:37,960
+He's not making a fuss about it, but you do have to complete it with Division II, or you get the wrong view.
+
+231
+00:25:37,960 --> 00:25:39,320
+Okay, what's the wrong view?
+
+232
+00:25:39,319 --> 00:25:40,599
+The one I just gave you.
+
+233
+00:25:40,839 --> 00:25:56,999
+What Heidegger is saying here is that the norms are either a big disaster, which I just read, or that they are, after all, the source of intelligibility, and in a certain way, they are always right.
+
+234
+00:25:57,319 --> 00:26:01,880
+And the, and I went now, and I'll let you where I went wrong.
+
+235
+00:26:01,880 --> 00:26:13,160
+I mean, what I got wrong was I took from this sentence in isolation the idea that Heidegger thought that there was no higher intelligibility than everyday intelligibility.
+
+236
+00:26:13,799 --> 00:26:18,039
+That's a big, I think that's it, I think Wittgenstein thinks that.
+
+237
+00:26:18,039 --> 00:26:24,039
+I think that it's an interesting thesis, and in a certain way, it's got something right.
+
+238
+00:26:24,039 --> 00:26:36,359
+But Heidegger thinks that there is a higher intelligibility that goes against the average standard banal intelligibility of the public.
+
+239
+00:26:37,960 --> 00:26:40,919
+And he goes on about it at length in Division II.
+
+240
+00:26:40,920 --> 00:26:55,799
+And I can just tell you sort of briefly, without your having to know all of Division II, that the higher intelligibility turns out to be a kind of mastery of the culture, in which he gets it from the phronymous.
+
+241
+00:26:55,880 --> 00:26:57,960
+I mentioned Phronymus last time, I think.
+
+242
+00:26:57,960 --> 00:27:06,639
+He has a lot to say about the person of practical wisdom in Aristotle, who does the appropriate thing at the appropriate time in the appropriate way.
+
+243
+00:27:06,960 --> 00:27:13,119
+Now, that's interesting, because that's, in a way, what you could say about what one does.
+
+244
+00:27:13,120 --> 00:27:27,440
+But one Dasman, the one, the public, the average, does just the normal, average, appropriate thing, at the normal, average, appropriate time, in the normal, average, appropriate way.
+
+245
+00:27:27,440 --> 00:27:41,440
+Whereas the man of practical wisdom and the authentic Dasein, which is what he's talking about, does the uniquely appropriate thing in this particular situation, in his appropriate way, or her appropriate way.
+
+246
+00:27:41,440 --> 00:27:43,999
+And that's the higher intelligibility.
+
+247
+00:27:43,999 --> 00:27:56,720
+To be able to see in a situation what the normal people don't see, whether it's original and primordial, maybe that is more basic and more appropriate.
+
+248
+00:27:56,720 --> 00:27:58,879
+And that's what I missed.
+
+249
+00:27:58,880 --> 00:28:01,440
+And I missed it because I did see something.
+
+250
+00:28:01,440 --> 00:28:05,839
+Certainly, Heidegger doesn't believe in any metaphysical higher intelligibility.
+
+251
+00:28:06,559 --> 00:28:08,239
+There he is, like Wittgenstein.
+
+252
+00:28:08,239 --> 00:28:28,079
+It isn't as if there's, like in Plato, the ideas, which are more intelligible than everyday intelligibility, or Descartes, science, which is more intelligible, or Husserl doing his kind of phenomenology to get us at the real level of the meaning-giving organization of everything.
+
+253
+00:28:28,079 --> 00:28:31,599
+Heidegger doesn't believe in any of those metaphysical things.
+
+254
+00:28:31,599 --> 00:28:36,960
+There isn't any higher source of intelligibility than the one.
+
+255
+00:28:36,960 --> 00:28:38,159
+So it's a very tricky.
+
+256
+00:28:38,319 --> 00:28:41,519
+You don't have a higher source of intelligibility.
+
+257
+00:28:41,519 --> 00:28:44,239
+And in a certain way, the one is always right.
+
+258
+00:28:44,559 --> 00:28:48,599
+And yet, there's another sense in which the one is always wrong.
+
+259
+00:28:46,319 --> 00:28:51,400
+And if you just stick to the phenomena, you can see what that means.
+
+260
+00:28:51,640 --> 00:28:57,079
+There's a sense in which the normal way of doing things is the right way of doing things.
+
+261
+00:28:57,079 --> 00:29:28,519
+And there's another sense in which the normal way of doing things covers up the more, what are his words, the outstanding, the primordial, and so forth, original, et cetera, way of doing things, which is there, but only the very skilled masters of the culture who are authentic and who are not sort of sort of making life easy for themselves by just doing what one does, only they will see it.
+
+262
+00:29:28,519 --> 00:29:29,879
+Okay, so Han.
+
+263
+00:29:30,360 --> 00:29:32,119
+Wait, first.
+
+264
+00:29:32,120 --> 00:29:33,079
+Yeah, go.
+
+265
+00:29:33,400 --> 00:29:34,039
+Oh, you don't.
+
+266
+00:29:34,120 --> 00:29:35,079
+You're going to wait?
+
+267
+00:29:35,079 --> 00:29:36,200
+Okay, David.
+
+268
+00:29:37,480 --> 00:29:42,759
+Well, that's a it doesn't sector's knowledge that they're hiring dignities at all.
+
+269
+00:29:44,039 --> 00:29:45,079
+That's right.
+
+270
+00:29:45,720 --> 00:29:46,200
+It does.
+
+271
+00:29:49,480 --> 00:29:50,519
+That's right.
+
+272
+00:29:50,519 --> 00:29:50,920
+Good.
+
+273
+00:29:50,920 --> 00:30:03,800
+Yes, leveling levels by not only not seeing that there's this unique way, but in fact actively denying it because it's comforting.
+
+274
+00:30:03,799 --> 00:30:11,960
+Heidegger says tranquilizing and disburdening to think that there is all you have to do is know what the neighbors think and you'll know what to do.
+
+275
+00:30:11,960 --> 00:30:15,799
+That's the sense in which there isn't any, go back to that.
+
+276
+00:30:15,799 --> 00:30:24,999
+I mean, it isn't as if my mother is going to try to figure out some better way of mowing the lawn or maybe not having a lawn or anything to find out what you should be doing.
+
+277
+00:30:24,999 --> 00:30:29,480
+In any case, you just ask yourself, well, what would the neighbors do or approve of?
+
+278
+00:30:29,480 --> 00:30:39,120
+That's leveling, and that's, as you say, denying that there is any, could be, any better way of doing things than the way one normally just does them.
+
+279
+00:30:39,279 --> 00:30:40,480
+That's what you think.
+
+280
+00:30:40,480 --> 00:30:41,360
+Yeah, that's right.
+
+281
+00:30:41,360 --> 00:30:43,120
+That's the danger of publicness.
+
+282
+00:30:43,120 --> 00:30:43,519
+Yeah.
+
+283
+00:30:46,160 --> 00:30:51,679
+They don't have immediate theme in terms of what's probably already in there.
+
+284
+00:30:51,999 --> 00:30:53,200
+Yeah, that's right.
+
+285
+00:30:53,200 --> 00:31:06,559
+And then the fronomist, the person of practical wisdom, the authentic individual, quoting later Heidegger, later, meaning Division II, responds not, see, everybody responds to the general situation.
+
+286
+00:31:06,559 --> 00:31:08,879
+They do the normal, standard thing.
+
+287
+00:31:08,880 --> 00:31:19,039
+And the authentic Dasein responds to the unique situation, the concrete, particular situation, and does something that is, in effect, surprising.
+
+288
+00:31:19,039 --> 00:31:34,880
+Though not, so not so surprising that it's like, as I said last time, you could just go out and roll on the ground, but surprising in a way that it will later, Heidegger didn't talk about this, but it can later become part of the normal way.
+
+289
+00:31:34,880 --> 00:31:44,639
+But then, of course, it's been leveled out of its appropriateness to the concrete situation, and it's become some standard thing to do in some standard situation.
+
+290
+00:31:45,279 --> 00:31:50,400
+I get you, you look like maybe you're not happy that I didn't get what you really were trying to say, is that right?
+
+291
+00:31:57,759 --> 00:32:02,319
+Yes, and that's what yes, right.
+
+292
+00:32:02,319 --> 00:32:06,399
+And the exception is gotta, and where is this exception going to come from?
+
+293
+00:32:06,400 --> 00:32:18,759
+Well, in Heidegger, anyway, it's gonna come from just becoming more of an expert at the very practices of the culture than anybody else, which enables you to do this more refined and superior thing.
+
+294
+00:32:18,999 --> 00:32:36,440
+I mean, the the frontimus in Aristotle, which is his model, hasn't got any special access to calling from God, for instance, like in y like you can in Kierkegaard and do something really amazing because nobody's ever had this nice calling anywhere like Abraham had to go out and murder his son.
+
+295
+00:32:36,759 --> 00:32:38,360
+And this is pretty far out.
+
+296
+00:32:38,360 --> 00:32:40,919
+That's not a frontimus-like thing to do.
+
+297
+00:32:41,239 --> 00:32:48,200
+It it is not it is not even the most exquisitely appropriate thing to do at the appropriate time and the appropriate way.
+
+298
+00:32:48,200 --> 00:32:55,800
+So so you but Heidegger thinks all you need is just sort of better intelligibility.
+
+299
+00:32:55,800 --> 00:33:01,320
+That's what I missed because and that's what most people don't even notice that Heidegger's got this interesting problem.
+
+300
+00:33:01,320 --> 00:33:16,519
+How do you stay in the one, have no source, not God and not the good and not and and so forth, of any other kind of intelligibility and still have a higher intelligibility that is what being leveled by the public.
+
+301
+00:33:16,519 --> 00:33:18,600
+That's what I'm trying to explain.
+
+302
+00:33:18,599 --> 00:33:19,079
+Okay.
+
+303
+00:33:19,079 --> 00:33:21,400
+Yeah, Ty when you're first yeah, he yeah, he said no.
+
+304
+00:33:21,400 --> 00:33:22,999
+Okay, go ahead, yeah, Tyra.
+
+305
+00:33:46,760 --> 00:33:51,360
+Why is the rare fashion with the time will be the concept.
+
+306
+00:33:51,360 --> 00:34:00,440
+I mean, then you think they will realize that preventing themselves have not faced us of intelligibility?
+
+307
+00:34:00,440 --> 00:34:02,320
+I don't think so.
+
+308
+00:34:02,639 --> 00:34:03,599
+I don't either.
+
+309
+00:34:03,599 --> 00:34:05,039
+I mean, I thought you were defending that.
+
+310
+00:34:01,240 --> 00:34:06,480
+No, there is no basis.
+
+311
+00:34:06,800 --> 00:34:10,719
+There is nothing but no, it's not just a formal difference.
+
+312
+00:34:10,719 --> 00:34:12,160
+It's a crucial difference.
+
+313
+00:34:12,800 --> 00:34:14,160
+There's no principle.
+
+314
+00:34:14,159 --> 00:34:15,999
+There's no word from God.
+
+315
+00:34:15,999 --> 00:34:21,600
+There's no getting out of the temporal into the eternal and contemplating the good.
+
+316
+00:34:21,599 --> 00:34:26,719
+There is just becoming better at being good in your culture than other people.
+
+317
+00:34:26,719 --> 00:34:29,679
+You become, maybe it helps excite bourgeois.
+
+318
+00:34:29,679 --> 00:34:30,480
+Do you know bourgeois?
+
+319
+00:34:30,480 --> 00:34:32,400
+You become a cultural virtuoso.
+
+320
+00:34:32,400 --> 00:34:38,480
+A cultural virtuoso isn't somebody that's got access to some other realm of intelligibility.
+
+321
+00:34:38,480 --> 00:34:42,320
+They just do the culture better than the normal people do the culture.
+
+322
+00:34:42,320 --> 00:34:49,999
+And the normal people think the cultural virtuoso is a deviant of some sort that needs to be shaped up.
+
+323
+00:34:49,999 --> 00:34:59,599
+But the cultural virtuoso is really doing something that is a better expression of the sort of tendency of the style of the culture.
+
+324
+00:34:59,999 --> 00:35:02,640
+That's how Heidegger sees it, and Aristotle.
+
+325
+00:35:03,360 --> 00:35:06,799
+But let me, by the way, I didn't expect at all to spend so much time on it.
+
+326
+00:35:06,800 --> 00:35:10,719
+Now I've got to tell you where it is, at least, so you can at least see it.
+
+327
+00:35:10,719 --> 00:35:12,719
+We'll help me find the guilt chapter.
+
+328
+00:35:12,719 --> 00:35:14,879
+Oddly enough, it's in the guilt chapter.
+
+329
+00:35:15,119 --> 00:35:16,720
+I won't tell you why.
+
+330
+00:35:20,079 --> 00:35:21,279
+It's only a page or two.
+
+331
+00:35:21,280 --> 00:35:24,480
+Heidegger gave whole courses on phronesis, and it's typical.
+
+332
+00:35:24,480 --> 00:35:27,760
+Here we are, on 346.
+
+333
+00:35:29,039 --> 00:35:32,319
+And it's very, very relevant, so we might as well look at it.
+
+334
+00:35:32,320 --> 00:35:36,400
+In German, it's on 299.
+
+335
+00:35:36,719 --> 00:35:45,760
+So he's talking about what he calls the situation in italics at the end of the first, at the top paragraph.
+
+336
+00:35:45,760 --> 00:35:46,400
+And what is the situation?
+
+337
+00:35:50,920 --> 00:35:51,799
+There you go.
+
+338
+00:35:52,760 --> 00:35:56,760
+You see the situation through resoluteness in it and so forth.
+
+339
+00:35:56,760 --> 00:36:05,800
+Okay, and the situation only really is understandable as, and I'm trying to find if I can find the best existing.
+
+340
+00:36:06,039 --> 00:36:10,600
+All I can give you that's helpful is the bottom of 346.
+
+341
+00:36:10,599 --> 00:36:15,880
+For the one, however, the situation is essentially something that's been closed off.
+
+342
+00:36:15,880 --> 00:36:18,840
+The one knows only the general situation.
+
+343
+00:36:19,320 --> 00:36:24,679
+It's only in contrast to that that you can understand what the situation with a capital S is.
+
+344
+00:36:24,679 --> 00:36:29,080
+He never says the unique situation or the concrete situation.
+
+345
+00:36:29,079 --> 00:36:30,120
+I said that.
+
+346
+00:36:30,119 --> 00:36:46,600
+But if you see what the structure of it is, then you see that the one responds in the standard way and does the okay, normal thing, and that's understanding the general situation.
+
+347
+00:36:46,599 --> 00:37:00,999
+And whatever words you have for this other person who does what is outstanding, that is different than, and in a better way, different than, that's what I'm calling responding to the unique situation.
+
+348
+00:37:02,679 --> 00:37:04,120
+We haven't lost each other.
+
+349
+00:37:04,119 --> 00:37:06,919
+And that's a higher intelligibility.
+
+350
+00:37:07,240 --> 00:37:11,080
+So now back to the middle of 165.
+
+351
+00:37:12,039 --> 00:37:18,280
+Publicness proximately controls every way in which the world and Asian gets interpreted, and it is always right.
+
+352
+00:37:18,599 --> 00:37:22,359
+Now, that is not a Wittgensteinian claim, as I thought it was.
+
+353
+00:37:22,760 --> 00:37:23,480
+Look at that.
+
+354
+00:37:23,480 --> 00:37:28,519
+The practices tell us what's right, and that's what is right.
+
+355
+00:37:28,519 --> 00:37:37,039
+And if you just go on with the paragraph, you can see he's still railing against the leveling of the standard way of doing things.
+
+356
+00:37:37,360 --> 00:37:58,640
+Because he says, not because there is some distinctive and primary relationship of being in which it is related to things, or because that is, that is, it isn't as if the publicness has sort of got at the real truth about things, or because it avails itself of some transparency on the part of Dasein, which it has explicitly appropriated.
+
+357
+00:37:59,360 --> 00:38:01,759
+Hmm, I wonder if that's the front of us.
+
+358
+00:38:01,760 --> 00:38:02,880
+Just a second.
+
+359
+00:38:02,880 --> 00:38:07,039
+Something distinctive.
+
+360
+00:38:07,039 --> 00:38:12,480
+Let me think that's not because there's an interesting clause which I never noticed before.
+
+361
+00:38:12,480 --> 00:38:16,079
+That refers back to the response to the unique situation.
+
+362
+00:38:16,079 --> 00:38:18,240
+So he's saying, yes, it's always right.
+
+363
+00:38:18,240 --> 00:38:21,759
+I mean, this is not, I'm not saying I'm, I'm just giving more evidence for my view.
+
+364
+00:38:21,760 --> 00:38:23,360
+I'm not disagreeing with myself.
+
+365
+00:38:23,360 --> 00:38:26,160
+I mean, he's saying, yeah, the public is always right.
+
+366
+00:38:26,960 --> 00:38:28,480
+Why is it always right?
+
+367
+00:38:28,480 --> 00:38:35,760
+Well, it's not always right because it's got at a better, clearer understanding of human relationships.
+
+368
+00:38:35,760 --> 00:38:44,640
+It's not because somehow it sees transparently, that is, deeply, into the nature of Dasein.
+
+369
+00:38:44,639 --> 00:38:50,640
+Those would be what makes the authentic person right.
+
+370
+00:38:50,960 --> 00:38:52,400
+But it's always right.
+
+371
+00:38:52,559 --> 00:38:55,999
+Now comes what I didn't read and didn't see stupidly.
+
+372
+00:38:56,159 --> 00:39:04,480
+It's always right because it is insensitive to every difference of level and genuineness and thus never gets to the heart of the matter.
+
+373
+00:39:04,480 --> 00:39:07,279
+Well, boy, that's not a Wittgensteinian claim.
+
+374
+00:39:07,280 --> 00:39:28,999
+That's a very Heideggerian, interesting claim that there is a more higher intelligibility that gets at, has a deeper sense of what's going on, what the possibilities are in the culture, and a mastery at doing the appropriate thing, and that's it.
+
+375
+00:39:28,999 --> 00:39:32,679
+By publicness, on the other hand, go back to that again.
+
+376
+00:39:33,159 --> 00:39:38,280
+Publicness has no understanding of what is genuine and outstanding and original.
+
+377
+00:39:38,280 --> 00:39:44,519
+Everything gets obscured and has been covered up, gets passed off as something familiar and accessible to everyone.
+
+378
+00:39:44,519 --> 00:39:46,039
+That's leveling.
+
+379
+00:39:46,679 --> 00:39:59,400
+Everybody knows what the normal, appropriate thing to do in the normal situation in the normal way, and that covers up the possibility of doing something special.
+
+380
+00:39:59,719 --> 00:40:01,079
+You look like you want to say something.
+
+381
+00:40:01,079 --> 00:40:01,880
+Yeah.
+
+382
+00:40:15,559 --> 00:40:19,879
+Yes, wait, wait, yeah, you're going already, but you just jumped ahead of where we are.
+
+383
+00:40:19,880 --> 00:40:22,920
+I mean, that's actually, it's on 167, as you said.
+
+384
+00:40:22,920 --> 00:40:26,120
+Yeah, okay, yeah, yeah, you're right, we're going to get there.
+
+385
+00:40:26,840 --> 00:40:28,999
+So, anybody else?
+
+386
+00:40:28,999 --> 00:40:30,760
+I mean, if, yeah.
+
+387
+00:40:34,599 --> 00:40:35,560
+Okay.
+
+388
+00:40:36,840 --> 00:40:47,239
+What giant appropriate is that you're speaking about individual translutes, I'm sort of that orients that's appropriate to the economic development.
+
+389
+00:40:50,199 --> 00:40:53,400
+Well, that's a good question, but Heidegger's trying.
+
+390
+00:40:53,400 --> 00:40:56,039
+I mean, you're all on the right track to try to understand this.
+
+391
+00:40:56,039 --> 00:41:15,360
+Heidegger's trying to tell you this almost sort of inconceivable idea, and I'm just repeating myself, that there's a higher intelligibility truer to something or other than our normal intelligibility, but there isn't any other intelligibility than the intelligibility of our shared norms.
+
+392
+00:41:15,360 --> 00:41:16,640
+How is he going to do that?
+
+393
+00:41:16,639 --> 00:41:18,239
+Well, there's a hand up there, and then I'll come.
+
+394
+00:41:18,240 --> 00:41:19,440
+I haven't answered you yet.
+
+395
+00:41:19,440 --> 00:41:20,160
+Yeah.
+
+396
+00:41:22,079 --> 00:41:40,799
+Regarding that as well, this might not be what Heidegger would say, but thinking about it, I wonder if being an authentic person or having that higher intelligibility has to do with, at least a loaded term, but has towards an understanding of the human condition.
+
+397
+00:41:42,079 --> 00:41:46,320
+And I think as an example, I think of like inventing a new article.
+
+398
+00:41:46,320 --> 00:41:51,279
+Like someone, some genius comes along and invents a totally new style of creating art.
+
+399
+00:41:51,360 --> 00:42:07,440
+And everyone thinks they're great, but whether obsolete or just inclusively, the person creates the form of art realizes that it's still emotionally evocative and so forth, still tells something, still behaves the way you are, but still there's likely to be the way art.
+
+400
+00:42:07,920 --> 00:42:10,960
+Okay, let's stop there because I just said lots of interesting things.
+
+401
+00:42:10,960 --> 00:42:17,599
+That is, that's what you're saying is a perfectly possible thing to say, but it can't be Heidegger's thing to say.
+
+402
+00:42:17,599 --> 00:42:25,679
+And why, and you sort of said that when you introduced it, that it wasn't maybe, it's absolutely anti-Heidegger because it's anti-existentialist, so to speak.
+
+403
+00:42:25,679 --> 00:42:27,600
+There isn't any human condition.
+
+404
+00:42:27,599 --> 00:42:33,840
+There is these very abstract existential structures, but they don't tell you what to do.
+
+405
+00:42:33,840 --> 00:42:36,799
+But I can transform your remark into one that Heidegger would like.
+
+406
+00:42:36,800 --> 00:42:40,160
+It's not the human condition, it's the cultural style.
+
+407
+00:42:40,159 --> 00:43:02,519
+But there is something there that's shared by the people, and they haven't got a very clear, deep understanding of it, but the artist can bring out aspects of, so to speak, what the cultural style would be at its best or something, and that's going to be like this other thing, except without the human condition, I think.
+
+408
+00:43:02,519 --> 00:43:03,079
+Yeah.
+
+409
+00:43:04,039 --> 00:43:04,600
+Yeah.
+
+410
+00:43:09,079 --> 00:43:12,279
+Ah, yeah, it's fascinating.
+
+411
+00:43:12,280 --> 00:43:17,799
+Heidegger, Heidegger has no answer to that, and he knows he has no answer to that.
+
+412
+00:43:17,800 --> 00:43:30,600
+And he thinks that that's a wrong kind of question, something like why is there something rather than nothing, which he talks a lot about and thinks that if you think that there's some answer to that, you're still thinking in a metaphysical sort of way.
+
+413
+00:43:30,599 --> 00:43:32,519
+He has a sort of answer.
+
+414
+00:43:32,519 --> 00:43:41,560
+Now I'm going to jump into division, into later Heidegger, and say something pretty incomprehensible and for all I know also indefensible.
+
+415
+00:43:41,559 --> 00:43:44,519
+We get more light on it, though, but I don't think it's going to help.
+
+416
+00:43:45,800 --> 00:43:52,279
+Heidegger says that it's the German word is Eridnis.
+
+417
+00:43:53,240 --> 00:44:10,439
+What's going on in the culture and why it has a style and why that style has a kind of depth which the artist or the phronomist can live out of is because it's sent by Eridnis.
+
+418
+00:44:10,440 --> 00:44:14,039
+And now, clearly, it's not sent by any kind of God.
+
+419
+00:44:14,039 --> 00:44:16,600
+Heidegger doesn't believe in any kind of God.
+
+420
+00:44:16,840 --> 00:44:20,760
+But Arignus is going to tell you something deep about the practices.
+
+421
+00:44:20,760 --> 00:44:25,080
+Well, nobody that I know has a very clear idea about that.
+
+422
+00:44:25,079 --> 00:44:37,039
+But one of my favorite TAs says that Heidegger does talk a lot about logos of gathering.
+
+423
+00:44:39,280 --> 00:44:56,160
+And what's really, what Heidegger may be saying is that the bottom line is that our practices have a tendency to gather, to become richer, more refined, and bring out things more and more in their possibilities, something like that.
+
+424
+00:44:56,159 --> 00:44:57,279
+That's the bottom line.
+
+425
+00:44:57,280 --> 00:44:59,840
+Why do our practices gather like that?
+
+426
+00:44:59,840 --> 00:45:02,720
+That's a kind of mysterious gift.
+
+427
+00:45:02,719 --> 00:45:04,559
+And how many know Derrida at all?
+
+428
+00:45:04,559 --> 00:45:06,879
+It helps to see what would be the denial of it.
+
+429
+00:45:06,880 --> 00:45:10,239
+It would be to say, no, the practices don't gather, they disseminate.
+
+430
+00:45:10,240 --> 00:45:12,719
+Things get less and less organized.
+
+431
+00:45:13,599 --> 00:45:33,599
+But Heidegger's picture would be to take my old TA's example: in a kind of fishing culture, the distinctions of kinds of fish, the kinds of bait, the kinds of weather that you can get, which kinds of fish, and when and where you eat which kinds of fish, more and more gathers around the fishing business.
+
+432
+00:45:33,599 --> 00:45:35,199
+That's how our culture works.
+
+433
+00:45:35,199 --> 00:45:40,400
+It doesn't spin off into endless disconnected stuff.
+
+434
+00:45:41,599 --> 00:45:44,880
+And another view you could have of how the practices work.
+
+435
+00:45:44,880 --> 00:45:48,799
+And then that's, remember, that's going to have to be the bottom line, I think, for Heidegger.
+
+436
+00:45:49,199 --> 00:45:59,920
+Foucault thinks that the practices work by getting themselves into sort of knots, problems, and then have to find out some way of redefining things so as to get out.
+
+437
+00:45:59,920 --> 00:46:02,880
+So problematization is Foucault's word for it.
+
+438
+00:46:02,880 --> 00:46:07,200
+Dissemination is Derrida's proposal.
+
+439
+00:46:07,199 --> 00:46:21,159
+And gathering or eridness, which gets translated that something like appropriation, things getting more and more appropriate, is the answer.
+
+440
+00:46:16,320 --> 00:46:23,559
+It certainly doesn't, you've got to be very careful.
+
+441
+00:46:24,119 --> 00:46:46,120
+Hey, it's not going to give you any kind of ontological in the old sense or no kind of supreme being, whether that be the good or the transcendental ego or God, is going to come in, or human nature either, can come in and give us an answer to this, which means that it, let me go on because this is just the next line, it's very disturbing.
+
+442
+00:46:46,119 --> 00:46:49,480
+What you are all trying to do is to make it less disturbing.
+
+443
+00:46:49,480 --> 00:46:55,720
+It would be nice if the practices were somehow grounded in, oh, another one is rationality.
+
+444
+00:46:55,719 --> 00:47:00,120
+Maybe ultimately there's a more or less rational way of doing things.
+
+445
+00:47:00,119 --> 00:47:04,680
+Or as he says, maybe it would be more or less true to human nature.
+
+446
+00:47:04,679 --> 00:47:08,679
+Or, of course, you could try to be true to the will of God, whatever.
+
+447
+00:47:08,679 --> 00:47:12,039
+But Heidegger thinks, no, no, this is just like Wittgenstein.
+
+448
+00:47:12,039 --> 00:47:14,360
+I know this is just what we do.
+
+449
+00:47:14,360 --> 00:47:20,920
+But he does think that what we do can be, we can do it more or less with more or less refinement.
+
+450
+00:47:21,240 --> 00:47:23,719
+Let me help with one more way to put it.
+
+451
+00:47:24,920 --> 00:47:30,360
+The cultural master is just another form of expert.
+
+452
+00:47:30,360 --> 00:47:41,719
+Experts or masters are always better at doing something than anybody else in a way that a lot of other people won't even be able to see or recognize.
+
+453
+00:47:41,719 --> 00:48:12,560
+Whether you're a master violinist or whether you're a master chess player or whether you're a master basketball player, whatever you are a master in, you get there not by knowing some sort of secret thing about that practice that other people don't know, but just by having enough skill, enough dedication, enough lack of satisfaction with where you are, enough sort of anxious suspicion of everybody else's way of doing things, and just keep doing it.
+
+454
+00:48:12,559 --> 00:48:15,759
+And what happens is you learn by your mistakes.
+
+455
+00:48:15,760 --> 00:48:16,880
+That's very important.
+
+456
+00:48:17,440 --> 00:48:20,639
+I'm not talking Heidegger anymore, I'm talking sort of Dreyfus theory.
+
+457
+00:48:20,639 --> 00:48:27,999
+But I mean, you learn by your mistakes and taking risks and discovering what works and what doesn't work.
+
+458
+00:48:27,999 --> 00:48:35,120
+And you do that whether it's chess or whether it's tennis or whether it's music or whatever, or philosophy.
+
+459
+00:48:35,119 --> 00:48:43,680
+You learn and gradually you get better and better and get a more and more refined sense of the situations in which to do what and what.
+
+460
+00:48:43,679 --> 00:48:47,760
+And where in this situation everybody thinks it's the same as that situation.
+
+461
+00:48:47,760 --> 00:48:52,480
+You thought it was the same and you did it and you got burned, you made a mistake, you suffered.
+
+462
+00:48:52,800 --> 00:48:59,439
+Now you distinguish situation from situation B and you do what's appropriate in A when it's A and B when it's B.
+
+463
+00:48:59,440 --> 00:49:01,999
+And you can get better and better in A, B, C, D.
+
+464
+00:49:01,999 --> 00:49:10,640
+And gradually you've got this amazing spectrum of situations that most people don't even see, and you respond to each one appropriately.
+
+465
+00:49:10,639 --> 00:49:12,800
+Then you're a master in that domain.
+
+466
+00:49:12,800 --> 00:49:17,039
+And the front of us is a master in the domain of living in that culture.
+
+467
+00:49:17,039 --> 00:49:17,439
+Yeah.
+
+468
+00:49:24,480 --> 00:49:32,559
+That sounds good, but I think the question that needs to be asked to what divides, what causes something to work in the top work.
+
+469
+00:49:32,639 --> 00:49:43,519
+And see what maybe I'm like trying too hard to large words together, but it seems like it might be possible, because Heidegger accepts both a physical reality and psychical reality.
+
+470
+00:49:43,519 --> 00:49:47,480
+Although he doesn't have a physical reality to underline more basic than.
+
+471
+00:49:49,320 --> 00:50:04,360
+It's set up maybe what I decided to call new vision, like those psychological realities about ourselves, might be considered part of that physical reality, that sort of plays and what the existential reality.
+
+472
+00:50:04,360 --> 00:50:07,240
+Okay, I'll tell you Heidegger's intuition against that.
+
+473
+00:50:07,480 --> 00:50:16,120
+I mean, that's a perfectly sensible proposal, but Heidegger's going to have this very typical existentialist cultural relativism about it.
+
+474
+00:50:16,119 --> 00:50:20,360
+What in one culture works in another culture isn't going to work at all.
+
+475
+00:50:20,360 --> 00:50:23,879
+And that's not because human nature is different.
+
+476
+00:50:23,880 --> 00:50:25,640
+It's pretty much the same.
+
+477
+00:50:25,639 --> 00:50:31,639
+It's because what counts as working is part of the function of the style of the culture.
+
+478
+00:50:31,639 --> 00:50:35,080
+And there's no reason something works or doesn't work.
+
+479
+00:50:35,079 --> 00:50:36,440
+It just does or doesn't.
+
+480
+00:50:36,440 --> 00:50:46,200
+I mean, either given that culture that you and the other people after you've done it feel good about it and think, wow, we would never have thought of doing that, but that does seem to be a good thing to do.
+
+481
+00:50:46,199 --> 00:50:50,200
+But that's, I've got to keep stressing the difference between him and me is very important.
+
+482
+00:50:51,240 --> 00:50:53,399
+He wants some kind of ground.
+
+483
+00:50:53,400 --> 00:51:00,680
+He wants some kind of explanation about why these distinctions are the right ones, good ones to make.
+
+484
+00:51:00,679 --> 00:51:06,280
+And Heidegger's going to resist, like Wittgenstein, any sense of ground.
+
+485
+00:51:06,280 --> 00:51:10,120
+And that's going to, in Heidegger jargon, you're not at home in the world.
+
+486
+00:51:10,119 --> 00:51:14,039
+And your nature is that you take a stand on your being.
+
+487
+00:51:14,039 --> 00:51:20,759
+That what coming into my mind is a sort of proverbs.
+
+488
+00:51:20,760 --> 00:51:37,840
+The difference between supposedly our way of looking at things in the Japanese w one way is that we've got a proverb that the squeaky wheel gets the oil, and that means that somehow if you're better at understanding the squeakiness and the oil and so forth, you're going to get master at that.
+
+489
+00:51:37,840 --> 00:51:42,480
+And the Japanese proverb is the nail that sticks out gets pounded down.
+
+490
+00:51:42,639 --> 00:51:44,639
+That totally opposite thing.
+
+491
+00:51:44,639 --> 00:52:02,080
+And there, the more you can become part of the group and reach a consensus in which everybody together sees that this is the way the appropriate way to go, that's going to be what makes that the right way to go.
+
+492
+00:52:02,079 --> 00:52:11,519
+And in a culture in which everybody's an individual and you can make more of a fuss and get more attention than everybody else, then that's going to look like the right way to go.
+
+493
+00:52:11,519 --> 00:52:18,240
+And there is, but there's no higher level position from which to say which is right.
+
+494
+00:52:18,240 --> 00:52:19,359
+I was going to get to this.
+
+495
+00:52:19,360 --> 00:52:22,160
+So we will, I let me see where we are.
+
+496
+00:52:22,159 --> 00:52:42,240
+Because this lack, in Heidegger language, we are never at home in the world, which is partly because there's no grounding that settles anything for us, except we just have we just can go do something better and worse without knowing why or how to justify it.
+
+497
+00:52:42,559 --> 00:52:44,880
+There are no principles of any sort.
+
+498
+00:52:44,880 --> 00:52:47,600
+And this is going to make you anxious.
+
+499
+00:52:47,599 --> 00:52:57,760
+If you hear this story right that he's telling you about the fact that there's nothing more basic than the norms that you happen to have.
+
+500
+00:52:57,760 --> 00:53:16,239
+And the only thing that makes some people more the s the pr more authentic than others is their suffering and learning and risking until they have more sensitivity to the norms than even than everybody else, and they can extend them.
+
+501
+00:53:16,440 --> 00:53:27,800
+Anyway, if you believe that, you could find that very upsetting, because that is in effect to say our final intelligibility is ungrounded.
+
+502
+00:53:27,800 --> 00:53:32,120
+There is different, there's no better culture or worse culture.
+
+503
+00:53:32,119 --> 00:53:38,119
+It isn't as if it would be nice to think, for instance, that the way we do things is the right way to do things.
+
+504
+00:53:38,119 --> 00:53:39,799
+I tried to think of examples of that.
+
+505
+00:53:39,800 --> 00:53:49,880
+Well, for instance, sitting in a chair, isn't that more comfortable, healthier, and so forth than sitting on the ground or squatting at low tables and so forth?
+
+506
+00:53:49,880 --> 00:53:53,079
+No, that's just what we do, is sit in a chair.
+
+507
+00:53:53,079 --> 00:53:55,400
+There's nothing superior about that.
+
+508
+00:53:55,400 --> 00:54:05,960
+But if you want to think that somehow our culture has figured out, by much long evolution of the culture and so forth, the best way or the right way of doing things.
+
+509
+00:54:05,960 --> 00:54:12,440
+But if there isn't any best way or right way of doing things, then you get this feeling that things are ungrounded and we're facing an abyss.
+
+510
+00:54:12,440 --> 00:54:26,999
+And if you do, as I was telling some of the students in my office hours when I once taught this, just once this happened, at this very point in the lecture, it would be interesting to see, one of the students got so upset he ran out of the room and threw up.
+
+511
+00:54:28,519 --> 00:54:31,799
+That's really sensing the abyss of groundlessness.
+
+512
+00:54:32,119 --> 00:54:37,400
+And Heidegger would have thought, boy, that was a really authentic person.
+
+513
+00:54:38,039 --> 00:54:41,879
+They understood how anxious this could make somebody.
+
+514
+00:54:45,400 --> 00:54:50,360
+But what Heidegger thinks is, you don't need that kind of grounding.
+
+515
+00:54:50,360 --> 00:54:55,159
+It's a mistake to think that if you haven't got a ground, this is a pun in German.
+
+516
+00:54:55,159 --> 00:54:57,080
+There's grund, which is ground.
+
+517
+00:54:57,079 --> 00:54:59,800
+There's Abgrund, which is abyss.
+
+518
+00:54:59,800 --> 00:55:05,840
+And Heidegger wants to say you don't have to think that if there's no ground, then you're facing an abyss.
+
+519
+00:55:01,079 --> 00:55:09,519
+I think in a way Sartre thinks nausea, for instance.
+
+520
+00:55:09,519 --> 00:55:11,519
+It's all just contingent.
+
+521
+00:55:11,999 --> 00:55:17,680
+I don't remember whether Roconkin throws up after he figures this out or not, but he might well.
+
+522
+00:55:17,999 --> 00:55:24,079
+But Heidegger thinks that there is a word he makes up, an unground, an ungrundt.
+
+523
+00:55:24,079 --> 00:55:38,480
+And the unground is just what we've been talking about: the shared norms that everybody can recognize and can even recognize, some of the people can recognize when other people or them have a better sense of the shared norms.
+
+524
+00:55:38,480 --> 00:55:47,119
+And you don't need, I mean, the way I say it to myself is you don't, and I've never had much of a sense of Afgrund, I must say.
+
+525
+00:55:47,679 --> 00:55:52,239
+I'd be perfectly happy with the unground of the norms.
+
+526
+00:55:52,240 --> 00:56:08,079
+But when you've got this unground that we've got, if Heidegger's right, that doesn't keep you from becoming a student, from becoming authentic, from getting married and having kids if you want that, from climbing the Himalayas if you want that.
+
+527
+00:56:08,079 --> 00:56:18,960
+You can lead a meaningful, satisfying life without having solved the philosophical and religious question about why is it all that way and not some other way.
+
+528
+00:56:19,760 --> 00:56:25,920
+That, I think, is the Heidegger and Wittgensteinian intuition, and it's very anti-philosophical.
+
+529
+00:56:25,920 --> 00:56:28,400
+That's why he's so important and interesting.
+
+530
+00:56:28,400 --> 00:56:29,359
+He's the tradition.
+
+531
+00:56:29,360 --> 00:56:29,999
+Go ahead.
+
+532
+00:56:32,559 --> 00:56:35,119
+But no, Jurg, your comments are exactly the right ones.
+
+533
+00:56:35,119 --> 00:56:36,240
+Go ahead.
+
+534
+00:56:41,760 --> 00:56:50,360
+I mean, we can just bring up some people like Pervin Development and Poles.
+
+535
+00:56:54,760 --> 00:56:55,400
+That's it.
+
+536
+00:56:56,039 --> 00:56:56,599
+Good, good.
+
+537
+00:56:56,599 --> 00:57:00,280
+That's a devastating objection, and that is the right next move.
+
+538
+00:57:00,280 --> 00:57:03,239
+And I'm glad you made it because people would be feeling it.
+
+539
+00:57:03,800 --> 00:57:09,879
+The famous person who makes that move and who made it on me once is Jürgen Habermas.
+
+540
+00:57:09,880 --> 00:57:16,519
+Jürgen Habermas said, okay, all that Dreyfus is, I gave a seminar with him in Frankfurt.
+
+541
+00:57:16,679 --> 00:57:24,999
+He said, yeah, all that Dreyfus is saying is so, but it's about what counts as good relative to a culture.
+
+542
+00:57:24,999 --> 00:57:39,480
+And you could have a very good, just exactly what you're saying, a very good Nazi who had a much subtler understanding of what it is that Nazi culture believes in and was able to do just the appropriate thing.
+
+543
+00:57:39,480 --> 00:57:53,160
+And Habermas said, but what we want to know is what's right, which culture, which of these various versions of the good is based on the kind of principles that show that it's right.
+
+544
+00:57:53,159 --> 00:58:15,720
+And the answer to Habermas, either you believe Habermas and you go out and you look at Kant, for instance, to find out what's right, or you look at whatever philosopher, oh, you look at Habermas, which has something he calls discourse ethics, which he claims is valid for any culture that has a language, which is every culture, and defines what, if you work it out, you'll see what's right.
+
+545
+00:58:15,719 --> 00:58:25,960
+Or you say, which is what Heidegger would certainly say, and now we can think of Heidegger as having read lots of Nietzsche, which he had, Heidegger would just say, there isn't any answer to the question, what's right.
+
+546
+00:58:25,960 --> 00:58:40,080
+Wouldn't it be nice if we could know whether there were principles of reason or revelation or psychology or whatever, which told us which the Nazis were the wrong way of doing things and we've got the right way of doing things?
+
+547
+00:58:40,079 --> 00:58:45,280
+And we have a kind of intuition that that must be so and that there ought to be some way to settle it.
+
+548
+00:58:45,280 --> 00:58:55,120
+But nobody's ever come around with any way, you know, and this you have to admit, and it's not, it makes you unhappy, and me too, maybe.
+
+549
+00:58:55,360 --> 00:59:01,840
+I mean, nobody's come around with the one agreed-upon way to settle the fact that the Nazis are wrong.
+
+550
+00:59:02,159 --> 00:59:03,199
+Is it rational?
+
+551
+00:59:03,599 --> 00:59:05,119
+Is it language and discourse?
+
+552
+00:59:05,119 --> 00:59:07,119
+Is it the Bible?
+
+553
+00:59:07,760 --> 00:59:09,280
+You want to say something?
+
+554
+00:59:15,440 --> 00:59:19,199
+That's the awesome and somewhere in the infection.
+
+555
+00:59:29,599 --> 00:59:30,719
+Heidegger does?
+
+556
+00:59:31,039 --> 00:59:33,039
+Habermas, not Heidegger.
+
+557
+00:59:33,360 --> 00:59:34,160
+Where?
+
+558
+00:59:35,999 --> 00:59:37,840
+Leaping in or leaping ahead.
+
+559
+00:59:37,840 --> 00:59:40,960
+Ah, good, good.
+
+560
+00:59:41,920 --> 00:59:44,799
+But that's very, very empty and formal.
+
+561
+00:59:47,920 --> 00:59:49,599
+Why Fine Buddha?
+
+562
+00:59:50,800 --> 00:59:59,279
+And that is still otherwise faithful.
+
+563
+00:59:59,440 --> 01:00:05,920
+Well, I just think that in the world there are good energies that are not very.
+
+564
+01:00:05,999 --> 01:00:09,999
+Then there are these interviews that are not very good.
+
+565
+01:00:10,639 --> 01:00:11,759
+Okay, wait, stop.
+
+566
+01:00:11,760 --> 01:00:12,799
+I agree with you.
+
+567
+01:00:12,800 --> 01:00:14,399
+I mean, that this is an important line.
+
+568
+01:00:14,400 --> 01:00:24,280
+But with time running out of my but what he's doing is you were consciously you're purposely doing Levinas or you're doing Levinas accidentally.
+
+569
+01:00:24,280 --> 01:00:27,719
+I see, but no, I think, well, you're even more doing Levinas.
+
+570
+01:00:27,719 --> 01:00:33,960
+I mean, both Levinas and Habermas were total followers of Heidegger.
+
+571
+01:00:34,280 --> 01:00:38,440
+And then they broke away over just this issue that we're having.
+
+572
+01:00:38,440 --> 01:00:50,119
+And Levinas talks about how other human beings require this total, make an absolute demand on you that you respect them as human beings.
+
+573
+01:00:50,119 --> 01:00:54,039
+It's sort of Kantian end in itself in Habermasish thinking.
+
+574
+01:00:54,039 --> 01:01:12,920
+In Levinas, who's a religious Jew, it's sort of God being the kind of other, and everybody has a kind of, God has a human face, so to speak, and human faces all remind you that there is this one vow behind them.
+
+575
+01:01:12,920 --> 01:01:14,119
+It goes back to Buber, too.
+
+576
+01:01:14,119 --> 01:01:15,879
+There are all stuff going on in here.
+
+577
+01:01:16,360 --> 01:01:18,119
+But we've gone as far as we can go.
+
+578
+01:01:18,119 --> 01:01:26,840
+But at least it's good to know that Heidegger's, he wouldn't come along and say, ah, yeah, I see Habermas is right, or oh yes, Levinas is right.
+
+579
+01:01:26,840 --> 01:01:28,999
+He thinks that he's right.
+
+580
+01:01:28,999 --> 01:01:36,039
+That sort of all you can get is this very formal fact that you should not take over other persons.
+
+581
+01:01:36,039 --> 01:01:38,279
+You see, he's got a sort of a minimal ethics.
+
+582
+01:01:38,280 --> 01:01:40,599
+Everybody ought to take a stand on their own being.
+
+583
+01:01:40,599 --> 01:01:50,440
+And if you do something to somebody else that keeps them from taking a stand on their own being by brainwashing them into what you want them to believe, that must be wrong.
+
+584
+01:01:50,440 --> 01:01:52,280
+That's leaping in for them.
+
+585
+01:01:52,280 --> 01:01:53,799
+You've got to leap in ahead of them.
+
+586
+01:01:53,800 --> 01:02:02,559
+I take that to mean you've got to force them to turn around, face themselves, and take a stand on, and realize that they've got to take a stand on their being.
+
+587
+01:02:02,559 --> 01:02:05,199
+That's how much ethics there is.
+
+588
+01:02:01,400 --> 01:02:08,639
+It doesn't tell you anything about what to do.
+
+589
+01:02:08,960 --> 01:02:09,519
+Yeah.
+
+590
+01:02:11,920 --> 01:02:14,480
+It's actually important to realize how.
+
+591
+01:02:16,400 --> 01:02:17,120
+Yes.
+
+592
+01:02:21,360 --> 01:02:21,920
+Good, good.
+
+593
+01:02:21,920 --> 01:02:23,119
+That's a good point, too.
+
+594
+01:02:23,119 --> 01:02:28,160
+Yes, if you think that you know what's right, that's a very dangerous position.
+
+595
+01:02:28,159 --> 01:02:28,959
+All right.
+
+596
+01:02:28,960 --> 01:02:33,999
+And yeah, well, that's well, that's a nice answer to Habermas, isn't it?
+
+597
+01:02:33,999 --> 01:02:40,639
+I mean, at least, I mean, it sounds like Habermas might himself be part of the problem because he thinks he knows what's right.
+
+598
+01:02:40,639 --> 01:02:41,199
+Never mind.
+
+599
+01:02:41,519 --> 01:02:44,559
+This is a great subject for discussion, but we've got to go on.
+
+600
+01:02:44,719 --> 01:02:46,320
+We've got stuff to cover.
+
+601
+01:02:46,800 --> 01:02:47,919
+Where are we?
+
+602
+01:02:49,840 --> 01:02:51,360
+I think I'll.
+
+603
+01:02:51,999 --> 01:03:05,519
+Okay, we just saw that all the stuff that really happens in the middle of 165, where Heidegger turns against average and publicness and says, in effect, by publicness, everything gets obscured.
+
+604
+01:03:05,519 --> 01:03:07,200
+And what have we been talking about?
+
+605
+01:03:07,199 --> 01:03:17,120
+Well, what is the status of the primordial that gets glossed over, of this higher, outstanding way of acting that gets leveled?
+
+606
+01:03:17,119 --> 01:03:24,560
+And there's lots to be said about it and what it is and how you would recognize it and how you would acquire it and how you would justify it.
+
+607
+01:03:24,559 --> 01:03:29,120
+But there's nothing more, I think, that I can say anyway about it.
+
+608
+01:03:29,440 --> 01:03:32,640
+And I want to get on to the last issue we have to talk about.
+
+609
+01:03:32,639 --> 01:03:39,600
+So there's publicness, Kierkegaard, and all the evils of conformism.
+
+610
+01:03:39,599 --> 01:03:52,599
+And he talks on page 222, he just mentions in passing, way back in Division II, he uses the phrase, making the one your hero.
+
+611
+01:03:53,400 --> 01:03:54,519
+I mean, what is that?
+
+612
+01:03:54,519 --> 01:03:56,680
+Well, that's what it is to be a conformist.
+
+613
+01:03:56,679 --> 01:04:03,560
+That is to do what you do because it's what people do, what one does.
+
+614
+01:04:03,880 --> 01:04:19,560
+And that is, you make the norms the one, the ultimate source of justification, but not the one in the sense that the norms in general, but the current public, banal, standard one.
+
+615
+01:04:19,960 --> 01:04:28,120
+If you think that that's what tells you what to do, then you can just accept that and you are disburdened and tranquilized.
+
+616
+01:04:28,119 --> 01:04:30,920
+And that is conformism.
+
+617
+01:04:32,199 --> 01:04:38,840
+My favorite example of this kind of mindless conformism that people have is sending Christmas cards.
+
+618
+01:04:39,159 --> 01:04:45,400
+I mean, they are all, everybody's going around sending Christmas cards to everybody, filling all those trees and so forth.
+
+619
+01:04:45,400 --> 01:04:48,119
+And some of it makes sense.
+
+620
+01:04:48,119 --> 01:04:56,279
+I mean, if maybe you use it to communicate with somebody you don't see often and only once a year, you write them a message and send them pictures of the kids.
+
+621
+01:04:56,280 --> 01:04:57,880
+I can sort of understand that.
+
+622
+01:04:57,880 --> 01:05:03,160
+But the neighbors across the street send me Christmas cards that I see every day.
+
+623
+01:05:03,159 --> 01:05:07,960
+And even though for years I haven't sent anybody a Christmas card, they keep doing it.
+
+624
+01:05:08,280 --> 01:05:11,560
+And that is mindless conformity.
+
+625
+01:05:11,559 --> 01:05:18,840
+That is really just doing what one does without the slightest indication of why to do it, except, well, one does it.
+
+626
+01:05:18,840 --> 01:05:20,199
+One sends Christmas cards.
+
+627
+01:05:20,679 --> 01:05:22,039
+That settles it.
+
+628
+01:05:22,039 --> 01:05:22,519
+Okay.
+
+629
+01:05:22,840 --> 01:05:26,280
+Now, then we've got to go on to the positive.
+
+630
+01:05:26,880 --> 01:05:30,519
+So, and by the way, all that I think is existential.
+
+631
+01:05:30,519 --> 01:05:40,480
+Conformism is something that one can do, and so is being standing out and being authentic.
+
+632
+01:05:40,480 --> 01:05:41,920
+That's existential.
+
+633
+01:05:41,920 --> 01:05:45,440
+That's sort of the end of the chapter, which we're heading toward now.
+
+634
+01:05:46,079 --> 01:06:05,039
+And I just want to say there's, but there is also, and we've been saying it in the background, a positive role for the one, which is existential, and that is this crucial line on 167, where the middle of the page, I read it last time.
+
+635
+01:06:05,360 --> 01:06:09,760
+The one articulates the referential context of significance.
+
+636
+01:06:09,760 --> 01:06:12,960
+And that means, he asked me to give an example and say what I mean.
+
+637
+01:06:12,960 --> 01:06:30,559
+That means that it's one tells you that you should cut up your food in hand sizes and not make it too hot, or you should make it so you can grab it with a chopstick, or you can grab it with a fork, and it tells you when to eat and what to eat and where to eat and who with and all that.
+
+638
+01:06:30,559 --> 01:06:34,880
+It's articulating the whole referential totality of food, for instance.
+
+639
+01:06:34,880 --> 01:06:46,959
+And if it weren't for that, you'd all starve to death because we wouldn't be knowing whether to cook things or not and when to eat them or not and how to cut them up or not and what is it we should eat and not and so forth.
+
+640
+01:06:46,960 --> 01:06:55,039
+So you and all over, of course, the one is the norms are just telling you what one does.
+
+641
+01:06:55,519 --> 01:07:02,799
+And you better do what one does, or you'll, if you drive on the left-hand side of the road in the United States, you won't last very long.
+
+642
+01:07:03,519 --> 01:07:15,119
+Now, I want to say the last thing: the existential status of the one.
+
+643
+01:07:15,440 --> 01:07:21,159
+And that's what he comes up with at the very end of the chapter and says some very interesting things about it.
+
+644
+01:07:16,240 --> 01:07:22,199
+166.
+
+645
+01:07:23,480 --> 01:07:26,839
+So the norms are the ground of all intelligibility.
+
+646
+01:07:27,160 --> 01:07:35,240
+That makes the norms the answer of, well, if you're going to answer who you are, let's get that.
+
+647
+01:07:35,320 --> 01:07:37,799
+I don't know where that is, but let's get that out of the way.
+
+648
+01:07:37,799 --> 01:07:40,919
+Normally, you are one.
+
+649
+01:07:40,919 --> 01:07:42,679
+You do what one does.
+
+650
+01:07:43,320 --> 01:07:55,320
+So the answer, remember, is if we want to find out the who of Dasein, we formally indicate the who of Dasein as the I or the ego, but then we keep looking around and we do this chapter.
+
+651
+01:07:55,320 --> 01:08:14,839
+By the time we finish this chapter, we discover that you do what one does, and you are what you do, and therefore you are the one, unless you pull yourself out of it by authenticity, which was division two.
+
+652
+01:08:15,080 --> 01:08:25,959
+But now we also want to know, remember, not only who you are, to which the one is the answer, but what's the source of intelligibility of the world?
+
+653
+01:08:26,280 --> 01:08:47,959
+Well, we just discovered the one is the answer to that, too, because the one articulates the whole intelligible context of significance, which is all the things that we do and how they're all related to each other and how they're all related to ultimate for the sake of which is, which are also had in the monormative component, namely, roles.
+
+654
+01:08:48,679 --> 01:08:50,279
+And that makes it.
+
+655
+01:08:50,440 --> 01:08:52,599
+So now we want to see where it is.
+
+656
+01:08:52,759 --> 01:08:53,799
+Just a second.
+
+657
+01:08:53,799 --> 01:09:12,639
+On page 166, he says, in the second paragraph, 128 of the German, second sentence, well, and he says, the more openly the one behaves, the harder it is to grasp, the higher it is.
+
+658
+01:09:12,639 --> 01:09:14,639
+We read that one, but it's not nothing.
+
+659
+01:09:14,639 --> 01:09:23,519
+If we see it ontico-ontologically with an unprejudiced eye, it reveals itself as the realist subject, in quotes, of everydayness.
+
+660
+01:09:23,519 --> 01:09:29,919
+That's his way of saying we see it as having replaced the role of subject as the source of intelligibility.
+
+661
+01:09:30,240 --> 01:09:35,360
+And he even goes so far, he sort of gets carried away with funny ideas.
+
+662
+01:09:35,360 --> 01:09:43,599
+It turns out the one is God, or the one is doing the job of God, which is namely, you know, giving all the world its order.
+
+663
+01:09:43,599 --> 01:09:50,159
+The way he says it is at the end of the previous paragraph on 166, the first full paragraph.
+
+664
+01:09:51,120 --> 01:09:55,360
+In this kind of being, Dasein is an ens realissimum.
+
+665
+01:09:55,360 --> 01:09:57,280
+That's medieval for God.
+
+666
+01:09:57,280 --> 01:10:01,919
+That's the highest being, the supreme being, the most real being.
+
+667
+01:10:02,240 --> 01:10:09,360
+So Dasein is an ens realissimum, if by reality we understand a being that has the character of Dasein.
+
+668
+01:10:09,360 --> 01:10:13,440
+Now, never mind anything except just the way he's playing around with this phrase.
+
+669
+01:10:13,440 --> 01:10:26,639
+It's not just trivial to say that the one has taken the role of God, because the one has taken the role of giving the whole, all the intelligibility we've got.
+
+670
+01:10:26,639 --> 01:10:30,480
+And there was a sociologist named Durkheim.
+
+671
+01:10:30,480 --> 01:10:32,879
+I don't even remember his first name, any sociologist.
+
+672
+01:10:33,200 --> 01:10:38,159
+Emil, Emil Durkheim, who actually says society is God.
+
+673
+01:10:38,160 --> 01:10:40,799
+Well, that's Durkheim discovering the same point.
+
+674
+01:10:40,799 --> 01:10:58,679
+I mean, that it's society, it's the customs, that's Pascal's name for it, it's the cultural norms, that's my name for it, it's Das Mann, that is the one, that's Heidegger's name for it, which gives us the whole structure of reality.
+
+675
+01:11:00,280 --> 01:11:04,839
+And how are we going to describe this ontologically now?
+
+676
+01:11:04,839 --> 01:11:06,200
+What is the status of the one?
+
+677
+01:11:06,200 --> 01:11:07,480
+Is it ready to hand?
+
+678
+01:11:07,480 --> 01:11:09,079
+No, it can't be like that.
+
+679
+01:11:09,080 --> 01:11:10,360
+Is it present at hand?
+
+680
+01:11:10,360 --> 01:11:12,759
+Well, certainly it's not going to be like that.
+
+681
+01:11:13,320 --> 01:11:16,440
+It's more like familiarity.
+
+682
+01:11:16,440 --> 01:11:19,320
+It seems to be a kind of component of familiarity.
+
+683
+01:11:19,320 --> 01:11:26,999
+All the stuff, one of the aspects of all that we're familiar with is what one does with it and what one doesn't do with it and so forth.
+
+684
+01:11:27,240 --> 01:11:32,919
+But even that doesn't help much because he never tells us what the ontological status of familiarity is either.
+
+685
+01:11:32,919 --> 01:11:36,919
+It's neither ready to hand nor present at hand nor Dasein.
+
+686
+01:11:36,919 --> 01:11:42,759
+So in the end, he sort of has to throw his hands up and say, we don't have any vocabulary for talking about it.
+
+687
+01:11:42,759 --> 01:11:51,320
+This is what's happening on 166 still, about a little below the middle now, in the middle of the second paragraph.
+
+688
+01:11:51,320 --> 01:12:05,879
+One may neither decree prematurely that the one is really nothing, nor profess the opinion that one can interpret this phenomenon ontologically by somehow explaining it as what results from taking being present at hand together of several subjects and fitting them together.
+
+689
+01:12:05,879 --> 01:12:07,959
+That's trying, Husserl tries to do that.
+
+690
+01:12:07,959 --> 01:12:16,199
+He tries to build, and Sterl too, I guess, tries to build up shared intentionality out of the individual intentionality.
+
+691
+01:12:16,200 --> 01:12:18,199
+Heidegger doesn't want that.
+
+692
+01:12:18,200 --> 01:12:23,799
+He says, and so he's saying, just a second, I want to make sure I read this in later.
+
+693
+01:12:25,080 --> 01:12:28,759
+And it's also, you can't do a Hegel sort of move, which is the next paragraph.
+
+694
+01:12:28,759 --> 01:12:34,240
+The one is not something like a universal subject, which a plurality of subjects have hovering above them.
+
+695
+01:12:34,400 --> 01:12:44,159
+That would be a funny way of describing Hegel's notion of spirit, which is sort of working through everybody to make and improve the culture.
+
+696
+01:12:44,160 --> 01:12:46,079
+Heidegger won't buy that.
+
+697
+01:12:46,080 --> 01:12:54,480
+And at the bottom, he says, and of course we can't understand it.
+
+698
+01:12:55,360 --> 01:12:59,519
+And so traditional logic fails us when confronted with these phenomena.
+
+699
+01:12:59,519 --> 01:13:03,199
+That's not surprising since logic's very crude anyway, he says.
+
+700
+01:13:03,200 --> 01:13:06,320
+It's only this residue of present at hand.
+
+701
+01:13:06,320 --> 01:13:09,839
+So what's the moral of that going to be?
+
+702
+01:13:09,839 --> 01:13:11,839
+Is he just going to give up?
+
+703
+01:13:11,839 --> 01:13:20,719
+Well, no, the moral of it's going to be to do just what he's been doing, namely, stick to the phenomena, the end of the second paragraph.
+
+704
+01:13:20,719 --> 01:13:26,480
+Just, I mean, wouldn't it be nice if we could make it fit into some of our ontological categories, but we can't.
+
+705
+01:13:26,480 --> 01:13:32,480
+So he says, in working out our concepts of being, one must direct one's course by these phenomena.
+
+706
+01:13:32,480 --> 01:13:34,959
+One can't push them aside.
+
+707
+01:13:37,200 --> 01:13:40,719
+Then, and that's what he has to say.
+
+708
+01:13:40,719 --> 01:13:47,679
+I mean, in effect, he's been describing the phenomenon, and we've been describing it, for the whole time.
+
+709
+01:13:47,679 --> 01:13:55,519
+And he can't, it just doesn't fit in his ontology, but he's going to make it absolutely central nonetheless.
+
+710
+01:13:55,519 --> 01:14:00,959
+It is the who, it is of us, it is the source of all intelligibility.
+
+711
+01:14:00,959 --> 01:14:05,679
+And if you can't put it in your ontology, don't worry so much about that.
+
+712
+01:14:05,679 --> 01:14:07,679
+Just stick to the phenomenology.
+
+713
+01:14:07,679 --> 01:14:09,280
+That's the punchline on 240.
+
+714
+01:14:09,360 --> 01:14:11,679
+Oh, and then I forgot what I told you we would get to.
+
+715
+01:14:11,679 --> 01:14:13,119
+We will, in just a second.
+
+716
+01:14:13,120 --> 01:14:14,400
+248.
+
+717
+01:14:14,400 --> 01:14:20,519
+I just want to read the one sentence on 248 of the history of the concept of time.
+
+718
+01:14:21,160 --> 01:14:27,240
+Before words, before expressions, always the phenomena first, and only then the concepts.
+
+719
+01:14:27,240 --> 01:14:28,519
+Exclamation mark.
+
+720
+01:14:28,519 --> 01:14:30,199
+So stick to the phenomena.
+
+721
+01:14:30,200 --> 01:14:34,759
+But now I just have time to read what I, I don't know, I just did my notes.
+
+722
+01:14:34,759 --> 01:14:35,799
+How shocking.
+
+723
+01:14:35,799 --> 01:14:38,360
+So read 167.
+
+724
+01:14:39,879 --> 01:14:48,679
+For one thing, the italics, the they as an existentiale is a primordial phenomenon belonging to Dasein's positive constitution.
+
+725
+01:14:48,679 --> 01:14:54,999
+So that's, remember I said there's the existential negative story about the public and leveling.
+
+726
+01:14:55,000 --> 01:15:03,719
+We've just heard the existential positive story about the function of norms for intelligibility.
+
+727
+01:15:03,719 --> 01:15:12,200
+And now I just want to so we're ready to read the bottom of 168.
+
+728
+01:15:12,200 --> 01:15:13,879
+We've got just two minutes to do it.
+
+729
+01:15:13,879 --> 01:15:23,400
+But you'll understand what might have seemed very cryptic and incomprehensible, the italics in the last paragraph of the chapter.
+
+730
+01:15:23,400 --> 01:15:25,959
+Authentic being oneself.
+
+731
+01:15:25,959 --> 01:15:28,919
+Cross out the one, because that just confuses us.
+
+732
+01:15:28,919 --> 01:15:42,839
+It's really, in German, it would be authentic self-being, or being a self, you could say, does not rest upon an exceptional condition of the subject, a condition that's been detached from the they.
+
+733
+01:15:43,160 --> 01:15:50,440
+It is rather an existential modification of the they, the they as an essential existentiale.
+
+734
+01:15:50,440 --> 01:15:55,480
+Now, I've prepared you for that, otherwise I couldn't tell you in two minutes what's going on.
+
+735
+01:15:55,480 --> 01:16:06,400
+Well, the they as an existenciel, sorry, the they as an essential existentiale is public norms that we've gone over and over now.
+
+736
+01:16:06,639 --> 01:16:18,239
+It's the takes the place of God and takes the place of everything and explains who we are and normally and explains how everything is all the time, gets its intelligibility.
+
+737
+01:16:18,240 --> 01:16:24,879
+And therefore, if you were going to be authentic, you there are two forms.
+
+738
+01:16:24,879 --> 01:16:27,519
+He doesn't say it here, but I'll say it my way.
+
+739
+01:16:29,679 --> 01:16:31,440
+Yeah, okay, no, he does.
+
+740
+01:16:32,080 --> 01:16:38,719
+The they, the one is an existential modification of the they.
+
+741
+01:16:39,040 --> 01:16:49,839
+That is, one way to relate to the one is to make it your hero and to live in terms of it and be a conformist.
+
+742
+01:16:50,719 --> 01:16:54,159
+That would be, so let me try it again.
+
+743
+01:16:54,160 --> 01:16:55,120
+So, authentic.
+
+744
+01:16:55,200 --> 01:16:56,079
+So, there are two ways.
+
+745
+01:16:56,080 --> 01:16:57,839
+Let me say it my way and then I'll read it.
+
+746
+01:16:57,839 --> 01:16:59,919
+There's the existential.
+
+747
+01:16:59,919 --> 01:17:01,919
+That's the norms.
+
+748
+01:17:01,919 --> 01:17:03,839
+That's the way the one works.
+
+749
+01:17:04,080 --> 01:17:14,639
+There are two existencials, two ways an individual can relate to that structure, that existential structure.
+
+750
+01:17:14,639 --> 01:17:24,239
+One can either make it yourself, define yourself as the one, and do what one does, and be a conformist.
+
+751
+01:17:24,240 --> 01:17:28,799
+That's an existential modification of the one.
+
+752
+01:17:28,799 --> 01:17:31,440
+Or you can be authentic, and we talked about that.
+
+753
+01:17:31,440 --> 01:17:33,999
+That's a different existential modification.
+
+754
+01:17:34,000 --> 01:17:45,360
+You can either live in leveling and let it tell you what to do at all points, or you can become a cultural master and respond to the unique situation whenever it's important to do so.
+
+755
+01:17:45,360 --> 01:17:46,679
+Now let's read it again.
+
+756
+01:17:46,679 --> 01:17:53,959
+Authentic being oneself does not rest upon an exceptional condition of the subject, a condition that's been detached from the one.
+
+757
+01:17:53,959 --> 01:17:56,759
+So being authentic, you don't get out of the one.
+
+758
+01:17:57,080 --> 01:18:01,240
+It, namely being authentic, is an existential modification of the one.
+
+759
+01:18:01,559 --> 01:18:02,759
+Oh, I was misreading it.
+
+760
+01:18:02,759 --> 01:18:05,719
+And then I started reading it right now, and I got it wrong.
+
+761
+01:18:05,719 --> 01:18:06,679
+So it's okay.
+
+762
+01:18:07,000 --> 01:18:14,279
+So there it says authentic self-being, that's fine, is an existential modification.
+
+763
+01:18:14,280 --> 01:18:32,599
+It doesn't say, but I didn't claim it did, that so is being inauthentic, namely living by way of the norms, an essential, an existential modification of what is constant and basic, namely the norms.
+
+764
+01:18:32,759 --> 01:18:34,839
+I think that's pretty clear.
+
+765
+01:18:34,839 --> 01:18:39,400
+Okay, that's one quick, quick remark then, but we're over time.
+
+766
+01:18:39,400 --> 01:18:42,599
+Being authentic, does that mean all that terms?
+
+767
+01:18:42,599 --> 01:18:54,119
+I always do Latinx, Latin Labor, because if everyone went authentic, everything, you know, is not ah, I see.
+
+768
+01:18:54,120 --> 01:18:55,160
+You know, well it'd be interesting.
+
+769
+01:18:55,160 --> 01:19:03,799
+No, well, the trouble, if everybody went authentic, they could still do the normal, average, banal thing, for instance, when they brought their groceries.
+
+770
+01:19:03,799 --> 01:19:12,599
+So it only it only doesn't the authentic person doesn't at every moment respond to the concrete situation and never respond to the general situation.
+
+771
+01:19:12,599 --> 01:19:13,719
+And that makes it all right.
+
+772
+01:19:14,200 --> 01:19:21,959
+If everybody went around all the time responding uniquely to the unique situation, we'd be as bad off as if everybody went around just doing crazy things.
+
+773
+01:19:21,959 --> 01:19:23,159
+Yeah, okay.

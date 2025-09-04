@@ -1,0 +1,3513 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:03,440
+Okay, so now we're ready to deal with the chapter.
+
+2
+00:00:03,440 --> 00:00:16,839
+First, I'm going to give you an overview of what I think the outline is, which I seldom do, only because I never can tell what the outline is, but this time it seems pretty clear.
+
+3
+00:00:17,159 --> 00:00:34,919
+So there are three features of human being understood as a Cartesian cogito, as an I think, that Meloponty wants to deny applies for motor intention.
+
+4
+00:00:34,920 --> 00:00:39,799
+It turns out they also deny that they apply.
+
+5
+00:00:39,800 --> 00:00:44,599
+It turns out he wants to deny that they even apply for reflection.
+
+6
+00:00:44,920 --> 00:00:52,120
+So there's just never a time when it's appropriate to think of us as an I think.
+
+7
+00:00:52,120 --> 00:00:58,839
+Now, of course, until I tell you what it is to think of yourself as an I think, you can't just tell by the words that it's inappropriate.
+
+8
+00:00:58,839 --> 00:01:03,240
+You could be pretty sure these days that somebody says it's Cartesian, that's an info.
+
+9
+00:01:03,240 --> 00:01:06,599
+But what's the inappropriate thing?
+
+10
+00:01:06,599 --> 00:01:14,680
+Well, three claims about the cogito that go back to Descartes are being denied.
+
+11
+00:01:14,680 --> 00:01:17,159
+The first one is the indubitability.
+
+12
+00:01:17,160 --> 00:01:21,560
+So then comes a lot of talk, interesting epistemological talk.
+
+13
+00:01:21,560 --> 00:01:26,920
+The basic point being that even though I can't be certain about the objects of the...
+
+14
+00:01:27,160 --> 00:01:31,320
+This is the claim that he's against them, the indubitability claim.
+
+15
+00:01:31,320 --> 00:01:39,160
+That even though I can't be certain about the objects of my consciousness, I can be certain about what I seem to see and seem to feel.
+
+16
+00:01:39,160 --> 00:01:41,320
+That's what Descartes says in the meditations.
+
+17
+00:01:41,320 --> 00:01:47,240
+I don't know whether I'm going to dead or not, but it certainly seems like I am, and I can't be wrong about that.
+
+18
+00:01:47,959 --> 00:02:10,640
+So, and there's going to be a discussion of perception and how it's not understandable as having a seeming to see, indubitable aspect, and of love as the claim that feelings also don't have an indubitable.
+
+19
+00:02:10,879 --> 00:02:21,199
+Somehow, seeming to see and seeming to love are not the epistemologically basic, indubitable sense data.
+
+20
+00:02:22,400 --> 00:02:33,760
+And the anti-claim is, my experience of objects and feelings can be certain, but even when they're certain, they're not indubitable.
+
+21
+00:02:33,760 --> 00:02:36,640
+Even when they're certain, we might have to take them back.
+
+22
+00:02:36,640 --> 00:02:41,600
+That's an interesting and strange-sounding claim, but that's what he's going to argue.
+
+23
+00:02:41,599 --> 00:02:47,440
+He and Austin have this view at least, and maybe a lot of other people too.
+
+24
+00:02:47,920 --> 00:02:50,560
+Second, transparency.
+
+25
+00:02:50,560 --> 00:02:56,080
+I mean, I like the first one because I understand pretty clearly what the position is and what his objection is.
+
+26
+00:02:56,079 --> 00:03:06,000
+The next one is sort of not terribly clear to me, but it's roughly that I can be exhaustively aware of the contents of my thought.
+
+27
+00:03:05,999 --> 00:03:07,280
+In fact, stronger.
+
+28
+00:03:07,280 --> 00:03:11,359
+I must be exhaustively aware of the contents of my thought.
+
+29
+00:03:11,359 --> 00:03:12,720
+That's how thought is.
+
+30
+00:03:12,719 --> 00:03:14,959
+It's my thought, and I know it.
+
+31
+00:03:15,680 --> 00:03:17,680
+That's why it's my thought.
+
+32
+00:03:19,280 --> 00:03:30,959
+And the way he deals with that is, he says it's refuted in even in the most sort of abstract kind of thinking like geometry, which ought to be a good case of transparency.
+
+33
+00:03:31,359 --> 00:03:38,600
+When I'm thinking about a triangle, I ought to be completely clear about what a triangle is, what its essential structure is, how could I be otherwise.
+
+34
+00:03:38,599 --> 00:03:41,839
+When he wants to say I could be otherwise.
+
+35
+00:03:41,839 --> 00:03:59,560
+And the argument is, I think, that all thinking, even formalizing, as in geometry, takes place and makes sense only on the background of a bodily Richel and a history of the concepts involved, both of which I can't get clear about.
+
+36
+00:03:59,560 --> 00:04:08,760
+So thinking is never transparent because it has a background of untransparency to make it possible.
+
+37
+00:04:09,079 --> 00:04:12,040
+And reflection is the third thing.
+
+38
+00:04:12,040 --> 00:04:17,880
+The cogito is a kind of reflection, but he has nothing against reflection.
+
+39
+00:04:19,239 --> 00:04:31,000
+The misleading thing about the cogito is that it assumes that, in Kantian terms, the I think can accompany any experience.
+
+40
+00:04:31,640 --> 00:04:36,199
+For years, I wondered what really that meant, whether I was for it or against it.
+
+41
+00:04:36,199 --> 00:04:39,959
+Now I understand what it means, I think, and I'm definitely against it.
+
+42
+00:04:39,959 --> 00:04:46,040
+What it means is you can reflect on any of your experiences and that won't change them.
+
+43
+00:04:46,040 --> 00:04:59,959
+So that when you discover a reflective experience, you can be sure that you didn't produce it by reflecting, but that every experience can be reflected on and still stay what it was.
+
+44
+00:04:59,959 --> 00:05:02,040
+That view he thinks is wrong.
+
+45
+00:05:02,040 --> 00:05:06,280
+Reflection radically transforms your experience.
+
+46
+00:05:06,280 --> 00:05:09,160
+So it's not a, you don't want to deny reflection.
+
+47
+00:05:09,160 --> 00:05:22,680
+You want to deny reflection as a way of getting undistorted access to the content of your mind, receiving and thinking.
+
+48
+00:05:22,680 --> 00:05:24,360
+And what's the argument?
+
+49
+00:05:24,359 --> 00:05:33,760
+I think it's that reflection transforms motor intentionality by introducing a subject-object distinction, which wasn't there.
+
+50
+00:05:34,079 --> 00:05:44,000
+And in that way, it denies the third kind of being, the openness to the world, which is transformed by reflection.
+
+51
+00:05:43,999 --> 00:05:48,720
+because on reflection you think that these are all your private experiences that you're having.
+
+52
+00:05:48,719 --> 00:05:54,720
+And at least that's the kind of reflection Cartesians and Kantians get you into.
+
+53
+00:05:54,719 --> 00:05:57,199
+And my favorite teacher, C.I.
+
+54
+00:05:57,199 --> 00:06:07,280
+Lewis, which I used to talk all the time about, that here-now predicament, that all I'm ever experiencing is what I'm experiencing right now here.
+
+55
+00:06:07,280 --> 00:06:11,120
+Of course, that's not what you really find.
+
+56
+00:06:11,119 --> 00:06:17,520
+That's not what's really going on, but that's how it looks on some kind of philosophical reflection.
+
+57
+00:06:17,520 --> 00:06:17,839
+Yeah.
+
+58
+00:06:18,079 --> 00:06:20,719
+Is this about the same as those?
+
+59
+00:06:21,040 --> 00:06:22,480
+Exactly the same.
+
+60
+00:06:22,479 --> 00:06:23,280
+Exactly.
+
+61
+00:06:23,280 --> 00:06:26,320
+And of course, Searle is a student of Austin's.
+
+62
+00:06:26,320 --> 00:06:38,959
+And I just discovered, to my amazement and amusement, we'll get to this about Austin, how Austin can make a distinction between being certain in perception and that being indubitable, what's the Searle term?
+
+63
+00:06:39,599 --> 00:06:40,480
+Incorrigibility.
+
+64
+00:06:40,479 --> 00:06:42,800
+That's just another term for the same thing.
+
+65
+00:06:43,199 --> 00:06:49,119
+That certainty doesn't imply incorrigibility, oddly enough.
+
+66
+00:06:49,119 --> 00:06:51,360
+You can be certain and wrong.
+
+67
+00:06:51,359 --> 00:07:07,120
+And I was saying how interestingly that sounds like Austin when happened to have Charles Taylor around and said, oh, I remember the day when Austin called me in and said, I'll give you one afternoon to explain Merlot-Ponty to a group of students.
+
+68
+00:07:07,119 --> 00:07:09,599
+So Taylor explained Merlot-Ponty.
+
+69
+00:07:09,599 --> 00:07:17,000
+Now, I don't know whether he explained this before or after Austin wrote sense and sensibilia, but I imagine it was before.
+
+70
+00:07:17,239 --> 00:07:31,400
+And it's part of my general view that every time anything in Anglo-philosophy sounds like Merillo-Ponty, it is Merlot-Ponty, and it challenged, channeled to them by Charles Taylor under some kind of analytic description.
+
+71
+00:07:32,040 --> 00:07:35,720
+I'm not really convinced it's true, but it's a nice idea.
+
+72
+00:07:36,040 --> 00:07:37,800
+And one more example there.
+
+73
+00:07:37,800 --> 00:07:40,839
+Of course, the non-conceptual content thing that's all over the place.
+
+74
+00:07:40,839 --> 00:07:51,079
+That comes from Charles Taylor, handed over to Gareth Evans, handed over to a whole bunch of other Anglo-philosophers who now worry about non-conceptual content.
+
+75
+00:07:51,079 --> 00:07:59,239
+So Merlot-Ponty, it's no accident that Merillo-Ponty right now seems to be where it's at, because these are his problems.
+
+76
+00:08:00,359 --> 00:08:04,120
+Okay, anything else, or should we plunge into the perception quickness?
+
+77
+00:08:04,119 --> 00:08:04,280
+Yeah.
+
+78
+00:08:10,280 --> 00:08:12,120
+Is that what Cyril says he's doing?
+
+79
+00:08:12,119 --> 00:08:12,760
+I don't know.
+
+80
+00:08:12,760 --> 00:08:14,280
+Well, did I say that?
+
+81
+00:08:14,280 --> 00:08:14,680
+No.
+
+82
+00:08:15,800 --> 00:08:16,199
+I see.
+
+83
+00:08:16,760 --> 00:08:17,320
+Okay.
+
+84
+00:08:17,800 --> 00:08:19,320
+Certainty from an object.
+
+85
+00:08:19,560 --> 00:08:21,719
+That's not quite the way to put it.
+
+86
+00:08:22,520 --> 00:08:23,400
+Well, why don't I do it?
+
+87
+00:08:23,400 --> 00:08:24,600
+And then you tell me.
+
+88
+00:08:24,760 --> 00:08:26,600
+I'm going to lay out what he thinks.
+
+89
+00:08:26,599 --> 00:08:37,960
+He's certainly got epistemic and ontological aspects, what he thinks, but whether certainty gets switched, I don't know.
+
+90
+00:08:38,599 --> 00:08:39,800
+Tell me later.
+
+91
+00:08:39,800 --> 00:08:41,479
+Or maybe I'll discover it.
+
+92
+00:08:42,359 --> 00:08:43,880
+Anything else?
+
+93
+00:08:43,879 --> 00:08:44,520
+Okay.
+
+94
+00:08:44,520 --> 00:08:49,080
+So now we're into the perception and feeling.
+
+95
+00:08:49,079 --> 00:09:12,800
+Those are the first two on my list, as test cases of this question of Kogito, I think, and where I think is something inner and private and indubitable and incorrigible and transparent, which is closely related.
+
+96
+00:09:12,800 --> 00:09:17,119
+I think you see what sense data are incorrigible, but not transparent.
+
+97
+00:09:17,119 --> 00:09:34,640
+They're incorrigible just because they're sort of minimally given and they don't supposedly, you can get your experience so organized that you don't imply anything, and therefore it can't be wrong.
+
+98
+00:09:34,640 --> 00:09:41,040
+Now, that kind of encourages can't be wrong.
+
+99
+00:09:41,040 --> 00:09:50,480
+The kind of incorrigibility of your thoughts are again, can't be wrong, but that's not because they don't imply anything.
+
+100
+00:09:50,479 --> 00:09:51,839
+They imply lots.
+
+101
+00:09:51,839 --> 00:09:57,599
+But that's because you're clear about all they imply so that you can't be mistaken about them.
+
+102
+00:09:57,599 --> 00:10:02,400
+So two different issues, but let's put the thought one aside.
+
+103
+00:10:02,400 --> 00:10:18,639
+In a case of feeling and perception, the idea is that there is some inner, pure, psychic content that you can have in perception and in psychic states, like love.
+
+104
+00:10:18,639 --> 00:10:21,040
+There's two psychic states, love and will.
+
+105
+00:10:21,359 --> 00:10:23,199
+I'm not going to say much about the will one.
+
+106
+00:10:23,200 --> 00:10:24,560
+I don't understand the will one.
+
+107
+00:10:24,879 --> 00:10:27,199
+I'll say something about it when we get to it.
+
+108
+00:10:27,839 --> 00:10:30,959
+Partly because of a mistranslation that it's up when the time comes.
+
+109
+00:10:30,960 --> 00:10:33,440
+Okay, let's go to perception.
+
+110
+00:10:33,760 --> 00:10:38,239
+So on page 438, we get the overview.
+
+111
+00:10:38,240 --> 00:10:42,479
+And I've got, well, you've got, how many people have the other book?
+
+112
+00:10:42,480 --> 00:10:45,399
+Because I happen to have all of them, both page numbers.
+
+113
+00:10:44,240 --> 00:10:51,719
+Okay, well, 377 in the old version, 438 in this version.
+
+114
+00:10:52,040 --> 00:11:00,199
+What I can't tell you is where on the page in the old version, but where it is on the page in the new version is the bottom half of the page.
+
+115
+00:11:00,200 --> 00:11:04,919
+I'm just going to read that all and explain it as I go.
+
+116
+00:11:05,240 --> 00:11:14,119
+Vision is an action, not that it is an external operation, but an operation which fulfills more than it promises.
+
+117
+00:11:14,280 --> 00:11:15,320
+What did I say?
+
+118
+00:11:16,119 --> 00:11:16,839
+I did?
+
+119
+00:11:17,159 --> 00:11:18,359
+How weird.
+
+120
+00:11:18,359 --> 00:11:19,320
+Eternal.
+
+121
+00:11:19,320 --> 00:11:19,959
+Yeah.
+
+122
+00:11:19,960 --> 00:11:20,599
+Okay.
+
+123
+00:11:21,240 --> 00:11:22,200
+Let's try that again.
+
+124
+00:11:22,200 --> 00:11:26,520
+Vision is an action, not that it is an eternal operation, which is a contradiction in terms.
+
+125
+00:11:26,520 --> 00:11:27,879
+Oh, yeah, that makes sense.
+
+126
+00:11:27,879 --> 00:11:30,919
+Because if it was an operation, it would be sort of out of time.
+
+127
+00:11:31,159 --> 00:11:33,240
+If it was eternal, it would be out of time.
+
+128
+00:11:33,240 --> 00:11:36,839
+And then never mind, that's totally a throwaway thing.
+
+129
+00:11:36,839 --> 00:11:48,520
+But an operation which fulfills more than it promises, which constantly outruns its premises, and is inwardly prepared only by my primordial opening upon a field of transcendence.
+
+130
+00:11:48,520 --> 00:11:51,959
+So keep in mind, I mean, this so it won't be mysterious.
+
+131
+00:11:51,959 --> 00:11:55,239
+This is all a question of what it is to see an object.
+
+132
+00:11:55,240 --> 00:11:59,639
+And when you see an object, take the house again.
+
+133
+00:12:00,200 --> 00:12:15,879
+There's more to it than you have ever you're going to ever be able to see because it's part of a field of stuff that's independent of you and has all sorts of characteristics independent of you.
+
+134
+00:12:16,040 --> 00:12:30,879
+Don't and in indefinitely more and and and more, but more more characteristics and they're also more holistically interconnected with everything else that you could ever get it clear grasp of.
+
+135
+00:12:29,159 --> 00:12:34,639
+So that is it's an ex stas, he gets that from Heidegger.
+
+136
+00:12:34,800 --> 00:12:38,800
+And that's another name for being an open head turned toward the world.
+
+137
+00:12:38,800 --> 00:12:40,959
+It's another name for transcendence.
+
+138
+00:12:40,960 --> 00:12:46,479
+It's all this business of I get outside of myself in my mind.
+
+139
+00:12:46,480 --> 00:12:49,599
+I perceive in the actual thing.
+
+140
+00:12:49,919 --> 00:12:51,359
+We've gone through this.
+
+141
+00:12:51,599 --> 00:12:59,839
+From a perspective, but that doesn't mean that somehow that I've got a perspective of it in my mind.
+
+142
+00:12:59,839 --> 00:13:03,520
+My perspective is my openness on the thing.
+
+143
+00:13:03,839 --> 00:13:07,200
+But that's just obvious by now, I hope.
+
+144
+00:13:07,359 --> 00:13:11,280
+Kind of achieved and fulfilled itself in the thing seen.
+
+145
+00:13:11,280 --> 00:13:19,919
+It is of its essence to take a hold upon itself, and indeed if it did not do so, it would not be the sight of anything.
+
+146
+00:13:19,919 --> 00:13:27,920
+But it is nonetheless, and this is mysterious, and that's the, by the way, that little phrase is about what he comes back to at the end.
+
+147
+00:13:27,919 --> 00:13:31,839
+I don't expect to get there today, the tacit cogito.
+
+148
+00:13:31,839 --> 00:13:34,720
+But I should say right away so you won't get confused.
+
+149
+00:13:34,720 --> 00:13:38,320
+He thinks there's some truth in the idea of the cogito.
+
+150
+00:13:38,320 --> 00:13:41,920
+It's just not at all a Cartesian I think.
+
+151
+00:13:41,919 --> 00:13:52,719
+But there's some sense in which we must be aware of ourselves as a field of experience when we are a field of experience.
+
+152
+00:13:52,720 --> 00:14:00,880
+Now but that's it and that means it is of its essence to take hold upon itself, and if it didn't be so, it wouldn't be the sight of anything.
+
+153
+00:14:00,879 --> 00:14:05,120
+I mean, if it weren't a field of experience, it wouldn't be an experience.
+
+154
+00:14:05,119 --> 00:14:08,000
+I mean, this is I this is totally vague now.
+
+155
+00:14:08,000 --> 00:14:10,560
+How he's going to deal with that later.
+
+156
+00:14:10,560 --> 00:14:10,880
+Yeah.
+
+157
+00:14:11,200 --> 00:14:13,639
+Oh, well, Kant, those are holding your influence.
+
+158
+00:14:12,320 --> 00:14:15,720
+You all Heidegger again, oncendence.
+
+159
+00:14:15,720 --> 00:14:17,079
+Are there other people?
+
+160
+00:14:17,399 --> 00:14:20,280
+Wow, that's a good paper topic for example.
+
+161
+00:14:13,520 --> 00:14:20,599
+Thank you.
+
+162
+00:14:20,839 --> 00:14:22,439
+That qualifying exam question.
+
+163
+00:14:22,439 --> 00:14:24,440
+No, every one of them is totally different, I think.
+
+164
+00:14:24,439 --> 00:14:29,480
+So let's go through them because some of you all have experienced them.
+
+165
+00:14:29,480 --> 00:14:30,919
+So let's start.
+
+166
+00:14:31,800 --> 00:14:38,520
+Transcendent, well, notice, by the way, don't confuse transcendence and transcendental.
+
+167
+00:14:38,520 --> 00:14:42,359
+Lots of confusion is generated by them.
+
+168
+00:14:42,359 --> 00:14:51,239
+When Kant says transcendental, he means, he defines it as the condition of the possibility of experiencing objects.
+
+169
+00:14:51,720 --> 00:14:56,999
+And transcendent for Kant means something outside the mind.
+
+170
+00:14:57,000 --> 00:15:01,560
+So that's not totally different than Merlot-Ponty.
+
+171
+00:15:01,560 --> 00:15:12,439
+Except that for Merlot-Ponty, when he says transcendence, he means the way, he doesn't mean a transcendent entity outside the mind.
+
+172
+00:15:12,439 --> 00:15:20,440
+He means the way we are open to entities, which aren't outside, because there isn't any inner-outer.
+
+173
+00:15:20,439 --> 00:15:24,359
+It's just the way we're open to entities, period.
+
+174
+00:15:24,679 --> 00:15:30,759
+Okay, for Kant, the transcendent things are outside the mind, and there's an inner-outer story to be told.
+
+175
+00:15:30,760 --> 00:15:35,560
+For Heidegger and Merlot-Ponty, transcendence is openness.
+
+176
+00:15:35,560 --> 00:15:37,079
+Well, what else do we got in there?
+
+177
+00:15:38,439 --> 00:15:41,239
+Openness, that is the word.
+
+178
+00:15:42,200 --> 00:15:52,199
+No, because we have to know, but most we know, I think, because it's clear in Heidegger's Merlot-Ponty that there is no inner and therefore no outer.
+
+179
+00:15:52,200 --> 00:15:59,999
+Heidegger says explicitly, he's going to get rid of the inner-outer, subject-object, so that means internal-external thing.
+
+180
+00:16:00,000 --> 00:16:02,640
+So there's no mind for it to be outside of.
+
+181
+00:15:59,000 --> 00:16:03,519
+And you're an empty head.
+
+182
+00:16:03,919 --> 00:16:08,159
+If you're an empty head turned toward the world, it's not outside the mind.
+
+183
+00:16:08,159 --> 00:16:17,839
+I mean, well, yeah, it's not outside the mind is some kind of a special, separate domain.
+
+184
+00:16:17,839 --> 00:16:24,480
+If you mean it's part of your experience, which is then of course it is.
+
+185
+00:16:24,480 --> 00:16:28,240
+But it's not a good idea to call your experience inner or the world outer.
+
+186
+00:16:28,240 --> 00:16:32,240
+There's just an open field in which things are showing.
+
+187
+00:16:32,240 --> 00:16:38,879
+It's dangerous to call the open field, which we are, inner.
+
+188
+00:16:38,879 --> 00:16:42,079
+Because then you've got to have a problem out of relativism.
+
+189
+00:16:42,240 --> 00:16:47,280
+But that's good to say that, because I'm sure that there's plenty of problem people who agree.
+
+190
+00:16:47,280 --> 00:16:47,760
+Yeah.
+
+191
+00:16:48,399 --> 00:16:49,839
+Husserl transcendence.
+
+192
+00:16:50,000 --> 00:16:51,360
+Husserl transcendence.
+
+193
+00:16:51,359 --> 00:16:52,959
+Ah, the literal people.
+
+194
+00:16:53,439 --> 00:16:57,119
+Well, Martin, what does Husserl mean by transcendence?
+
+195
+00:16:58,639 --> 00:16:59,439
+Music reveals.
+
+196
+00:16:59,599 --> 00:17:00,879
+Yeah, I don't know.
+
+197
+00:17:01,280 --> 00:17:06,159
+If you give music on stage, then you don't get it in your head, but you give music on the stage.
+
+198
+00:17:11,280 --> 00:17:17,920
+So you've got that transcendence means, like in Kant, that the object is outside of the mind.
+
+199
+00:17:17,919 --> 00:17:18,720
+Is that right?
+
+200
+00:17:19,200 --> 00:17:23,520
+Outside of conscious, outside of consciousness, outside of transcendental consciousness?
+
+201
+00:17:23,839 --> 00:17:26,240
+It's not that you don't mean to use it up yourself.
+
+202
+00:17:26,240 --> 00:17:33,359
+So it's both in your mind, if you want to say that, in your consequence, as I do experience to use inner.
+
+203
+00:17:33,359 --> 00:17:34,679
+It's not made in your head.
+
+204
+00:17:34,560 --> 00:17:35,560
+Okay.
+
+205
+00:17:36,959 --> 00:17:38,880
+It's something you are directed at.
+
+206
+00:17:38,879 --> 00:17:39,280
+Hmm.
+
+207
+00:17:39,280 --> 00:17:40,599
+It might not be a very important thing.
+
+208
+00:17:40,879 --> 00:17:41,440
+I guess.
+
+209
+00:17:41,480 --> 00:17:49,800
+Imminence is supposed to be, for Husserl, what is in the mind, in your mind, right?
+
+210
+00:17:49,800 --> 00:17:56,839
+Completely produced by you, and so to speak, under your control and known by you, does that okay?
+
+211
+00:17:56,839 --> 00:17:59,879
+And transcendence is what isn't like that.
+
+212
+00:17:59,879 --> 00:18:01,560
+Okay, consciousness.
+
+213
+00:18:01,560 --> 00:18:05,479
+And then you get this funny question about how does that differ from experience.
+
+214
+00:18:05,480 --> 00:18:22,359
+But I think when Husserl says conscious, when Heidegger thinks, and Husserl certainly talks this way sometimes, he sees this gulf between consciousness on the one hand as one mode of being and the world as a totally opposite, a different kind of being.
+
+215
+00:18:22,359 --> 00:18:28,679
+And the question of how to get them together is a big question of the inner-outer, imminent, transcendent.
+
+216
+00:18:28,679 --> 00:18:37,640
+Whereas when Heidegger says that, well, when Nero Panti says a field of experience, he's trying to get over that ontological gulf.
+
+217
+00:18:40,439 --> 00:19:00,520
+There's no special character of this field of experience except, well, back to that again, openness, except and you don't, you can't ontologize it as separable way of being.
+
+218
+00:19:00,520 --> 00:19:01,800
+I'm just, that's the best I can say.
+
+219
+00:19:01,959 --> 00:19:02,919
+You want to say something about it?
+
+220
+00:19:03,240 --> 00:19:10,040
+I just wanted to say that for Murray Ponte, it's more of an idea.
+
+221
+00:19:15,159 --> 00:19:15,800
+Okay, go ahead.
+
+222
+00:19:16,280 --> 00:19:23,560
+But the house is experienced as having a backside, even though you don't see it.
+
+223
+00:19:24,520 --> 00:19:27,800
+Strictly speaking, you don't see it because it's hidden by the front of the house.
+
+224
+00:19:27,800 --> 00:19:35,839
+And the broad emotion of transcendence here is the presence of that thing which is beyond what is visible.
+
+225
+00:19:37,280 --> 00:19:38,720
+And so it's not, it's true.
+
+226
+00:19:38,800 --> 00:19:40,479
+I didn't get to just interact.
+
+227
+00:19:40,639 --> 00:19:47,920
+It really is how perception can go beyond where it didn't be a very cognitive notion.
+
+228
+00:19:48,399 --> 00:19:50,479
+And that's what I was saying.
+
+229
+00:19:50,480 --> 00:19:58,159
+And then the other thing is, I therefore puzzled by your use of the phrase the empty head or constant.
+
+230
+00:19:58,240 --> 00:20:00,720
+And where empty heads turned towards the world.
+
+231
+00:20:00,720 --> 00:20:12,800
+In terms of just that phrase I thought was used in an earlier chapter to describe the immature state of development of a child who precisely has no grip on the transcendent.
+
+232
+00:20:12,800 --> 00:20:16,239
+Or whom perspective, there's no other, there's no place for perspective.
+
+233
+00:20:16,240 --> 00:20:17,919
+There's just lists of what is there.
+
+234
+00:20:17,919 --> 00:20:18,800
+Complicated.
+
+235
+00:20:18,800 --> 00:20:33,120
+Because he says, yes, it's the child, and yes, the material person will see that there are perspectives, but we have to preserve the truth the child had, otherwise we're going to end up monads, friends.
+
+236
+00:20:33,280 --> 00:20:34,800
+And that's what I was trying to do.
+
+237
+00:20:34,800 --> 00:20:42,320
+So we are, in some sense, all of the empty heads turned towards the world, but the child thinks we're empty heads turned toward the same world.
+
+238
+00:20:42,560 --> 00:20:54,239
+You see the pencil box with pencils in it, and even though you don't know that the hands can replace human example, we are all open to the same world, the kid thinks, up to the age of three.
+
+239
+00:20:54,240 --> 00:21:03,120
+But when we give this up, we don't turn out to discover that we are not open to the world, but only to a perspective on the world.
+
+240
+00:21:03,119 --> 00:21:08,239
+We're open to the world, the same world, but from different perspectives.
+
+241
+00:21:08,240 --> 00:21:14,439
+Remember all this discussion of these, I point to, Paul and I point to a landscape, then this factor is in this chapter, isn't it?
+
+242
+00:21:14,439 --> 00:21:15,240
+Or is it?
+
+243
+00:21:15,240 --> 00:21:16,119
+Is it?
+
+244
+00:21:14,240 --> 00:21:18,359
+It's in some other chapter too, isn't it?
+
+245
+00:21:18,359 --> 00:21:20,519
+It's in the with others, I think, but it's here.
+
+246
+00:21:14,240 --> 00:21:21,560
+He mentions it again.
+
+247
+00:21:21,879 --> 00:21:43,240
+And so when Paul and I point to the landscape, we point to that same landscape, and we don't have to figure out how he's having an experience of the landscape, and I'm having an experience of a different perspective of the landscape, and how, and that they are the same landscape, and my finger is in his visual field and his in mine.
+
+248
+00:21:43,240 --> 00:21:45,239
+All that's gone.
+
+249
+00:21:45,240 --> 00:21:50,760
+So in that thing, you know, we're open heads, Paul and Merlot here.
+
+250
+00:21:51,000 --> 00:21:53,240
+Open heads turn toward the world.
+
+251
+00:21:53,879 --> 00:21:56,919
+So what do they call him?
+
+252
+00:21:56,919 --> 00:21:57,479
+Born?
+
+253
+00:21:57,480 --> 00:21:58,119
+What's the whole way?
+
+254
+00:21:58,599 --> 00:22:00,280
+Why would his nickname this?
+
+255
+00:22:00,280 --> 00:22:04,519
+Do people ever call Merlot Punty anything that Maurice Merlot calls Tebow?
+
+256
+00:22:04,599 --> 00:22:05,320
+Not obviously.
+
+257
+00:22:05,960 --> 00:22:06,360
+Yeah.
+
+258
+00:22:08,439 --> 00:22:13,320
+Well, I'm wondering what open or empty head is.
+
+259
+00:22:13,320 --> 00:22:14,759
+What's the ante is doing?
+
+260
+00:22:15,000 --> 00:22:26,919
+Well, it's keeping you from thinking that there's something like your private experience of the object or your even private experience of that perspective on the object.
+
+261
+00:22:26,919 --> 00:22:29,560
+That's all shared.
+
+262
+00:22:29,560 --> 00:22:37,879
+Well, the object is shared and that there are perspectives on it is shared and you've got yours, but you haven't got it.
+
+263
+00:22:37,879 --> 00:22:39,239
+It isn't anything.
+
+264
+00:22:39,240 --> 00:22:41,959
+It isn't a private experience in you.
+
+265
+00:22:41,959 --> 00:22:48,919
+It isn't, I think we can disagree with Searle here, but if it causes a lot of static, I won't pursue it.
+
+266
+00:22:49,159 --> 00:22:55,640
+For Searle, your perspective is a visual experience in the mind caused by the object.
+
+267
+00:22:55,639 --> 00:22:57,759
+It's trying to deny that.
+
+268
+00:22:59,280 --> 00:23:00,239
+Okay, Elizabeth.
+
+269
+00:22:57,399 --> 00:23:01,599
+I think you should insist.
+
+270
+00:23:01,760 --> 00:23:07,360
+I've got to deal with the example of the features which transcendence.
+
+271
+00:23:10,639 --> 00:23:11,119
+Right.
+
+272
+00:23:11,119 --> 00:23:12,560
+And that's sort of important.
+
+273
+00:23:12,879 --> 00:23:17,439
+You can't just grasp all the properties of an object you have to turn around although.
+
+274
+00:23:17,439 --> 00:23:19,200
+This is what transcendence means going to be featured.
+
+275
+00:23:19,439 --> 00:23:24,800
+I think to understand it, you're going to have to read the thing chapter and then to read the time chapter.
+
+276
+00:23:24,800 --> 00:23:31,439
+Well, that's sort of what Albert was saying, too, where transcendence has to do with the back of the house.
+
+277
+00:23:31,439 --> 00:23:36,960
+If so, that's a very interesting issue you raised, because that's certainly not the way Heidegger's using it.
+
+278
+00:23:36,960 --> 00:23:37,999
+And I assume that Heidegger.
+
+279
+00:23:41,679 --> 00:23:41,999
+I see.
+
+280
+00:23:42,079 --> 00:23:44,800
+It's important to distinguish it from Heidegger.
+
+281
+00:23:45,200 --> 00:23:48,480
+For Heidegger, transcendence is openness.
+
+282
+00:23:48,480 --> 00:23:51,280
+It's another word for openness, and that's it.
+
+283
+00:23:51,280 --> 00:23:58,560
+Now, openness has a temporal structure in Heidegger, but that's transcendence is about the openness, for sure.
+
+284
+00:23:58,800 --> 00:24:01,999
+That's the extas, the outside of itself.
+
+285
+00:24:02,720 --> 00:24:07,599
+We are outside of, it's called the outside of itself in and for itself at some point.
+
+286
+00:24:07,599 --> 00:24:09,280
+Valentine is.
+
+287
+00:24:09,280 --> 00:24:12,320
+But now, I'm not convinced yet.
+
+288
+00:24:12,320 --> 00:24:14,079
+I'm just trying to decide.
+
+289
+00:24:14,079 --> 00:24:38,640
+Doesn't parallel Ponte, when he takes over this extas notion, mean, doesn't he, is he really clear the transcendence, or maybe the maybe the point is that yes, we're outside ourselves, and the ultimate way we're outside of ourselves is that there's always more to our experience than we can get.
+
+290
+00:24:38,639 --> 00:24:40,399
+That's the back side of the house.
+
+291
+00:24:40,720 --> 00:26:37,679
+And the more, the most basic kind of more is the temporal more that we can always follow out and find more and more and are projected toward that in the future is that so the time so transcendence seems to put together being outside yourself and that's the ecstatic character and that does more to the object than you can you can ever experience but being outside of yourself is being in time it's it's the same in being in time no it's the same as being in time wait but i'm still i am very worried rick you want to say something before you do let me just say my word uh it sounds to me like there are just two different meanings of transcendence that the i'm transcendent that is human beings are trans have transcendence or are transcendent in this openness and that objects are transcendent is is the house transcendent because you can't see the back which are those words which of those you are you are another subject you want to thank my holding the physical system is not this thing he has a whole lot of case view that he wants to mention together so uh in the next paragraph he talks about full synthesis talking about the inside of things does he use transcendence uh well that that's why he doesn't use transcendence right there but i think you can continue well i want you to use that about presentable synthesis but when he says a lot of consciousness transcendence a couple lines of the concept you just read that would be a good line that would help us together well consciousness, let's see let me let's read this transcendence paragraph because it's certainly worth getting straight about it uh we're going top of page 438 and four lines down, there is no transcendent interpretation and no judgment.
+
+292
+00:26:37,679 --> 00:26:39,199
+And I'm not sure this is crucial yet.
+
+293
+00:26:39,200 --> 00:26:42,959
+It does not spring from the very configuration of the phenomenon.
+
+294
+00:26:42,960 --> 00:26:45,679
+Or that there is no sphere of imminence.
+
+295
+00:26:45,919 --> 00:26:50,399
+You think he's now sort of setting himself off against Swiss realists transcendent.
+
+296
+00:26:50,399 --> 00:26:56,399
+No realm in which my consciousness is fully at home, secure against all risks of error.
+
+297
+00:26:56,399 --> 00:27:00,960
+That sounds like it's more in the open-head business.
+
+298
+00:27:00,960 --> 00:27:07,600
+The acts of the I are of such a nature that they outstrip themselves, leaving no interiority of consciousness.
+
+299
+00:27:07,600 --> 00:27:11,200
+Consciousness is transcendence, transcendence through and through.
+
+300
+00:27:11,200 --> 00:27:14,879
+Well, I must say, that doesn't sound like the back of the house.
+
+301
+00:27:14,879 --> 00:27:18,639
+That sounds like my version of Heidegger and him.
+
+302
+00:27:18,640 --> 00:27:20,959
+Let's see, non-transcendence undergone.
+
+303
+00:27:20,959 --> 00:27:24,399
+We have already said that such transcendence would bring consciousness to a stop.
+
+304
+00:27:24,399 --> 00:27:26,640
+Active transcendence.
+
+305
+00:27:27,039 --> 00:27:28,240
+Am I misreading it?
+
+306
+00:27:28,240 --> 00:27:32,080
+Doesn't that put it over on us and our general openness?
+
+307
+00:27:32,640 --> 00:27:36,479
+I have a very very 389 of this?
+
+308
+00:27:36,479 --> 00:27:36,879
+Yes.
+
+309
+00:27:36,879 --> 00:27:38,240
+389.
+
+310
+00:27:38,240 --> 00:27:40,640
+At the end of the guitar, okay.
+
+311
+00:27:41,839 --> 00:27:43,599
+You're thinking about the deep burning.
+
+312
+00:27:44,879 --> 00:27:47,520
+Are you sure we're doing 389 in this?
+
+313
+00:27:47,839 --> 00:27:48,559
+Really?
+
+314
+00:27:49,519 --> 00:27:50,879
+389.
+
+315
+00:27:50,879 --> 00:27:51,839
+Same world.
+
+316
+00:27:52,559 --> 00:27:54,959
+This is the so far if they are experienced by yours.
+
+317
+00:27:54,959 --> 00:27:56,240
+I saw this like green.
+
+318
+00:27:56,800 --> 00:27:59,280
+I think they are going to incur the initial or prefectivity.
+
+319
+00:27:59,439 --> 00:28:00,240
+Does anybody see this?
+
+320
+00:28:00,240 --> 00:28:00,720
+Am I going to be able to do that?
+
+321
+00:28:03,200 --> 00:28:04,800
+Oh, oh, for the end of the paragraph.
+
+322
+00:28:04,800 --> 00:28:05,919
+I was looking at the bottom of the page.
+
+323
+00:28:05,919 --> 00:28:07,120
+Go on, I see it now.
+
+324
+00:28:07,359 --> 00:28:12,320
+Yet they transcend all restrictions because this chain is standalone and introduced.
+
+325
+00:28:12,959 --> 00:28:19,399
+I got the impression that the world discovered things outside me, just as absent endscapes lead on beyond the usual tree and by my past.
+
+326
+00:28:19,800 --> 00:28:25,879
+Okay, objects transcend my experience, I think, but I am transcendence.
+
+327
+00:28:25,879 --> 00:28:28,999
+When he says transcendence, he says you're the world.
+
+328
+00:28:29,720 --> 00:28:31,240
+It means that you're you're in the world.
+
+329
+00:28:31,479 --> 00:28:31,959
+That's right.
+
+330
+00:28:31,959 --> 00:28:32,839
+That's what it means.
+
+331
+00:28:32,839 --> 00:28:38,119
+But when he but when he's talking about objects, he can say they transcend all perspectives.
+
+332
+00:28:38,120 --> 00:28:43,640
+That's very different than saying I'm transcendent, meaning I'm a field of experience.
+
+333
+00:28:44,120 --> 00:28:47,479
+I think you know both, but I can't see how they're identical.
+
+334
+00:28:48,039 --> 00:29:08,359
+I mean, the the the intentionality means different notions of intentionality that we had earlier in the course, because it seems like on the one hand, you can think of uh openness to the world as a way of a way of being directed to it, and in fact a way that's more primordial as Heidegger would put it than the way this sort of would have put it, where the transcendent is beyond or have to get to somehow.
+
+335
+00:29:08,359 --> 00:29:15,719
+And then you we've also talked about the intentionality of objects and that they always refer to more than what they present.
+
+336
+00:29:15,720 --> 00:29:21,879
+And I haven't been quite sure what the connection between those two are supposed to be, but there has to be something issue here.
+
+337
+00:29:22,039 --> 00:29:25,079
+Well, see, there's transcendence of objects in which there's more.
+
+338
+00:29:25,080 --> 00:29:28,680
+That's what Valva and and Olivia are talking about.
+
+339
+00:29:28,680 --> 00:29:38,440
+But there's and there's this transcendence which is not the opposite of imminence, but which is the way we are just playing open.
+
+340
+00:29:38,680 --> 00:29:41,800
+That's I don't want to mix that up with intentionality.
+
+341
+00:29:41,800 --> 00:29:47,160
+That won't help because intentionality well, motor intentionality is the way we're open.
+
+342
+00:29:47,320 --> 00:29:47,960
+What?
+
+343
+00:29:47,959 --> 00:29:51,800
+Yes, motoring, which is operative intentionality, is motor intentionality.
+
+344
+00:29:51,800 --> 00:29:54,920
+And motor intentionality is the same as transcendence.
+
+345
+00:29:54,919 --> 00:30:13,760
+You but there's another kind, and that's what James is also thinking about, in which it would be Searle kind of intentionality, where there is some kind of where the conditions of satisfaction are separate from what satisfies them.
+
+346
+00:30:13,919 --> 00:30:21,839
+in a way that in motor intentionality, although we're going to hear a lot about this, what we perceive is not separate from our activity of perceiving it.
+
+347
+00:30:22,080 --> 00:30:23,039
+Okay, let's go on.
+
+348
+00:30:23,039 --> 00:30:24,720
+I think this has been very helpful.
+
+349
+00:30:24,720 --> 00:30:25,919
+I have one more question now.
+
+350
+00:30:25,919 --> 00:30:27,760
+Does Searle use the notion of transcendence?
+
+351
+00:30:27,839 --> 00:30:30,800
+Because he was on your list, but I don't remember him ever using one of those.
+
+352
+00:30:31,999 --> 00:30:32,479
+What?
+
+353
+00:30:33,439 --> 00:30:34,399
+Okay, not.
+
+354
+00:30:34,399 --> 00:30:35,280
+I didn't think so.
+
+355
+00:30:35,439 --> 00:30:36,080
+Good.
+
+356
+00:30:36,080 --> 00:30:37,440
+Okay, let's go on.
+
+357
+00:30:37,439 --> 00:30:38,399
+So where are we?
+
+358
+00:30:38,399 --> 00:30:39,679
+438.
+
+359
+00:30:39,680 --> 00:30:40,640
+Woody.
+
+360
+00:30:40,640 --> 00:30:42,160
+I was still trying to read the day.
+
+361
+00:30:42,160 --> 00:30:43,599
+I finished that paragraph.
+
+362
+00:30:43,600 --> 00:30:44,240
+I'm not sure.
+
+363
+00:30:44,320 --> 00:30:45,760
+See if I get it to go.
+
+364
+00:30:46,879 --> 00:30:48,399
+I got...
+
+365
+00:30:48,399 --> 00:30:49,439
+Okay, let's see.
+
+366
+00:30:49,439 --> 00:30:57,680
+So the extas tried to achieve and fulfills itself in the thing, wouldn't be the sight of anything, and so forth.
+
+367
+00:30:57,680 --> 00:31:01,359
+And what I was not in possession.
+
+368
+00:31:01,680 --> 00:31:10,160
+Since it is not in possession of itself and escapes from itself into the thing seen, that's the kind of transcendence that I am.
+
+369
+00:31:10,160 --> 00:31:20,639
+What I discover and recognize through the Tokyo is not psychological imminence, the inherence of all phenomena in private states of consciousness, but blind contact of sensationalist itself.
+
+370
+00:31:20,640 --> 00:31:22,959
+It's not even transcendental imminence.
+
+371
+00:31:22,959 --> 00:31:24,799
+I wonder what that's going to turn out to be.
+
+372
+00:31:25,039 --> 00:31:28,000
+That's Hotel and Kant, I guess.
+
+373
+00:31:27,999 --> 00:31:35,680
+The belonging of all phenomena to a constituting consciousness, which is the condition of the possibility of the experience of objects.
+
+374
+00:31:35,919 --> 00:31:36,719
+Put that in there.
+
+375
+00:31:36,720 --> 00:31:47,879
+The possession of clear thought by itself is the deep-seated momentum of transcendence, which is my very being, the simultaneous contact of my being with the world's being.
+
+376
+00:31:43,760 --> 00:31:49,399
+Okay, well, that's fine.
+
+377
+00:31:49,640 --> 00:31:55,560
+I mean, I think he's being Heideggerian through and through, and he will spell it out later in terms of temporality.
+
+378
+00:31:55,559 --> 00:32:02,599
+And it certainly has to do with the backsides of objects, but it's mainly just that's me.
+
+379
+00:32:02,600 --> 00:32:08,040
+Look, I'm constantly just thrown into the open, openly thrown into the world.
+
+380
+00:32:08,600 --> 00:32:11,240
+Okay, and what's indubitable?
+
+381
+00:32:11,240 --> 00:32:13,240
+Well, that's the next thing.
+
+382
+00:32:13,240 --> 00:32:21,720
+It looks like maybe what's indubitable is the seeing of the things seen, or the seeming to see of the things seen.
+
+383
+00:32:22,120 --> 00:32:27,720
+That's the move to try to get to the cogito out of this.
+
+384
+00:32:27,720 --> 00:32:35,400
+And that's what he's talking about when he starts the chapter, as he should start it anyway, the bottom of 435.
+
+385
+00:32:35,720 --> 00:32:38,680
+There can be no doubt at all that I think.
+
+386
+00:32:38,680 --> 00:32:46,839
+I'm not sure that there is over there an ashtray or a pipe, but I'm sure that I think I see an ashtray or a pipe.
+
+387
+00:32:46,839 --> 00:32:49,480
+Now, that's the Cartesian cogito move.
+
+388
+00:32:49,479 --> 00:32:57,799
+You can't be sure of any of your perceptual experience of objects, but you can be sure of the perceptual experience.
+
+389
+00:32:58,120 --> 00:32:59,399
+It's very straightforward.
+
+390
+00:32:59,399 --> 00:33:01,399
+I mean, I don't think you're used to it probably.
+
+391
+00:33:01,399 --> 00:33:17,320
+When I was a graduate student and everybody thought about epistemology and never about ontology, everybody was quite clear from Descartes that I don't know, I can't be sure that I see the table, but that I right now, seem to be sitting the table.
+
+392
+00:33:17,320 --> 00:33:19,160
+How could that be wrong?
+
+393
+00:33:19,160 --> 00:33:20,200
+That's what C.I.
+
+394
+00:33:20,280 --> 00:33:23,480
+Lewis thought, that's what I thought, and so forth.
+
+395
+00:33:23,479 --> 00:33:25,719
+And it still sounds pretty convincing.
+
+396
+00:33:26,039 --> 00:33:29,040
+And now he's going to try to talk you out of it.
+
+397
+00:33:28,359 --> 00:33:35,359
+Now, it is, by the way, another one of these places where the new translation has introduced a mistake that isn't in the old.
+
+398
+00:33:35,439 --> 00:33:36,640
+It's mysterious.
+
+399
+00:33:36,640 --> 00:33:43,040
+The next sentence is, now, is it fact as easy?
+
+400
+00:33:43,039 --> 00:33:44,479
+And of course it is.
+
+401
+00:33:44,479 --> 00:33:46,479
+Now, is it in fact as easy?
+
+402
+00:33:46,479 --> 00:33:48,560
+But how could anybody introduce that?
+
+403
+00:33:48,559 --> 00:33:52,879
+Maybe they scanned the book and then they didn't fix all the glitches in the scanning?
+
+404
+00:33:52,879 --> 00:33:54,160
+I just don't know.
+
+405
+00:33:54,160 --> 00:34:08,879
+Anyway, now is it involved as easy as is generally thought to dissociate these two assertions and hold independently of any judgment concerning the things seen the evidence certainty of my thought about seeing?
+
+406
+00:34:08,879 --> 00:34:11,440
+On the contrary, it's impossible.
+
+407
+00:34:11,439 --> 00:34:16,879
+That's a wonderful, interesting claim, which I will try to explain in the bed.
+
+408
+00:34:16,879 --> 00:34:24,879
+Perception is precisely that kind of act in which there can be no question of setting the act itself apart from the end to which it's directed.
+
+409
+00:34:24,879 --> 00:34:26,719
+The intuition is the following.
+
+410
+00:34:26,720 --> 00:34:32,160
+And I feel very at home in this because I keep saying as a graduate student, this is what people had on their minds.
+
+411
+00:34:32,160 --> 00:34:34,800
+In fact, I wrote a chapter of my thesis about this.
+
+412
+00:34:34,800 --> 00:34:48,159
+So the sense data got very sophisticated and decided sense data wasn't just quaria like red patch here now, which certainly has no implications.
+
+413
+00:34:48,160 --> 00:34:50,959
+And if you ever could see it, it would be indubitable.
+
+414
+00:34:50,959 --> 00:34:56,320
+And Mero Ponty admits that maybe sometimes you do see qualia if you get in a particular weird frame of mind.
+
+415
+00:34:56,320 --> 00:34:58,079
+And if you do, they are indubitable.
+
+416
+00:34:58,080 --> 00:34:59,920
+That doesn't matter.
+
+417
+00:34:59,919 --> 00:35:05,760
+But you want to find what's the indubitable basis of your everyday perception of people and things.
+
+418
+00:35:05,760 --> 00:35:08,559
+And now that's not going to be just red patches.
+
+419
+00:35:08,559 --> 00:35:09,760
+That didn't work out.
+
+420
+00:35:09,760 --> 00:35:21,159
+So now my thesis advisor, Roderick Firth, who was justifiably totally forgotten, came up with this brilliant idea that what you see are ostensible objects.
+
+421
+00:35:21,479 --> 00:35:26,680
+So that's just a way of saying what is indubitable is I seem to see a table.
+
+422
+00:35:26,680 --> 00:35:29,159
+Now you don't just say a gray patch.
+
+423
+00:35:29,160 --> 00:35:31,639
+You can put everything into it that you have.
+
+424
+00:35:31,640 --> 00:35:39,480
+You can put the perceptual constancies and the shape and the size and the distance and the categorization of what object it is and just put scenes in front of it.
+
+425
+00:35:39,479 --> 00:35:41,640
+It seems to me I see a table.
+
+426
+00:35:41,640 --> 00:35:47,080
+The table is the ostensible table is the object of my perception.
+
+427
+00:35:47,080 --> 00:35:49,560
+And I can't be wrong about that.
+
+428
+00:35:49,559 --> 00:35:54,280
+The way I can be wrong about whether I see a table.
+
+429
+00:35:54,280 --> 00:36:12,040
+And Merrill-Bonte's answer, which I will try to show you the pages, but the intuition, the phenomena, is very interesting and clear, is he thinks that just as you can see the backside or you experience the object, the house is having a backside.
+
+430
+00:36:12,359 --> 00:36:22,680
+So when you experience an ostensible table, you experience the table as existing, as really being there.
+
+431
+00:36:22,680 --> 00:36:37,960
+So that, as I put in my thesis, the ostensible table is not ostensibly ostensible, which means that you could be fooled, which means that you just lost the point you wanted to make, namely that there was something indubitable about which you couldn't be fooled.
+
+432
+00:36:37,959 --> 00:36:41,320
+And that's what Merrill-Fonty is saying in this part of the chapter.
+
+433
+00:36:41,320 --> 00:36:49,560
+He's saying that you can't pry off an experience of the object which hasn't already committed you to the existence of the object.
+
+434
+00:36:49,559 --> 00:36:55,160
+So you can't have an experience of a neutral something called an ostensible table.
+
+435
+00:36:55,160 --> 00:36:58,520
+You can only have an experience of a table.
+
+436
+00:36:58,519 --> 00:37:13,520
+And of course, as soon as you're able to do, you get the peculiar fact that you can, though you can be certain that you're seeing a table, it isn't indubitable, or what's the word, incorrigible.
+
+437
+00:37:13,839 --> 00:37:20,320
+And so the attempt to find the indubitable, the sense data won't work, the ostensible object won't work.
+
+438
+00:37:20,320 --> 00:37:28,320
+There is a sense in which you are directly presented with and certain that it's a table you're seeing there.
+
+439
+00:37:28,320 --> 00:37:30,320
+And that sounds right.
+
+440
+00:37:30,320 --> 00:37:32,479
+But then comes the interesting puzzle.
+
+441
+00:37:32,479 --> 00:37:37,040
+But if you're certain of it, then how come it could turn out not to be?
+
+442
+00:37:37,039 --> 00:37:39,359
+And you've got to have a place in there, too.
+
+443
+00:37:39,359 --> 00:37:41,839
+You were certain of it, but it's not indubitable.
+
+444
+00:37:41,839 --> 00:37:43,439
+What was the thorough phrase?
+
+445
+00:37:44,240 --> 00:37:46,959
+It's certain, but not incorrigible.
+
+446
+00:37:47,439 --> 00:37:49,439
+That is indubitable and incorrigible.
+
+447
+00:37:49,439 --> 00:37:50,800
+You see why they are the same.
+
+448
+00:37:50,800 --> 00:37:54,800
+It's certain, but you can doubt it.
+
+449
+00:37:54,800 --> 00:37:57,520
+It's certain, but you may have to take it back.
+
+450
+00:37:57,519 --> 00:37:59,359
+That would be couraging it.
+
+451
+00:37:59,359 --> 00:38:01,280
+It's not indubitable.
+
+452
+00:38:01,280 --> 00:38:02,879
+It's not incorrigible.
+
+453
+00:38:02,879 --> 00:38:06,320
+That is, you're certain about it, but it's doubtable.
+
+454
+00:38:06,320 --> 00:38:08,560
+You're certain about it, but it's correctable.
+
+455
+00:38:08,559 --> 00:38:10,240
+What is that experience?
+
+456
+00:38:10,240 --> 00:38:15,520
+Well, that experience is the one who goes into with a stone on the path.
+
+457
+00:38:15,519 --> 00:38:25,920
+Remember, you go along and you think there's a stone on the path, and you're ready to put your foot on the solid stone, and as you approach it, it looks bigger and bigger, and keeps its color constancy, just like stones ought to do.
+
+458
+00:38:25,919 --> 00:38:32,560
+And then your foot goes right through it, because it's not a stone on the path, it's a light patch on the path.
+
+459
+00:38:32,879 --> 00:38:36,479
+There is a sense in which you were certain that it was a stone.
+
+460
+00:38:36,479 --> 00:38:40,160
+It looked like a real stone right there on the path.
+
+461
+00:38:40,160 --> 00:38:45,800
+And it was given to you as that.
+
+462
+00:38:45,800 --> 00:38:49,240
+It was ostensibly real.
+
+463
+00:38:49,240 --> 00:38:52,280
+It wasn't just a seeming stone on the path.
+
+464
+00:38:52,280 --> 00:38:55,240
+And it turned out there wasn't any stone.
+
+465
+00:38:55,240 --> 00:39:00,440
+Which means that you can, even though you're certain, you can take it back.
+
+466
+00:39:00,839 --> 00:39:04,119
+But it means that you can't just think you take it back.
+
+467
+00:39:04,120 --> 00:39:04,839
+One more thing.
+
+468
+00:39:05,080 --> 00:39:15,240
+The important Merrow-Ponte idea, I don't know if it's in Austin, but the important Mero-Ponte idea is that you, so to speak, don't get this certainty for nothing.
+
+469
+00:39:15,240 --> 00:39:21,320
+If you have to take it back, then you have to retroactively cross out the previous experience.
+
+470
+00:39:21,320 --> 00:39:22,439
+You've heard me say that.
+
+471
+00:39:22,439 --> 00:39:25,240
+In Husserl language, the Nelima explodes.
+
+472
+00:39:25,240 --> 00:39:31,320
+I mean, it isn't just it calmly transforms from a stone into a sun patch.
+
+473
+00:39:31,320 --> 00:39:35,320
+You can't even remember anymore what it was like for it to be a stone.
+
+474
+00:39:35,320 --> 00:39:46,760
+Your experience is suddenly, startlingly, radically revived, and it's revised in such a way that it looks now as if you could never have mistaken it for a stone.
+
+475
+00:39:46,760 --> 00:39:49,640
+It looks like it's clearly a sun patch.
+
+476
+00:39:49,959 --> 00:39:51,879
+Something's supposed to follow from that.
+
+477
+00:39:51,879 --> 00:40:00,039
+Namely, that whenever something turns out to be uncertain, which you thought was certain, that is, you have to take it back.
+
+478
+00:40:00,039 --> 00:40:01,719
+You have other three things probably.
+
+479
+00:40:01,720 --> 00:40:07,560
+You have to take it back and you have to switch from I saw a stone on the patch to I seem to see a stone.
+
+480
+00:40:07,879 --> 00:40:16,279
+And it's always in terms of something else which you're now certain about, namely that there's a sunlight spot on them.
+
+481
+00:40:16,600 --> 00:40:22,839
+And of course, that too, though you're certain, you might have to take back in terms of something else.
+
+482
+00:40:22,839 --> 00:40:29,320
+But it's always something, there's always something that you're certain of in terms of which you have to take back the others.
+
+483
+00:40:29,519 --> 00:40:38,640
+That's the sense in which, remember the phrase, forget where it is, there's nothing in the world that I can't be wrong about, but I can't be wrong about the world.
+
+484
+00:40:38,640 --> 00:40:49,520
+That's supposed to mean there's nothing in the world I can't turn out to be wrong about, but it's always in terms of something else that I'm right about that I could ever discover that I was wrong about the stone or the pack.
+
+485
+00:40:49,519 --> 00:40:50,720
+Hand over here.
+
+486
+00:40:50,720 --> 00:40:51,199
+Yeah.
+
+487
+00:40:52,720 --> 00:40:56,800
+Well, Carlo Huntington's saying that the well, it's real.
+
+488
+00:40:56,879 --> 00:40:58,560
+No, I don't know if that's right.
+
+489
+00:40:58,559 --> 00:41:08,320
+If there had been a stone on the path and my foot had gone off, I could remember how it looked as I approached it and how it felt when I stepped on it.
+
+490
+00:41:08,320 --> 00:41:12,960
+But if there isn't, then everything gets restructured.
+
+491
+00:41:12,959 --> 00:41:16,799
+And I can't even remember how it was.
+
+492
+00:41:16,800 --> 00:41:24,239
+At least I think that's how you're supposed to think about this exploding cross retroactively crossed out, something or other.
+
+493
+00:41:25,680 --> 00:41:28,879
+It gets crossed out right into your past.
+
+494
+00:41:28,879 --> 00:41:33,120
+And again, remember the Telegraph Avenue example, which is more dramatic.
+
+495
+00:41:33,120 --> 00:41:37,440
+You can't remember the back of the girl once you've seen that it's a guy.
+
+496
+00:41:37,439 --> 00:41:42,960
+You can't remember the nice thick house with an interior once you see that it's a facade.
+
+497
+00:41:42,959 --> 00:41:45,120
+It gets disburdened.
+
+498
+00:41:45,439 --> 00:41:49,199
+Taken out of your experience because it turns out to be wrong.
+
+499
+00:41:49,680 --> 00:41:50,800
+So you can remember that.
+
+500
+00:41:50,800 --> 00:41:51,839
+You just can't remember.
+
+501
+00:41:51,999 --> 00:41:53,839
+You can't remember the experience.
+
+502
+00:41:55,280 --> 00:41:56,719
+You can't remember what it was like.
+
+503
+00:41:56,720 --> 00:42:09,359
+You can't see anymore, even in memory, this real ro solid rock that you saw as you walked down the path, because you see already in memory that it's a sun that it's a sun patch.
+
+504
+00:42:09,359 --> 00:42:12,000
+It's been retroactively fixed up in memory.
+
+505
+00:42:11,999 --> 00:42:16,680
+The the simplest example is the animals in tree puzzles.
+
+506
+00:42:16,680 --> 00:42:20,280
+You see lots of trees and you don't see the rabbits and the cats.
+
+507
+00:42:20,280 --> 00:42:22,199
+Then you do see the rabbits and the cats.
+
+508
+00:42:22,200 --> 00:42:25,000
+It's Rigeschaufted retroactively.
+
+509
+00:42:24,999 --> 00:42:28,839
+You cannot imagine what it looked like when you couldn't see the rabbits in the catch.
+
+510
+00:42:28,839 --> 00:42:33,560
+You can't remember it now without the rabbits jumping out from the trees.
+
+511
+00:42:33,559 --> 00:42:41,240
+And that's the sense in which you're both certain of it and committed to it, and yet you take it back.
+
+512
+00:42:41,240 --> 00:42:44,119
+But you can't just easily take it back, I would say.
+
+513
+00:42:44,200 --> 00:42:47,320
+You can't just say, well, I seem to see a stone now.
+
+514
+00:42:47,320 --> 00:42:49,320
+It seems that it's a sun patch.
+
+515
+00:42:49,320 --> 00:42:54,680
+You have to say, I did see a stone, and I was certain of it, but I was wrong.
+
+516
+00:42:54,999 --> 00:42:58,759
+And now I'm seeing a sun patch.
+
+517
+00:42:58,760 --> 00:43:00,440
+That's the phenomenon.
+
+518
+00:43:00,760 --> 00:43:02,280
+Let's see if I want to say anything more.
+
+519
+00:43:02,280 --> 00:43:03,960
+Let's sum that up.
+
+520
+00:43:03,959 --> 00:43:05,320
+Well, I want to say one more thing.
+
+521
+00:43:05,640 --> 00:43:22,119
+And Austin-like, you can say that it just turns out the way the language works, that see is a success word, and to say, I see the table, is to commit yourself to there actually being a table there.
+
+522
+00:43:22,439 --> 00:43:24,920
+And that's good phenomenology.
+
+523
+00:43:25,240 --> 00:43:30,440
+And moreover, it's a success word that you might have to take back.
+
+524
+00:43:30,439 --> 00:43:33,800
+And then you say, I seem to see a table there.
+
+525
+00:43:33,800 --> 00:43:38,440
+And that's how the grammar of seeing works.
+
+526
+00:43:38,439 --> 00:43:41,240
+And that's how the phenomena works.
+
+527
+00:43:41,240 --> 00:43:42,760
+And they fit together.
+
+528
+00:43:43,720 --> 00:43:44,359
+Album.
+
+529
+00:43:46,039 --> 00:43:52,919
+Some of you can answer thought by observing the inducable and the invertible don't do the same thing.
+
+530
+00:43:53,080 --> 00:43:55,879
+And inducable means can't be doubted.
+
+531
+00:43:56,280 --> 00:43:58,839
+Invertible means can't be corrected.
+
+532
+00:43:59,919 --> 00:44:12,480
+And when you're seeing something, nobody's claiming it seems to be, you are, it is impossible in the psychological state of seeing to also do the psychological state of doubt.
+
+533
+00:44:13,120 --> 00:44:20,800
+But that's entirely independent of whether or not, as a matter of fact, one's right and one could be corrected.
+
+534
+00:44:20,800 --> 00:44:29,999
+So he says if I see an ashtray in the full sense of the word as tray, in the full sense of the word see, it must be an aspect there, okay?
+
+535
+00:44:30,160 --> 00:44:34,240
+And then he says, to see that is it actually to see that in existence?
+
+536
+00:44:34,240 --> 00:44:37,760
+So it's as if existence is sort of one.
+
+537
+00:44:37,760 --> 00:44:39,519
+Well, I forget that feeling quote.
+
+538
+00:44:39,600 --> 00:44:40,479
+But that's right.
+
+539
+00:44:40,479 --> 00:44:48,879
+But the main point is a claim about psychology could be a claim about the psychological incompatibility of the doubting and the experience of it one at the same time.
+
+540
+00:44:48,879 --> 00:45:00,800
+It's a claim about the phenomena such that it looks real and there would be no motivation for doubting it.
+
+541
+00:45:00,800 --> 00:45:02,719
+I mean, you could doubt it abstractly.
+
+542
+00:45:02,720 --> 00:45:06,400
+I mean, I can doubt right now that there's an electron there.
+
+543
+00:45:06,399 --> 00:45:12,559
+But what he's trying to get at is that it gives my experience.
+
+544
+00:45:12,559 --> 00:45:14,959
+I mean, that's just crazy.
+
+545
+00:45:14,959 --> 00:45:20,960
+I mean, I need it clear that there's an electron there and an electron there and I'm ready to deal with it and so forth.
+
+546
+00:45:21,519 --> 00:45:23,519
+So I don't know about this indubitable.
+
+547
+00:45:23,519 --> 00:45:27,519
+I think the important thing is not the psychological thing.
+
+548
+00:45:27,519 --> 00:45:37,760
+It's the phenomena is presented to you as really there and cannot be sensibly doubted.
+
+549
+00:45:39,039 --> 00:45:40,800
+That may be all we need.
+
+550
+00:45:42,080 --> 00:45:57,560
+And it's corrugible in the sense that certain event comes along, like the patch of sunlight turns out to be a patch of sunlight, it will automatically require.
+
+551
+00:45:57,559 --> 00:45:58,839
+You don't have to think about it.
+
+552
+00:45:58,839 --> 00:46:01,079
+Your perception will just have to correct itself.
+
+553
+00:46:01,080 --> 00:46:13,240
+That's the retroactive crossing out and the fact that you will now see a color patch and you will understand that you only seem to see the rock.
+
+554
+00:46:13,240 --> 00:46:19,079
+There was one more thing I was thinking about just now that I wanted to make sure I got my mind.
+
+555
+00:46:19,720 --> 00:46:24,439
+You want to know if there's some important little well, it'll have to come back to me.
+
+556
+00:46:24,439 --> 00:46:24,999
+Go ahead, Alex.
+
+557
+00:46:25,320 --> 00:46:29,320
+It's like the current like the coat.
+
+558
+00:46:29,320 --> 00:46:30,519
+You mean what is it?
+
+559
+00:46:30,519 --> 00:46:31,160
+How is it likely?
+
+560
+00:46:31,240 --> 00:46:39,080
+Well, in the sense that the I am, I exist, and what I think, I am, I exist.
+
+561
+00:46:40,039 --> 00:46:43,959
+Well, that's a mysterious version of this whenever I see it.
+
+562
+00:46:43,959 --> 00:47:00,600
+And there's a way in which he's taxing something about, I don't know how best to factorize it, but it's like there's a kind of a performance of exclusion of possibility of hope because it's not.
+
+563
+00:47:00,680 --> 00:47:07,959
+Yes, there's a kind of exclusion of the possibility of doubt when you see it, except again in some very abstract way.
+
+564
+00:47:07,959 --> 00:47:10,680
+Oh, now I remember what I want to talk about, the missing thing.
+
+565
+00:47:10,680 --> 00:47:15,879
+And I think I repress it because there's something I don't understand about it.
+
+566
+00:47:15,879 --> 00:47:20,279
+And so I give it all to you, and maybe somebody will write a paper about it and fix it.
+
+567
+00:47:20,280 --> 00:47:27,320
+I mean, it's, I can't tell whether Marilla Ponty, which of the following two views Marilla-Ponty holds.
+
+568
+00:47:27,320 --> 00:47:46,240
+One, that when I get a maximum grip on it, when I see it in its richness, when my expectations are constantly being satisfied, when I could pick it up and hold it and smell it and so forth, could I still turn out to be wrong about it?
+
+569
+00:47:46,240 --> 00:47:50,959
+Now, I think I do understand it.
+
+570
+00:47:50,959 --> 00:47:56,399
+I think he thinks the answer is yes, I could always turn out to be wrong about it.
+
+571
+00:47:56,399 --> 00:47:58,079
+I think Austin thinks the same thing.
+
+572
+00:47:58,320 --> 00:48:03,679
+When you have a goldfinch in the garden, as I recall, you still read Sense and Sensibilia and so forth, anybody?
+
+573
+00:48:03,999 --> 00:48:12,239
+And I hear it, and I see it, and I could feel it, smell it if I wanted to, and yet it might turn out not to be a goldfinch.
+
+574
+00:48:12,240 --> 00:48:13,280
+That's easy.
+
+575
+00:48:13,280 --> 00:48:17,200
+That's like the house might turn out only to be a facade.
+
+576
+00:48:17,200 --> 00:48:21,920
+But I think it could turn out that there just wasn't anything there.
+
+577
+00:48:21,919 --> 00:48:25,359
+Now, is that a sensible thing to hold?
+
+578
+00:48:25,359 --> 00:48:25,839
+That?
+
+579
+00:48:26,399 --> 00:48:28,480
+That might just be wrong.
+
+580
+00:48:28,720 --> 00:48:31,839
+But I do think Marilla-Ponty and Austin hold that.
+
+581
+00:48:31,839 --> 00:48:39,759
+And the reason I think so is this quote, I wish I could just open to it, where we can be unsure about anything in the world, doubt anything in the world.
+
+582
+00:48:39,760 --> 00:48:44,479
+The only thing we could be certain of is the world, meaning that there's always something we could be certain of.
+
+583
+00:48:44,800 --> 00:48:49,920
+If anybody finds it, say it, because I don't even remember which chapter do I read around in it.
+
+584
+00:48:49,919 --> 00:48:52,640
+But now, how could you understand that?
+
+585
+00:48:52,640 --> 00:48:57,999
+I mean, you can understand the sunspot turning in, looking like a stone and then not looking like a stone.
+
+586
+00:48:57,999 --> 00:49:04,800
+You can understand the house looking like a house and then turning out to look like a facade, or the girl turning out to look like a man.
+
+587
+00:49:04,800 --> 00:49:18,359
+But what would it be to feel something and see it and use it and have it in front of you and it turn out not to exist at all, not just to be something else, like a facade or a house?
+
+588
+00:49:18,439 --> 00:49:19,799
+I think, wait, let me finish.
+
+589
+00:49:19,800 --> 00:49:21,639
+I think I now understand the answer.
+
+590
+00:49:21,959 --> 00:49:29,160
+I think it's something hypothetical, not ever actual in anybody's experience as far as I know.
+
+591
+00:49:29,160 --> 00:49:37,720
+But it could, for instance, suppose, I remember these things from graduate school, suppose it now just faded out in front of all of us.
+
+592
+00:49:37,720 --> 00:49:40,439
+And there wasn't any morning electron.
+
+593
+00:49:40,600 --> 00:49:43,320
+Now, things don't normally behave that way.
+
+594
+00:49:43,640 --> 00:49:53,720
+But the point that I think both Austin and Marilla-Ponty want to emphasize is that seeing it now commits me to stuff about it in the future.
+
+595
+00:49:53,720 --> 00:50:05,000
+If there's really an electron here in front of me, it's got to stay here in front of me through the whole lecture and be fast when I come back, be here when I come back next time unless somebody carries it away.
+
+596
+00:50:04,999 --> 00:50:13,959
+And that is the, and all of those commitments are could turn out not to be fulfilled.
+
+597
+00:50:13,959 --> 00:50:16,600
+Now, in our world, that hasn't happened.
+
+598
+00:50:16,600 --> 00:50:23,159
+And it could happen, I guess, if the quantum stuff had highly and probably all gotten the right synchronism, this could just vanish.
+
+599
+00:50:23,160 --> 00:50:27,079
+But anyway, but the important thing isn't whether in our world it can or not.
+
+600
+00:50:27,080 --> 00:50:35,720
+The important thing is that no matter how much of a grip you get on it, there's always so much more to it than you could ever get a grip on.
+
+601
+00:50:35,720 --> 00:50:37,399
+And all of that is contingent.
+
+602
+00:50:37,399 --> 00:50:39,640
+That is, it could be otherwise.
+
+603
+00:50:39,640 --> 00:50:51,479
+So you can never get the kind of certainty that would be the kind of absolute certainty that the Kogito want, the Kogito people, the Descartes wants.
+
+604
+00:50:51,800 --> 00:51:07,200
+And that's all right, as long as you remember that that's what certainty means for us is that everything is happening normally and you've got a grip on it and there's no normal expectation that anything could go wrong.
+
+605
+00:51:07,200 --> 00:51:12,720
+That only entitles you to say you're certain, you can see it.
+
+606
+00:51:12,720 --> 00:51:15,440
+That is, you actually see there is this thing there.
+
+607
+00:51:15,439 --> 00:51:16,960
+You are certain.
+
+608
+00:51:16,959 --> 00:51:18,640
+Only you might be wrong.
+
+609
+00:51:18,640 --> 00:51:19,919
+That's just about how it is.
+
+610
+00:51:19,919 --> 00:51:21,760
+Does anybody want to say something over here?
+
+611
+00:51:23,600 --> 00:51:25,999
+Well, okay, both of you and then I really have to go on.
+
+612
+00:51:25,999 --> 00:51:30,639
+First games and then my guy.
+
+613
+00:51:30,640 --> 00:51:32,479
+My magi.
+
+614
+00:51:32,879 --> 00:51:34,160
+I don't get consonants in one.
+
+615
+00:51:34,160 --> 00:51:35,359
+There are a lot of consonants in there.
+
+616
+00:51:35,359 --> 00:51:35,679
+Yeah.
+
+617
+00:51:35,680 --> 00:51:48,800
+So I thought I understood what certainty was until the last one said I mean I thought certainty in conservative meant something like a level of endorsement, you know, not certainty if I think if I I wouldn't doubt it.
+
+618
+00:51:49,120 --> 00:51:50,639
+Well, but you're not wrong.
+
+619
+00:51:51,359 --> 00:51:51,919
+That's right.
+
+620
+00:51:51,919 --> 00:51:55,519
+That's the epistemological linguistic way to put it.
+
+621
+00:51:55,519 --> 00:51:56,320
+That's not wrong.
+
+622
+00:51:56,320 --> 00:52:05,200
+But the phenomenological way to put it, which is the one that interests me or Ponte, is it actually looks like it couldn't ever fail you.
+
+623
+00:52:05,200 --> 00:52:14,000
+Even though you haven't got all the evidence in, your experience runs ahead and commits it to staying here and so forth.
+
+624
+00:52:13,999 --> 00:52:22,080
+That's why when the stone turns into the sun spot, it has to retroactively cross something out.
+
+625
+00:52:22,080 --> 00:52:25,040
+It isn't just you have to change your beliefs.
+
+626
+00:52:25,039 --> 00:52:27,280
+You have to, the experience will change.
+
+627
+00:52:27,280 --> 00:52:37,359
+So there's not only a kind of endorsement and a commitment, there's an experience of it as really existing.
+
+628
+00:52:37,359 --> 00:52:44,359
+I mean, that's got to be important to the argument because that's the argument that nothing is indubitable.
+
+629
+00:52:43,999 --> 00:52:49,879
+You can't find anything that's so minimal if you haven't already committed yourself to something.
+
+630
+00:52:50,200 --> 00:53:09,320
+Or to put it more accurately, you could maybe with a qualia, but you can't find anything minimal in your everyday experiences of tables and chairs and stuff, which is the minimal thing that you don't endorse, don't commit yourself to, in your experience, jumps ahead and commits you to it.
+
+631
+00:53:09,320 --> 00:53:16,040
+So, what's the difference between when am I ever in a position to know that I?
+
+632
+00:53:16,039 --> 00:53:17,959
+Well, that's the right question.
+
+633
+00:53:17,959 --> 00:53:18,760
+Never.
+
+634
+00:53:19,080 --> 00:53:23,320
+That is, it's always retroactively take backable.
+
+635
+00:53:23,320 --> 00:53:32,280
+But you can't help, this is again sort of Alva's point, psychological or phenomenological, you can't help taking it as settlement.
+
+636
+00:53:32,280 --> 00:53:33,719
+That's true, too.
+
+637
+00:53:33,720 --> 00:53:35,240
+It's a tricky business.
+
+638
+00:53:35,240 --> 00:53:42,600
+But remember, the whole point of this is, besides just putting all the phenomena on the table, is to tell, it is Merlot-Ponty's point.
+
+639
+00:53:42,600 --> 00:53:49,800
+So, the way perception works, there's no indubitable level of perception.
+
+640
+00:53:49,800 --> 00:53:50,999
+Now, I saw one other hand.
+
+641
+00:53:51,320 --> 00:53:51,879
+Was it Rich?
+
+642
+00:53:51,879 --> 00:53:52,760
+You good, Annie?
+
+643
+00:53:52,999 --> 00:54:00,279
+Yeah, well, I was wondering, in this whole discussion, I'm always remembering the sense in which the bodies look worthy.
+
+644
+00:54:00,280 --> 00:54:00,679
+Right.
+
+645
+00:54:00,680 --> 00:54:02,200
+And all of this perceives.
+
+646
+00:54:02,359 --> 00:54:02,679
+Good.
+
+647
+00:54:02,680 --> 00:54:08,839
+And so, remember the passage where Merlot-Ponty has the sense that the body knows and the body understands?
+
+648
+00:54:09,240 --> 00:54:14,680
+Those things like there would have to be a level of, you know, body doubt or body's burden.
+
+649
+00:54:14,919 --> 00:54:15,639
+I think that's right.
+
+650
+00:54:15,640 --> 00:54:15,879
+Good.
+
+651
+00:54:17,399 --> 00:54:17,799
+Good.
+
+652
+00:54:17,800 --> 00:54:22,119
+That's a way of putting what I was just saying to James in a very Merlot-Ponty way.
+
+653
+00:54:22,120 --> 00:54:38,160
+Yes, the way that you're certain is that your body intentionality is taking account of it and making a prediction, so to speak, about it, getting set for what it's going to do next, and having been set for what it did before, your body intentionality is all committed that way.
+
+654
+00:54:38,160 --> 00:54:48,159
+And that's why it looks real, and that's why, if it turns out to be wrong, it gets taken back in a way not like your beliefs are taken back.
+
+655
+00:54:48,479 --> 00:54:49,359
+That's easy.
+
+656
+00:54:49,359 --> 00:54:51,040
+You just take back this belief.
+
+657
+00:54:51,039 --> 00:54:55,519
+Now, it's got the different level of description, but I'm just repeating myself.
+
+658
+00:54:55,519 --> 00:55:07,200
+But I think Rick has just added, all this phenomenological stuff I've been saying is about body intentionality, motor intentionality, and that's what perception is, is body intentionality.
+
+659
+00:55:07,200 --> 00:55:10,960
+Whether you're a field, you are, and you are an open field.
+
+660
+00:55:10,959 --> 00:55:12,720
+You are a perceptual field.
+
+661
+00:55:13,039 --> 00:55:14,800
+But I don't know what that means to add that.
+
+662
+00:55:15,600 --> 00:55:16,240
+You almost mean it.
+
+663
+00:55:18,640 --> 00:55:19,839
+I also have a body intentionality.
+
+664
+00:55:19,919 --> 00:55:20,079
+Oh.
+
+665
+00:55:20,959 --> 00:55:21,919
+No, certainly not.
+
+666
+00:55:21,919 --> 00:55:22,960
+Certainly not.
+
+667
+00:55:24,080 --> 00:55:39,919
+You are at the most basic level body with an open head turned toward the world and involved in coping with the world all the time and coping with things in a way that's already got the future in it committed.
+
+668
+00:55:40,479 --> 00:55:44,959
+I would say that is a way in which I am starting or the I that you okay.
+
+669
+00:55:44,959 --> 00:55:48,079
+So we've gotten rid of the togito as the I think.
+
+670
+00:55:48,080 --> 00:55:49,600
+So let's go back to this.
+
+671
+00:55:49,600 --> 00:55:53,760
+So what's indubitable then, have I talked about 435?
+
+672
+00:55:54,240 --> 00:55:56,080
+Yeah, that's just what we talked about.
+
+673
+00:55:56,240 --> 00:56:05,599
+Perception is the act, the bottom of 435, in which there could be no question of setting the act apart to the end, from the end to which it's directed.
+
+674
+00:56:05,600 --> 00:56:08,800
+I tha that my whole little speech was about that.
+
+675
+00:56:08,800 --> 00:56:12,079
+So we directly experience the existence of things.
+
+676
+00:56:12,160 --> 00:56:14,760
+That's another way to say the same thing.
+
+677
+00:56:13,999 --> 00:56:20,279
+And that's uh what I just read in 436 at the top.
+
+678
+00:56:20,600 --> 00:56:22,040
+Let's read that.
+
+679
+00:56:22,039 --> 00:56:29,800
+Um perception and the perceived necessarily have the same existential modality.
+
+680
+00:56:29,800 --> 00:56:36,520
+That's the thing, you know, you try to get the ostensible object, but you can't because it it it looks like a real object.
+
+681
+00:56:36,519 --> 00:56:49,560
+Uh since perception is inseparable from the consciousness which it has or rather is, the weak in the thing itself, any contention that perception is indubitable whereas the thing perceived is not must be ruled out.
+
+682
+00:56:49,559 --> 00:56:57,080
+If I seem an ashtray in the full sense of the word see, there must be an ashtray there, and I cannot forego this assertion.
+
+683
+00:56:57,080 --> 00:56:58,680
+That's all exactly right.
+
+684
+00:56:58,680 --> 00:57:00,920
+Except that you might have to take it back.
+
+685
+00:57:01,320 --> 00:57:02,919
+That's what they're weird about.
+
+686
+00:57:02,919 --> 00:57:05,159
+But that's that's what we've been saying.
+
+687
+00:57:06,600 --> 00:57:08,760
+And then I'm reading my notes now.
+
+688
+00:57:08,760 --> 00:57:16,199
+The Cartesian Kobeko defender says that I can be certain of my visual experience while not being certain of the existence of the object.
+
+689
+00:57:16,200 --> 00:57:22,760
+The conditions of satisfaction of the visual experience may just not be satisfied, but there's still the visual experience.
+
+690
+00:57:22,760 --> 00:57:25,400
+That's what I think Thurley says.
+
+691
+00:57:25,399 --> 00:57:30,839
+We might know on refle that on reflection, but that's not part of the content of the experience.
+
+692
+00:57:30,839 --> 00:57:31,960
+I've said all that.
+
+693
+00:57:33,160 --> 00:57:38,760
+If I start to doubt the existence, it will look the object starts to look different.
+
+694
+00:57:38,760 --> 00:57:41,160
+And that's the middle of 436.
+
+695
+00:57:41,800 --> 00:57:51,879
+It is the essence of the essence of my vision to refer not only to an allegedly visible entity, but also to bring actual, to a being actually seen.
+
+696
+00:57:51,879 --> 00:57:59,680
+Similarly, if I feel doubts about the presence of the thing, this doubt attaches to vision itself, and there is no red or blue there.
+
+697
+00:58:01,120 --> 00:58:04,879
+I say that I have not really seen these colors.
+
+698
+00:57:58,999 --> 00:58:06,160
+I've only seen them.
+
+699
+00:58:06,479 --> 00:58:14,079
+And I can see that at no time has there been created that clarity between my visual intentions and the visible, which constitute genuine seeing.
+
+700
+00:58:14,240 --> 00:58:15,519
+That's just the thing I said.
+
+701
+00:58:15,519 --> 00:58:18,560
+You have to take it back and say you seem to see it.
+
+702
+00:58:19,999 --> 00:58:21,679
+And now I think that's it all this.
+
+703
+00:58:21,919 --> 00:58:27,280
+Well, I guess maybe this is where the possibility of error comes in on 439.
+
+704
+00:58:28,879 --> 00:58:29,760
+Let's try now.
+
+705
+00:58:29,760 --> 00:58:31,759
+I want to read the top of 439.
+
+706
+00:58:31,760 --> 00:58:33,519
+And yet it's not the case of perception.
+
+707
+00:58:33,600 --> 00:58:35,760
+It's not the case of perception, a special one.
+
+708
+00:58:35,760 --> 00:58:41,039
+It throws me over to the world that can do so only by outlearning both me and itself.
+
+709
+00:58:41,039 --> 00:58:42,720
+So that's the stuff I was talking about.
+
+710
+00:58:42,720 --> 00:58:45,280
+Thus, the perceptual synthesis has to be incomplete.
+
+711
+00:58:45,280 --> 00:58:49,200
+It cannot present me with reality otherwise than by running the risk of error.
+
+712
+00:58:49,600 --> 00:58:53,520
+That's the general claim, no matter how much of a grip you've got on it.
+
+713
+00:58:53,519 --> 00:59:02,480
+In principle, at least, it goes beyond your grip in such a way that something could happen where you'd have to say you never had a gripple.
+
+714
+00:59:02,479 --> 00:59:13,440
+It is absolutely necessarily the case that the thing that is to be a thing should have sides of itself hidden from me, which is why the distinction between appearance and reality has its place in the perceptual synthesis.
+
+715
+00:59:13,439 --> 00:59:16,240
+That didn't add anything to what I wanted to say.
+
+716
+00:59:17,120 --> 00:59:22,639
+And now we, no, let's look at one other thing here.
+
+717
+00:59:22,640 --> 00:59:27,359
+And we got, I wanted to talk about the retroactive crossing off that I kept talking about.
+
+718
+00:59:27,359 --> 00:59:31,399
+So here we are on 3440?
+
+719
+00:59:30,160 --> 00:59:32,039
+3440?
+
+720
+00:59:32,320 --> 00:59:33,679
+Let's look at 340.
+
+721
+00:59:33,680 --> 00:59:36,079
+You know, maybe I really mean 340.
+
+722
+00:59:36,080 --> 00:59:40,959
+We're trying to find, I think that's the stone I've been trying to talk about all this time.
+
+723
+00:59:41,240 --> 00:59:46,359
+You know, it's just the middle of 344, but it's important to read it.
+
+724
+00:59:43,999 --> 00:59:49,959
+We know that there are errors only because we possess the truth and so forth.
+
+725
+00:59:50,039 --> 00:59:55,080
+In the same way, the recognition of the truth is much more than some of the presupposes about.
+
+726
+00:59:55,080 --> 00:59:56,679
+No, why do I want to?
+
+727
+00:59:56,680 --> 00:59:59,640
+That's not interesting for us right now.
+
+728
+00:59:59,640 --> 01:00:01,479
+Let's try 298.
+
+729
+01:00:01,479 --> 01:00:02,599
+I'm trying to find out.
+
+730
+01:00:02,600 --> 01:00:05,480
+I put it down to 298.
+
+731
+01:00:05,479 --> 01:00:06,440
+Hmm.
+
+732
+01:00:06,439 --> 01:00:08,199
+We've got 398.
+
+733
+01:00:08,519 --> 01:00:09,240
+What?
+
+734
+01:00:09,240 --> 01:00:10,280
+498?
+
+735
+01:00:10,280 --> 01:00:11,720
+That's unlikely.
+
+736
+01:00:11,720 --> 01:00:12,519
+I give up.
+
+737
+01:00:12,519 --> 01:00:12,919
+I don't.
+
+738
+01:00:13,160 --> 01:00:14,120
+Well, I don't know.
+
+739
+01:00:14,359 --> 01:00:17,160
+Well, it's about retroactive crossing off.
+
+740
+01:00:17,399 --> 01:00:19,959
+It may be the stone passage I'm trying to find.
+
+741
+01:00:19,959 --> 01:00:23,800
+Because one placement talks about how it will be crossed out.
+
+742
+01:00:23,800 --> 01:00:30,120
+And I thought I referred to that with these numbers, but somehow I put down dyslexical numbers.
+
+743
+01:00:30,120 --> 01:00:31,719
+347.
+
+744
+01:00:31,959 --> 01:00:33,720
+Or one more look.
+
+745
+01:00:34,680 --> 01:00:36,599
+The stone's on 346.
+
+746
+01:00:36,600 --> 01:00:37,480
+Ah.
+
+747
+01:00:37,479 --> 01:00:37,959
+Okay.
+
+748
+01:00:38,200 --> 01:00:39,639
+So let's go there.
+
+749
+01:00:40,999 --> 01:00:42,439
+345.
+
+750
+01:00:42,999 --> 01:00:43,639
+Where?
+
+751
+01:00:43,959 --> 01:00:47,159
+It certainly is 346.
+
+752
+01:00:48,760 --> 01:00:50,839
+I still don't see the fading.
+
+753
+01:00:51,479 --> 01:00:54,280
+One, two, three, four, five.
+
+754
+01:00:54,280 --> 01:00:56,039
+At the end of the fifth line, and thy.
+
+755
+01:00:56,600 --> 01:00:56,999
+I must.
+
+756
+01:00:57,240 --> 01:00:58,359
+446.
+
+757
+01:00:58,359 --> 01:00:59,320
+346.
+
+758
+01:00:59,320 --> 01:00:59,719
+Ah.
+
+759
+01:01:00,439 --> 01:01:01,400
+That will do it.
+
+760
+01:01:01,399 --> 01:01:01,959
+Yes.
+
+761
+01:01:01,959 --> 01:01:02,679
+There we go.
+
+762
+01:01:02,680 --> 01:01:03,960
+That's what I'm looking for.
+
+763
+01:01:03,959 --> 01:01:05,480
+346.
+
+764
+01:01:05,479 --> 01:01:07,320
+I don't know why I don't have anything like that.
+
+765
+01:01:07,399 --> 01:01:08,280
+But the three.
+
+766
+01:01:08,280 --> 01:01:11,879
+Now, this is just to start what I've been saying and saying, look, we should look at it.
+
+767
+01:01:11,879 --> 01:01:17,160
+The difference between the loose and perception is between the opponent's own path, a path of sunlight.
+
+768
+01:01:17,160 --> 01:01:20,679
+The flat stone will disappear in the confused structure.
+
+769
+01:01:20,679 --> 01:01:25,879
+Now that means that my body has no grip on it, and yet I am capable of making this distinction.
+
+770
+01:01:26,040 --> 01:01:28,200
+I don't think that's got the retroactive crossing off.
+
+771
+01:01:28,759 --> 01:01:29,519
+That's what it's called.
+
+772
+01:01:29,599 --> 01:01:30,000
+Yeah, good.
+
+773
+01:01:30,000 --> 01:01:31,439
+I knew it was at the top of the page.
+
+774
+01:01:29,240 --> 01:01:31,999
+There it is.
+
+775
+01:01:32,639 --> 01:01:37,119
+Enables us to cross out the previous illusion and regard it as null and void.
+
+776
+01:01:37,120 --> 01:01:51,280
+That it is the opening on the world started at the bottom of 346, which makes possible perceptual truth and the actual effecting of avar enabled, that means the taking for truth, thus enabling us to cross out the previous illusion.
+
+777
+01:01:51,280 --> 01:01:59,280
+Yeah, that's the thing I was I now notice, and this is what also what I wanted, 347.
+
+778
+01:01:59,439 --> 01:02:00,399
+I did have that here.
+
+779
+01:02:00,399 --> 01:02:08,559
+And if you go down to the middle of the page, there is an absolute certainty of the world in general, but not of any one thing in particular.
+
+780
+01:02:08,559 --> 01:02:10,479
+That's what I was looking for.
+
+781
+01:02:11,599 --> 01:02:16,399
+And now at the end of the space chapter, these things are all in funny places.
+
+782
+01:02:16,399 --> 01:02:21,519
+There is a world for me because I am not aware of myself, and I am not concealed from myself because I have a world.
+
+783
+01:02:21,519 --> 01:02:28,160
+This pre-conscious possession of the world remains to be analyzed in the pre-reflective Kogel, which we haven't got to.
+
+784
+01:02:28,160 --> 01:02:31,519
+That's what he also calls the passive Kogeco.
+
+785
+01:02:31,519 --> 01:02:44,719
+But let's go on, even though there's only five minutes left, to the next thing, which is really relatively easy, though he manages to make a heavy duty of it because it's a kind of, I think, French competition to say deep things about love.
+
+786
+01:02:44,719 --> 01:02:50,799
+And he has to compete with Sarah, who's been saying deep things about love in being in nothingness.
+
+787
+01:02:50,799 --> 01:03:06,559
+So on 439, he goes right over in the middle of a paragraph, which is just outrageous, about fifteen lines down, from this whole perceptual story, which I just read, the to the whole next thing.
+
+788
+01:03:06,559 --> 01:03:14,759
+It would seem, on the other hand, that consciousness comes back into its rights and into full possession of itself if I consider my awareness of psychic facts.
+
+789
+01:03:14,759 --> 01:03:17,559
+For example, love and will.
+
+790
+01:03:17,559 --> 01:03:20,040
+And we're off on a whole night.
+
+791
+01:03:14,080 --> 01:03:21,080
+So it's well done.
+
+792
+01:03:21,320 --> 01:03:29,240
+I mean, the French have been writing novels and making movies about love for many centuries, and he's the heir to all that.
+
+793
+01:03:29,240 --> 01:03:31,240
+He's gotten in love with distinctions.
+
+794
+01:03:31,240 --> 01:03:34,040
+But I'm not going to sink into them.
+
+795
+01:03:34,040 --> 01:03:36,439
+You can read them and enjoy them on your own.
+
+796
+01:03:37,080 --> 01:03:43,799
+The basic point is that feeling love is dubitable.
+
+797
+01:03:43,799 --> 01:03:50,679
+It isn't as if you have absolute certainty because when you feel you're in love, that's what it is to be in love.
+
+798
+01:03:50,679 --> 01:03:56,280
+You can feel you're in love and be infatuated, and he has endless variations on that.
+
+799
+01:03:56,599 --> 01:03:58,120
+You can turn out to be wrong.
+
+800
+01:03:58,120 --> 01:04:01,399
+You can just say you can't trust your feelings.
+
+801
+01:04:01,399 --> 01:04:10,599
+I think the most interesting way to say it, though he doesn't here, maybe he does somewhere in the book, that is your therapist can know you better than you.
+
+802
+01:04:10,920 --> 01:04:15,959
+You can say, I'm not depressed, and the therapist can say, oh, you're feeling depressed, you just don't know it.
+
+803
+01:04:15,960 --> 01:04:17,719
+Or you can say, boy, am I happy?
+
+804
+01:04:17,719 --> 01:04:58,559
+and so forth and they can say no you're not or vice versa and so forth and people know other people's feelings better than they know their own feelings sometimes not all the time but as soon as it's any time then feelings no longer can be presented as something which you can't be wrong about if you start this whole story again about well I seem to be in love or I seem to be depressed then you'd have to tell another whole story like what I like about ostensible objects, how the seeming is uh always uh already really a feeling that you are in love and uh so forth.
+
+805
+01:04:58,519 --> 01:05:03,119
+I I can't spell that out, but I'm that's the the way he would have to go.
+
+806
+01:05:03,120 --> 01:05:05,280
+So or let me seem out.
+
+807
+01:05:05,280 --> 01:05:19,200
+So seeming is not so feelings are not counterexamples and uh and and um from the middle of 439, from the moment I feel love, joy, or sadness, it's the taste that I love, that I am joyful, that I'm sad.
+
+808
+01:05:19,200 --> 01:05:22,079
+That's this commitment beyond the feeling.
+
+809
+01:05:22,080 --> 01:05:27,439
+Even when the object is not in fact, that is for others, myself, and so it have the value of it.
+
+810
+01:05:27,439 --> 01:05:33,359
+And now attribute appearance is within me reality, and the being of consciousness consists in appearing.
+
+811
+01:05:33,359 --> 01:05:43,200
+All that is to say, when you feel that you're in love, you feel it as this is certain, this is real, this is it, and then it turns out that it wasn't or it can't.
+
+812
+01:05:43,200 --> 01:05:44,719
+That's the picture.
+
+813
+01:05:44,719 --> 01:05:58,639
+Now, he does it also for willing in a way that I do not understand, but I want to ask at this point, I want to ask Bolivia, I think it's a weird product of the translation that he says middle of 439 for us.
+
+814
+01:05:58,960 --> 01:06:03,839
+What if willing, if it is not being conscious of an object as valid?
+
+815
+01:06:04,160 --> 01:06:05,999
+Does that make any sense?
+
+816
+01:06:06,320 --> 01:06:09,839
+I think that's what is 439.
+
+817
+01:06:09,840 --> 01:06:16,879
+My hunch is that what's being translated as valid is whatever French word would be, the word valuable.
+
+818
+01:06:16,880 --> 01:06:31,519
+Let me tell you, just based on the phenomena, I think what he's trying to say is where willing means something like, valid means something like valuable, and what is choosing if not being conscious of an object is valuable.
+
+819
+01:06:31,519 --> 01:06:32,399
+That's what I think.
+
+820
+01:06:32,399 --> 01:06:33,999
+And then he has this weird thing.
+
+821
+01:06:34,040 --> 01:06:34,439
+What?
+
+822
+01:06:34,000 --> 01:06:35,839
+What's the French word?
+
+823
+01:06:35,840 --> 01:06:36,479
+Valabla.
+
+824
+01:06:36,559 --> 01:06:37,280
+Valagla.
+
+825
+01:06:37,359 --> 01:06:38,799
+Okay, just what you were thinking.
+
+826
+01:06:38,799 --> 01:06:49,240
+So don't, those of you who have this now, the middle of 439, just a little below the middle, what is willing?
+
+827
+01:06:49,240 --> 01:06:52,839
+If not being conscious of an object is valid, that's not right.
+
+828
+01:06:52,840 --> 01:06:54,200
+It's valuable.
+
+829
+01:06:54,200 --> 01:06:55,479
+And I don't even know if willing.
+
+830
+01:06:55,479 --> 01:06:56,200
+What is willing?
+
+831
+01:06:56,200 --> 01:06:58,359
+They're volunteer, I suppose.
+
+832
+01:06:58,679 --> 01:07:02,040
+Yeah, well, because there's a food great station, don't do it yet.
+
+833
+01:07:02,200 --> 01:07:05,959
+Yeah, and it means something like choosing.
+
+834
+01:07:05,960 --> 01:07:17,320
+I mean, willing is for us, and it is willing is, I can will to raise my arm, but somehow that's not, it's got to be sort of tied up with desiring for him, it gets tied up with what's valuable.
+
+835
+01:07:17,559 --> 01:07:20,839
+Will also tied up with desiring it is.
+
+836
+01:07:20,840 --> 01:07:24,120
+Okay, so change that to you desire.
+
+837
+01:07:24,439 --> 01:07:29,240
+Well, I'm just going to change it for desire because we say that design as well as personal.
+
+838
+01:07:29,240 --> 01:07:29,559
+Yeah?
+
+839
+01:07:29,880 --> 01:07:31,080
+So don't change it.
+
+840
+01:07:31,320 --> 01:07:33,799
+Okay, just read willing, but it's a funny kind of willing.
+
+841
+01:07:35,639 --> 01:07:37,399
+We've got to be wanting.
+
+842
+01:07:37,399 --> 01:07:38,519
+You want to say something?
+
+843
+01:07:40,120 --> 01:07:40,919
+Wanting?
+
+844
+01:07:41,240 --> 01:07:42,359
+Is that all right?
+
+845
+01:07:42,359 --> 01:07:44,280
+Okay, well, wanting would be fine.
+
+846
+01:07:44,280 --> 01:07:47,160
+It's just willing is just not the right word for it.
+
+847
+01:07:47,160 --> 01:07:57,399
+And then you want something valuable, or, and this is so funny, as valid precisely insofar as it is invalid in the case of perverse will.
+
+848
+01:07:57,399 --> 01:08:01,639
+I think that means you want something because you know it's not good for you.
+
+849
+01:08:02,280 --> 01:08:04,599
+And people, you can do that.
+
+850
+01:08:04,920 --> 01:08:07,799
+But that's not an important qualification.
+
+851
+01:08:07,799 --> 01:08:09,799
+It's just that that sentence is so murky.
+
+852
+01:08:09,799 --> 01:08:10,759
+Now we've got to stop it.
+
+853
+01:08:10,759 --> 01:08:12,200
+Let me just see where we are.
+
+854
+01:08:12,200 --> 01:08:13,559
+439.
+
+855
+01:08:13,559 --> 01:08:15,080
+But let me read the bottom thing.
+
+856
+01:08:15,080 --> 01:08:21,719
+We're going to say love and wanting don't give us absolute certainty about eight lines from the bottom.
+
+857
+01:08:21,719 --> 01:08:27,399
+Will or love would seem to be the same whether their object be artificial or real, considered independently of the object we see.
+
+858
+01:08:27,399 --> 01:08:33,519
+But they appear to constitute the sphere of absolute certainty in which truth cannot elude us.
+
+859
+01:08:29,160 --> 01:08:36,079
+And that's the Kogel's claim.
+
+860
+01:08:36,399 --> 01:08:40,240
+And the answer is that's not so.
+
+861
+01:08:41,840 --> 01:08:46,479
+The the well, the claim is that we'll never be eluded from and so forth and so forth.
+
+862
+01:08:46,479 --> 01:08:54,240
+And now he's going to claim for all these nice pages about all sorts of mistaken loves.
+
+863
+01:08:54,240 --> 01:09:02,320
+And then we'll be ready next time for the somewhat murky talk about transparency and the tacit Kobeko.

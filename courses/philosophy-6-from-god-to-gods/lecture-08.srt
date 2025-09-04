@@ -1,0 +1,3730 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:09,519
+And today, we're reading the two things together, which make a great fun and sparks when you put them together.
+
+2
+00:00:09,520 --> 00:00:24,799
+Lattimore's explanation of what's happening in the Oristea, particularly in the Agamemnon, the first play, and Aeschylus, who actually wrote it and knows what's happening, telling you his story.
+
+3
+00:00:24,799 --> 00:00:29,919
+And how the question we're going to ask is, how well do they fit together?
+
+4
+00:00:29,919 --> 00:00:34,559
+Remember I said read Lattimore because you might find out that it's wrong.
+
+5
+00:00:34,960 --> 00:00:37,279
+It's no secret, as you'll see.
+
+6
+00:00:37,280 --> 00:00:39,439
+I think Latimore is dead wrong.
+
+7
+00:00:39,439 --> 00:00:42,159
+But you're free to think otherwise.
+
+8
+00:00:42,160 --> 00:00:44,960
+And if you do, you can write a paper defending him.
+
+9
+00:00:44,960 --> 00:00:48,399
+But and I don't want to settle it.
+
+10
+00:00:48,399 --> 00:00:49,680
+I want to look at it.
+
+11
+00:00:49,680 --> 00:00:50,959
+So now we have to start.
+
+12
+00:00:50,960 --> 00:01:08,440
+But before we can jump in and start reading the Clydemnestor speech in the in the Agamemnon, which this all turns, I just want to review because I had enough discussion in office hours to realize how hard this is.
+
+13
+00:01:08,759 --> 00:01:14,199
+This is a very, very hard play to read, and the concepts are very deep and original.
+
+14
+00:01:14,199 --> 00:01:21,240
+So I'm just going to review for the first, say, ten minutes of things I've already said that need to keep saying.
+
+15
+00:01:21,559 --> 00:01:42,760
+For one thing, the students who talked to me were confused about the right with a capital R and justice with a capital J, which get thrown around pretty much by everybody in the play, the Furies and Clytemnestra and Orestes, you'll see in the next play.
+
+16
+00:01:43,319 --> 00:01:51,960
+Remember that Aeschylus doesn't have a good vocabulary for sorting them out.
+
+17
+00:01:52,920 --> 00:01:59,879
+And moreover, in a certain sense, they're of right, every side thinks they're on the side of the right.
+
+18
+00:01:59,879 --> 00:02:06,839
+Naturally, the Furies think they're right, punishing people who did any damage to any members of your family.
+
+19
+00:02:06,839 --> 00:02:14,279
+And the Apollo Pantheon people think they're in the right, punishing anybody who breaks oaths and breaks the law.
+
+20
+00:02:14,279 --> 00:02:17,720
+And so they're all for right and justice.
+
+21
+00:02:17,719 --> 00:02:19,399
+You can't sort it out.
+
+22
+00:02:20,360 --> 00:02:23,479
+But it isn't just an accident or a confusion.
+
+23
+00:02:23,960 --> 00:02:25,160
+It's the problem.
+
+24
+00:02:25,160 --> 00:02:30,919
+They each think that their way of doing things is the right and the just way.
+
+25
+00:02:30,920 --> 00:02:35,480
+It's more confusing about vengeance and retribution.
+
+26
+00:02:36,520 --> 00:02:55,119
+I want to use those words to distinguish the kind of mafia culture where you constantly kill some member of the family whose member kills some member of your family through endless cycles of revenge.
+
+27
+00:02:55,119 --> 00:02:58,479
+That's the fury world, vengeance.
+
+28
+00:02:58,480 --> 00:03:09,520
+And I want to use retribution as a word for what happens in the law when you break the law and then you have just retribution.
+
+29
+00:03:09,520 --> 00:03:18,639
+That is, you get punished or executed or whatever it is that the law says has to happen to you if you broke the law.
+
+30
+00:03:18,639 --> 00:03:29,360
+Unfortunately, vengeance seems to be the only word that, whatever the Greek word is, it gets translated vengeance more or less at random.
+
+31
+00:03:29,360 --> 00:03:31,840
+I don't know if it ever gets translated retribution.
+
+32
+00:03:31,839 --> 00:03:32,800
+I don't think so.
+
+33
+00:03:32,800 --> 00:03:43,760
+So you have to see, by way of the context, and you'll see me doing it, when the Furies are talking about vengeance, they mean blood, feud, revenge.
+
+34
+00:03:44,079 --> 00:03:51,360
+When the Apollonian gods talk about vengeance, which they do less, then they mean retribution.
+
+35
+00:03:51,360 --> 00:03:56,960
+They mean people paying the legal penalty for what they did wrong.
+
+36
+00:03:57,280 --> 00:04:13,759
+And to put it in now, connecting up with what I said in the last lecture about the old gods and the new gods, so the old gods are for vengeance, revenge, and the new gods are for retribution, legal sanctions.
+
+37
+00:04:13,759 --> 00:04:23,199
+And now, I wanted to say just a word more about old gods and new gods, because I discovered I forgot to say something on 48 that might help a little.
+
+38
+00:04:23,600 --> 00:04:26,319
+You're solving this immense crossword puzzle.
+
+39
+00:04:26,319 --> 00:04:29,759
+That is keeping track of the names of everybody.
+
+40
+00:04:29,759 --> 00:04:37,800
+The Furies are also called the Arenaes, and by the last play, they're going to be called the Eumenides.
+
+41
+00:04:37,800 --> 00:04:39,879
+Those are all the same ladies.
+
+42
+00:04:39,879 --> 00:04:49,080
+And so I've gotten look on page 48, so you can see how to spell it, where at the bottom, where is it?
+
+43
+00:04:49,079 --> 00:04:49,800
+Ah.
+
+44
+00:04:51,400 --> 00:04:52,999
+I don't see it.
+
+45
+00:04:53,319 --> 00:04:54,119
+Hmm.
+
+46
+00:04:54,199 --> 00:04:56,439
+Try 49 at the top.
+
+47
+00:04:56,759 --> 00:04:57,399
+No?
+
+48
+00:04:57,720 --> 00:05:00,440
+The black furies at the bottom of 48.
+
+49
+00:05:00,439 --> 00:05:02,119
+Well, I'm going to write it on the board then.
+
+50
+00:05:02,119 --> 00:05:04,119
+I must have, I've got the wrong page.
+
+51
+00:05:04,119 --> 00:05:06,279
+But sometimes that's what they're called.
+
+52
+00:05:06,280 --> 00:05:12,520
+So we better, and you need to know it because Aeschylus isn't going to tell you, since the Greeks already know it.
+
+53
+00:05:12,519 --> 00:05:22,039
+So the Furies are also called Iranes, E-R-I-N-Y-E-S.
+
+54
+00:05:22,360 --> 00:05:26,999
+And they're going to be called at the very end of the book the Eumenides.
+
+55
+00:05:26,999 --> 00:05:32,040
+Okay, and Apollo, while I'm up here, is also called Luxius.
+
+56
+00:05:32,280 --> 00:05:32,919
+Where are you?
+
+57
+00:05:33,719 --> 00:05:34,680
+Apollo.
+
+58
+00:05:35,079 --> 00:05:36,439
+Oh, yeah, good idea.
+
+59
+00:05:36,600 --> 00:05:38,759
+Shall I write all this over again?
+
+60
+00:05:38,759 --> 00:05:39,639
+Yeah, you're right.
+
+61
+00:05:39,800 --> 00:05:41,959
+The combination of my writing is too small.
+
+62
+00:05:42,520 --> 00:05:44,119
+Why do I write it up here, too?
+
+63
+00:05:44,439 --> 00:05:50,199
+The Furies are called the Aranes, and they're called the Humanities.
+
+64
+00:05:50,520 --> 00:05:59,079
+Not until the end of the, not until the last play, but very important, that's they change their identity when they get the new name.
+
+65
+00:05:59,079 --> 00:06:02,759
+And Apollo is also called Luxius.
+
+66
+00:06:02,760 --> 00:06:08,839
+So now, the Bob, I don't know anything about the name Iranes.
+
+67
+00:06:08,920 --> 00:06:10,759
+That's why they're called that.
+
+68
+00:06:10,759 --> 00:06:15,079
+I think they're called Humenides, is related, I'm pretty sure, to the Humanities.
+
+69
+00:06:15,879 --> 00:06:18,480
+For reasons you'll see at the end of the play.
+
+70
+00:06:18,879 --> 00:06:20,959
+And Luxius is interesting.
+
+71
+00:06:21,280 --> 00:06:31,519
+I used to think, just I don't know why, just because it's easy to think it, that Apollo is the sun god and he's the light god and looks, LUX means light.
+
+72
+00:06:31,519 --> 00:06:33,280
+So that's what Luxius means.
+
+73
+00:06:33,280 --> 00:06:34,480
+But that isn't right.
+
+74
+00:06:34,480 --> 00:06:38,399
+Luxius is related to logic, which is nice.
+
+75
+00:06:38,400 --> 00:06:53,759
+And so out of the Luxius comes logos in Greek, and logos is the word that gets translated sometimes logic, sometimes argument.
+
+76
+00:06:54,079 --> 00:06:56,960
+But they're all very fitting for Apollo.
+
+77
+00:06:56,959 --> 00:07:08,400
+Apollo, I thought of another thing, besides being an enlightenment fanatic, believing in universal rationality without any need for feelings and without any partial understanding.
+
+78
+00:07:08,400 --> 00:07:10,879
+You just have to see the whole truth.
+
+79
+00:07:10,879 --> 00:07:14,880
+He's also a kind of debater, as you'll see in the last play.
+
+80
+00:07:14,879 --> 00:07:27,600
+Those of you who were, and I know some of you were, on your debate team, Apollo wants to actually have this argued out in public, and he wants somebody to decide who wins.
+
+81
+00:07:27,600 --> 00:07:32,079
+He's really simply, I mean, that's the kind of logic he's got.
+
+82
+00:07:32,079 --> 00:07:35,360
+And if you were on the debate team, you understand that.
+
+83
+00:07:35,360 --> 00:07:41,120
+And so the old gods, to sum up what we said last time, are personal gods.
+
+84
+00:07:41,120 --> 00:07:44,000
+They are feeling, not thinking.
+
+85
+00:07:43,999 --> 00:07:45,439
+They don't believe in debate.
+
+86
+00:07:45,439 --> 00:07:51,680
+At one point, they say to Athena, don't try to dock my position by argument.
+
+87
+00:07:51,680 --> 00:07:54,399
+That is, don't try to use arguments to take away their power.
+
+88
+00:07:54,400 --> 00:07:56,080
+They don't care about arguments.
+
+89
+00:07:56,400 --> 00:08:00,240
+And they're the powers of darkness in the depths of the earth.
+
+90
+00:08:00,239 --> 00:08:02,599
+They belong to a particular locale.
+
+91
+00:08:02,599 --> 00:08:08,680
+They belong to a particular family and to a particular person whom they protect and avenge.
+
+92
+00:08:08,680 --> 00:08:12,520
+And that leads to a sort of funny question, which you have to ask yourself at some point.
+
+93
+00:08:12,520 --> 00:08:25,640
+Well, are there different furies all around already for every person who might be killed and whose blood would then need to be avenged so that your furies and my furies are sitting somewhere in a stockpile of furies?
+
+94
+00:08:26,199 --> 00:08:27,479
+Surely that's not right.
+
+95
+00:08:27,479 --> 00:08:30,920
+There seems to be something like a pool of furies.
+
+96
+00:08:31,559 --> 00:08:41,879
+And then when any bad thing happens, certain furies from among that pool get assigned to going after the person who killed somebody.
+
+97
+00:08:41,880 --> 00:08:46,040
+So in this case, Orestes is going to kill Agamemnon.
+
+98
+00:08:46,040 --> 00:08:47,959
+No, I'm sure it's not a secret.
+
+99
+00:08:47,959 --> 00:08:50,120
+I hope it doesn't come as a surprise to you.
+
+100
+00:08:50,439 --> 00:08:51,079
+It's okay.
+
+101
+00:08:51,079 --> 00:08:51,639
+Either way.
+
+102
+00:08:51,640 --> 00:08:57,800
+Anyway, Orestes is going to kill Agamemnon, and then Agamemnon's furies are going to come after him.
+
+103
+00:08:57,800 --> 00:09:05,719
+And already, he's got Clytemnestra's furies coming after him for having killed her daughter, blood relative.
+
+104
+00:09:06,040 --> 00:09:09,000
+And now he's got to pay the price.
+
+105
+00:09:08,999 --> 00:09:17,800
+So I picture it, if it's any help, like at an airport, a whole pool of taxis, and then each person goes out and calls a taxi, which gets assigned to them.
+
+106
+00:09:17,800 --> 00:09:31,719
+So each person calls on a fury, and then that becomes their fury, and it protects them, and it forces them, or sort of urges them to commit the crime, the next stage.
+
+107
+00:09:31,719 --> 00:09:39,160
+Now, they don't think of it as a crime, the vengeance of the next stage to revenge the previous murder.
+
+108
+00:09:39,160 --> 00:09:48,959
+So, and the furies are partial, and they're strongly biased, and they're primitive and ultimately they come from blood.
+
+109
+00:09:45,719 --> 00:09:56,720
+Remember, I say they they came from the blood of castrated Uranus and they are protectors of blood relatives.
+
+110
+00:09:56,719 --> 00:10:12,479
+And the new gods who aren't all male, but who are represented by Apollo, and he is very male and doesn't have any sense of feeling or kindness or gentleness or family or anything.
+
+111
+00:10:12,479 --> 00:10:14,400
+He just wants to win his debates.
+
+112
+00:10:14,400 --> 00:10:20,640
+He's thinking rational, impartial, impartial, and he wants to be out in the light.
+
+113
+00:10:20,640 --> 00:10:27,040
+And he's just as they're in the earth, Apollo's in the sky.
+
+114
+00:10:27,839 --> 00:10:37,920
+The new gods reign on high, from on high, and they reign over the entire world, and they're the gods of civilization and universal justice.
+
+115
+00:10:37,920 --> 00:10:49,520
+And then there are also the furies that reign from below of the earth, and they're the gods of local family allegiance or ties.
+
+116
+00:10:49,839 --> 00:10:52,319
+And the new gods are worshipped in open places.
+
+117
+00:10:52,319 --> 00:10:53,760
+I didn't say that, I don't think.
+
+118
+00:10:53,760 --> 00:10:56,800
+They're called at some point the gods of the marketplace.
+
+119
+00:10:56,800 --> 00:11:00,480
+It doesn't mean that they protect the people who sell vegetables.
+
+120
+00:11:00,479 --> 00:11:17,600
+They mean that the big marketplace, Agora, where the Athenian Greeks met to do their politics and talk to each other and so forth, to be the god of that marketplace, which did apparently sell vegetables around the edges.
+
+121
+00:11:17,599 --> 00:11:27,040
+I was just checking it out today, except on days of big political conventions when it was all full of Athenians who had a vote because they had a direct democracy.
+
+122
+00:11:27,040 --> 00:11:30,640
+So every citizen could vote on every issue.
+
+123
+00:11:30,640 --> 00:11:33,479
+But anyway, all of this discussion was out in the open.
+
+124
+00:11:33,479 --> 00:11:36,520
+That's what it is to be a god of the marketplace.
+
+125
+00:11:36,520 --> 00:11:43,880
+Whereas the Furies are operating sort of deviously and in the dark and during the night, so forth.
+
+126
+00:11:45,479 --> 00:11:55,800
+And the new gods govern institutional relations, the relations between kings and subjects, between citizens, and between husbands and wives.
+
+127
+00:11:55,800 --> 00:11:57,559
+Marriage is an institution.
+
+128
+00:11:57,559 --> 00:12:00,280
+All of these are social conventions.
+
+129
+00:12:00,920 --> 00:12:04,760
+And the new gods are in charge of social conventions.
+
+130
+00:12:04,760 --> 00:12:20,360
+And the old gods are in charge of these sort of private matters, which get settled mostly at home where nobody's around, not out in the public, but in the private at night, and so forth.
+
+131
+00:12:21,239 --> 00:12:25,960
+And then comes, and now we're back to this, two kinds of justice.
+
+132
+00:12:25,959 --> 00:12:34,440
+There's the Fury justice, which is emotional, personal, local, blood kind of justice.
+
+133
+00:12:34,439 --> 00:12:43,159
+And then there's the other gods, the new gods kind of justice, which is public, open, rational, universal law codes.
+
+134
+00:12:43,239 --> 00:12:44,040
+Let me read that again.
+
+135
+00:12:44,040 --> 00:12:46,360
+I was proud of that list.
+
+136
+00:12:46,360 --> 00:12:48,840
+So I'll read it slower this time.
+
+137
+00:12:48,839 --> 00:12:49,640
+Bigger.
+
+138
+00:12:50,040 --> 00:12:55,640
+The okay, so there's you can decide which you better know which column without my telling you.
+
+139
+00:12:55,640 --> 00:13:06,840
+There's the each well some who's on the side of the emotional, personal, local, blood feud kind of justice.
+
+140
+00:13:06,839 --> 00:13:10,040
+The furies, I just want to make sure you're with it.
+
+141
+00:13:10,040 --> 00:13:21,840
+And on and now, and so we know who's on the other side, the new gods, they're on the side of public, out in the open, rational, universal, impersonal law.
+
+142
+00:13:16,439 --> 00:13:23,680
+That's a standoff.
+
+143
+00:13:24,000 --> 00:13:36,720
+Everything that anyone does in the Agamemnon that's important is that they do it for either one or the other of these forces.
+
+144
+00:13:37,040 --> 00:13:41,040
+Dave, I have the eerie feeling just a second that we didn't turn this on, did we?
+
+145
+00:13:41,680 --> 00:13:43,599
+Do I got a green light or a red light?
+
+146
+00:13:43,920 --> 00:13:45,200
+Okay, good.
+
+147
+00:13:45,439 --> 00:13:47,199
+Job of turning all these things on.
+
+148
+00:13:47,199 --> 00:13:48,559
+It's pretty weird.
+
+149
+00:13:48,559 --> 00:14:03,280
+Okay, so and the tragic situation is, and this is just finishing summing up, each side claims it's the only side, the right side, the true justice side, and so you're halfway to monotheism.
+
+150
+00:14:03,280 --> 00:14:16,559
+Each one of them wants to be the mono-god, and that since there are two sides, and that they can't be, neither can get along without the other, and neither can accept the other, and that's a mess.
+
+151
+00:14:16,559 --> 00:14:20,559
+That's the tragic situation at the beginning of the Orestea.
+
+152
+00:14:20,559 --> 00:14:37,839
+And Aeschylus is going to try to explain to the Athenians who are watching this play and who don't have this problem anymore how they got out of this problem and how important it is that they have gotten out of it and how special that makes the Athenians.
+
+153
+00:14:37,999 --> 00:14:40,000
+But that's only in the last play.
+
+154
+00:14:40,319 --> 00:14:41,680
+Okay, that's a summary.
+
+155
+00:14:41,680 --> 00:14:45,040
+I don't think I said anything, didn't think I was saying anything new.
+
+156
+00:14:45,040 --> 00:14:47,120
+Maybe, hopefully, maybe clearer.
+
+157
+00:14:47,120 --> 00:14:49,440
+So, yeah, are there any questions about that?
+
+158
+00:14:49,439 --> 00:14:56,399
+I'm sort of trying to answer all the possible confusions that I felt that you reasonably got into.
+
+159
+00:14:56,400 --> 00:14:59,520
+This is, as I say, very hard, very confusing.
+
+160
+00:15:00,000 --> 00:15:04,439
+And the fact that the translator doesn't do it right all the time doesn't help.
+
+161
+00:15:04,439 --> 00:15:14,600
+But when you find anything that contradicts what I say as you read it carefully, then come either come to office hours or just raise your hand, because then we have to look at the translation.
+
+162
+00:15:14,599 --> 00:15:21,480
+I've got now in the Greek with the clearest, literalest translation, and see what happens.
+
+163
+00:15:21,479 --> 00:15:25,240
+Usually, it turns out that it's a mistranslation.
+
+164
+00:15:25,400 --> 00:15:34,360
+I'll show you a whopping mistranslation by the end of today, which turns the whole thing absolutely inside out, gets it all wrong.
+
+165
+00:15:34,359 --> 00:15:34,839
+Okay.
+
+166
+00:15:35,640 --> 00:15:41,479
+If there are no questions and you haven't found any place that contradicts what I've been saying, we're going on.
+
+167
+00:15:41,800 --> 00:15:42,520
+Yeah.
+
+168
+00:15:42,839 --> 00:15:43,639
+That's right.
+
+169
+00:15:43,640 --> 00:15:44,359
+That's right.
+
+170
+00:15:45,239 --> 00:15:47,479
+Let me look at my copy on 36.
+
+171
+00:15:48,040 --> 00:15:54,120
+As I teach this over and over, I write in bit by bit the corrections.
+
+172
+00:15:54,120 --> 00:15:55,640
+Where's the night card?
+
+173
+00:15:56,040 --> 00:15:57,479
+The very top.
+
+174
+00:15:58,439 --> 00:15:59,639
+36 or 46?
+
+175
+00:15:59,640 --> 00:16:00,040
+46.
+
+176
+00:16:00,280 --> 00:16:00,840
+46.
+
+177
+00:16:00,839 --> 00:16:02,520
+I'm on the wrong page.
+
+178
+00:16:02,520 --> 00:16:03,319
+Okay.
+
+179
+00:16:03,319 --> 00:16:06,599
+Zeus, Lord and Night above.
+
+180
+00:16:06,600 --> 00:16:12,520
+And then I write in the margin, see page 48, bottom.
+
+181
+00:16:12,519 --> 00:16:16,279
+I don't know whether that's going to cast any light on this, but let's see.
+
+182
+00:16:18,360 --> 00:16:20,520
+Well, no, that's what you expect.
+
+183
+00:16:20,519 --> 00:16:23,400
+The black furies in the dark and so forth.
+
+184
+00:16:23,400 --> 00:16:25,560
+Why should Zeus be in the dark?
+
+185
+00:16:25,560 --> 00:16:26,920
+I don't like it.
+
+186
+00:16:26,920 --> 00:16:28,759
+Let's take a look right away.
+
+187
+00:16:29,719 --> 00:16:31,799
+That's too strange.
+
+188
+00:16:32,439 --> 00:16:35,959
+So I am looking at, I've lost it.
+
+189
+00:16:35,959 --> 00:16:37,479
+Where was it again?
+
+190
+00:16:37,479 --> 00:16:38,279
+Okay.
+
+191
+00:16:38,560 --> 00:16:41,480
+Uh w what what line do we want?
+
+192
+00:16:41,479 --> 00:16:42,999
+Line 355.
+
+193
+00:16:43,320 --> 00:16:45,480
+So far, everything has always come out all right.
+
+194
+00:16:45,479 --> 00:16:49,279
+Someday I'm just going to run crash into something that just doesn't come out right.
+
+195
+00:16:46,519 --> 00:16:50,400
+Then I don't know what I'm going to do.
+
+196
+00:16:53,680 --> 00:16:57,759
+Hail Zeus and thou kingly knight.
+
+197
+00:16:57,759 --> 00:17:00,239
+Well that makes a big difference already, doesn't it?
+
+198
+00:17:00,560 --> 00:17:04,480
+If maybe there's maybe it's Zeus and the Furies.
+
+199
+00:17:04,479 --> 00:17:05,840
+Let's see if that could work.
+
+200
+00:17:05,920 --> 00:17:09,279
+Let me just go on, that hast given us great glory for our possession.
+
+201
+00:17:09,279 --> 00:17:18,160
+Now let's cast thy left snare upon the towered walls of Troy, so that old nor young could or leap doesn't throng.
+
+202
+00:17:18,160 --> 00:17:20,880
+Great Zeus it is, Lord of host and guest.
+
+203
+00:17:20,880 --> 00:17:24,079
+No, I don't think that my move, that move doesn't work so well.
+
+204
+00:17:24,080 --> 00:17:27,680
+Oh, Zeus, our Lord and Knight beloved.
+
+205
+00:17:28,239 --> 00:17:28,800
+Look again.
+
+206
+00:17:28,799 --> 00:17:30,640
+But it does make a difference whether you put a comma.
+
+207
+00:17:30,799 --> 00:17:32,479
+See, they put a comma in this.
+
+208
+00:17:32,880 --> 00:17:37,439
+Hail Sovereign Zeus, comma, and thou kindly knight.
+
+209
+00:17:37,439 --> 00:17:38,560
+That helps.
+
+210
+00:17:39,279 --> 00:17:42,239
+But I don't know if that helps enough.
+
+211
+00:17:43,439 --> 00:17:44,959
+Best I can do for the moment.
+
+212
+00:17:44,959 --> 00:17:45,999
+It's a little better.
+
+213
+00:17:45,999 --> 00:17:47,120
+The comma helps.
+
+214
+00:17:47,840 --> 00:17:50,719
+Because we don't want Zeus to turn out to be knight.
+
+215
+00:17:50,719 --> 00:17:52,640
+That just can't be right.
+
+216
+00:17:53,279 --> 00:18:00,880
+And if you think that, but if you think that they could be saying, well, this reminds me of an issue we can discuss right now.
+
+217
+00:18:01,199 --> 00:18:05,920
+And then, in fact, it's very important that you should bring this particular passage up.
+
+218
+00:18:05,920 --> 00:18:08,079
+It's related to what we were talking about earlier.
+
+219
+00:18:08,080 --> 00:18:17,680
+Somebody asked in office hours a question which is like sort of so simple, so obvious, I couldn't imagine why I hadn't ever asked myself that question.
+
+220
+00:18:17,680 --> 00:18:21,519
+So, who is in charge of beating up on the Trojans?
+
+221
+00:18:21,840 --> 00:18:25,279
+Have they done something that infuriates the Furies?
+
+222
+00:18:25,600 --> 00:18:29,680
+Have they done something that offends the high gods?
+
+223
+00:18:29,680 --> 00:18:33,479
+Or have they done, and in addition, or also or whatever?
+
+224
+00:18:33,479 --> 00:18:35,959
+And what's the role of Zeus in all that?
+
+225
+00:18:31,439 --> 00:18:50,359
+Well, it starts to be clear, once you ask the question, right at the beginning on 36, as if Agamemnon wants to get this question sort of off his plate because he's got other things to worry about, namely Athens.
+
+226
+00:18:50,360 --> 00:19:00,359
+And he's not really interested in the Trojan War, except that it comes down to him as a tradition that he's using to write his play.
+
+227
+00:19:00,680 --> 00:19:08,920
+So it's interesting that starting the whole speech, it's obvious about Troy, ten years since the great contestants of Prime's right.
+
+228
+00:19:08,920 --> 00:19:10,359
+So it's Troy.
+
+229
+00:19:10,360 --> 00:19:13,799
+And now you get down about six lines from the bottom.
+
+230
+00:19:13,799 --> 00:19:18,119
+Someone hears in the air a god, Apollo, or Pan.
+
+231
+00:19:18,279 --> 00:19:21,079
+I said I didn't know what that is, or why that's in there.
+
+232
+00:19:21,640 --> 00:19:28,839
+And you discover a little, and that drives late on its mark the fury upon the transgressors.
+
+233
+00:19:29,160 --> 00:19:40,519
+And then it says, and so drives Zeus, the great guest god, the Tridi against Alexander, the Greeks against Trojans, for one woman and so forth.
+
+234
+00:19:40,840 --> 00:19:42,199
+But what does that say?
+
+235
+00:19:42,199 --> 00:19:44,920
+That says an amazing mouthful.
+
+236
+00:19:44,920 --> 00:19:58,599
+It says the Trojans have done something that upsets Apollo and that upsets the Furies, and upsets Zeus as the great guest, as the god of guests, and upsets Zeus as the one behind it all.
+
+237
+00:19:59,479 --> 00:20:05,079
+Everybody's upset about Troy and the way Aeschylus sees it.
+
+238
+00:20:05,080 --> 00:20:10,359
+And now you have to ask yourself the further question: well, what did Troy do that was so wrong?
+
+239
+00:20:10,360 --> 00:20:16,239
+Well, it all is tied up, of course, with Paris, with Alexander, with the fact that they took Paris in.
+
+240
+00:20:16,560 --> 00:20:20,160
+And I think, will you guys all keep your eyes open for something?
+
+241
+00:20:16,039 --> 00:20:23,120
+I don't have time to reread the whole play every time a new question comes up.
+
+242
+00:20:23,519 --> 00:20:24,400
+Maybe you know.
+
+243
+00:20:24,640 --> 00:20:26,799
+Did Paris marry Helen?
+
+244
+00:20:27,759 --> 00:20:28,560
+I think so.
+
+245
+00:20:28,560 --> 00:20:30,640
+You think, I see lots of nods, no.
+
+246
+00:20:30,799 --> 00:20:32,880
+I have no evidence to back me up.
+
+247
+00:20:33,199 --> 00:20:35,999
+But keep your eyes open about it.
+
+248
+00:20:35,999 --> 00:20:44,479
+But even if not, I think, well, I think he better have married Helen.
+
+249
+00:20:44,479 --> 00:20:48,239
+But because I think I can't picture it otherwise.
+
+250
+00:20:48,239 --> 00:20:52,959
+Because where is that passage about the bridal thing that we were reading earlier?
+
+251
+00:20:53,199 --> 00:20:54,880
+King England and I were discussing this.
+
+252
+00:20:54,880 --> 00:21:05,999
+Okay, it sounds like we're supposed to just know that they could get married because they don't recognize marriage in another country with other laws.
+
+253
+00:21:05,999 --> 00:21:08,959
+There's no treaties between Troy and Argos.
+
+254
+00:21:08,959 --> 00:21:10,400
+They've got nothing to do with each other.
+
+255
+00:21:10,400 --> 00:21:14,400
+So they don't care whether Helen's already married to Agamemnon.
+
+256
+00:21:14,400 --> 00:21:17,040
+And there is this talk on 60 what?
+
+257
+00:21:17,360 --> 00:21:19,999
+Okay, 56 and 57.
+
+258
+00:21:21,199 --> 00:21:22,880
+Oh yeah, Helen.
+
+259
+00:21:22,880 --> 00:21:31,840
+And then there's something about on line 690, appropriately death of ships, men, cities from the bower, soft curtains of cuta.
+
+260
+00:21:31,920 --> 00:21:35,279
+No, no, I wonder where it says the bridal stuff.
+
+261
+00:21:36,239 --> 00:21:38,559
+Ah, 705.
+
+262
+00:21:39,360 --> 00:21:42,160
+Oh yeah, the vengeance wrought on those men.
+
+263
+00:21:42,160 --> 00:21:43,199
+Yeah, you see this?
+
+264
+00:21:43,199 --> 00:21:49,759
+Who graced in too loud voice the bride song, fallen to their lot to sing.
+
+265
+00:21:49,759 --> 00:21:51,199
+That's the Trojans.
+
+266
+00:21:51,199 --> 00:22:04,680
+They were happy that they got a chance to be singing at the fact that Paris was marrying this beautiful, wonderful ex-queen, and that's outrageous.
+
+267
+00:22:04,680 --> 00:22:05,400
+Where is it now?
+
+268
+00:22:05,640 --> 00:22:07,719
+Well, thank goodness we found it.
+
+269
+00:22:01,519 --> 00:22:08,680
+Okay, here it is.
+
+270
+00:22:08,999 --> 00:22:11,959
+So when on, this is how you have to read this.
+
+271
+00:22:11,959 --> 00:22:22,199
+When you see Apollo back on page 36, you should write in the margin 56, because that's where you find out why Apollo is upset.
+
+272
+00:22:22,199 --> 00:22:30,039
+And on 56, you should write 36, because that's where you find out that Apollo was upset.
+
+273
+00:22:30,039 --> 00:22:32,439
+And I've written also in the margin 46.
+
+274
+00:22:32,439 --> 00:22:34,920
+Now, I don't know what that is, so let's see.
+
+275
+00:22:35,640 --> 00:22:47,640
+Okay, no, that's, but that's it's open to 47 is good, because in 47, we see clearly why Zeus is against it.
+
+276
+00:22:47,640 --> 00:22:52,920
+He shamed the guests' right of the board chairs, right, about 400.
+
+277
+00:22:52,920 --> 00:22:53,800
+But that's obvious.
+
+278
+00:22:53,799 --> 00:23:02,599
+I mean, so now we know Apollo is against it because the institution of marriage has been defiled, so to speak.
+
+279
+00:23:03,080 --> 00:23:08,519
+He's married twice, and everybody, and nobody, and the Trojans don't care a bit, they're celebrating.
+
+280
+00:23:08,519 --> 00:23:23,160
+So there goes Apollo, I mean, Zeus to, no, sorry, Apollo to smash them for breaking the law and not taking marriage oath seriously.
+
+281
+00:23:23,160 --> 00:23:28,920
+And then the question is: and the fury, why does the fury come and attack them?
+
+282
+00:23:29,239 --> 00:23:34,759
+Well, I guess it's because marriage has this double aspect.
+
+283
+00:23:34,759 --> 00:23:42,359
+I mean, on the one hand, it's sort of instinctual, sexual, and intimate kind of relationship.
+
+284
+00:23:42,680 --> 00:23:47,199
+And Paris has broken that by running off with Helen and sleeping with her.
+
+285
+00:23:47,439 --> 00:23:58,480
+That takes place all outside of law and institutions, and it infuriates them, the Furies, because it's an emotional thing, I guess.
+
+286
+00:23:58,719 --> 00:24:03,039
+I'm trying to figure this out, and if I'm getting it wrong and you have a better story, I'd love to hear it.
+
+287
+00:24:03,360 --> 00:24:08,080
+So the Furies are upset because he's run off with Helen.
+
+288
+00:24:08,400 --> 00:24:11,599
+That's on an animal, instinctual, sexual level.
+
+289
+00:24:11,759 --> 00:24:22,719
+Apollo is upset because Helen was married to Agamemnon, and now Paris has the gull to marry her again, as if she weren't.
+
+290
+00:24:22,719 --> 00:24:39,839
+And Zeus is upset because Paris was the guest of Agamemnon when he did it, and therefore violating what you should do when you're a guest, and you shouldn't do bad things to the host.
+
+291
+00:24:39,840 --> 00:24:44,479
+And then I think Zeus is also there because he's behind it all.
+
+292
+00:24:45,439 --> 00:24:50,640
+That's, I think, when it says someone here is in the air, a god, Apollo, Pan, or Zeus.
+
+293
+00:24:50,640 --> 00:24:54,479
+I think Apollo is the institution-breaking part.
+
+294
+00:24:54,479 --> 00:24:57,999
+Zeus might be the everything part.
+
+295
+00:24:57,999 --> 00:24:59,039
+Maybe not.
+
+296
+00:24:59,360 --> 00:25:02,320
+Maybe, in fact, that causes, yeah, I don't know.
+
+297
+00:25:02,320 --> 00:25:10,959
+You can't tell in that line whether Zeus is in his job of being behind everything or Zeus is in his job as being one of the Pantheon, one of the Apollonians.
+
+298
+00:25:10,959 --> 00:25:12,400
+But then it doesn't matter.
+
+299
+00:25:12,400 --> 00:25:14,080
+So don't worry about it.
+
+300
+00:25:14,080 --> 00:25:14,559
+Yeah.
+
+301
+00:25:19,680 --> 00:25:25,519
+Wait, he hurt Agamemnon's household by stealing Helen away?
+
+302
+00:25:26,320 --> 00:25:26,799
+Yeah, okay.
+
+303
+00:25:28,160 --> 00:25:28,640
+I see.
+
+304
+00:25:28,880 --> 00:25:32,840
+Yes, I think it's something like the intimate thing, the family.
+
+305
+00:25:32,840 --> 00:25:34,680
+I mean, a family has a double thing.
+
+306
+00:25:34,680 --> 00:25:36,840
+A family, you can have a family without being married.
+
+307
+00:25:31,360 --> 00:25:38,040
+It's not an institutional thing.
+
+308
+00:25:39,400 --> 00:25:46,999
+It's an animal instinctual thing, having a mate and having offspring.
+
+309
+00:25:46,999 --> 00:25:49,479
+And that's, Paris certainly offended that.
+
+310
+00:25:49,479 --> 00:25:54,519
+He took her right out of that family situation.
+
+311
+00:25:54,519 --> 00:25:55,160
+Yes.
+
+312
+00:25:55,160 --> 00:25:58,439
+And then a marriage is also a legal thing.
+
+313
+00:25:58,439 --> 00:26:01,160
+You swear an oath, it's an institution.
+
+314
+00:26:01,160 --> 00:26:09,080
+And he broke that too by not only dragging her away, but marrying her when she was already married.
+
+315
+00:26:09,719 --> 00:26:17,879
+So I think that's those are all the reasons why the Trojans get smashed from the gods' point of view.
+
+316
+00:26:18,519 --> 00:26:25,559
+All of the gods want to smash the Trojans because they took in Paris and protected him while he did these bad things.
+
+317
+00:26:25,560 --> 00:26:26,680
+And they celebrated it.
+
+318
+00:26:26,680 --> 00:26:28,519
+They thought the wedding was terrific.
+
+319
+00:26:28,519 --> 00:26:29,319
+And okay.
+
+320
+00:26:29,880 --> 00:26:40,360
+And I just want to keep repeating, it doesn't matter because Aeschylus just isn't interested in the Trojan War, and he's not going to tell you much more about it, why these gods were involved in it.
+
+321
+00:26:40,360 --> 00:26:43,640
+He's got his own problems as an Athenian.
+
+322
+00:26:43,640 --> 00:26:44,040
+Yeah.
+
+323
+00:26:44,680 --> 00:26:47,559
+Wait, I can't hear you, and I doubt if I can hit you by the microphone.
+
+324
+00:26:47,560 --> 00:26:49,080
+You're going to have to yell.
+
+325
+00:26:51,560 --> 00:27:14,360
+I think, yes, I think that's what she's asking, but is Aeschylus ignoring the fact, and it's got to do with the apples, I take it, that there was a promise to Aphrodite that she, or Aphrodite promised to give Paris the most beautiful woman in the world because Paris had given Aphrodite the apple, making as the most beautiful goddess, right?
+
+326
+00:27:14,360 --> 00:27:15,880
+That was the deal.
+
+327
+00:27:15,880 --> 00:27:18,719
+I think that Aeschylus doesn't mention it at all.
+
+328
+00:27:18,880 --> 00:27:19,359
+I hope.
+
+329
+00:27:19,360 --> 00:27:21,040
+But you're suggesting, does he mention it?
+
+330
+00:27:16,360 --> 00:27:22,640
+You're not saying you know where he mentions it.
+
+331
+00:27:22,959 --> 00:27:26,880
+I think he doesn't mention it because it doesn't fit his story.
+
+332
+00:27:27,199 --> 00:27:42,959
+It isn't, it just would bring in a whole other dimension of sort of the myth that doesn't go with the issue of vengeance or of retribution or of guests, and those are the only things he cares about.
+
+333
+00:27:42,959 --> 00:27:46,959
+But I think it's very important to be clear about what is left out.
+
+334
+00:27:46,959 --> 00:27:53,759
+And if you discover that there is even an oblique allusion to the story about the apple, then somebody should got to come and let me know.
+
+335
+00:27:53,759 --> 00:27:55,360
+And I have to change my mind.
+
+336
+00:27:55,360 --> 00:27:56,479
+You want to say something?
+
+337
+00:27:57,279 --> 00:27:58,400
+You look like you want to say something.
+
+338
+00:27:58,400 --> 00:27:58,720
+No?
+
+339
+00:27:58,719 --> 00:27:59,199
+Oh, okay.
+
+340
+00:27:59,519 --> 00:28:00,320
+No, you don't.
+
+341
+00:28:00,320 --> 00:28:00,719
+Okay.
+
+342
+00:28:00,719 --> 00:28:02,239
+Anybody want to say something?
+
+343
+00:28:02,560 --> 00:28:06,799
+Then we go on, because there's lots of interesting things still to happen.
+
+344
+00:28:07,519 --> 00:28:08,479
+Let's see.
+
+345
+00:28:08,719 --> 00:28:09,680
+I'm about.
+
+346
+00:28:09,999 --> 00:28:10,720
+Yes, good.
+
+347
+00:28:10,719 --> 00:28:11,760
+That was a stopping point.
+
+348
+00:28:11,759 --> 00:28:16,079
+And now onward to humanist tragedy.
+
+349
+00:28:16,080 --> 00:28:40,959
+And remember in the way this course is fed up by my sort of Heideggerian ideas, that there are these humanists who are reading these great works and who have these sort of views of tradition that's getting better and better, but it's all the same tradition, and we're just getting clearer and clearer about ourselves as free psychological agents with character and responsibility.
+
+350
+00:28:40,959 --> 00:28:48,320
+And the humanists have a view about tragedy, of course, and it's the view you all had in high school.
+
+351
+00:28:49,519 --> 00:28:51,199
+Did all of you read some Greek tragedy?
+
+352
+00:28:51,199 --> 00:28:53,439
+How many read some Greek tragedy?
+
+353
+00:28:53,759 --> 00:28:55,360
+Practically everybody.
+
+354
+00:28:55,680 --> 00:28:58,239
+And lots of you read Oedipus.
+
+355
+00:28:58,239 --> 00:29:00,079
+I mean, I remember, but I forgot how many.
+
+356
+00:29:00,080 --> 00:29:01,039
+How many read Oedipus?
+
+357
+00:29:01,039 --> 00:29:03,079
+It was the, oh, yeah, same people.
+
+358
+00:29:03,080 --> 00:29:04,199
+And did you read Aristotle?
+
+359
+00:29:04,439 --> 00:29:06,519
+How many read Aristotle on tragedy?
+
+360
+00:29:01,600 --> 00:29:08,519
+Oh, but you heard about Aristotle on tragedy.
+
+361
+00:29:08,680 --> 00:29:12,119
+Even if you didn't know you heard about it, that's what your teacher was telling you.
+
+362
+00:29:12,120 --> 00:29:23,160
+Because what happened is that Sophocles wrote a tragedy, namely the main one, and we're going to talk about Oedipus.
+
+363
+00:29:23,160 --> 00:29:26,119
+And Aristotle wrote a review.
+
+364
+00:29:26,120 --> 00:29:38,680
+And Aristotle wrote for the Athenians, who had seen Sophocles' Oedipus, what he thought the essential features of a tragedy were.
+
+365
+00:29:38,680 --> 00:29:41,959
+And that became the rule from then on.
+
+366
+00:29:41,959 --> 00:29:51,719
+So you presumably learned from Aristotle that there's a tragic hero and he demonstrates some kind of pride.
+
+367
+00:29:52,039 --> 00:29:53,800
+Hubris is the Greek word.
+
+368
+00:29:53,799 --> 00:29:56,599
+You probably learned that too, but you don't need to know.
+
+369
+00:29:56,600 --> 00:29:59,400
+And he makes some kind of fatal mistake.
+
+370
+00:29:59,400 --> 00:30:01,320
+The Greek is homatia.
+
+371
+00:30:01,640 --> 00:30:03,799
+And then he suffers for that.
+
+372
+00:30:04,120 --> 00:30:10,119
+And that suffering is a kind of catharsis that purifies him for his big mistake.
+
+373
+00:30:10,120 --> 00:30:13,959
+And out of that, the hero, the audience, learns something.
+
+374
+00:30:13,959 --> 00:30:16,759
+They learn to see things differently.
+
+375
+00:30:16,759 --> 00:30:21,880
+And that story works perfectly well for Sophocles.
+
+376
+00:30:21,880 --> 00:30:25,320
+The question is: does it work for Aespelus?
+
+377
+00:30:25,320 --> 00:30:26,360
+But let's go back.
+
+378
+00:30:26,360 --> 00:30:36,759
+It works for Sophocles, and it works for modern tragedy like Shakespeare, where people looked for psychology.
+
+379
+00:30:36,840 --> 00:30:39,880
+They want to know sort of what the personal motives were.
+
+380
+00:30:39,880 --> 00:30:48,800
+They want to know what was the bad thing that the people, the heroes did, and the protagonists did, and how they suffered and what they learned.
+
+381
+00:30:49,120 --> 00:30:55,759
+So Macbeth's kind of pride is ambition, and Macbeth suffers and learns about that.
+
+382
+00:30:55,759 --> 00:31:02,880
+Lear was pride was being possessive about Cordelia, and he learns and suffers for that.
+
+383
+00:31:03,199 --> 00:31:10,719
+The people suffer, so something wrong in their character, Aristotle says, and that's probably what you learned too.
+
+384
+00:31:10,719 --> 00:31:23,839
+So it was being prideful that Oedipus was and rash and too sure of himself that led Oedipus to kill his father and for which he was punished.
+
+385
+00:31:23,840 --> 00:31:27,359
+But he was punished because he was hot-tempered.
+
+386
+00:31:27,360 --> 00:31:29,839
+That was his form of pride, impatient.
+
+387
+00:31:29,840 --> 00:31:33,999
+Anyway, the whole point, you get, that's your whole, you've heard that.
+
+388
+00:31:34,640 --> 00:31:38,319
+That is the humanist view of tragedy.
+
+389
+00:31:38,320 --> 00:32:00,880
+And it sees it as getting clearer and better from Sophocles right on through Shakespeare up to contemporary people like Arthur Miller, who was still writing some kind of tragedy, or who wrote The Iceman Thomas and Eugene O'Neill, who wrote kind of the inner psychoanalytical tragedies.
+
+390
+00:32:00,880 --> 00:32:11,119
+And now the question is, is this one of those kind of humanist Aristotle analyzed tragedies?
+
+391
+00:32:11,120 --> 00:32:19,600
+And the interesting thing to begin with, you won't see how interesting until later, is that Latimer knows that it isn't.
+
+392
+00:32:19,600 --> 00:32:22,320
+So Latimer sounds like he agrees with me.
+
+393
+00:32:22,320 --> 00:32:38,839
+I want to say the whole humanist story is a psychological story about individuals and their characters and their bad character and their pride and the bad things they freely and responsibly do and the punishments that happen to them and how they learn to be better people for all that suffering.
+
+394
+00:32:38,840 --> 00:32:40,920
+That's all psychological.
+
+395
+00:32:40,920 --> 00:32:49,640
+And Aeschylus, at least our temporary opinion ought to be, Aeschylus doesn't care about individual psychological stuff.
+
+396
+00:32:49,640 --> 00:32:53,959
+He's caring about these gods, and these gods are cultural forces.
+
+397
+00:32:53,959 --> 00:33:06,759
+The forces of feeling and revenge, which makes everybody do this cycle of killing, and the forces of order and logic that tries to stop the cycle of killing.
+
+398
+00:33:06,759 --> 00:33:09,239
+Individuals don't matter much.
+
+399
+00:33:09,239 --> 00:33:12,440
+I'll qualify that later, but for the time being.
+
+400
+00:33:12,440 --> 00:33:17,080
+And what Latimer says on page 24 is very important.
+
+401
+00:33:17,799 --> 00:33:22,360
+He says, but the direction, this is the bottom paragraph.
+
+402
+00:33:22,359 --> 00:33:25,719
+He says in Aeschylus, the past dominates the present action.
+
+403
+00:33:25,719 --> 00:33:27,160
+That's not important.
+
+404
+00:33:27,160 --> 00:33:36,040
+But what's important is, he says, but the direction in which he, that is, Aeschylus, steered tragedy was not generally followed.
+
+405
+00:33:36,359 --> 00:33:40,120
+The way he steered tragedy wasn't to make the past important.
+
+406
+00:33:40,199 --> 00:33:41,319
+Past is always important.
+
+407
+00:33:42,359 --> 00:33:53,560
+Oedipus' past is important too, that he was, there was a prediction that he was going to kill his father and that they tried to kill him and put him out on the mountain and so forth.
+
+408
+00:33:53,560 --> 00:33:56,680
+There's a distanter past in Aeschylus, all right?
+
+409
+00:33:56,680 --> 00:34:02,680
+The whole family story of the Theestes brothers, and the Atreus kids.
+
+410
+00:34:02,680 --> 00:34:07,959
+But the main point is simply that it's not a psychological tragedy.
+
+411
+00:34:09,000 --> 00:34:11,719
+And this is what Vlatimer sees.
+
+412
+00:34:11,719 --> 00:34:21,759
+He says, Sophoclean drama prevailed since Euripides, under protest, framed tragedy in accordance with Sophocles, not Aeschylus.
+
+413
+00:34:22,080 --> 00:34:23,199
+Now, what does that mean?
+
+414
+00:34:23,199 --> 00:34:25,920
+Sophocles turned tragedy inward.
+
+415
+00:34:25,919 --> 00:34:27,680
+That's psychological.
+
+416
+00:34:27,680 --> 00:34:29,120
+That's the private.
+
+417
+00:34:29,359 --> 00:34:31,120
+That's the character story.
+
+418
+00:34:31,120 --> 00:34:37,920
+Sophocles turned tragedy inward upon the principal actors, and drama became the drama of character.
+
+419
+00:34:37,919 --> 00:34:57,119
+So we now, it looks like Latimer understands that Aeschylus wanted to do ontological or cultural drama, but that Sophocles, with his Oedipus-type tragedies, did a different kind of tragedy, and he won out.
+
+420
+00:34:57,120 --> 00:35:01,920
+The only play of Aeschylus that was continually performed was this one.
+
+421
+00:35:01,919 --> 00:35:08,320
+And that's because, as you'll see at the end, it's the most beautiful thing you could imagine for the Athenians.
+
+422
+00:35:08,319 --> 00:35:15,680
+But anyway, now we have to go back and see whether Latimer sticks to what he said.
+
+423
+00:35:16,399 --> 00:35:18,639
+Now we have to set the stage, so to speak.
+
+424
+00:35:19,120 --> 00:35:24,799
+For the most, I guess there are two absolutely fascinating speeches in the book, and we're about to read one.
+
+425
+00:35:24,799 --> 00:35:28,320
+And for the libation bearers, next time you get to read the other.
+
+426
+00:35:28,319 --> 00:35:29,039
+Okay, yeah.
+
+427
+00:35:33,919 --> 00:35:37,999
+Well, no, Latimer thinks that both of them are tragedies.
+
+428
+00:35:38,000 --> 00:35:39,759
+They're just different kinds of tragedies.
+
+429
+00:35:39,759 --> 00:35:44,640
+He thinks Aeschylus has a tragedy in which fate, he isn't very clear about it.
+
+430
+00:35:44,640 --> 00:35:46,479
+And that's what you're really telling me.
+
+431
+00:35:46,879 --> 00:35:53,439
+He doesn't say what what's essential about Aeschylus' tragedy, 'cause he doesn't understand it, 'cause he doesn't see that it's ontological.
+
+432
+00:35:53,440 --> 00:35:56,080
+But he sees that the fate goes way back.
+
+433
+00:35:56,080 --> 00:36:04,119
+And he sees that the fate in a in Oedipus goes back to, but it's really the character of Oedipus that's that's crucial, not the fate.
+
+434
+00:36:04,120 --> 00:36:06,039
+He loses his temper at the crossroads.
+
+435
+00:36:01,600 --> 00:36:08,919
+That he had a you know, let's go l let's not go into it.
+
+436
+00:36:09,000 --> 00:36:21,160
+If you studied it, you know that there's this complicated combination in Sophocles of what Oedipus chose wrong and the way fate was setting him up so that he's almost sure to make, in fact sure to make the wrong choice.
+
+437
+00:36:21,160 --> 00:36:22,359
+Don't worry about it.
+
+438
+00:36:22,600 --> 00:36:30,120
+Just just watch what happens here, where the important thing is to see what or not what an ontological tragedy looks like.
+
+439
+00:36:30,120 --> 00:36:36,680
+And because up to now I've been saying psychological and ontological and I have a feeling you don't really fully understand it.
+
+440
+00:36:36,919 --> 00:36:37,559
+Why should you?
+
+441
+00:36:37,560 --> 00:36:39,560
+It's sort of Heidegger jargon.
+
+442
+00:36:39,560 --> 00:36:48,120
+But I think once you see what happens in this speech, you will see clearly what what the difference is.
+
+443
+00:36:48,120 --> 00:36:49,799
+And now what speech?
+
+444
+00:36:49,799 --> 00:36:56,120
+Well, when Agamemnon returns home, Clytemnestra makes a welcoming speech.
+
+445
+00:36:56,120 --> 00:36:59,719
+And it's a very, very interesting speech.
+
+446
+00:36:59,719 --> 00:37:01,560
+It's a brilliant speech.
+
+447
+00:37:01,560 --> 00:37:20,680
+What she's done, what she heard, what she has to do is convince the people that Agamemnon is a monster, a very, very bad person whom they've got to kill as soon as possible or he will make life miserable for everybody in Argos.
+
+448
+00:37:20,680 --> 00:37:32,280
+The reason she's got that job of having to do that is because she's married Augustus and they've taken over the castle and there's no place for Agamemnon and they intend to kill him.
+
+449
+00:37:32,279 --> 00:37:35,080
+And they and they are and she's setting it up.
+
+450
+00:37:35,080 --> 00:37:46,879
+She wants to put a spin on his welcome that will make it okay for what they're about to do when they put him, when he's taking his bath, they put a net over him and then they stab him.
+
+451
+00:37:46,199 --> 00:37:48,320
+She stabs him.
+
+452
+00:37:46,600 --> 00:37:50,560
+So let's see where we are.
+
+453
+00:37:51,199 --> 00:37:57,759
+Okay, so it's all as if, I mean, the very best speechwriters in Washington have been at work on it.
+
+454
+00:37:57,759 --> 00:38:02,959
+So the first thing she does is she tells them how upset they are.
+
+455
+00:38:02,960 --> 00:38:05,039
+The chorus are the people of Argos.
+
+456
+00:38:05,600 --> 00:38:07,360
+They've got to be convinced.
+
+457
+00:38:07,359 --> 00:38:12,800
+Otherwise, if they kill Agamemnon, the people are going to revolt and kill them.
+
+458
+00:38:12,799 --> 00:38:23,039
+But if they kill Agamemnon and show that they did the right thing and they saved the people from this bad guy, then the people are going to be all the more grateful to Clytemnestra and Aegisthus.
+
+459
+00:38:23,040 --> 00:38:34,079
+So the first thing she does is remind them of how upset they are that Agamemnon went to war and all their young men were killed, or many of them.
+
+460
+00:38:34,080 --> 00:38:36,959
+This is what she starts on page 45.
+
+461
+00:38:37,440 --> 00:38:46,479
+I will skip down, say, yet though the host come home, there's 345 in the margin, page 45.
+
+462
+00:38:46,799 --> 00:38:50,640
+Even so, the anger of these slaughtered men may never sleep.
+
+463
+00:38:50,640 --> 00:38:54,880
+These slaughtered men are the young men killed in the war.
+
+464
+00:38:55,199 --> 00:38:57,919
+Oh, let there be no fresh warning villainy.
+
+465
+00:38:57,919 --> 00:39:02,560
+So are the thoughts you hear from me, a woman merely, and so forth.
+
+466
+00:39:03,440 --> 00:39:06,080
+And the chorus thinks that, boy, is she really good.
+
+467
+00:39:06,080 --> 00:39:07,120
+She's given a good speech.
+
+468
+00:39:07,120 --> 00:39:11,120
+They say, my lady, no brave man could speak with better grace.
+
+469
+00:39:11,120 --> 00:39:26,560
+And then she goes on, and having gotten them all worried about their loss and so forth, the next thing she does is say, and see you, you're all the gold star mothers.
+
+470
+00:39:26,560 --> 00:39:27,999
+You've all lost your children.
+
+471
+00:39:28,000 --> 00:39:28,799
+That's terrible.
+
+472
+00:39:29,359 --> 00:39:35,239
+But then she says, but I really suffer with you because I lost my child.
+
+473
+00:39:31,520 --> 00:39:38,760
+So then she says, she sort of lines herself up on their side.
+
+474
+00:39:41,000 --> 00:39:47,480
+She's going to tell them, she's already sort of implied that she's.
+
+475
+00:39:47,799 --> 00:39:48,919
+Where does she imply it?
+
+476
+00:39:49,160 --> 00:39:52,360
+She's also, I don't know.
+
+477
+00:39:53,480 --> 00:39:59,800
+I see that I've got something in my story which is a little far-fetched, but I'm going to do it anyway.
+
+478
+00:39:59,799 --> 00:40:09,320
+I mean, she doesn't really line herself up with the suffering mothers until page 81 in a different speech.
+
+479
+00:40:09,319 --> 00:40:11,399
+So I'm making this up, but I like it.
+
+480
+00:40:11,399 --> 00:40:12,680
+So I'm going to say it anyway.
+
+481
+00:40:12,680 --> 00:40:21,640
+Well, her second, if I were writing her speech, her second thing is to say, well, you mothers have all suffered, and you fathers too, but I'm with you.
+
+482
+00:40:21,640 --> 00:40:22,839
+I suffered equally.
+
+483
+00:40:22,839 --> 00:40:27,640
+She says it finally on 81 when she's justifying the murder instead of setting it up.
+
+484
+00:40:27,640 --> 00:40:28,999
+But it's the same speech.
+
+485
+00:40:29,239 --> 00:40:31,239
+This is just the other half of the speech.
+
+486
+00:40:31,239 --> 00:40:35,879
+On the middle of 41, she says, Yet look upon this dead man.
+
+487
+00:40:35,879 --> 00:40:46,360
+You would not cross him once, when with no thought more than if a beast had died, when he ranged pastures swarmed with flocks, he slaughtered like a victim his own child.
+
+488
+00:40:46,359 --> 00:40:53,239
+And then she says, My child, my pain grown into love to charm the winds of Thrace and so forth.
+
+489
+00:40:53,239 --> 00:40:58,919
+And that's, and so her fury is justified.
+
+490
+00:40:59,080 --> 00:41:03,959
+She is justified in killing him and being furious at him because he killed her daughter.
+
+491
+00:41:03,960 --> 00:41:13,479
+And they're all justified in celebrating killing him because he killed their children and their fury's children that will get after all of them.
+
+492
+00:41:13,480 --> 00:41:15,879
+So, this is an entry at the bottom of 81.
+
+493
+00:41:15,879 --> 00:41:18,160
+Great, your design, and so forth.
+
+494
+00:41:16,600 --> 00:41:23,519
+Swung to the red, drives the fury within your brain, and she's back talking about the Furies.
+
+495
+00:41:24,160 --> 00:41:28,639
+So, but this is only the beginning, this is just the setup.
+
+496
+00:41:28,960 --> 00:41:31,920
+So, she says, my daughter was sacrificed to.
+
+497
+00:41:31,919 --> 00:41:34,160
+Now we're back on page 41.
+
+498
+00:41:34,160 --> 00:41:41,039
+She's telling them a story about how, in such a shocking way, he killed the daughter.
+
+499
+00:41:41,040 --> 00:41:46,640
+This is when we're going to get to Latimer, but you better just look first.
+
+500
+00:41:46,640 --> 00:41:49,840
+Remember how he killed the daughter.
+
+501
+00:41:49,839 --> 00:41:52,879
+Just remember that he was stuck, remember?
+
+502
+00:41:52,879 --> 00:41:56,719
+He couldn't kill her and he couldn't not kill her.
+
+503
+00:41:56,719 --> 00:42:03,199
+If he killed her, he was going against his love as a father.
+
+504
+00:42:03,199 --> 00:42:06,960
+If he didn't kill her, he was going against his duty as a king.
+
+505
+00:42:06,960 --> 00:42:09,920
+There was nothing that he could do right, and he knew it.
+
+506
+00:42:09,919 --> 00:42:15,120
+And he said in the middle of the page, a little below the middle, may all be well yet, but it wasn't.
+
+507
+00:42:15,120 --> 00:42:18,560
+It was necessary, and he sacrificed his daughter.
+
+508
+00:42:18,560 --> 00:42:20,719
+He did one bad thing.
+
+509
+00:42:20,719 --> 00:42:22,719
+Sacrificing his daughter wasn't a bad thing.
+
+510
+00:42:22,719 --> 00:42:24,880
+I mean, it was equally bad if he hadn't.
+
+511
+00:42:24,879 --> 00:42:27,040
+I mean, or there were just two bad things.
+
+512
+00:42:27,040 --> 00:42:30,960
+But he did do this thing I mentioned on line 235.
+
+513
+00:42:30,960 --> 00:42:37,040
+He put a gag on her so that she couldn't curse the house of Atriot.
+
+514
+00:42:37,040 --> 00:42:39,520
+But that doesn't matter, turns out.
+
+515
+00:42:39,520 --> 00:42:43,920
+I said this already, because Clytemnestra curses him.
+
+516
+00:42:43,919 --> 00:42:52,400
+Instead, I mean, it's the same fury curse whether uh Phagania does it or whether Phytimestri does it.
+
+517
+00:42:52,399 --> 00:42:58,719
+So he's claiming that he killed the daughter and he killed the daughter in a shocking way.
+
+518
+00:42:58,719 --> 00:43:06,759
+And that is supposed to make him look brutal and arrogant and prideful.
+
+519
+00:43:01,359 --> 00:43:07,959
+That's her agenda.
+
+520
+00:43:08,279 --> 00:43:11,879
+And that's and now we can see how far whether she's done it.
+
+521
+00:43:11,879 --> 00:43:21,319
+But you have to realize that in order to do it, she has to distort the what he's done when he killed Ephigenia.
+
+522
+00:43:21,319 --> 00:43:23,960
+She has to make it seem worse than it is.
+
+523
+00:43:23,960 --> 00:43:29,319
+That's when she says, I just read it.
+
+524
+00:43:29,960 --> 00:43:34,680
+Where he slaughtered her as if he was just killing some cattle in the field.
+
+525
+00:43:34,680 --> 00:43:35,399
+Where was that?
+
+526
+00:43:35,399 --> 00:43:36,359
+81?
+
+527
+00:43:37,879 --> 00:43:42,440
+Part of the speech after she killed him, after she killed Agamemnon?
+
+528
+00:43:44,040 --> 00:43:44,919
+Yes.
+
+529
+00:43:45,960 --> 00:43:47,959
+Yes, the middle of 81.
+
+530
+00:43:47,960 --> 00:43:49,719
+Does this sound fair?
+
+531
+00:43:49,719 --> 00:43:51,960
+I mean, I just reread you what he did.
+
+532
+00:43:52,279 --> 00:44:01,799
+He slaughtered like a victim his own child, starting a little earlier, with no thought more than if a beast had died when he ranged his pastors and so forth.
+
+533
+00:44:01,799 --> 00:44:03,880
+He slaughtered like a victim his own child.
+
+534
+00:44:03,879 --> 00:44:05,319
+Did he not think about it at all?
+
+535
+00:44:05,319 --> 00:44:10,119
+Did he kill her just as if she was a cow that happened to wander by?
+
+536
+00:44:10,120 --> 00:44:10,759
+Not at all.
+
+537
+00:44:10,759 --> 00:44:12,359
+He went through great agonies.
+
+538
+00:44:12,359 --> 00:44:20,999
+But you've got to realize that she's setting it up before the murder and justifying it after the murder in the passage on 81.
+
+539
+00:44:21,319 --> 00:44:30,680
+So and then she so a according to her, the total destruction of Troy was a ruthless sacrifice of young people.
+
+540
+00:44:30,680 --> 00:44:36,120
+Her own daughter, the killing of her daughter was a ruthless sacrifice of that person.
+
+541
+00:44:36,120 --> 00:44:39,799
+He's a brutal, arrogant, ruthless king.
+
+542
+00:44:40,120 --> 00:44:43,560
+And now the question is, now it gets to be fun.
+
+543
+00:44:43,560 --> 00:44:50,800
+Has she convinced the chorus that he is this bad man that they should kill?
+
+544
+00:44:50,799 --> 00:44:57,839
+Well, we're going to take a while to find out whether he's convinced that she's convinced the chorus, but there is one person she's totally convinced.
+
+545
+00:44:57,839 --> 00:44:59,120
+And who is that?
+
+546
+00:44:59,120 --> 00:45:00,480
+That's Latimer.
+
+547
+00:45:00,480 --> 00:45:10,080
+Latimer, who should know better, in my view, because he says this is not a play of character, about character, but a play about horses.
+
+548
+00:45:10,080 --> 00:45:21,440
+And so it isn't important, you would think, whether Agamemnon was proud or not, whether he was a bad guy or not.
+
+549
+00:45:21,440 --> 00:45:41,760
+But just, but the main thing is, just to stick to the play, does she convince you, and does she convince the chorus that Agamemnon is the kind of guy, let me read my list again, arrogant, ruthless, brutal, prideful, that should be killed?
+
+550
+00:45:41,759 --> 00:45:44,479
+Well, as I say, look at what happens with Latimer.
+
+551
+00:45:44,480 --> 00:45:45,919
+That's where it gets to be fun.
+
+552
+00:45:45,919 --> 00:45:57,680
+Latimer, being a good humanist and probably not too bright as far as I can see, seems to think that pride must be the fault, because that's what he learned in high school, I guess.
+
+553
+00:45:57,680 --> 00:46:03,680
+I mean, this has been passed down for 2,000 years since Aristotle wrote the review of Oedipus.
+
+554
+00:46:03,680 --> 00:46:07,760
+So look what he says on page 12.
+
+555
+00:46:09,040 --> 00:46:14,880
+Pride would have driven him without hesitation to undertake the recovery of Helen.
+
+556
+00:46:14,879 --> 00:46:26,159
+That's already funny, since nothing in the book shows pride driving him to undertake the recovery of Helen and besiege Troy and so forth.
+
+557
+00:46:26,160 --> 00:46:27,919
+He puts it in the subjunctive.
+
+558
+00:46:27,919 --> 00:46:28,879
+Pride would have.
+
+559
+00:46:29,120 --> 00:46:33,960
+But after all, you want to say to Latimer, who cares what you think pride would have done?
+
+560
+00:46:33,960 --> 00:46:41,000
+The question is, did pride lead him to fight this war and sacrifice of Viginia?
+
+561
+00:46:41,000 --> 00:46:47,160
+Well, after saying it in the conditional, Latimer decides to go all out and just say it as a fact.
+
+562
+00:46:47,160 --> 00:46:56,120
+So about six lines down, or eight, he says, his pride grows like its own acts, and until just before death, he is a swollen vanity.
+
+563
+00:46:56,120 --> 00:47:04,279
+Now, we're going to read in a minute, tell me telling me, just what he says and does before death, and we're going to see whether he's a swollen vanity.
+
+564
+00:47:04,279 --> 00:47:05,719
+But that's what he says.
+
+565
+00:47:05,719 --> 00:47:10,680
+And he says, one cannot see where a proud king could have chosen otherwise.
+
+566
+00:47:10,919 --> 00:47:14,600
+Okay, now we want to go back and look at what happens when he arrives.
+
+567
+00:47:14,600 --> 00:47:17,160
+But let me make sure first where I am.
+
+568
+00:47:18,040 --> 00:47:22,120
+So now we're back on the Big Welton speech on page 62.
+
+569
+00:47:22,120 --> 00:47:33,640
+She just made her big speech about him trying to set himself up, trying to set him up, put a spin on everything, in which he looks like a bad guy.
+
+570
+00:47:33,640 --> 00:47:37,480
+And then he comes in at the bottom of 61.
+
+571
+00:47:37,480 --> 00:47:40,760
+And we've got to see whether he's a bad guy.
+
+572
+00:47:40,759 --> 00:47:51,559
+He, sort of spookily, on 52, line 910, says to herself, because the audience doesn't know this yet, but the chorus does.
+
+573
+00:47:51,560 --> 00:47:53,959
+Of course, the Greek audience has seen this over and over.
+
+574
+00:47:53,960 --> 00:47:55,320
+They like it so much.
+
+575
+00:47:55,319 --> 00:48:02,600
+So he says, let there spring up into the house he never hoped to see, where justice leads him in, a crimson path.
+
+576
+00:48:02,799 --> 00:48:04,880
+She hears that as saved.
+
+577
+00:48:04,879 --> 00:48:17,360
+Justice, meaning the furies, is going, leads him on this crimson carpet, which is blood, the crimson, he's just going to go leave, and he's on his way to do it.
+
+578
+00:48:17,359 --> 00:48:20,080
+And it's true, she knows that, but they don't.
+
+579
+00:48:16,520 --> 00:48:23,040
+Now the question is, she, okay, yeah, go ahead.
+
+580
+00:48:23,359 --> 00:48:30,400
+Ah, well, there's a sub-plot which we have to mention.
+
+581
+00:48:31,279 --> 00:48:45,519
+He's talking about Cassandra, they all get, the heroes, a woman, slave mistress, as part of the reward for winning, and he's got his reward, and he has sort of every right to it.
+
+582
+00:48:45,520 --> 00:48:51,759
+And if you watch, the chorus never complains or blames him for having brought home Cassandra.
+
+583
+00:48:51,919 --> 00:48:58,560
+Clytemnestra does, but not because she really knows that it was a bad thing, because it wasn't a bad thing by their standards.
+
+584
+00:48:58,560 --> 00:49:04,719
+It's because she's finding everything she can to complain about and throw at him in her speech.
+
+585
+00:49:04,719 --> 00:49:10,799
+But don't let the Cassandra issue bother you.
+
+586
+00:49:11,839 --> 00:49:26,799
+Those who know the Iliad know that the same kind of issue comes up at the beginning of the Iliad because Agamemnon tries to take away Priseus, who is Achilles' slave mistress prize, and Achilles is very upset about it.
+
+587
+00:49:26,799 --> 00:49:32,480
+They care a lot about having the right recognition of their greatness.
+
+588
+00:49:32,480 --> 00:49:34,320
+But let me go back to this.
+
+589
+00:49:35,279 --> 00:49:38,239
+So now Agamemnon has come home.
+
+590
+00:49:38,239 --> 00:49:39,919
+Clytemner's had her chance.
+
+591
+00:49:39,919 --> 00:49:41,120
+It's like a debate.
+
+592
+00:49:41,120 --> 00:49:43,119
+She put her spin on the whole thing.
+
+593
+00:49:43,120 --> 00:49:44,320
+I just read it.
+
+594
+00:49:44,319 --> 00:49:52,719
+And now, look, and now Latimore says he is a swollen vanity, totally puffed up with pride.
+
+595
+00:49:52,719 --> 00:49:54,000
+He must be.
+
+596
+00:49:54,000 --> 00:49:57,920
+He would have to be because this is a tragedy.
+
+597
+00:49:57,919 --> 00:50:01,199
+And so we're going to find out whether he is a swollen vanity.
+
+598
+00:50:01,279 --> 00:50:02,120
+What has happened?
+
+599
+00:50:02,120 --> 00:50:02,839
+Read this speech.
+
+600
+00:50:03,719 --> 00:50:05,960
+He's got his good speech writers, too.
+
+601
+00:50:05,960 --> 00:50:09,879
+He says, where does he start talking?
+
+602
+00:50:10,919 --> 00:50:13,000
+Ah, here we are, bottom of 62.
+
+603
+00:50:13,000 --> 00:50:15,879
+Daughter of Leda, that's Clytemnestra.
+
+604
+00:50:16,199 --> 00:50:18,680
+You have kept my house for me.
+
+605
+00:50:18,680 --> 00:50:21,639
+There is one, you who have kept my house for me.
+
+606
+00:50:21,640 --> 00:50:24,599
+There is one way your welcome matched my absence well.
+
+607
+00:50:24,600 --> 00:50:26,520
+You strained it to great length.
+
+608
+00:50:26,520 --> 00:50:27,800
+That's a joke.
+
+609
+00:50:27,799 --> 00:50:34,520
+She's saying, well, I was gone for 10 years, but your welcome speech when I got back was just about as long.
+
+610
+00:50:34,520 --> 00:50:36,199
+And that's a great way to begin.
+
+611
+00:50:36,359 --> 00:50:40,760
+I mean, it's not what you normally expect from a proud and puffed up king.
+
+612
+00:50:40,759 --> 00:50:46,120
+And he goes on to explain why he thinks it was a bad idea for her to give this speech.
+
+613
+00:50:46,120 --> 00:50:50,759
+Yet properly to praise me thus belongs by right to others' lips, not yours.
+
+614
+00:50:50,759 --> 00:50:58,600
+I mean, he doesn't want to be praised by his wife if he's done something good, let some impartial person say so, not yours.
+
+615
+00:50:58,600 --> 00:51:07,320
+And all this, and all this, do not try in women's ways to make me delicate, as if I were some Asiatic.
+
+616
+00:51:07,319 --> 00:51:17,960
+The Greeks are always worried about the Persians, who are the Asiatics for them, who have absolute monarchs and who bow down to these absolute monarchs.
+
+617
+00:51:17,960 --> 00:51:34,039
+And he wants to say, notice, he says, don't bow down to me as if I were some Asiatic, bow down to earth, and with wide mouth cry out to me, nor cross my path with jealousy.
+
+618
+00:51:34,359 --> 00:51:36,040
+Now comes the next thing.
+
+619
+00:51:36,040 --> 00:51:37,879
+Don't make a big fuss about me.
+
+620
+00:51:37,879 --> 00:51:39,160
+You're my wife.
+
+621
+00:51:39,160 --> 00:51:44,199
+Don't make me seem to be some kind of superhero that everybody should bow down to.
+
+622
+00:51:44,199 --> 00:51:47,680
+That's not our Greek democratic way of doing things.
+
+623
+00:51:47,680 --> 00:51:52,560
+And now finally, don't make people jealous by strewing the ground with robes.
+
+624
+00:51:52,560 --> 00:51:56,480
+Such state becomes the gods and none besides.
+
+625
+00:51:56,480 --> 00:51:59,359
+Okay, that's, she's put down this crimson carpet.
+
+626
+00:51:59,359 --> 00:52:05,120
+Now you have to know, because there's a big fuss going to be made about the crimson carpet, why it's so important.
+
+627
+00:52:05,120 --> 00:52:08,080
+The crimson carpet is not a carpet.
+
+628
+00:52:08,799 --> 00:52:10,399
+It's robes, according to this.
+
+629
+00:52:10,399 --> 00:52:13,359
+It must be kind of like the vetments that a priest wears.
+
+630
+00:52:13,359 --> 00:52:17,840
+I mean, very, very fancy robes or a kind of tapestry.
+
+631
+00:52:17,839 --> 00:52:22,160
+Something extremely beautiful and precious and valuable.
+
+632
+00:52:22,160 --> 00:52:27,839
+And as I say to myself, it's as if it's the family paintings.
+
+633
+00:52:27,919 --> 00:52:33,759
+The Picasso's and Matistas are off the wall and on the floor, and she wants him to walk in on them.
+
+634
+00:52:33,759 --> 00:52:40,320
+She wants him to walk in on the thing that's most beautiful, most precious, most valuable in their collection, and he doesn't want to do it.
+
+635
+00:52:40,319 --> 00:52:51,199
+And so he says, this proud, puffed-up vanity, such state becomes the gods and none besides that are walking on these beautiful things.
+
+636
+00:52:51,199 --> 00:52:52,719
+I am a mortal man.
+
+637
+00:52:52,719 --> 00:52:58,239
+I cannot trample upon these tinted splendors without fear thrown in my path.
+
+638
+00:52:58,239 --> 00:53:01,520
+I tell you, as a man, not God to reverence me.
+
+639
+00:53:01,520 --> 00:53:06,719
+Well, boy, does that, to me anyway, not sound like a puffed-up, arrogant person.
+
+640
+00:53:06,719 --> 00:53:09,839
+He is really out, you know, outmaneuvering her.
+
+641
+00:53:09,839 --> 00:53:16,239
+She's set it up so that he's supposed to walk in on these beautiful robes, and he's not falling for it.
+
+642
+00:53:16,239 --> 00:53:17,439
+The chorus is watching.
+
+643
+00:53:17,440 --> 00:53:18,080
+You're the judge.
+
+644
+00:53:18,080 --> 00:53:19,120
+You're the chorus.
+
+645
+00:53:19,120 --> 00:53:26,239
+And she's trying to set him up as vain and brutal and proud and a kind of dictator.
+
+646
+00:53:26,239 --> 00:53:28,640
+And he's presenting himself.
+
+647
+00:53:28,640 --> 00:53:34,199
+I mean, it's all a question of spin before the crowd, as a completely modest, nice guy.
+
+648
+00:53:31,120 --> 00:53:35,399
+And there's no reason to doubt it.
+
+649
+00:53:35,560 --> 00:53:39,640
+He's begun with a joke, and he said, then don't mess with those carpets.
+
+650
+00:53:39,640 --> 00:53:40,360
+Yeah.
+
+651
+00:53:40,680 --> 00:53:42,280
+Well, good question.
+
+652
+00:53:42,279 --> 00:53:44,359
+And he did walk on the carpets finally.
+
+653
+00:53:44,359 --> 00:53:45,160
+He's right.
+
+654
+00:53:45,160 --> 00:53:47,479
+But notice why he walks on the carpets.
+
+655
+00:53:47,480 --> 00:53:49,000
+It's quite amazing.
+
+656
+00:53:50,199 --> 00:53:57,479
+He said, if I do it, I'm sorry, discordant is the murmur at such treading down of lovely things.
+
+657
+00:53:57,799 --> 00:54:02,680
+And call that man blessed who had sweet tranquility has brought his life to a close.
+
+658
+00:54:02,680 --> 00:54:05,159
+I could only act as such, and so forth.
+
+659
+00:54:05,480 --> 00:54:08,119
+He's being seemingly modest.
+
+660
+00:54:08,120 --> 00:54:11,959
+And she says, Yeah, tell me this one thing and do not cross my will.
+
+661
+00:54:11,960 --> 00:54:13,799
+She's tough, Earthwide Nestra.
+
+662
+00:54:13,879 --> 00:54:16,199
+Agamemnon says, My will is mine.
+
+663
+00:54:16,199 --> 00:54:17,960
+I shall not make it soft for you.
+
+664
+00:54:17,960 --> 00:54:19,880
+They're having a family fight.
+
+665
+00:54:19,879 --> 00:54:21,959
+She's saying, walk on the carpet.
+
+666
+00:54:21,960 --> 00:54:24,600
+And he's saying, no, I won't walk on the carpet.
+
+667
+00:54:24,600 --> 00:54:28,839
+And whether he does or not, a lot depends on it because the crowd is watching.
+
+668
+00:54:28,919 --> 00:54:30,439
+Is he going to walk on the carpet?
+
+669
+00:54:30,440 --> 00:54:33,479
+She says, it was so and so and so-and-so.
+
+670
+00:54:33,480 --> 00:54:35,000
+Lots of talk.
+
+671
+00:54:35,000 --> 00:54:39,719
+And then he says at the bottom, the people murmur, and their voice and strength is great.
+
+672
+00:54:39,719 --> 00:54:44,520
+And he says, yet, who goes unenvied shall not be admired.
+
+673
+00:54:44,520 --> 00:54:49,000
+He says, remember earlier, if I walk on this, the people will be jealous and envy me.
+
+674
+00:54:49,000 --> 00:54:52,840
+And she's saying, well, if you want to be admired, you better do it.
+
+675
+00:54:52,839 --> 00:54:57,000
+And he doesn't say, okay, well, I do want to be admired, so I'll do it.
+
+676
+00:54:57,000 --> 00:55:00,280
+He says, such lust for conflict is not woman-like.
+
+677
+00:55:00,279 --> 00:55:04,520
+And she says, yet for the mighty to give way is grace.
+
+678
+00:55:04,520 --> 00:55:07,080
+She says, oh, you're such a great guy.
+
+679
+00:55:07,080 --> 00:55:11,080
+You will be able the best thing you could do is do what I want you to do.
+
+680
+00:55:11,080 --> 00:55:16,040
+And so he finally says, Does such a victory mean so much to you?
+
+681
+00:55:16,040 --> 00:55:18,319
+And she says, Oh, yield, the power is yours.
+
+682
+00:55:18,319 --> 00:55:20,000
+Give way of your free will.
+
+683
+00:55:21,359 --> 00:55:24,640
+He is certainly not eagerly walking on the carpet.
+
+684
+00:55:25,040 --> 00:55:32,799
+He's really such a nice guy, and she's such an awful monster, that he's giving in to her and letting her set him up.
+
+685
+00:55:32,799 --> 00:55:38,560
+Finally, he says, since you must have it, here let someone with all speed take off these sandals.
+
+686
+00:55:38,560 --> 00:55:41,839
+So I'm certainly not going to walk on that carpet with my pigotine, he says.
+
+687
+00:55:41,839 --> 00:55:44,640
+And he really cares about that nice carpet.
+
+688
+00:55:44,640 --> 00:55:52,399
+And as I crush these garments stained from the rich sea, that means that they're purple, and you have to kill lots of little sea creatures to get purple.
+
+689
+00:55:52,399 --> 00:55:55,520
+It's very hard to get in those days and very valuable.
+
+690
+00:55:56,160 --> 00:55:58,959
+Let no God's eye of hatred strike me from afar.
+
+691
+00:55:58,960 --> 00:56:06,079
+Great the extravagance and great the shame I feel to spoil such pleasure and such silver's worth of web.
+
+692
+00:56:06,399 --> 00:56:10,719
+Well, I ask you, is this an arrogant, selfish, puffed-up man?
+
+693
+00:56:10,719 --> 00:56:13,040
+I mean, there isn't a hint of him.
+
+694
+00:56:13,040 --> 00:56:16,959
+I mean, maybe he's completely faking it, but why should we think so?
+
+695
+00:56:16,960 --> 00:56:23,039
+And I think sort of the beginning of the joke is makes it clear that, no, no, he's really a modest, nice guy.
+
+696
+00:56:23,520 --> 00:56:27,680
+I don't see how anybody could doubt him, except Latimer, of course.
+
+697
+00:56:28,000 --> 00:56:30,000
+So we've got to get to Latimer.
+
+698
+00:56:30,239 --> 00:56:37,280
+He takes off his sandals, and the question is, is this what Latimer calls fatal pride?
+
+699
+00:56:37,279 --> 00:56:44,719
+It better be fatal pride if this is going to be a humanist tragedy, because if he doesn't show fatal pride, then he shouldn't be killed.
+
+700
+00:56:44,719 --> 00:56:50,079
+So he must be a bad, proud little guy, because he's about to be killed.
+
+701
+00:56:50,640 --> 00:57:00,959
+It's just a little above the middle of 22, where uh Latimer just says of him uh the the about Agamemnon's fatal pride, about fifteen lines down.
+
+702
+00:57:00,960 --> 00:57:06,999
+I mean, that just puts the Aristotelian Sophocles Shakespeare story in two sentences.
+
+703
+00:57:07,239 --> 00:57:15,879
+If you've got pride you're going to have bad things happen to you and it's sort of a syllogism for Latimer and bad things happen to Agamemnon so he must have had pride.
+
+704
+00:57:15,879 --> 00:57:20,600
+Never mind wha wh whether he looks like a nice guy or not.
+
+705
+00:57:20,600 --> 00:57:27,399
+But the question, the really question you should ask yourself is, did he convince the chorus or did she convince the chorus?
+
+706
+00:57:27,399 --> 00:57:31,080
+Do they think he's a monster or do they think he's a nice guy?
+
+707
+00:57:31,640 --> 00:57:35,320
+Well it turns out they think he's a great man.
+
+708
+00:57:35,319 --> 00:57:53,640
+You hear it on page 85 when after he's dead they are talking about what happened and they say at the end of the long chorus speech in the middle of the page who over this great man's grave shall lay the blessing of tears worked soberly from a true heart.
+
+709
+00:57:53,640 --> 00:58:00,680
+Well, I mean you just got to pay attention and you can see that she's not convinced them.
+
+710
+00:58:01,960 --> 00:58:09,479
+There is talk, I have to tell you this, because smart students have told me this every once in a while and I they're right.
+
+711
+00:58:09,480 --> 00:58:14,840
+There's talk of pride, but it's and it's so it's you've got to go look at 58.
+
+712
+00:58:14,839 --> 00:58:17,480
+The question is, who's pride?
+
+713
+00:58:17,719 --> 00:58:19,800
+Is it Agamemnon's?
+
+714
+00:58:19,799 --> 00:58:22,600
+And the answer is, no, it's not Agamemnon's.
+
+715
+00:58:22,600 --> 00:58:28,359
+She's talking about the original pride boys, Thyestes and who's the other one?
+
+716
+00:58:28,680 --> 00:58:29,479
+Atreus.
+
+717
+00:58:30,680 --> 00:58:43,399
+And so in the middle of the page, but pride, aging is made in men's dark actions, right with the young pride, late or soon, when the dawn of destiny comes and birth is given.
+
+718
+00:58:43,719 --> 00:58:45,640
+Birth is given to the spirits.
+
+719
+00:58:45,640 --> 00:58:46,959
+Those are the spirits in the house.
+
+720
+00:58:46,960 --> 00:58:48,239
+That's where the fury started.
+
+721
+00:58:46,520 --> 00:58:51,119
+Birth is given to the spirits, none they fight nor beat down.
+
+722
+00:58:51,440 --> 00:58:56,880
+Sinful daring in those halls, the sinful daring in those halls aren't his halls.
+
+723
+00:58:56,879 --> 00:59:01,440
+They're the halls of the Acreus family and so forth.
+
+724
+00:59:01,440 --> 00:59:09,440
+And there's more talk about pride on 66, but it's again not Agamemnon's pride.
+
+725
+00:59:11,919 --> 00:59:17,280
+Yet it is true, the high strength of men knows no content with limitations.
+
+726
+00:59:17,279 --> 00:59:19,360
+Well, that's Hubris, all right.
+
+727
+00:59:19,359 --> 00:59:24,799
+And it isn't clear who it is, but it doesn't seem to be Agamemnon.
+
+728
+00:59:24,960 --> 00:59:30,320
+I think it's the people, the original people.
+
+729
+00:59:30,480 --> 00:59:32,000
+Keep your eyes open.
+
+730
+00:59:32,000 --> 00:59:43,600
+See if you find any place where Aeschylus gives you any hint that Agamemnon is a bad guy and not just a hero.
+
+731
+00:59:43,600 --> 00:59:50,719
+At the beginning of the libation bearers, it's clear that he's become, that he's a hero.
+
+732
+00:59:50,719 --> 00:59:55,280
+I'll tell you in a minute how Latimer handled that.
+
+733
+00:59:55,279 --> 00:59:57,600
+But where are you going to find it?
+
+734
+00:59:57,919 --> 01:00:05,040
+I wasn't going to mention it, but now I want to mention maybe I can't mention it because I wasn't prepared to do it.
+
+735
+01:00:06,879 --> 01:00:08,559
+Well, I'll wait till I get to it.
+
+736
+01:00:08,560 --> 01:00:10,080
+Anyway, we've seen enough.
+
+737
+01:00:10,080 --> 01:00:13,040
+The question is: can Latimer fix it?
+
+738
+01:00:13,040 --> 01:00:15,520
+Is there a place that defends him?
+
+739
+01:00:15,520 --> 01:00:17,920
+Well, there is a place that defends him.
+
+740
+01:00:17,919 --> 01:00:22,960
+And that's interesting, too, and blew my mind when I saw it.
+
+741
+01:00:23,680 --> 01:00:30,560
+That is, that when he, as soon as he's dead, he's called a great man.
+
+742
+01:00:30,560 --> 01:00:35,640
+And so that the dead king is now treated as a hero.
+
+743
+01:00:35,799 --> 01:00:41,560
+I've got to read the place in the libation bearers where he's treated as a hero.
+
+744
+01:00:41,560 --> 01:00:43,719
+Okay, I'll take a look for a second.
+
+745
+01:00:43,799 --> 01:00:46,040
+If I don't find it, you find it.
+
+746
+01:00:46,040 --> 01:00:53,960
+But they say this dear king whom we love was killed, and that's terrible.
+
+747
+01:00:54,199 --> 01:01:01,320
+Oh, in the chorus at the beginning of the libation bearers, I think.
+
+748
+01:01:01,319 --> 01:01:02,279
+Well, it's there.
+
+749
+01:01:02,279 --> 01:01:03,479
+Keep your eyes open.
+
+750
+01:01:03,480 --> 01:01:04,279
+But it doesn't matter.
+
+751
+01:01:04,279 --> 01:01:06,440
+I've got my quote about the great man.
+
+752
+01:01:06,440 --> 01:01:09,960
+And the question is now: how is Vatimar going to deal with this?
+
+753
+01:01:09,960 --> 01:01:12,360
+Well, he says two-thirds of the way down.
+
+754
+01:01:12,359 --> 01:01:16,440
+See, he doesn't disagree with me that the people treat him as a hero.
+
+755
+01:01:16,440 --> 01:01:23,000
+They don't, the chorus of people has not taken him, taken it at all good riddance when he got killed.
+
+756
+01:01:23,000 --> 01:01:25,079
+He says the dead king is now a hero.
+
+757
+01:01:25,080 --> 01:01:30,120
+His arrogance, you heard it here, and you read it.
+
+758
+01:01:30,120 --> 01:01:31,319
+I don't see any arrogance.
+
+759
+01:01:31,319 --> 01:01:36,599
+But his arrogance and his mistakes have been a know by death, and his grave is a center of power.
+
+760
+01:01:36,839 --> 01:01:49,880
+He's responding to the place which I can't find, where at the beginning of the libation bearers, they're all around Agamemnon's grave supporting him and praying for him to help them get rid of Aegisthus and Clytemnestra.
+
+761
+01:01:49,879 --> 01:01:53,319
+Well, so what if Vladimir tries this quick fix?
+
+762
+01:01:53,319 --> 01:01:55,239
+He says, well, it's because he's dead.
+
+763
+01:01:55,239 --> 01:01:57,320
+But that doesn't really make any sense.
+
+764
+01:01:57,319 --> 01:02:01,160
+It's still not clear that he's done anything wrong.
+
+765
+01:02:01,480 --> 01:02:11,560
+And Agamemnon admits that he's become the center of power, that his grave is a hero's grave, and so forth.
+
+766
+01:02:11,560 --> 01:02:14,759
+So, then what is just a second?
+
+767
+01:02:15,640 --> 01:02:18,480
+Now I've got another surprise.
+
+768
+01:02:20,160 --> 01:02:30,160
+What I want is a place where the translation is crucial to what's going on, and where Latimer messes up with the trans makes the translation fit.
+
+769
+01:02:30,879 --> 01:02:32,479
+I can't find it, that's something.
+
+770
+01:02:32,480 --> 01:02:33,199
+Uh-huh.
+
+771
+01:02:33,279 --> 01:02:45,440
+We've killed Agamemnon, and now she's killed him, and the chorus now turns toward Clytemnestra, and the leader speaks to her.
+
+772
+01:02:48,000 --> 01:02:51,519
+It's the top before that, the first whole section.
+
+773
+01:02:51,839 --> 01:03:01,680
+They're talking about the death of Clydemnia, of the Phaginia, and they say, justice so moves that those only learn who suffer.
+
+774
+01:03:02,000 --> 01:03:10,320
+Now, doesn't that sound like that's at least an echo of the Aristotelian view that you learn through suffering?
+
+775
+01:03:10,319 --> 01:03:15,840
+Now, if you just look at the play and ask yourself, did Agamemnon learn anything through his suffering?
+
+776
+01:03:15,839 --> 01:03:17,600
+No, he never knew what hit him.
+
+777
+01:03:17,600 --> 01:03:25,600
+He didn't have to, for one thing, he didn't need to learn anything because he hadn't done anything wrong, or at least what he did wrong was what the culture forced him to do, not his character.
+
+778
+01:03:25,600 --> 01:03:27,919
+But mainly, there's no catharsis.
+
+779
+01:03:27,919 --> 01:03:31,199
+There's no moment where Agamemnon says, oh, now I see.
+
+780
+01:03:31,199 --> 01:03:33,039
+It's my fatal pride that did it.
+
+781
+01:03:33,440 --> 01:03:35,280
+And then he doesn't see anything.
+
+782
+01:03:35,279 --> 01:03:37,360
+And so what's going on there?
+
+783
+01:03:37,359 --> 01:03:43,280
+Well, the translation is messed up.
+
+784
+01:03:43,440 --> 01:03:50,000
+What it says in the Greek, it seems, is, wisdom comes at the price of suffering.
+
+785
+01:03:50,000 --> 01:03:52,799
+Yeah, sure, wisdom comes at the price of suffering.
+
+786
+01:03:52,799 --> 01:03:57,199
+But it's not individuals who learn through suffering.
+
+787
+01:03:57,199 --> 01:04:00,560
+It's the whole culture who learns through suffering.
+
+788
+01:04:00,560 --> 01:04:03,000
+Again and again we're told that.
+
+789
+01:04:03,399 --> 01:04:11,799
+Just to take one right nearby on page 40, where the chorus saying for the dozenth time, where is it?
+
+790
+01:04:11,799 --> 01:04:17,479
+Sorrow, sorrow, but good went out in the little above the middle.
+
+791
+01:04:17,560 --> 01:04:23,000
+Who's who guided men to think who's laid it down that wisdom comes alone through suffering?
+
+792
+01:04:23,000 --> 01:04:24,199
+That's right.
+
+793
+01:04:24,199 --> 01:04:28,279
+What's not right is that, how did I read it again?
+
+794
+01:04:28,279 --> 01:04:35,080
+Let's go back to 42, that those only learn who suffer.
+
+795
+01:04:35,080 --> 01:04:44,280
+That switch, that wisdom comes to the culture through suffering, is Escalian ontological tragedy.
+
+796
+01:04:44,279 --> 01:04:50,280
+The whole culture has to suffer before they finally get out of the situation that's making everybody miserable.
+
+797
+01:04:50,279 --> 01:04:54,039
+I gave you the example of you could use South Africa.
+
+798
+01:04:54,040 --> 01:04:55,639
+Oh, I didn't talk about that.
+
+799
+01:04:55,960 --> 01:04:59,160
+You can use what happens to the gays, what happens to women.
+
+800
+01:04:59,160 --> 01:05:02,199
+It's not individuals who do things wrong.
+
+801
+01:05:02,520 --> 01:05:12,680
+Nobody could do things right if the women are treated a bad way, or the blacks are treated a bad way in South Africa, or gays are treated a bad way.
+
+802
+01:05:12,680 --> 01:05:15,399
+And everybody suffers until you get out of it.
+
+803
+01:05:15,399 --> 01:05:18,040
+That's ontological tragedy.
+
+804
+01:05:18,040 --> 01:05:33,080
+And the idea, the other one, those only learn who suffer, is to flip it over into Sophocles and say those individuals who have bad character and pride have to suffer in order to learn that their pride was a bad thing.
+
+805
+01:05:33,080 --> 01:05:36,440
+That's Lear and Macbeth and so forth.
+
+806
+01:05:36,440 --> 01:05:50,080
+Okay, and so finally, the translator himself sort of sets up the, who changes the translation to fit his Sophoclean reading of it.
+
+807
+01:05:46,520 --> 01:05:53,600
+And you've got to admit that it's very strange because he's the one who said it.
+
+808
+01:05:53,839 --> 01:06:01,759
+Remember, it seems like years ago, I read the quote where he says, well, Sophoclean tragedy went inward to character and individuals.
+
+809
+01:06:01,919 --> 01:06:03,920
+Athlus did something different.
+
+810
+01:06:03,919 --> 01:06:06,559
+But oddly enough, Latimer never gets it.
+
+811
+01:06:06,560 --> 01:06:15,359
+And the only reason he never gets it is this humanist tradition from Aristotle is so strong that nobody sees what's in front of them.
+
+812
+01:06:15,359 --> 01:06:17,840
+At least, I'm checking with you.
+
+813
+01:06:17,839 --> 01:06:20,000
+If you think I'm wrong, you have to come and tell me.
+
+814
+01:06:20,000 --> 01:06:43,120
+I would say that it's absolutely clear that Agamemnon is not a puffed up, arrogant, brutal, vain person, and that these guys for 2,000 years haven't been able to read the text because they got into this psychological, humanist, ontic way, and they believe they see pride even if it isn't there.
+
+815
+01:06:43,120 --> 01:06:47,600
+And that's why I say this partly because I say, isn't that fun?
+
+816
+01:06:47,600 --> 01:06:49,519
+I saw it, but I didn't see it by myself.
+
+817
+01:06:49,520 --> 01:06:56,080
+I saw it over the last few years with the help of the people who came to office hours and so forth, bit by bit.
+
+818
+01:06:56,080 --> 01:07:05,599
+And my moral is, you guys are better able to understand this text than people like Latimer, because you're not in the rut of 2,000 years of tradition.
+
+819
+01:07:05,600 --> 01:07:08,160
+Before I call on you, I saw another hand that I didn't call on.
+
+820
+01:07:08,239 --> 01:07:09,279
+Was you, Dave?
+
+821
+01:07:10,960 --> 01:07:11,919
+It's not a pride.
+
+822
+01:07:15,520 --> 01:07:16,560
+It was not a problem.
+
+823
+01:07:16,799 --> 01:07:17,199
+Yeah.
+
+824
+01:07:17,520 --> 01:07:18,079
+Okay.
+
+825
+01:07:18,079 --> 01:07:20,560
+Something, it's very subtle.
+
+826
+01:07:20,560 --> 01:07:21,759
+I agree with you.
+
+827
+01:07:21,759 --> 01:07:22,959
+The way it's set up.
+
+828
+01:07:22,959 --> 01:07:28,959
+And it's certainly the killing of Ephiganiah is not a wrong thing that they did.
+
+829
+01:07:29,280 --> 01:07:36,119
+Or at least it's known, he had to do something equally wrong if he let the men starve or went home.
+
+830
+01:07:36,440 --> 01:07:47,399
+But he does, when he finally makes up his mind to do it, he does it, his breath comes sacrilegious and he gags her and he does it brutally.
+
+831
+01:07:47,400 --> 01:08:00,680
+But all I want to say about that is nobody is, I mean, it isn't as if that's some kind of tragic flaw for which he suffers and learns something.
+
+832
+01:08:00,680 --> 01:08:06,279
+I mean, I don't think he ever, I don't think the chorus ever accepts that it's a flaw.
+
+833
+01:08:06,280 --> 01:08:08,039
+I don't think they harp on it.
+
+834
+01:08:08,039 --> 01:08:11,399
+They think he's a hero and a great guy.
+
+835
+01:08:11,400 --> 01:08:13,320
+So, but I think you're right.
+
+836
+01:08:13,320 --> 01:08:15,879
+It's a little more nuanced than I let on.
+
+837
+01:08:16,200 --> 01:08:18,999
+The crucial lines that he's worried about, let's look at them.
+
+838
+01:08:20,440 --> 01:08:29,480
+And the moment in which, the one moment in which Agamemnon sort of gets out of control, I don't think it's pride, neither do you.
+
+839
+01:08:29,480 --> 01:08:33,079
+You say it's a kind of, he gets just carried away.
+
+840
+01:08:33,240 --> 01:08:34,520
+And he.
+
+841
+01:08:35,959 --> 01:08:36,520
+Where is it?
+
+842
+01:08:36,520 --> 01:08:37,719
+Does anybody know?
+
+843
+01:08:38,360 --> 01:08:39,480
+It's on the right-hand side.
+
+844
+01:08:39,480 --> 01:08:41,719
+Oh, here it is on page 41.
+
+845
+01:08:42,280 --> 01:08:45,319
+The crucial lines are: he doesn't want to do it.
+
+846
+01:08:45,320 --> 01:08:46,839
+He thinks it's terrible.
+
+847
+01:08:47,560 --> 01:09:03,479
+He can't, I mean, either he's going to be disdained as king by all the citizens, or he's going to be hated as a child murderer by his wife.
+
+848
+01:09:03,480 --> 01:09:10,039
+So the situation is terrible that when necessity's yoke was put upon him, I mean, he had to do one or the other.
+
+849
+01:09:10,039 --> 01:09:21,039
+And so then, and this is where he changed, and from the heart, the breath came bitter and sacrilegious, utterly infidel, to warp a will now to stop at nothing.
+
+850
+01:09:21,360 --> 01:09:25,440
+The sickening in men's mind, tough and reckless, cruelty brings daring.
+
+851
+01:09:25,440 --> 01:09:33,279
+He endured them to sacrifice his daughter to stay the strength of the war, wage for a woman, first offering to the ship's state.
+
+852
+01:09:33,520 --> 01:09:34,239
+And who's talking?
+
+853
+01:09:34,240 --> 01:09:35,680
+The chorus, presumably.
+
+854
+01:09:35,680 --> 01:09:37,279
+Who else could it be?
+
+855
+01:09:37,520 --> 01:09:39,919
+And I take it, yes.
+
+856
+01:09:39,919 --> 01:09:56,560
+And they see that, what you're pointing out, that when he did it, he did it in a kind of fit of being sort of so upset and so forced to do this brutal thing.
+
+857
+01:09:56,560 --> 01:10:05,919
+But I still want to say you certainly can't build on that, that he was falling in vanity and that it's all punishment for pride.
+
+858
+01:10:05,919 --> 01:10:10,640
+And I think this not stepping on the carpet scene is supposed to convince you of that.
+
+859
+01:10:10,640 --> 01:10:20,319
+But what you have to look for when you reread it, when you're writing papers on it and thinking about it, is you have to ask yourself, what does the chorus think?
+
+860
+01:10:20,320 --> 01:10:25,279
+We're supposed to, I mean, normally you can't be sure you can trust the chorus because they're just citizens.
+
+861
+01:10:25,280 --> 01:10:28,959
+They're not all a bunch of very wise people.
+
+862
+01:10:28,959 --> 01:10:31,359
+But in this case, it's like a jury.
+
+863
+01:10:31,360 --> 01:10:33,919
+What the chorus decides is sort of the truth.
+
+864
+01:10:33,919 --> 01:10:47,520
+The whole argument is to present the case that Agamemnon is a kind of person that deserves to be killed, or whether, or is Agamemnon a hero and a beloved king?
+
+865
+01:10:47,520 --> 01:10:50,079
+And the chorus takes him to be a hero.
+
+866
+01:10:50,079 --> 01:10:56,399
+And in the next play, in a passage I can't find when they're gathered around his tomb, they take him to be the beloved king.
+
+867
+01:10:57,360 --> 01:10:58,799
+Somebody else first, you had your hand up.
+
+868
+01:10:58,759 --> 01:11:03,399
+Yeah, if I remember from a long time ago, those Ilya.
+
+869
+01:11:03,400 --> 01:11:05,640
+I don't remember it so well, but I didn't know.
+
+870
+01:11:01,520 --> 01:11:06,919
+No, good, good.
+
+871
+01:11:07,079 --> 01:11:12,199
+You see, you're saying that as if you're disagreeing with me, but you're, of course, really agreeing with me.
+
+872
+01:11:12,200 --> 01:11:12,999
+Maybe you mean to.
+
+873
+01:11:12,999 --> 01:11:13,399
+Good.
+
+874
+01:11:13,400 --> 01:11:28,199
+It's important that in the Iliad, if somebody were trying to make a case that Agamemnon was proud and had no sense of the situation and was doing something really bad and that he would regret it, you could go to the Iliad.
+
+875
+01:11:28,200 --> 01:11:39,479
+When he takes back Priseus, Achilles' mistress, he is doing something stupid and he insists on it, and it gets him into big trouble.
+
+876
+01:11:39,480 --> 01:11:42,680
+And notice that none of that gets into this play.
+
+877
+01:11:42,680 --> 01:11:44,520
+That's what you're saying and I'm saying.
+
+878
+01:11:44,680 --> 01:11:50,520
+If Agamemnon, if if Aeschylus wanted to show that Agamemnon was a bad guy, he could cite Homer.
+
+879
+01:11:50,520 --> 01:11:53,159
+But he certainly, but he doesn't cite Homer.
+
+880
+01:11:53,159 --> 01:11:54,600
+Okay, and now, Beatrice.
+
+881
+01:11:54,600 --> 01:11:54,759
+Yeah.
+
+882
+01:11:55,400 --> 01:11:55,719
+Yeah?
+
+883
+01:11:58,119 --> 01:12:00,039
+I don't think Darwin used to make.
+
+884
+01:12:00,280 --> 01:12:00,839
+Where is it?
+
+885
+01:12:00,839 --> 01:12:02,039
+Let's read it.
+
+886
+01:12:02,360 --> 01:12:09,319
+When they say Marcius got to be long, I could go there and say a lot more than okay.
+
+887
+01:12:09,320 --> 01:12:11,719
+Look, though, I mean, that's interesting.
+
+888
+01:12:11,719 --> 01:12:15,959
+That's because he's in the Atreus tradition.
+
+889
+01:12:15,959 --> 01:12:19,079
+I mean, it's ontological and not psychological.
+
+890
+01:12:19,640 --> 01:12:23,640
+It's something that they don't say what a bad guy, right?
+
+891
+01:12:23,640 --> 01:12:28,600
+But they do say that they expect that he's going to be killed.
+
+892
+01:12:28,600 --> 01:12:34,359
+But they don't think he's going to be killed because he personally, because of his character, was prideful and sinful.
+
+893
+01:12:34,360 --> 01:12:38,919
+He's one of the part of the Atreus revenge drama.
+
+894
+01:12:38,919 --> 01:12:43,959
+Okay, I've only got three minutes, so I want to set you up to read the La Libation Bearers.
+
+895
+01:12:43,959 --> 01:12:45,839
+That's very important.
+
+896
+01:12:45,480 --> 01:12:48,319
+And so I'm going to just skip to it.
+
+897
+01:12:49,200 --> 01:12:57,919
+So Clytemnestra thinks that now that Agamemnon is dead, they can stomp the cycle of Fury Vengeance.
+
+898
+01:12:57,919 --> 01:13:00,719
+It fits with what Beatrice is talking about.
+
+899
+01:13:01,200 --> 01:13:05,999
+And she tries to say that this is going to be the last of those murders.
+
+900
+01:13:05,999 --> 01:13:07,520
+Can you claim that I've done this?
+
+901
+01:13:07,520 --> 01:13:19,680
+Speak to me nevermore as the wife of Agamemnon in the shadow of this corpse's queen, the old stark avenger of Atreus, that's the Fury, for his rebel of hate struck down this man, last blood for the slaughtered children.
+
+902
+01:13:19,680 --> 01:13:27,839
+So she wants to think that she was a tool of the fury and that the cycle of vengeance is now over.
+
+903
+01:13:28,159 --> 01:13:35,520
+And the chorus, too, hope and think maybe the cycle of vengeance is now over on 88.
+
+904
+01:13:35,520 --> 01:13:42,079
+So at the bottom, must it be the wife who killed to curse the country and the gods within the ground?
+
+905
+01:13:42,079 --> 01:13:55,039
+Oh, can Orestes live and be in sunlight still, shall fate grow gracious, bringing him back again in strength, back again in strength of hand to overcome these murderers.
+
+906
+01:13:55,039 --> 01:13:58,479
+So what are you going to look for when you read the next play?
+
+907
+01:13:58,799 --> 01:14:02,239
+The question, it's clear that Orestes is going to come back.
+
+908
+01:14:02,240 --> 01:14:06,719
+It's clear that Orestes is going to have to kill Clytemnestra and Aegisthus.
+
+909
+01:14:07,039 --> 01:14:13,919
+And the question is now what was about to come out of my mouth was, because they killed his father.
+
+910
+01:14:14,240 --> 01:14:17,439
+And if he does that, will the cycle of vengeance be over?
+
+911
+01:14:17,759 --> 01:14:20,560
+No, that will be just the next one.
+
+912
+01:14:20,560 --> 01:14:26,640
+Or is he going to come back and kill them because they killed the king?
+
+913
+01:14:26,640 --> 01:14:29,119
+In which case, he's not doing it in the name of the Furies.
+
+914
+01:14:29,119 --> 01:14:32,199
+He's doing it in the name of the gods of legal order.
+
+915
+01:14:32,200 --> 01:14:36,279
+And this is a a regicide, and regicides need to be killed.
+
+916
+01:14:31,520 --> 01:14:37,959
+And it's not a Fury action at all.
+
+917
+01:14:38,280 --> 01:14:40,680
+So here's what you have to ask yourself as you read it.
+
+918
+01:14:40,680 --> 01:14:43,799
+And this is what the chorus is asking itself constantly.
+
+919
+01:14:44,600 --> 01:14:54,759
+Is he going to do this deed as an agent of the Furies because they killed his father?
+
+920
+01:14:54,759 --> 01:15:02,919
+Or is he going to do this deed as a representative of the rightful legal king order?
+
+921
+01:15:03,240 --> 01:15:09,959
+Everything that which one happens will determine whether the curse on the house of Atreus stops or not.
+
+922
+01:15:10,280 --> 01:15:20,759
+And the people are on the edge of their seats, and you should be too, as this debate goes back and forth for a long time as to what is his motive.
+
+923
+01:15:20,759 --> 01:15:21,159
+Yes.
+
+924
+01:15:21,159 --> 01:15:23,719
+Oh, of course, they all thought they were putting justice in place.
+
+925
+01:15:24,520 --> 01:15:26,520
+The question is, which kind of justice?
+
+926
+01:15:26,520 --> 01:15:32,119
+Is this going to be done in the name of Fury justice or in the name of Apollo justice?
+
+927
+01:15:32,119 --> 01:15:42,919
+And it's complicated, and you'll see, and you try to figure out for yourself in the end in the end which happened and what happened when it happened.
+
+928
+01:15:43,240 --> 01:15:49,719
+Okay, I've got to run to a meeting, so I can't stay around and talk as I usually do after where I'm acting out.

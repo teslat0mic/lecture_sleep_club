@@ -1,0 +1,2689 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:05,999
+Okay, so let me review where we were last time and go on from there.
+
+2
+00:00:06,000 --> 00:00:10,080
+So there's these opposed traditions in our culture.
+
+3
+00:00:10,079 --> 00:00:14,559
+Traditions isn't even the right word because one of them believes in traditions and one doesn't.
+
+4
+00:00:15,120 --> 00:00:24,839
+But there are opposed ideas of what the how can we put it of what people are here for.
+
+5
+00:00:25,160 --> 00:00:26,519
+Something like that.
+
+6
+00:00:26,519 --> 00:00:33,239
+And there is the rational philosophical view of what people are up to.
+
+7
+00:00:33,239 --> 00:00:45,160
+And it believes that people should, as much as possible, be able to understand and develop theories and that theories are true or false.
+
+8
+00:00:45,160 --> 00:00:47,880
+And they're true if they correspond to the facts.
+
+9
+00:00:47,880 --> 00:00:55,960
+And a true theory isn't subjective, doesn't matter who holds it, it's objective, and it doesn't matter what they care about.
+
+10
+00:00:55,960 --> 00:00:59,799
+When they're doing theory, they become detached and disinterested.
+
+11
+00:00:59,799 --> 00:01:01,799
+That should be easy for you to understand.
+
+12
+00:01:01,799 --> 00:01:07,559
+That's what you do almost in every part of your education in the university.
+
+13
+00:01:07,560 --> 00:01:10,600
+In ethics, this is Greek, by the way.
+
+14
+00:01:10,600 --> 00:01:19,799
+I've called it philosophical and I called it Greek, and they're interchangeable from the perspective I'm giving you here.
+
+15
+00:01:19,799 --> 00:01:22,919
+And now the ethical issues.
+
+16
+00:01:22,919 --> 00:01:35,079
+Any particular person should subordinate his or her personal, selfish interests to whatever the universal moral principles require.
+
+17
+00:01:35,079 --> 00:01:42,520
+The simplest way to put that is that the basic proposition in ethics is don't make an exception of yourself.
+
+18
+00:01:42,520 --> 00:01:49,559
+If you're thinking, well, I can get away with this, but not everybody could do it, then you're not being ethical.
+
+19
+00:01:49,880 --> 00:01:54,919
+That and the moral of that is that the universal is higher than the individual.
+
+20
+00:01:54,919 --> 00:01:57,239
+And oh, by the way, maybe I I gotta back up.
+
+21
+00:01:57,239 --> 00:02:03,119
+I'm giving you new slogans for these three, the slogans that Kierkegaard is going to use.
+
+22
+00:02:03,120 --> 00:02:08,559
+When in the truth business, truth is objectivity, it says.
+
+23
+00:02:02,440 --> 00:02:09,600
+I was just saying that.
+
+24
+00:02:09,919 --> 00:02:12,400
+Whenever you get a true theory, it's unsubjective.
+
+25
+00:02:12,400 --> 00:02:13,519
+It's for everybody.
+
+26
+00:02:13,520 --> 00:02:17,999
+In the ethics business, the universal is higher than the individual.
+
+27
+00:02:18,000 --> 00:02:21,039
+That is, always do what anybody would do.
+
+28
+00:02:21,039 --> 00:02:24,960
+Never make an exception of yourself and say, well, only I can do this.
+
+29
+00:02:25,280 --> 00:02:31,759
+And in the ultimate reality business, the ultimate reality is abstract and eternal.
+
+30
+00:02:31,759 --> 00:02:34,079
+Nothing important happens in time.
+
+31
+00:02:34,400 --> 00:02:40,960
+And now the Kierkegaard idea is to reach eternity, you have to get out of time.
+
+32
+00:02:40,960 --> 00:02:43,520
+I mean, Kierkegaard thinks so many, it's not his view.
+
+33
+00:02:43,520 --> 00:02:44,799
+I'm not being very clear.
+
+34
+00:02:44,799 --> 00:02:53,760
+Kierkegaard's way of summing up the philosophical view is truth is objectivity, the universal is higher than the individual.
+
+35
+00:02:53,759 --> 00:02:56,879
+You get to eternity by getting out of time.
+
+36
+00:02:56,879 --> 00:02:59,199
+A lot of philosophers held this.
+
+37
+00:02:59,200 --> 00:03:05,520
+We pinning it on Plato as the first who really said these held this view.
+
+38
+00:03:05,520 --> 00:03:17,679
+Then I was saying in our culture, we've got this opposed way of thinking about what people should be doing, which is the Judeo-Christian revelation.
+
+39
+00:03:18,479 --> 00:03:22,720
+Somebody asked me, the Judeo means the same as the Hebrews.
+
+40
+00:03:22,720 --> 00:03:27,280
+Yes, I mean, that sometimes I call them the Hebrews, sometimes somewhere along the line.
+
+41
+00:03:27,280 --> 00:03:30,960
+I wish I knew, somebody must know, they got to be called the Jews.
+
+42
+00:03:30,960 --> 00:03:38,239
+But whatever we but I'm just going to call this, as the people do, the Judeo-Christian way of looking at things.
+
+43
+00:03:38,239 --> 00:03:49,800
+And another point I want to make somewhere along is I realize that lots that to lots of you, this isn't your religion, neither Jewish nor Christian.
+
+44
+00:03:50,119 --> 00:03:59,479
+The idea of God being coming, giving the Ten Commandments and becoming incarnate in Jesus and all that is pretty strange.
+
+45
+00:03:59,479 --> 00:04:07,400
+If it's really strange, you should ask me or you're in office hours or your TA to give you something to read or to explain it to you.
+
+46
+00:04:07,400 --> 00:04:09,160
+I mean, Christianity, I'm Jewish.
+
+47
+00:04:09,160 --> 00:04:11,239
+Christianity was very strange to me.
+
+48
+00:04:11,239 --> 00:04:28,760
+That's an advantage in a way if you come at this from outside, because I think the people who've grown up in some religion, Jewish or Christian, or presumably the same thing would happen to a Buddhist too, they get so they hear all these words and they don't really think about them or understand what they mean.
+
+49
+00:04:28,759 --> 00:04:34,520
+They just become a kind of mantra or something that you repeat on the appropriate occasions.
+
+50
+00:04:34,520 --> 00:04:46,280
+But if you come at it from the outside, you know, when I first read the New Testament when I was about 25 or something, I thought it was just fantastic and absolutely weird in an interesting way.
+
+51
+00:04:47,320 --> 00:04:50,840
+And no weirder than the Old Testament, which is weird in a different way.
+
+52
+00:04:50,840 --> 00:04:53,080
+And I guess no weirder than Plato.
+
+53
+00:04:53,080 --> 00:05:03,160
+But Plato somehow is so close to us theory people that it all sounds perfectly straightforward, even if we don't altogether agree with him anymore.
+
+54
+00:05:03,160 --> 00:05:12,119
+Okay, so the special problem is how do you live in a culture that's got these two conflicted traditions?
+
+55
+00:05:12,119 --> 00:05:14,679
+And you want to be a thoughtful person.
+
+56
+00:05:14,679 --> 00:05:16,999
+You want to be able to think and reflect.
+
+57
+00:05:16,999 --> 00:05:24,640
+Then you also want to be most alive to your particular time and your situation and what it is to be a human being?
+
+58
+00:05:24,640 --> 00:05:28,520
+Do you want to be true to your deepest experiences.
+
+59
+00:05:28,520 --> 00:05:29,960
+And they're so different.
+
+60
+00:05:29,960 --> 00:05:36,799
+I mean, the Greeks have given us a way of thinking and being rational and being detached and disinterested.
+
+61
+00:05:37,119 --> 00:05:48,239
+And the J Deo-Christians have given us these extreme feelings of involvement and commitment, and just the opposite, you see, of being detached, disinterested.
+
+62
+00:05:48,239 --> 00:05:50,640
+And how do you get that together?
+
+63
+00:05:50,960 --> 00:05:57,999
+No culture is like ours in being having two fundamental opposed sources.
+
+64
+00:05:57,999 --> 00:06:09,679
+I mean, there are cultures, I'm pretty sure, though I don't know much about other cultures, that have two very different dominant ways of thinking about what human beings are up to.
+
+65
+00:06:09,679 --> 00:06:11,440
+The main one I think of is China.
+
+66
+00:06:11,440 --> 00:06:15,919
+I take it that the Buddhists and their Confucians and there are lots of each of them.
+
+67
+00:06:15,919 --> 00:06:18,799
+But they haven't got opposed views.
+
+68
+00:06:18,799 --> 00:06:22,640
+They've got sort of complementary views about what to do, I think.
+
+69
+00:06:22,639 --> 00:06:25,520
+And the Japanese are marvelous in this.
+
+70
+00:06:25,520 --> 00:06:39,119
+I spent a month in Japan a year ago, and among other things, I learned that there are more people signed up for various religions in Japan than there are people in Japan.
+
+71
+00:06:39,119 --> 00:06:41,280
+And that's because they sign up for several.
+
+72
+00:06:41,280 --> 00:06:48,079
+And right now, it's popular to be born as a Hindu, married as a Christian, and die as a Buddhist.
+
+73
+00:06:49,359 --> 00:06:52,800
+Each of those religions has got a good insight into something.
+
+74
+00:06:52,800 --> 00:06:56,479
+And why should you not try to take the best from all of them?
+
+75
+00:06:56,720 --> 00:06:59,119
+That's, again, not a conflicted culture.
+
+76
+00:06:59,119 --> 00:07:06,960
+I mean, if you've got lots of gods, and you can just pick and choose among them for every and just get the God that fits the occasion, that seems all right.
+
+77
+00:07:07,040 --> 00:07:09,280
+But that's not how it is in our culture.
+
+78
+00:07:09,279 --> 00:07:19,720
+We've got these two traditions, and we feel sort of totally committed to both of them, thinking and feeling, rationality and revelation.
+
+79
+00:07:17,520 --> 00:07:24,600
+We don't think that they complement each other, and we don't think we have to choose.
+
+80
+00:07:25,239 --> 00:07:28,440
+So I summed it all up here with a lot of words.
+
+81
+00:07:28,440 --> 00:07:29,160
+I'll go slow.
+
+82
+00:07:29,159 --> 00:07:50,680
+The Greek tradition of detached, disembodied, timeless, universal, reflective, critical, rationality, that's kind of mouthful, versus the Hebrew Revelation, which is involved, embodied, historical, local, committed.
+
+83
+00:07:50,999 --> 00:08:00,040
+And we've got a culture which believes both of these and lives both of these, and it is very confused.
+
+84
+00:08:00,040 --> 00:08:02,360
+I think we are very confused.
+
+85
+00:08:02,359 --> 00:08:13,000
+Before time is up, I hope to get to at least the point where you can see that there's a big mess that needs to be cleaned up and that Kierkegaard is the one to do it.
+
+86
+00:08:13,320 --> 00:08:25,239
+So the first attempt to fix this tension, which lasts, and this first attempt lasted 1,500 years in our culture, was to reconcile the two.
+
+87
+00:08:25,239 --> 00:08:33,320
+After all, it looks like there ought to be a way of thinking about the Judeo-Christian Revelation.
+
+88
+00:08:33,320 --> 00:08:37,960
+There ought to be a way of getting your feelings and your thinking together.
+
+89
+00:08:37,960 --> 00:08:45,720
+So people started to try to put the Judeo-Christian experience into Greek categories, Greek concepts.
+
+90
+00:08:45,720 --> 00:08:48,360
+And I'll give you a real quick rundown of that.
+
+91
+00:08:48,359 --> 00:08:56,920
+It's a fascinating story of the philosophical moves in our culture, but we haven't, it's not our job to go into it.
+
+92
+00:08:56,920 --> 00:09:10,320
+But already in the Gospel of John, which is the latest of the four gospels, John is Greek, and he's already trying to put the Christian message into Greek.
+
+93
+00:09:10,320 --> 00:09:16,720
+And for those of you who know the Gospel of John, I should really know sort of what level of which in this audience I'm talking to.
+
+94
+00:09:16,720 --> 00:09:17,680
+How many know the Gospel?
+
+95
+00:09:17,759 --> 00:09:20,000
+I've read the Gospel of John.
+
+96
+00:09:20,320 --> 00:09:21,840
+Okay, about half.
+
+97
+00:09:21,840 --> 00:09:24,400
+Well, you're ahead of where I was at your age.
+
+98
+00:09:24,399 --> 00:09:33,119
+And in any case, the Gospel of John says that Jesus was the word, and the word was made flesh.
+
+99
+00:09:33,119 --> 00:09:39,920
+The word in Greek is logos, and logos means the rational structure of the universe.
+
+100
+00:09:39,920 --> 00:09:53,760
+So John is trying to get the two traditions together and say, well, to say Jesus was God is to say that he embodied in some way, in its most complete and perfect form, some deep rational truth about the universe.
+
+101
+00:09:53,759 --> 00:10:00,160
+That's already making a big move from what I think, what one would think Jesus would think about.
+
+102
+00:10:00,320 --> 00:10:03,600
+But it's beginning to put it into philosophy, into Greek.
+
+103
+00:10:03,600 --> 00:10:11,440
+And then there were the church fathers, of which Saint Augustine is the most famous, who lived around 300 AD.
+
+104
+00:10:11,440 --> 00:10:18,320
+And he had the bright idea of just putting all the Christian terms into Platonic terms.
+
+105
+00:10:18,320 --> 00:10:19,519
+And it looked pretty neat.
+
+106
+00:10:19,759 --> 00:10:35,520
+Plato had this ultimate, abstract, supreme something or other, which he called the good, which was the ground of everything and made everything grow and made everything intelligible and gave moral guidelines.
+
+107
+00:10:35,519 --> 00:10:46,160
+And it wasn't a person, but it seemed very much like the, and it wasn't a creator, but it did have a lot of the characteristics of the Hebrew Christian God.
+
+108
+00:10:46,159 --> 00:10:53,720
+So Plato, so Augustine thought of Plato and the Judeo-Christian tradition as really on the same track.
+
+109
+00:10:53,720 --> 00:10:56,760
+And at a certain level of abstraction, it's quite right.
+
+110
+00:10:56,759 --> 00:11:02,759
+I mean, it's that they are religions which believe in the Supreme Being, the two of them.
+
+111
+00:11:02,759 --> 00:11:07,640
+And that's already separating them from almost every other, maybe every other religion at all.
+
+112
+00:11:07,639 --> 00:11:11,640
+I mean, thinking of Islam as part of the Judeo-Christian tradition.
+
+113
+00:11:11,639 --> 00:11:14,919
+I can't, it would just complicate things too much to add a third.
+
+114
+00:11:14,920 --> 00:11:22,600
+And at this level, there are these religions, and there's not all over the place who believe in a supreme being.
+
+115
+00:11:22,600 --> 00:11:24,760
+Buddhism doesn't, Shintoism doesn't.
+
+116
+00:11:24,759 --> 00:11:26,280
+Hinduism doesn't.
+
+117
+00:11:26,920 --> 00:11:31,000
+I don't know enough religions, but I don't know any other ones except these two.
+
+118
+00:11:30,999 --> 00:11:34,040
+So it was natural for Augustine to put them together.
+
+119
+00:11:34,040 --> 00:11:36,200
+Only it was disastrous, too.
+
+120
+00:11:36,200 --> 00:11:45,400
+Because if you read Augustine's Confessions, which I used to like to teach, because you see the tension in it, that he can't make sense of the creation.
+
+121
+00:11:45,399 --> 00:11:46,760
+Why was it good?
+
+122
+00:11:46,759 --> 00:11:54,120
+It only got in the way of being directly related to God to have all these finite things around to love and attract to.
+
+123
+00:11:55,560 --> 00:11:58,840
+He says, well, it was good for God, but it wasn't really good for people.
+
+124
+00:11:58,840 --> 00:12:01,800
+And he doesn't have a view of the incarnation.
+
+125
+00:12:02,359 --> 00:12:08,040
+It's really, Jesus is just a path toward God.
+
+126
+00:12:08,600 --> 00:12:12,360
+The Gospel of John already says Jesus is the truth and the way.
+
+127
+00:12:12,359 --> 00:12:14,919
+And in Augustine, Jesus is pretty much the way.
+
+128
+00:12:15,639 --> 00:12:23,399
+He's just an example to lead you through the direct experience of the Supreme Being.
+
+129
+00:12:23,399 --> 00:12:24,600
+So he's having trouble with that.
+
+130
+00:12:24,600 --> 00:12:37,760
+And he's having trouble, which we're going to go into a lot, with God's command to Abraham that he should kill Isaac, because that doesn't sound like a universal command that every father should go out and kill their son.
+
+131
+00:12:38,080 --> 00:12:41,760
+So Augustine reads it as saying, Oh, yes, it's a universal command.
+
+132
+00:12:41,759 --> 00:12:43,200
+God is always ethical.
+
+133
+00:12:43,200 --> 00:12:46,720
+It means everybody should do whatever God commands.
+
+134
+00:12:46,960 --> 00:12:52,000
+Thereby it's sort of taking the thing out of it, the craziness out of it.
+
+135
+00:12:51,999 --> 00:12:54,399
+And so Augustine doesn't do a very good job.
+
+136
+00:12:54,399 --> 00:12:57,280
+Putting it into Plato terms didn't really make it.
+
+137
+00:12:57,279 --> 00:13:14,159
+And as soon as somebody came along, who another philosopher, Aristotle, whose lectures were mouldering away in some basement, as soon as they got discovered and translated first into Arabic and finally into Latin, then St.
+
+138
+00:13:14,239 --> 00:13:21,200
+Thomas Aquinas, I should write these people on the board as soon as I find thought.
+
+139
+00:13:24,080 --> 00:13:30,880
+So when I name people and say things that I don't write on the board, people get rightly annoyed.
+
+140
+00:13:30,879 --> 00:13:32,160
+So tell me.
+
+141
+00:13:32,560 --> 00:13:35,119
+So here we got St.
+
+142
+00:13:35,200 --> 00:13:40,640
+Augustine.
+
+143
+00:13:40,960 --> 00:13:43,039
+And then we've got St.
+
+144
+00:13:43,119 --> 00:13:48,640
+Thomas Aquinas, which is who I'm talking about now.
+
+145
+00:13:48,639 --> 00:13:51,519
+A two you.
+
+146
+00:13:51,840 --> 00:13:54,239
+See, writing on the board is not fun.
+
+147
+00:13:55,759 --> 00:13:59,920
+I've always thought I should have a secretary who wrote on the board while I taught.
+
+148
+00:14:00,800 --> 00:14:03,880
+Okay, so Augustine, 300 A.D.
+
+149
+00:14:04,519 --> 00:14:07,760
+as Aquinas, roughly 1300.
+
+150
+00:14:07,759 --> 00:14:18,360
+So a thousand years before they dug up Aristotle's stuff and thought that it found it was sensational and in many ways anti-Plato.
+
+151
+00:14:17,520 --> 00:14:24,440
+And Aristotle thought that bodies were important and that the soul was the form of the body.
+
+152
+00:14:24,759 --> 00:14:34,119
+And he thought that individual things were important and not just some abstract super entity or like the good.
+
+153
+00:14:34,119 --> 00:14:44,040
+And he had lots of criticisms of Plato that put him, definitely put his philosophy closer to the Judeo-Christian tradition.
+
+154
+00:14:44,040 --> 00:14:46,119
+And therefore, St.
+
+155
+00:14:46,119 --> 00:14:49,800
+Thomas putting Christianity strictly into Aristotle terms.
+
+156
+00:14:49,800 --> 00:14:52,200
+See, Aristotle still had some superbeing.
+
+157
+00:14:52,200 --> 00:14:54,520
+He called it the unmoved mover.
+
+158
+00:14:55,239 --> 00:14:58,359
+And therefore, aha, God must be the unmoved mover.
+
+159
+00:14:58,359 --> 00:15:03,479
+These pagans were getting it closer and getting it righter, they thought.
+
+160
+00:15:04,600 --> 00:15:06,680
+And so you just put them together.
+
+161
+00:15:06,680 --> 00:15:13,960
+And that's not bad, except that in the end, in Aristotle and in St.
+
+162
+00:15:13,960 --> 00:15:24,679
+Thomas, contemplation of this supreme being and the unmoved mover was more important than involvement in the world and in action.
+
+163
+00:15:24,679 --> 00:15:38,039
+So they, again, sort of philosophical, universal, objective reflection, so they gobbled up what was special about the Judeo-Christian tradition.
+
+164
+00:15:38,040 --> 00:15:47,879
+The way to see it, and I teach this in Philosophy 6, is when you read Dante's Divine Comedy, Dante, in roughly 1300, was putting St.
+
+165
+00:15:47,879 --> 00:15:53,399
+Thomas's version of Christianity into his poem.
+
+166
+00:15:53,399 --> 00:15:58,399
+And Dante has already discovered, in fact, it's relevant for me to say this someplace.
+
+167
+00:15:58,959 --> 00:16:15,279
+At the same time that Aquinas was putting Christianity into philosophical terms, some group of people called the Troubadours were inventing romantic love.
+
+168
+00:16:16,000 --> 00:16:29,759
+wasn't any romantic love until they came along with their story of knights and ladies and how a knight could dedicate his whole life and get his identity and the meaning of his life out of his dedication to his lady.
+
+169
+00:16:29,760 --> 00:16:33,439
+And Dante felt that he had the same experience with Beatrice.
+
+170
+00:16:33,439 --> 00:16:37,680
+So Dante wrote a super love poem about Beatrice.
+
+171
+00:16:37,679 --> 00:16:42,080
+It's super, super, but I don't want to get sidetracked into talking about it.
+
+172
+00:16:42,080 --> 00:16:59,199
+But one of the amazing things is, having explained how Beatrice is the most important thing in his life that gives it meaning, in fact, having gone so far as to put Beatrice in the place of Jesus as his savior, he said he was going to write a love poem to his girlfriend like nobody ever wrote before, and he sure did.
+
+173
+00:16:59,199 --> 00:17:10,480
+So putting straightforward, putting Beatrice into the position of savior, he nonetheless drops Beatrice at the end for contemplation directly of God.
+
+174
+00:17:10,480 --> 00:17:12,399
+And what could be more fulfilling than that?
+
+175
+00:17:12,399 --> 00:17:14,879
+Even loving Beatrice wasn't as good as that.
+
+176
+00:17:14,879 --> 00:17:25,359
+And that's the Aristotle, Thomistic losing the essential point of the Judeo-Christian tradition, which they almost had.
+
+177
+00:17:25,359 --> 00:17:28,160
+And then it goes into eclipse until Kierkegaard gets it.
+
+178
+00:17:28,159 --> 00:17:33,840
+And what I'm really telling you, among other things, is why the knight of faith is a knight.
+
+179
+00:17:33,840 --> 00:17:35,600
+I mean, why bring that in?
+
+180
+00:17:35,600 --> 00:17:40,000
+Because Kierkegaard's connecting up with the troubadours and the romantic tradition.
+
+181
+00:17:40,000 --> 00:17:44,239
+Only this time he's not going to let philosophy wipe it out.
+
+182
+00:17:44,240 --> 00:17:46,720
+So, okay, after St.
+
+183
+00:17:46,719 --> 00:17:49,560
+Thomas, nothing happens for a while.
+
+184
+00:17:49,800 --> 00:17:52,039
+Then somebody should turn off their phone.
+
+185
+00:17:52,040 --> 00:17:52,440
+Right.
+
+186
+00:17:52,439 --> 00:17:54,359
+Please turn off your phones.
+
+187
+00:17:54,359 --> 00:18:00,759
+So then 300 years further on, now we're at 1600.
+
+188
+00:18:00,760 --> 00:18:16,840
+Descartes, whom I mentioned last time, and who's the philosopher who brings us to modernity.
+
+189
+00:18:16,919 --> 00:18:17,800
+What am I going to say?
+
+190
+00:18:17,800 --> 00:18:19,720
+1600, roughly.
+
+191
+00:18:21,000 --> 00:18:38,119
+Okay, Descartes has gone so into the philosophical thing that he's lost any sense that God has anything to do with being, with an incarnation in a body, with coming into time, with whatever.
+
+192
+00:18:38,119 --> 00:18:44,280
+I mean, anything that I said about involvement, about commitment, about the Jewish people being selected by God.
+
+193
+00:18:44,280 --> 00:18:47,080
+I mean, that's just as far as you could imagine from Descartes.
+
+194
+00:18:47,240 --> 00:18:50,039
+He thinks that God is eternal, infinite.
+
+195
+00:18:50,359 --> 00:18:51,240
+Maybe not infinite.
+
+196
+00:18:51,240 --> 00:18:52,519
+Does he think God is infinite?
+
+197
+00:18:53,080 --> 00:18:54,039
+I don't know.
+
+198
+00:18:54,439 --> 00:18:55,959
+It doesn't matter.
+
+199
+00:18:56,439 --> 00:18:59,640
+Perfect, fully intelligible, good.
+
+200
+00:18:59,960 --> 00:19:04,679
+And he thinks that when he's talking about that God, he's talking about the Christian God.
+
+201
+00:19:04,679 --> 00:19:10,759
+He doesn't even notice that he's got no place for love and commitment and so forth in his story.
+
+202
+00:19:10,760 --> 00:19:13,080
+And that's, so to speak, the last straw.
+
+203
+00:19:14,040 --> 00:19:28,119
+1,500 years has kind of wiped out putting the Judeo-Christian revelation and experience, which is so original and so important, into the conceptual terms of philosophers, has finally lost it altogether.
+
+204
+00:19:28,119 --> 00:19:37,679
+It took sort of 1,500 years downhill as far as managing to think about this super experience.
+
+205
+00:19:38,000 --> 00:19:42,159
+And then comes our hero Pascal, whom I wrote on the board last time.
+
+206
+00:19:42,159 --> 00:19:46,959
+Pascal says that he's the first.
+
+207
+00:19:46,959 --> 00:19:49,919
+Well, he doesn't say he's the first existential thinker.
+
+208
+00:19:49,919 --> 00:19:51,919
+I say he's the first existentialist.
+
+209
+00:19:53,040 --> 00:19:56,480
+This is the beginning of existentialism, and I'll tell you why in a second.
+
+210
+00:19:56,480 --> 00:20:12,879
+Maybe you can figure out what would you have to say if you were going to sort of throw over this whole failed attempt to make the Judeo-Christian revelation thinkable.
+
+211
+00:20:13,199 --> 00:20:21,840
+By the way, somebody also I realized I never explained whenever I talk about the Judeo-Christian perspective, that is the existentialist perspective.
+
+212
+00:20:21,840 --> 00:20:29,919
+So I'm always thinking Greek philosopher versus Judeo-Christian existentialist.
+
+213
+00:20:29,919 --> 00:20:34,720
+So what would it take for Pascal to be the first existentialist?
+
+214
+00:20:34,719 --> 00:20:39,439
+Well, he had a religious experience.
+
+215
+00:20:39,439 --> 00:20:48,560
+He was a brilliant philosopher and mathematician, religious thinker, and he had this vision or this sort of revelation.
+
+216
+00:20:48,560 --> 00:20:57,600
+And the moral of the revelation, he wrote to himself in a note: the God of the philosophers is not the God of Abraham, Isaac, and Jacob.
+
+217
+00:20:57,600 --> 00:21:00,799
+And he understood that that way, and he was thinking against Descartes.
+
+218
+00:21:00,800 --> 00:21:02,879
+He was a generation after Descartes.
+
+219
+00:21:03,520 --> 00:21:06,399
+He thought that Descartes was sort of the worst thing.
+
+220
+00:21:06,719 --> 00:21:10,959
+So a case of total rationalism and pride.
+
+221
+00:21:11,359 --> 00:21:16,560
+But the main thing is that the God of the philosophers is not the God of Abraham, Isaac, and Jacob.
+
+222
+00:21:16,719 --> 00:21:27,080
+Pascal sees that, sees that that's so important that he wrote it on a piece of paper which he kept thrown into his undershirt so that he could always have it close to him and with him.
+
+223
+00:21:27,080 --> 00:21:30,600
+And that's the beginning of what I'm telling you.
+
+224
+00:21:30,600 --> 00:21:43,400
+That there's a whole other side to our culture and our view of God and our way of life, and we'd lost it insofar as if we were following Descartes and being modern.
+
+225
+00:21:43,399 --> 00:21:45,560
+Descartes' the beginning of modernity.
+
+226
+00:21:45,560 --> 00:21:49,879
+And we better stop and find out what's going on.
+
+227
+00:21:50,840 --> 00:22:22,119
+Well, Pascal thought that God was a hidden God, was a God, a personal God to whom you could pray, and that the human condition was extremely paradoxical because human beings were sort of like God and sort of like sort of miserable creatures, and that the problem was how to be able to be both like a God without pride and to be a miserable creature without despair.
+
+228
+00:22:22,119 --> 00:22:29,959
+He had all these sort of existentialist problems that arise once you try to put these two traditions together.
+
+229
+00:22:29,960 --> 00:22:32,919
+And he's really the culmination.
+
+230
+00:22:32,919 --> 00:22:38,199
+There was, and I have to mention it, one last attempt to put it all together.
+
+231
+00:22:38,199 --> 00:22:39,639
+Very impressive.
+
+232
+00:22:40,439 --> 00:22:44,999
+I always stand up because there are things that I don't want them to be the way they are.
+
+233
+00:22:45,000 --> 00:22:47,399
+Oh, well, we're going to put him down here.
+
+234
+00:22:47,399 --> 00:22:48,519
+Hegel.
+
+235
+00:22:49,800 --> 00:22:51,879
+Hegel, and did I put a date for Hegel?
+
+236
+00:22:52,119 --> 00:22:53,879
+Oh, in 1800.
+
+237
+00:22:59,960 --> 00:23:01,239
+It's not very good, is it?
+
+238
+00:23:06,320 --> 00:23:34,879
+Okay, Hegel, another great philosopher, tried very hard to get together what he calls sometimes reason and history to make Christianity a kind of true story that captures what philosophers are really trying to say in a kind of poetic, mythical way, but that they try to make them completely compatible.
+
+239
+00:23:34,879 --> 00:23:39,999
+And that's the last straw, so to speak, from Kierkegaard's point of view.
+
+240
+00:23:40,000 --> 00:23:51,279
+Kierkegaard, just as Pascal thought that Descartes was a kind of disaster, Kierkegaard thinks that Hegel is a kind of disaster who has lost all Christianity.
+
+241
+00:23:51,280 --> 00:23:55,999
+So we get down here, Kierkegaard, 1850.
+
+242
+00:23:56,000 --> 00:24:05,679
+And Kierkegaard says that he's an existential thinker and he's going to fix, he's going to, well, what?
+
+243
+00:24:06,000 --> 00:24:08,080
+You see, I'll get there in a little while.
+
+244
+00:24:08,080 --> 00:24:15,359
+Whatever he's going to do, he's not going to put the Judeo-Christian tradition in new philosophical better terms.
+
+245
+00:24:15,359 --> 00:24:17,759
+He's not going to tell you how to think it.
+
+246
+00:24:17,760 --> 00:24:22,560
+But he's not going to tell you either, you can't relate it to philosophy at all.
+
+247
+00:24:22,560 --> 00:24:25,119
+He's going to relate it to philosophy a lot.
+
+248
+00:24:25,119 --> 00:24:35,119
+And how he's going to do that, oppose it to philosophy and relate it to philosophy, that's a very important story, but I'm not quite ready yet to tell it.
+
+249
+00:24:38,639 --> 00:24:47,600
+I'm going to go back one last time to the the the mess the culture's in that Kierkegaard has such a brilliant solution for.
+
+250
+00:24:48,679 --> 00:25:06,359
+So now we've got the two views of God, the philosophical rational view of God and the Christian God of Revelation, and they're opposed to each other as to what knowledge is, ethics is, reality is, and they cancel each other out.
+
+251
+00:25:06,359 --> 00:25:09,560
+When you try to put them together, they undermine each other.
+
+252
+00:25:09,560 --> 00:25:22,279
+That is, we just saw how rationality undermines the Christian story, or as one after another Christian thinker tries to think Christianity in Greek terms.
+
+253
+00:25:22,280 --> 00:25:34,759
+And sort of Christianity undermines rationality by going on holding all these absolutely outrageous beliefs in spite of the theologians and in spite of the philosophers.
+
+254
+00:25:34,760 --> 00:25:40,119
+And it just seems that reason turns out to be just dangerous.
+
+255
+00:25:40,119 --> 00:25:49,719
+And in Paradise Lost, for instance, the only one who talks sort of theology and Christian philosophy is Satan.
+
+256
+00:25:51,240 --> 00:25:56,279
+Adam and Eve are too, too, luckily too naive to be taken in by that.
+
+257
+00:25:56,600 --> 00:25:58,840
+So the problem is still around.
+
+258
+00:25:59,800 --> 00:26:08,039
+And it isn't easy to get together objectivity and commitment and reason and faith.
+
+259
+00:26:08,040 --> 00:26:15,479
+And somehow we need to be true to critical reflection and passionate commitment in our lives.
+
+260
+00:26:15,800 --> 00:26:20,919
+Otherwise, everything gets canceled out and get some kind of out of some kind of collision.
+
+261
+00:26:20,919 --> 00:26:23,959
+I'm going to try to show you what that means in a second.
+
+262
+00:26:25,560 --> 00:26:42,239
+But if you don't try, if you try to live exclusively in terms of one or the other, you can't, because you have always in the background, for instance, the romantic love experience that doesn't fit into the theory story and the theory thinking that doesn't fit into the romantic love story.
+
+263
+00:26:42,240 --> 00:26:43,679
+What are you going to do about it?
+
+264
+00:26:43,679 --> 00:26:47,679
+Well, it looks like we've just inherited the worst of all worlds.
+
+265
+00:26:47,679 --> 00:26:56,800
+We've inherited a world in which we've got two traditions that you can't get together, you can't get rid of, and are sort of tearing each other up.
+
+266
+00:26:56,800 --> 00:26:59,679
+And that's what is happening, I think.
+
+267
+00:26:59,679 --> 00:27:03,039
+Or is still happening.
+
+268
+00:27:03,040 --> 00:27:08,720
+But if you were all Kierkegaardians or Dostoevsky's, you could rescue yourself from it.
+
+269
+00:27:09,439 --> 00:27:11,359
+That's what existentialists think.
+
+270
+00:27:11,359 --> 00:27:13,119
+That's what the Course is about.
+
+271
+00:27:13,119 --> 00:27:24,879
+But let me give you some feel for what it's like to be caught in this contradictory tradition by sort of appealing to your own intuitions and show you that they're contradictory.
+
+272
+00:27:24,879 --> 00:27:28,560
+I'm going to say, let's talk about knowledge.
+
+273
+00:27:28,560 --> 00:27:45,119
+So we believe both the truth is universal and objective, and you should be as dispassionate about it as possible, and we admire people willing to die for what they believe is the truth.
+
+274
+00:27:45,439 --> 00:27:46,800
+And we shouldn't.
+
+275
+00:27:46,800 --> 00:27:48,480
+I mean, one way or the other.
+
+276
+00:27:48,480 --> 00:27:50,320
+Galileo knew we shouldn't.
+
+277
+00:27:50,320 --> 00:27:56,879
+Galileo thought that he had figured out that the earth was moving around the sun.
+
+278
+00:27:57,359 --> 00:27:59,760
+It wasn't that the sun was moving around the earth.
+
+279
+00:27:59,760 --> 00:28:01,759
+The earth was moving around the sun.
+
+280
+00:28:02,240 --> 00:28:11,359
+The church, the Inquisition, said, you have to give that up and say that's false, or we'll burn you.
+
+281
+00:28:11,359 --> 00:28:16,479
+And Galileo gave it up and supposedly muttered under his breath, but it moves anyway.
+
+282
+00:28:16,480 --> 00:28:20,039
+And so, why should he give his life for an objective truth?
+
+283
+00:28:20,280 --> 00:28:28,199
+I mean, and on the other hand, Bruno, whom I don't know much about, what's his first name?
+
+284
+00:28:29,159 --> 00:28:38,759
+Giard Geodorno, I think Bruno, was a philosopher at the same time as Galileo.
+
+285
+00:28:38,760 --> 00:28:46,279
+And he had this view that there were infinitely many worlds, and for him it was a kind of religious conviction.
+
+286
+00:28:46,280 --> 00:28:52,200
+And when he was told that if he didn't take it back, he would be burned, he wouldn't take it back.
+
+287
+00:28:52,679 --> 00:29:00,840
+He wanted to be a martyr because this truth was absolutely crucial to who he was, that he understood it and he was dedicated to it.
+
+288
+00:29:00,840 --> 00:29:02,760
+And so they burned Bruno.
+
+289
+00:29:02,760 --> 00:29:04,279
+Now, who are we for?
+
+290
+00:29:04,280 --> 00:29:17,639
+Galileo, who thought that if it was true, he didn't have to die for it, or Bruno, who thought that the kind of truth that really mattered was a kind of truth that you'd be willing to be a martyr for.
+
+291
+00:29:17,959 --> 00:29:19,720
+I think we pull both ways.
+
+292
+00:29:19,719 --> 00:29:23,240
+We admire them both, but they're absolutely different.
+
+293
+00:29:24,600 --> 00:29:27,399
+One says it'd be crazy to die for your view.
+
+294
+00:29:27,399 --> 00:29:29,639
+Objective truth doesn't need you.
+
+295
+00:29:30,600 --> 00:29:33,800
+And truth is irrelevant to the meaning of our lives.
+
+296
+00:29:33,800 --> 00:29:48,919
+And the other one says what's really important about truth is that you're committed to something so totally, and it's so important in your life that you'd be ready to die rather than give it up or repudiate it in any way.
+
+297
+00:29:48,919 --> 00:29:56,679
+Okay, I don't know about you all, but I certainly have intuitions that Galileo ought to be my hero and that Bruno ought to be my hero.
+
+298
+00:29:56,679 --> 00:30:01,480
+And in morality, you get the same kind of problem that's much closer to home.
+
+299
+00:30:01,480 --> 00:30:05,200
+I mean, you can find it right in your own living room or fraternity or sorority.
+
+300
+00:30:05,520 --> 00:30:11,759
+And that is the conflict between conformity and individualism in our culture.
+
+301
+00:30:11,760 --> 00:30:17,279
+I mean, in most cultures, I think they are conformists, and that's that.
+
+302
+00:30:17,280 --> 00:30:21,919
+Maybe there are cultures in which everybody's a kind of individual and that is that.
+
+303
+00:30:21,919 --> 00:30:25,199
+But we don't know what to do.
+
+304
+00:30:26,000 --> 00:30:36,959
+What I mean by that, and Kierkegaard has lots to say about that, is we want to do what we can justify to ourselves and to our classmates and friends.
+
+305
+00:30:36,959 --> 00:30:43,679
+And we don't feel comfortable unless we can explain what we're doing, which is ethical.
+
+306
+00:30:43,679 --> 00:30:50,320
+That is, show that this is a principle that any rational, good person should follow, what you're doing.
+
+307
+00:30:50,320 --> 00:30:53,999
+On the other hand, you don't want to be just like everybody else.
+
+308
+00:30:54,000 --> 00:30:57,039
+You don't feel comfortable doing what everybody else does.
+
+309
+00:30:57,040 --> 00:31:01,199
+You'd really like to stand out from the crowd and do something different.
+
+310
+00:31:01,520 --> 00:31:04,399
+But remember, don't make an exception of yourself.
+
+311
+00:31:04,639 --> 00:31:12,720
+How are you going to be able to make your, you know, do something that matters and makes a difference and follow the principle, don't make an exception of yourself.
+
+312
+00:31:12,719 --> 00:31:14,800
+That's where we're in that.
+
+313
+00:31:15,760 --> 00:31:21,279
+If your way of life is good, it's good for you as an individual and only for you.
+
+314
+00:31:21,280 --> 00:31:23,119
+There's one possibility.
+
+315
+00:31:23,119 --> 00:31:28,480
+Or to be good for you, it should be good for everyone who's in the same situation.
+
+316
+00:31:28,480 --> 00:31:31,039
+That's the Greek philosophical view.
+
+317
+00:31:31,040 --> 00:31:38,959
+And what I think happens is you bounce back and forth in between the extremes of this.
+
+318
+00:31:39,119 --> 00:31:47,720
+So people either they become moral absolutists and they try to f find some universal rational principle.
+
+319
+00:31:47,719 --> 00:31:50,039
+They try to be able to show what's right.
+
+320
+00:31:47,520 --> 00:31:51,800
+Philosophers are still doing it.
+
+321
+00:31:52,119 --> 00:32:02,600
+They want everybody to see that there's one right way of thinking and one right way of acting and at least a certain level of abstraction.
+
+322
+00:32:02,600 --> 00:32:16,359
+The people you might hear about in philosophy courses is John Rawls, who has a theory of justice, just like Plato had a theory of justice, and he thinks it's true for everybody that that's what justice is and what you have to do to be just.
+
+323
+00:32:16,359 --> 00:32:19,320
+And there's Habermas in Germany, Jürgen Habermas.
+
+324
+00:32:19,320 --> 00:32:26,200
+I won't write them on the board either, Rawls or Habermas, because they're contemporary people who are not going to yet.
+
+325
+00:32:26,199 --> 00:32:29,400
+You don't want to talk about contemporary people yet.
+
+326
+00:32:29,400 --> 00:32:38,520
+But in any case, there is a kind of attempt to show rationally what's right.
+
+327
+00:32:38,520 --> 00:32:43,719
+And then there are the people who say, no, you can't do that, that the revelation tells us what's right.
+
+328
+00:32:43,719 --> 00:32:45,639
+You have to trust in God's word.
+
+329
+00:32:45,639 --> 00:32:47,480
+Everybody's got to obey it.
+
+330
+00:32:47,480 --> 00:32:49,080
+That's the Christian right.
+
+331
+00:32:49,080 --> 00:33:00,920
+So you've got the sort of rational justice left who thinks they've got proof and the Christian revelation right and who think they've got some evidence for their view.
+
+332
+00:33:00,920 --> 00:33:03,720
+And there's this clash between them.
+
+333
+00:33:03,719 --> 00:33:08,440
+And I think what really happens is they cancel each other out for lots of people.
+
+334
+00:33:08,440 --> 00:33:20,360
+If rational ethics doesn't motivate you, doesn't seem to have any grip on you, just proving what's right, then it looks like that's not going to do.
+
+335
+00:33:20,360 --> 00:33:25,080
+But if you want some kind of ethics, it does have a grip on you, it looks like fanaticism.
+
+336
+00:33:25,480 --> 00:33:30,119
+There's something that you believe you should do, whether you can make any rational sense of it or not.
+
+337
+00:33:30,119 --> 00:33:37,840
+And you end up, if this story is right, with no moral standards, with the view that everybody should just do their own thing.
+
+338
+00:33:38,639 --> 00:33:42,079
+A kind of laid-back tolerance.
+
+339
+00:33:44,239 --> 00:33:50,240
+The true, the sense behind, I think, the phrase, whatever.
+
+340
+00:33:50,239 --> 00:33:57,520
+I mean, you get, that's the sign that the ethical system has crashed somehow.
+
+341
+00:33:57,839 --> 00:34:01,759
+So, and now in metaphysics, that was ethics.
+
+342
+00:34:01,759 --> 00:34:04,000
+Ethics ends up in whatever, I think.
+
+343
+00:34:04,000 --> 00:34:05,920
+And now, metaphysics.
+
+344
+00:34:05,920 --> 00:34:16,159
+Well, you wouldn't think that something like the ultimate reality really impinges on people's lives and that they take either Greek or Christian sides.
+
+345
+00:34:16,159 --> 00:34:17,040
+But they do.
+
+346
+00:34:17,040 --> 00:34:30,560
+In the 70s, when I came here, people were taking LSD and engaging in meditation and were trying to have peak experiences of direct confrontation and contemplation of ultimate reality.
+
+347
+00:34:30,880 --> 00:34:44,400
+Huxley wrote a book about how drugs open the doors of perception and get rid of all your concepts and make you get you face to face with, well, what he thought was ultimate reality.
+
+348
+00:34:44,400 --> 00:34:58,560
+And Timothy Leary was saying, tune in and drop out, meaning don't get involved in politics, don't get involved in history and tradition, don't get committed to anything, just have as many peak experiences as possible.
+
+349
+00:34:58,880 --> 00:35:01,600
+And in other verse, that's all Greek.
+
+350
+00:35:01,600 --> 00:35:21,319
+I think, although it got taken up in the Judeo-Christian tradition, as all Greek things did, into a kind of mystical, contemplative version of relation to God, it's a long way from the covenant with God where you're supposed to do something in the world that is totally dedicated to Him.
+
+351
+00:35:21,880 --> 00:35:30,280
+So, and then another aspect of the Greek was the human potential movement or the self-realization people.
+
+352
+00:35:30,279 --> 00:35:38,280
+Remember, the Greeks thought there's nothing new, that there's no radical rebirth and retransform, or transform, there's no radical rebirth.
+
+353
+00:35:38,279 --> 00:35:48,040
+There's just sort of the pattern that was implicit in the universe or in your life can become explicit, but there's nothing new.
+
+354
+00:35:48,040 --> 00:35:50,360
+So, that's one way you could go.
+
+355
+00:35:50,360 --> 00:35:52,280
+That would be the Greek influence.
+
+356
+00:35:52,279 --> 00:36:02,600
+The Christian influence is commitment, for instance, taking a stand and being ready to die for civil rights or against the Vietnam War.
+
+357
+00:36:04,440 --> 00:36:06,520
+Those are the things that really make a difference.
+
+358
+00:36:06,520 --> 00:36:08,600
+Commitment is what matters.
+
+359
+00:36:09,319 --> 00:36:17,959
+And in personal lives, instead of the self-realization, there was a movement of personal transformation.
+
+360
+00:36:19,400 --> 00:36:20,279
+That was S.
+
+361
+00:36:20,279 --> 00:36:21,479
+I don't know if any of you remember.
+
+362
+00:36:21,480 --> 00:36:26,439
+That's now sort of reborn as the forum, which some of you might have heard of.
+
+363
+00:36:26,440 --> 00:36:37,799
+But these are sort of ways that people think that it sort of replaces Christian being reborn, but it's a kind of being reborn.
+
+364
+00:36:38,679 --> 00:36:50,519
+They think that these forms of training, as the S people used to call it, can give people radical transformation experiences.
+
+365
+00:36:52,440 --> 00:36:57,399
+But so, what do you people do?
+
+366
+00:36:57,719 --> 00:36:59,079
+Well, I don't know what they do.
+
+367
+00:36:59,080 --> 00:37:00,679
+I mean, partly you know what they do.
+
+368
+00:37:00,679 --> 00:37:03,520
+I mean, they don't do either of these things.
+
+369
+00:37:03,520 --> 00:37:09,119
+They don't go around dropping a lot of acid and having mystical experiences of ultimate reality anymore.
+
+370
+00:37:09,119 --> 00:37:14,960
+And I don't think they go to these sort of workshops and become reborn anymore either.
+
+371
+00:37:14,960 --> 00:37:16,560
+Or they oscillate back and forth.
+
+372
+00:37:16,560 --> 00:37:20,479
+Maybe they go to workshops and are reborn on some days and drop acid on other days.
+
+373
+00:37:20,480 --> 00:37:21,760
+I'm not sure.
+
+374
+00:37:21,759 --> 00:37:37,280
+But whatever it is, Nietzsche would call it a kind of nihilism because there seems to be no guiding understanding, no principle that you can sort of really live in terms of and hold on to.
+
+375
+00:37:37,279 --> 00:37:38,479
+I said, stop about that.
+
+376
+00:37:38,480 --> 00:37:40,159
+I'm going to get to Kierkegaard.
+
+377
+00:37:40,159 --> 00:37:46,320
+But before I do, there must be some reaction to all of this I've been talking too long.
+
+378
+00:37:46,639 --> 00:37:53,760
+Anybody think that I have messed up the story or could tell it better or anything?
+
+379
+00:37:54,639 --> 00:38:00,639
+Again, it's not something I, you know, I expect that you have to have an opinion about since you haven't done the reading and there isn't any reading.
+
+380
+00:38:00,639 --> 00:38:02,319
+I'm making it up as I go along.
+
+381
+00:38:02,319 --> 00:38:02,879
+Go ahead.
+
+382
+00:38:18,880 --> 00:38:20,720
+Ah, I'm going to think about that.
+
+383
+00:38:20,719 --> 00:38:25,280
+Not for long, because we can wait till we get to Nietzsche, but I just want to know what I think about it.
+
+384
+00:38:34,480 --> 00:38:36,479
+Well, yes, I see now.
+
+385
+00:38:36,480 --> 00:38:37,360
+It's all right.
+
+386
+00:38:37,839 --> 00:38:39,920
+It's not the Platonic tradition.
+
+387
+00:38:39,920 --> 00:38:41,759
+It merged with the Platonic tradition.
+
+388
+00:38:41,759 --> 00:38:44,880
+But when he says Greek tradition, he probably means the Homeric Greeks.
+
+389
+00:38:44,880 --> 00:38:58,760
+He thought the Homeric Greeks had something very interesting and important, which we'll get to, which the Judeo-Christian merger with the Platonic Greeks wiped out.
+
+390
+00:39:00,520 --> 00:39:03,880
+But let's not say more about that now.
+
+391
+00:39:03,880 --> 00:39:08,520
+But I think that's the right thing to say, but I'd have to see the context to be sure.
+
+392
+00:39:08,920 --> 00:39:09,639
+Yeah.
+
+393
+00:39:15,480 --> 00:39:23,080
+You said that I think the sort of like state would believe that there's a kind of teaching experience in consequence.
+
+394
+00:39:23,319 --> 00:39:27,559
+And what's about the apathetic component of that?
+
+395
+00:39:29,480 --> 00:39:41,479
+I guess coming from this sort of perspective of this generation, there's a feeling of like there's nothing you can do to stop them and like no demonstration will do anything.
+
+396
+00:39:41,480 --> 00:39:48,679
+So there's like the Christian idea of like, okay, well, you have to, you know, blog about it or something.
+
+397
+00:39:48,679 --> 00:39:55,560
+And then there's the like Greek idea about one should, you know, just smoke a lot of colour or whatever.
+
+398
+00:39:56,360 --> 00:40:01,480
+I'm just wondering, like, what do you think of that apathetic, like somehow received?
+
+399
+00:40:01,799 --> 00:40:11,560
+This apathetic component that you're talking about, I think that's what you get when you when you can't, when each of these undermines the other, and that's the sort of the whatever condition.
+
+400
+00:40:11,560 --> 00:40:24,119
+And that's right, apathetic, I think, but I call sort of laid-back tolerance, where everybody just thinks that everybody has a right to have their own subjective experiences, and there's no other guidelines at all.
+
+401
+00:40:24,520 --> 00:40:26,280
+That's what I think is where we're at.
+
+402
+00:40:26,279 --> 00:40:32,720
+And that's what I think Kierkegaard or Dostoevsky or Nietzsche could save us from, each in his own way.
+
+403
+00:40:32,279 --> 00:40:33,999
+And that's what we're going to hear about.
+
+404
+00:40:34,319 --> 00:40:49,760
+And by the end of the course, I'm going to ask you all, because I think, after all, you're the ones who know where the culture is at, which, if any, of the three people we read gets you out of this apathy, as you call it.
+
+405
+00:40:49,759 --> 00:40:53,040
+And we'll see what you think about that.
+
+406
+00:40:54,000 --> 00:41:02,800
+Okay, I'm ready to go on because I would like to get some Kierkegaard down before, so that you won't despair of not being able to understand a thing.
+
+407
+00:41:04,319 --> 00:41:07,840
+So, how does Kierkegaard put the two traditions together?
+
+408
+00:41:08,159 --> 00:41:15,440
+Well, he tries, and without canceling them out, but so they support each other.
+
+409
+00:41:15,440 --> 00:41:21,199
+That's the challenge that no philosopher and no Christian has done.
+
+410
+00:41:21,839 --> 00:41:28,480
+And Kierkegaard says he's going to, what he says, describe the movements that the night of faith makes.
+
+411
+00:41:28,480 --> 00:41:34,800
+That means describe the way of life of someone with a certain style of life.
+
+412
+00:41:34,880 --> 00:41:37,839
+They're all in movements of what he says, the night of resignation.
+
+413
+00:41:37,839 --> 00:41:39,200
+That's one way of living.
+
+414
+00:41:39,199 --> 00:41:41,440
+The night of faith is another way of living.
+
+415
+00:41:41,440 --> 00:42:03,920
+He's going to try to rank various ways of living and show you that the existentialist, let's call it, way of living is going to give us not the worst of both of the worlds, but the best of both worlds by combining the Greek and the Hebrew, sorry, yeah, in a positive way.
+
+416
+00:42:03,920 --> 00:42:08,479
+But you can't justify them in a positive way, or you're back in philosophy.
+
+417
+00:42:08,480 --> 00:42:11,360
+And he certainly wants to break with philosophy.
+
+418
+00:42:11,400 --> 00:42:16,159
+But, and how are you going to do that and write, you know, intelligible stuff?
+
+419
+00:42:16,480 --> 00:42:20,520
+Well, instead of recognizing the two traditions, he makes two moves.
+
+420
+00:42:20,839 --> 00:42:27,320
+One I just said, that he's going to put them in some kind of order in which he subordinates them and ranks them.
+
+421
+00:42:27,319 --> 00:42:45,400
+And he's got a good, high place for philosophy, but an even higher place for his version of Christianity, which is a very different version than any that anybody had before, and doesn't have a.
+
+422
+00:42:45,400 --> 00:42:49,880
+I want to see how to put this.
+
+423
+00:42:50,199 --> 00:42:54,920
+And he doesn't want to say that somehow thinking is the highest.
+
+424
+00:42:54,920 --> 00:43:00,360
+In fact, he thinks finally that involvement is higher than detachment.
+
+425
+00:43:00,360 --> 00:43:03,000
+And so he's going to be an existentialist.
+
+426
+00:43:03,000 --> 00:43:05,480
+He's going to be on the Judeo-Christian side.
+
+427
+00:43:05,480 --> 00:43:09,639
+But now, how do you express that in philosophical terms?
+
+428
+00:43:09,639 --> 00:43:14,200
+Well, remember, I said for philosophers, truth is objectivity.
+
+429
+00:43:14,199 --> 00:43:18,360
+Well, Kierkegaard's got a slogan: truth is subjectivity.
+
+430
+00:43:18,520 --> 00:43:29,800
+You can see what he's getting at if you think that, remember, truth for the Judeo-Christians, for the Hebrews already, is total commitment to God.
+
+431
+00:43:29,799 --> 00:43:36,520
+So Kierkegaard's going to have to redefine subjectivity so that it doesn't mean just your whims.
+
+432
+00:43:36,920 --> 00:43:40,679
+Well, see, I'm getting ahead of the story, but I just sort of can't resist saying.
+
+433
+00:43:40,920 --> 00:43:51,560
+For Kierkegaard rankings, there's subjectivity so-called, as he calls it, which is what you believe and desire in your superstitions and what you grew up believing and so forth.
+
+434
+00:43:51,560 --> 00:43:58,840
+That's all got to go and be criticized by objectivity, which is philosophy.
+
+435
+00:43:58,839 --> 00:44:09,119
+But above that, then you're open to something higher than either of those, which he calls, which he calls subjectivity, genuine subjectivity.
+
+436
+00:44:09,279 --> 00:44:15,040
+Genuine subjectivity is a commitment to somebody or something.
+
+437
+00:44:15,199 --> 00:44:20,320
+And he has lots to say about that, which we spend a lot of time on in a little while.
+
+438
+00:44:22,639 --> 00:44:28,400
+That kind of commitment is what he has in mind when he says truth is subjectivity.
+
+439
+00:44:28,719 --> 00:44:50,479
+Maybe you should think in terms of romantic love, but if Dante thinks that when Dante experiences Beatrice as the savior in his life and commits himself completely to her, then that's what Kierkegaard means when he says truth is subjectivity.
+
+440
+00:44:50,480 --> 00:44:54,399
+It's this higher personal kind of experience.
+
+441
+00:44:54,560 --> 00:44:55,520
+Don't worry about that.
+
+442
+00:44:55,520 --> 00:44:57,519
+I'll get that a lot clearer in a little while.
+
+443
+00:44:57,520 --> 00:44:59,359
+I'm going to give you the three slogans.
+
+444
+00:44:59,360 --> 00:45:01,360
+Truth is subjectivity.
+
+445
+00:45:01,679 --> 00:45:04,880
+The individual is higher than the universal.
+
+446
+00:45:05,839 --> 00:45:12,400
+You'll see plenty of that next week when we read, or in the week after next, when we read the problems.
+
+447
+00:45:12,880 --> 00:45:19,359
+The problem that Abraham has is that in his life, the individual is higher than the universal.
+
+448
+00:45:19,360 --> 00:45:25,040
+And that's got all to do with this business of conformity and being an exception, and is that moral and all that.
+
+449
+00:45:25,040 --> 00:45:29,680
+And finally, and this is a really weird one, but he'll make it work.
+
+450
+00:45:29,679 --> 00:45:32,799
+Eternity is only possible in time.
+
+451
+00:45:33,279 --> 00:45:34,879
+I'm quoting Kierkegaard on all these.
+
+452
+00:45:35,440 --> 00:45:37,199
+These are all weird slogans.
+
+453
+00:45:37,199 --> 00:45:48,200
+He's taking the philosophical words and saying things which make everything different, which don't give unusual meaning to any of these philosophical terms.
+
+454
+00:45:47,440 --> 00:45:53,639
+So he's redefining truth and subjectivity, the individual higher than the universal.
+
+455
+00:45:53,799 --> 00:45:57,080
+I mean, he's not redefining the terms but their relation.
+
+456
+00:45:57,080 --> 00:46:02,199
+And he's redefining eternity so that eternity is something that happens in time.
+
+457
+00:46:02,520 --> 00:46:04,359
+And I can't explain all that yet.
+
+458
+00:46:04,360 --> 00:46:17,320
+But the idea is when he's going to use philosophical language, so to speak, against itself to express the Christian revelation.
+
+459
+00:46:17,319 --> 00:46:18,999
+But that means he can talk.
+
+460
+00:46:19,319 --> 00:46:24,600
+We can understand the way he's redefining these words is not completely arbitrary.
+
+461
+00:46:24,600 --> 00:46:31,159
+And therefore, he's got a way to get people to think existentially in his language.
+
+462
+00:46:31,159 --> 00:46:46,119
+That is, to think the philosophical, to think the Judeo-Christian revelation by using these philosophical terms in a new way, making them all seem completely paradoxical.
+
+463
+00:46:46,119 --> 00:46:54,440
+That's how he's going to capture instead of annihilate that tradition he's trying to express.
+
+464
+00:46:54,440 --> 00:46:55,879
+Okay, that's still general.
+
+465
+00:46:55,880 --> 00:46:58,360
+Now, finally, let's get to the book.
+
+466
+00:46:59,799 --> 00:47:03,320
+So here we go, for the last 20 minutes, anyway.
+
+467
+00:47:03,319 --> 00:47:05,240
+We're going to read Fear and Trembling.
+
+468
+00:47:05,239 --> 00:47:07,960
+I repeat that it's the hardest book in the course.
+
+469
+00:47:07,960 --> 00:47:10,519
+I mean, that keeps you from panicking.
+
+470
+00:47:10,839 --> 00:47:12,600
+But it is hard, all right?
+
+471
+00:47:12,600 --> 00:47:14,520
+And it's such a peculiar book.
+
+472
+00:47:14,520 --> 00:47:18,920
+And I'm going to tell you one part of why it's so hard is what it is.
+
+473
+00:47:18,920 --> 00:47:27,879
+It's purposely sort of playing around in this complicated situation.
+
+474
+00:47:28,440 --> 00:47:30,520
+I'm looking for the title page.
+
+475
+00:47:30,520 --> 00:47:33,759
+The title page, the really right title page.
+
+476
+00:47:35,520 --> 00:47:37,040
+Where did they put it?
+
+477
+00:47:32,199 --> 00:47:38,639
+Here it is, right at the front.
+
+478
+00:47:32,440 --> 00:47:39,279
+No wonder.
+
+479
+00:47:39,759 --> 00:47:40,719
+Why not put it there?
+
+480
+00:47:40,719 --> 00:47:42,080
+On the first page.
+
+481
+00:47:42,080 --> 00:47:48,080
+So, Fear and Trembling, a dialectical lyric by Johannes de Salentio.
+
+482
+00:47:48,080 --> 00:47:50,239
+That's already a mouthful.
+
+483
+00:47:50,239 --> 00:47:55,680
+That it took me years to teach me Kierkegaard before I even noticed what a weird thing this is.
+
+484
+00:47:55,679 --> 00:47:59,040
+Because dialectical means philosophical.
+
+485
+00:47:59,040 --> 00:48:02,080
+Plato, really Socrates started dialectic.
+
+486
+00:48:02,080 --> 00:48:09,119
+It means giving, making general statements, thinking of counterexamples, correcting the generalization, and so forth.
+
+487
+00:48:09,119 --> 00:48:11,520
+And lyrics, what are lyrics?
+
+488
+00:48:11,520 --> 00:48:14,159
+Well, what is lyrical poetry?
+
+489
+00:48:14,159 --> 00:48:18,720
+Lyrical poetry is the expression of the profoundest feelings.
+
+490
+00:48:18,719 --> 00:48:25,360
+So a dialectical lyric is exactly the same kind of contradiction we've been talking about.
+
+491
+00:48:25,360 --> 00:48:32,320
+It's a philosophical treatment, somehow, of the most personal experiences.
+
+492
+00:48:32,319 --> 00:48:34,000
+That's what the book is about.
+
+493
+00:48:34,000 --> 00:48:38,079
+That's hard enough, but why by Johannes de Salentio?
+
+494
+00:48:38,080 --> 00:48:49,360
+Well, partly because, as I said, he wants to write always from the point of view that will get you to see something as it looks to somebody living that kind of life.
+
+495
+00:48:49,360 --> 00:48:55,520
+But here, it's really not that mainly, but a further amazing complication.
+
+496
+00:48:55,520 --> 00:48:59,040
+Namely, this is a secret message, this whole book.
+
+497
+00:48:59,759 --> 00:49:02,239
+You may have read enough of the introduction to know.
+
+498
+00:49:02,239 --> 00:49:09,359
+Kierkegaard in 1850, Denmark, saw this girl, this young, yes, she was pretty young.
+
+499
+00:49:09,360 --> 00:49:10,159
+I mean, really a girl.
+
+500
+00:49:10,159 --> 00:49:12,960
+I mean, I think she was about 16, maybe.
+
+501
+00:49:12,960 --> 00:49:21,399
+Saw this woman or girl whom he loved at first sight while he was from the terrace of the cafe where he hung out and read and wrote.
+
+502
+00:49:22,040 --> 00:49:26,839
+After a few, I don't know, months of this, I haven't followed this gossip in much detail.
+
+503
+00:49:26,839 --> 00:49:31,959
+There are endless books written, starting by Kierkegaard, who's written endless stories about this.
+
+504
+00:49:32,199 --> 00:49:38,520
+He finally runs up and proposes to Regina, and they actually get engaged.
+
+505
+00:49:38,520 --> 00:49:46,040
+And then he realizes that somehow, and then more books of gossip, because nobody knows quite why, he can't marry Regina.
+
+506
+00:49:46,040 --> 00:49:47,080
+What's the problem?
+
+507
+00:49:47,880 --> 00:49:48,519
+Who knows?
+
+508
+00:49:48,520 --> 00:49:55,159
+He has a thorn in his flesh, he says in his journals, and then he tears out some pages where he tells us what the thorn was.
+
+509
+00:49:56,360 --> 00:49:58,519
+I have theories about it, which I'll come back to.
+
+510
+00:49:58,520 --> 00:50:05,240
+But the main thing is, he breaks his engagement with Regina, which is a big deal in 1850 Denmark.
+
+511
+00:50:05,560 --> 00:50:07,560
+So he goes into total shock.
+
+512
+00:50:07,560 --> 00:50:12,840
+He goes into total shock and runs off to Berlin and writes three books, of which this is one of them.
+
+513
+00:50:12,839 --> 00:50:17,720
+All of them, his sort of attempt to get a grip on what has happened.
+
+514
+00:50:17,719 --> 00:50:19,719
+And this is a book to Regina.
+
+515
+00:50:19,719 --> 00:50:33,159
+And Kierkegaard is trying to tell her that he's a knight of resignation, that he's trying to be a knight of faith, and that she should wait and not get married to anybody else, because somehow they'll get back together again anyway.
+
+516
+00:50:33,159 --> 00:50:38,999
+And then she married some bourgeois named Schlegel, and Kierkegaard went into more shock and wrote more books.
+
+517
+00:50:41,000 --> 00:50:47,080
+And the whole relationship seems to me pathetic.
+
+518
+00:50:47,080 --> 00:50:55,719
+But what's amazing about philosophers is out of these completely sick experiences, they find deep, deep truths.
+
+519
+00:50:55,719 --> 00:51:10,319
+Kierkegaard has a deeper understanding of romantic love, and through it, of the Judeo-Christian tradition, out of this sordid mess of getting engaged to Regina and breaking the engagement, but not really wanting her to marry anybody else, and blah, blah, blah.
+
+520
+00:51:10,319 --> 00:51:13,920
+He got this very, very, very important book.
+
+521
+00:51:13,920 --> 00:51:17,760
+The other two are harder to understand than this, if you could believe it.
+
+522
+00:51:17,759 --> 00:51:20,000
+Okay, so now what is he going to do here?
+
+523
+00:51:20,639 --> 00:51:24,800
+He's going to write a book in which he thinks about his profoundest experience.
+
+524
+00:51:24,799 --> 00:51:32,319
+He's going to write it as a code that he's going to write it for her, and only she'll understand it.
+
+525
+00:51:32,319 --> 00:51:37,679
+That's why on page 39, where you get another version of the title page, he has this little thing.
+
+526
+00:51:37,679 --> 00:51:43,600
+What Tarquin the Proud said in his garden with the poppy blossoms was understood by the sun, but not by the messenger.
+
+527
+00:51:43,600 --> 00:51:45,439
+That's just a question about codes.
+
+528
+00:51:45,440 --> 00:51:56,880
+The guy, Tarquin, cuts, knocks off the heads of the poppies as he's walking along with the messenger, and his followers understand that that needs to kill the messenger.
+
+529
+00:51:56,880 --> 00:51:59,040
+But it's not that that's important.
+
+530
+00:51:59,040 --> 00:51:59,600
+It's important.
+
+531
+00:51:59,600 --> 00:52:01,999
+That little quote just says it's code.
+
+532
+00:52:03,360 --> 00:52:06,079
+Only the person for whom it's meant will understand it.
+
+533
+00:52:06,400 --> 00:52:12,000
+And now, so let's see.
+
+534
+00:52:12,000 --> 00:52:13,840
+So he's keeping silent, yeah.
+
+535
+00:52:29,360 --> 00:52:32,720
+Okay, so let's now look.
+
+536
+00:52:32,719 --> 00:52:44,920
+Remember, I said that every existentialist has this one sort of basic revealing experience, and that they're writing out of this experience, and they're trying to understand the implications of this experience.
+
+537
+00:52:44,920 --> 00:52:48,439
+And they're not going to tell you anywhere exactly what it is.
+
+538
+00:52:48,440 --> 00:52:51,960
+It's sort of too basic and too pervasive.
+
+539
+00:52:52,199 --> 00:53:10,920
+So, Kierkegaard's way of dealing with this, the experience with Regina, is to make it a story about something of which romantic love is just an example, but which I will call sort of unconditional commitment.
+
+540
+00:53:11,239 --> 00:53:21,880
+And what an unconditional commitment is and what it requires, and so forth, is what this whole book is about.
+
+541
+00:53:22,520 --> 00:53:31,400
+And it's Abraham's got an unconditional commitment to becoming the father of the faith, it turns out.
+
+542
+00:53:31,400 --> 00:53:39,399
+And the question is, and he's asked to kill Isaac, which is the way to get to be the father of the faith.
+
+543
+00:53:39,400 --> 00:53:41,880
+So, Abraham's got a big problem.
+
+544
+00:53:42,199 --> 00:53:47,319
+It's not a problem, as it says on the back of the, not of the translation.
+
+545
+00:53:47,319 --> 00:53:48,440
+I mean, there's the same chance.
+
+546
+00:53:48,520 --> 00:53:52,199
+No, it isn't on the back of your book, I don't think.
+
+547
+00:53:52,279 --> 00:53:53,319
+See, I've got your book.
+
+548
+00:53:53,480 --> 00:53:54,999
+But it's the same translation.
+
+549
+00:53:55,000 --> 00:53:56,119
+But let me see.
+
+550
+00:53:56,119 --> 00:53:57,639
+Does it say it?
+
+551
+00:54:01,480 --> 00:54:03,080
+No, it's better here.
+
+552
+00:54:03,480 --> 00:54:14,680
+It talks on the back of mine, older one, Abraham's unreserved submission to God's will provides the focus for this religious and ethical polemic.
+
+553
+00:54:14,679 --> 00:54:22,119
+It's true that Abraham is told that he has to sacrifice Isaac, and that gives him a lot of problems.
+
+554
+00:54:22,119 --> 00:54:32,480
+But it wouldn't give him all his problems if Isaac wasn't the absolute commitment for Abraham in the sense that it's Abraham understands himself as becoming the father of the faith.
+
+555
+00:54:32,040 --> 00:54:36,319
+God has promised him that, and Isaac is the way he's going to do it.
+
+556
+00:54:36,639 --> 00:54:58,800
+So, the problem is obeying God means somehow losing that object which makes it possible for you to give the meaning to your life and give you your identity and being able to lose that object and somehow still keep it.
+
+557
+00:54:58,960 --> 00:55:10,879
+Recognize that's why this is the Regina story turned around into the God's relation to Isaac is now like Kierkegaard's relation to Regina, and God's got to sacrifice Isaac.
+
+558
+00:55:10,880 --> 00:55:17,920
+Well, Kierkegaard's got to sacrifice Regina, and yet somehow Kierkegaard thinks that he's going to get her back, and that's just crazy.
+
+559
+00:55:17,920 --> 00:55:27,840
+But Abraham also somehow knows that he's going to sacrifice Isaac, and yet knows that he's not going to lose Isaac.
+
+560
+00:55:27,839 --> 00:55:32,480
+And that's just so weird that it takes a lot of discussion.
+
+561
+00:55:32,480 --> 00:55:47,680
+But what I want to start with, the thing to do when you're reading a book like this is find out where the basic experience is that everything is based on.
+
+562
+00:55:54,000 --> 00:55:57,040
+Okay, it's on the bottom of page 70.
+
+563
+00:55:57,040 --> 00:55:58,639
+And put in a funny way.
+
+564
+00:56:05,759 --> 00:56:10,959
+He's talking about nights of faith and nights of infinite resignation, but don't worry about that yet.
+
+565
+00:56:10,960 --> 00:56:14,080
+The first thing you got to understand is what the experience is.
+
+566
+00:56:14,080 --> 00:56:20,520
+And the experience is starting three lines from the bottom of page 70.
+
+567
+00:56:17,040 --> 00:56:23,320
+A young lad falls in love with a princess.
+
+568
+00:56:23,639 --> 00:56:27,319
+The content of his whole life lies in this love.
+
+569
+00:56:27,639 --> 00:56:29,639
+That's the crucial line already.
+
+570
+00:56:30,119 --> 00:56:32,360
+That's the unconditional commitment.
+
+571
+00:56:32,520 --> 00:56:38,920
+He gets his whole identity, what's important to him and what isn't, in terms of this relationship.
+
+572
+00:56:39,480 --> 00:56:41,960
+I sometimes call it a defining relationship.
+
+573
+00:56:41,960 --> 00:56:52,199
+The unconditional commitment is a defining relationship in that it's some commitment to somebody or some cause, we'll see in a minute.
+
+574
+00:56:52,199 --> 00:56:59,639
+It doesn't have to be a person, but something that gives you your understanding of who you are, what matters in your life.
+
+575
+00:56:59,639 --> 00:57:01,159
+So let's go on.
+
+576
+00:57:01,159 --> 00:57:03,399
+It turns out that it's impossible.
+
+577
+00:57:03,400 --> 00:57:05,320
+It can't be brought to fruition.
+
+578
+00:57:05,319 --> 00:57:15,720
+That means that something always stands in the way of this kind of unconditional commitment.
+
+579
+00:57:15,719 --> 00:57:19,559
+There's something basically wrong with it, to have it.
+
+580
+00:57:19,880 --> 00:57:21,800
+Now, can you see what that is?
+
+581
+00:57:21,799 --> 00:57:34,999
+Why would it be somehow something you might say a kind of terrible mistake to have a defining commitment to a particular person or a particular cause?
+
+582
+00:57:35,319 --> 00:57:37,000
+What could happen?
+
+583
+00:57:37,639 --> 00:57:41,159
+They give you the whole meaning of your life and your world.
+
+584
+00:57:42,440 --> 00:57:44,679
+Well, they might die.
+
+585
+00:57:44,679 --> 00:57:46,200
+They might leave.
+
+586
+00:57:46,920 --> 00:57:49,879
+They might love somebody else, or your cause.
+
+587
+00:57:50,360 --> 00:57:53,480
+Let's generalize it right away to another.
+
+588
+00:57:53,560 --> 00:57:54,999
+Because it doesn't have to be a person.
+
+589
+00:57:55,560 --> 00:58:05,759
+If this was only about romantic love, it would be a lot less interesting and a lot less general and a lot less basic for our history in the West than he wants it to be.
+
+590
+00:58:02,440 --> 00:58:08,639
+At the bottom of 71, you get a footnote.
+
+591
+00:58:09,279 --> 00:58:20,959
+Of course, any other interest whatsoever in which an individual concentrates the whole of life's reality can, when it proves unrealizability, give rise to resignation and so forth.
+
+592
+00:58:20,960 --> 00:58:22,159
+Never mind the rest.
+
+593
+00:58:22,159 --> 00:58:24,080
+The point is anything.
+
+594
+00:58:24,080 --> 00:58:40,320
+So take, I mean, just to take another example, very timely, Martin Luther King's commitment to the justice for the black people requires that when he has his peace marches, that the white people come out and march along.
+
+595
+00:58:40,319 --> 00:58:45,040
+If they didn't, at some point, the whole mission would just fail.
+
+596
+00:58:45,040 --> 00:58:49,679
+And he would be lost as far as having a understanding.
+
+597
+00:58:50,560 --> 00:58:53,200
+This would be like losing the person you love.
+
+598
+00:58:53,199 --> 00:58:56,319
+Where would he be if that was the whole meaning of his life?
+
+599
+00:58:56,319 --> 00:59:08,159
+If that was in Kierkegaard jargon, the content of his whole life was tied up in the peace movement, not peace movement, justice for the black movement.
+
+600
+00:59:08,159 --> 00:59:09,919
+What's the slogan?
+
+601
+00:59:10,080 --> 00:59:11,439
+The civil rights movement.
+
+602
+00:59:11,839 --> 00:59:12,480
+Good.
+
+603
+00:59:12,480 --> 00:59:12,959
+Okay.
+
+604
+00:59:14,159 --> 00:59:17,919
+And you can lose with movements.
+
+605
+00:59:17,920 --> 00:59:18,639
+You can do something.
+
+606
+00:59:18,639 --> 00:59:24,159
+I don't know if you can do with people, it just occurs to me, but with movements, you can lose by winning.
+
+607
+00:59:24,159 --> 00:59:35,320
+That is, as long as every day when Martin Luther King wakes up, in his world, it's clear what's relevant and irrelevant, what's important and not, what he should do and not do.
+
+608
+00:59:35,319 --> 00:59:39,680
+It's all always goes back to what is going to help the civil rights movement.
+
+609
+00:59:39,679 --> 00:59:43,040
+And it doesn't matter whether it risks his life or not.
+
+610
+00:59:43,040 --> 00:59:49,080
+But once he's got the civil rights movement sort of surely marching along, he's seen, you know, he's been on the mountain.
+
+611
+00:59:49,400 --> 00:59:52,519
+I've just been hearing all these wonderful talks.
+
+612
+00:59:47,199 --> 00:59:57,880
+He's been on the mountain, he's seen the promised land, and he's sort of achieved his goal.
+
+613
+00:59:57,880 --> 01:00:05,080
+He kind of lost, and he then turns to be against the Vietnam War, but that doesn't seem like his really his vocation.
+
+614
+01:00:05,080 --> 01:00:07,879
+His vocation was the civil rights movement.
+
+615
+01:00:08,119 --> 01:00:12,920
+The defining commitment has got to give you something to do.
+
+616
+01:00:12,920 --> 01:00:17,080
+Now let's use Kierkegaard jargon in the finite and the temporal.
+
+617
+01:00:17,080 --> 01:00:25,399
+That is, every moment you've always know what specific thing is important to do and not.
+
+618
+01:00:25,719 --> 01:00:32,119
+And if you lose the civil rights movement, you will not know who you are and what to do, and you will be in grief.
+
+619
+01:00:32,119 --> 01:00:37,080
+And in a certain peculiar way, if you win it, you won't know who you are, you'll be in grief.
+
+620
+01:00:37,080 --> 01:00:43,720
+That's not the characteristic of romantic love, but that's the characteristic of what Kierkegaard really.
+
+621
+01:00:43,719 --> 01:00:45,639
+See, this is what I'm trying to tell you.
+
+622
+01:00:45,639 --> 01:01:06,920
+I mean, out of this sorted affair with Regina comes the first deep understanding of the relation of the lad and the princess, and even more, this deep understanding of being unconditionally committed to any finite, specific, vulnerable something or other.
+
+623
+01:01:07,239 --> 01:01:09,639
+And that's what he's really interested in.
+
+624
+01:01:09,960 --> 01:01:14,439
+And all the puzzles of the book come from how do you deal with it?
+
+625
+01:01:14,839 --> 01:01:17,879
+But I interrupted something else I was saying, so let me go back to it.
+
+626
+01:01:17,880 --> 01:01:27,800
+So, what's wrong with having a commitment to a person or a cause, which gives you your identity, tells you who you are and what to do?
+
+627
+01:01:29,000 --> 01:01:30,680
+What's wrong with it?
+
+628
+01:01:31,319 --> 01:01:31,799
+Yeah.
+
+629
+01:01:46,960 --> 01:01:48,000
+Well.
+
+630
+01:01:54,400 --> 01:01:55,040
+Okay.
+
+631
+01:01:55,839 --> 01:02:09,279
+I want to put that, but that's not wrong at all, but I want to put it aside till later, because it seems to me that's going to come up under the ethical issue about how philosophy has to play a role in this to keep this from becoming an obsession.
+
+632
+01:02:09,279 --> 01:02:18,559
+To keep this, he talks about it, he wants it not to be fanatical, not to be, and yet you're ready to die for it, and how can it be not fanatical?
+
+633
+01:02:18,560 --> 01:02:20,000
+Well, we're going to get to that.
+
+634
+01:02:20,000 --> 01:02:26,720
+But there's something before that, which is, and I'm not, you all see it so obviously, I think you just aren't saying it.
+
+635
+01:02:26,719 --> 01:02:38,000
+If you put the whole meaning of your life onto somebody or some cause which is finite and temporal, it's fragile.
+
+636
+01:02:38,000 --> 01:02:39,360
+It's vulnerable.
+
+637
+01:02:39,360 --> 01:02:41,440
+And you're completely vulnerable.
+
+638
+01:02:42,319 --> 01:02:50,320
+You're setting yourself up for a meaningless life and grief and no sense of who you are or what to do.
+
+639
+01:02:50,319 --> 01:02:54,880
+Nobody in their right mind would get involved in such a thing.
+
+640
+01:02:54,880 --> 01:03:03,440
+And now, and that's the sense that for everybody, the relationship is, in a certain sense, impossible.
+
+641
+01:03:03,440 --> 01:03:08,639
+It's not just that the lad can't have the princess because he's not of the royal family.
+
+642
+01:03:08,639 --> 01:03:13,920
+It's not with the Kierkegaard can't have Regina for whatever reason, which we never really find out.
+
+643
+01:03:13,920 --> 01:03:23,880
+It's that there's something paradoxical and impossible, he sometimes says, about getting involved in this kind of relationship.
+
+644
+01:03:24,199 --> 01:03:26,839
+And the question is: how is it possible?
+
+645
+01:03:26,839 --> 01:03:34,519
+How can anybody do it once they really have enough imagination and reflection to see what they're getting into?
+
+646
+01:03:34,839 --> 01:03:44,920
+Wouldn't it be better if they, once they were in it, they saw this big risk, and what could they do about it?
+
+647
+01:03:44,920 --> 01:03:46,440
+What could they do?
+
+648
+01:03:46,440 --> 01:03:48,359
+Well, the Knight of Resignation knows what to do.
+
+649
+01:03:48,360 --> 01:03:50,600
+Well, you tell me, what would you do?
+
+650
+01:03:54,440 --> 01:03:56,679
+Kierkegaard says that would be terrible.
+
+651
+01:03:56,679 --> 01:04:03,560
+That would be to become like what he calls the lower natures, like a caterpillar becoming a butterfly.
+
+652
+01:04:03,560 --> 01:04:06,440
+You wouldn't have any sense of who you were.
+
+653
+01:04:06,440 --> 01:04:08,360
+You'd lose your identity.
+
+654
+01:04:10,600 --> 01:04:17,240
+You'd be sort of falling below this sort of capacity people had for this higher meaning.
+
+655
+01:04:17,239 --> 01:04:19,159
+So let's not try that.
+
+656
+01:04:27,319 --> 01:04:35,320
+Ah, well, it would be worse than what they can do, which is not grief, and not giving it up.
+
+657
+01:04:35,319 --> 01:04:36,679
+There's something else.
+
+658
+01:04:36,679 --> 01:04:39,480
+I just want to give you one more term so you'll know what you're doing when you're reading.
+
+659
+01:04:39,560 --> 01:04:40,840
+Then we have to stop.
+
+660
+01:04:41,560 --> 01:04:52,519
+Infinite resignation, the night of infinite resignation, which is what Kierkegaard thinks he's writing from the position of, does something like this.
+
+661
+01:04:52,839 --> 01:05:09,360
+They say, this relationship was the most beautiful, most meaningful thing in my life, and I'm going to stay committed to it, but I'm only going to be committed to the meaning of it, so that I don't need the other person actually around.
+
+662
+01:05:10,000 --> 01:05:14,639
+So I give up in Kierkegaard jargon the finite and the temporal.
+
+663
+01:05:14,639 --> 01:05:25,839
+I resign myself to not having the other person around day by day, but I preserve my relationship in the ideal, as he puts it sometimes.
+
+664
+01:05:25,839 --> 01:05:34,959
+That is, I have this perfect memory of what it means, and I keep that alive and young, as he puts it.
+
+665
+01:05:34,960 --> 01:05:37,440
+He has all kinds of lyrical ways to talk about it.
+
+666
+01:05:37,440 --> 01:05:47,999
+But it's safe because you're invulnerable if it's the meaning of the relation and not the other person that you're defined by.
+
+667
+01:05:48,319 --> 01:05:52,239
+Okay, now all those, I just sort of threw out a lot of the sort of issues and terms.
+
+668
+01:05:52,239 --> 01:05:58,159
+Now, when you read it, you won't be completely lost, I hope, though there's still lots more to get clear about.

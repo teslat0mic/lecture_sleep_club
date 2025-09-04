@@ -1,0 +1,2634 @@
+
+
+
+1
+00:00:00,000 --> 00:00:17,921
+So, what I'm going to do is just try to start off by setting up what I think is the dialectic in this chapter and try to give you a sense of what the phenomenon is that Merlot Fonti is interested in in this chapter.
+
+2
+00:00:17,921 --> 00:00:25,521
+What do you think the two kinds of wrong views are that you can have about how to account for the phenomenon?
+
+3
+00:00:26,001 --> 00:00:36,961
+And then try to start to say something today and hopefully say a little bit more next time about what the right thing is to say about the phenomenology.
+
+4
+00:00:37,601 --> 00:00:45,041
+Bert said that this is probably one of the most important chapters in the book, and I think that's right.
+
+5
+00:00:45,040 --> 00:01:02,080
+I think this is really the chapter where you get what I think of as the essential phenomenon being perceptual experience, the experience of object, one of the most basic things that you can talk about when you're talking about perceptual resilience.
+
+6
+00:01:02,400 --> 00:01:16,400
+And Merlot Fomchy thinks that's a key to the experience of objects, is a phenomenon that he calls right at the beginning of the chapter the phenomenon of perceptual constancy.
+
+7
+00:01:16,400 --> 00:01:20,961
+Right at the opening, right at the opening paragraph of the chapter.
+
+8
+00:01:20,961 --> 00:01:25,441
+I have, unfortunately, an old copy of the book, but Bert tells me you have a concordance.
+
+9
+00:01:25,760 --> 00:01:26,721
+Yeah, I'm saying anything.
+
+10
+00:01:27,040 --> 00:01:30,161
+Okay, so this is easy.
+
+11
+00:01:30,161 --> 00:01:40,161
+We don't even need the concordance for this, but the the very first sentence of the chapter, whatever page that is for you guys, 290.
+
+12
+00:01:40,641 --> 00:01:41,560
+Sorry, not the old one.
+
+13
+00:01:41,720 --> 00:01:44,520
+299 in in the old copy.
+
+14
+00:01:47,081 --> 00:01:48,040
+348.
+
+15
+00:01:41,521 --> 00:01:49,000
+348.
+
+16
+00:01:49,161 --> 00:01:49,640
+Okay.
+
+17
+00:01:49,641 --> 00:02:02,120
+So just the opening the opening paragraph says a thing has characteristics or properties, quote unquote, for both of these, which are stable even if they don't entirely serve to define it.
+
+18
+00:02:02,120 --> 00:02:14,521
+And we propose to approach the phenomenon of reality, the phenomenon of what there is, the phenomenon of what exists for us to have experiences of, by studying perceptual constants.
+
+19
+00:02:14,521 --> 00:02:24,040
+A thing has, in the first place, its size and its shape throughout variations of perspective which are merely apparent.
+
+20
+00:02:24,040 --> 00:02:33,160
+We don't attribute these appearances to the object itself, but regard them as accidental features of our relations with it and not as being of it.
+
+21
+00:02:33,160 --> 00:02:41,081
+What we do mean by this and on what basis, what do we mean by this, and on what basis do we judge that form or size are the form and the size of the object.
+
+22
+00:02:41,081 --> 00:02:43,800
+So what he's talking about here is the idea.
+
+23
+00:02:43,801 --> 00:03:04,440
+It's a well-known idea, known to psychologists from the middle of the 19th century, that when I see an object, I see it to have a constant size and a constant shape, I'm sorry, a constant color throughout variations in the context in which it's presented to me.
+
+24
+00:03:04,440 --> 00:03:10,361
+So it looks to be the same size throughout variations in my distance to it.
+
+25
+00:03:10,361 --> 00:03:15,641
+As I walk closer to you and further away from you, it doesn't look like you grow.
+
+26
+00:03:15,641 --> 00:03:18,280
+You look to remain the same size.
+
+27
+00:03:18,600 --> 00:03:29,521
+And as I take an object and I rotate it with respect to me, as I take this book and I rotate it with respect to me, it doesn't look like the shape of the object changes.
+
+28
+00:03:29,521 --> 00:03:32,880
+It looks like the shape of the object remains the same.
+
+29
+00:03:32,881 --> 00:03:52,641
+And with respect to color, as the lighting context changes, as the lights get dimmer or brighter, as I take an object inside or outside, it doesn't look like the color of the object changes, despite the fact that the context in which it's presented to me does change.
+
+30
+00:03:52,641 --> 00:04:05,440
+And the way Mellow Holmes characterizes this is he says the object has, in the first place, its size and its shape and its color for variations.
+
+31
+00:04:06,081 --> 00:04:13,761
+Now, you might think this is the first strange fact about our experience of objects.
+
+32
+00:04:13,761 --> 00:04:30,881
+You might think it's a strange fact because it turns out that as the context in which an object is presented to me, the image that's projected from the object onto my retina changes dramatically.
+
+33
+00:04:30,881 --> 00:04:35,201
+So think about the very simple case of the size of an object.
+
+34
+00:04:35,201 --> 00:04:49,201
+As I walk closer to the door, the size of the image that the door projects onto my retina grows, and it grows correlative to the distance between me and the door.
+
+35
+00:04:49,201 --> 00:04:57,681
+So perceptual experience is related in any sort of obvious way to the image that's passed onto the retina.
+
+36
+00:04:57,681 --> 00:05:03,280
+You'd have expected that as I walk closer to the door, it looks like the door gets bigger.
+
+37
+00:05:03,280 --> 00:05:05,201
+It would look like the door gets bigger.
+
+38
+00:05:05,201 --> 00:05:10,400
+And psychologists in the 19th century were confused about why that didn't happen.
+
+39
+00:05:10,400 --> 00:05:17,881
+I mean, if the image grows as I get closer, how come it doesn't look like the object grows?
+
+40
+00:05:17,881 --> 00:05:23,961
+If the image passed onto the retina from the object grows, why doesn't it look like the object grows?
+
+41
+00:05:23,961 --> 00:05:45,800
+And you remember all the way back in the sort of introduction to the phenomenology of perception, Melfonte said the idea that the features of the experience are correlated with the features of the retinal image is what he called the constancy hypothesis.
+
+42
+00:05:45,800 --> 00:05:53,001
+And that's a hypothesis that psychologists have always found, have often found natural, and certainly in the 19th century they found natural.
+
+43
+00:05:53,400 --> 00:06:05,641
+And if you find that hypothesis natural, then there's going to be a problem about why it is that when the features of the image change, it's not the case with the features of the experienced object.
+
+44
+00:06:05,641 --> 00:06:08,280
+So that's a problem.
+
+45
+00:06:08,280 --> 00:06:11,720
+That's a sort of natural problem for psychologists to think about.
+
+46
+00:06:11,720 --> 00:06:23,480
+And of course, the standard structure for chapter and meloponte, insofar as we can talk about these things as having structure, they do wander quite a lot.
+
+47
+00:06:23,641 --> 00:06:42,360
+But the standard structure for a chapter in Melochonte, and it's true about this chapter also, that Meloponty is going to go through and say, well, here's how a certain kind of empiricist tries to account for this phenomenon and what's wrong with it, why it misses some aspect of the phenomenology of our experience of size, company.
+
+48
+00:06:42,681 --> 00:06:54,201
+Here's how a standard intellectualist like Kant or Helmholtz or someone like that tries to account for the phenomenon, what's wrong with it, what's wrong with that account, what ignites is.
+
+49
+00:06:54,201 --> 00:06:58,400
+And then here's what the right kind of phenomenological accounts ought to say.
+
+50
+00:06:57,881 --> 00:07:00,961
+So I'm going to try to take you through some of those.
+
+51
+00:07:01,840 --> 00:07:13,600
+Well, okay, so right at the beginning of the chapter, Melopolty talks about the empiricist account of perceptual constants.
+
+52
+00:07:13,600 --> 00:07:19,121
+So there's, I want to say something briefly about two different kinds of empiricist accounts.
+
+53
+00:07:19,121 --> 00:07:29,840
+One that Meloponty doesn't mention, but might be relevant for people who've done a little bit of analytic philosophy of mind or sort of history of analytic philosophy.
+
+54
+00:07:29,840 --> 00:07:34,881
+And then one, a kind of empiricist account that Melopolty does talk about.
+
+55
+00:07:35,040 --> 00:07:40,001
+That's due to a 19th century German psychologist named Joel Herring.
+
+56
+00:07:40,641 --> 00:07:59,440
+So the first account that I want to say something about is an empiricist account that you find, a kind of sense data theory, that you find defended by lots of sense data theorists, but maybe most famously by Bertrand Russell in Problems of Philosophy, this book of his from say 19.
+
+57
+00:07:59,441 --> 00:08:12,641
+So this kind of empiricist account, an empiricist like Russell, a sense data theorist like Ruffle, because what it is to have perceptual experiences of the world is to be presented with sense data.
+
+58
+00:08:12,641 --> 00:08:25,441
+And sense data have this feature, namely, everything that you, every feature that you think a sense data has, it does have.
+
+59
+00:08:25,441 --> 00:08:29,361
+And you couldn't be wrong about what those features are.
+
+60
+00:08:29,681 --> 00:08:41,681
+And in particular, Russell thinks that the features of the sense data are correlated in some pretty close fashion with something like features of the retinal image.
+
+61
+00:08:41,681 --> 00:08:45,161
+So Russell takes a case in the problems of philosophy.
+
+62
+00:08:45,161 --> 00:08:49,561
+I don't have it with me, otherwise I would read it right here in the beginning in chapter 2.
+
+63
+00:08:49,640 --> 00:08:55,641
+He also takes a case of what we would think of as color constancy.
+
+64
+00:08:55,640 --> 00:09:01,481
+He says, look at that table over there that's sort of slightly unevenly lit.
+
+65
+00:09:02,441 --> 00:09:10,441
+Well, a natural thing to say about that table, says Russell, is that it is that it looks like it's got a constant color.
+
+66
+00:09:10,921 --> 00:09:20,761
+It's a single color, brown, or this wall is a single color, white, this wall here, but it looks like it is a single color.
+
+67
+00:09:21,081 --> 00:09:31,641
+But Russell says if you're a sense data theorist, you realize that that's not actually right, because if you look closely enough, you'll find that it doesn't appear to be a single color.
+
+68
+00:09:31,641 --> 00:09:36,921
+It looks different with respect to color in different lighting contents.
+
+69
+00:09:36,921 --> 00:09:42,840
+It looks a little bit more yellow over there and a little bit more gray over there.
+
+70
+00:09:43,081 --> 00:09:50,760
+And Russell Peth, that's what we know is true, because after all, that's true as a matter of the features of the retinal image.
+
+71
+00:09:50,760 --> 00:09:58,600
+I mean, the wavelength of the light that's reflected off the wall there is different from the wavelength of the light that's reflected off the wall there.
+
+72
+00:09:58,600 --> 00:10:01,081
+And there are different sense data that go along with it.
+
+73
+00:10:01,081 --> 00:10:11,961
+So Russell Peth, although you might have thought it was natural to say that I experience the color of the wall to be the same throughout variations in lighting content, as a matter of fact, that's false.
+
+74
+00:10:11,961 --> 00:10:14,361
+I don't have that experience.
+
+75
+00:10:15,081 --> 00:10:24,600
+But the right thing to say about this case, according to Russell, is that I believe that the wall is a constant color throughout variation.
+
+76
+00:10:24,600 --> 00:10:30,801
+So it's not that I have an experience of the color of the wall as constant.
+
+77
+00:10:27,641 --> 00:10:32,240
+I just have a belief.
+
+78
+00:10:33,520 --> 00:10:36,481
+So here's a case where we have a funny situation.
+
+79
+00:10:36,480 --> 00:10:43,840
+There's Russell's strategy is just to deny the phenomenology.
+
+80
+00:10:43,840 --> 00:10:50,000
+His strategy is just to say that's not really, you thought that was the way it seemed to you, but you weren't really right.
+
+81
+00:10:50,000 --> 00:10:56,321
+If you look carefully enough, what you discover is that, no, it actually looks a different color there than it does.
+
+82
+00:10:56,321 --> 00:11:22,641
+Now, one of the interesting things about this is that although Russell is driven to deny the phenomenology as a result of this sort of pre-theoretical commitment about what the experience has to be, because of his pre-theoretical commitment to the sense data, it turns out that it's pretty easy to argue against Russell's view.
+
+83
+00:11:23,600 --> 00:11:28,561
+So let me say again what the view is and see if anyone has an idea how you might argue against it.
+
+84
+00:11:28,561 --> 00:11:37,601
+The view again is that it's not that I don't experience the color of the wall to be constant throughout variation in writing.
+
+85
+00:11:37,600 --> 00:11:38,880
+I just believe it.
+
+86
+00:11:38,880 --> 00:11:45,840
+And it's that belief that I mistake for the experience of color and constancy.
+
+87
+00:11:45,840 --> 00:11:48,321
+Can anyone think of a way you might argue?
+
+88
+00:11:48,321 --> 00:11:49,681
+Yeah, give it a shot.
+
+89
+00:11:49,681 --> 00:11:51,921
+Okay, so that's an interesting question, right?
+
+90
+00:11:51,921 --> 00:12:05,041
+That's the question, and an empiricist might be interested in that kind of response, because empiricists do generally, I think that the thoughts that I have about the way things are come out of the more basic experiences.
+
+91
+00:12:05,321 --> 00:12:09,760
+So, and that'll point to the fact that there's a kind of inconsistency in Russell.
+
+92
+00:12:09,760 --> 00:12:18,760
+He thinks we get our, as an empiricist, he might think we get our thoughts from our experiences, but here's a belief that doesn't seem to be connected to our underlying experiences.
+
+93
+00:12:19,561 --> 00:12:22,201
+But that doesn't seem, I mean, maybe you can tell some story.
+
+94
+00:12:22,201 --> 00:12:27,161
+Maybe I just happen to have prior beliefs that objects have constant properties.
+
+95
+00:12:27,161 --> 00:12:32,600
+And so it's that that gives me this sort of in general belief about color constants.
+
+96
+00:12:33,161 --> 00:12:35,081
+He might be able to patch it up a little bit.
+
+97
+00:12:35,081 --> 00:12:38,361
+It would divorce it from a kind of Humean empiricism.
+
+98
+00:12:38,360 --> 00:12:39,561
+But try another one.
+
+99
+00:12:39,561 --> 00:12:39,961
+Yeah.
+
+100
+00:12:40,281 --> 00:12:40,680
+Good.
+
+101
+00:12:40,681 --> 00:12:41,640
+Okay, so that's true.
+
+102
+00:12:41,641 --> 00:12:44,520
+He tells us, so that's a kind of phenomenological argument.
+
+103
+00:12:44,520 --> 00:12:48,521
+That's the kind of argument that a Husserl or a Merlot Ponti might give.
+
+104
+00:12:48,520 --> 00:13:00,681
+They would say, well, geez, what's happening here is you're reading your pre-theoretical commitments into the description of the experience and telling us what it must be like rather than paying attention to it.
+
+105
+00:13:00,681 --> 00:13:01,641
+So that's right.
+
+106
+00:13:02,041 --> 00:13:05,721
+But the problem is that Russell could just say, no, I'm not.
+
+107
+00:13:06,360 --> 00:13:08,600
+Could he just sort of say, I am not.
+
+108
+00:13:08,760 --> 00:13:10,441
+That's really the way it looks to me.
+
+109
+00:13:10,441 --> 00:13:11,641
+Dog on it.
+
+110
+00:13:11,961 --> 00:13:13,561
+Or he could say that.
+
+111
+00:13:13,880 --> 00:13:19,801
+And the difficulty is that if he says that, it's a little hard to know how we're supposed to proceed.
+
+112
+00:13:20,520 --> 00:13:22,521
+Any other ideas?
+
+113
+00:13:22,520 --> 00:13:23,400
+Yeah, one more.
+
+114
+00:13:24,280 --> 00:13:30,360
+I'm going to believe you want to cause our needs.
+
+115
+00:13:31,081 --> 00:13:32,520
+That's an interesting thought.
+
+116
+00:13:34,600 --> 00:13:37,001
+That might be like the first idea.
+
+117
+00:13:37,000 --> 00:13:50,441
+So in other words, if it's really true that our thoughts about the way things are are grounded in our experiences, how come we have different thoughts when, in some cases, and they don't correlate properly with the experience?
+
+118
+00:13:50,441 --> 00:13:54,041
+But he might be able to patch, he might be able to patch it up in a sort of way.
+
+119
+00:13:54,041 --> 00:14:00,961
+He might say, well, we have background sort of knowledge about the way the world is, and that's what's giving us these beliefs.
+
+120
+00:14:01,281 --> 00:14:02,801
+But there's a but how about this?
+
+121
+00:13:57,801 --> 00:14:05,201
+I mean, there's this sort of interesting fact.
+
+122
+00:14:05,840 --> 00:14:12,721
+It turns out that it doesn't really matter what my beliefs are about the way the world is.
+
+123
+00:14:12,720 --> 00:14:17,281
+My experiences are just much more robust than my beliefs.
+
+124
+00:14:17,281 --> 00:14:27,441
+So for instance, I could have the experience that I have of this wall as being a constant color, no matter what beliefs I have about it.
+
+125
+00:14:27,441 --> 00:14:38,881
+I mean, suppose I know that I'm in a very funny sort of laboratory experiment, where as a matter of fact, that wall really is radically different shades of colors.
+
+126
+00:14:39,041 --> 00:14:42,001
+Red over there, and green over there, and yellow over there.
+
+127
+00:14:42,000 --> 00:14:52,241
+But for whatever, I'm sort of tripped and it's an illusion, and it looks to me the way it does, namely it looks to me to have a constant color.
+
+128
+00:14:52,240 --> 00:15:05,360
+It seems that no matter how much I believe that the colors are different as the lighting context changes, I continue to have the experience of the thing as constantly colored.
+
+129
+00:15:05,600 --> 00:15:20,081
+And if Russell thinks that the way you account for the experience is by saying, well, it's just a belief that I have, then it ought to be the case that whenever I change beliefs, I'll change experiences.
+
+130
+00:15:20,081 --> 00:15:22,801
+But that doesn't seem to happen.
+
+131
+00:15:23,201 --> 00:15:30,081
+So it looks like the experience is more robust than and can learn independent of the beliefs that we have about the ways.
+
+132
+00:15:30,161 --> 00:15:36,721
+It seems like a reason not to think that that kind of empiricist account is a very good one.
+
+133
+00:15:37,041 --> 00:15:39,201
+But it's not a phenomenological reason.
+
+134
+00:15:39,201 --> 00:15:44,041
+And maybe that's why Venelopolzi doesn't consider the Russellian account.
+
+135
+00:15:42,801 --> 00:15:48,920
+But Van Lopony does consider another kind of account by Gould Herring.
+
+136
+00:15:49,240 --> 00:15:57,241
+He's talking about it in the second paragraph of the paper, of this chapter, sorry.
+
+137
+00:16:00,441 --> 00:16:25,801
+So, right in the second paragraph, right after where we left off leaving on 299 in the old book, which is always 348, still 348, he says, what's presented to us in the case of each object, the psychologist will assert, psychologists here means the empirical, are sizes and shapes which always vary with the perspective.
+
+138
+00:16:25,801 --> 00:16:37,881
+And it's conventional to regard as true the size which the object has when within reach, or the shape which it assumes when it's in a plane parallel to the frontal elevation.
+
+139
+00:16:37,880 --> 00:16:41,241
+So the shape that it has when it's presented face on.
+
+140
+00:16:42,840 --> 00:16:45,561
+These are, okay, so let's say that.
+
+141
+00:16:45,561 --> 00:16:49,161
+Now, here's an account that you could give of that sort.
+
+142
+00:16:49,480 --> 00:16:53,800
+Here's an account, I won't read it, I'll just give it to you.
+
+143
+00:16:53,800 --> 00:16:58,681
+Here's an account that you could give of this sort that Herring does give.
+
+144
+00:16:59,560 --> 00:17:26,040
+And the account goes like this: it says, Well, it's true that when the context changes, when I get closer, say, to the door, something changes, namely, you know, a different retinal image is projected, but I still have an experience of the door as the same height, as the same size.
+
+145
+00:17:26,361 --> 00:17:46,480
+Now, so an empiricist like Herring, who wants to try to account for that phenomenon, will say, well, okay, what's going on there is that the true size, as he says in this sentence that I just read, the true size is the size of the object when I'm standing normal distance to it.
+
+146
+00:17:46,480 --> 00:17:50,161
+Maybe that, and what the normal distance is, is the conventional one.
+
+147
+00:17:50,161 --> 00:17:57,520
+It's the one that when the object is within reach or when I can do the normal thing with the object and so on.
+
+148
+00:17:57,841 --> 00:18:06,800
+And the true size is the size of the object as I experience it to be when I'm that distance from it.
+
+149
+00:18:06,800 --> 00:18:10,240
+So what happens when I'm some other distance from it?
+
+150
+00:18:10,560 --> 00:18:34,000
+Well, the Herring kind of empiricist will say, when I'm further away, what I do is I replace the experience of the size of the door that I'm having from this distance too far away with my memory of what the size was when I was the appropriate distance, when I was the true distance from it.
+
+151
+00:18:34,000 --> 00:18:34,480
+Okay?
+
+152
+00:18:34,800 --> 00:18:51,681
+So that's a, well, the reason I have this experience of constancy is that when I'm an inappropriate distance from the object, I just replace the experience I'm now having with the experience I normally have, the experience of it at the appropriate.
+
+153
+00:18:52,000 --> 00:19:00,161
+Okay, well what do you think that's an account that really gets an important fact about the phenomenology wrong?
+
+154
+00:19:01,121 --> 00:19:05,920
+Can anyone say anything about what that fact might be?
+
+155
+00:19:06,240 --> 00:19:09,201
+What that fact about melanology is?
+
+156
+00:19:09,280 --> 00:19:10,641
+Suppose it's really true.
+
+157
+00:19:10,641 --> 00:19:12,921
+Here I am, I'm right up here.
+
+158
+00:19:12,560 --> 00:19:15,400
+I'm looking at the size of the door.
+
+159
+00:19:16,040 --> 00:19:30,360
+And the reason the door looks to be the very same size as it did when I was back here is that, well, when I'm up here, I'm just, I'm actually having the very same experience that I had when I was back here.
+
+160
+00:19:30,681 --> 00:19:41,080
+I'm replacing the experience that I have of it up close with my memory of the experience that I had of it when I was back here.
+
+161
+00:19:41,401 --> 00:19:42,521
+How does that sound?
+
+162
+00:19:42,520 --> 00:19:44,361
+Does that get the phenomenology right?
+
+163
+00:19:44,681 --> 00:19:52,520
+The part about the temporality that I feel like I reiterated, but it's sort of more continuously flowing than it's hard to imagine.
+
+164
+00:19:53,240 --> 00:19:54,201
+Okay.
+
+165
+00:19:54,201 --> 00:20:02,360
+So, but I, but I think temporality may come in as further down the line, but I don't think we even need to get that complicated.
+
+166
+00:20:02,921 --> 00:20:07,401
+I mean, just imagine you could instantaneously go from here to there.
+
+167
+00:20:08,760 --> 00:20:15,480
+Is it a very good account of the way the size of the door looks when I'm close up like this?
+
+168
+00:20:15,480 --> 00:20:21,320
+That it looks exactly the same as it looks with respect to size when I'm back here.
+
+169
+00:20:21,320 --> 00:20:22,760
+Okay, good, right.
+
+170
+00:20:22,760 --> 00:20:25,961
+It doesn't take into account any contextual features at all.
+
+171
+00:20:25,961 --> 00:20:30,040
+In particular, it doesn't take into account the distance to the object.
+
+172
+00:20:30,361 --> 00:20:34,120
+And what you'd like to say is that, no, it's just not true.
+
+173
+00:20:34,121 --> 00:20:38,201
+It's true that the door looks to be the same size.
+
+174
+00:20:38,520 --> 00:20:41,640
+It looks like it hasn't changed with respect to size.
+
+175
+00:20:41,641 --> 00:20:45,401
+The size that it looks, I don't experience it the same way.
+
+176
+00:20:45,401 --> 00:20:57,881
+I mean, now, we don't know how to say, how to characterize that difference, but it does seem right to say it's just not true that my experience of the size of the door is exactly the same when I'm...
+
+177
+00:20:59,361 --> 00:21:11,841
+So we need to make a distinction, says Merloponcy, between the size the object looks to be.
+
+178
+00:21:13,760 --> 00:21:15,360
+That's one thing.
+
+179
+00:21:15,361 --> 00:21:18,800
+And that is what remains constant throughout variation.
+
+180
+00:21:19,760 --> 00:21:24,961
+Again, we have size, shape, color, different contextual variations.
+
+181
+00:21:24,961 --> 00:21:32,720
+The size or shape or color that the object looks to be, that remains constant throughout contextual variation.
+
+182
+00:21:33,681 --> 00:21:35,201
+That's one thing.
+
+183
+00:21:35,520 --> 00:21:40,000
+But there's something else, too, that's really a part of the experience.
+
+184
+00:21:40,000 --> 00:21:46,880
+And that's what Merloponcy calls the way the size looks.
+
+185
+00:21:47,201 --> 00:21:55,840
+So the way the size of an object looks really does change as I get closer to it or further away from it.
+
+186
+00:21:56,161 --> 00:22:01,120
+Despite the fact that the size it looks to be doesn't change.
+
+187
+00:22:01,681 --> 00:22:02,321
+Let's see.
+
+188
+00:22:02,320 --> 00:22:12,560
+I was going to find the best passage where he makes so I'm now about seven sentences into the second paragraph.
+
+189
+00:22:12,641 --> 00:22:14,560
+I'm still on 299.
+
+190
+00:22:14,800 --> 00:22:16,240
+You guys might have turned the page.
+
+191
+00:22:16,240 --> 00:22:16,640
+I'm not sure.
+
+192
+00:22:16,800 --> 00:22:18,321
+I'm still on 348, actually.
+
+193
+00:22:18,401 --> 00:22:18,801
+Okay.
+
+194
+00:22:20,321 --> 00:22:26,161
+What he says is now in 299, five lines from the bottom.
+
+195
+00:22:26,480 --> 00:22:32,000
+But this but this, well, he gives the, well, okay.
+
+196
+00:22:32,000 --> 00:22:57,800
+But this psychological reconstitution of objective size or shape takes for granted what has been to be characterization of objective size or shape takes for granted what has to be explained.
+
+197
+00:22:57,800 --> 00:23:08,120
+namely a gamut of determinate sizes and shapes from which it is sufficient to select one as the real size or shape.
+
+198
+00:23:08,921 --> 00:23:12,600
+This is slightly complicated to explain, but I think I have to do it.
+
+199
+00:23:13,240 --> 00:23:30,840
+So what he's imagining is that you have a determinate set of objective sizes of the door, one as seen from here, one as seen from here, one as seen from here, and so on.
+
+200
+00:23:30,841 --> 00:23:39,961
+And all you have to do in giving your psychological account of the phenomenon of size constancy is pick which one of those is the true size.
+
+201
+00:23:40,280 --> 00:23:41,161
+Which one is it?
+
+202
+00:23:41,161 --> 00:23:48,361
+Well, it's the one that you're presented with when you're at the appropriate distance, whatever that is, the conventional distance.
+
+203
+00:23:48,681 --> 00:23:51,640
+That's the true size, according to Heron.
+
+204
+00:23:52,681 --> 00:23:54,520
+And you just select one of those.
+
+205
+00:23:54,921 --> 00:24:03,961
+And when you've got that, that's the one that characterizes the experience that you have of the size of the object no matter what the context is.
+
+206
+00:24:04,601 --> 00:24:13,961
+And he says that that presupposes the idea that you've already got these determinate experiences of the size of the object.
+
+207
+00:24:13,961 --> 00:24:35,360
+Now, Melbourne, in this chapter, and in many other places, I'm sure you've seen this already, thinks that it's characteristic of almost all of our perceptual experience that it's not an indeterminate nature, that there's something essentially indeterminate about everyday lived perceptual experience.
+
+208
+00:24:35,361 --> 00:24:41,760
+And that one of the things that's missing in the empiricist account of Herring is that it misses the indeterminacy.
+
+209
+00:24:41,760 --> 00:24:57,840
+And the indeterminacy in this case is the fact that the tension between the fact that although the size looks to be constant, some in some sense or other, the way that size is experienced by me changes.
+
+210
+00:24:57,841 --> 00:25:06,480
+We need to do more to spell out what that way is, what it is, or the way of a size to look.
+
+211
+00:25:06,480 --> 00:25:21,441
+But the essential indeterminacy in the experience of constant sizes comes from the tension between these two things, the fact that the size that it looks to be remains constant and the way the size looks.
+
+212
+00:25:24,800 --> 00:25:31,120
+Typical kind of phenomenological argument that Meloponte will give against an empiricist kind of view.
+
+213
+00:25:31,121 --> 00:25:31,600
+Yeah.
+
+214
+00:25:32,480 --> 00:25:37,760
+I'm curious to know how the determinate, indeterminate comes into play here.
+
+215
+00:25:37,841 --> 00:25:54,480
+Because it seems like somebody like Gibson, who as far as I recall, doesn't really have anything about this indeterminate, determinate distinction, which really is important from the world, could accept this distinction without accounting for it in a way which demands an explanation in terms of the determinate and indeterminate.
+
+216
+00:25:54,881 --> 00:26:07,760
+I think properly understood, we'll see that Gibson does really have an essential place for what I think of as indeterminacy in the Merlopontean sense.
+
+217
+00:26:08,720 --> 00:26:13,560
+Indeterminacy, in sort of shorthand, affordances are indeterminate.
+
+218
+00:26:11,441 --> 00:26:19,320
+Gibsonian kinds of affordances are indeterminate in the Mero-Ponte sense.
+
+219
+00:26:20,520 --> 00:26:23,000
+And that'll become clearer once I spell out what it means.
+
+220
+00:26:23,161 --> 00:26:26,201
+Okay, so that's a classic kind of phenomenological argument.
+
+221
+00:26:26,201 --> 00:26:33,001
+Here's the empiricist account of this phenomenon: size, constancy, shape, constancy, color, constancy.
+
+222
+00:26:33,720 --> 00:26:35,400
+Here's the empiricist account.
+
+223
+00:26:35,401 --> 00:26:50,681
+And look, lo and behold, if you pay proper attention to the phenomenology, you'll notice that there's an essential feature of the experience, of the phenomenology of the experience, that's lacking in this Herring kind of empiricist account.
+
+224
+00:26:50,681 --> 00:26:58,441
+It can't make the distinction between the size the object looks to be and the way that size looks and then occurs.
+
+225
+00:26:58,520 --> 00:27:04,360
+And that really is an essential distinction that's part of the phenomenology that you need to account for.
+
+226
+00:27:04,361 --> 00:27:25,000
+So if it's true, and I guess prove that what the psychologist ought to be explaining is how is the phenomenology as we really experience it, then the empiricist account fails completely because it fails to make an essential distinction that's part of the phenomenon.
+
+227
+00:27:25,000 --> 00:27:26,601
+So there's a way you could think of it.
+
+228
+00:27:26,601 --> 00:27:30,201
+You can think, the phenomenology is the data.
+
+229
+00:27:30,201 --> 00:27:39,161
+If you're interested in the relation between phenomenology and psychological explanation or phenomenology and neuroscientific explanation, here's a proposal.
+
+230
+00:27:39,961 --> 00:27:46,681
+The phenomenology is the data that the psychologist and the neuroscientists need to try to account for.
+
+231
+00:27:46,681 --> 00:27:54,121
+And often Merloponte's criticisms of psychological or neuroscientific accounts take the form that we've just seen.
+
+232
+00:27:54,121 --> 00:27:59,681
+Their criticism of saying, well, you give an explanation that depends on a misreading of the phenomenology.
+
+233
+00:27:59,681 --> 00:28:07,120
+And in particular, it's an explanation that can't make a crucial, that can't account for a crucial phenomenological.
+
+234
+00:28:07,121 --> 00:28:11,120
+Okay, so those are two kinds of empiricist accounts.
+
+235
+00:28:11,841 --> 00:28:18,080
+One that Mellow Homke doesn't talk about, the Russell kind, that just denies there's any phenomenology at all.
+
+236
+00:28:18,080 --> 00:28:22,160
+So since it denies there's any phenomenology at all, we know we're in a weird area.
+
+237
+00:28:22,240 --> 00:28:26,560
+We can't really use phenomenological arguments to argue against Russell, because we've got to find something else.
+
+238
+00:28:26,560 --> 00:28:27,921
+But now here's Herring.
+
+239
+00:28:27,921 --> 00:28:28,961
+He's got the phenomenon.
+
+240
+00:28:28,961 --> 00:28:31,760
+He's got an account of the phenomenology.
+
+241
+00:28:31,760 --> 00:28:35,921
+And he's trying to give a psychological explanation for why it is the way it is.
+
+242
+00:28:35,921 --> 00:28:39,041
+And it just turns out the explanation doesn't explain what needs to be.
+
+243
+00:28:39,201 --> 00:28:41,760
+But now we get to a harder case.
+
+244
+00:28:41,760 --> 00:28:48,320
+The harder case is the intellectualist or the modern-day cognitivist.
+
+245
+00:28:48,320 --> 00:28:52,480
+And I'm going to give two different kinds of intellectualists also.
+
+246
+00:28:54,480 --> 00:28:59,681
+The intellectualist is harder for at least two reasons.
+
+247
+00:28:59,681 --> 00:29:04,320
+One is it's often hard to identify in the text.
+
+248
+00:29:04,961 --> 00:29:12,080
+It turns out that the intellectualist is usually a lot closer to Merlophonte's position than the empiricist.
+
+249
+00:29:12,401 --> 00:29:20,961
+And often it really looks like when Mero-Pompty is describing the intellectualist account on a certain phenomenon, he's endorsing it.
+
+250
+00:29:20,961 --> 00:29:38,560
+And it really looks like that's going on in the next paragraph, which is the paragraph that begins, there would seem, at least at first glance, to be a way of evading the question, namely, that must be, that's on 300 in my old version, must be on 349 or something.
+
+251
+00:29:39,280 --> 00:29:43,320
+That's where the accounts of the intellectualist starts.
+
+252
+00:29:42,641 --> 00:29:49,641
+And about two-thirds of the way through the paragraph, you're thinking, boy, this sounds pretty good.
+
+253
+00:29:49,961 --> 00:29:51,961
+And I'm hoping it doesn't sound pretty good.
+
+254
+00:29:51,961 --> 00:29:54,681
+It sounds like Merlin Holtzy thinks it's pretty good.
+
+255
+00:29:54,921 --> 00:30:10,681
+I mean, he really goes on for quite a while speaking sort of in an apparently sort of, I mean, it looks like he's endorsing the view, but he's not actually endorsing the view.
+
+256
+00:30:10,681 --> 00:30:15,560
+So how does the intellectualist account go?
+
+257
+00:30:15,560 --> 00:30:23,480
+Well, the intellectualist, the good thing about the intellectualist is that he starts by making this distinction.
+
+258
+00:30:23,480 --> 00:30:33,000
+The distinction between the size or shape or color that an object looks to be and the way that size looks in the current context.
+
+259
+00:30:33,000 --> 00:30:49,880
+In order to make that distinction, it turns out, you have to admit, and the intellectualist does, and Merrill Faulty thinks it's right to, you have to admit that the subject, in some sense or another, takes account of the contextual variations.
+
+260
+00:30:49,881 --> 00:30:58,760
+So the subject, in some sense or another, when looking at the size of an object, takes into account the distance to it.
+
+261
+00:30:58,760 --> 00:31:18,441
+Now, the famous kind of contemporary cognitivist accounts, like accounts from psychologist Irving and Irv Rock, are called in the literature taking into account accounts of perceptual constancy.
+
+262
+00:31:18,441 --> 00:31:46,480
+So Irv Rock has an account of taking into account accounts of perceptual constancy, where he says, look, the important thing to notice about the experience of the size of an object is not that the experience of the size of the object correlates with the size of the retinal image projected from the object onto the retina.
+
+263
+00:31:46,480 --> 00:31:47,681
+That's not true.
+
+264
+00:31:47,681 --> 00:31:49,681
+We all know that's not true.
+
+265
+00:31:49,681 --> 00:32:03,280
+But what is true, they notice, is that there's a constant relation between the size of the image that's projected onto the retina and the distance to the object.
+
+266
+00:32:03,280 --> 00:32:08,560
+So that as I get closer, the image gets larger.
+
+267
+00:32:08,560 --> 00:32:12,880
+And as I get further away, the image gets smaller.
+
+268
+00:32:12,881 --> 00:32:19,600
+But the ratio between the distance to the object and the size of the image is constant.
+
+269
+00:32:20,480 --> 00:32:27,681
+So in sort of mathematical terms, there's a linear correlation between the distance to the object and the size.
+
+270
+00:32:28,320 --> 00:32:28,961
+Okay.
+
+271
+00:32:28,961 --> 00:32:31,441
+So that's a true fact.
+
+272
+00:32:31,441 --> 00:32:34,320
+That's a true fact about our experience.
+
+273
+00:32:34,641 --> 00:32:49,840
+And what you might think then is that that means that the subject, in some sense, takes into account the distance to the object in having the experience of the size of the object.
+
+274
+00:32:50,161 --> 00:33:03,040
+It's true about color constancy also, as there's a sort of constant correlation between the light that's projected off the retina and this rounded lighting concept.
+
+275
+00:33:03,201 --> 00:33:06,001
+It's true about shape constancy.
+
+276
+00:33:06,000 --> 00:33:08,720
+There's a constant correlation between, and so on.
+
+277
+00:33:08,720 --> 00:33:11,600
+Okay, so you have, but size of these, there's this thing.
+
+278
+00:33:11,681 --> 00:33:12,400
+Constant correlation.
+
+279
+00:33:12,441 --> 00:33:22,120
+So you have a mathematical account of how it is, apparently, how it is that we have this phenomenon of size constant.
+
+280
+00:33:22,121 --> 00:33:28,521
+So Merlopunke's describing this in the beginning of his third paragraph.
+
+281
+00:33:28,520 --> 00:33:46,040
+He says, there would seem, at least at first glance, to be a way of evading the question, namely by conceding that it's in fact never the case that size and shape are perceived as attributes of a single object, and that they're simply names for the relations between the parts of the phenomenal field.
+
+282
+00:33:46,040 --> 00:33:59,561
+In this case, the constancy of the real size or shape, which is maintained through the varying perspectives, is merely the constancy in the relations between the phenomenon and the conditions accompanying this presentation.
+
+283
+00:33:59,560 --> 00:34:04,841
+So the conditions accompanying this presentation, in the case of size constantly, just distance.
+
+284
+00:34:05,401 --> 00:34:12,760
+And there's a constant relation, there's a constant ratio between the distance from the object and the size of the image that it projects.
+
+285
+00:34:12,921 --> 00:34:17,561
+This well-known mathematical fact, psychophysics know all about them.
+
+286
+00:34:17,881 --> 00:34:20,920
+But you might think that's what's going on.
+
+287
+00:34:20,921 --> 00:34:39,561
+You might think that what it is to have an experience of the size of an object as constant throughout variations in the distance to it is for me constantly to be taking into account how far away I am and somehow using that to give me the experience of the size of the object.
+
+288
+00:34:39,560 --> 00:34:42,201
+Now there's two different things you might think are going on.
+
+289
+00:34:42,200 --> 00:34:52,921
+One is one that Merlopunty doesn't talk about, but it really is sort of the most prominent contemporary kind of account.
+
+290
+00:34:53,560 --> 00:35:02,801
+You might think that what's going on is that it's not me as the perceiving subject, but it's somehow my brain.
+
+291
+00:35:02,801 --> 00:35:06,480
+It's a subconscious thing, some personal thing, right?
+
+292
+00:35:06,480 --> 00:35:22,881
+And nowadays in psychology, there are lots of mathematical psychologists and mathematical neuroscience, computational neuroscientists, who are busy trying to give accounts of the functions, the mathematical functions that the brain has to be calculating or computing in order to give rise to these experiences.
+
+293
+00:35:23,281 --> 00:35:28,320
+And here's one, easy mathematical functions, the ratio between distance and image.
+
+294
+00:35:28,961 --> 00:35:46,720
+So if that's right, I suppose it is true that the brain has, in some sense or another, a representation of the distance through an object or it may, and a representation of the size of the image that's projected from the object onto the retina.
+
+295
+00:35:46,721 --> 00:35:49,601
+And it can just do a sort of long division, right?
+
+296
+00:35:49,600 --> 00:35:54,640
+And you get a constant, when you got, since you get a constant ratio, it says, aha, six feet.
+
+297
+00:35:54,640 --> 00:35:57,280
+That's how big you should experience it to be, right?
+
+298
+00:35:57,281 --> 00:35:58,640
+No matter how far away you are.
+
+299
+00:35:58,881 --> 00:36:03,921
+I'm now seven feet away from it, and it still looks to be six feet because the image is projected.
+
+300
+00:36:03,921 --> 00:36:12,641
+And so that might be, that might be a good account of what's going on in the brain, maybe.
+
+301
+00:36:12,961 --> 00:36:17,601
+But it's not a good account of what's going on experientially.
+
+302
+00:36:17,600 --> 00:36:22,320
+It's not a good account of the phenomenology of size constant.
+
+303
+00:36:22,640 --> 00:36:39,040
+And I probably, I think I'd like to suggest that, insofar as it's not a good account of the phenomenology of seismic constancy, it's probably not a very great place to look for an account of what's going on in the brain either, though there's a contingent relation between those.
+
+304
+00:36:39,040 --> 00:36:42,881
+And it might turn out that this kind of computational account really is what's going on.
+
+305
+00:36:44,200 --> 00:36:54,121
+By the way, there's all sorts of ways, psychologists claim, that we might get to have a sub-personal representation of the distance to an object.
+
+306
+00:36:54,120 --> 00:37:03,081
+There's binocular disparity, the fact that my eyes, since they're not in the same place, have to come to focus on an object.
+
+307
+00:37:03,080 --> 00:37:07,881
+And it's a different thing to focus on an object that's farther away.
+
+308
+00:37:07,881 --> 00:37:13,161
+My eyes will be closer to parallel than it is to focus on an object that's close up.
+
+309
+00:37:13,160 --> 00:37:28,200
+And since there's a correlation between how much frost my eyes are and how far away the object is that they're focusing on, that might be a clue about for my brain about what the distance to the object is.
+
+310
+00:37:28,361 --> 00:37:36,760
+Then I can just get that number, say 13 feet, and plug it into the computer in there, and then I've got the size of the retinal image.
+
+311
+00:37:38,200 --> 00:37:42,601
+So the psychologists have got a kind of an account to it.
+
+312
+00:37:42,921 --> 00:37:53,801
+But what doesn't seem to be right is that that's a very good characterization of the way in which I experience the distance to an object.
+
+313
+00:37:54,120 --> 00:38:05,160
+What doesn't seem to be right is that that's a very good characterization of the way in which I experience the distance from the object, or even for that matter, the way in which I experience the size of.
+
+314
+00:38:05,160 --> 00:38:07,401
+Ask yourself this question.
+
+315
+00:38:07,401 --> 00:38:16,361
+When I look at an object and I'm looking at its size, do I experience its size as a determinant value?
+
+316
+00:38:16,361 --> 00:38:25,721
+Is it true that in my average everyday experience that that door looks to be seven and a half feet tall?
+
+317
+00:38:26,040 --> 00:38:29,361
+Is that the way I experience size in it?
+
+318
+00:38:26,200 --> 00:38:30,240
+Or if that?
+
+319
+00:38:26,441 --> 00:38:33,441
+I mean, if it's not, what else can you say about the way I experience it?
+
+320
+00:38:33,600 --> 00:38:39,121
+I think you probably best said to experience size and how the object affords itself.
+
+321
+00:38:39,120 --> 00:38:41,281
+Tell me more, what do you mean by that?
+
+322
+00:38:41,281 --> 00:39:00,320
+You know, that door looks like a door that I could walk through, I would think that it's at least above, you know, six and a half feet of wall, and based upon my experiences, how I walked through doors and how much spaces above my head that it would afford itself as that, but there was a small door in a playhouse or something.
+
+323
+00:39:00,321 --> 00:39:07,921
+And it just, I wouldn't know what size it was per se, when four inches tall by two inches, but I would know that.
+
+324
+00:39:08,480 --> 00:39:09,280
+So that might be right.
+
+325
+00:39:09,281 --> 00:39:13,041
+Maybe we experience sizes in terms of the activities that they afford.
+
+326
+00:39:13,680 --> 00:39:19,841
+And big, you know, an object that's of a certain size that's graspable might afford a certain kind of grip.
+
+327
+00:39:19,841 --> 00:39:28,000
+An object of a certain size that's walk-throughable might afford a certain kind of walking through and so on, or walking through with a certain posture.
+
+328
+00:39:28,640 --> 00:39:29,200
+Maybe.
+
+329
+00:39:29,200 --> 00:39:29,761
+Okay.
+
+330
+00:39:29,761 --> 00:39:32,240
+But that's what I think that's a good suggestion.
+
+331
+00:39:32,241 --> 00:39:33,360
+That's a possibility.
+
+332
+00:39:33,361 --> 00:39:35,520
+And there may be other ways.
+
+333
+00:39:35,520 --> 00:39:56,241
+But whatever's true, it's just such it's a very different thing to have an experience of the size of an object when you're trying to judge its determinate value, trying to judge its size than it is when you have an experience of the size of an object in our normal everyday circumstances.
+
+334
+00:39:56,241 --> 00:40:05,680
+So Christopher Peacock, who's a philosopher of mind and does philosophy of perception, who's an analytic philosopher, has a kind of intuition about this.
+
+335
+00:40:05,680 --> 00:40:07,840
+He doesn't have Mary Walabon T's account at all.
+
+336
+00:40:07,841 --> 00:40:10,240
+But there's some things interesting about him.
+
+337
+00:40:10,721 --> 00:40:20,520
+He writes at one point in the paper, he says, look, there are some people who are very, very good at seeing things to be a certain size.
+
+338
+00:40:20,520 --> 00:40:22,601
+He says, real estate agents.
+
+339
+00:40:22,600 --> 00:40:27,240
+They walk into the living room and they say, 14 by 17.
+
+340
+00:40:27,241 --> 00:40:27,560
+Yeah.
+
+341
+00:40:29,160 --> 00:40:37,641
+But he says, unless you're really used to doing that, we need to develop the skill of seeing things to be a determinate size.
+
+342
+00:40:37,640 --> 00:40:43,560
+But unless you develop that skill, that's really not the way we experience the sizes of things.
+
+343
+00:40:43,560 --> 00:40:45,560
+So some farmers leave it as a negative clip.
+
+344
+00:40:45,560 --> 00:40:51,561
+It's really not the way in which we experience the sizes of things or the distance to things.
+
+345
+00:40:51,881 --> 00:41:01,161
+But in order for this intellectualist account to work, well, you've got to have determinate values that you can plug into your function.
+
+346
+00:41:01,480 --> 00:41:16,681
+I mean, if the brain's really computing this function, you've got to have some determinate values, 7.5 feet by 13 feet, in order to plug them into the so many centimeters on the retinal image.
+
+347
+00:41:16,680 --> 00:41:20,440
+You've got to have determinate numbers to plug into the function.
+
+348
+00:41:20,761 --> 00:41:25,881
+And what Malawi says is that's what the intellectualists are missing.
+
+349
+00:41:26,200 --> 00:41:42,280
+Even if it's true that the intellectualist makes the distinction between the size that the object looks to be and the way that that size looks, it's not true that they've missed some other phenomenon.
+
+350
+00:41:42,281 --> 00:41:53,241
+They've missed some other aspect of the phenomenology because they say that the thing looks to be a determinate value, a determinate height.
+
+351
+00:41:53,241 --> 00:42:12,561
+And that's true because both the image that it projects on the retina is experienced as a determinate value, and the distance to it is experienced as a determinate value.
+
+352
+00:42:12,560 --> 00:42:15,441
+And this determinate value is the ratio.
+
+353
+00:42:15,761 --> 00:42:24,961
+Now, so that's so that I've sort of conceded that maybe as a function of the way the brain works, that's okay.
+
+354
+00:42:26,401 --> 00:42:35,280
+But I'm sort of suggesting that as a function of the way the experience is, that's not right.
+
+355
+00:42:35,441 --> 00:42:38,000
+Now, let's go into that a bit.
+
+356
+00:42:38,000 --> 00:42:41,520
+I said I was going to give two different kinds of intellectualist accounts.
+
+357
+00:42:41,520 --> 00:42:48,401
+The first is the modern-day cognitivist unconscious processing account that I just talked about, due to rock and so on.
+
+358
+00:42:48,560 --> 00:43:04,000
+But there's another kind of account that you might give that would really attribute to the subject determinate experiences of the size of the image and determinate experiences of the distance to the object.
+
+359
+00:43:04,640 --> 00:43:31,720
+An account like this, and you find them out there, an account like this would have to say that in order to make this distinction, we have to say that when I see the size of the door, I experience both the size that it looks to be, and I experience the apparent size, the way that size looks in the current context, right?
+
+360
+00:43:31,801 --> 00:43:36,561
+It's something like the image that it projects onto my retina.
+
+361
+00:43:37,680 --> 00:43:42,720
+I think that it's kind of hard to imagine that I experience both of those things.
+
+362
+00:43:42,921 --> 00:43:59,081
+And also, I've had to experience hard to imagine that I could experience both the size the object looks to be and the apparent size, the retinal image, the sort of sense data, simultaneously.
+
+363
+00:43:59,080 --> 00:44:05,240
+It seems to me very difficult to imagine that we can experience both of those downloads.
+
+364
+00:44:05,321 --> 00:44:10,120
+Now, people are good at experiencing the apparent size.
+
+365
+00:44:10,441 --> 00:44:12,120
+What kind of person is good at that?
+
+366
+00:44:13,721 --> 00:44:15,721
+What do you have to do to be good at that?
+
+367
+00:44:15,881 --> 00:44:16,600
+Painters.
+
+368
+00:44:16,600 --> 00:44:18,681
+Painters are really good at that, right?
+
+369
+00:44:18,841 --> 00:44:19,881
+What does the painter do?
+
+370
+00:44:19,881 --> 00:44:31,241
+The painter sort of squints and says, if I were going to paint an image of that next to that, I'd make something about this tall, and then the garbage can would be this tall, right?
+
+371
+00:44:31,241 --> 00:44:39,480
+And the painter sort of squints, and Merle Ponty, I'm terrible at finding these passages, but Merle Ponty talks about the painters squinting.
+
+372
+00:44:39,480 --> 00:44:51,961
+Here we go, on my 307 in, let's see, near the footnote, the long footnote that begins, indeed, it has been shown, Geld and Goldstein.
+
+373
+00:44:51,961 --> 00:44:56,520
+Okay, the paragraph begins in gaslight as blue paper looks blue.
+
+374
+00:44:56,841 --> 00:45:19,961
+So about three sentences down, he says, the painter achieves the same result without a screen, never mind what he's talking about, and manages to see colors as they are, or sizes or shapes and so on, manages to see colors as they are determined by the quantity and quality of reflected light, provided that he isolates them from their surrounding by half closing his eyes, for example.
+
+375
+00:45:20,441 --> 00:45:22,480
+And that's a natural thing for you to do.
+
+376
+00:45:22,480 --> 00:45:27,961
+If you need to focus on the apparent property or the image, to how squint your eyes.
+
+377
+00:45:28,321 --> 00:45:51,040
+But the intellectualist who's going to give an account of the experience or the constant size of an object by saying that first I see the size of the image and then take account of the distance to it and thereby come to have an experience of the size.
+
+378
+00:45:51,281 --> 00:46:05,520
+The intellectualist who says something like that is going to have to be committed to the idea that when I'm experiencing this thing to be a certain size, I'm also experiencing the occurrence size, the image.
+
+379
+00:46:05,921 --> 00:46:14,401
+And it seems to me that although you can switch back and forth between these, it's difficult to imagine having both of those experiences.
+
+380
+00:46:14,401 --> 00:46:31,441
+Okay, so now what Malikonty wants to emphasize is that the intellectualist has made an advance, but has still missed a certain important part of the phenomenology.
+
+381
+00:46:31,441 --> 00:46:48,081
+So the advance that the intellectualist has made is that he's accepted, that there is this distinction in the phenomenology between the size or the color or the shape that an object looks to be and the way that size or color or shape looks in the current context.
+
+382
+00:46:48,080 --> 00:46:59,520
+But what he's meant is he's made the experience of these two things into an experience of a determinate bound, a determinate size or a determinate shape.
+
+383
+00:47:00,160 --> 00:47:05,680
+So Malibu thinks that really what you need is an important kind of indeterminacy, right?
+
+384
+00:47:05,680 --> 00:47:09,281
+It's a straight, an important kind of indeterminacy.
+
+385
+00:47:09,281 --> 00:47:26,201
+And he thinks that any good account of the phenomenology is going to have an essential place for the indeterminacy that's a part of the experience of the constant size or shape or color of an object.
+
+386
+00:47:26,200 --> 00:47:31,081
+So he says, now I want to go to 301.
+
+387
+00:47:31,401 --> 00:47:33,160
+Okay, okay, 350.
+
+388
+00:47:33,160 --> 00:47:38,120
+So paragraph that begins, thus we place ourselves directly within the object.
+
+389
+00:47:40,040 --> 00:47:46,201
+So here's, this is the critique of the intellectualist or the cognitivist view.
+
+390
+00:47:46,200 --> 00:48:07,561
+He says, if we get this kind of intellectualist account that says the experience of the constant size of an object is something we get from having a constant ratio between the image and the distance to it, then we place ourselves directly within the object and we overlook the psychologist's problems, that's to say the empiricist psychologist's problems.
+
+391
+00:48:07,560 --> 00:48:14,360
+We overlook them because the empiricist psychologist remember didn't make this distinction at all, and the intellectualist can't.
+
+392
+00:48:14,361 --> 00:48:16,520
+But how have we really left them behind?
+
+393
+00:48:16,520 --> 00:48:41,881
+When it says that the true size or shape are no more than the constant law according to which the appearance of the image, the distance, and the orientation for shape constancy vary, it's assumed that they can be treated as variables or measurable sizes, and therefore that they're determinate, that we experience the distance to the thing the way the real estate agent does.
+
+394
+00:48:42,680 --> 00:48:51,080
+What we're concerned with is precisely how they come to be so, how we come to have experiences as of the terminant qual point.
+
+395
+00:48:51,881 --> 00:48:56,600
+Merrimsy's idea is that in normal everyday life, we don't have that kind of experience.
+
+396
+00:48:56,600 --> 00:48:58,640
+We have indeterminate experiences.
+
+397
+00:48:58,640 --> 00:49:00,160
+This is sort of a placeholder still.
+
+398
+00:48:57,801 --> 00:49:01,520
+We don't know exactly what it means.
+
+399
+00:49:01,841 --> 00:49:08,961
+We have indeterminate experiences, and the question is how we could ever come to have experiences of determinant qualities.
+
+400
+00:49:09,600 --> 00:49:16,321
+Kant is right in saying that perception is by its nature polarized towards the object.
+
+401
+00:49:16,321 --> 00:49:26,161
+Kant is right, in other words, in rejecting the kind of Russellian view that says what we first see are the qualities, colors and shapes.
+
+402
+00:49:26,160 --> 00:49:34,161
+And only later do we see them, or even in Russell's view, come to believe that they are qualities of an object.
+
+403
+00:49:34,480 --> 00:49:42,721
+Merroponty thinks, and Kant thinks also, and this is what Kant got right, that our experiences are directed towards objects in the first place.
+
+404
+00:49:42,721 --> 00:49:52,560
+And it's only in virtue of the fact that we already experience the object that we come to see its shape and its color and its side.
+
+405
+00:49:52,560 --> 00:50:05,121
+Notice the way he describes the phenomenon of perceptual constancy in the opening sentences, he said in the second sentence, a thing has in the first place its side and its shape.
+
+406
+00:50:05,441 --> 00:50:09,281
+You don't believe that if you're a Russellian kind of empiricist.
+
+407
+00:50:09,281 --> 00:50:14,081
+In fact, the Russellian kind of empiricist thinks that there's a basic problem.
+
+408
+00:50:14,401 --> 00:50:17,441
+Contemporary psychologists think there's a problem like this too.
+
+409
+00:50:17,441 --> 00:50:27,360
+Namely, the problem is all we can ever see, of course, they say, is the colors and the shapes and maybe the sizes of things.
+
+410
+00:50:28,401 --> 00:50:31,121
+All we can ever see are colors and shapes and sizes.
+
+411
+00:50:31,120 --> 00:50:37,680
+And the question is how do we bundle them together into an experience of a single unified object?
+
+412
+00:50:38,560 --> 00:50:42,961
+Well, we first see our colors and shapes and sizes, and we've got to somehow stitch them together.
+
+413
+00:50:44,921 --> 00:50:46,360
+Hume has this problem.
+
+414
+00:50:46,361 --> 00:50:48,361
+Russell has this problem.
+
+415
+00:50:49,160 --> 00:50:57,801
+They identify objects as bundles of properties that aren't already tied together in some more basic fashion.
+
+416
+00:50:57,801 --> 00:51:00,280
+And contemporary neuroscientists have this problem.
+
+417
+00:51:00,281 --> 00:51:06,680
+They call this the glue problem or the binding problem.
+
+418
+00:51:06,680 --> 00:51:12,040
+How do these properties get bound together into an experience of a single unified object?
+
+419
+00:51:12,040 --> 00:51:14,280
+And Merloponty says that's not right.
+
+420
+00:51:14,281 --> 00:51:16,040
+And he says it's not right for the state.
+
+421
+00:51:16,441 --> 00:51:18,201
+And he thinks Kant got it too.
+
+422
+00:51:18,200 --> 00:51:26,441
+It's not right because it's not true that what we experience in the first place are isolated properties, not already tied together with one another.
+
+423
+00:51:26,441 --> 00:51:31,961
+What we experience in the first place is an object, and we see it as having its properties.
+
+424
+00:51:31,961 --> 00:51:44,201
+That's the way, so right from the essence, right in the way he's describing the problem of perceptual constancy, he's already rejecting a whole range of empiricist, potential empiricist solutions.
+
+425
+00:51:44,200 --> 00:51:45,640
+And he says Kant got that right.
+
+426
+00:51:45,640 --> 00:51:51,401
+Kant's right in saying that perception is, by its nature, polarized towards the object.
+
+427
+00:51:51,401 --> 00:51:57,801
+But what's incomprehensible in his account is appearance as appearance.
+
+428
+00:51:57,801 --> 00:52:00,441
+I never know what that means, so I probably should not read that.
+
+429
+00:52:00,600 --> 00:52:01,720
+Let's just stop there.
+
+430
+00:52:01,721 --> 00:52:16,961
+What's wrong about his account, he thinks, is that although Kant thinks we, and in the collectors thinks we experience the object, well, we experience it by having determinate experiences of the contextual features and of the.
+
+431
+00:52:16,961 --> 00:52:20,921
+So, Merloponcy says, we really need something else.
+
+432
+00:52:20,921 --> 00:52:26,681
+We need an essential kind of indeterminacy in the phenomenology.
+
+433
+00:52:26,680 --> 00:52:33,760
+There's an important sense in which the way we experience the distance to an object is not as a determinate value.
+
+434
+00:52:33,761 --> 00:52:34,881
+It's not the way to.
+
+435
+00:52:35,040 --> 00:52:46,721
+Now, does anyone have any sense of what the tools are in Merlot-Fonty's toolkit to describe this kind of indeterminacy?
+
+436
+00:52:46,721 --> 00:52:54,080
+There's another, let's see, I guess it's in this chapter already.
+
+437
+00:52:54,080 --> 00:53:04,720
+For at the beginning of this chapter, Merloponte has a characterization of what it is to experience the distance to something as indeterminate.
+
+438
+00:53:04,721 --> 00:53:09,361
+Just think of a path where he's talking about that.
+
+439
+00:53:09,520 --> 00:53:15,121
+He's talking about sort of an experience of the distance to something.
+
+440
+00:53:15,120 --> 00:53:18,080
+That's not an experience of it as 1750.
+
+441
+00:53:18,241 --> 00:53:19,520
+Think about it for a little bit.
+
+442
+00:53:19,520 --> 00:53:24,321
+It talks about seeing a painting in an art gallery.
+
+443
+00:53:24,321 --> 00:53:25,760
+Have you guys talked about that?
+
+444
+00:53:26,080 --> 00:53:28,000
+Maybe we've talked about that before.
+
+445
+00:53:28,000 --> 00:53:28,320
+Okay.
+
+446
+00:53:28,321 --> 00:53:30,160
+Well, this is the chapter where it comes up.
+
+447
+00:53:30,160 --> 00:53:33,040
+Maybe you've seen it before, but this is the chapter where it comes up.
+
+448
+00:53:33,040 --> 00:53:35,361
+In my book, it's on 302.
+
+449
+00:53:35,680 --> 00:53:37,201
+Reading 32.
+
+450
+00:53:37,200 --> 00:53:38,720
+215.
+
+451
+00:53:38,881 --> 00:53:40,560
+Reading 1921.
+
+452
+00:53:40,560 --> 00:53:42,160
+That's 1952.
+
+453
+00:53:42,480 --> 00:53:42,961
+Okay.
+
+454
+00:53:43,281 --> 00:53:50,321
+So I'm going to start a little above the important part.
+
+455
+00:53:50,321 --> 00:53:55,281
+I'm going to start in the sentence that says, for science and objective thought, an apparently small object.
+
+456
+00:53:55,281 --> 00:54:00,080
+So this is now in my version on 302, about 10 lines down.
+
+457
+00:54:01,761 --> 00:54:02,240
+Okay.
+
+458
+00:54:02,881 --> 00:54:05,441
+I'm just going to read this passage and then I'll say something about it.
+
+459
+00:54:05,520 --> 00:54:22,441
+For science and objective thought, so for science and objective thought, that's to say, thought that thinks that the only kinds of values, the only sort of kinds of experiences we can have are experiences as of determinate things.
+
+460
+00:54:22,761 --> 00:54:34,281
+An apparently small object seen 100 yards away is indistinguishable from the same object seen 10 yards away at a greater angle.
+
+461
+00:54:34,281 --> 00:54:38,600
+And the object is nothing but the constant product of the distance multiplied by the apparent size.
+
+462
+00:54:38,761 --> 00:54:40,601
+That's the view that we just looked at.
+
+463
+00:54:40,600 --> 00:54:42,680
+That's the intellectualist view.
+
+464
+00:54:43,000 --> 00:55:02,520
+So the intellectualist view says there's no difference for science and objective thought between, with respect to size, between an apparently small object presented 100 yards away and the same object seen 10 yards away at a greater angle.
+
+465
+00:55:02,520 --> 00:55:06,601
+But for me, the perceiver, there is a difference.
+
+466
+00:55:06,600 --> 00:55:08,281
+And here's the difference.
+
+467
+00:55:08,281 --> 00:55:16,520
+The object 100 yards away is not as real and present in the sense in which it is at 10 yards.
+
+468
+00:55:16,520 --> 00:55:28,281
+And I identify the object in all its positions, at all distances, in all appearances, insofar as all the perspectives converge towards the perception which I've seen at a certain distance and with a certain typical orientation.
+
+469
+00:55:28,281 --> 00:55:29,881
+So the idea is this.
+
+470
+00:55:30,200 --> 00:55:38,921
+When the object is 100 yards away, and it's not a biggerly big one, I experience it to be the same size.
+
+471
+00:55:39,560 --> 00:55:50,601
+But there's a sense in which I don't, he said, I don't experience that size to be as real and present as I do when it's 10 yards away.
+
+472
+00:55:50,600 --> 00:56:01,841
+And the realness and the presence of the thing is going to be developed into what he's going to go on to say, is that I can't get a good perceptual grip on the size of the thing.
+
+473
+00:55:57,961 --> 00:56:04,961
+I can't get a good perceptual grip.
+
+474
+00:56:05,040 --> 00:56:09,921
+I can't see its size very well when it's 100 yards away.
+
+475
+00:56:09,921 --> 00:56:11,760
+I haven't got a good grip on it.
+
+476
+00:56:11,761 --> 00:56:13,520
+And he goes on to say that.
+
+477
+00:56:13,680 --> 00:56:28,641
+This crucial perception, because it tells you this essential fact about the phenomenology of the experience of the size of objects, this crucial perception ensures the unity of the perceptual process and draws it into all other appearances.
+
+478
+00:56:28,640 --> 00:56:45,520
+For each object, and this is the passage that maybe you've read before, for each object, as for each picture in the art gallery, there's an optimum distance from which it requires to be seen, a direction viewed from which it vouchsafes most of itself.
+
+479
+00:56:45,841 --> 00:56:51,841
+At a shorter or greater distance, we have merely a perception blurred through excess or deficiency.
+
+480
+00:56:51,841 --> 00:56:57,441
+We therefore tend towards the maximum of visibility and see the better focus as with a microscope.
+
+481
+00:56:57,441 --> 00:57:10,480
+So, what's crucial about the indeterminacy of my experience of the distance to an object is that I don't experience it as a determinate value.
+
+482
+00:57:10,801 --> 00:57:13,921
+I don't experience it as 17 feet away.
+
+483
+00:57:13,921 --> 00:57:21,201
+I experience it as, well, too far away to see the thing well, to see the size of the thing well.
+
+484
+00:57:21,520 --> 00:57:32,881
+At 100 yards, it looks like the object is not as real and present because I feel immediately like I need to get closer to it in order to focus on its size.
+
+485
+00:57:32,881 --> 00:57:51,000
+And that essential indeterminacy is the crucial thing that the intellectualist account lacked, despite the fact that the intellectualist account does something good, which is to make the distinction between the size the object looks to be and the way that size looks.
+
+486
+00:57:51,000 --> 00:58:13,560
+So, the indeterminacy, that is essential to the phenomenology of size competency, is that the way I take into account the distance to the object is by experiencing it not as some determinate value, but in terms of how well it allows me to see the thing.
+
+487
+00:58:14,200 --> 00:58:15,961
+And it's going to, yeah, go ahead.
+
+488
+00:58:25,241 --> 00:58:27,080
+Yeah, I can.
+
+489
+00:58:27,080 --> 00:58:32,201
+I think Merloponty says something that's sort of related to that.
+
+490
+00:58:33,480 --> 00:58:36,280
+But he doesn't say this all day.
+
+491
+00:58:36,281 --> 00:58:43,401
+The psychologist recognizes that some distances are better distances than others from which to view the thing.
+
+492
+00:58:43,721 --> 00:58:45,560
+Already Herring understood that.
+
+493
+00:58:45,560 --> 00:58:51,401
+Herring said there's an appropriate distance from which to view the size of the object, and that's its true size.
+
+494
+00:58:51,401 --> 00:59:03,801
+His mistake was to say that that's the way I experience its size no matter what distance I am from it, by replacing my experience of it now with the memory that I had of it when I saw it at that distance.
+
+495
+00:59:04,361 --> 00:59:07,801
+But he recognizes that there is an appropriate distance.
+
+496
+00:59:07,801 --> 00:59:14,601
+And Melofonte depends on the idea that I experience some distance to be appropriate.
+
+497
+00:59:14,921 --> 00:59:28,801
+But the difference is that the appropriate distance for Mero-Ponty has an essential kind of normativity built into it, an experience kind of normativity.
+
+498
+00:59:27,881 --> 00:59:34,400
+It's not just that it is the distance at which I see the size best.
+
+499
+00:59:34,721 --> 00:59:36,880
+You could determine that by doing experiments.
+
+500
+00:59:36,881 --> 00:59:44,961
+You could just see from which distance the subject is best at judging the size of an object.
+
+501
+00:59:45,361 --> 00:59:48,480
+You could ask them, well, you know, what's the size here?
+
+502
+00:59:48,480 --> 00:59:50,560
+And they could say seven foot six.
+
+503
+00:59:50,560 --> 00:59:51,520
+And you could ask them here.
+
+504
+00:59:51,841 --> 00:59:57,601
+And you could ask them, you know, at various distances what the size of an object is.
+
+505
+00:59:57,600 --> 01:00:03,121
+And there will be some distance from which they are the best at judging that size.
+
+506
+01:00:03,120 --> 01:00:06,161
+And that's all the psychologist needs.
+
+507
+01:00:06,160 --> 01:00:11,280
+That's all the psychologist needs to say that there's an optimum distance from which to view the thing.
+
+508
+01:00:11,281 --> 01:00:23,200
+That's the distance from which the subject makes the best judgments about what the size of a thing is, or makes the best judgments about what the shape of the object is, or makes the best judgments about what the color of the object is.
+
+509
+01:00:23,520 --> 01:00:32,480
+But that's not the sense in which Mero-Ponty understands the appropriate distance from which to experience the size of an object.
+
+510
+01:00:32,480 --> 01:00:36,160
+For Mero-Ponte, it's essentially a phenomenological fact.
+
+511
+01:00:36,160 --> 01:00:41,761
+It's something that I experience in experiencing the size of an object.
+
+512
+01:00:41,761 --> 01:00:47,281
+That I'm now too close to see it well and need to move back.
+
+513
+01:00:47,281 --> 01:00:50,721
+I'm now too far away to see it well and need to move forward.
+
+514
+01:00:50,721 --> 01:00:56,721
+It's not a statistical fact about me that I make the best judgments when I'm at this distance.
+
+515
+01:00:56,721 --> 01:01:02,721
+It's a phenomenological fact that I need to get closer in order to pay attention to it.
+
+516
+01:01:02,721 --> 01:01:07,841
+And I think that's why the picture in the art gallery is a good example.
+
+517
+01:01:07,841 --> 01:01:14,201
+The idea of the picture in the art gallery, as I read it, is, if you've been to art galleries, you know this.
+
+518
+01:01:14,200 --> 01:01:22,121
+You just find yourself coordinating your activity with respect to the painting when you're paying attention to it.
+
+519
+01:01:22,120 --> 01:01:23,881
+You don't think about it.
+
+520
+01:01:24,200 --> 01:01:28,281
+You don't make judgments about the distance to the object.
+
+521
+01:01:28,281 --> 01:01:35,800
+You just immediately find yourself coordinating yourself with respect to the object when you're trying to pay attention to it.
+
+522
+01:01:35,801 --> 01:01:42,361
+So if, for instance, I want to pay attention to the overall composition of the painting, I find myself backing up.
+
+523
+01:01:42,361 --> 01:01:45,801
+I don't think beforehand that I want to back up.
+
+524
+01:01:46,120 --> 01:01:50,361
+It's not because I'm making some judgment about the distance to the object.
+
+525
+01:01:50,361 --> 01:01:55,321
+I'm just immediately solicited to act that way in that context.
+
+526
+01:01:55,321 --> 01:02:04,200
+And that's the sense in which I feel a kind of normative pung to put myself in the appropriate relation to the object.
+
+527
+01:02:04,200 --> 01:02:14,921
+So the way I understand it, the psychologist could take the appropriate relation to the object just to be the statistical norm.
+
+528
+01:02:15,241 --> 01:02:21,241
+Whereas for Merrill Fonti, the appropriate relation to the object is really felt.
+
+529
+01:02:21,241 --> 01:02:23,160
+It's really a part of the phenomenology.
+
+530
+01:02:23,160 --> 01:02:28,201
+And in fact, that's the way in which I experienced the distance to it.
+
+531
+01:02:28,200 --> 01:02:35,400
+It's in terms of whether that's a distance that requires me to move back or that requires me to move forward.
+
+532
+01:02:35,480 --> 01:02:39,401
+Requires me to increase it or requires me to decrease it.
+
+533
+01:02:39,401 --> 01:02:41,881
+So I think that's the difference.
+
+534
+01:02:41,881 --> 01:02:47,721
+One is a felt phenomenological norm, even if it's not noticed.
+
+535
+01:02:47,721 --> 01:02:51,000
+It's just the kind of thing you automatically find yourself doing.
+
+536
+01:02:51,000 --> 01:02:52,760
+And the other is at least potentially.
+
+537
+01:02:53,480 --> 01:02:59,200
+So is this felt relative to the cost-created parents and clean composition?
+
+538
+01:02:57,881 --> 01:03:04,081
+Yeah, it certainly is cost-relative in one sense.
+
+539
+01:03:05,120 --> 01:03:09,600
+It's certainly, I know this is a sort of background theme of the question.
+
+540
+01:03:09,600 --> 01:03:12,081
+It certainly is cost-relative in one sense.
+
+541
+01:03:12,401 --> 01:03:27,601
+If I need to pay attention to the texture of the paintstrokes, then an appropriate distance will be much closer, and it'll be felt to be much closer than if I need to pay attention to the overall composition of the painting.
+
+542
+01:03:27,600 --> 01:03:50,961
+But it may be true that in another sense, this gets complicated, but it may be true that in another sense, even when I'm paying attention to the texture of paintstrokes, and so I'm very close up, I've experienced myself to be paying attention to the texture of the paintstrokes of that painting.
+
+543
+01:03:50,961 --> 01:03:57,520
+That's to say, a painting which, qua painting, requires to be seen far back.
+
+544
+01:03:58,160 --> 01:04:09,441
+So I think there is a set, and I think this goes along very well with that second sentence of the chapter that says a thing has its characteristics, its size and its shape.
+
+545
+01:04:09,441 --> 01:04:16,240
+The idea is that I experience first the object and only afterwards the various qualities of the object.
+
+546
+01:04:16,241 --> 01:04:24,560
+Now, if I want to pay attention to some subset of the qualities, I may have to reorient myself and there will be different norms.
+
+547
+01:04:24,560 --> 01:04:37,360
+But insofar as I experience them to be qualities of that object, I already experienced myself to be, say, too close to see the object, though quite in the right position to see its, you know, this facet of it.
+
+548
+01:04:37,600 --> 01:04:51,961
+Yes, Olivia, perceptual behavior is being oriented by the fact that doing against you just to appear and be what you're doing is past related.
+
+549
+01:04:51,961 --> 01:04:59,720
+The question is whether what whether in doing that, you also experience yourself to have a relation to the object.
+
+550
+01:05:01,000 --> 01:05:01,640
+Well, that's right.
+
+551
+01:05:01,640 --> 01:05:02,520
+I think that's right.
+
+552
+01:05:04,040 --> 01:05:09,161
+It all depends on whether what you think you experience first are parts or objects.
+
+553
+01:05:09,321 --> 01:05:12,920
+I know honkey and cause are both very clear, though for different reasons.
+
+554
+01:05:12,921 --> 01:05:15,000
+But what you experience first are objects.
+
+555
+01:05:15,000 --> 01:05:19,080
+And even if you're paying attention to some part of it, you experience it as a part of that object.
+
+556
+01:05:19,721 --> 01:05:20,600
+Yeah, exactly.
+
+557
+01:05:21,881 --> 01:05:22,441
+Yeah, exactly.
+
+558
+01:05:24,120 --> 01:05:24,600
+Yeah, Britt.
+
+559
+01:05:24,921 --> 01:05:30,921
+It seems like you have property constancies on the one hand and then this object constancy on the other.
+
+560
+01:05:31,080 --> 01:05:40,920
+And it it's clear how when the object is the focus of our attention, whether it's a painting or a property of a specific object, that I do experience this tension.
+
+561
+01:05:40,921 --> 01:05:45,480
+But then there's also the problem of the background constancies of everything else.
+
+562
+01:05:45,480 --> 01:05:49,800
+I'm looking at you listening to what you're saying, noting the nodding gestures and so on.
+
+563
+01:05:49,801 --> 01:05:53,800
+But then there's all this stuff happening around the noises and the light and the colors.
+
+564
+01:05:54,040 --> 01:05:57,881
+And so it also seems like you wanted an account for the constancies of those things.
+
+565
+01:05:57,881 --> 01:06:03,000
+And it seems, you know, I wonder what that story would be and if it would be the I'm not sure I understood.
+
+566
+01:06:03,160 --> 01:06:04,921
+I I mean I can say this much.
+
+567
+01:06:04,921 --> 01:06:07,241
+I'm not sure if this is the distinction you're making.
+
+568
+01:06:07,241 --> 01:06:27,921
+It is true that there's a difference between the phenomenon of color constancy set, that I experience an object to have a constant color for a variation of the lighting pump, and object constancy set, that I experience an object to remain the same object throughout variantations of of presentation.
+
+569
+01:06:27,640 --> 01:06:30,720
+And there are weird ways in which this can go awry.
+
+570
+01:06:31,761 --> 01:06:43,121
+There are sort of strange neuropsychological cases where people can, where people come in and claim that, you know, my wife was replaced by an alien.
+
+571
+01:06:43,120 --> 01:06:46,000
+Because, and I can tell you, Doc, she was replaced by an alien.
+
+572
+01:06:46,000 --> 01:06:50,721
+She looks exactly the same, but she's a different person.
+
+573
+01:06:51,120 --> 01:06:59,041
+She looks, every visual property of her is the same, but it's not her anymore.
+
+574
+01:06:59,040 --> 01:07:01,441
+Well, that's not a visual property on this view, right?
+
+575
+01:07:01,441 --> 01:07:09,121
+She looks the same color, the same shape, the same size, same haircut, same clothes, same skin texture, same, and so on.
+
+576
+01:07:09,120 --> 01:07:11,120
+But she doesn't look kissable.
+
+577
+01:07:11,120 --> 01:07:17,761
+And that may be related to why the person doesn't experience her as the same person anymore.
+
+578
+01:07:17,761 --> 01:07:22,240
+So that wouldn't by itself be an explanation of it.
+
+579
+01:07:22,241 --> 01:07:27,601
+I mean, it's equally possible that if she doesn't look kissable, it's because I've fallen out of love with her.
+
+580
+01:07:28,000 --> 01:07:30,480
+Maybe more natural than that she would look kissable.
+
+581
+01:07:30,721 --> 01:07:44,480
+So, but anyhow, this is just to say there may be a phenomenon of object constancy, where that's something that transcends even the phenomenon of the experience of an object as having constant properties.
+
+582
+01:07:44,480 --> 01:07:48,000
+I can experience it to be constant or not.
+
+583
+01:07:48,000 --> 01:07:51,921
+And this looks like a, and that may be a different issue.
+
+584
+01:07:52,160 --> 01:08:03,760
+And when Merlot Honky says with cough that it's objects that I'm directed towards, I think he does mean objects in the pervert of Strawstonian phrase, the wavy sense, right?
+
+585
+01:08:03,721 --> 01:08:06,240
+So I'm directed towards my wife.
+
+586
+01:08:06,240 --> 01:08:10,480
+And now that she's been replaced by an alien, she's a different thing.
+
+587
+01:08:11,521 --> 01:08:18,200
+So that might be a different phenomenon that Merlot sort of touches on, but doesn't characterize.
+
+588
+01:08:18,440 --> 01:08:29,400
+I guess what I was getting at was more there almost seems to be like a chicken egg problem in that you have the properties of an object on the one hand and we say its properties.
+
+589
+01:08:29,881 --> 01:08:41,400
+And so it seems like comment in Rerlopan TV on your reading is going to place a priority on our sense of there being this one object there and that is the object that has its political figure.
+
+590
+01:08:41,400 --> 01:08:41,561
+Yeah.
+
+591
+01:08:43,160 --> 01:08:44,600
+And these kinds of things.
+
+592
+01:08:44,601 --> 01:08:53,480
+And so if there is this kind of priority on the object in that sense, I'm curious to know about stuff like the wall that's unbuckling to you.
+
+593
+01:08:53,961 --> 01:09:07,000
+But like in your discussions about the color of the wall with Alva Alba and others and bringing contrast to Russell, then if the wall's color becomes the focus of the conversation, then we're sort of paying attention to the wall.
+
+594
+01:09:07,000 --> 01:09:13,160
+But I'm curious about how we sustain the constancy of the wall while I'm just talking to you and I don't even care about particularly the wall.
+
+595
+01:09:13,721 --> 01:09:15,240
+So I don't feel attention.
+
+596
+01:09:15,240 --> 01:09:18,200
+I don't feel drawn to look at the wall when I'm talking to you.
+
+597
+01:09:18,521 --> 01:09:19,881
+Yeah, I do experience the wall.
+
+598
+01:09:20,200 --> 01:09:20,600
+Good.
+
+599
+01:09:20,601 --> 01:09:27,961
+Well, I do have something long and complicated to say about this, and we'll hope to try to say something about it Thursday.
+
+600
+01:09:27,961 --> 01:09:44,040
+Roughly, the story is that the way in which you experience the wall when it's part of your visual field as the background to me, which is what you're focused on, is that you experience it as having a view on me.
+
+601
+01:09:44,040 --> 01:09:51,000
+If you experience it as something that maintains me as a constant figure that has a backside, as Merlovoni says.
+
+602
+01:09:51,080 --> 01:09:52,761
+That's how you explain that marketing passage.
+
+603
+01:09:52,841 --> 01:09:53,160
+Yeah.
+
+604
+01:09:53,481 --> 01:09:53,881
+Exactly.
+
+605
+01:09:53,881 --> 01:09:55,841
+Well, we're at 60, 68, or whatever.
+
+606
+01:09:55,721 --> 01:09:57,440
+Yeah.
+
+607
+01:09:57,681 --> 01:10:04,400
+But that's the passage where Revolvanti says, I experience objects as seeing one another.
+
+608
+01:10:04,721 --> 01:10:09,600
+I experience the chimney as having a view on the back side of the lamp.
+
+609
+01:10:09,601 --> 01:10:12,000
+Can I remind you that you guys can guess it?
+
+610
+01:10:12,080 --> 01:10:20,961
+If you read Sean's paper, it's on the website of seeing things in the Arlofonte, where he discusses this whole issue.
+
+611
+01:10:20,961 --> 01:10:27,360
+And if you get time and more inventory than Arlo Fonti for Thursday, that's the thing to do.
+
+612
+01:10:27,761 --> 01:10:30,400
+Somebody Martin was saying it's hard to find on the website, is it?
+
+613
+01:10:30,400 --> 01:10:32,400
+On the web, do you mean even by what you're talking about?
+
+614
+01:10:32,641 --> 01:10:41,280
+On the website for the course, there's a link to what did I call it, a virtual reader or papers for the course, something like that.
+
+615
+01:10:43,280 --> 01:10:48,560
+You go to the department, you go to me, you go to my courses, you go to this course.
+
+616
+01:10:50,561 --> 01:10:52,641
+Not this person, because I'm May left.
+
+617
+01:10:52,641 --> 01:10:52,881
+Yeah.
+
+618
+01:10:52,881 --> 01:10:55,120
+But you must have plenty of thumbs up.
+
+619
+01:10:56,961 --> 01:10:58,801
+Okay, there we go if you want to do it.
+
+620
+01:10:58,801 --> 01:10:59,200
+Okay.
+
+621
+01:10:59,200 --> 01:10:59,841
+Okay.
+
+622
+01:11:00,080 --> 01:11:00,320
+Yeah.
+
+623
+01:11:01,681 --> 01:11:05,120
+There is one sort of optimal way of looking at an object.
+
+624
+01:11:05,120 --> 01:11:09,841
+So suppose just to simplify that there's four properties of object you're concerned with.
+
+625
+01:11:09,841 --> 01:11:13,600
+It's shape, its color, its size, and say its texture.
+
+626
+01:11:14,481 --> 01:11:23,360
+I can just very well imagine that a variety of different perspectives on that same object will give me some ratio of balance between taking in those different properties.
+
+627
+01:11:23,360 --> 01:11:29,680
+And there may be multiple different perspectives which grant me sort of an equal ratio.
+
+628
+01:11:31,040 --> 01:11:32,881
+I don't mean to say something determinate about that.
+
+629
+01:11:33,681 --> 01:11:46,600
+No, I think I think it's an extreme oversimplification to suggest that there's one optimum position from which to stand to see to see the object best.
+
+630
+01:11:42,801 --> 01:11:49,240
+I think in every real case it's false.
+
+631
+01:11:49,561 --> 01:11:54,360
+It's false for a very simple reason once you've got three-dimensional objects, right?
+
+632
+01:11:54,601 --> 01:12:05,000
+I mean, for three in the case of color and lighting context, you can imagine that maybe in laboratory contexts, the simplification actually works.
+
+633
+01:12:05,000 --> 01:12:14,760
+So that there really is a best lighting context in which to view the color of this object today, given my mood and my visual acuity and so on.
+
+634
+01:12:15,080 --> 01:12:17,240
+So maybe that's right.
+
+635
+01:12:17,240 --> 01:12:28,600
+But once you get into real objects, it's sort of obviously false that there's a single optimal place to stand from which to see the object.
+
+636
+01:12:28,681 --> 01:12:30,761
+You don't even need to add other qualities.
+
+637
+01:12:30,761 --> 01:12:34,040
+You can just make the object a full three-dimensional object.
+
+638
+01:12:34,040 --> 01:12:43,160
+And then, as Mervyn Holmkey says, the optimum view from which to see the object is the view from everywhere.
+
+639
+01:12:43,160 --> 01:12:45,240
+Not the light mitzvah view from nowhere.
+
+640
+01:12:45,240 --> 01:12:47,320
+He rails about that against that.
+
+641
+01:12:47,320 --> 01:12:48,600
+But the view from everywhere.
+
+642
+01:12:48,601 --> 01:12:53,480
+Because that's the view that presents equally all sides of the object.
+
+643
+01:12:53,481 --> 01:12:55,560
+But of course, that's not a view that I can take.
+
+644
+01:12:56,120 --> 01:13:04,440
+So every perspective that I take on the object is going to be a deviation in some way or another from that optimum.
+
+645
+01:13:04,761 --> 01:13:12,921
+So the optimum doesn't have to be an optimum that I could take up.
+
+646
+01:13:14,440 --> 01:13:27,160
+It doesn't have to be an optimum that's possible an optimum context that it's possible for me to be in in order for me, nevertheless, to experience the current situation to be a deviation from it.
+
+647
+01:13:27,160 --> 01:13:31,040
+And I think that's what will go on when you get these multiple qualities.
+
+648
+01:13:31,040 --> 01:13:38,560
+I mean, the optimum will be this sort of crazy thing and it's just sort of not possible to even to imagine maybe.
+
+649
+01:13:38,561 --> 01:13:44,881
+But still, I could experience my current context, given my current needs and desires and so on, to be a deviation.
+
+650
+01:13:45,040 --> 01:13:51,600
+So when Relevanti says we have a tendency towards getting a maximum grid, do you think it's that optimum, an achievable?
+
+651
+01:13:51,921 --> 01:14:09,520
+Yeah, I mean, in the case of, say, the simple case of experiencing an object as a full three-dimensional object, to say that we're tending towards it is different than to say it's achievable or the kind of thing I could even imagine myself achieving.
+
+652
+01:14:09,521 --> 01:14:19,681
+But it is to say that I can experience the current context as a deviation from it in the sense that, well, here's a way to improve the current context.
+
+653
+01:14:19,841 --> 01:14:24,240
+Get a little closer, or go around to the front of the object, or and so on.
+
+654
+01:14:24,961 --> 01:14:27,520
+Turn it right side up instead of upside down.
+
+655
+01:14:28,561 --> 01:14:40,481
+Those kinds of norms will help me experience will help to characterize the experience that I have of the context, even if there are deviations from an optimum that couldn't even in principle.
+
+656
+01:14:40,721 --> 01:14:41,681
+Okay, so that'll set up.
+
+657
+01:14:41,681 --> 01:14:43,520
+So yeah, that'll set up next time.
+
+658
+01:14:43,521 --> 01:14:43,921
+Great.

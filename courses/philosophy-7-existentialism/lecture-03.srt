@@ -1,0 +1,3065 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:04,000
+As you have been trying to read it, you discover how hard it is.
+
+2
+00:00:04,000 --> 00:00:17,279
+One of the ways it's hard that I forgot to mention, besides the ones I did, it being a sort of secret message and very original and not like anything ever before in philosophy and so forth.
+
+3
+00:00:17,680 --> 00:00:23,920
+It does take up a lot of Hegel jargon, which I have to explain, like lower immediacy and mediation.
+
+4
+00:00:23,920 --> 00:00:26,719
+And I'll explain that as we go.
+
+5
+00:00:27,360 --> 00:00:31,760
+And I've been asked whether there are any good books about fear and trembling.
+
+6
+00:00:31,760 --> 00:00:33,599
+And there aren't, as far as I know.
+
+7
+00:00:33,600 --> 00:00:36,039
+There may be some one somewhere that I don't know about.
+
+8
+00:00:35,440 --> 00:00:42,760
+But there is what would be one good book if the woman who wrote it hadn't been, isn't so shy about publishing it.
+
+9
+00:00:43,000 --> 00:00:57,000
+A former student in this course who then became a GSI in this course and finally wrote her thesis on Kierkegaard and then became a professor here, assistant, an instructor here, and taught a Kierkegaard course.
+
+10
+00:00:57,000 --> 00:00:59,560
+Her thesis is the best thing on Kierkegaard.
+
+11
+00:00:59,560 --> 00:01:04,920
+So I wouldn't be telling you this if it wasn't that I'm going to put it on reserve for Philosophy 7.
+
+12
+00:01:04,920 --> 00:01:08,440
+I think it's more important for you to read Kierkegaard over and over.
+
+13
+00:01:08,440 --> 00:01:18,680
+But if you want to know where Fear and Trembling fits in all the writing of Kierkegaard and what the whole system is in which it's a piece, then that's the book to read.
+
+14
+00:01:18,680 --> 00:01:21,959
+It's called Too Much of Nothing by Jane Rubin.
+
+15
+00:01:21,959 --> 00:01:23,160
+And it's not a book.
+
+16
+00:01:23,639 --> 00:01:25,159
+It's a big fat thing.
+
+17
+00:01:25,159 --> 00:01:27,560
+It's her PhD thesis.
+
+18
+00:01:27,560 --> 00:01:30,680
+Okay, now I think we can go on.
+
+19
+00:01:31,000 --> 00:01:37,880
+In spite of Jane and her thesis, there's still plenty of room for understanding this book, plenty of problems that I haven't figured out yet.
+
+20
+00:01:38,760 --> 00:01:43,400
+And every year somebody makes some progress in making it all fit together.
+
+21
+00:01:43,560 --> 00:01:58,920
+Kierkegaard is trying this crazy thing of trying to make his secret story with Regina and the Western experience, the whole Western philosophical attempt to deal with romantic, to invent and then deal with romantic love.
+
+22
+00:01:58,919 --> 00:02:06,920
+And finally, let's see, the third thing, and the Abraham Isaac story, that's what really messes things up, all fit together.
+
+23
+00:02:06,919 --> 00:02:11,000
+And it's amazing how far he gets, but they don't quite fit together.
+
+24
+00:02:11,000 --> 00:02:12,440
+And that's a problem.
+
+25
+00:02:12,439 --> 00:02:15,080
+And I will try to fit them together as I see it.
+
+26
+00:02:15,080 --> 00:02:18,200
+And I'm ready to be told that there are better ways.
+
+27
+00:02:18,200 --> 00:02:43,360
+But now, as I said, and I just was talking about this at the end last time, when you teach an existentialist book, you've got to look for the defining experience, the revelation that the author has and is trying to get you to see and be open to experiencing and seeing the world the way it looks once you have this experience.
+
+28
+00:02:43,360 --> 00:02:46,480
+That's what we're going to plunge into today.
+
+29
+00:02:46,799 --> 00:02:50,800
+There's one other thing, however, just before I do it, just to remember it again.
+
+30
+00:02:50,799 --> 00:02:54,159
+There's one thing I wish I had said earlier, but I better say it now.
+
+31
+00:02:54,159 --> 00:02:57,440
+It's better to say it now, even though it's not quite where it fits.
+
+32
+00:02:57,760 --> 00:03:13,040
+Another feature of these existential writers is they've got an extremely moral picture of what the good life is and what people should be doing and what people shouldn't be doing, but they don't have an ethical code.
+
+33
+00:03:13,039 --> 00:03:22,800
+They don't try to give you any ethical principles, and they don't try to give you any arguments for their ethical position, their view about what the good life is.
+
+34
+00:03:22,799 --> 00:03:31,840
+Instead, starting with Pascal already, they describe various sorts of lives and how they will work out.
+
+35
+00:03:31,840 --> 00:03:42,160
+And they argue that only the one that they're promoting will make you have a joyful and meaningful life, and all the others will lead to despair.
+
+36
+00:03:42,159 --> 00:03:50,240
+So Kierkegaard's got a lot to say about the despair for the night of resignation, as you will see, have seen already.
+
+37
+00:03:50,240 --> 00:03:54,320
+And he's got a lot to say about the bliss of the night of faith.
+
+38
+00:03:54,319 --> 00:03:57,039
+He wants to show you those in his description.
+
+39
+00:03:57,039 --> 00:04:01,200
+And the idea that a wrong way to live is a way that leads to despair.
+
+40
+00:04:01,200 --> 00:04:04,400
+Dostoevsky also is very clear about that.
+
+41
+00:04:04,399 --> 00:04:11,160
+There's one character in the brothers who is like a philosopher and who ends in despair.
+
+42
+00:04:11,159 --> 00:04:19,480
+But that's a way of arguing that this philosophical view of human beings and how they should live, if you really try to live it, doesn't work.
+
+43
+00:04:19,480 --> 00:04:23,159
+So just keep that in the back of your mind as you read.
+
+44
+00:04:23,159 --> 00:04:44,360
+Try to figure out not only what the revealing experience is, but which experience, which way of looking at the world the writer thinks will lead you to bliss and meaning and fulfillment and so forth, joy in Dostoevsky language, bliss in Kierkegaard language, and which ones will lead you to despair.
+
+45
+00:04:44,600 --> 00:04:52,120
+Okay, now I'm back to the, and here we go, back to the example on page 70 where I was at the end last time.
+
+46
+00:04:52,120 --> 00:05:00,680
+It's about the lad who falls in love with the princess, and that's the most important thing.
+
+47
+00:05:00,840 --> 00:05:08,760
+And there's a kind of mistranslation here I didn't mention last time, but I think I should.
+
+48
+00:05:08,919 --> 00:05:12,360
+It goes by so fast you probably correct it without noticing.
+
+49
+00:05:12,360 --> 00:05:18,360
+A young lad falls in love with a princess, and the content of his whole life lies in this love.
+
+50
+00:05:18,679 --> 00:05:20,200
+I think it ought to be.
+
+51
+00:05:20,200 --> 00:05:23,240
+And the what is it now?
+
+52
+00:05:23,240 --> 00:05:24,200
+Let's see.
+
+53
+00:05:24,200 --> 00:05:26,200
+Not the content of his whole life.
+
+54
+00:05:26,200 --> 00:05:29,560
+The whole content of his life is what it really is trying.
+
+55
+00:05:29,559 --> 00:05:33,240
+The whole content of his life lies in love.
+
+56
+00:05:33,319 --> 00:05:34,520
+That's the earlier.
+
+57
+00:05:34,519 --> 00:05:36,120
+I mean, I don't read Danish very well.
+
+58
+00:05:36,120 --> 00:05:44,200
+I try sometimes, but I know that the previous translation sometimes gets things clearer than this one.
+
+59
+00:05:44,200 --> 00:05:46,920
+And that's one of the little places where it happens.
+
+60
+00:05:46,919 --> 00:05:48,200
+There's another one coming up soon.
+
+61
+00:05:48,279 --> 00:05:49,800
+I'll tell you about it in a minute.
+
+62
+00:05:49,799 --> 00:05:56,159
+So here we've got this example of what I called last time an unconditional commitment.
+
+63
+00:05:56,480 --> 00:05:58,720
+But this time I want to put it more in context.
+
+64
+00:05:58,720 --> 00:06:02,559
+Last time I was just rushing to tell you enough so that you could find your way around.
+
+65
+00:06:02,559 --> 00:06:05,920
+How many feel that they found their way around somewhat in reading it?
+
+66
+00:06:06,639 --> 00:06:10,880
+How many felt completely lost as if they were in total alien territory?
+
+67
+00:06:10,880 --> 00:06:18,559
+Well, maybe, I mean, either, who knows whether it's a question of honesty or what, but I don't get much of an answer.
+
+68
+00:06:18,559 --> 00:06:23,040
+Well, but by the end of today, I think you won't feel so alien territory.
+
+69
+00:06:23,039 --> 00:06:25,440
+Let's start sort of where you are.
+
+70
+00:06:25,439 --> 00:06:45,279
+That is, Kierkegaard writing in his journals when he was 22, pretty much your age, and what he was looking for for his life, because that's what happens when he, that's why he went after Regino with such total craziness.
+
+71
+00:06:45,279 --> 00:06:59,040
+But anyway, here's what he says: What I really lack is to be clear in my mind what I am to do, underlines, not what I am to know, except insofar as a certain understanding must precede action.
+
+72
+00:06:59,039 --> 00:07:05,680
+The thing is to understand myself, to see what God really wishes me to do.
+
+73
+00:07:05,680 --> 00:07:14,160
+The thing is to find a truth that is true for me, to find, again, underline, the idea for which I can live and die.
+
+74
+00:07:14,159 --> 00:07:20,480
+That is, you know, this is what I call an unconditional commitment that gives you an identity.
+
+75
+00:07:20,799 --> 00:07:26,480
+And then he remembers romantic love with the lad and the princess is one example.
+
+76
+00:07:26,480 --> 00:07:37,400
+But remember, on the next page in the footnote, any other interest in whatever, in which an individual concentrates the whole of life's reality, would be this.
+
+77
+00:07:38,039 --> 00:07:45,880
+Just to comment on this, when he says he wants to know what God wishes me to do, that's interesting.
+
+78
+00:07:46,840 --> 00:07:53,880
+In the old days, people had a calling or a vocation that literally means what God was calling them to do.
+
+79
+00:07:53,880 --> 00:07:57,400
+Sometimes to be a monk or a nun, but other things too.
+
+80
+00:07:58,039 --> 00:08:03,160
+So the vocation and calling are just the same word in different languages, so to speak.
+
+81
+00:08:04,519 --> 00:08:13,000
+And there's still sort of an idea in the background of Kierkegaard that there is this calling.
+
+82
+00:08:13,000 --> 00:08:34,760
+He doesn't really believe anymore in an individual God actually sending a message, but he does believe that there is this experience in which this absolute authority, there isn't any person there, but something calls you, or you get a calling.
+
+83
+00:08:34,760 --> 00:08:35,880
+It's the only way to put it there.
+
+84
+00:08:35,960 --> 00:08:37,399
+Something is too much again.
+
+85
+00:08:37,399 --> 00:08:42,680
+He's trying to keep this creator, God the Father, out of his story.
+
+86
+00:08:43,000 --> 00:08:46,520
+I'll tell you all, just jumping ahead, just so you won't think I'm crazy.
+
+87
+00:08:46,519 --> 00:08:59,639
+He says in another book of his, once Jesus comes, that you've got to relate to Jesus, the God-man, he cuts off access to the God the Father.
+
+88
+00:08:59,639 --> 00:09:03,479
+And that's because what all these people were reading have in common.
+
+89
+00:09:03,480 --> 00:09:18,360
+Remember, they think in various ways that something you have to purge this of the philosophical baggage that comes from Plato of thinking that there is some super supreme being, in which a term stands.
+
+90
+00:09:18,360 --> 00:09:22,559
+So there's no supreme being doing the calling.
+
+91
+00:09:23,120 --> 00:09:27,519
+What Kierkegaard is asking in this is: what's his calling?
+
+92
+00:09:27,519 --> 00:09:36,480
+That is, what does some what has absolute authority in his life and tells him who he is and what to do?
+
+93
+00:09:36,480 --> 00:09:39,120
+And that is this unconditional commitment.
+
+94
+00:09:39,120 --> 00:09:44,160
+And it's something that you could live or die for.
+
+95
+00:09:44,159 --> 00:09:48,560
+It's, as he says, it's not an idea that you could live or die for.
+
+96
+00:09:48,559 --> 00:09:54,160
+He's writing at 22 in his journals, and that's pretty young and pretty, he isn't quite clear about that.
+
+97
+00:09:54,559 --> 00:09:56,639
+You don't live and die for an idea.
+
+98
+00:09:56,639 --> 00:09:58,480
+Nobody should do that.
+
+99
+00:09:58,480 --> 00:10:00,639
+Galileo wouldn't do that.
+
+100
+00:10:02,480 --> 00:10:08,960
+You can only live and die for some particular person or particular cause.
+
+101
+00:10:08,960 --> 00:10:17,360
+And he knows that later and sees that the idea, he wouldn't say anymore that you could live and die for an idea.
+
+102
+00:10:17,360 --> 00:10:18,960
+That's too abstract.
+
+103
+00:10:19,279 --> 00:10:21,919
+Okay, but the basic idea is there.
+
+104
+00:10:21,919 --> 00:10:31,039
+He wants to find out who he is, and to find out who he is, he has to find out what his own individual commitment is.
+
+105
+00:10:32,319 --> 00:10:39,919
+And when he does, the first thing you have to realize is it can't be just a strong feeling.
+
+106
+00:10:39,920 --> 00:10:47,039
+A strong feeling, to put it in the love kind of terms, would be an infatuation.
+
+107
+00:10:47,039 --> 00:10:49,039
+It wouldn't define who you were.
+
+108
+00:10:49,039 --> 00:10:52,559
+It would just be maybe the most exciting thing in your world.
+
+109
+00:10:52,559 --> 00:11:00,639
+But the real unconditional commitment defines who you are and what counts in your world.
+
+110
+00:11:01,440 --> 00:11:04,559
+So you're going to get rid of this strong feeling.
+
+111
+00:11:04,559 --> 00:11:09,399
+That is on 71, and then about five lines down.
+
+112
+00:11:09,720 --> 00:11:22,600
+Once the lad has got this call from the princess, which gives him the whole content of his life, he has to make sure that he's just not being swept away by some emotion.
+
+113
+00:11:22,599 --> 00:11:25,720
+And that's about seven lines down on 71.
+
+114
+00:11:25,720 --> 00:11:34,279
+He first makes sure that this really is the content of his life, and his soul is too healthy and proud to squander the least thing on getting drunk.
+
+115
+00:11:34,279 --> 00:11:35,639
+Well, clunk, clunk.
+
+116
+00:11:35,640 --> 00:11:37,640
+That can't be right, getting drunk.
+
+117
+00:11:38,039 --> 00:11:43,880
+What the other translation says, and I'm sure it's much better, on an intoxication.
+
+118
+00:11:44,200 --> 00:11:54,119
+And what I take it, that really means something like a word.
+
+119
+00:11:54,440 --> 00:11:57,639
+Well, I think I even said it a minute ago.
+
+120
+00:11:57,640 --> 00:11:58,919
+Not love.
+
+121
+00:11:59,079 --> 00:12:00,679
+Oh, infatuation, yeah.
+
+122
+00:12:01,000 --> 00:12:03,240
+In the love story, it's infatuation.
+
+123
+00:12:03,240 --> 00:12:08,519
+In a more general sense, it's some big emotional experience.
+
+124
+00:12:08,519 --> 00:12:10,519
+It's got nothing to do with getting drunk.
+
+125
+00:12:10,519 --> 00:12:13,799
+Although you can see why the same word might get in there.
+
+126
+00:12:15,160 --> 00:12:28,920
+And then the first point I want to make is: so Kierkegaard is against the idea that you can stand up against philosophy and rationality in the name of some strong irrational feeling.
+
+127
+00:12:29,240 --> 00:12:34,279
+That's what the Romantics did, the German Romantics in the 1800s.
+
+128
+00:12:34,279 --> 00:12:49,640
+And that's to relapse into the sort of childish kind of overpowering emotions that people have and out and grow, according to Kierkegaard.
+
+129
+00:12:49,640 --> 00:12:53,519
+This is important because Kierkegaard thought the Greek philosophers were right.
+
+130
+00:12:53,839 --> 00:13:02,079
+We should get over our infatuations and moods and superstitions and wild passions and all that.
+
+131
+00:13:02,079 --> 00:13:10,400
+And the name for them that he uses is the first bit of Kierkegaard jargon that you're going to, I'm sorry, Hegel jargon you're going to have to get used to.
+
+132
+00:13:11,519 --> 00:13:14,240
+Let me try to do this right for a change.
+
+133
+00:13:16,480 --> 00:13:19,760
+Lower immediacy.
+
+134
+00:13:26,559 --> 00:13:31,679
+Oh, I'm printing it much too little, and I got blamed for that in the email.
+
+135
+00:13:31,680 --> 00:13:33,359
+Let me try again.
+
+136
+00:13:46,480 --> 00:13:48,959
+Lower immediacy is Hegel jargon.
+
+137
+00:13:48,960 --> 00:13:50,000
+Did I spell it right?
+
+138
+00:13:50,000 --> 00:13:50,959
+You're looking unhappy.
+
+139
+00:13:50,960 --> 00:13:52,399
+What did I do?
+
+140
+00:13:53,359 --> 00:13:54,319
+Me, immediately.
+
+141
+00:13:54,720 --> 00:13:56,319
+Ah, that's it.
+
+142
+00:13:58,559 --> 00:14:01,279
+You're supposed to tell me when I do that.
+
+143
+00:14:03,839 --> 00:14:05,679
+I had a hunch there was something.
+
+144
+00:14:05,680 --> 00:14:06,799
+There we go.
+
+145
+00:14:06,799 --> 00:14:07,680
+Okay.
+
+146
+00:14:08,799 --> 00:14:18,720
+So, lower immediacy is feeling, impulse, and it's why I call it immediacy.
+
+147
+00:14:18,720 --> 00:14:30,000
+I'm trying to really give you a real quick course, in Hegel by going, by doing what I think nobody does in a course in Hegel, trying to get you to understand why he uses such weird language.
+
+148
+00:14:30,000 --> 00:14:31,439
+What's immediate about it?
+
+149
+00:14:31,440 --> 00:14:39,079
+It isn't sort of like, run and get me a Coke immediately, but it's something supposed to be what you start off with right off.
+
+150
+00:14:39,400 --> 00:14:43,480
+So kids have it when they're yelling for things.
+
+151
+00:14:43,480 --> 00:14:46,519
+It's something that comes over you right now.
+
+152
+00:14:46,519 --> 00:14:48,200
+That's another way to think about it.
+
+153
+00:14:48,200 --> 00:14:49,559
+It's spontaneous.
+
+154
+00:14:49,559 --> 00:14:51,799
+It hits you without reflection.
+
+155
+00:14:51,799 --> 00:15:01,400
+Now, it's not that there's something absolutely bad about it, but to become a grown-up, you've got to get control of that.
+
+156
+00:15:01,400 --> 00:15:12,279
+You've got to be critical, get rid of your superstitions, not let your passions drive you around and get constantly hurt in infatuations and so forth.
+
+157
+00:15:12,279 --> 00:15:13,960
+And how do you get rid of it?
+
+158
+00:15:13,960 --> 00:15:37,399
+Well, by critical reflecting, by thinking about it, by seeing that your superstitions, say your racial prejudices and stereotypes don't fit reality, or seeing that when you go into one of these subjective states of wild egotistical desires, bad things happen and so forth.
+
+159
+00:15:37,400 --> 00:15:51,559
+And so Kierkegaard thinks that philosophy, Hegel, sorry, Socrates and Plato, were on the right track, thinking that philosophical detached reflection is very important.
+
+160
+00:15:51,559 --> 00:15:54,839
+And he calls that mediation.
+
+161
+00:15:54,839 --> 00:15:56,439
+That's a harder one to explain.
+
+162
+00:15:56,440 --> 00:15:58,279
+It took me years to figure out.
+
+163
+00:15:58,760 --> 00:15:59,799
+Explain that.
+
+164
+00:16:04,039 --> 00:16:10,920
+I see now already that I regret not writing lower immediacy at the bottom and mediation higher up.
+
+165
+00:16:11,720 --> 00:16:14,199
+These are getting better and better.
+
+166
+00:16:19,640 --> 00:16:28,879
+There's still something to be the immediacy.
+
+167
+00:16:29,279 --> 00:16:30,720
+We're going to need that.
+
+168
+00:16:30,720 --> 00:16:36,159
+Okay, now blackboards are not my favorite things around you.
+
+169
+00:16:36,160 --> 00:16:46,240
+So I finally found where in ordinary English do you have anything like a sense of what Hegel means by mediation?
+
+170
+00:16:46,559 --> 00:16:49,360
+Well, and it's sort of something philosophical.
+
+171
+00:16:49,359 --> 00:16:50,160
+What could it be?
+
+172
+00:16:50,160 --> 00:16:52,880
+Well, I finally decided it's labor mediation.
+
+173
+00:16:53,519 --> 00:16:55,599
+We do have a word for that.
+
+174
+00:16:55,599 --> 00:17:00,799
+You know, the labor unions and the management are meeting and what's that, and they've got a mediator and so forth.
+
+175
+00:17:00,799 --> 00:17:01,919
+What does that mean?
+
+176
+00:17:01,920 --> 00:17:14,319
+Well, it means, at least I'm going to make it mean, somebody who helps them reflect and figure out what they really want, not just what they demand and desire right off and get all worked up about.
+
+177
+00:17:14,319 --> 00:17:22,480
+And if they do that right, they will become reasonable, articulate, and get realistic and be able to reach an understanding.
+
+178
+00:17:22,480 --> 00:17:26,319
+Mediation is understanding.
+
+179
+00:17:34,240 --> 00:17:37,760
+Lower immediacy is, you could say, undergone.
+
+180
+00:17:37,760 --> 00:17:40,720
+That is just getting driven around by it.
+
+181
+00:17:43,279 --> 00:17:48,000
+So, okay, it's good to have that kind of mediation.
+
+182
+00:17:48,319 --> 00:17:50,399
+Philosophers are right about that.
+
+183
+00:17:50,799 --> 00:17:55,679
+And it's not good to spend your life in infatuations and inebriations.
+
+184
+00:17:55,680 --> 00:18:11,159
+But Kierkegaard is proposing something not in Hegel's philosophy at all, something only possible within the Judeo-Christian tradition that hasn't been sort of undermined by the Greeks.
+
+185
+00:18:11,160 --> 00:18:15,880
+And that is that there could be something which he calls a higher immediacy.
+
+186
+00:18:15,879 --> 00:18:19,559
+That would make no sense to Hegel.
+
+187
+00:18:21,799 --> 00:18:28,760
+And I can't explain yet much about what it is, but you can already see what it's going to be.
+
+188
+00:18:28,760 --> 00:18:30,599
+I mean, it's, well, I will explain it.
+
+189
+00:18:30,599 --> 00:18:34,919
+Higher immediacy is his name for this defining commitment.
+
+190
+00:18:35,000 --> 00:18:36,519
+I haven't really explained defining.
+
+191
+00:18:36,920 --> 00:18:39,240
+Let's call it unconditional commitment.
+
+192
+00:18:39,400 --> 00:18:41,480
+But it's defining because it gives him an identity.
+
+193
+00:18:41,480 --> 00:18:42,839
+We'll come back to it.
+
+194
+00:18:42,839 --> 00:18:49,000
+So the unconditional commitment isn't just a strong feeling you have right off.
+
+195
+00:18:49,000 --> 00:18:53,240
+And it isn't a detached critical understanding either.
+
+196
+00:18:53,240 --> 00:19:00,359
+It's something special that philosophers have no place for, and Hegel has no place for.
+
+197
+00:19:00,359 --> 00:19:07,240
+Hegel has something higher than mediation, and it's called, well, it's called the concept.
+
+198
+00:19:07,240 --> 00:19:18,440
+But it's not an abstract concept, but it's sort of the state where the philosophical truth is realized in the institutions of the society.
+
+199
+00:19:18,440 --> 00:19:19,639
+Don't worry about that.
+
+200
+00:19:20,279 --> 00:19:23,000
+Kierkegaard didn't care about the state at all.
+
+201
+00:19:23,000 --> 00:19:23,960
+That's a weakness.
+
+202
+00:19:23,960 --> 00:19:26,039
+I mean, he should have it in there somewhere.
+
+203
+00:19:26,039 --> 00:19:32,839
+But he thinks whatever the state and the institutions and the public meaning is, there's something higher than that.
+
+204
+00:19:32,839 --> 00:19:37,159
+And that is each individual finding their calling.
+
+205
+00:19:37,160 --> 00:19:45,079
+So he knocks out Hegel's third stage and puts in his third stage.
+
+206
+00:19:54,160 --> 00:20:10,240
+I had this sort of question to make this clear, think of the difference between Martin Luther King's higher immediacy when he is unconditionally committed to justice now for the black people and ready to die for it.
+
+207
+00:20:10,240 --> 00:20:18,880
+And in that moving last speech, he as much as says he knows he's going to die for it, but he's been on the mountain, which means that's the higher immediacy.
+
+208
+00:20:18,879 --> 00:20:23,199
+That's why, partly why it's a mountain, partly because he's seen the promised land.
+
+209
+00:20:23,200 --> 00:20:30,640
+But in any case, it's not like JFK saying, we're going to go to the moon in, what, 10 years?
+
+210
+00:20:30,640 --> 00:20:33,199
+I forget what he said, or five, something like that.
+
+211
+00:20:33,200 --> 00:20:36,079
+JFK is not going to be crushed.
+
+212
+00:20:36,079 --> 00:20:44,319
+He didn't, if it doesn't work, he does not put his identity as the man who decided we would go to the moon.
+
+213
+00:20:44,799 --> 00:20:47,919
+Or Bush now has decided we're going to go on a Mars walk.
+
+214
+00:20:47,920 --> 00:20:49,120
+But that's great.
+
+215
+00:20:49,119 --> 00:20:54,399
+That's going to make a lot of interesting work for lots of people.
+
+216
+00:20:54,400 --> 00:20:57,119
+But it's not an unconditional commitment.
+
+217
+00:20:57,119 --> 00:21:09,279
+Another word for this, by the way, is a philosopher named Paul Tillich, who you don't have to even write down, because he's sort of forgotten, that he did have a nice term, ultimate concern.
+
+218
+00:21:09,279 --> 00:21:10,160
+That was his.
+
+219
+00:21:10,160 --> 00:21:12,720
+He was borrowing a lot from Kierkegaard.
+
+220
+00:21:12,720 --> 00:21:16,799
+He was a Christian Protestant theologian.
+
+221
+00:21:16,799 --> 00:21:23,599
+So if that, if ultimate concern makes sense better than unconditional commitment, you can try that.
+
+222
+00:21:23,920 --> 00:21:27,359
+So it determines who you are.
+
+223
+00:21:27,359 --> 00:21:33,039
+And you can see on 72, and it's important.
+
+224
+00:21:33,440 --> 00:21:37,480
+Let me read a little bit of that last paragraph, but not the part about the knight yet.
+
+225
+00:21:35,440 --> 00:21:39,799
+Never mind the knight forgetting the whole thing.
+
+226
+00:21:39,799 --> 00:21:42,039
+We're already there in resignation.
+
+227
+00:21:42,039 --> 00:21:45,799
+But he says if he forgot the whole thing, what would that be like?
+
+228
+00:21:45,799 --> 00:21:49,240
+That would be like saying, well, it never really was very important.
+
+229
+00:21:49,559 --> 00:21:53,559
+It just seemed important, this commitment, whatever it was.
+
+230
+00:21:53,559 --> 00:22:03,079
+But the knight, or anybody, does not contradict, well, the knight is somebody you'll see who stays in their unconditional commitment.
+
+231
+00:22:03,079 --> 00:22:08,199
+Then I think it's important I'm reading this because he says he doesn't contradict himself.
+
+232
+00:22:08,200 --> 00:22:12,919
+And it's a contradiction to forget the whole of one's life's content.
+
+233
+00:22:13,079 --> 00:22:17,960
+Again, I think the whole content of one's life and still be the same.
+
+234
+00:22:18,839 --> 00:22:21,080
+What I want to think about there is the contradiction.
+
+235
+00:22:21,079 --> 00:22:27,399
+You see, if you're defined, if you forget that you ever wanted to go to the moon, it's not a contradiction.
+
+236
+00:22:27,400 --> 00:22:29,079
+You just change your mind.
+
+237
+00:22:29,079 --> 00:22:47,319
+But if you forget and drop the fact that so-and-so that you have love for or some cause like Martin Luther King's that you're willing to die for, if you just say, well, it wasn't really important, you contradict yourself because that defines who you are.
+
+238
+00:22:47,640 --> 00:22:53,399
+And you can't stay the same person and just say, well, it wasn't really very important.
+
+239
+00:22:53,399 --> 00:22:53,960
+Yeah.
+
+240
+00:22:56,200 --> 00:22:57,000
+Uh-oh, get ready.
+
+241
+00:22:57,000 --> 00:22:58,519
+You ready to go?
+
+242
+00:23:00,440 --> 00:23:05,240
+I've got to find some other person or individual or movement.
+
+243
+00:23:09,879 --> 00:23:12,839
+Well, the princess does not disturb them.
+
+244
+00:23:12,920 --> 00:23:15,319
+It is only lower than you forget about it.
+
+245
+00:23:15,319 --> 00:23:22,160
+While it's for very human beings, that seems like it're good question.
+
+246
+00:23:20,039 --> 00:23:22,720
+Go ahead.
+
+247
+00:23:26,160 --> 00:23:30,480
+I I heard it, that the people in the podcast didn't, but I'll say it, 'cause I heard it.
+
+248
+00:23:30,480 --> 00:23:30,960
+Why not?
+
+249
+00:23:31,359 --> 00:23:31,760
+Okay.
+
+250
+00:23:32,400 --> 00:23:42,480
+Isn't it strange that she's saying that on the very next page, I haven't seen it yet, but where okay.
+
+251
+00:23:43,279 --> 00:23:45,760
+Okay, the lower natures and so forth.
+
+252
+00:23:45,760 --> 00:23:47,199
+Is that where it is?
+
+253
+00:23:52,400 --> 00:23:52,879
+Ah, good.
+
+254
+00:23:52,879 --> 00:23:54,960
+What the princess does cannot disturb him.
+
+255
+00:23:54,960 --> 00:23:55,839
+That's right.
+
+256
+00:23:55,839 --> 00:24:03,839
+Or putting it two-thirds down, he has grasped the deep secret that even in loving another, one should be sufficient unto oneself.
+
+257
+00:24:03,839 --> 00:24:05,439
+That's what you're saying.
+
+258
+00:24:05,440 --> 00:24:06,880
+We can't talk about it.
+
+259
+00:24:06,879 --> 00:24:08,319
+It's ahead of the story.
+
+260
+00:24:08,319 --> 00:24:16,079
+The night of resignation, which is what that's about, has a way of making unconditional commitments safe.
+
+261
+00:24:16,079 --> 00:24:19,920
+And that's and yet getting meaning out of them.
+
+262
+00:24:19,920 --> 00:24:26,160
+It's an amazingly interesting move that only Christian philosophers could have invented.
+
+263
+00:24:26,160 --> 00:24:27,839
+But I will talk about it next time.
+
+264
+00:24:28,559 --> 00:24:30,160
+But you're right to ask it.
+
+265
+00:24:30,160 --> 00:24:42,640
+The night of resignation is not an example of somebody who makes a defining commitment and sticks into it, sticks with it, and doesn't come out of it.
+
+266
+00:24:42,640 --> 00:24:45,920
+Oh, I'm so tempted to explain it all right now, but I can't.
+
+267
+00:24:45,920 --> 00:24:50,319
+I mean, because but the night of resignation, I have to say one more thing.
+
+268
+00:24:50,319 --> 00:24:59,119
+You when you forget it, then you just return to lower immediacy, to what Kierkegaard calls a lower immediate uh a lower nature.
+
+269
+00:24:59,440 --> 00:25:02,240
+Can you, and I'll leave this as a puzzle for you.
+
+270
+00:25:02,240 --> 00:25:16,679
+What would it be like to hold on to the meaning of your love or your commitment to some cause in such a way that you could keep the meaning of it, and yet it would be safe.
+
+271
+00:25:16,680 --> 00:25:20,199
+You wouldn't be returning to being a lower nature.
+
+272
+00:25:20,519 --> 00:25:23,880
+And in a certain sense, you wouldn't lose your higher immediacy.
+
+273
+00:25:23,879 --> 00:25:29,800
+And yet, I just said that, of course, it's a very risky thing to have one of these commitments.
+
+274
+00:25:29,799 --> 00:25:32,200
+So, how do you get rid of the risk and keep the commitment?
+
+275
+00:25:33,160 --> 00:25:35,559
+The night of resignation does it.
+
+276
+00:25:35,559 --> 00:25:38,920
+And it's a kind of despair, because you can't get away with it.
+
+277
+00:25:38,920 --> 00:25:40,840
+But that's a long story for next time.
+
+278
+00:25:40,839 --> 00:25:41,960
+Let me go back to this.
+
+279
+00:25:41,960 --> 00:25:48,679
+But you're right to see that I'm contradicting, or seemingly contradicting what he says on the next page.
+
+280
+00:25:48,760 --> 00:25:53,399
+So, but you can't give it up and remain the same person, that's sure.
+
+281
+00:25:53,799 --> 00:26:02,519
+The night of resignation manages not to give it up, to stay the same person, but not to, but to get rid of the risk.
+
+282
+00:26:02,519 --> 00:26:13,320
+That's you can think of that as having certain kind of defenses, although that's not going to help much either until I get there.
+
+283
+00:26:13,319 --> 00:26:15,480
+So, let's go back to where we are.
+
+284
+00:26:16,760 --> 00:26:21,240
+So, I just want to tell you more about how it's the defining relation.
+
+285
+00:26:21,240 --> 00:26:23,319
+I mean, that's my term, not Kierkegaard's.
+
+286
+00:26:23,319 --> 00:26:30,279
+It makes me a little worried when everyone in papers people are always saying Kierkegaard's notion of defining relation.
+
+287
+00:26:30,279 --> 00:26:39,159
+Well, he doesn't really have a notion of defining relation, but he has something that you could call that, where he wants to call it infinite passion.
+
+288
+00:26:39,160 --> 00:26:41,319
+That's his word for it.
+
+289
+00:26:41,319 --> 00:26:48,319
+And in in another book of his called The Concluding Unscientific Postscript, a very strange term.
+
+290
+00:26:48,319 --> 00:26:52,079
+And you don't really have to know that title or that book.
+
+291
+00:26:52,400 --> 00:26:59,360
+But you do have to know that infinite passion is not a very good term for this because of the passion.
+
+292
+00:26:59,359 --> 00:27:02,000
+It makes him sound too much like a romantic.
+
+293
+00:27:02,079 --> 00:27:05,440
+Remember, these romantics aren't the people who believe in romantic love.
+
+294
+00:27:05,440 --> 00:27:11,599
+They're the people who believe in lower immediacy, just being swept away by a huge emotion.
+
+295
+00:27:11,599 --> 00:27:16,240
+But when he says infinite passion, he means defining commitment.
+
+296
+00:27:16,240 --> 00:27:20,640
+And then he has a better word for it, the absolute venture.
+
+297
+00:27:20,720 --> 00:27:22,640
+You can see why that makes a little more sense.
+
+298
+00:27:22,640 --> 00:27:35,680
+The absolute venture is you let yourself respond to this calling coming at you from some cause or some person, and then you take a big risk.
+
+299
+00:27:35,680 --> 00:27:42,319
+He says in the postscript, it's not the same individual who makes this venture among others.
+
+300
+00:27:42,319 --> 00:27:46,880
+In making the absolute venture, he becomes another individual.
+
+301
+00:27:46,879 --> 00:27:49,279
+Now, oh my gosh, that's a problem, too.
+
+302
+00:27:49,279 --> 00:27:55,040
+Every time I teach this, I notice something new that's hard and makes it harder than it has to be.
+
+303
+00:27:55,040 --> 00:28:04,640
+Apparently, there's only one word in Danish for what in English is either a particular or an individual.
+
+304
+00:28:04,640 --> 00:28:07,920
+Now, you might think, well, after all, they're pretty much the same thing.
+
+305
+00:28:07,919 --> 00:28:09,839
+Why should there, what difference does it make?
+
+306
+00:28:09,839 --> 00:28:13,520
+Well, they're not the same thing at all, the way Kierkegaard understands them.
+
+307
+00:28:13,520 --> 00:28:19,760
+You can tell from the context of when he says the Enka is in Danish, which one he's talking about.
+
+308
+00:28:19,760 --> 00:28:22,319
+A particular is just any sort of entity.
+
+309
+00:28:22,319 --> 00:28:28,319
+For instance, your dog is a particular, a particular instance of whatever colleagues say or something.
+
+310
+00:28:28,319 --> 00:28:35,520
+An individual has this unique identity that comes from having an unconditional commitment.
+
+311
+00:28:35,640 --> 00:28:44,680
+You could put on your dog's tombstone, here lies a particular, but you couldn't say what Kierkegaard once carved on his tombstone, here lies an individual.
+
+312
+00:28:44,680 --> 00:28:50,279
+That's what he thinks is the most important, highest form of human life.
+
+313
+00:28:50,279 --> 00:28:57,799
+And then, and when you become an individual, particulars are down here, individuals are up here in his language.
+
+314
+00:28:57,799 --> 00:29:03,240
+Unfortunately, no, he's only got one word in the context is supposed to tell you.
+
+315
+00:29:03,240 --> 00:29:07,160
+And neither of the two translators get it right most of the time.
+
+316
+00:29:07,479 --> 00:29:11,959
+And I'll have to tell you whenever we get there which he's doing.
+
+317
+00:29:11,959 --> 00:29:17,799
+There won't be a problem for you yet for another after the movie, even after that.
+
+318
+00:29:17,799 --> 00:29:25,480
+When we get to these things called problem one and problem two, the distinction between the particular and the individual is extremely important.
+
+319
+00:29:25,479 --> 00:29:28,440
+But right now, just forget it.
+
+320
+00:29:28,760 --> 00:29:30,680
+Just keep it on hold.
+
+321
+00:29:31,319 --> 00:29:35,640
+So you become an individual by making the absolute venture.
+
+322
+00:29:35,640 --> 00:29:39,480
+And you can only do that with total involvement.
+
+323
+00:29:39,479 --> 00:29:42,599
+And your commitment defines who you are.
+
+324
+00:29:42,600 --> 00:29:45,000
+Martin Luther King understood that too.
+
+325
+00:29:44,999 --> 00:30:10,839
+I can't find, if anybody has a text of his, I think last talk, the same one about being on the mountain, which you hear bits of, doesn't he say in there, don't think of me as the man who won the Nobel Prize, don't think of me as the minister who led his people, but think of me as the person who got justice for my people, or something like that.
+
+326
+00:30:10,839 --> 00:30:13,400
+Does that sound familiar to anybody, or did I make it up?
+
+327
+00:30:13,399 --> 00:30:24,319
+Well, if anybody can find it, see, I think he's saying, it's sort of like Kennedy's saying, don't think of me as the guy who would have done the moonshot to think of, I don't know what his commitment was, but if he had one.
+
+328
+00:30:25,200 --> 00:30:33,120
+But I think Martin Luther King is clear that they're trying to define what it is that makes him an individual.
+
+329
+00:30:33,120 --> 00:30:35,999
+And if anybody knows, let me know.
+
+330
+00:30:38,959 --> 00:30:40,319
+He did that.
+
+331
+00:30:40,319 --> 00:30:42,959
+So let me see if I need to say anything more about that.
+
+332
+00:30:44,240 --> 00:30:51,279
+Well, he had this bliss of being on the mountain, which is higher than any amount of detachment and reflection.
+
+333
+00:30:53,200 --> 00:31:01,680
+But, and this is what I've been saying, I'm just summing up, mediation is a step, and you have to go through it to gain higher immediacy.
+
+334
+00:31:01,680 --> 00:31:06,080
+Otherwise, you can't tell your infatuations from your love.
+
+335
+00:31:06,080 --> 00:31:12,399
+You can't tell strong emotions from this kind of commitment, which needn't even be a strong emotion.
+
+336
+00:31:12,399 --> 00:31:18,720
+I mean, your unconditional commitment, he says, isn't sort of all kinds of fancy, fleeting feelings.
+
+337
+00:31:18,720 --> 00:31:23,520
+I don't know whether I could just open that doubt somewhere who talks about that.
+
+338
+00:31:23,520 --> 00:31:36,560
+Your unconditional commitment, he doesn't say this, but is clearly just as unconditional when you're making breakfast and only half awake as when you're in an intensely life and death mood.
+
+339
+00:31:36,959 --> 00:31:39,040
+It's who you are all the time.
+
+340
+00:31:39,040 --> 00:31:51,040
+And it's not going to be, you've got to get rid of these intense experiences being grabbed by stuff you don't understand and get this special thing.
+
+341
+00:31:51,040 --> 00:32:01,680
+Okay, now, having said all that, I want to go through nine characteristics of the defining relation.
+
+342
+00:32:02,959 --> 00:32:05,279
+So, what I've been talking about so far is number one.
+
+343
+00:32:05,279 --> 00:32:06,279
+I've already done it.
+
+344
+00:32:06,279 --> 00:32:08,520
+It makes you an individual.
+
+345
+00:32:08,520 --> 00:32:10,920
+It defines who you are.
+
+346
+00:32:11,240 --> 00:32:15,480
+To drop it, deny it, is to contradict yourself.
+
+347
+00:32:15,799 --> 00:32:19,159
+And then I've also hinted at this other one, but I want to say more about it.
+
+348
+00:32:19,160 --> 00:32:20,920
+It gives you a world.
+
+349
+00:32:20,919 --> 00:32:25,000
+Your whole world is organized in terms of this concern.
+
+350
+00:32:24,999 --> 00:32:32,279
+You distinguish between what's important and what's not in terms of this concern.
+
+351
+00:32:32,279 --> 00:32:39,480
+That's really why he calls it an infinite passion, because it isn't a passion about anything particular.
+
+352
+00:32:39,799 --> 00:32:42,039
+It isn't anything specific.
+
+353
+00:32:42,919 --> 00:32:45,480
+It is, so that's not the way to put it.
+
+354
+00:32:45,479 --> 00:33:02,200
+It is a passion about something specific, namely the person you love or the cause, and it makes you an individual, but it's not about something like any other object in your world.
+
+355
+00:33:02,200 --> 00:33:10,200
+All the objects in your world have whatever meaning they have because of your past experience and the culture and what other people think about them.
+
+356
+00:33:10,200 --> 00:33:19,799
+But this particular object isn't just in your world, but it defines what counts as real, what counts as important.
+
+357
+00:33:20,040 --> 00:33:21,880
+It defines your world.
+
+358
+00:33:21,879 --> 00:33:24,839
+You don't have a world like that unless you've got an infinite commitment.
+
+359
+00:33:24,839 --> 00:33:31,880
+You've just got a sort of shared world, which is right, which is which you got with your language and you got growing up.
+
+360
+00:33:31,879 --> 00:33:52,480
+But he wants to distinguish between what could be the most important person in your world, and this super individual thing, individual whatever, that gives you a world, makes the distinction between what's serious and what's trivial, what's relevant and irrelevant, what's meaningful and meaningless.
+
+361
+00:33:52,799 --> 00:33:59,839
+That's a special idea of his, that there could be such an individual, such a something.
+
+362
+00:33:59,839 --> 00:34:01,279
+An individual is the wrong word.
+
+363
+00:34:01,279 --> 00:34:06,239
+I keep falling into it because that's what it makes you when you fall in love with what?
+
+364
+00:34:06,240 --> 00:34:08,640
+What are you going to call the other one?
+
+365
+00:34:09,359 --> 00:34:16,319
+A particular means just anybody, and it's not just anybody, it's some special super being in your world.
+
+366
+00:34:16,319 --> 00:34:20,720
+Well, Kierkegaard later has a word for it, which is a paradigm.
+
+367
+00:34:27,439 --> 00:34:35,200
+A paradigm is a particular entity which is definitive in some special way of all the other entities.
+
+368
+00:34:35,200 --> 00:34:41,360
+A famous philosopher of science also uses the word paradigm, Thomas Kuhn.
+
+369
+00:34:44,240 --> 00:34:52,960
+Thomas Kuhn, in The Structure of Scientific Revolution, which you will all read someday because it's the most bought of all academic books ever written.
+
+370
+00:34:53,279 --> 00:34:56,160
+Have you ever heard of the structure of scientific revolutions?
+
+371
+00:34:56,319 --> 00:34:57,440
+Anybody yet?
+
+372
+00:34:57,439 --> 00:34:58,480
+Well, you will.
+
+373
+00:34:58,479 --> 00:35:18,400
+Anyway, has in his notion a similar notion of paradigm, which for him is a particular something that some scientist does that defines what counts as the right way to do science, what counts as the right problems in science, what counts as relevant and irrelevant in science.
+
+374
+00:35:18,399 --> 00:35:26,079
+So when Newton wrote his Principia, that was a paradigm which defined classical Newtonian science.
+
+375
+00:35:26,080 --> 00:35:29,760
+And Kierkegaard's got a similar idea and a similar word.
+
+376
+00:35:29,760 --> 00:35:37,560
+So there is this, let's call it paradigm then, which sets up your world.
+
+377
+00:35:42,279 --> 00:35:45,559
+As I say, determines what's important and not important.
+
+378
+00:35:47,160 --> 00:35:50,359
+It tells you when it's important to drop everything.
+
+379
+00:35:50,359 --> 00:35:53,720
+that you think is important and attend to it.
+
+380
+00:35:53,720 --> 00:36:01,560
+And all the time, you're sort of in the background that it's telling you what to be, what's significant, what to pay attention to.
+
+381
+00:36:01,560 --> 00:36:07,319
+Okay, it helps understanding that number two, to go on to number three, that it can't be mediated.
+
+382
+00:36:07,319 --> 00:36:10,199
+This is his anti-Hegel move.
+
+383
+00:36:10,200 --> 00:36:12,440
+It can't be put into concepts.
+
+384
+00:36:12,439 --> 00:36:23,160
+You can't articulate with a set of features that you could abstract what it is, what the lad sees in the princess, for instance.
+
+385
+00:36:23,479 --> 00:36:29,720
+You can't make explicit what this relationship means to you.
+
+386
+00:36:30,279 --> 00:36:31,079
+What's the word?
+
+387
+00:36:31,080 --> 00:36:33,959
+Kuhn says the paradigm can't be rationalized.
+
+388
+00:36:33,959 --> 00:36:35,720
+It's exactly the same thing.
+
+389
+00:36:35,720 --> 00:36:46,840
+The scientists all know what the paradigm is, but they can't spell out and list what makes that piece of scientific work world-defining for them.
+
+390
+00:36:47,799 --> 00:36:51,000
+And the Greeks don't have any such notions.
+
+391
+00:36:50,999 --> 00:36:57,079
+They think from Plato on through Hegel that everything can be mediated.
+
+392
+00:36:57,080 --> 00:37:03,160
+You've got to be able to put it into words, into concepts, and explain it, or you don't really understand it.
+
+393
+00:37:03,160 --> 00:37:05,000
+You're just in lower immediacy.
+
+394
+00:37:04,999 --> 00:37:14,520
+Plato thought that what you couldn't conceptualize was not worth caring about.
+
+395
+00:37:14,520 --> 00:37:30,080
+So he had this interesting way of thinking about what looks like infinite passion or commitment, but really isn't, in the symposium, which you presumably haven't read yet, but hopefully for you you will read someday.
+
+396
+00:37:37,760 --> 00:38:03,680
+The symposium is interesting because it starts, he thinks that people do get totally hooked on each other and go around sort of holding on to each other, first looking for each other, and then they finally find the other one that they've been looking for all this time, and they cling to them because it really completes them and that we're sort of destined for each other.
+
+397
+00:38:03,680 --> 00:38:05,279
+And he thinks that's a big joke.
+
+398
+00:38:05,279 --> 00:38:13,200
+He's got it, that that story, which is so moving, is told by a famous comedy writer, Aristophanes.
+
+399
+00:38:13,359 --> 00:38:23,600
+Plato really thinks, and Plato says in the symposium, that you do get hooked on a single beautiful body, but then you discover, well, why just that one?
+
+400
+00:38:23,600 --> 00:38:25,600
+Why not all beautiful bodies?
+
+401
+00:38:25,600 --> 00:38:30,960
+Then you get hooked on some particular beautiful soul, and you think, well, why that person?
+
+402
+00:38:30,959 --> 00:38:36,080
+Why not everybody who's interesting to talk to and has a beautiful soul?
+
+403
+00:38:36,080 --> 00:38:44,000
+And finally, you see that the individuals are sort of petty and you mistook them for what's important, which is the universal.
+
+404
+00:38:43,999 --> 00:38:46,559
+And in the end, finally, the beautiful.
+
+405
+00:38:46,560 --> 00:38:48,080
+That's what you really want.
+
+406
+00:38:48,640 --> 00:38:55,040
+It's like getting stuck on some bottle of wine and thinking that's what you want when you really want what you really like is red wine.
+
+407
+00:38:55,040 --> 00:39:02,319
+And then you finally discover that what you really like is something like the perfectly drinkable something or other.
+
+408
+00:39:02,319 --> 00:39:10,600
+If you get more and more general, and from that point of view, you never want to get stuck with the individual.
+
+409
+00:39:10,600 --> 00:39:22,600
+And one of the reasons why I'm saying this is, and one of the features of what you find out as you give up these particulars is that you find out what is universal.
+
+410
+00:39:22,600 --> 00:39:24,279
+That should sound familiar.
+
+411
+00:39:24,279 --> 00:39:39,960
+And any person who has a rational soul and a soul that can be moved by beauty will be moved by the beautiful, which is always beautiful from all angles, everybody, everywhere.
+
+412
+00:39:39,959 --> 00:39:43,400
+And that's what it would be to mediate it.
+
+413
+00:39:43,399 --> 00:39:45,559
+But you can't do it.
+
+414
+00:39:45,720 --> 00:39:46,519
+One can't do that.
+
+415
+00:39:46,520 --> 00:39:49,960
+Now, let me give you an example with a paradigm and how it works.
+
+416
+00:39:50,439 --> 00:40:13,319
+If you love somebody and you thought that you could list the characteristics that they had that made them adorable and lovable and so forth, then you would say maybe that they were smart and strong and sexy and witty and stylish and compassionate, who knows what, all.
+
+417
+00:40:13,640 --> 00:40:21,560
+And then, if you said that, you were only defining something very important and nice in your world.
+
+418
+00:40:21,560 --> 00:40:24,039
+Because that's still not to say they're a paradigm.
+
+419
+00:40:24,040 --> 00:40:32,279
+And the reason you can tell is: what if somebody came along with more, stronger, sexier, stylish, or wittier, compassionate, smarter, and so forth?
+
+420
+00:40:32,279 --> 00:40:34,279
+Well, you could just go for them.
+
+421
+00:40:34,279 --> 00:40:38,600
+Because all you, because what you make a list of all the traits that you like.
+
+422
+00:40:38,600 --> 00:40:39,399
+But that's not.
+
+423
+00:40:39,399 --> 00:40:47,079
+If they're the paradigm, they define what it is to be smart and strong and sexy and witty and stylish.
+
+424
+00:40:48,520 --> 00:40:50,640
+They're the source of that meaning.
+
+425
+00:40:50,279 --> 00:40:56,080
+That's why nobody can come along who's more attractive than they are.
+
+426
+00:40:56,399 --> 00:41:05,599
+That's the difference between finding something important in your world, which you can define, and you can always find something more significant, more important in your world.
+
+427
+00:41:05,600 --> 00:41:07,279
+Maybe you will and maybe you won't.
+
+428
+00:41:07,279 --> 00:41:10,720
+And then you find a paradigm which defines your world.
+
+429
+00:41:10,720 --> 00:41:18,640
+And if there really is such a thing, if you really find it, you got it for life because there's nothing that can come along and trump it.
+
+430
+00:41:18,640 --> 00:41:20,720
+Because it's telling you what's important.
+
+431
+00:41:20,720 --> 00:41:21,359
+It's showing you.
+
+432
+00:41:21,359 --> 00:41:22,479
+You can't even tell it.
+
+433
+00:41:22,799 --> 00:41:24,240
+It's showing you what's important.
+
+434
+00:41:24,240 --> 00:41:26,160
+It can't be mediated.
+
+435
+00:41:26,160 --> 00:41:30,079
+If you think it can, you're making a complete fool of yourself.
+
+436
+00:41:30,080 --> 00:41:38,480
+Because what you're doing is trying to give an objective description and kind of defense of an unconditional commitment.
+
+437
+00:41:38,479 --> 00:41:45,839
+And Kierkegaard has this great example in the postscript of what it would look like to be objective about it.
+
+438
+00:41:46,160 --> 00:41:50,720
+And it's about, he talks about Don Quixote and Dulcinea.
+
+439
+00:41:50,720 --> 00:41:53,999
+Don Quixote, how many have read the, probably not, how many have read Don Quixote?
+
+440
+00:41:53,999 --> 00:41:54,799
+It's not the like button.
+
+441
+00:41:55,200 --> 00:41:56,480
+Woo, look at that.
+
+442
+00:41:57,279 --> 00:41:59,999
+I certainly hadn't read it when I was your age.
+
+443
+00:41:59,999 --> 00:42:04,879
+But anyway, Don Quixote is a kind of parody of knights and ladies.
+
+444
+00:42:04,879 --> 00:42:06,159
+That's what it's supposed to be.
+
+445
+00:42:06,160 --> 00:42:11,920
+And he's a knight and goes around with a sword and so forth, a lance.
+
+446
+00:42:11,919 --> 00:42:18,000
+And he has his lady, Dulcinea, who's an ugly, stupid peasant girl.
+
+447
+00:42:17,999 --> 00:42:22,959
+But he is a kind of parody of the chivalric thing.
+
+448
+00:42:22,959 --> 00:42:28,240
+He goes around saying she is objectively the most beautiful.
+
+449
+00:42:28,240 --> 00:42:35,760
+And he challenges any other knight to fight, who denies that she is the most beautiful.
+
+450
+00:42:38,919 --> 00:42:50,840
+He tries to turn this defining commitment into an objective thing that every rational person has to recognize, or else they're just stupid, or else they're just stubborn, and you have to wipe them out.
+
+451
+00:42:50,839 --> 00:42:56,119
+And of course, Kierkegaard says that's just funny.
+
+452
+00:42:56,120 --> 00:43:11,799
+That's what's funny about the whole piece of the story of Don Quixote, that he would have this sort of wrong view of not only fighting windmills, but thinking that what he has to do is get everybody to agree that Dulcinea is the most beautiful girl in the world.
+
+453
+00:43:11,799 --> 00:43:14,599
+Now, that's so much, it can't be mediated.
+
+454
+00:43:14,600 --> 00:43:16,920
+You can't get everybody to agree to it.
+
+455
+00:43:16,919 --> 00:43:18,279
+It's not that way.
+
+456
+00:43:18,760 --> 00:43:19,799
+And what happens then?
+
+457
+00:43:19,799 --> 00:43:22,840
+Well, then it gets really interesting and weird.
+
+458
+00:43:22,839 --> 00:43:30,040
+So your passion actually produces the paradigm.
+
+459
+00:43:30,359 --> 00:43:45,319
+That is, what makes the person you love adorable, totally makes them your savior, to talk like Dante with Beatrice.
+
+460
+00:43:45,319 --> 00:43:46,039
+Well, what?
+
+461
+00:43:46,040 --> 00:43:48,760
+Is there any objective fact about them?
+
+462
+00:43:49,080 --> 00:43:49,559
+No.
+
+463
+00:43:49,799 --> 00:43:50,360
+No.
+
+464
+00:43:50,359 --> 00:43:54,279
+It's just your passion for them, or your commitment to them.
+
+465
+00:43:54,279 --> 00:43:55,960
+I have passions too dangerous.
+
+466
+00:43:56,359 --> 00:43:58,999
+Your, well, but what was the tillick one?
+
+467
+00:43:58,999 --> 00:44:00,439
+Your unconditional commitment?
+
+468
+00:44:00,439 --> 00:44:01,720
+No, that's mine.
+
+469
+00:44:01,720 --> 00:44:05,400
+Your ultimate concern.
+
+470
+00:44:05,399 --> 00:44:14,200
+It's just your ultimate concern that makes them literally adorable by you.
+
+471
+00:44:14,200 --> 00:44:18,760
+And what makes them literally the savior for you.
+
+472
+00:44:18,760 --> 00:44:22,880
+They're not going to save anybody else, Beatrice didn't save anybody but Dante.
+
+473
+00:44:23,520 --> 00:44:47,120
+So you get this idea that it's your subjective experience, which is not subjective, where that means arbitrary, changeable, lower immediacy, but your infinite venture with them that makes them the saving thing for you.
+
+474
+00:44:47,120 --> 00:44:57,360
+Now, that's, remember I said that Kierkegaard is going to turn philosophy upside down and make contradictions out of what the philosopher said.
+
+475
+00:44:57,359 --> 00:45:01,359
+That's truth is subjectivity in Kierkegaard.
+
+476
+00:45:01,359 --> 00:45:05,920
+That is, where the how, as he puts it in the postscript, becomes the what.
+
+477
+00:45:05,919 --> 00:45:18,400
+If your how is infinite passion, then it becomes a what in the sense that this person can be the savior for you, be the paradigm for you.
+
+478
+00:45:18,399 --> 00:45:24,960
+The truth is that this is a paradigm, but it's not an objective truth, and it's not a paradigm for everybody.
+
+479
+00:45:24,959 --> 00:45:27,439
+It's not like science or them.
+
+480
+00:45:27,680 --> 00:45:32,879
+It's only a paradigm for you in this particular way, is what I'm saying now.
+
+481
+00:45:33,200 --> 00:45:38,319
+And it's the truth for you, and it's only your higher subjectivity.
+
+482
+00:45:38,319 --> 00:45:41,999
+Kierkegaard says, well, there is a kind of lower subjectivity.
+
+483
+00:45:41,999 --> 00:45:44,560
+That's this stuff that everybody has.
+
+484
+00:45:44,560 --> 00:45:49,600
+And then there's this higher subjectivity, which he calls, he uses the same word.
+
+485
+00:45:49,600 --> 00:45:53,439
+And that's the truth, in this special sense of truth.
+
+486
+00:45:53,439 --> 00:46:01,999
+Not an objective truth, but nonetheless, something you would die for if it's appropriate and required.
+
+487
+00:46:01,999 --> 00:46:04,480
+You could become a martyr for it.
+
+488
+00:46:04,479 --> 00:46:09,879
+So, okay, so you're in, let's see what I've got here.
+
+489
+00:46:09,959 --> 00:46:11,480
+Anything else?
+
+490
+00:46:11,479 --> 00:46:13,240
+Your how produces a what?
+
+491
+00:46:13,240 --> 00:46:14,600
+I said that.
+
+492
+00:46:14,600 --> 00:46:16,439
+Okay, now onward.
+
+493
+00:46:16,439 --> 00:46:17,559
+That was number four.
+
+494
+00:46:17,560 --> 00:46:18,360
+Five.
+
+495
+00:46:18,359 --> 00:46:23,639
+It has the peculiar characteristic, only Kierkegaard could manage to spell out so much.
+
+496
+00:46:23,640 --> 00:46:38,600
+I mean, all he did was have this crazy obsession with Regina and ran off to Berlin and managed to say more interesting things about romantic love, which it isn't even clear that he knows what it is, than anybody ever said before.
+
+497
+00:46:38,600 --> 00:46:40,279
+So this is an interesting.
+
+498
+00:46:40,279 --> 00:46:46,360
+The defining relation has the peculiar quality of being both accidental and necessary.
+
+499
+00:46:46,359 --> 00:46:47,799
+Now, what does that mean?
+
+500
+00:46:47,799 --> 00:46:49,880
+Well, it's certainly accidental.
+
+501
+00:46:49,879 --> 00:46:55,960
+Let's suppose now that there's somebody that you do or will love in a Kierkegaard kind of way.
+
+502
+00:46:55,959 --> 00:47:10,840
+It turns out it was so solely accidental that you were in the same college, you were in the same class, you were on the same plane, whatever it was that they out of the billion people in the world happened to come across your experience.
+
+503
+00:47:10,839 --> 00:47:18,200
+But once they define you, then they become necessary in your life.
+
+504
+00:47:18,760 --> 00:47:20,840
+Necessary like a definition.
+
+505
+00:47:20,839 --> 00:47:22,920
+Like 2 plus 2 equals 4.
+
+506
+00:47:22,919 --> 00:47:27,000
+This is, you are the lover of the princess.
+
+507
+00:47:26,999 --> 00:47:28,760
+That defines you.
+
+508
+00:47:28,760 --> 00:47:37,559
+And just like 2 plus 2 equals 4 is true, not, in this case, it isn't important for everybody, because that will get you back into something else.
+
+509
+00:47:37,560 --> 00:47:43,480
+But 2 plus 2 equals 4 is a necessary truth, and therefore it's true for all time.
+
+510
+00:47:43,479 --> 00:47:45,400
+We'll get to that in a minute.
+
+511
+00:47:45,720 --> 00:47:54,080
+And so this kind of relationship begins at a certain moment and is entirely accidental.
+
+512
+00:47:54,080 --> 00:48:08,960
+And yet it tends, and it becomes necessary, not by your objectively realizing it, it's necessary, like 2 plus 2 equals 4, but by your passion, your commitment making it necessary.
+
+513
+00:48:08,959 --> 00:48:13,440
+But in your life, it becomes the definition that defines you.
+
+514
+00:48:13,439 --> 00:48:18,719
+And like a triangle has three sides, you are the lover of the princess.
+
+515
+00:48:18,879 --> 00:48:29,039
+So Kierkegaard discovers that there's not only a detached kind of necessity like a triangle has three sides, but an involved kind of necessity in a defining relation.
+
+516
+00:48:29,040 --> 00:48:33,279
+It's a different kind of definition and a different kind of necessity.
+
+517
+00:48:34,720 --> 00:48:39,439
+And just to see, well, and how do people normally deal with this when they think about it?
+
+518
+00:48:39,439 --> 00:48:44,000
+Because everybody thinks about it, really, who gets involved in this kind of love thing.
+
+519
+00:48:43,999 --> 00:48:54,000
+Well, you get a notion that somehow they must have been meant for each other, destined for each other, because it looks like it couldn't just be accidental.
+
+520
+00:48:53,999 --> 00:48:57,440
+If it's necessary, in a certain sense, that's true.
+
+521
+00:48:57,439 --> 00:49:16,240
+You are the person you become, the lover of this princess, let's say Mary, then the lover, you become the lover of Mary, and in a certain sense, you, who now become that, were destined to be, to encounter Mary, because that's who you are.
+
+522
+00:49:16,240 --> 00:49:19,599
+But of course, that's how it looks from inside when you're involved.
+
+523
+00:49:19,600 --> 00:49:23,839
+But from the outside, it still looks completely arbitrary and accidental.
+
+524
+00:49:23,839 --> 00:49:28,720
+And to put those two together, people talk about destiny and fate and so forth.
+
+525
+00:49:28,720 --> 00:49:32,319
+But that's nothing, there's nothing really you can say that doesn't mean much.
+
+526
+00:49:32,319 --> 00:49:33,439
+It doesn't help much.
+
+527
+00:49:33,439 --> 00:49:46,440
+There's just this peculiar thing that Kierkegaard has discovered: that something could start to be necessary at a certain moment by virtue of the passion that you've got.
+
+528
+00:49:47,879 --> 00:49:51,399
+And okay, so much for that.
+
+529
+00:49:51,399 --> 00:49:54,359
+Now, that gets you to another one of his slogans in a minute.
+
+530
+00:49:54,359 --> 00:49:55,559
+I'm almost at it.
+
+531
+00:49:55,560 --> 00:50:03,160
+So, number six, this is going to restructure temporality for you, your experience of time.
+
+532
+00:50:04,439 --> 00:50:14,919
+Because once you've got this experience, all your future actions are determined by what this tells you is important and not important.
+
+533
+00:50:14,919 --> 00:50:17,160
+Not determined in the sense of determinism.
+
+534
+00:50:17,160 --> 00:50:18,360
+Let's put it another way.
+
+535
+00:50:18,359 --> 00:50:29,000
+All your future actions are, you decide on them, and they have importance for you in relation to this defining relationship.
+
+536
+00:50:28,999 --> 00:50:39,319
+And all your past, it turns out, to have been empty up to you until you met this person in terms of when you see everything in terms of this relationship.
+
+537
+00:50:39,319 --> 00:50:55,960
+So, this defining commitment retroactively defines your past as empty and defines whatever is going to be important for your future forever, that is, for your whole lifetime.
+
+538
+00:50:56,279 --> 00:51:12,440
+So, and another way to put it, let's see, moment.
+
+539
+00:51:12,439 --> 00:51:13,799
+Yeah, I divided two.
+
+540
+00:51:13,799 --> 00:51:18,279
+I've got two points where I think they're so close it's hard for me to keep them apart, but I will.
+
+541
+00:51:18,279 --> 00:51:27,600
+So this does the temporal field for you, and it does time for you in the way I just described.
+
+542
+00:51:27,600 --> 00:51:29,200
+But there's something else.
+
+543
+00:51:29,200 --> 00:51:32,959
+It gives you, and I need to, and what's the slogan for this?
+
+544
+00:51:32,959 --> 00:51:34,880
+You won't recognize it yet.
+
+545
+00:51:34,879 --> 00:51:45,040
+And what I'm telling you is how you can find in your life by this kind of commitment what Kierkegaard calls eternity in time.
+
+546
+00:51:45,359 --> 00:51:52,240
+Remember I said, Kierkegaard says in the postscript, I didn't say that, that eternity is only possible in time.
+
+547
+00:51:52,240 --> 00:51:53,760
+He doesn't quite say that.
+
+548
+00:51:53,760 --> 00:51:55,999
+I looked it up, but it was equally.
+
+549
+00:51:56,160 --> 00:51:59,600
+He says eternity is only possible in existing.
+
+550
+00:51:59,600 --> 00:52:06,159
+But for him, existing means living a human temporal life.
+
+551
+00:52:06,160 --> 00:52:08,400
+So let me just do it my way.
+
+552
+00:52:08,399 --> 00:52:13,680
+So how does he get this peculiar conclusion?
+
+553
+00:52:13,680 --> 00:52:41,200
+Well, the idea is, and it's going to turn out to be, by the way, a very important idea for Dostoevsky too, and a very important idea that Nietzsche is against a lot of the issues that once were about whether God as the supreme being existed or not turn into the question, is there something like eternity possible and can we get into relation to eternity?
+
+554
+00:52:41,200 --> 00:52:50,319
+But that can't mean, as it did in Plato, can we get into relation to some eternal definition like a triangle has 180 degrees?
+
+555
+00:52:50,319 --> 00:52:51,760
+So what could it mean?
+
+556
+00:52:51,760 --> 00:52:54,560
+Well, I sort of stacked up what it means.
+
+557
+00:52:54,560 --> 00:53:04,480
+I mean, remember, I said once you get into this relation, you know that for all future time, this is going to be the issue for you.
+
+558
+00:53:04,479 --> 00:53:05,479
+What's going to matter?
+
+559
+00:53:05,200 --> 00:53:06,600
+What's going to be real?
+
+560
+00:53:06,919 --> 00:53:10,279
+And you know, up to this moment, you missed it.
+
+561
+00:53:10,279 --> 00:53:30,440
+So you get a picture of time in which you're going along moment by moment by moment by moment, and each moment retroactively interprets the previous one.
+
+562
+00:53:30,439 --> 00:53:35,159
+That's what time looks like before you get eternity in time.
+
+563
+00:53:35,399 --> 00:53:40,600
+Let me give you a good example of it from Sartre, who's got these great examples.
+
+564
+00:53:40,919 --> 00:53:50,360
+He talks about how it's always up for grabs for you, and you always sort of have to reinterpret your experience.
+
+565
+00:53:50,359 --> 00:53:56,600
+So, for instance, I'll use my example, and I'll give you Sart's, which is better, but mine is more close to home.
+
+566
+00:53:56,600 --> 00:54:04,839
+You might think that your experience in Berkeley right now is just terrific, and then in a few months, you might think, boy, was this a mistake?
+
+567
+00:54:04,839 --> 00:54:08,840
+I wish I were someplace else, either some other college or none.
+
+568
+00:54:08,839 --> 00:54:12,760
+And what a mistake I made when I thought it was terrific.
+
+569
+00:54:12,760 --> 00:54:16,919
+And then after a few more months, you may think, no, this is the happiest time in my life.
+
+570
+00:54:16,919 --> 00:54:19,319
+I'll never really be so happy again.
+
+571
+00:54:19,319 --> 00:54:23,559
+And what a great luck it was to choose this place and come here, and so forth.
+
+572
+00:54:23,560 --> 00:54:25,480
+And it just keeps going on like that.
+
+573
+00:54:25,479 --> 00:54:28,440
+It never gets settled what it is.
+
+574
+00:54:28,439 --> 00:54:30,519
+But Sartre's example is more dramatic.
+
+575
+00:54:30,520 --> 00:54:46,359
+He says somebody could have what was a very overwhelming emotional experience in their adolescence, let's say at 15 or whatever, and they take it as a religious experience, and they become, we'll say, a monk, or none would do too, but I need one or the other.
+
+576
+00:54:46,359 --> 00:54:47,640
+They become a monk.
+
+577
+00:54:47,640 --> 00:55:02,319
+And then after a while as a monk, they get bored and feel that they're not really getting the most out of their possibilities, and they give up being a monk, and they go out into the material world and make lots of money and think that's great.
+
+578
+00:55:02,319 --> 00:55:13,519
+But again, so let's say on their deathbed, they realize that they were really the best person they were when they were the monk, not when they were the rich materialist, and they convert again.
+
+579
+00:55:13,520 --> 00:55:15,679
+And Sartre says, and so it could go on.
+
+580
+00:55:15,680 --> 00:55:21,360
+It's just an accident if they die then, and that gives this accidental meaning to their life.
+
+581
+00:55:21,359 --> 00:55:25,200
+But you never can settle the constant reinterpretation.
+
+582
+00:55:25,200 --> 00:55:39,440
+Now, what I've been saying, and what Kierkegaard is saying, is that you can settle this reinterpretation if you are infinitely involved, if you have an unconditional commitment.
+
+583
+00:55:39,439 --> 00:55:45,120
+Because then you go, as you're living along, you get what he calls an instant.
+
+584
+00:55:45,120 --> 00:55:47,520
+And that's the super moment of time.
+
+585
+00:55:47,520 --> 00:56:05,920
+And that super moment of time retroactively interprets all of this and says you were missing it, and retroactively interprets everything that's going to come and says that's going to be the issue in your life, and that's going to be the issue for you forever.
+
+586
+00:56:05,919 --> 00:56:16,639
+Where forever in this sort of involved thing doesn't mean in some other world where numbers are or where the afterlife is.
+
+587
+00:56:16,640 --> 00:56:18,480
+It means forever in your life.
+
+588
+00:56:18,479 --> 00:56:22,720
+As long as you live, you know what's important.
+
+589
+00:56:22,720 --> 00:56:25,279
+And you have a paradigm, and so forth.
+
+590
+00:56:25,279 --> 00:56:57,640
+That means that you, that's what it is, that's to say that in existence you become eternal, is that by committing yourself, you then all this, you define, you get out of the up-for-grabs character of time, where it's constantly reinterpreted, and you find something solid and meaningful in your life that you know already, but you can't change it and stay who you are.
+
+591
+00:56:57,640 --> 00:57:06,599
+And for you, it's going to be forever up to the end, the paradigm, and whatever that tells you you need to do, and live and die for, and so forth.
+
+592
+00:57:06,600 --> 00:57:07,960
+That question.
+
+593
+00:57:08,359 --> 00:57:09,479
+You're ready, Luke, because I'm not sure.
+
+594
+00:57:10,520 --> 00:57:11,400
+Maybe I'll hear it.
+
+595
+00:57:11,399 --> 00:57:12,520
+Go ahead.
+
+596
+00:57:15,959 --> 00:57:19,640
+Call it a calling?
+
+597
+00:57:24,040 --> 00:57:24,839
+Can't hear it.
+
+598
+00:57:24,839 --> 00:57:25,799
+Will you try it?
+
+599
+00:57:26,120 --> 00:57:29,240
+Do you get to decide what the paradigm is?
+
+600
+00:57:29,240 --> 00:57:32,680
+It's called a calling, but does that mean that you have some sort of choice?
+
+601
+00:57:32,680 --> 00:57:34,279
+Aha, aha, good.
+
+602
+00:57:34,279 --> 00:57:34,839
+Thanks.
+
+603
+00:57:35,879 --> 00:57:37,239
+That makes life a lot easier.
+
+604
+00:57:39,240 --> 00:57:41,000
+You do not get to decide.
+
+605
+00:57:40,999 --> 00:57:44,840
+Just think of the phenomenon of romantic love.
+
+606
+00:57:44,839 --> 00:57:57,560
+I mean, something comes around that calls you in the sense that you can't resist making it a permanent part of who you are and defining yourself on the basis of it.
+
+607
+00:57:57,560 --> 00:58:05,560
+What you can do is reject it, refuse it, be defensive about it, not let it drag you in.
+
+608
+00:58:05,879 --> 00:58:10,359
+So you've got a freedom with respect to the calling.
+
+609
+00:58:10,359 --> 00:58:22,000
+You don't have to, when God calls you to a vocation, that is, when something calls you with authority to pin your whole life on it, you don't have to do that.
+
+610
+00:58:22,319 --> 00:58:38,960
+But if you don't, you're just going to be one of these lower natures which change from day to day and whose temporality is just a whole lot of up moments, whose significance is constantly up for reinterpretation, and you'll never know what your life really means.
+
+611
+00:58:38,959 --> 00:58:41,760
+But if you want that, you can have it.
+
+612
+00:58:41,760 --> 00:58:45,279
+And you might want it because the alternative is so risky.
+
+613
+00:58:45,279 --> 00:58:47,840
+That's what we really have to talk about next.
+
+614
+00:58:47,839 --> 00:58:52,639
+But I think I should, no, but let me set it up and then we'll talk about it.
+
+615
+00:58:52,640 --> 00:58:53,920
+So where are we?
+
+616
+00:58:53,919 --> 00:58:58,559
+Well, I've just said that it's irreversible, without saying it.
+
+617
+00:58:58,560 --> 00:58:59,919
+So this is number eight.
+
+618
+00:59:00,240 --> 00:59:01,680
+So it's irreversible.
+
+619
+00:59:01,680 --> 00:59:05,040
+You can't move from one defining relation to another.
+
+620
+00:59:06,720 --> 00:59:12,880
+If you wrench it out of yourself, I was really talking about you can reject it altogether.
+
+621
+00:59:12,879 --> 00:59:15,680
+But let's suppose you don't reject it.
+
+622
+00:59:15,680 --> 00:59:17,360
+Let's suppose you get into it.
+
+623
+00:59:17,359 --> 00:59:20,640
+Once you get into it, you can't get out of it.
+
+624
+00:59:21,279 --> 00:59:28,639
+If you deny it, it destroys who you are as the individual that you were.
+
+625
+00:59:28,959 --> 00:59:31,360
+This is on 71.
+
+626
+00:59:33,279 --> 00:59:36,879
+So let's, but back where I was a long time ago, eight lines down.
+
+627
+00:59:37,600 --> 00:59:46,240
+He first makes sure that this really is the content of his life, and his soul is too healthy and proud to squander the least thing on an inebriation.
+
+628
+00:59:46,240 --> 00:59:48,000
+He is not cowardly.
+
+629
+00:59:47,999 --> 00:59:58,319
+He is not afraid to let his love steal upon his most secret hidden thoughts, to let it twine itself in countless coils about every ligament of his consciousness.
+
+630
+00:59:58,319 --> 01:00:01,120
+That's a very peculiar phrase.
+
+631
+01:00:01,120 --> 01:00:10,599
+But that's to say that you can't actually let it sort of take over your understanding of who you are.
+
+632
+01:00:11,640 --> 01:00:18,520
+So, and then he says, If this love, if the love becomes unhappy, he'll never be able to wrench himself out of it.
+
+633
+01:00:18,520 --> 01:00:22,920
+And a little skipping down, this for this moment is life and death.
+
+634
+01:00:24,919 --> 01:00:30,119
+That's supposed to tell you that once you get into it, you can't get out of it.
+
+635
+01:00:30,120 --> 01:00:31,879
+Let me say one more thing, and then you could talk.
+
+636
+01:00:32,120 --> 01:00:33,799
+You can't get in, you can't get out of it.
+
+637
+01:00:33,799 --> 01:00:37,400
+That doesn't mean you can't betray it and deny it.
+
+638
+01:00:37,399 --> 01:00:43,000
+But if you do, you'll become a sort of a zombie because you won't know who you are or what's important.
+
+639
+01:00:42,999 --> 01:00:49,079
+The best example that I know is, I haven't reread it for a long time, but I think it's the end of 1984.
+
+640
+01:00:49,080 --> 01:00:50,839
+How many read 1984?
+
+641
+01:00:52,520 --> 01:01:04,120
+Doesn't he say when the rats are attacking him that he wishes they were attacking her, the woman he loves, and who gives meaning to his life and keeps him from going to be like every other zombie in that culture?
+
+642
+01:01:04,120 --> 01:01:05,960
+He wishes they were attacking her.
+
+643
+01:01:05,959 --> 01:01:12,039
+And once they get him to say that, to think that, to realize he's fine, then he's nobody.
+
+644
+01:01:12,040 --> 01:01:16,520
+They can do anything they want with him because he's just another zombie in the culture.
+
+645
+01:01:16,520 --> 01:01:26,120
+That's a dramatic example of what Kierkegaard is talking about when he says that if you tear yourself out of it, it's death.
+
+646
+01:01:26,120 --> 01:01:28,600
+And as long as you're in it, you're alive.
+
+647
+01:01:28,600 --> 01:01:30,279
+Now, question.
+
+648
+01:01:33,160 --> 01:01:34,039
+Yeah, here's the thing.
+
+649
+01:01:34,359 --> 01:01:35,399
+You get to have a microphone.
+
+650
+01:01:35,399 --> 01:01:36,600
+We have all kinds of.
+
+651
+01:01:37,879 --> 01:01:38,839
+You don't want the microphone.
+
+652
+01:01:38,919 --> 01:01:39,799
+Okay, go ahead.
+
+653
+01:01:39,799 --> 01:01:40,440
+I can hear you.
+
+654
+01:01:40,440 --> 01:01:41,159
+I'll repeat it.
+
+655
+01:01:41,159 --> 01:01:42,519
+Go ahead.
+
+656
+01:01:42,839 --> 01:01:49,839
+First of all, would you get strong committee become a person since you can't get out of it.
+
+657
+01:01:51,760 --> 01:01:53,199
+Wonderful, wonderful.
+
+658
+01:01:53,199 --> 01:01:55,359
+You're my Nietzschean for the Course.
+
+659
+01:01:49,320 --> 01:01:56,640
+That's what Nietzsche says.
+
+660
+01:01:56,959 --> 01:01:59,680
+He says commitments are prisons.
+
+661
+01:01:59,680 --> 01:02:01,680
+Exactly what you just said.
+
+662
+01:02:01,680 --> 01:02:04,479
+Okay, then yes, I mean, maybe.
+
+663
+01:02:04,480 --> 01:02:05,760
+I mean, it depends on what you.
+
+664
+01:02:06,480 --> 01:02:26,159
+Yes, yes, if you find it too confining to have one meaning in your life that gives it significance and gives a moment, lets you know what's important and not important and who you are, it's a kind of trade-off.
+
+665
+01:02:26,159 --> 01:02:30,559
+You can have that, and then it's going to be like a prison.
+
+666
+01:02:31,119 --> 01:02:42,079
+You can give it up, and then Kierkegaard thinks you'll have a totally, you can have a life that's sort of fun, but you won't have a deeply meaningful, significant life.
+
+667
+01:02:42,400 --> 01:02:47,359
+And this is now Kierkegaard going head-on with Nietzsche, you'll be in despair.
+
+668
+01:02:47,360 --> 01:02:59,359
+But we haven't got to the sort of argument that he has, which is that the kind of self that human beings are, they need eternity and so forth.
+
+669
+01:02:59,360 --> 01:03:04,079
+I mean, if he could make you believe that, then, of course, he'd have to say, well, it's not a prison.
+
+670
+01:03:04,079 --> 01:03:07,999
+It's something you have to go, you really, you really couldn't get along without.
+
+671
+01:03:10,320 --> 01:03:12,239
+It's better not to be in despair.
+
+672
+01:03:12,239 --> 01:03:15,439
+Anyway, that's a deep, deep, deep issue.
+
+673
+01:03:15,440 --> 01:03:24,159
+And it doesn't get settled until, well, Dostoevsky has something to say about it, and Nietzsche has something to say about it.
+
+674
+01:03:24,799 --> 01:03:28,959
+Okay, well, we can't, you know, but that's the right thing to think.
+
+675
+01:03:28,959 --> 01:03:35,760
+And you may all end up thinking that by the time you read Kierkegaard and Dostoevsky and Nietzsche.
+
+676
+01:03:36,199 --> 01:03:44,119
+At the end of the course, I'll ask you what you think about it, because it's really important to know where the culture is, what you think about it.
+
+677
+01:03:44,119 --> 01:03:45,799
+But I can't explain that either yet.
+
+678
+01:03:45,799 --> 01:03:47,559
+So let's go back to this.
+
+679
+01:03:48,520 --> 01:03:52,119
+There's no second chance, according to Kierkegaard.
+
+680
+01:03:52,119 --> 01:04:01,159
+If you give this up, if you betray it, if you renounce it and say it isn't important, that's the end for you.
+
+681
+01:04:01,799 --> 01:04:05,799
+And that's, and now that was number eight.
+
+682
+01:04:05,799 --> 01:04:20,520
+Number nine is, and therefore you become completely vulnerable because this finite commitment to somebody or something can always fail.
+
+683
+01:04:21,959 --> 01:04:27,480
+He's not concerned, not being a Nietzschean, with the fact that you may find it stifling and want to give it.
+
+684
+01:04:27,480 --> 01:04:28,999
+He says, he spails things.
+
+685
+01:04:28,999 --> 01:04:31,479
+Of course, it's the best thing that could happen to you.
+
+686
+01:04:31,480 --> 01:04:34,680
+However, it may be just too scary.
+
+687
+01:04:35,560 --> 01:04:57,480
+That is, and then now I have to say something very important: that it's part of his story, his understanding that you can't get defining commitment by making an absolute venture unless you commit yourself to something which he calls finite and temporal.
+
+688
+01:04:57,560 --> 01:05:00,359
+Could be another person, could be a cause.
+
+689
+01:05:00,360 --> 01:05:02,680
+What you have to see is it's important.
+
+690
+01:05:02,680 --> 01:05:26,239
+You can't get this by, say, committing yourself to a scientific theory, committing yourself to a utopian cause, committing, because, say, you want to suppose you commit yourself to the ultimate triumph of the proletariat, and you spend your whole life doing what you can to help the proletariat become self-conscious and triumph, but by the time you die, they haven't done it yet.
+
+691
+01:05:26,239 --> 01:05:27,439
+That doesn't matter.
+
+692
+01:05:27,440 --> 01:05:36,159
+I mean, you, you, but you didn't, but that doesn't give you enough of a concreteness to know what's really important and not important.
+
+693
+01:05:36,159 --> 01:05:37,919
+It's not a life and death thing.
+
+694
+01:05:37,919 --> 01:05:42,159
+You can always say, if you're not feeling like it, well, I'm going to stay home today and relax.
+
+695
+01:05:42,159 --> 01:05:44,720
+The proletariat will get there sooner or later.
+
+696
+01:05:44,720 --> 01:05:55,199
+But you have to, but if you commit yourself, like Martin Luther King, to justice for the black people now, that gives you a day-to-day sense of what you have to do.
+
+697
+01:05:55,199 --> 01:05:59,439
+He can't stay home and say, it's raining, I'm not going to go on a peace march today.
+
+698
+01:05:59,919 --> 01:06:10,879
+Every day, when he wakes up in the morning, he knows what's important, like whether it's the bright weather for a peace march, and he knows what's unimportant, like whether they remember to buy the breakfast groceries.
+
+699
+01:06:11,199 --> 01:06:40,959
+And if you've got one of these commitments, then it structures, it's a paradigm that structures the finite, the world, but, and, and, makes your life full of meaning and bliss, and you're on the mountain and all that, and that's fine, but you can only get that kind of fulfillment by committing yourself to some finite project.
+
+700
+01:06:40,959 --> 01:07:02,559
+If you just say, well, I'm going to do the best I can and discover the best theory I can in science, and that's that'll keep me busy, that's fine, but that's not going to get you day-to-day meaning and a world in which there are fruitful distinctions between what's trivial and not, what's important and not, what's real and not, and so forth.
+
+701
+01:07:02,560 --> 01:07:23,079
+Okay, once you see, if Kierkegaard convinces you, and he convinces me anyway, that you can't get this kind of meaning in your life that tells you at every moment something, what's significant and what's not, you can't get that except by commitment to something finite and temporal.
+
+702
+01:07:23,079 --> 01:07:28,119
+And that, and now I haven't convinced you of this yet, that it's on the back burner.
+
+703
+01:07:28,119 --> 01:07:37,079
+And you need a commitment to something finite and temporal in order to have a life that's significant and meaningful.
+
+704
+01:07:37,079 --> 01:07:38,760
+What follows from all that?
+
+705
+01:07:38,760 --> 01:07:46,999
+Well, it follows that you're in big trouble because you commit yourself to something finite and temporal, then it's vulnerable.
+
+706
+01:07:47,320 --> 01:07:48,999
+It can't be otherwise.
+
+707
+01:07:49,159 --> 01:07:51,799
+Martin Luther King's cause could have failed.
+
+708
+01:07:52,119 --> 01:07:59,799
+The white people from the north could have just not been too scared to come down and march in the beach marches after a few of them were killed.
+
+709
+01:07:59,799 --> 01:08:08,519
+Then, if that had happened, then it would have been over for him and his life, and he'd never have been on the mountain, and being Martin Luther King would have been a disaster.
+
+710
+01:08:08,760 --> 01:08:10,839
+And there's nothing you can do about that.
+
+711
+01:08:10,839 --> 01:08:18,359
+And so the question is: why would anybody in their right mind put themselves in this risky situation?
+
+712
+01:08:18,360 --> 01:08:34,439
+Or if you don't want to be Martin Luther King, just ask yourself whether you want to have a case of romantic love like in the old days when you would be plunged into grief if the other person left you or died and everything would become gray and meaningless for you.
+
+713
+01:08:34,440 --> 01:08:36,279
+Who would want to do that?
+
+714
+01:08:37,239 --> 01:08:39,799
+And the answer is: nobody.
+
+715
+01:08:39,799 --> 01:08:45,959
+What you'd like is a defining commitment that is as solid as a rock, as it ought to be.
+
+716
+01:08:45,959 --> 01:08:55,600
+If it's going to be the basis of your whole identity in your world, it ought to be as it ought to be the most basically solid thing you could possibly find.
+
+717
+01:08:55,919 --> 01:08:58,399
+And here it is, totally vulnerable.
+
+718
+01:08:58,400 --> 01:09:00,239
+What do you do about that?
+
+719
+01:09:00,239 --> 01:09:03,439
+Well, there's lots of ways to deal with it.
+
+720
+01:09:03,440 --> 01:09:16,559
+One of them is, well, one of them is you think it makes no sense to build everything on something fragile, something not guaranteed, and therefore this kind of relationship is impossible.
+
+721
+01:09:16,560 --> 01:09:20,319
+And Kierkegaard does think it's impossible in his special terms.
+
+722
+01:09:20,320 --> 01:09:28,479
+When he says impossible, he doesn't just, and he means that it's the kind of relationship that just doesn't make sense.
+
+723
+01:09:28,480 --> 01:09:31,919
+Nobody in their right mind would want to do such a thing.
+
+724
+01:09:31,919 --> 01:09:36,239
+And that's, then what do you do about that?
+
+725
+01:09:36,239 --> 01:09:46,799
+Well, if it's got this dangerous character, I mean, one thing is, which you and Nietzsche represent is, well, why in the world do you let yourself get into this impossible situation?
+
+726
+01:09:46,799 --> 01:09:53,919
+But another way to deal with it is to try to fix it in some way.
+
+727
+01:09:53,919 --> 01:10:12,559
+And it seems to me all the religions of the world, as far as I know, somebody comes and tells me another, I'll be interested, but are dedicated to getting you not to get into such a kind of relationship, not to put all the meaning of your life into one commitment.
+
+728
+01:10:12,560 --> 01:10:17,680
+So Buddhist teaches you non-attachment to free you from suffering.
+
+729
+01:10:17,680 --> 01:10:24,720
+And the Stoics wanted to merge with the cosmic order where there would be no bad surprises.
+
+730
+01:10:24,720 --> 01:10:27,600
+And Plato says that you should merge with the good.
+
+731
+01:10:27,600 --> 01:10:33,439
+That is, the important part of you, the rational part of you, merges with the rational part of the universe.
+
+732
+01:10:33,440 --> 01:10:35,519
+What could be safer than that?
+
+733
+01:10:36,039 --> 01:10:40,199
+And even in Christianity, that's what's interesting.
+
+734
+01:10:40,199 --> 01:10:40,520
+St.
+
+735
+01:10:40,520 --> 01:10:42,600
+Augustine, I'm going to talk about the next time.
+
+736
+01:10:42,600 --> 01:10:42,919
+And St.
+
+737
+01:10:42,999 --> 01:10:47,079
+Thomas Aquinas have ways of avoiding the risk.
+
+738
+01:10:47,400 --> 01:10:54,919
+Kierkegaard's got the view, I'm going to start with it next time, that only if you take the risk will you get the reward.
+
+739
+01:10:55,239 --> 01:11:00,279
+And that seems to be a uniquely Judeo-Christian idea.
+
+740
+01:11:00,280 --> 01:11:15,159
+And that's what he's going to talk about next, because the issue about the night of resignation, just keep this in mind as you read and reread this difficult preamble from the heart.
+
+741
+01:11:15,159 --> 01:11:23,879
+The issue for the night of resignation is: can you keep a world which is significant and you have an identity and yet make it safe?
+
+742
+01:11:24,280 --> 01:11:28,439
+That even the Christian knight will try that.
+
+743
+01:11:28,440 --> 01:11:36,839
+But ultimately, the Christian message, according to Kierkegaard, is you've got to take the risk if you want the bliss.

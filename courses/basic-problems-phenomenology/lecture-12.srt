@@ -1,0 +1,4293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:07,840
+I think that there are two different ways to understand the whole project of the temporal part of Division II.
+
+2
+00:00:07,841 --> 00:00:20,881
+And that is a Blattner way, which is really a Kantian way, which is asking about being as that that determines beings as beings.
+
+3
+00:00:20,881 --> 00:00:27,600
+And he asks about that there's going to be some kind of structure and it's going to provide a kind of explanation.
+
+4
+00:00:27,841 --> 00:00:39,040
+And I said last time, and I'm still trying to figure it out, that doesn't feel right to me if the other half of the sentence is that being is that on the basis of which being is already understood.
+
+5
+00:00:39,040 --> 00:00:56,241
+And what one ought to be getting is a phenomenological description of that, not some explanatory Kantian-like structure which tells you how come there is cause and substance and objective time in terms of rules for synthesizing experience.
+
+6
+00:00:57,041 --> 00:01:06,000
+It somehow that's the wrong any attempt to say that this is a kind of explanation is it doesn't feel right.
+
+7
+00:01:06,001 --> 00:01:09,281
+So but it but then, what is primordial temporality?
+
+8
+00:01:09,520 --> 00:01:10,641
+I mean, this is the question.
+
+9
+00:01:10,641 --> 00:01:18,520
+I mean, I tell you, this is a very peculiar lecture in the sense that I'm going to talk about stuff that I don't really understand at all.
+
+10
+00:01:18,520 --> 00:01:22,440
+The question really is, what is primordial temporality?
+
+11
+00:01:18,000 --> 00:01:25,400
+And this is again related to last time.
+
+12
+00:01:25,720 --> 00:01:44,040
+I want to say that it's a phenomenon that you ought to be able to describe, and it's that on the basis of which beings and Dasein are already understood.
+
+13
+00:01:44,761 --> 00:01:48,600
+That's and that's very different.
+
+14
+00:01:48,601 --> 00:01:53,480
+And another way to put the way Bill and I differ is, again, there's two ways to go.
+
+15
+00:01:53,481 --> 00:02:03,321
+He knows that the Vorauf Hin, which gets translated all kinds of ways in this translation and is hopelessly messed up, but there are two right ways to translate it.
+
+16
+00:02:03,321 --> 00:02:10,921
+That on the basis of which, which is how I understand it, and he keeps saying that in terms of which, which is very different.
+
+17
+00:02:11,240 --> 00:02:17,001
+He wants to explain some kind of, put something in some other words.
+
+18
+00:02:17,001 --> 00:02:21,480
+I guess that's what in terms of which means, literally anyway.
+
+19
+00:02:21,481 --> 00:02:23,800
+And I want to say, no, no, that's not it.
+
+20
+00:02:23,800 --> 00:02:32,761
+You want to describe a phenomenon so fundamental that everything else happens on the basis of it.
+
+21
+00:02:32,761 --> 00:02:39,881
+That is, Dasein can be inauthentic, Dasein can be authentic, Dasein can cope with the ready back and so forth.
+
+22
+00:02:41,481 --> 00:03:09,041
+And I want to relate that, and this is what I was saying before, while you were gone, Eugene, to this puzzling remark that ought to settle something between Bill, a way of reading it and me, on page 383, which is full of strange things, about eight lines down, the ontological source of Dasein's being is not inferior to what springs from it, but towers above it in its power from the outset.
+
+23
+00:03:09,601 --> 00:03:14,481
+In the field of ontology, any springing forth is degeneration.
+
+24
+00:03:15,520 --> 00:03:18,641
+I'm not, I don't know what that means.
+
+25
+00:03:18,641 --> 00:03:20,641
+Do you have any idea?
+
+26
+00:03:20,641 --> 00:03:25,281
+But I want to say that it must, I mean, I want to read it.
+
+27
+00:03:25,280 --> 00:03:27,520
+I don't know how Bill is going to understand it.
+
+28
+00:03:27,840 --> 00:03:40,241
+But I want to read it as saying, well, the richest experience or phenomenon, let's say phenomenon, is temporality temporalizing itself.
+
+29
+00:03:40,561 --> 00:03:47,201
+And that's going to be the basis on which all the rest takes place.
+
+30
+00:03:47,520 --> 00:03:58,001
+And you're going to be always sort of leaving out the most fundamental basis when you describe all the things, the levels of stuff that can take place on it.
+
+31
+00:03:58,001 --> 00:03:58,721
+I don't know.
+
+32
+00:03:58,720 --> 00:03:59,601
+I leave you that.
+
+33
+00:03:59,601 --> 00:04:03,361
+Anybody who can write a paper on that sentence, that would be very nice.
+
+34
+00:04:04,160 --> 00:04:05,840
+I'm going to go on.
+
+35
+00:04:06,800 --> 00:04:23,520
+I want to say, you know, and I'm trying to make a certain case, and I didn't run into anything in the chapter that just stopped me cold, although I did run into a question from Eugene, which almost stopped me cold, but I think I have an answer for it.
+
+36
+00:04:23,520 --> 00:04:24,881
+I'll get there in a minute.
+
+37
+00:04:24,881 --> 00:04:41,761
+But I want to say that what's the that on the basis of which everything that is understandable gets understood, and everything that you can cope with gets coped with is the background coping.
+
+38
+00:04:41,840 --> 00:04:51,001
+The background coping is a very peculiar phenomenon about which Heidegger never said anything very helpful in Division I.
+
+39
+00:04:51,001 --> 00:04:57,720
+And I don't think he said anything very helpful about it in Division II, except that he says it's very dark and he can't say anything about it.
+
+40
+00:04:57,720 --> 00:05:08,121
+But what it is, is the fact that whatever this background coping is, it's more basic than intentionality.
+
+41
+00:05:08,441 --> 00:05:11,800
+It's more basic than any kind of structure.
+
+42
+00:05:12,840 --> 00:05:17,240
+It's in a certain way extremely simple but hard to get a grip on.
+
+43
+00:05:17,960 --> 00:05:23,881
+It's a kind of coping practice which doesn't have success conditions.
+
+44
+00:05:23,881 --> 00:05:26,520
+It doesn't even have improvement conditions.
+
+45
+00:05:26,520 --> 00:05:32,360
+It's a kind of coping which is just finding your way around in the world.
+
+46
+00:05:32,361 --> 00:05:36,920
+Or, to take his usual local place, finding your way around in a familiar room.
+
+47
+00:05:36,920 --> 00:05:53,641
+On the basis of that orientation and familiarity, you can have intentionality, you can use doorknobs and open windows, you can stare at the doorknobs and describe their properties, you can do all the kinds of intentionalistic things, both primordial.
+
+48
+00:05:53,800 --> 00:06:06,201
+Remember, he has two kinds of intentionality: primordial intentionality, which is coping with the ready-to-hand, and conceptual intentionality, which is dealing with the unready-to-hand and the present-to-hand.
+
+49
+00:06:06,201 --> 00:06:18,920
+All that takes place on a background of coping, which he says is, he says temporality is not itself a kind of intentionality, but it's what makes intentionality possible.
+
+50
+00:06:19,160 --> 00:06:24,600
+I can't remember where that is, but that's definitely something that he said.
+
+51
+00:06:25,720 --> 00:06:28,040
+And it's got to be unified.
+
+52
+00:06:28,441 --> 00:06:30,520
+It gives you a world.
+
+53
+00:06:31,400 --> 00:06:50,801
+And how to describe the background coping practices when you're at, as they are a phenomenon, when you're actually absorbed in coping with them, is the question, I think, of this chapter, though it never comes out so clearly.
+
+54
+00:06:50,801 --> 00:06:56,960
+Because in the end, you've got to keep your eye on the end of the chapter to see why this makes sense.
+
+55
+00:06:56,960 --> 00:07:04,080
+In the end, it turns out that what one wants to understand is transcendence.
+
+56
+00:07:04,080 --> 00:07:10,160
+Primordial temporality is what makes transcendent possible.
+
+57
+00:07:10,160 --> 00:07:13,121
+And there are three kinds of transcendence.
+
+58
+00:07:13,920 --> 00:07:18,240
+Well, I'm jumping way ahead, but now that I've started, I want to say it.
+
+59
+00:07:18,960 --> 00:07:24,481
+Because there's transcendental, there's transcendent, and where are they all?
+
+60
+00:07:24,800 --> 00:07:34,641
+So there's transcendence of the sort that goes out of the subject toward the object.
+
+61
+00:07:34,641 --> 00:07:36,321
+That can't be it.
+
+62
+00:07:36,641 --> 00:07:51,201
+There's transcendental of the sort in Kant, which is a structure that makes all, makes, holds the world together and things together and makes experience possible.
+
+63
+00:07:51,200 --> 00:07:52,801
+It can't be that.
+
+64
+00:07:53,280 --> 00:07:56,561
+But it's something which he calls transcendental.
+
+65
+00:07:56,560 --> 00:07:57,920
+The end of the chapter.
+
+66
+00:07:58,241 --> 00:08:00,400
+Transcendental has disappeared from the book.
+
+67
+00:08:00,481 --> 00:08:03,281
+I have to call in somebody to find it.
+
+68
+00:08:04,560 --> 00:08:11,361
+There's a section which we were just ready for called, with Transcendental in the Title, the one you asked me about.
+
+69
+00:08:11,361 --> 00:08:12,641
+Where is it?
+
+70
+00:08:12,961 --> 00:08:13,761
+It's gone.
+
+71
+00:08:13,761 --> 00:08:19,721
+And it's because you asked me about it that we're in this way back there.
+
+72
+00:08:17,920 --> 00:08:23,241
+Okay, I'm in the wrong area.
+
+73
+00:08:18,481 --> 00:08:24,680
+Page 415.
+
+74
+00:08:26,200 --> 00:08:28,520
+Yeah, well, no, that's there are two ends.
+
+75
+00:08:28,520 --> 00:08:31,400
+That's the temporal problem of the transcendence of the world.
+
+76
+00:08:31,400 --> 00:08:32,600
+That's where we're going to end up.
+
+77
+00:08:32,841 --> 00:08:49,641
+But I can tell you, somehow, if you describe the phenomenon on the basis of which we can cope with and encounter anything that we encounter, if you describe it right, you're going to be able to understand how Dasein is its world existingly.
+
+78
+00:08:49,641 --> 00:08:53,881
+That is, how Dasein isn't a subject that goes outside of itself.
+
+79
+00:08:53,881 --> 00:08:59,161
+That would be the traditional kind of representational intentionality.
+
+80
+00:08:59,160 --> 00:09:07,001
+It isn't even a coping something that deals directly with things, which would be Heidegger-Merleau-Ponty kind of primordial intentionality.
+
+81
+00:09:07,001 --> 00:09:10,041
+It's even more outside of itself than that.
+
+82
+00:09:10,361 --> 00:09:21,481
+Just to read you the place where this comes out clearly, that Dasein is the world existingly is one of the places.
+
+83
+00:09:21,481 --> 00:09:27,641
+But now I have to go back to the very, so four, I remember it's 477.
+
+84
+00:09:27,961 --> 00:09:28,360
+No?
+
+85
+00:09:29,001 --> 00:09:35,961
+Now I'm trying to find the place where he says that Dasein is the outside itself in and for itself.
+
+86
+00:09:35,960 --> 00:09:39,960
+Well, if I did this in the right order that I wrote it, I would have all the pages.
+
+87
+00:09:39,960 --> 00:09:42,601
+So let me stop this and go to the order.
+
+88
+00:09:43,160 --> 00:09:47,721
+Something 77, 377, I got the wrong, I went to 477.
+
+89
+00:09:48,040 --> 00:09:49,241
+Okay, yes.
+
+90
+00:09:49,241 --> 00:10:04,560
+So temporality is a kind of outside itself, more outside than either the representational intentionality or primordial intentionality.
+
+91
+00:10:04,881 --> 00:10:11,601
+As he says right below 329, temporality is the primordial outside of itself in and for itself.
+
+92
+00:10:13,520 --> 00:10:16,481
+That's the problem of this chapter.
+
+93
+00:10:16,641 --> 00:10:18,961
+And that's also really worldhood.
+
+94
+00:10:18,961 --> 00:10:20,641
+That turns out to be the clearing.
+
+95
+00:10:20,641 --> 00:10:22,081
+It gets mentioned in a minute.
+
+96
+00:10:22,081 --> 00:10:25,681
+It turns out to be the open, the there.
+
+97
+00:10:25,680 --> 00:10:41,920
+All of those names are the names for a phenomenon which is more basic than, and that on the basis of which all coping takes place.
+
+98
+00:10:42,241 --> 00:10:56,081
+And how to describe that phenomenon when you haven't got any of the normal philosophical tools, even intentionality, is what this weird chapter is trying to do.
+
+99
+00:10:56,400 --> 00:11:01,041
+So and I think Bill has just missed it.
+
+100
+00:11:01,040 --> 00:11:02,481
+And I'll say another thing.
+
+101
+00:11:02,641 --> 00:11:07,280
+I'm saying all the things that I think about it, and then I'll sort of read it in order.
+
+102
+00:11:07,280 --> 00:11:21,761
+It seems to me that this is going to also have to answer this issue about why Heidegger says primordial and authentic when he describes temporality temporalizing itself.
+
+103
+00:11:21,761 --> 00:11:31,361
+And there's a whole thing in which Bill claims rightly that he must just mean originary because after all authentic temporality is intermittent.
+
+104
+00:11:31,361 --> 00:11:48,160
+But I think he thinks, this is what I'm going to argue, that there isn't any way for us to describe finally the background, pure coping of our being or being in the world, as finding our way around in the world.
+
+105
+00:11:48,361 --> 00:11:55,961
+The best you can do is find a paradigm case of it, which is the most perspicuous.
+
+106
+00:11:55,961 --> 00:12:05,641
+And that will be a case in which Dasein's temporality and the unity of Dasein's temporality will become actually experienced.
+
+107
+00:12:05,641 --> 00:12:06,920
+It'll be a phenomenon.
+
+108
+00:12:06,920 --> 00:12:10,361
+That's what authentic Dasein allows you to say.
+
+109
+00:12:10,361 --> 00:12:17,481
+Lots about the towards which and anticipation and about the thrownness and the always already in.
+
+110
+00:12:17,481 --> 00:12:22,281
+All of that gets an interpretation in terms of authentic Dasein.
+
+111
+00:12:22,280 --> 00:12:39,321
+And I think the whole point of saying both always primordial and authentic, I think he wants to say it is primordial, and the way we have to describe it is through the way it's manifest, and that is authentic.
+
+112
+00:12:39,320 --> 00:12:43,321
+Now let me just read because I get always getting off from what I'm saying here.
+
+113
+00:12:43,321 --> 00:12:43,961
+So on top.
+
+114
+00:12:43,960 --> 00:12:45,721
+385 I want to start.
+
+115
+00:12:45,721 --> 00:12:52,280
+That's what I take to be about the background coping.
+
+116
+00:12:52,601 --> 00:12:59,001
+So look at the I want to start with the temporality of understanding.
+
+117
+00:12:59,001 --> 00:13:02,281
+It seems to come out clearly in that.
+
+118
+00:13:02,280 --> 00:13:17,721
+So at the beginning of that little section, with the term understanding, we have in mind a fundamental existentiale, which is neither a definite species of cognition, not explaining and so forth, nor cognition at all in the sense of grasping something thematically.
+
+119
+00:13:17,721 --> 00:15:18,641
+Understanding constitutes rather the being of the there in such a way that on the basis, that's I'm sure of Oral Finn, on the basis of such an understanding, a Dasein can, in existing, develop the different possibilities of sight looking around and just looking in all explanation one uncovers understandingly that which one cannot understand and all explanation is thus rooted in Dasein's primary understanding and that primary understanding I think is this understanding this familiarity with with the world and it seems to be more basic more primordial than even the understanding as for the sake of which there's understanding as primordial coping namely hammering there's understanding as the unready to hand namely deliberating and such that he talks about and there's understanding it's even more basic namely the for the sake of which and there has to be something even more basic than the for the sake of which namely that on the basis of which Dasein is the kind of being that can have a for the sake of which that's what this is supposed to be about I think but the best you can get at it just like the best you can get at it is to talk about the for the sake of which because you to how to talk about the the unity of the coping practices that are constantly there in the background and make all intelligibility and all intentionality possible is something he doesn't know how to do and probably maybe can't be done yeah that in good and one course something actually um that you just sort of have a a free I don't know these words but that they call it, but like a I like the word understanding that it doesn't apply any sort of it does to most people, but we Heideggerians have gotten over that.
+
+120
+00:15:30,440 --> 00:15:31,560
+You're on the right track.
+
+121
+00:15:31,560 --> 00:15:36,680
+There's a sense in which you and the world are so adapted to each other.
+
+122
+00:15:36,680 --> 00:15:46,921
+At this basic level of familiarity, that's got to do with this ecstatical structure of Dasein, which has horizonal structure too.
+
+123
+00:15:48,520 --> 00:15:49,881
+We'll get back to that in a minute.
+
+124
+00:15:49,881 --> 00:15:58,841
+The ecstatical structure has to do with the way Dasein is open and adapted to the world.
+
+125
+00:15:58,841 --> 00:16:04,281
+And the horizonal structure has to do with the way the world is adapted to Dasein.
+
+126
+00:16:04,280 --> 00:16:05,641
+And there's no distinction.
+
+127
+00:16:05,641 --> 00:16:08,441
+I mean, they're just sort of two sides of the same coin.
+
+128
+00:16:08,440 --> 00:16:17,881
+But that's the nearest thing to subject-object distinction when you, at the most primordial level, is that there are ecstasies and there are horizons.
+
+129
+00:16:17,881 --> 00:16:37,960
+But it's supposed to be not like the subject-object level, since somehow the ecstasies have horizons and the horizons have ecstasies, meaning that the Dasein has this threefold temporalizing structure and the world has some other uh aspect of the threefold temporalizing structure and they can't be taken apart.
+
+130
+00:16:37,960 --> 00:16:41,400
+They can't, they don't make any sense apart from each other.
+
+131
+00:16:41,400 --> 00:16:42,680
+Now, why was I saying that?
+
+132
+00:16:42,841 --> 00:16:45,641
+Oh, just because we're talking about understanding.
+
+133
+00:16:45,641 --> 00:17:08,400
+And you made me think, I mean, you you realize that from way back, again, I bet I can't turn to it, that familiarity, which never gets thematized much in Division I and nor in Division II, goes to make up the understanding of being, that quote I like to quote from, so we're very near the basic phenomenon when you're talking about familiarity.
+
+134
+00:17:08,400 --> 00:17:17,121
+That's why I think that it might well be sort of a way of talking about the phenomena that he wants to talk about.
+
+135
+00:17:17,121 --> 00:17:20,960
+Remember again, I just keep, what is the phenomenon he wants to talk about?
+
+136
+00:17:20,960 --> 00:17:30,881
+It's that on the basis of which beings are understood, and that's called temporality temporalizing itself.
+
+137
+00:17:30,881 --> 00:17:35,680
+It's not going to look very much like any kind of time.
+
+138
+00:17:35,841 --> 00:17:42,800
+It's not clock time, it's not world time with its earlier and later, and now it's time for a lecture kind of time.
+
+139
+00:17:42,801 --> 00:17:47,760
+It's not certainly not physical, one moment after another time.
+
+140
+00:17:47,760 --> 00:17:51,040
+It's not even successive kind of time.
+
+141
+00:17:51,521 --> 00:18:15,440
+But it has three-dimensional structure, and from that, and because that structure, I guess, is richer than any other structure, you get to call that, and makes all forms of time possible.
+
+142
+00:18:15,440 --> 00:18:20,240
+You get to call that originary temporality.
+
+143
+00:18:20,240 --> 00:18:26,960
+And that's what we're trying to understand, what it is, and how we're supposed to be able to talk about it.
+
+144
+00:18:27,121 --> 00:18:43,280
+I like this because it looks like that beginning of understanding is talking about this kind of primary understanding, and the kind of primary understanding is going to be this background hoping kind of understanding, I think.
+
+145
+00:18:45,841 --> 00:18:51,801
+And clearly, it's more basic even than anticipatory resoluteness.
+
+146
+00:18:51,801 --> 00:18:54,361
+I have something on 385 that says that.
+
+147
+00:18:48,400 --> 00:18:55,240
+The second paragraph.
+
+148
+00:18:56,440 --> 00:19:09,240
+If the term understanding is taken in a way which is primordially existential, it means to be projecting toward an ability to be for the sake of which Dasein exists.
+
+149
+00:19:09,240 --> 00:19:13,560
+In understanding one's own ability to be is disclosed and so forth.
+
+150
+00:19:14,200 --> 00:19:28,121
+And that's, I guess, the primordial existential understanding is, what is, is that authentic temporality temporal?
+
+151
+00:19:28,121 --> 00:19:39,080
+I mean, is that temporality temporalizing itself, or just temporality temporalizing itself when it is originary existential?
+
+152
+00:19:39,081 --> 00:19:40,281
+No, I think that is.
+
+153
+00:19:40,281 --> 00:19:45,641
+That's one version of the way temporality temporalizes itself.
+
+154
+00:19:45,641 --> 00:19:46,280
+That's only one.
+
+155
+00:19:46,281 --> 00:19:47,321
+That's understanding.
+
+156
+00:19:47,321 --> 00:19:53,000
+But they're all going to be aspects of the background coping thing.
+
+157
+00:19:53,240 --> 00:20:01,000
+If somebody wants me, I would be delighted, because I tell you, I think this is very important to understand this very, very difficult book.
+
+158
+00:20:01,001 --> 00:20:08,361
+And I think we've got to understand what primordial temporality is, or temporality temporalizing itself, or you won't understand anything else.
+
+159
+00:20:08,361 --> 00:20:16,841
+I mean, it's easy relative to that to understand authentic Dasein and resoluteness and anticipatory resoluteness and everything like that.
+
+160
+00:20:16,841 --> 00:20:19,800
+That's childplay compared to this.
+
+161
+00:20:19,801 --> 00:20:27,080
+And we don't even understand when we're doing this, and that's where Bill and I are differing, what the job is supposed to be.
+
+162
+00:20:27,081 --> 00:20:38,160
+And so let's, and at least I think I understand in a way that I'm not sure Bill does, although I hadn't time to read more than the relevant chapter we read.
+
+163
+00:20:38,641 --> 00:21:01,040
+But I mean, I'm not sure that Bill understands that the whole goal of this is to get a structure which covers both the world and Dasein such that you can see that it's the same structure from two points of view and capture both the capture the fact that Dasein is its world existingly.
+
+164
+00:21:01,041 --> 00:21:03,520
+That's the job, I think.
+
+165
+00:21:03,521 --> 00:21:04,560
+Now, I saw a hand.
+
+166
+00:21:04,561 --> 00:21:05,201
+Yeah, you.
+
+167
+00:21:05,200 --> 00:21:05,841
+Yeah.
+
+168
+00:21:06,160 --> 00:21:07,121
+Oh, good, good.
+
+169
+00:21:07,281 --> 00:21:07,761
+You see?
+
+170
+00:21:08,720 --> 00:21:10,160
+How many didn't know?
+
+171
+00:21:10,160 --> 00:21:12,400
+I mean, it's my fault that I'm nice.
+
+172
+00:21:12,480 --> 00:21:13,920
+Somebody should speak up.
+
+173
+00:21:14,160 --> 00:21:15,121
+It's the same.
+
+174
+00:21:15,121 --> 00:21:27,040
+It's just too, the word is Ursprunglisch, and it gets translated primordial in ours, and Blatner wants to translate it originary.
+
+175
+00:21:27,041 --> 00:21:29,441
+Now, I don't remember.
+
+176
+00:21:29,440 --> 00:21:33,281
+I didn't rem I haven't any core with Bill about that.
+
+177
+00:21:33,281 --> 00:21:49,920
+It isn't as if, I think, although I'm ready to think out loud and entertain it, is it somehow sort of prejudicing things in the direction of my trying to read it my way to call it primordial and his way to call it originary?
+
+178
+00:21:50,801 --> 00:21:51,841
+I think it is.
+
+179
+00:21:51,841 --> 00:21:52,641
+I think it is.
+
+180
+00:21:52,641 --> 00:22:03,040
+He's already built into it that it's some, he understands the source as if in some kind of idealist way is built into it already.
+
+181
+00:22:04,641 --> 00:22:10,240
+The ordinary kinds of time arise from this.
+
+182
+00:22:10,240 --> 00:22:14,960
+And I want to say, no, it's primordial.
+
+183
+00:22:14,960 --> 00:22:18,680
+It isn't the o origin of these other modes of time.
+
+184
+00:22:16,881 --> 00:22:20,441
+It's more basic than all these other modes of time.
+
+185
+00:22:22,521 --> 00:22:26,760
+And they presuppose it and act on the basis of it.
+
+186
+00:22:26,760 --> 00:22:32,041
+But I don't think that's, I think that's it's misleading to call that originary.
+
+187
+00:22:32,041 --> 00:22:34,920
+I don't is there any do you have any feel for the German?
+
+188
+00:22:34,920 --> 00:22:36,361
+That's true.
+
+189
+00:22:36,361 --> 00:22:43,320
+And in the Ursprung des Kunstweck, which Heidegger wrote later, that gets translated, the origin of the work of R.
+
+190
+00:22:43,480 --> 00:22:43,961
+Right.
+
+191
+00:22:44,281 --> 00:22:47,400
+But I hmm.
+
+192
+00:22:47,720 --> 00:22:49,000
+You're right.
+
+193
+00:22:49,000 --> 00:22:54,601
+Still, I'm ready to just sort of take it.
+
+194
+00:22:54,841 --> 00:23:03,960
+If we could, if I could hear in a neutral way, originary meaning basic, then I wouldn't mind calling it originary.
+
+195
+00:23:03,960 --> 00:23:12,121
+Primordial is such a non-illuminating word that you just have to bring in from English if you try to do Urspring.
+
+196
+00:23:12,121 --> 00:23:18,920
+So let's, and so that's why I lapse into saying originary, because it feels like a real, somehow it's saying something.
+
+197
+00:23:18,920 --> 00:23:26,280
+However, when I worry about what it's saying, which Eugene just did, it sounds like it's saying something that I don't see any ground in the text.
+
+198
+00:23:26,280 --> 00:23:33,000
+I mean, I see that all these modes of time arise from that.
+
+199
+00:23:33,000 --> 00:23:35,001
+Now you have to go back to 383.
+
+200
+00:23:35,000 --> 00:23:37,720
+That's why I started with 383.
+
+201
+00:23:38,041 --> 00:23:46,440
+Arising from being to be somehow degenerating from, I still don't understand that.
+
+202
+00:23:46,440 --> 00:23:48,841
+Let's go back and look again in the light of this discussion.
+
+203
+00:23:48,841 --> 00:23:56,280
+The ontological structure of Dasein's being is not inferior to what springs from it.
+
+204
+00:23:56,601 --> 00:24:05,121
+Now, the ontological structure of Dasein's being is what, temporality, temporalizing self, I presume, is not inferior to what springs from it.
+
+205
+00:24:03,561 --> 00:24:08,240
+The power is above it in power from the outset.
+
+206
+00:24:08,561 --> 00:24:13,440
+In the field of ontology, any springing from is degeneration.
+
+207
+00:24:15,041 --> 00:24:19,361
+And what is what is this on my side or on Bill's side?
+
+208
+00:24:19,361 --> 00:24:24,720
+The idea that in ontology, springing from is degeneration?
+
+209
+00:24:24,720 --> 00:24:25,601
+I don't get it.
+
+210
+00:24:26,160 --> 00:24:27,361
+Let's not go back to this.
+
+211
+00:24:29,361 --> 00:24:30,560
+But let's stick to the question.
+
+212
+00:24:30,801 --> 00:24:36,400
+All I want to say that you, you did the right thing to ask, and we have to make up our mind.
+
+213
+00:24:36,400 --> 00:24:45,361
+And I think originary, I agree with Eugene, originary is closer to the German, even if it's further from what I want to say.
+
+214
+00:24:45,680 --> 00:24:47,361
+Yeah, you want to say more?
+
+215
+00:24:48,081 --> 00:24:50,721
+While you're doing that, just a second, I want to look at this and see.
+
+216
+00:24:50,720 --> 00:24:51,281
+Look at that.
+
+217
+00:24:51,281 --> 00:24:52,240
+It seems to be recording.
+
+218
+00:24:52,240 --> 00:24:52,641
+Go ahead.
+
+219
+00:24:57,440 --> 00:24:58,721
+Let me say a word about that.
+
+220
+00:24:58,720 --> 00:25:00,960
+And keep that, bear that in mind.
+
+221
+00:25:00,960 --> 00:25:08,801
+I mean, if you look at Blattner, by the way, Blattner is the only good book on this subject, as far as I know, and it's a very good book on the subject.
+
+222
+00:25:09,521 --> 00:25:14,560
+That is this book, Dasein's Heidegger's Temporal Idealism.
+
+223
+00:25:14,561 --> 00:25:18,400
+And that's why it's worth reading it and sort of dialoguing with it.
+
+224
+00:25:18,400 --> 00:25:28,641
+But Blattner thinks that Heidegger's trying to derive nature time from Dasein time and fails.
+
+225
+00:25:28,641 --> 00:25:42,800
+You're saying, no, there's a success from time in nature, and that's just basic, and it's going to be there and it and in and it it's independent of Dasein and what goes on whether Dasein ever exists or not.
+
+226
+00:25:42,801 --> 00:25:53,481
+And uh Heidegger, as far as I know, again, keep your eyes open, I don't think Heidegger ever says anything about successive time, oddly enough.
+
+227
+00:25:53,720 --> 00:26:02,440
+He says that the the Dasein structure, the the of tem temporality, is not successive.
+
+228
+00:26:02,440 --> 00:26:11,320
+And he says that from temporality he's able to derive a whole lot of the features of everyday time.
+
+229
+00:26:11,321 --> 00:26:21,560
+And he certainly explains how because of clocks we begin to think of time as a succession of pure meaningless nous.
+
+230
+00:26:21,561 --> 00:26:27,320
+And he he can he can derive sort of our access to that.
+
+231
+00:26:27,321 --> 00:26:32,760
+But Bill thinks he wants to derive that there are pure meaningless nows.
+
+232
+00:26:32,760 --> 00:26:35,720
+And I think and he failed, Bill said.
+
+233
+00:26:36,041 --> 00:26:39,400
+I think he doesn't fail because he doesn't even try.
+
+234
+00:26:39,400 --> 00:26:47,160
+But then why doesn't he tell us that he's assuming that of course there is a sequence of natural nows?
+
+235
+00:26:47,480 --> 00:26:49,480
+I don't know.
+
+236
+00:26:49,480 --> 00:26:53,641
+I mean, what I what I really think is he thinks it's obvious.
+
+237
+00:26:53,641 --> 00:27:03,960
+I think he he thinks it's obvious that Descartes space is basic for science, but doesn't get at our spatiality.
+
+238
+00:27:03,960 --> 00:27:11,720
+I think he thinks that natural succession is basic too and doesn't get at our kind of temporality.
+
+239
+00:27:11,720 --> 00:27:13,721
+But you can't just say what you just said.
+
+240
+00:27:13,720 --> 00:27:25,720
+I mean, or you can, but you're outside of this whole debate, because Heidegger certainly if if that's what Heidegger's doing, then we've got to find some reason to think so.
+
+241
+00:27:25,720 --> 00:27:29,320
+That meaning assuming natural succession.
+
+242
+00:27:29,321 --> 00:27:33,841
+I think there are reasons to think that Heidegger is assuming natural succession.
+
+243
+00:27:33,321 --> 00:27:35,121
+I think I mentioned this before.
+
+244
+00:27:35,440 --> 00:27:45,601
+My favorite quote at the very last paragraph of the history of the concept of time, Heidegger talks about the time-free movements of nature.
+
+245
+00:27:45,601 --> 00:27:50,081
+And whatever that is, I think that's like Cartesian space.
+
+246
+00:27:50,081 --> 00:27:52,240
+I think he thinks that's just there.
+
+247
+00:27:52,480 --> 00:27:55,040
+And he doesn't feel he has to explain it.
+
+248
+00:27:55,041 --> 00:27:58,240
+But you can't just start out with that.
+
+249
+00:27:58,240 --> 00:28:00,801
+If you start out with that, you're going to get in trouble.
+
+250
+00:28:02,000 --> 00:28:16,641
+You have to realize that Heidegger's, you've got to try to figure out how Heidegger could be holding on to a natural succession and why he isn't telling us.
+
+251
+00:28:16,881 --> 00:28:17,121
+Yeah.
+
+252
+00:28:18,160 --> 00:28:21,281
+I don't see if he needs to hold on to a natural succession.
+
+253
+00:28:21,281 --> 00:28:23,040
+I mean, it's very, very natural.
+
+254
+00:28:23,361 --> 00:28:24,320
+Yeah, right.
+
+255
+00:28:24,641 --> 00:28:29,680
+Just to provide an infrastructure, and maybe suggest why he might not want to mention it at all.
+
+256
+00:28:29,680 --> 00:28:44,000
+I'm reminded why I was reminded in my first of it of a quote from Wittgenstein's Broadbottle Investigation, where he mentions, just in a small quote, we like to say that animals don't talk because they don't think, but really they just don't talk.
+
+257
+00:28:44,321 --> 00:28:52,800
+And I'm reminded of this in so far as I want to figure it out and say, we like to say that things get older because time passes, but really they just get older.
+
+258
+00:28:52,801 --> 00:29:00,400
+And there's a sense that we sort of assert succession onto nature, and things do get older and they change.
+
+259
+00:29:00,400 --> 00:29:05,680
+But succession itself, as we consider a slot time, isn't implied by that.
+
+260
+00:29:05,680 --> 00:29:08,560
+And we don't need to even talk about succession necessarily.
+
+261
+00:29:08,881 --> 00:29:13,680
+Well, that's going to be an issue for either next time or the time after.
+
+262
+00:29:13,920 --> 00:29:16,440
+But let's not talk about it yet.
+
+263
+00:29:16,160 --> 00:29:21,961
+I just want to say one thing about it to keep your eyes open for it.
+
+264
+00:29:23,801 --> 00:29:26,281
+Just keep your eyes open and see what you think.
+
+265
+00:29:26,281 --> 00:29:48,040
+A very smart undergraduate wrote a very good honors thesis about three years ago now, claiming that Heidegger makes a clear distinction between earlier and later, which are relative to now, and now is something we bring in to time, just like here is something we bring into space.
+
+266
+00:29:48,041 --> 00:29:59,561
+But that there's something more neutral than earlier and later, which is before and after, which we can try to describe without bringing in a now.
+
+267
+00:29:59,561 --> 00:30:01,240
+And that would be nature time.
+
+268
+00:30:03,160 --> 00:30:20,041
+Heidegger's got a whole thing, and this is what this brilliant student found in the the Sophist lectures about how Aristotle is confused in his definition of time as to whether it's got an earlier and later or only a before and after.
+
+269
+00:30:20,041 --> 00:30:31,801
+And that sounds very mysterious unless you keep asking yourself whether the now depends on us and whether when you could have a kind of succession without it.
+
+270
+00:30:32,521 --> 00:30:35,240
+So that's all to be put aside.
+
+271
+00:30:35,240 --> 00:30:39,081
+First, you in the back, then, okay, you yeah.
+
+272
+00:30:39,400 --> 00:30:41,161
+Wait on 379.
+
+273
+00:30:41,160 --> 00:30:42,200
+Where are you?
+
+274
+00:30:42,521 --> 00:30:42,920
+Okay.
+
+275
+00:30:45,240 --> 00:30:47,960
+Yes, I think yeah, that's an interesting quote.
+
+276
+00:30:48,200 --> 00:30:57,321
+He does think, it seems, that that any any but but of course anybody in their right mind thinks that time goes on after they die.
+
+277
+00:30:57,480 --> 00:31:00,520
+I mean, Kant too, and s and Bill too.
+
+278
+00:31:00,521 --> 00:31:15,280
+So the question is whether time is sort of constituted by us as going on you know as a kind of I don't know I I can't even think about it.
+
+279
+00:31:20,801 --> 00:31:29,200
+I have the inauthentic temporality, rather uh find authentic temporality, than how the authentic temporality has been authentic.
+
+280
+00:31:29,200 --> 00:31:33,920
+Temporalizing infinite time out of the finite.
+
+281
+00:31:33,920 --> 00:31:36,240
+So I mean that's a good point.
+
+282
+00:31:36,240 --> 00:31:37,121
+Good point.
+
+283
+00:31:37,121 --> 00:31:38,400
+Yeah, Tyler.
+
+284
+00:31:44,881 --> 00:31:50,721
+Based on our final deaths, time go on after we work, time goes on, and finitely.
+
+285
+00:31:53,920 --> 00:32:00,000
+Everyday organized mind got long and things quite different from each other.
+
+286
+00:32:00,321 --> 00:32:01,200
+Hmm.
+
+287
+00:32:02,081 --> 00:32:05,200
+Clocks go on and calendars go on.
+
+288
+00:32:05,521 --> 00:32:29,520
+And that's well, that's that sounds right to me only because if he were really making this strong claim, it sounds like it, I grant you, if he were really making the strong claim that uh time that in every sense of time, even just brute succession, depends on us in some way, uh that seems strange.
+
+289
+00:32:29,521 --> 00:32:41,280
+But on the other hand, if he said if he seems to make the claim that uh time uh doesn't depend on us at all, he needs to g explain it more.
+
+290
+00:32:41,280 --> 00:32:43,761
+But but I but uh but this is for next time.
+
+291
+00:32:43,760 --> 00:32:46,641
+We are gotten off into exactly what we're not supposed to be talking about.
+
+292
+00:32:46,641 --> 00:32:48,240
+You want to say something, Henry?
+
+293
+00:32:48,240 --> 00:32:48,641
+Yeah.
+
+294
+00:32:49,081 --> 00:32:55,160
+Well, well, everybody, I don't mind talking about it, because when you read it, there at least be clued into what what about succession, yeah?
+
+295
+00:32:56,920 --> 00:32:57,400
+Where are you?
+
+296
+00:32:57,400 --> 00:32:58,760
+On what page?
+
+297
+00:32:58,760 --> 00:32:59,881
+Okay.
+
+298
+00:33:01,160 --> 00:33:02,200
+Where now?
+
+299
+00:33:02,521 --> 00:33:04,520
+Well I don't see where you are yet.
+
+300
+00:33:04,521 --> 00:33:06,440
+Right, above or below?
+
+301
+00:33:07,400 --> 00:33:08,121
+Okay.
+
+302
+00:33:09,321 --> 00:33:11,160
+Temporal well, go ahead then.
+
+303
+00:33:14,041 --> 00:33:16,361
+So what do you conclude about that from that?
+
+304
+00:33:16,521 --> 00:33:18,520
+Temporality, temporalizing.
+
+305
+00:33:20,281 --> 00:33:29,641
+But the question is, I think the problem is there is a kind of sequence of now's temporality, all right.
+
+306
+00:33:29,800 --> 00:33:32,121
+He's not going to deny that.
+
+307
+00:33:32,121 --> 00:33:43,561
+The question is whether that is dependent on Daseine in some way, explained in terms of Dasein, or whether that's in nature independent of Dasein.
+
+308
+00:33:43,561 --> 00:33:48,281
+And the question, another way to put it, is on this word accessible.
+
+309
+00:33:49,001 --> 00:33:59,081
+What is characteristic of time, which is accessible to ordinary understanding, is precisely the fact that it's a pure sequence of now's without beginning and end and so forth.
+
+310
+00:33:59,081 --> 00:34:01,641
+That is, well, I never mind accessible.
+
+311
+00:34:01,641 --> 00:34:05,561
+In which the ecstatical character of primordial time has been leveled off.
+
+312
+00:34:06,840 --> 00:34:09,160
+Well, I don't know how important accessible is.
+
+313
+00:34:09,160 --> 00:34:30,361
+I mean, it's clear that the the sequence of nows is accessible to us only by way of leaving out all of the richness of temporality, temporalizing itself, and then all you get left, finally, is a sequence of pure nows.
+
+314
+00:34:30,680 --> 00:34:33,200
+Now, there's there's so many things to worry about there.
+
+315
+00:34:34,081 --> 00:34:38,961
+Is it the pure nows in nature that then we get access to when we leave all this out?
+
+316
+00:34:32,840 --> 00:34:40,081
+I think not.
+
+317
+00:34:40,320 --> 00:34:45,761
+I think now itself is a Daseine relative notion.
+
+318
+00:34:45,760 --> 00:34:50,801
+And remember, to me anyway, it helps a great deal to keep reminding yourself about space.
+
+319
+00:34:50,800 --> 00:34:54,160
+If you get rid of Dasein, there is no here.
+
+320
+00:34:54,160 --> 00:35:00,720
+But there's still up and down, or at least there are three dimensions, equal and so forth.
+
+321
+00:35:01,041 --> 00:35:05,680
+Whatever Descartes, there's still res extensa, but there's no now.
+
+322
+00:35:05,680 --> 00:35:25,921
+And I think, so to understand it in terms of a series of nows, you could only get there by having this rich notion and getting it more and more degenerated, to talk by that first quote, more and more privative, until all that's left is a succession of now's.
+
+323
+00:35:25,921 --> 00:35:29,761
+I think Heidegger thinks that that depends on us.
+
+324
+00:35:30,081 --> 00:35:35,200
+Not only the intelligibility of it, but the access to it.
+
+325
+00:35:35,200 --> 00:35:36,160
+You look worried.
+
+326
+00:35:36,160 --> 00:35:40,320
+But I don't think that nature time depends on us, because I think nature time has no now's.
+
+327
+00:35:40,320 --> 00:35:48,961
+Now, I have no idea how you're supposed to think about a time that has no nows, any more than I understand how you should think about the time-free movements of nature.
+
+328
+00:35:48,961 --> 00:36:06,321
+But I want to say Heidegger thinks, seems to think, that there is a way to think about nature that would strip away the now and the earlier and the later and leave a kind of pure succession that didn't even have a now, than but I don't know.
+
+329
+00:36:06,320 --> 00:36:10,081
+And uh it's funny how we're doing, why we're doing next time instead of this time.
+
+330
+00:36:10,081 --> 00:36:13,200
+Probably because I can understand a little of next time and nothing of this time.
+
+331
+00:36:13,200 --> 00:36:14,481
+Yeah, Stephen.
+
+332
+00:36:14,481 --> 00:36:16,721
+Wait, so talk loud, I can't hear you.
+
+333
+00:36:17,280 --> 00:36:20,840
+Well, yeah, I I I think I'm agreeing with you.
+
+334
+00:36:21,001 --> 00:36:39,561
+Are you a a pure sequence of nows is what you get from from within Dasein's rich temporality temporalizing itself experience in which there's pragmatic time, then there's clock time, then there's sequence of now time.
+
+335
+00:36:39,561 --> 00:36:45,081
+All that is somehow relative to Dasein, I think.
+
+336
+00:36:45,081 --> 00:36:52,041
+And that's what you call present Dasman time, which I think that's right.
+
+337
+00:36:52,041 --> 00:37:02,921
+And the question is whether there's a kind of succession, even more basic, which hasn't got any nows.
+
+338
+00:37:03,880 --> 00:37:13,561
+That's what he entertains in that discussion of Aristotle when he says that Aristotle mixes up the earlier and later, which you have to have a now.
+
+339
+00:37:14,200 --> 00:37:19,001
+You can't have earlier than now without a now or later without a now.
+
+340
+00:37:19,001 --> 00:37:23,081
+But you can have before and after without a now in some sense.
+
+341
+00:37:23,081 --> 00:37:27,160
+The number series has, I mean, three is after one and so forth.
+
+342
+00:37:27,160 --> 00:37:41,721
+And nature is going to be in some way laid out in such a way that there being a now in it doesn't doesn't make any difference, doesn't show up, doesn't count.
+
+343
+00:37:42,360 --> 00:37:50,441
+And again, just as you can lay out space, nobody thinks it's crazy to think that there's a space in which there isn't any here.
+
+344
+00:37:51,081 --> 00:37:57,641
+So, why should it be, why shouldn't we at least try to think of a temporality in which there isn't any now?
+
+345
+00:37:57,641 --> 00:37:59,320
+You're looking worried.
+
+346
+00:37:59,961 --> 00:38:01,000
+Yeah, no.
+
+347
+00:38:01,001 --> 00:38:04,561
+Okay, but I'm worried because I want to go back to this, okay?
+
+348
+00:38:03,481 --> 00:38:05,520
+So, here we go.
+
+349
+00:38:06,720 --> 00:38:18,561
+I have tried so hard to lay out the difference between what I'm saying and what Bill is saying, so that you can try to decide for yourself and for me which one is the right way to look at it.
+
+350
+00:38:18,561 --> 00:38:21,200
+So, I got to 385.
+
+351
+00:38:21,200 --> 00:38:28,721
+I say the existential condition of the possibility of intentionality is more basic even than anticipatory resoluteness.
+
+352
+00:38:28,720 --> 00:38:30,240
+That's an interesting claim.
+
+353
+00:38:30,240 --> 00:38:31,761
+Where do I get that?
+
+354
+00:38:32,001 --> 00:38:38,321
+You got that out of 385, the second full paragraph.
+
+355
+00:38:38,320 --> 00:38:48,321
+If the term understanding is taken in a way which is primordial existential, it means to be projecting toward an ability to be, what I read before, for the sake of which any design exists.
+
+356
+00:38:48,880 --> 00:38:54,321
+You know, understanding one's own ability to be, dash on knows what it's capable of.
+
+357
+00:38:54,320 --> 00:39:01,521
+It knows, however, not by having discovered some fact but maintaining itself in an existential possibility.
+
+358
+00:39:02,160 --> 00:39:04,081
+Why am I, what in the world?
+
+359
+00:39:04,081 --> 00:39:13,361
+When I doesn't say anything yet about existential condition of the possibility is more basic than anticipatory resoluteness, let's go on a little.
+
+360
+00:39:14,320 --> 00:39:22,561
+The kind of ignorance which corresponds to this does not consist in the absence of understanding, it must be regarded as a deficient mode of the projectiveness.
+
+361
+00:39:22,561 --> 00:39:24,720
+Existence can be when one understands.
+
+362
+00:39:25,041 --> 00:39:28,481
+Well, if it says what I just said, it said, I don't see it now.
+
+363
+00:39:28,481 --> 00:39:35,761
+I said the existential condition of the possibility of intentionality is more basic than anticipatory resoluteness.
+
+364
+00:39:35,760 --> 00:39:37,520
+That's a pretty clear claim.
+
+365
+00:39:37,521 --> 00:39:39,121
+Why don't I see it?
+
+366
+00:39:39,441 --> 00:39:41,680
+Well, I'm going to put a question mark there.
+
+367
+00:39:41,680 --> 00:39:44,880
+If I figure out what I meant by it, I'll tell you next time if it's important.
+
+368
+00:39:44,880 --> 00:39:46,321
+It probably isn't.
+
+369
+00:39:46,320 --> 00:39:53,241
+So all explanation is rooted in Dasein's primary understanding on 385.
+
+370
+00:39:54,521 --> 00:39:56,441
+We just read that one.
+
+371
+00:39:56,441 --> 00:40:07,720
+And now I'm wondering: if there is such a thing as a non-successive structure of background coping, what would it be like to understand it?
+
+372
+00:40:07,720 --> 00:40:17,880
+And now I'm trying to figure out, sort of, one, whether that's what we should be trying to understand, and if so, whether Bill's notion of explaining it is going to help any.
+
+373
+00:40:17,880 --> 00:40:18,521
+I'm on one.
+
+374
+00:40:19,320 --> 00:40:29,881
+He finds this long quote about time in Heidegger's logic book, which is written a year before being, lectures given a year before being in time.
+
+375
+00:40:29,880 --> 00:40:34,281
+And he says at the bottom of his 105, that is Blattner's.
+
+376
+00:40:34,280 --> 00:40:42,521
+In Logic, his book, Logic, Heidegger gives us an indication that he has something radical up his sleeve, but he does not say just what.
+
+377
+00:40:42,521 --> 00:40:53,641
+And then he quotes, already and ahead, the already and ahead that help to make up care as temporal characteristics do not concern an entity that takes place in time.
+
+378
+00:40:53,961 --> 00:41:02,680
+And then skipping down, because you heard that, I'm going to read the last part of it, because it gets darker and darker and harder.
+
+379
+00:41:03,401 --> 00:41:09,160
+It looks like Heidegger sees that he's got something to talk about that he can't understand, how to talk about it.
+
+380
+00:41:09,160 --> 00:41:14,840
+Care is not only not temporally determined in the manner stated, that is, how.
+
+381
+00:41:17,880 --> 00:41:24,440
+I don't know, but care is not, I don't like to turn the man, but rather cannot be temporally determined at all.
+
+382
+00:41:24,441 --> 00:41:26,441
+Oh, of course, care isn't in time.
+
+383
+00:41:26,401 --> 00:41:29,241
+Care is that's the non-successive story.
+
+384
+00:41:29,240 --> 00:41:33,920
+But already and ahead are temporal characteristics, exclamation mark.
+
+385
+00:41:34,240 --> 00:41:41,840
+Thus, the only remaining possibility is that their time-locked sense is not the sense thus far explained, but a different one.
+
+386
+00:41:42,160 --> 00:41:44,001
+But what other sense?
+
+387
+00:41:44,001 --> 00:41:52,401
+I mean, so the the kind already explained is all the kinds of temporality that you have when you're involved with things.
+
+388
+00:41:52,401 --> 00:41:56,480
+And now he's asking what about the background temporality, as I read it.
+
+389
+00:41:56,481 --> 00:42:01,360
+And then he says, this, namely, what is this more basic temporality?
+
+390
+00:42:01,360 --> 00:42:07,121
+This is primarily dark, and we stand once again at the beginning of our considerations.
+
+391
+00:42:07,441 --> 00:42:24,241
+Nonetheless, we have one, if not something positive, then at least prohibitively, something essential, namely the reference to the idea that if the already and the ahead are temporal phenomena, the most natural interpretation as now time does not help us.
+
+392
+00:42:24,240 --> 00:42:36,321
+So I'm reading that because it looks like when he gets to the most basic time-like character, he says he can't explain it.
+
+393
+00:42:36,320 --> 00:43:10,081
+And that's when I want to say that I think if that's true, that there's a kind of basic coping phenomenon finding their way around in the world, which is an understanding of being and holistic, but not intentional, then if there is such a thing, and if Heidegger doesn't know how to talk about it, and he never does talk about it, except to say there is such a thing, but he can't describe it, then I would say authentic temporality is the best you can do.
+
+394
+00:43:10,081 --> 00:43:23,240
+And because it gives us uh the you see in authentic temporality an instance of the unity of originary or primordial, you can have it either way, time.
+
+395
+00:43:23,880 --> 00:43:31,561
+We can make sense of the unity of primordial temporality because we can make sense of the unity of an authentic life.
+
+396
+00:43:31,561 --> 00:43:33,961
+I think that's that's good.
+
+397
+00:43:33,961 --> 00:43:52,361
+And that's why I think that he spends all this time in Division II talking about temporality temporalizing itself as primordial and authentic, is all he can talk about is the authentic structure of time temporalizing itself and its unity.
+
+398
+00:43:52,680 --> 00:44:19,720
+When he does talk finally about this more basic on the basis of which of everything, being in being, that on the basis of which everything is intelligible, when he does finally talk about it, he says these very, very unhelpful things about ecstatical unities and horizonal unities and the way they are connected or sort of aspects of the same something or other.
+
+399
+00:44:19,720 --> 00:44:32,281
+That's an attempt, that's notice, that's an attempt to talk about something very general about time, not just authentic, the temporality of authentic Dasein, but the temporality of everything.
+
+400
+00:44:32,280 --> 00:44:49,880
+The temporality of being in the world, the temporality of the clearing, the temporality of whatever, all these words that he's got for the disclosive openness that is most basically us.
+
+401
+00:44:50,481 --> 00:45:05,521
+We we aren't we aren't the totality of things existingly, but we are somehow the clearing or opening in which we can encounter ourselves and other Daseins and the totality of things.
+
+402
+00:45:05,521 --> 00:45:08,480
+And that that that's what he wants to talk about.
+
+403
+00:45:03,320 --> 00:45:10,641
+That's really what he always wants to talk about.
+
+404
+00:45:10,961 --> 00:45:26,881
+The basic ontological difference, as he calls it, is the difference between that opening in which beings become intelligible and every sort of being and every kind of intelligibility, I think.
+
+405
+00:45:26,880 --> 00:45:28,561
+So let me go on.
+
+406
+00:45:29,601 --> 00:45:33,121
+We're going to describe the unity of the basic openness.
+
+407
+00:45:33,121 --> 00:45:42,721
+And if he is, then that's not going to look like an explanation in Blatiner terms.
+
+408
+00:45:42,720 --> 00:45:49,120
+It's not going to make it's not something, there's going to be no in terms of which.
+
+409
+00:45:49,121 --> 00:45:52,240
+There's going to be a description of a phenomenon.
+
+410
+00:45:52,240 --> 00:45:57,521
+And what you get is, I'll read the strange stuff that you get when he does it.
+
+411
+00:45:57,521 --> 00:46:03,281
+I was already reading it, but now we've got to repay attention to how it fits in.
+
+412
+00:46:04,561 --> 00:46:11,041
+At the top of 377, all of this really important stuff happens there on 377.
+
+413
+00:46:11,041 --> 00:46:13,361
+Temporality is not an entity.
+
+414
+00:46:13,680 --> 00:46:16,321
+It is not, but it temporalizes itself.
+
+415
+00:46:16,320 --> 00:46:20,081
+Nevertheless, we cannot avoid saying temporality is.
+
+416
+00:46:20,081 --> 00:46:27,761
+And so we switch to saying temporality temporalizes, and indeed it temporalizes possible ways of itself.
+
+417
+00:46:27,760 --> 00:46:36,001
+These make possible the multiplicity of Dasein's modes of being, and especially the basic possibility of authentic and inauthentic existence.
+
+418
+00:46:36,001 --> 00:46:39,680
+But they're just instances of all the stuff.
+
+419
+00:46:39,680 --> 00:46:49,001
+But that is, again, keep remembering, it's so close to we're talking about being as that on the basis of which beings are understood, all sorts of beings.
+
+420
+00:46:48,320 --> 00:46:49,720
+Now let's go on.
+
+421
+00:46:49,961 --> 00:47:01,160
+The future, the character of having been and the present show the phenomenological characteristic, the phenomenal characteristics of the towards oneself, of the back to and the letting oneself be encountered by.
+
+422
+00:47:01,160 --> 00:47:12,921
+The phenomenon of towards, to, and omit make temporality manifest as, and now that's the ecstatic con, that's this ecstasy story.
+
+423
+00:47:12,921 --> 00:47:17,001
+That is, that it's the outside of itself, pure and simple.
+
+424
+00:47:17,001 --> 00:47:25,081
+Temporality is the primordial or originary outside of itself, in and for itself.
+
+425
+00:47:25,401 --> 00:47:31,561
+We therefore call the phenomenon of the future the characteristic of having been in the present the ecstasies of temporality.
+
+426
+00:47:31,561 --> 00:47:35,001
+Temporality is not prior to this, is not.
+
+427
+00:47:35,001 --> 00:47:38,680
+Prior to this, an entity which first emerges from itself.
+
+428
+00:47:38,680 --> 00:47:46,281
+Its essence is, never mind a process of, is temporalizing in the unity of the ecstasies.
+
+429
+00:47:46,921 --> 00:48:00,360
+That's what I think is evidence that whatever this primordial temporality is interested in, it's what opens up a space in which anything can show up at all, as anything.
+
+430
+00:48:00,360 --> 00:48:03,721
+I want to read, I've read what I let's see, I've read that.
+
+431
+00:48:04,041 --> 00:48:04,841
+Yeah.
+
+432
+00:48:04,840 --> 00:48:05,481
+Okay.
+
+433
+00:48:05,481 --> 00:48:12,200
+It and I say on 401, he gets as near as he ever gets to anything.
+
+434
+00:48:12,521 --> 00:48:14,200
+What we want to say.
+
+435
+00:48:14,200 --> 00:48:15,881
+Let's see what that is.
+
+436
+00:48:15,880 --> 00:48:23,401
+Yeah, yeah, that's where he's got he puts it together at the middle, right where the italics is.
+
+437
+00:48:23,401 --> 00:48:36,241
+Thus, we can see that in every ecstasis, temporality temporalizes itself as a whole, and this means that the ecstatical unity with which temporality has fully temporalized itself currently is grounded.
+
+438
+00:48:36,320 --> 00:48:37,840
+You see, where I'm on.
+
+439
+00:48:33,160 --> 00:48:45,281
+That in the ecstatical unity and so on, so is grounded the totality of the structural whole of existence, facticity, and falling.
+
+440
+00:48:45,280 --> 00:48:48,160
+That's the unity of the terror structure.
+
+441
+00:48:48,481 --> 00:48:52,800
+And I haven't got, I'm not reading the thing I want yet.
+
+442
+00:48:54,001 --> 00:48:57,521
+On 402, we ought to now be able to understand being in the world.
+
+443
+00:48:57,521 --> 00:49:00,000
+That's where he's going to put them together, the new paragraph.
+
+444
+00:49:00,001 --> 00:49:11,921
+Only through the fact that being there is rooted in temporality can we get an insight into the existential possibility of the phenomena, which is at the beginning of our analysis of Dasein, that is, being in the world.
+
+445
+00:49:12,320 --> 00:49:13,200
+Skipping a little.
+
+446
+00:49:13,200 --> 00:49:21,200
+The question of the basis which makes the unity of this articulate structure possible remained in the background.
+
+447
+00:49:21,200 --> 00:49:23,441
+So now it's in the foreground.
+
+448
+00:49:23,441 --> 00:49:28,481
+And the basis which makes the unity of this articulate structure possible.
+
+449
+00:49:28,800 --> 00:49:35,441
+Now, that's certainly not authentic Dasein and authentic temporality, because they're intermittent.
+
+450
+00:49:35,441 --> 00:49:40,880
+So Bill and I are both trying to describe what that would be.
+
+451
+00:49:41,200 --> 00:49:46,801
+And I don't really understand what Bill thinks it is.
+
+452
+00:49:47,601 --> 00:49:56,241
+Any of you who read, I'm trying to understand what the phenomena is that he's trying to describe with temporality temporalizing itself.
+
+453
+00:49:57,200 --> 00:49:59,121
+Yes, well, naturally, and so is Bill.
+
+454
+00:49:59,121 --> 00:50:00,321
+But anyway, go ahead.
+
+455
+00:50:00,320 --> 00:50:02,720
+I think this was Bill Barton wanted a good job.
+
+456
+00:50:02,720 --> 00:50:03,680
+Good.
+
+457
+00:50:03,680 --> 00:50:08,160
+We used to put it on the certain phenomena, both uh the certain part of the knowledge.
+
+458
+00:50:11,360 --> 00:50:13,760
+You can certainly find a job that you don't want.
+
+459
+00:50:14,240 --> 00:50:16,641
+That's very helpful, that distinction.
+
+460
+00:50:16,641 --> 00:50:18,920
+But I stick to, you know, my end of it.
+
+461
+00:50:18,401 --> 00:50:25,880
+It looks to me like y if he just stops with what job does it do, he's not got he's not done much.
+
+462
+00:50:26,200 --> 00:50:36,601
+I mean, that he w for instance, I mean, if he just says that it unifies all the modes of time and it gives us and so forth, that's fine.
+
+463
+00:50:36,601 --> 00:50:40,041
+But he seems to be trying to ask, and how does it do that?
+
+464
+00:50:40,441 --> 00:50:45,241
+What is the phenomenon str the phenomenal structure that enables us to do it?
+
+465
+00:50:45,240 --> 00:50:55,801
+The reason I think he's trying to ask that question, I mean, I think you're right, if he stopped with this is what it does, he'd at least have got somewhere, and that would be nice.
+
+466
+00:50:55,800 --> 00:51:07,800
+But he seems to say, finally, I just haven't got to it yet, that when you really want to talk about it, you finally got to talk about the fact that it's got ecstasies and it's got a horizon.
+
+467
+00:51:07,800 --> 00:51:09,720
+That doesn't seem to be something it does.
+
+468
+00:51:09,720 --> 00:51:10,600
+Let's go to that.
+
+469
+00:51:10,601 --> 00:51:21,561
+It seems to be something that enables it to explain the fact that we are the world existingly.
+
+470
+00:51:21,561 --> 00:51:22,921
+We're back to that again.
+
+471
+00:51:22,921 --> 00:51:25,321
+And he, let's see now.
+
+472
+00:51:25,641 --> 00:51:28,041
+Okay, here we are on 416.
+
+473
+00:51:28,041 --> 00:51:31,241
+Now ask yourself Tyler's question.
+
+474
+00:51:31,240 --> 00:51:51,241
+Is when Heidegger finally gets down to as near as he ever gets to talking about, let's start on 415, the heading of the chapter, the temporal problem of the transcendence of the world, he gets a question at the bottom, how anything like the world in its unity with Dasein is ontologically possible.
+
+475
+00:51:51,240 --> 00:51:55,721
+Isn't that, doesn't that look like the question about how does it do what it does?
+
+476
+00:51:56,001 --> 00:52:04,561
+How what sort of thing, I think it looks like the question, what sort of thing does temporality have to be in order for it to do the job that it does?
+
+477
+00:52:05,200 --> 00:52:06,081
+Yes.
+
+478
+00:52:07,041 --> 00:52:07,680
+Yes.
+
+479
+00:52:08,961 --> 00:52:09,360
+Yes.
+
+480
+00:52:16,401 --> 00:52:18,720
+You can show that in the evening.
+
+481
+00:52:19,121 --> 00:52:21,920
+You can tell us very well how it does it in the beginning of the book.
+
+482
+00:52:21,921 --> 00:52:24,081
+But there'll actually be no non-notes.
+
+483
+00:52:24,401 --> 00:52:28,961
+Okay, well, in a funny way, I agree, you know, half with you.
+
+484
+00:52:28,961 --> 00:52:40,481
+There's no phenomena that you can point to or say anything about, but there's the something or other on the basis of which the first two things, so what's the job that needs to be done?
+
+485
+00:52:40,481 --> 00:52:46,160
+We know that somehow get get Dasein and world together completely.
+
+486
+00:52:46,160 --> 00:52:48,081
+How what structure enables it to do it?
+
+487
+00:52:48,081 --> 00:52:49,280
+We know that, it turns out.
+
+488
+00:52:49,280 --> 00:52:51,200
+I'm just talking about it in a minute.
+
+489
+00:52:51,200 --> 00:52:55,041
+It's the ecstatic horizonal structure of temporality.
+
+490
+00:52:55,041 --> 00:53:02,561
+And now we want to know, but we can't say anything about what it is on the basis of which that happens.
+
+491
+00:53:02,561 --> 00:53:06,561
+Now that's where Blattner starts talking about the in terms of which.
+
+492
+00:53:06,561 --> 00:53:15,441
+And I guess that's what you're saying is you could stop with in terms of which if you say uh if you use the words ecstatical and horizonal, those are the terms.
+
+493
+00:53:15,441 --> 00:53:16,880
+Will you see say it once again?
+
+494
+00:53:17,200 --> 00:53:20,320
+So data and temporality are authentic or inauthentic.
+
+495
+00:53:20,320 --> 00:53:24,881
+In terms same with um the temporality of waiting well.
+
+496
+00:53:24,880 --> 00:53:30,720
+The state offers bringing it down and turn that hand in terms of the unity of the resonance speed.
+
+497
+00:53:34,720 --> 00:53:44,561
+Now all I think is saying is they won't have a bounding temperature, either DAVA and so it won't be in terms of which are temporal, assembled structure.
+
+498
+00:53:44,561 --> 00:53:46,800
+They won't be because it will be the same structure.
+
+499
+00:53:46,880 --> 00:53:52,040
+It'll be uh in terms of which It'll be you can always keep saying a three-fold structure anyway.
+
+500
+00:53:52,760 --> 00:53:55,001
+That's the only thing to hold on to.
+
+501
+00:53:55,001 --> 00:54:17,721
+Yeah, even authentic DASEN has a three-fold structure, coping has a three-fold structure with equipment, and that threefold structure gets traced back and back until you get the three ecstasies somehow link with or have the threefold horizons, and that's how it all fits at the most basic level.
+
+502
+00:54:17,720 --> 00:54:22,761
+And you can do all that, I'm following you, in terms of just the way I did.
+
+503
+00:54:23,320 --> 00:54:45,160
+But it doesn't seem to me sort of this is a book in phenomenology, and I can't help thinking that Heidegger wants to point us to the phenomenon, and there is a phenomenon, namely this familiarity of involved coping, which is always going on and provides the clearing for it all.
+
+504
+00:54:45,800 --> 00:54:47,400
+But you may be right.
+
+505
+00:54:47,401 --> 00:55:06,601
+I mean, Bill would turn out to be right if Heidegger isn't even trying to do what I'm asking him to do, but he's satisfied to do that what's the job and what are the sort of equipment that you've got for doing the job and how does it do the job, all at a level of terms.
+
+506
+00:55:06,601 --> 00:55:13,480
+And I want to say, no, no, you've got to do it at the level of phenomena.
+
+507
+00:55:13,481 --> 00:55:28,200
+Again, remember, the question is partly, is being that on the basis of which being is understood, or is being that, is it a structure in terms of which being is understood, is all constantly in the background.
+
+508
+00:55:28,200 --> 00:55:29,561
+I wish I could tell.
+
+509
+00:55:29,561 --> 00:55:44,401
+But I think you, you, I think, I like what you're saying in the sense that since I can't give any account of how to describe this familiarity except that it's coping and it's holistic, then maybe I shouldn't even be trying.
+
+510
+00:55:44,401 --> 00:55:46,000
+And maybe he shouldn't be trying.
+
+511
+00:55:46,001 --> 00:55:46,240
+Yeah.
+
+512
+00:55:47,200 --> 00:55:54,881
+I think that what far down temporality says we shall point to temporality as something called dotlines.
+
+513
+00:55:54,880 --> 00:56:01,840
+Because to be demonstrated, those structures of Godlin, which we shall positionally must be interpreted.
+
+514
+00:56:02,561 --> 00:56:24,961
+Here at the end, I mean, it seems like I don't know if it has to be a phenomenon that's dated so much as when we really, you know, lay out all in position points going to lay out all of these structures of the guideline and then we'll be able to kind of see the patterns developed where we can where what we're going to do is it's going to be interpreted.
+
+515
+00:56:24,961 --> 00:56:27,680
+You know, it's not necessarily just plain a phenomenon.
+
+516
+00:56:28,320 --> 00:56:31,281
+So that's more like what Tyler and Bill are saying.
+
+517
+00:56:31,280 --> 00:56:46,800
+I'm asking for something that's that's just not there really am I asking for something that there there isn't any such thing that that on my this on the basis of which phenomena, or am I asking for just something that we can't say anything about and he's not trying?
+
+518
+00:56:46,800 --> 00:56:48,480
+And Bill is right about that.
+
+519
+00:56:49,521 --> 00:57:06,240
+In the end, I don't know if if you're all so far apart in a in a way I feel like you're wanting to point to our everyday coping and then wanting to see a phenomenon we point in that phenomenon how in how we in the way that we carry out the the things that show the structures of guidelines.
+
+520
+00:57:06,240 --> 00:57:30,760
+I mean in some ways I think it seems always right to me in the way that you're addressing it in terms of but I think that I think that what Temporality is doing here is taking that and on a fundamental level saying this, you know, this interpreting, if we really interpret structures that are that are functioning there, interpreting these at a deeper, more meaningful level, they come down to.
+
+521
+00:57:31,160 --> 00:57:32,840
+Okay, I think that's getting closer.
+
+522
+00:57:32,840 --> 00:57:33,560
+Yeah, yeah.
+
+523
+00:57:34,601 --> 00:57:42,041
+I do think that if it's an interpretive, it's kind of the final interpretation we place on all of the structures where you feel like.
+
+524
+00:57:42,280 --> 00:57:43,081
+Okay, yeah, yeah.
+
+525
+00:57:43,081 --> 00:57:47,641
+I think that that's I think that's maybe right.
+
+526
+00:57:47,641 --> 00:57:48,360
+Let me go on.
+
+527
+00:57:49,160 --> 00:57:51,480
+But let me see where we are.
+
+528
+00:57:51,481 --> 00:57:52,921
+Yeah, okay, we have time.
+
+529
+00:57:52,921 --> 00:57:54,121
+So here we are.
+
+530
+00:57:55,001 --> 00:58:06,680
+We haven't gotten to the place where I want, where I claim that he's really trying to describe the ultimate clearing or something like.
+
+531
+00:58:06,921 --> 00:58:11,561
+It could be, I'm just thinking that we're trying to do justice to both.
+
+532
+00:58:11,561 --> 00:58:15,800
+That on the basis of which beings are understood is what I keep wanting to find.
+
+533
+00:58:15,800 --> 00:58:20,200
+That's the ultimate clearing of some sort, the open space.
+
+534
+00:58:20,680 --> 00:58:34,840
+That in terms of which beings, what is it, that which determines beings as beings, that would be the other something structure that Bill is looking for, I suppose.
+
+535
+00:58:34,840 --> 00:58:38,200
+I think we really, and maybe we're supposed to put them together.
+
+536
+00:58:38,441 --> 00:58:51,641
+We discover that in terms of determines beings as beings, and then we discover that points us to some kind of openness, which is a phenomenon.
+
+537
+00:58:51,641 --> 00:58:52,040
+Maybe.
+
+538
+00:58:52,041 --> 00:58:53,720
+I mean, you're looking puzzled.
+
+539
+00:58:53,961 --> 00:58:55,481
+What I said is puzzling.
+
+540
+00:58:56,760 --> 00:59:07,840
+Yeah, I was hoping to say just say yes, so that he could combine them, that he could do, he could describe that in terms of which all this happens, and he can describe that on the basis of which all this happens.
+
+541
+00:59:07,840 --> 00:59:17,361
+And he may either be trying to do both and not be able to or not know it, or maybe he's really trying to do both and he knows it, and we're supposed to figure it out that he's doing that.
+
+542
+00:59:17,680 --> 00:59:23,520
+It's really another way to put it: what is it, is this mostly hermeneutic or is this mostly phenomenology?
+
+543
+00:59:24,081 --> 00:59:25,040
+Isn't that the same?
+
+544
+00:59:25,041 --> 00:59:33,281
+I mean, I say it's got to bottom out in a phenomena that he can describe on the basis of which everything else makes is intelligible.
+
+545
+00:59:33,280 --> 00:59:42,561
+And the hermeneutic view would say something like, I guess, it's got to be articulated in terms so that we can see it, make it intelligible.
+
+546
+00:59:42,561 --> 00:59:53,521
+And then one of them is make it intelligible being intelligible and to make it possible.
+
+547
+00:59:53,521 --> 01:00:04,801
+And the intelligible is the story I keep trying to tell, and the possibility, and that would be some sort of realist way, and that which makes it all possible.
+
+548
+01:00:04,800 --> 01:00:06,481
+That's Bill's story, I take it.
+
+549
+01:00:06,481 --> 01:00:08,720
+That's the kind of idealism he wants.
+
+550
+01:00:08,720 --> 01:00:10,720
+Is that or am I missing?
+
+551
+01:00:11,360 --> 01:00:12,881
+I reversed what you said.
+
+552
+01:00:13,200 --> 01:00:14,160
+Yeah, two of them.
+
+553
+01:00:14,160 --> 01:00:14,721
+Okay.
+
+554
+01:00:15,121 --> 01:00:16,641
+I saw a hand over here, yeah.
+
+555
+01:00:17,280 --> 01:00:24,001
+The hermeneutic method has singularly thought somewhere.
+
+556
+01:00:24,320 --> 01:00:31,920
+Is I've ever street that question, like on what there is who's thought positive?
+
+557
+01:00:32,160 --> 01:00:43,520
+Yes, it's funny that he doesn't explain it much, but he talks about, in being in time, he talks about the horizon for understanding being, as if there was a place to stop.
+
+558
+01:00:43,521 --> 01:00:55,081
+But in Basic Problems, in the part that we'll read during the last three times, he talks about how there's always a broader horizon in terms of which you could be understanding all this.
+
+559
+01:00:55,081 --> 01:00:58,280
+And I guess that's more than what he should be saying.
+
+560
+01:00:58,280 --> 01:01:06,281
+And given his hermeneutic approach, there's no final horizon that says now we've really got it.
+
+561
+01:01:07,320 --> 01:01:08,360
+Okay, let me go back.
+
+562
+01:01:08,360 --> 01:01:13,960
+I mean, somehow I keep not finding the passages here that I definitely want to read before I stop.
+
+563
+01:01:13,961 --> 01:01:15,320
+So let me keep looking.
+
+564
+01:01:18,521 --> 01:01:36,921
+I just found the part which I already said, that what he calls transcendence is going to be something that is not transcending from inner to outer, not a structure like that you could say much about or anything about.
+
+565
+01:01:37,401 --> 01:01:41,961
+But it provides, now I'm now, this is where I've got these things.
+
+566
+01:01:42,441 --> 01:01:51,801
+It's something that is like a space, a clearing on the basis of which all forms of intentionality take place.
+
+567
+01:01:51,800 --> 01:01:56,361
+And then I say, look at page 415 and see what is that where we are.
+
+568
+01:01:57,641 --> 01:02:02,121
+I've got everything underlined on 415, so I don't know what I'm supposed to be reading.
+
+569
+01:02:03,001 --> 01:02:08,840
+So what the I'm going to start with the italics about five lines down.
+
+570
+01:02:08,840 --> 01:02:14,280
+That inside which Dasein understands itself is there, along with its factical existence.
+
+571
+01:02:14,280 --> 01:02:25,001
+That inside which one primary understanding one primarily understands oneself as Hasein's kind of being, Dasein is its world existingly.
+
+572
+01:02:25,320 --> 01:02:32,200
+And then it goes through this other talk about the there and the clearing.
+
+573
+01:02:32,200 --> 01:02:34,561
+I forget where the clearing comes in, but it does.
+
+574
+01:02:34,561 --> 01:02:37,200
+We have defined, so I'm going on, we have defined being as care.
+
+575
+01:02:33,320 --> 01:02:39,200
+The ontological meaning of care is temporality.
+
+576
+01:02:39,441 --> 01:02:45,200
+We've shown the temporality constitutes the disclosedness of the there, and we've shown how it does so.
+
+577
+01:02:46,160 --> 01:02:50,801
+In the disclosedness of the there, the world is disclosed along with it.
+
+578
+01:02:50,800 --> 01:02:55,521
+The unity of significance must then likewise be grounded in temporality.
+
+579
+01:02:55,521 --> 01:02:58,800
+And then comes this amazing quick move.
+
+580
+01:02:59,200 --> 01:03:11,921
+The existential temporal condition for the possibility of the world lies in the fact that temporality has an ecstatical has an ecstatical unity, has something like a horizon.
+
+581
+01:03:11,921 --> 01:03:24,241
+And I don't, I mean, it looks like we're trying to understand the world and the there and the openness and in another place what he calls the clearing.
+
+582
+01:03:24,240 --> 01:03:31,200
+And it looks like we're trying to understand also how Dasein is its world existingly.
+
+583
+01:03:31,200 --> 01:03:46,641
+And I just, I mean, if somebody can tell me, maybe Tyler more than anybody, maybe, I don't know, what where he suddenly gets this business of the ecstasies have a horizon and that's very important and it seems to do all the job that hasn't been done.
+
+584
+01:03:46,641 --> 01:03:48,000
+Do you understand that?
+
+585
+01:03:49,521 --> 01:03:50,960
+Yeah, let's all let's repeat that.
+
+586
+01:03:50,961 --> 01:03:53,040
+Just because it's very this much is clear.
+
+587
+01:03:53,041 --> 01:03:58,160
+The ecstasies are the whole structure seen from the point of view of Dasein.
+
+588
+01:03:58,160 --> 01:04:00,961
+It's Dasein that has an ecstatical structure.
+
+589
+01:04:00,961 --> 01:04:08,240
+Being ahead of itself, already in amidst and so forth, that is an ecstatical structure.
+
+590
+01:04:08,240 --> 01:04:08,641
+Okay.
+
+591
+01:04:09,280 --> 01:04:20,361
+And that ecstatical structure is a threefold structure and a unified structure, since each of the three elements brings in, describing any one of the three aspects brings in the other two.
+
+592
+01:04:20,360 --> 01:04:21,081
+That's all.
+
+593
+01:04:18,320 --> 01:04:24,121
+And that's how it gives unity to the care structure.
+
+594
+01:04:24,441 --> 01:04:39,720
+I think the issue is if you want to understand temporality, but it doesn't get this whole other, which is not, you didn't give these faces, but rather it'll be described as not unity of these factors.
+
+595
+01:04:39,800 --> 01:04:41,720
+So there's one place in the horizon.
+
+596
+01:04:41,720 --> 01:04:43,320
+They're not the medium horizon.
+
+597
+01:04:43,320 --> 01:04:44,440
+I'll be mine as many.
+
+598
+01:04:45,160 --> 01:04:45,721
+Okay.
+
+599
+01:04:46,200 --> 01:04:49,880
+A horizon within which both the most relevant.
+
+600
+01:04:50,200 --> 01:04:51,080
+Oh, does he?
+
+601
+01:04:54,280 --> 01:04:54,920
+Oh.
+
+602
+01:04:55,961 --> 01:04:57,401
+We'll put that on hold.
+
+603
+01:04:57,401 --> 01:05:13,801
+We realize that may be temporalitate because it turns out that even though originary temporality, which is what we're talking about, has an ecstatical structure from the side of Dasein and has a horizonal structure from the side of coping.
+
+604
+01:05:13,800 --> 01:05:24,680
+So just as there's always a towards which on the side of Dasein, which is a for the sake of which, there's a towards which on the side of coping that has also got a for the sake of which.
+
+605
+01:05:24,680 --> 01:05:27,641
+And they're different for the sake of which is, and yet they're the same.
+
+606
+01:05:27,641 --> 01:05:47,961
+Because the for the sake of which, say, being a professor is on the side of the ecstatic, but the but the for the sake of which, when you consider not my stand on my being, but the role I've got, that's also futural, and that's on the side of the world.
+
+607
+01:05:48,840 --> 01:06:00,921
+My stand on my being is ecstatical, but the but the role and the equipment that I am sort of defined in terms of is horizonal.
+
+608
+01:06:01,800 --> 01:06:02,921
+That's good.
+
+609
+01:06:05,121 --> 01:06:21,841
+And that's the sense, the sense in which you can't define being a professor either as a subjective thing alone, or a coping in the world thing alone, but that they're really two sides of the same phenomenon or something.
+
+610
+01:06:21,840 --> 01:06:22,480
+That's good.
+
+611
+01:06:23,041 --> 01:06:24,081
+That helps.
+
+612
+01:06:24,081 --> 01:06:26,641
+But where is this other use of horizon?
+
+613
+01:06:26,641 --> 01:06:27,360
+Oh, no, I'm sorry.
+
+614
+01:06:27,360 --> 01:06:28,320
+I started to explain it.
+
+615
+01:06:28,320 --> 01:06:30,001
+I don't know where it is in here.
+
+616
+01:06:30,001 --> 01:06:40,321
+But in being in basic in basic problems, he comes to a more fundamental kind of temporality than ecstatical or horizonal.
+
+617
+01:06:40,320 --> 01:06:51,680
+Namely, we've got a new word for it, temporalitate, and that's supposed to do something more to explain, as you say, the way the two come together or why they come together or how they come together.
+
+618
+01:06:51,680 --> 01:06:52,881
+I don't know why.
+
+619
+01:06:52,880 --> 01:06:53,601
+But yes.
+
+620
+01:06:53,601 --> 01:06:55,041
+But I d that's not in here, is it?
+
+621
+01:06:58,561 --> 01:06:59,200
+No, he doesn't.
+
+622
+01:06:59,200 --> 01:07:01,680
+Yeah, it's already directly important.
+
+623
+01:07:02,001 --> 01:07:06,960
+Okay, well, let's hope not, or at least let's try not to think about it yet.
+
+624
+01:07:07,280 --> 01:07:14,320
+In the horizon of horizontal means what that is supposed to be, but temporalized within a horizon.
+
+625
+01:07:17,441 --> 01:07:20,721
+Does he say they temporalize within a horizon?
+
+626
+01:07:21,360 --> 01:07:21,920
+Did I?
+
+627
+01:07:21,921 --> 01:07:23,921
+Well, let me look again.
+
+628
+01:07:26,320 --> 01:07:38,240
+The ecstatical temporal condition of the possibility of the world lies in the fact that temporality as an ecstatical unity has something like a horizon.
+
+629
+01:07:38,241 --> 01:07:43,120
+Not exactly within it, I think, but just correlated with it.
+
+630
+01:07:44,561 --> 01:08:02,200
+But the other side, temporal the horizonal schema is the threefold something or other on the side of the world, which corresponds to the threefold ecstatical structure on the side of Dasein.
+
+631
+01:08:02,361 --> 01:08:03,720
+Are we agreeing about that?
+
+632
+01:08:04,281 --> 01:08:07,080
+What I just read, did that get you to where you are?
+
+633
+01:08:07,080 --> 01:08:07,720
+Let's see.
+
+634
+01:08:08,040 --> 01:08:12,440
+Let's go back to 413, 415.
+
+635
+01:08:12,760 --> 01:08:14,040
+No, 416.
+
+636
+01:08:14,040 --> 01:08:16,680
+We've defined being as care and so forth.
+
+637
+01:08:16,680 --> 01:08:25,000
+It's shown that the temporality consists in the world and the disclosedness of the there, and the world is disclosed with it.
+
+638
+01:08:25,000 --> 01:08:31,400
+The unity of significance, the ontological constitution of the world must be grounded in temporality.
+
+639
+01:08:31,401 --> 01:08:45,080
+The existential temporal condition for the possibility of the world lies in the fact that temporality as an ecstatical unity has something like a horizon.
+
+640
+01:08:46,361 --> 01:09:03,000
+That just says, I think, what I just said, something like that the for the sake of which is both the future aspect of Dasein and the future aspect of the world.
+
+641
+01:09:03,000 --> 01:09:04,200
+And they have to mesh.
+
+642
+01:09:04,201 --> 01:09:05,561
+Does it say more than that?
+
+643
+01:09:06,201 --> 01:09:11,240
+Remember, what we're trying to get is that amazing sentence at the end of the previous paragraph.
+
+644
+01:09:11,241 --> 01:09:14,601
+Dasein is its world existingly.
+
+645
+01:09:14,601 --> 01:09:23,641
+That's supposed to be both giving you the sort of nearest thing to the subject-object distinction and taking it back, so to speak.
+
+646
+01:09:23,641 --> 01:09:28,200
+There is no way that Dasein and the world can be separated.
+
+647
+01:09:28,201 --> 01:09:37,760
+The temporalizing itself has the foo-aspect structure, which is Dasein being in the world.
+
+648
+01:09:38,080 --> 01:09:41,440
+And this is what he wants to explain now.
+
+649
+01:09:41,601 --> 01:09:45,361
+Let's see if I can get any clearer or find another quote.
+
+650
+01:09:45,361 --> 01:09:47,760
+Let's look at the bottom paragraph, first sentence.
+
+651
+01:09:47,760 --> 01:09:54,561
+The unity of the horizonal schema, future, present, and having been is grounded in the ecstatical unity of temporality.
+
+652
+01:09:56,720 --> 01:10:13,680
+The horizon of temporality as a whole determines the whereupon, there's the war of orafin again, so determines that on the basis of which factical existing entities are essentially disclosed.
+
+653
+01:10:16,401 --> 01:10:22,400
+That's the only basis of which, which I think of as the familiarity that doesn't say that.
+
+654
+01:10:24,241 --> 01:10:27,200
+Does that help any settle this?
+
+655
+01:10:27,201 --> 01:10:28,160
+Let me go on.
+
+656
+01:10:28,161 --> 01:10:45,281
+With one's factical being their ability to there, the ability, the ability to be is in each case projected in the horizon of the future, when it's being already disclosed in the horizon of having been, and that which Mr.
+
+657
+01:10:45,361 --> 01:10:48,800
+Horn says discovered in the horizon of the present.
+
+658
+01:10:48,800 --> 01:11:00,960
+The horizonal unity of the schemata of these ex-dioceses make possible the primordial way in which the relationships of the inorder two are connected with the for the sake of.
+
+659
+01:11:01,281 --> 01:11:02,481
+Is that helping any?
+
+660
+01:11:02,481 --> 01:11:03,601
+I don't know.
+
+661
+01:11:04,080 --> 01:11:05,280
+Not not much.
+
+662
+01:11:06,000 --> 01:11:07,120
+You, yeah.
+
+663
+01:11:07,441 --> 01:11:07,920
+Yeah.
+
+664
+01:11:09,840 --> 01:11:11,760
+Is the German going to cast a light on it?
+
+665
+01:11:11,760 --> 01:11:12,080
+No.
+
+666
+01:11:16,281 --> 01:11:21,641
+Just be uh one world for each Dasein, and then you can tell it's them.
+
+667
+01:11:21,641 --> 01:11:23,561
+Or there can only be one diameter.
+
+668
+01:11:23,880 --> 01:11:25,800
+Okay, I got a story about that.
+
+669
+01:11:25,800 --> 01:11:27,800
+I mean, I that used to worry me.
+
+670
+01:11:27,800 --> 01:11:34,680
+And I used to think that Dasein was the world existingly, which is the which is the Hegel side.
+
+671
+01:11:34,680 --> 01:11:37,320
+Only in Heidegger it would be Dasmann side.
+
+672
+01:11:37,321 --> 01:11:45,160
+That the and then I but I used to think, but he says, to my amazement, that Dasein is its world existingly.
+
+673
+01:11:45,161 --> 01:11:53,400
+And then I decided that the way to think about it is that Dasein is a perspective on a shared world.
+
+674
+01:11:53,401 --> 01:11:58,840
+That to be a there is to be is to have, you know, just that.
+
+675
+01:11:59,080 --> 01:12:15,641
+Not a projection like in Renaissance painting, but that every Dasein has a world which is the same world but colored differently by, could be colored differently by its moods and by its per per horizon perspective.
+
+676
+01:12:15,641 --> 01:12:20,760
+Wouldn't that you're not you're not saying anywhere that Dasein exists?
+
+677
+01:12:21,080 --> 01:12:22,280
+Ah, okay.
+
+678
+01:12:22,281 --> 01:12:30,601
+I I marked the place where he seemed to have done it the other way too, and that's not maybe not going to help because we ought to get it together.
+
+679
+01:12:30,920 --> 01:12:44,920
+At the bottom, at the top of 417, we've got, let me try starting at the bottom of 4.16, the horizonal unity and so forth and so forth.
+
+680
+01:12:44,920 --> 01:12:58,521
+This implies that on the basis of the horizonal constitution of the ecstatical unity of temporality, there belongs to that entity, which is in each case its own there, something like a world that has been disclosed.
+
+681
+01:12:58,521 --> 01:13:02,441
+He's got the it's and the and the a together in a sentence.
+
+682
+01:13:02,441 --> 01:13:05,361
+Does that solve it, or does that just sort of finesse it?
+
+683
+01:13:05,601 --> 01:13:06,561
+I don't know.
+
+684
+01:13:07,201 --> 01:13:11,120
+Noel, it's own there, something like a world.
+
+685
+01:13:11,120 --> 01:13:12,960
+I see, he doesn't say the world.
+
+686
+01:13:12,960 --> 01:13:17,441
+Now, I really wanted him to say Dasein is the world existingly.
+
+687
+01:13:17,441 --> 01:13:20,561
+It seems to me, doesn't it to you, that that's what he should say?
+
+688
+01:13:20,561 --> 01:13:22,960
+We're all open on one world.
+
+689
+01:13:23,760 --> 01:13:27,441
+I mean, he better not think that my world is prior to the world.
+
+690
+01:13:27,441 --> 01:13:30,240
+That will get him into Useral and Sartre right off.
+
+691
+01:13:30,880 --> 01:13:36,960
+Well, no, because I am the world from my perspective, and you are the world from your perspective.
+
+692
+01:13:37,201 --> 01:13:40,320
+So it isn't just that we are the world.
+
+693
+01:13:40,321 --> 01:13:44,800
+We are each of us is our take on the world.
+
+694
+01:13:45,441 --> 01:13:46,561
+That's got to be right.
+
+695
+01:13:47,840 --> 01:13:51,280
+So we're not the world because we're only our take on the world.
+
+696
+01:13:51,521 --> 01:14:00,800
+But we are the world in the sense that it's like that when you see the front of the house, you see the whole house.
+
+697
+01:14:01,120 --> 01:14:09,680
+Just because you see it from a point of view doesn't mean that it isn't the same house for everybody.
+
+698
+01:14:10,000 --> 01:14:11,040
+Is that a big difference?
+
+699
+01:14:11,040 --> 01:14:11,760
+Let me think about it.
+
+700
+01:14:12,000 --> 01:14:13,680
+Wait a second, I have to think about that.
+
+701
+01:14:13,680 --> 01:14:15,760
+Now you are the house.
+
+702
+01:14:17,040 --> 01:14:18,160
+That's a problem.
+
+703
+01:14:18,161 --> 01:14:19,601
+I see what you mean.
+
+704
+01:14:19,920 --> 01:14:21,361
+Well, how are we supposed to save him?
+
+705
+01:14:21,920 --> 01:14:22,960
+You want to help him out?
+
+706
+01:14:23,281 --> 01:14:26,160
+I think that's supposed to be sort of out of that problem.
+
+707
+01:14:26,800 --> 01:14:32,641
+Other conditions of existence is what they know throughout the evening time.
+
+708
+01:14:32,641 --> 01:14:42,241
+But that your worlds, although experienced fairly differently, are often necessarily unified through a unity.
+
+709
+01:14:42,241 --> 01:14:56,680
+Like, like the sense at the bottom of word 416, I feel horizontal, but the right unity of the common document, they talk of a primordial way in which the relationship in order to be more connected towards Vega.
+
+710
+01:14:57,000 --> 01:15:12,680
+There's always a danger that even with our care structure that could articulate it, that the way Dothai appears to the world through authentic and inauthentic ways of being is separate.
+
+711
+01:15:13,161 --> 01:15:14,920
+And that's what you've got to get rid of that.
+
+712
+01:15:16,521 --> 01:15:21,160
+That Dafi and the world were always none several, I guess.
+
+713
+01:15:21,960 --> 01:15:26,120
+Let me try something, maybe the same and maybe not.
+
+714
+01:15:28,361 --> 01:15:51,240
+I think what he wants to say is the world isn't the world is something that you can be from a perspective because the world is a clearing in which things can show up, and there is just one clearing.
+
+715
+01:15:51,401 --> 01:16:03,080
+But when you are it, I think maybe what you're saying, when you are it existingly, then you aren't really it in the sense that you're like the so let me read something here on 416.
+
+716
+01:16:03,800 --> 01:16:07,241
+Right after that, I think maybe I read it, but if I did, I won't hurt it.
+
+717
+01:16:07,241 --> 01:16:08,920
+If I did, I'll read it again.
+
+718
+01:16:08,920 --> 01:16:13,561
+Right after Dasein is its world existingly, we have defined Dasein's being as care.
+
+719
+01:16:13,561 --> 01:16:15,800
+The ontological meaning of care is temporality.
+
+720
+01:16:15,800 --> 01:16:20,120
+We've shown that temporality constitutes the disclosedness of the there.
+
+721
+01:16:20,120 --> 01:16:26,840
+See, that's, since that seems to be like the world, it isn't your there and my there.
+
+722
+01:16:27,000 --> 01:16:29,880
+The disclosing of the there, and we've shown how it is so.
+
+723
+01:16:29,880 --> 01:16:34,080
+In the disclosedness of the there, the world is disclosed along with it.
+
+724
+01:16:33,481 --> 01:16:40,481
+The unity of significance, that is the ontological constitution of the world, must then likewise be grounded in temporality.
+
+725
+01:16:41,521 --> 01:16:42,641
+Have we got anywhere?
+
+726
+01:16:42,641 --> 01:17:02,000
+I mean, he doesn't, he does, he seems to be wanting to say that each Dasein discloses the world, and that that's compatible with saying each Dasein discloses its world existingly.
+
+727
+01:17:02,241 --> 01:17:03,601
+I'm just stating your problem.
+
+728
+01:17:03,760 --> 01:17:08,080
+It's right there within those few sentences on 416.
+
+729
+01:17:08,401 --> 01:17:12,800
+And then he seems, and it's, I want everybody to pay attention and think about this.
+
+730
+01:17:12,800 --> 01:17:19,200
+I mean, that is, I bet, I mean, the final problem that this whole thing is trying to get settled.
+
+731
+01:17:19,201 --> 01:17:43,521
+How in the world are you going to get Dasein, which seems to be us and once upon a time, consciousness and mental representations, all of which he denies, together with the world in a way that doesn't turn it into monadic idealism like Husserl, which he certainly doesn't want to do, like Sartre, where somehow you have to get from my world to the world.
+
+732
+01:17:43,521 --> 01:17:47,280
+No, Dasein is always open to a world.
+
+733
+01:17:47,840 --> 01:18:02,080
+He has to get his sense that Dasein is open to and coping in a shared world together with each Dasein has to take a stand on its being and have its for the sake of which.
+
+734
+01:18:02,080 --> 01:18:07,200
+And somehow in these pages right here, he thinks he's doing it.
+
+735
+01:18:07,441 --> 01:18:10,880
+Now, lots of hands are come up, and if you all want to help him do it, that's good with me.
+
+736
+01:18:11,201 --> 01:18:11,521
+Go ahead.
+
+737
+01:18:12,000 --> 01:18:17,040
+World, but relationship eminent one with the world.
+
+738
+01:18:28,040 --> 01:18:29,080
+Why do you say that?
+
+739
+01:18:29,241 --> 01:18:30,601
+Unfolding.
+
+740
+01:18:30,601 --> 01:18:33,800
+Okay, sort of, why not say it always exists?
+
+741
+01:18:33,800 --> 01:18:37,800
+I mean, it never is never finished, but it's really always going on.
+
+742
+01:18:37,800 --> 01:18:38,040
+Okay.
+
+743
+01:18:38,441 --> 01:18:40,920
+Genealogically unfolding.
+
+744
+01:18:41,561 --> 01:18:43,080
+Peleologically.
+
+745
+01:18:43,401 --> 01:18:44,920
+Genealogically.
+
+746
+01:18:45,561 --> 01:18:46,120
+What is that?
+
+747
+01:18:47,401 --> 01:19:13,561
+That's a way that I guess like anti-or post-structuralists would later on describe it, but a way in which, I mean, if the thing is all permanently becoming within the world alongside other genealogical elements that are differentiating themselves, always coming from a path that having been and becoming.
+
+748
+01:19:13,800 --> 01:19:41,080
+I can't really understand how that's going to solve this very basic problem of how we're going to get ourselves as what was once upon a time subjects related to the world, which is once upon a time objects, in such a way that we can in no way get ourselves trapped into our own stream of experience or our own perspective.
+
+749
+01:19:41,080 --> 01:19:41,800
+Yeah.
+
+750
+01:19:42,441 --> 01:19:43,240
+Yeah.
+
+751
+01:19:43,561 --> 01:19:44,360
+Yeah.
+
+752
+01:19:44,680 --> 01:19:51,240
+Well, I think we've gotten to this deep level where he's trying to explain how it's possible for Dasein to be that kind of being with.
+
+753
+01:19:51,241 --> 01:20:08,401
+I mean, yes, Dasein is certainly in the world with other Daseins, and it's doing that somehow in a way that's tied up with its having its own for the sake of which, and therefore its own take on the world and everything.
+
+754
+01:20:08,960 --> 01:20:11,040
+How is he going to get these two together?
+
+755
+01:20:11,040 --> 01:20:17,360
+And it looks like he thinks he's getting them together right here, but we don't see yet how it's happening.
+
+756
+01:20:17,361 --> 01:20:17,601
+Yeah.
+
+757
+01:20:28,161 --> 01:20:36,641
+We won't say that Dasein shares the world and thus Dasein did not be the world, but not the identified with the world.
+
+758
+01:20:36,641 --> 01:20:49,440
+But in saying that Dasein did the world eclipsically, that they, each individual Dasein, each one of us, could be the world eclipsingly in a different way and still share the same world.
+
+759
+01:20:50,161 --> 01:21:03,840
+And I mean, I guess that would that would be why Dasein was like a modification upon the world rather than a separate sphere wherein everything else is.
+
+760
+01:21:03,840 --> 01:21:27,040
+Yeah, yeah, I think somehow we've got to come up with the, and you're on the right track, the way uh what a world, whatever a world is, it's something that you can be in such a way as to not as to not be separate from it and yet not every not be identical with every with everybody else who is the world.
+
+761
+01:21:27,040 --> 01:21:35,120
+And we're trying and I s I mean, surely he thinks here he said something very important about that, namely the business about horizons and ecstasies.
+
+762
+01:21:35,120 --> 01:21:40,720
+I'm beginning to think I sort of understand it, thanks to you all, but I I'll wait till you all talk and see if I can say it.
+
+763
+01:21:41,040 --> 01:21:45,760
+That way of being his way of being is called Daza.
+
+764
+01:21:53,401 --> 01:21:55,880
+That's sort of the puzzle we're trying to solve.
+
+765
+01:21:56,441 --> 01:22:02,280
+Well, I think he thinks existing Dazine is the there, is the clearing.
+
+766
+01:22:02,281 --> 01:22:11,160
+I mean, this is the extreme emptiness of the empty mind turns to open to this shared something or other.
+
+767
+01:22:11,401 --> 01:22:15,401
+The problem is missing Dahlia and both viewable and within the world.
+
+768
+01:22:15,880 --> 01:22:17,321
+It's the world from within it.
+
+769
+01:22:17,321 --> 01:22:19,800
+That's just another of the funny things.
+
+770
+01:22:19,800 --> 01:22:23,561
+Worlds are not, that's how worlds are.
+
+771
+01:22:23,561 --> 01:22:26,920
+I'm in the academic world from within the academic world.
+
+772
+01:22:26,920 --> 01:22:29,641
+That's just not a problem.
+
+773
+01:22:29,641 --> 01:22:30,280
+Yeah.
+
+774
+01:22:31,241 --> 01:22:41,000
+As far as the false control is concerned, the way that they think all two are, they're not just net each other or working together.
+
+775
+01:22:41,000 --> 01:22:44,361
+They're so easily engaged to be inseparable.
+
+776
+01:22:44,521 --> 01:22:45,880
+That's what we're talking about.
+
+777
+01:22:45,880 --> 01:22:51,080
+You can't, but I don't think it's all data that you cannot lease.
+
+778
+01:22:53,481 --> 01:22:54,680
+Try to separate them.
+
+779
+01:22:54,760 --> 01:22:55,800
+That's impossible.
+
+780
+01:22:56,040 --> 01:22:57,321
+So I don't think that sounds good.
+
+781
+01:22:57,720 --> 01:23:00,040
+As far as ultimate concern, I don't know how to deal with that.
+
+782
+01:23:00,040 --> 01:23:01,401
+That sounds incredibly hard.
+
+783
+01:23:01,401 --> 01:23:15,000
+But I mean, maybe it's more than that thing, but of course, the world which Dahai engages in is really the same world which other Dahlians engage with different dogma.
+
+784
+01:23:15,800 --> 01:23:26,120
+So even if there were a decent sort of separation, there would be some sort of case machine in the different elements that's forming the whole uniform world.
+
+785
+01:23:27,720 --> 01:23:35,920
+And all the formula said to non-profit is when we talk about the allegations of words, then the word signals I think is a really good word.
+
+786
+01:23:46,960 --> 01:23:53,680
+I'd like to say there are the only basis of well, maybe I'll let me paraphrase it in something that sounds like it makes sense anyway.
+
+787
+01:23:53,680 --> 01:24:05,360
+That you are your disclosedness, but being your disclosedness is your way of opening on to the world.
+
+788
+01:24:05,361 --> 01:24:09,200
+I'm just doing my sort of perspective with other words.
+
+789
+01:24:09,201 --> 01:24:13,200
+Or, I mean, you what sense does it mean to say you are your disclosed?
+
+790
+01:24:13,201 --> 01:24:16,481
+Well, disclosedness is somehow something that you can be.
+
+791
+01:24:16,481 --> 01:24:25,040
+You are your disclosing or disclosing, you are disclosing all the time, and it's your disclosing.
+
+792
+01:24:25,040 --> 01:24:37,040
+And but what you're disclosing is a world, and worlds are, and the world, or what you're disclosing is a shared world with other people and shared equipment and so forth.
+
+793
+01:24:37,040 --> 01:24:50,401
+Why can't the disclosing why can't you be the disclosing activity of a sharedly of it of a one disclosed world?
+
+794
+01:24:50,401 --> 01:24:53,440
+I'm just trying just to find a formulation that will work.
+
+795
+01:24:53,441 --> 01:24:53,680
+Yeah.
+
+796
+01:24:54,161 --> 01:25:06,880
+But when Heger laid out the taxonomy of worlds, and he had laid out the third one, which is the important one, the weariness, even within that, he says there's more than the world can be understood more than what sense.
+
+797
+01:25:06,880 --> 01:25:13,760
+He says the weariness of facts will go out and be said to live.
+
+798
+01:25:14,321 --> 01:25:19,561
+World may stand for the public deed world, or one of those domestic environments.
+
+799
+01:25:18,481 --> 01:25:25,641
+So here it seems like it's not just that much, you know, world is a thousand centuries.
+
+800
+01:25:26,120 --> 01:25:29,080
+You don't think it send our world their way, but it's not.
+
+801
+01:25:29,720 --> 01:25:31,960
+Okay, but wouldn't we have the same problem back?
+
+802
+01:25:31,960 --> 01:25:36,601
+Just let's start with the domestic environment, sort of following Eugene's way of thinking.
+
+803
+01:25:36,760 --> 01:25:48,840
+What does it mean to say you are your your domestic environment in such instead of you are it well that's so strange.
+
+804
+01:25:48,840 --> 01:25:54,521
+I mean I can say you disclose you're the activity of disclosing your domestic environment.
+
+805
+01:25:54,521 --> 01:25:57,240
+That seems to be the right way to go.
+
+806
+01:26:00,601 --> 01:26:05,080
+But then he does say you're you're and that's the existingly, I guess.
+
+807
+01:26:05,080 --> 01:26:06,441
+You're the world existing.
+
+808
+01:26:06,840 --> 01:26:14,360
+You are the activity of disclosing or clearing a shared world or clearing.
+
+809
+01:26:14,920 --> 01:26:17,240
+I'm just trying to and why does he think?
+
+810
+01:26:18,201 --> 01:26:22,840
+Let me say something before I give me I thought I was on the right track.
+
+811
+01:26:23,241 --> 01:26:29,481
+I want this it ought to come out really simple, believe it or not, if you just get the right clue.
+
+812
+01:26:29,481 --> 01:26:56,880
+And I think I was on the right track when I wanted to say that being a professor is both something that I have to do on my in my own taking a stand on my being and it's a for the sake of which in the referential totality it and I so when so when I is the for the sake of which, try to put it this way, something, which I surely am.
+
+813
+01:26:56,840 --> 01:27:05,040
+I mean, that defines me, that's my identity and but my identity involves all this shared equipment.
+
+814
+01:27:05,201 --> 01:27:40,960
+And I want to say something like: if you read all this about the future and the for the sake of which, you ought to be able to find out that Dasein is both self-defined by taking a stand on its being, by having an ultimate for the sake of which, and that that's the ecstasy part, and that that has its horizon that there have to be students and equipment and all kinds of public stuff, and that they sort of totally belong to each other.
+
+815
+01:27:40,960 --> 01:27:51,280
+That you start with the ecstasy, because Dasein starts with the, you start with the being and takes a stand on its being, and he thinks that's the most important dimension, the futural dimension.
+
+816
+01:27:51,281 --> 01:28:03,440
+But as soon as you try to say what, you know, how to describe that, you immediately have to, and that's the ecstasy, you immediately have to bring in the horizon.
+
+817
+01:28:03,680 --> 01:28:05,440
+And what is the horizon?
+
+818
+01:28:05,441 --> 01:28:22,401
+It's that sort of public, shared for the sake of which, and now, and that enables you to say you are, and how's that related to the world?
+
+819
+01:28:22,401 --> 01:28:26,800
+Well, that's part of a big complicated structure, which is a world structure.
+
+820
+01:28:26,800 --> 01:28:38,720
+And you've got, you defined yourself in terms of a sort of speak piece of that world structure, described as your for the sake of which.
+
+821
+01:28:38,720 --> 01:28:41,521
+And you really are that.
+
+822
+01:28:41,521 --> 01:28:43,601
+I'm trying to bring in the identity story.
+
+823
+01:28:43,601 --> 01:28:55,720
+That when you get your identity in terms of something in the future, you ultimately, you automatically bring in that there is something in the future that you're getting your identity in terms of.
+
+824
+01:28:55,880 --> 01:28:58,281
+And it's not, of course, the thing you're ever going to achieve.
+
+825
+01:28:58,281 --> 01:29:03,641
+It's that kind of authentic kind of future, being a professor.
+
+826
+01:29:03,641 --> 01:29:05,160
+But is that helping?
+
+827
+01:29:05,401 --> 01:29:20,521
+I think if you really try to think it out and do it the way he does it and describe the temporal dimensions of coping and just with equipment and how that is structured, as he does in the beginning, or the equipmental totality, never mind the coping.
+
+828
+01:29:20,760 --> 01:29:25,720
+You describe the equipmental totality and you describe Dasein taking a stand on its being.
+
+829
+01:29:25,720 --> 01:29:29,080
+And way at the beginning, those seem totally different.
+
+830
+01:29:29,080 --> 01:29:51,880
+But by the time you get to this page 416 and 417, you've earned the right to say that they're not totally different, that there is some way in which you are defined by the world, but you're defined in your way by the world, and other people are defined in their way by the world.
+
+831
+01:29:51,880 --> 01:29:53,160
+Is that helping any at all?
+
+832
+01:29:53,161 --> 01:29:55,800
+You looking a little bit enlightened.
+
+833
+01:29:55,800 --> 01:29:56,440
+No?
+
+834
+01:29:56,760 --> 01:29:58,441
+But you don't think it solves the problem.
+
+835
+01:29:58,441 --> 01:30:00,040
+All right, he shouldn't say is.
+
+836
+01:30:00,040 --> 01:30:01,880
+He shouldn't say is the world, right?
+
+837
+01:30:03,000 --> 01:30:05,800
+I think I just wouldn't substitute discloses.
+
+838
+01:30:05,800 --> 01:30:17,720
+If you say Dasein discloses the world existingly, or a world, or its world, I don't think it matters anymore with the notion of disclosing, succeeding.
+
+839
+01:30:18,281 --> 01:30:35,840
+Well, and I want to say he if we read this again, heaven forbid, all through, we'd see that the way he's setting up the Xthasis and the whole thing in terms of Dasein taking a stand on its being and how it's thrown and how it's coping in the present.
+
+840
+01:30:36,161 --> 01:30:44,880
+And he's describing the world in terms of having for the sake of which is and significance and throwingness.
+
+841
+01:30:44,880 --> 01:30:54,080
+He will be setting it up so that these two structures are not just parallel, but they are like two sides of something.
+
+842
+01:30:54,241 --> 01:30:55,521
+I think he's done it.
+
+843
+01:30:56,161 --> 01:31:12,240
+What I'm thinking is maybe for the first time, I'm beginning to understand why he thinks he can just suddenly tell us in italics that every ecstatic unity has something like a horizon and think that that tells us that Dasein is its world existingly.
+
+844
+01:31:13,120 --> 01:31:17,120
+It's cause, and I think that's what the sort of thing he's been trying to achieve.
+
+845
+01:31:17,120 --> 01:31:20,481
+Okay, now I told somebody over here somewhere, yeah.
+
+846
+01:31:20,481 --> 01:31:48,080
+Nobody really thought about that reflexive type of interdependent nature because not only that the file for the sake of which is in terms of around the basic world, the world itself shows up differently when the file for the sake of which is altered or so here he comes to from any other file for the sake of which the actual articulation as well.
+
+847
+01:31:48,080 --> 01:32:15,040
+And so maybe in that way, the horizon both interconnected and that means in terms of South African but then I mean what what Eugene is always worrying about is if but when the chips are down, even with my disclosiveness talk, are you saying that you were your disclosedness, or are you saying you're a disclosiveness?
+
+848
+01:32:15,040 --> 01:32:16,800
+Are you saying you're the disclosiveness?
+
+849
+01:32:16,800 --> 01:32:21,720
+That's where the old subject-object thing is around.
+
+850
+01:32:21,720 --> 01:32:52,760
+And he's trying to define significance and worldhood in such a way that they are so intimately related to Dasein and existing and taking a stand on your being as a way of disclosing that you can understand how we can all be different and yet be all open.
+
+851
+01:32:53,481 --> 01:32:56,920
+We are all somehow different openings on one world.
+
+852
+01:32:56,920 --> 01:32:58,601
+That's what he has to show.
+
+853
+01:32:58,601 --> 01:33:15,561
+And I think he thinks that he's shown it when he's shown that the dis the ecstatical structure of opening and the horizonal destructure of significance are interdefined in such a way, somehow.
+
+854
+01:33:16,680 --> 01:33:18,120
+Yeah, you want to say something about that?
+
+855
+01:33:19,880 --> 01:33:23,241
+There's a Dasein side of the world side or next.
+
+856
+01:33:23,401 --> 01:33:23,720
+Right.
+
+857
+01:33:25,000 --> 01:33:26,521
+Right, right, right.
+
+858
+01:33:26,521 --> 01:33:27,641
+Yeah, that's not right.
+
+859
+01:33:27,641 --> 01:33:28,361
+I take that back.
+
+860
+01:33:29,241 --> 01:33:31,321
+But it's not as many as one thing.
+
+861
+01:33:31,561 --> 01:33:31,960
+Right.
+
+862
+01:33:31,960 --> 01:33:36,441
+So Dasein is being in the world with hyphens.
+
+863
+01:33:36,441 --> 01:33:45,561
+And now, having gone through all of this, we have an understanding of what it is to be being in the world, hopefully.
+
+864
+01:33:45,561 --> 01:33:47,240
+And I think that's what he thinks he's doing.
+
+865
+01:33:47,241 --> 01:33:52,521
+Before I call on somebody else, there's a place where he relates it to being in the world, right around here.
+
+866
+01:33:52,521 --> 01:33:54,521
+Is it maybe right exactly here?
+
+867
+01:33:54,521 --> 01:33:55,641
+Let's see.
+
+868
+01:33:55,601 --> 01:34:01,000
+Uh I don't see it right off, so let let's whoever's got another hand up.
+
+869
+01:34:01,641 --> 01:34:03,401
+417, you see it?
+
+870
+01:34:03,840 --> 01:34:08,481
+Okay, maybe uh having its ground in the world is transcendent.
+
+871
+01:34:08,481 --> 01:34:11,040
+Is there being in the world Oh, right before that.
+
+872
+01:34:11,040 --> 01:34:11,680
+Oh, good.
+
+873
+01:34:11,680 --> 01:34:13,040
+That's what one would hope to find.
+
+874
+01:34:13,040 --> 01:34:14,000
+Let's read that.
+
+875
+01:34:14,000 --> 01:34:22,000
+The world is already presupposed in one's being alongside the ready to hand concernedly and factually in one's thematizing and so forth and so forth.
+
+876
+01:34:22,000 --> 01:34:32,000
+That is to say, all these possible ways of being in the world have all these are oh sorry, are all these are possible ways of being in the world.
+
+877
+01:34:32,000 --> 01:34:39,680
+Having its ground in the horizonal unity of ecstatical temporality, the world is transcendent.
+
+878
+01:34:39,680 --> 01:34:42,401
+Uh good, yes.
+
+879
+01:34:43,040 --> 01:35:16,321
+Not transcendental, not but transcendent because and uh oh which is through Kantian, not transcendent in the sense of Husserlian getting outside your mind, but there's the world, he says, is more outside than anything, and that's when when you understand that, you understand how you could be both have it be its world, have it be you are your world existingly because there's they're so interdefined that they're not even like two faces.
+
+880
+01:35:16,321 --> 01:35:17,361
+So that we're getting there.
+
+881
+01:35:17,361 --> 01:35:21,441
+Hey, I thought that you would get there eventually and I w and I would learn a lot.
+
+882
+01:35:21,441 --> 01:35:21,840
+Yeah.
+
+883
+01:35:22,161 --> 01:35:23,680
+No, no, tell us someone.
+
+884
+01:35:23,760 --> 01:35:25,440
+We're we're I'm ready.
+
+885
+01:35:25,441 --> 01:35:27,280
+We could we can take it.
+
+886
+01:35:27,281 --> 01:35:27,680
+Okay.
+
+887
+01:35:28,161 --> 01:35:29,521
+Temporality.
+
+888
+01:35:29,521 --> 01:35:31,120
+Will you say that again?
+
+889
+01:35:31,361 --> 01:35:34,720
+Well it's wonderful.
+
+890
+01:35:34,960 --> 01:35:44,641
+But if there's something like the temporal, you think we're sort of bringing together world and government and Daily doesn't I thought the world just is back with English.
+
+891
+01:35:44,720 --> 01:35:48,641
+If you understand the temporal islands of the world, everything is involved together.
+
+892
+01:35:48,601 --> 01:36:06,040
+And that was we're trying to bring together the fact that Dazzler is trying to bring together in the world is not the two aspects of cosmology, but rather that in the world is brought together that Dazine exists and takes a stand on it.
+
+893
+01:36:06,040 --> 01:36:09,880
+And then you find out sometimes ready to end, but more problematically.
+
+894
+01:36:12,040 --> 01:36:20,760
+And so there's going to be a story about temporality and kind of what brings together in the world all the bones of ready to own your public.
+
+895
+01:36:20,760 --> 01:36:23,720
+And all bones are being that's what's being brought together in the world.
+
+896
+01:36:39,241 --> 01:36:40,601
+I'm having trouble.
+
+897
+01:36:40,601 --> 01:36:44,200
+I mean, I think it's probably important, so I want to understand it, but I don't yet.
+
+898
+01:36:44,201 --> 01:36:47,720
+Do you understand how what he's saying differs from what I'm saying?
+
+899
+01:36:48,281 --> 01:36:51,641
+I don't well.
+
+900
+01:36:51,641 --> 01:37:06,120
+Well, I mean, I can't understand you sort of from the start because he seems to be the ex-dases are definitely the structure of temporality for of Dazine.
+
+901
+01:37:06,441 --> 01:37:11,800
+And he says, and every exodus has a horizon.
+
+902
+01:37:11,800 --> 01:37:17,641
+That seems to be, I don't know what it is, but how do you understand it?
+
+903
+01:37:17,641 --> 01:37:20,280
+I mean, I understand it.
+
+904
+01:37:20,281 --> 01:37:30,601
+As I said, it sounds to me like every time I've got a defining d stand on my own being, I've also plugged into some shared stuff.
+
+905
+01:37:30,561 --> 01:37:38,240
+Uh and I don't see him talking about world doing that job.
+
+906
+01:37:38,561 --> 01:37:48,481
+The uh the I'm looking at something, the unity of significance, which is the onsol ontological constitution of the world, must be grounded in temporality.
+
+907
+01:37:49,281 --> 01:37:51,521
+Doesn't that seem like the opposite of what you were saying?
+
+908
+01:37:51,521 --> 01:37:54,720
+You seem to be wanting to make world the ultimate thing.
+
+909
+01:37:55,441 --> 01:37:58,641
+Yeah, that's that that's certainly what he's asking, among other things.
+
+910
+01:38:03,680 --> 01:38:05,120
+Let's look at the crucial quotes.
+
+911
+01:38:05,120 --> 01:38:05,680
+I don't know.
+
+912
+01:38:05,680 --> 01:38:08,561
+The bottom of 415, back to that.
+
+913
+01:38:08,561 --> 01:38:17,280
+The question arises how anything like the world in its unity with Dasein is ontologically possible.
+
+914
+01:38:17,281 --> 01:38:19,280
+Is that supporting what you said?
+
+915
+01:38:20,561 --> 01:38:22,080
+Sounds reasonable, yeah.
+
+916
+01:38:27,680 --> 01:38:29,441
+Yeah, I think so far we're in agreement.
+
+917
+01:38:45,521 --> 01:38:49,521
+I see I see, but I'm not sure that's what's happening here.
+
+918
+01:38:49,521 --> 01:38:52,000
+That's in so far as I'm going to look at something else here.
+
+919
+01:38:52,000 --> 01:38:54,240
+The top of 417.
+
+920
+01:38:55,601 --> 01:38:59,040
+Whereas I'm looking for 416 so I can begin there.
+
+921
+01:38:59,040 --> 01:38:59,920
+Okay.
+
+922
+01:39:00,241 --> 01:39:09,680
+The horizonal unity of the schemata of the ecstasies makes possible the primordial way in which the relationship of the in order to are connected with the for the sake of.
+
+923
+01:39:09,680 --> 01:39:18,521
+This implies that on the basis of the horizonal constitution of the ecstatical, unity of temporality.
+
+924
+01:39:18,521 --> 01:39:19,960
+That's already strange, isn't it?
+
+925
+01:39:18,080 --> 01:39:23,561
+It looked like the horizon, more basic, is supposed to be the ecstatical.
+
+926
+01:39:23,880 --> 01:39:37,481
+And the horizon is supposed to be connected with each ecstasy, where in italics the condition for the possibility of the world lies in on 416.
+
+927
+01:39:37,481 --> 01:39:42,521
+The fact that temporality is an ecstatical unity has something like a horizon.
+
+928
+01:39:42,521 --> 01:39:57,960
+This implies that on the now the bottom, on the basis of the horizon constitution of the ecstatical unity of temporality, there belongs to that entity, which is in each case its own there, something like a world that has been disclosed.
+
+929
+01:39:57,960 --> 01:40:18,280
+Boy, that does certainly look like the issue is, I mean, I'm not sure which issue, but I keep wanting to say it looks like the issue is how to get together something like their the ownness and the sharedness.
+
+930
+01:40:18,281 --> 01:40:22,200
+And I keep having trouble, we're just having trouble understanding each other.
+
+931
+01:40:40,040 --> 01:40:43,000
+But it's not that existing.
+
+932
+01:40:43,401 --> 01:40:43,960
+No, it doesn't.
+
+933
+01:40:43,960 --> 01:40:44,281
+It doesn't.
+
+934
+01:40:44,281 --> 01:40:45,080
+It says its world.
+
+935
+01:40:45,080 --> 01:40:45,720
+No, you're right.
+
+936
+01:40:45,720 --> 01:40:46,601
+It says.
+
+937
+01:40:57,161 --> 01:40:59,160
+It's not necessarily the parts.
+
+938
+01:41:00,040 --> 01:41:01,960
+I think you're on the wrong track.
+
+939
+01:41:01,960 --> 01:41:58,481
+He wouldn't have gone through all this work of bringing in the towards which and the for the sake of which when he talks about the world, and the for the sake of which also when he talks about Dasein taking a stand on its being and getting its identity, if he didn't have as the final agenda the the dimensions of Dasein's ecstatical threefold structure with it for the sake of which amidst enthrone and the temporal structure of the world which has in it for the sake of which s lots of for the sake of which is all hooked together into significance and into what I don't know some past thing and I mean he goes to such trouble to lay those two structures out all over the place and I don't see why we he wouldn't be cashing in on that at this point.
+
+940
+01:41:58,880 --> 01:42:00,641
+Oh yeah, I want to say something, yeah.
+
+941
+01:42:08,641 --> 01:42:15,601
+I don't think, I mean, I I can't really I mean it always bothers me, I can't belie I don't think death could be the final for the sake of which.
+
+942
+01:42:15,601 --> 01:42:18,240
+I mean that that's what Sartre thought Heidegger was saying.
+
+943
+01:42:18,561 --> 01:42:23,920
+And Sartre rightly said, but who in the world would live their life for the sake of their death?
+
+944
+01:42:23,920 --> 01:42:25,601
+I mean that doesn't make any sense.
+
+945
+01:42:25,601 --> 01:42:38,720
+So the I think the ultimate for the sake of which has got to be your identity, your defining understanding of who you are, or embodied understanding or whatever it is of who you are.
+
+946
+01:42:38,720 --> 01:43:09,000
+And the fact that the future is a for the sake of which in the world and is a for the sake of which for each particular Dasein, that's got to be a clue that these two are not even two aspects, as Eugene said, but they are the same thing, taken up by the only thing that could take them up, namely Dasein as being in the world.
+
+947
+01:43:09,000 --> 01:43:11,561
+And that's what he thinks he's done.
+
+948
+01:43:13,000 --> 01:43:23,800
+Okay, we still have, well, let me, no, before we go on, I don't want to come back to anything that I was going to say here, but I think we've gotten to much more serious business.
+
+949
+01:43:24,840 --> 01:43:28,840
+I will tell you in a minute whether I think there's any reason why I have to go back to it.
+
+950
+01:43:30,281 --> 01:43:31,720
+Go ahead, say something, huh?
+
+951
+01:43:32,040 --> 01:43:33,000
+I like that.
+
+952
+01:43:33,720 --> 01:43:35,160
+My mistake to say aspects.
+
+953
+01:43:35,161 --> 01:43:39,720
+They are the same thing, the for the sake of which of being a professor.
+
+954
+01:43:39,720 --> 01:43:54,200
+That's but it's something that is both serving two jobs, namely giving me an identity and giving me lots of equipment to play around with in order to have that identity.
+
+955
+01:43:54,201 --> 01:43:55,481
+Why can't we say that?
+
+956
+01:43:55,481 --> 01:43:58,680
+Those aren't two aspects because there's much more tightly.
+
+957
+01:43:58,760 --> 01:44:06,840
+I couldn't be a professor without this equipment to play around with, and it wouldn't be equipment to be a professor if I didn't have it as my identity.
+
+958
+01:44:07,960 --> 01:44:08,760
+Is that getting it?
+
+959
+01:44:08,840 --> 01:44:13,160
+I mean, that's a good route I think that's the clue that you gave me somewhere along the line.
+
+960
+01:44:13,161 --> 01:44:13,720
+Yeah.
+
+961
+01:44:14,040 --> 01:44:15,561
+417, okay.
+
+962
+01:44:16,760 --> 01:44:17,320
+Okay.
+
+963
+01:44:18,201 --> 01:44:20,521
+You will end up chapter 5.
+
+964
+01:44:20,920 --> 01:44:24,680
+I don't I want to have to see where you are before I can understand what you're saying.
+
+965
+01:44:24,680 --> 01:44:26,200
+The bottom of 417?
+
+966
+01:44:27,000 --> 01:44:28,120
+Rather, we must ask.
+
+967
+01:44:28,120 --> 01:44:29,800
+Is that in the bottom of 417?
+
+968
+01:44:29,800 --> 01:44:31,720
+Oh, yeah, the very, very, very bottom.
+
+969
+01:44:31,720 --> 01:44:32,521
+I got it.
+
+970
+01:44:32,521 --> 01:44:33,080
+Okay.
+
+971
+01:44:34,481 --> 01:44:40,880
+Rather we must ask what makes it ontologically possible to be encountered within the world and objectify as though encountered.
+
+972
+01:44:40,880 --> 01:44:49,680
+This can be answered by reference to the transcendence of the world, a transcendence which has an ecst ecstatico horizonal foundation.
+
+973
+01:44:50,000 --> 01:44:54,160
+Well that seems awfully important, all right, but let's go let me look at the next paragraph.
+
+974
+01:44:54,161 --> 01:44:57,280
+Everybody read the first paragraph on the top of 418.
+
+975
+01:44:57,760 --> 01:45:09,680
+That's the place where I was looking for being in the world, where being in the world is traced back to the ecstatico-horizonal unity of temporality, the existential ontological possibility of the space basic data Dasein is intelligible.
+
+976
+01:45:09,680 --> 01:45:28,481
+That looks like the bottom line, that you got to understand how being in the world with hyphens can be Dasein and can be the world, all so much the same thing and yet so different is what he's doing there.
+
+977
+01:45:28,720 --> 01:45:38,160
+I wanted to go back though just a little before where Stephen started reading because there's lots of talk about its world and that's always a clue that something important is happening.
+
+978
+01:45:38,401 --> 01:45:39,441
+Three lines down.
+
+979
+01:45:39,441 --> 01:45:50,960
+What is rather the case is that factical Dasein understands itself in its world, that seems like a perspective, ecstatically in the unity of the there.
+
+980
+01:45:51,920 --> 01:46:02,320
+Let's see, what is rather the case is that factual design understanding itself and its world ecstatically in the unity of the there comes back from these horizons to the entities encountered within them.
+
+981
+01:46:02,321 --> 01:46:04,561
+That's what sort of what you're talking about maybe.
+
+982
+01:46:04,561 --> 01:46:06,400
+The entities get in there.
+
+983
+01:46:06,401 --> 01:46:12,240
+Coming back to these entities understandingly is an existential meaning of letting them be encountered by making them present.
+
+984
+01:46:12,241 --> 01:46:15,840
+That is why we call them entities within the world.
+
+985
+01:46:16,401 --> 01:46:24,200
+We've gone from its world to the world in sort of the way I would like to do it, but it doesn't happen here.
+
+986
+01:46:24,760 --> 01:46:31,481
+It's world being the world of a professor and the world being the world of a professor.
+
+987
+01:46:32,441 --> 01:46:34,280
+They're the same, and yet they're different.
+
+988
+01:46:34,281 --> 01:46:36,441
+That is why we call these entities within the world.
+
+989
+01:46:36,441 --> 01:46:40,521
+The world is, as it were, already further outside than any object can ever be.
+
+990
+01:46:40,521 --> 01:46:41,800
+That doesn't seem to help.
+
+991
+01:46:41,800 --> 01:46:46,200
+The problem of transcendence cannot be brought around to the question of how a subject, well, that's sure.
+
+992
+01:46:46,201 --> 01:46:51,720
+But we want to know what makes it ontologically possible for entities to be encountered within the world.
+
+993
+01:46:51,720 --> 01:46:53,240
+Well, that doesn't help any.
+
+994
+01:46:53,641 --> 01:46:54,200
+Does it?
+
+995
+01:46:54,601 --> 01:46:56,280
+I don't think so.
+
+996
+01:46:58,201 --> 01:47:00,040
+What's the conclusion you wanted to draw, Steve?
+
+997
+01:47:00,120 --> 01:47:01,240
+Steve, and I got.
+
+998
+01:47:01,561 --> 01:47:07,800
+You guys, it does seem to be in a kind of Tyler ballpark where we're talking about the entities in the world.
+
+999
+01:47:07,960 --> 01:47:12,200
+We might as well be talking about the way of being of entities in the world.
+
+1000
+01:47:12,840 --> 01:47:41,160
+All I can say about that is that that seems to be a sort of spin-off from the more basic problem, which is the problem of how to understand being in the world and how to do it in terms of the ecstasies, which remember are the temporal structure of Dasein, and the fact that, the amazing, crucial fact that they all, every ecstasis has something like a horizon.
+
+1001
+01:47:42,361 --> 01:47:48,040
+And that horizonal schema, and it's, and then let's go on.
+
+1002
+01:47:48,040 --> 01:47:50,120
+The schema, I'm back on 416.
+
+1003
+01:47:50,120 --> 01:47:57,400
+The schema in which Dasein comes towards itself futurally, whether authentically or inauthentically, is for the sake of itself.
+
+1004
+01:47:57,720 --> 01:48:09,920
+The schema in which Dasein is disclosed to itself in a state of mind in Befinlichkeit as thrown is to be taken as that in the faces of which it's been thrown and to which it has been abandoned.
+
+1005
+01:48:10,641 --> 01:48:14,481
+That's the characteristic of the what has been.
+
+1006
+01:48:14,481 --> 01:48:26,561
+In existing for the sake of itself, in abandonment to itself as something that has been thrown, Dasein is being alongside, as being amidst, is at the same time making present the horizon structure of presence as defined in order to.
+
+1007
+01:48:27,281 --> 01:48:45,120
+There he's just bringing together, it looks to me like, the combinations where the temporal future characterizes both Dasein and the world together, and the temporal present the same, and the temporal past the same.
+
+1008
+01:48:45,120 --> 01:48:47,760
+And does that get any better?
+
+1009
+01:48:47,760 --> 01:48:55,120
+The unity of the horizon schema of future past, future, present, and having been is grounded in the ecstatical unity of temporality.
+
+1010
+01:48:55,120 --> 01:49:00,000
+Notice the priority of the Dasein way of talking about it.
+
+1011
+01:49:00,000 --> 01:49:04,240
+The stand on its own being seems to be what's finally the bottom line.
+
+1012
+01:49:04,241 --> 01:49:14,320
+The horizonal temporality as a whole determines the upon which factical entities are essentially disclosed.
+
+1013
+01:49:14,641 --> 01:49:15,840
+Hmm.
+
+1014
+01:49:15,840 --> 01:49:21,441
+I'm just trying to feel whether this is now pro-Tyler, pro-Blatner, pro-Dreyfus.
+
+1015
+01:49:21,441 --> 01:49:22,321
+I can't remember.
+
+1016
+01:49:22,561 --> 01:49:26,800
+All these positions are sort of merging in my head.
+
+1017
+01:49:27,201 --> 01:49:32,800
+Does that what I just read support what I've been saying, or not?
+
+1018
+01:49:33,760 --> 01:49:35,840
+Let's try, I mean, here's more of the same talk.
+
+1019
+01:49:35,840 --> 01:49:37,680
+I just keep I've marked it all over.
+
+1020
+01:49:37,720 --> 01:49:39,880
+That on four seventeen.
+
+1021
+01:49:39,880 --> 01:49:49,080
+That just as the present arises in the unity of the temporalizing of temporality out of the future and having been, the horizon of presence temporalized, now we're on the horizon side.
+
+1022
+01:49:48,481 --> 01:49:50,920
+That was the ecstasic side.
+
+1023
+01:49:51,161 --> 01:49:56,601
+The horizon of the present temporalizes itself equiprimorio with those of future and having been.
+
+1024
+01:49:56,601 --> 01:50:00,920
+Insofar as Dasein temporalizes itself, a world is too.
+
+1025
+01:50:00,920 --> 01:50:04,200
+And temporalizing itself with regard to its being is temporality.
+
+1026
+01:50:04,201 --> 01:50:12,120
+Dasein is essentially in a world by reason of the ecstatico-horizonal constitution of its temporality.
+
+1027
+01:50:12,441 --> 01:50:17,561
+I I keep wanting to say the real issue seems to be how Dasein can be being in the world.
+
+1028
+01:50:17,561 --> 01:50:27,800
+And the issue seems to be to state these three the threefold structure both in a world way and in a di in a in a take a stand on your own being way.
+
+1029
+01:50:27,800 --> 01:50:29,960
+And I'm not sure that's a big deal difference.
+
+1030
+01:50:33,401 --> 01:50:35,401
+That isn't something that plays a big role in here.
+
+1031
+01:50:35,401 --> 01:50:37,800
+It doesn't even get mentioned because it Yes, it's right.
+
+1032
+01:50:37,800 --> 01:50:40,360
+It's got to be along amidst, let's say.
+
+1033
+01:50:40,361 --> 01:50:42,840
+Dasein has got to be amidst entities.
+
+1034
+01:50:42,840 --> 01:50:44,601
+That's the present structure.
+
+1035
+01:50:44,601 --> 01:50:47,401
+And that present structure is again both sides.
+
+1036
+01:50:47,401 --> 01:50:55,000
+Dasein can't be amidst entities ecstatically if there aren't entities out there to be amidst horizonally.
+
+1037
+01:50:55,000 --> 01:50:56,680
+It seems to be the same story again.
+
+1038
+01:50:59,720 --> 01:51:02,360
+I would have thought the alongsidedness has both in it.
+
+1039
+01:51:02,361 --> 01:51:06,920
+That is, the both it's if you can't be alongside it if it isn't there and if you aren't there.
+
+1040
+01:51:20,361 --> 01:51:28,840
+I see what you're doing and and the funny thing is I like it, but I don't think it's the thing to be doing here, to bring in sort of nature and so forth.
+
+1041
+01:51:28,840 --> 01:51:38,160
+I mean w here he's talking about equipment, uh that is stuff which has its own for the sake of which, which electrons don't have.
+
+1042
+01:51:38,161 --> 01:51:42,000
+And he and he's putting it that way on purpose so that the two get together.
+
+1043
+01:51:42,000 --> 01:51:51,040
+He has I mean I think he does have that I think it's on 414 that he he got the the how the theoretical how entities can show up for pure discovery.
+
+1044
+01:51:51,040 --> 01:51:52,720
+That's in the vicinity.
+
+1045
+01:51:52,720 --> 01:52:05,521
+But having done that on 414, he goes on to the temporal problem of the transcendence of world, and that seems to me to leave but leave behind the question about electrons.
+
+1046
+01:52:09,361 --> 01:52:10,320
+I don't believe it.
+
+1047
+01:52:10,321 --> 01:52:11,840
+I don't believe it at all.
+
+1048
+01:52:11,840 --> 01:52:16,481
+I think the question of transcendence is all over the place.
+
+1049
+01:52:16,481 --> 01:52:21,040
+In fact, I thought we just this chapter began with talking about transcendence.
+
+1050
+01:52:21,040 --> 01:52:22,320
+Now I don't know.
+
+1051
+01:52:22,481 --> 01:52:27,760
+But it's also falling but it'll be done we can ignore entities right at all.
+
+1052
+01:52:27,920 --> 01:52:28,880
+That might be true.
+
+1053
+01:52:28,880 --> 01:52:48,240
+I find what you're saying perfectly relevant to what's going on on page 414 where he's talking about science and the unready to hand and the whole kind of well how does this name of this chapter let's see what it whether it's got transcend the temporal meaning of the circumscriptive concern modified in theoretical discovery.
+
+1054
+01:52:48,321 --> 01:52:54,240
+Seems to me that's just one issue and then there's this issue of the problem of the transcendence of the world.
+
+1055
+01:52:54,241 --> 01:52:55,521
+But we've got to stop.
+
+1056
+01:52:55,521 --> 01:53:01,680
+I saw one hand that I won't keep people from talking, but it's time by my light.
+
+1057
+01:53:01,760 --> 01:53:04,880
+We've had enough and I think it's been very helpful.
+
+1058
+01:53:04,880 --> 01:53:07,521
+I'm not sure how I'll feel about it tomorrow.
+
+1059
+01:53:07,521 --> 01:53:08,800
+But thanks for trying.
+
+1060
+01:53:09,201 --> 01:53:11,920
+And the next time, let me just tell you what's happening.
+
+1061
+01:53:11,920 --> 01:53:18,601
+See, we're one whole thing behind, because I fell into this dark hole, which I now feel I've sort of been pulled out of.
+
+1062
+01:53:18,000 --> 01:53:23,481
+We haven't gotten to the ordinary conception of time, which was supposed to be today.
+
+1063
+01:53:23,800 --> 01:53:26,680
+So we're going to do the ordinary conception of time next time.
+
+1064
+01:53:26,680 --> 01:53:31,240
+You'll be happy to hear, if you're all brave, put up with it.
+
+1065
+01:53:31,241 --> 01:53:33,000
+It won't be abstract like this.
+
+1066
+01:53:33,000 --> 01:53:37,960
+It's very sort of down-to-earth description of everyday life.
+
+1067
+01:53:38,361 --> 01:53:39,641
+You go ahead and leave if you want.
+
+1068
+01:53:39,641 --> 01:53:45,641
+I'm going to look at what I said to make sure that I at least said what was best I can.
+
+1069
+01:53:45,641 --> 01:53:48,280
+Don't don't I'm not going to say anything more to you all.
+
+1070
+01:53:48,281 --> 01:53:53,720
+The lect the lecture is over, but I'm not well I want to check something.

@@ -1,0 +1,2938 @@
+
+
+
+1
+00:00:00,000 --> 00:00:17,040
+Where we were last time was that we were doing the three kinds of being, the three modes of being that Heidegger talks about.
+
+2
+00:00:17,760 --> 00:00:31,200
+I would say that he thinks they're the only ones there are, because he certainly writes 99% of the book as if he thought they were the ahistorical cross-cultural modes of being.
+
+3
+00:00:31,200 --> 00:00:41,280
+Namely, there's equipment in any culture, you would think, and objects or substances that people can stare at and note the properties of.
+
+4
+00:00:41,280 --> 00:00:47,759
+And there are human beings whose way of being is always existence.
+
+5
+00:00:47,759 --> 00:00:58,159
+And yet, there's a page somewhere, I won't even bother to look it up, where he just amazingly says, well, and maybe these ways of talking don't fit the primitives.
+
+6
+00:00:58,159 --> 00:01:12,319
+That is some culture, I presume, who has totems and who thinks that equipment is sacred things and that you use them not to cut down the wheat, but you use them because the gods told you to or something.
+
+7
+00:01:12,319 --> 00:01:29,120
+Anyway, I wouldn't think, I wouldn't even mention it, except that it shows that he's not trying to do some traditional philosophical Kantian move to tell you that about some necessary universal conditions.
+
+8
+00:01:29,120 --> 00:01:45,760
+What he's doing is telling you that in all the forms of Dasein he's ever experienced or read about and so forth, these three ways of being exhaust the ways of being that Dasein encounters.
+
+9
+00:01:45,760 --> 00:01:47,439
+And so let's go on like that.
+
+10
+00:01:47,760 --> 00:01:52,679
+I mean, I think there's nothing more to say about the strange possibility that there are exceptions.
+
+11
+00:01:52,679 --> 00:02:04,760
+The third way, well, because we've done now equipment and its way of being through Handenheit, readiness to hand, and we've done objects, substances.
+
+12
+00:02:04,760 --> 00:02:13,640
+Better to call them substances than objects, since Descartes invents the notion of objects, and for him, objects are always objects for subjects.
+
+13
+00:02:13,799 --> 00:02:23,399
+Remember, Heidegger's just going back to Aristotle's normal understanding of every sort of entity, namely that it's a substance, period.
+
+14
+00:02:23,959 --> 00:02:32,839
+A lot of them would be around whether they were any people around or not, where subjects, subjects only seem to, objects seem to correlate with subjects.
+
+15
+00:02:32,839 --> 00:02:34,599
+So we'll talk about substances.
+
+16
+00:02:34,600 --> 00:02:46,679
+The way of being of substances is, of course, we talked about that, that they are self-sufficient and have properties that are, with certain qualifications, also self-sufficient.
+
+17
+00:02:46,680 --> 00:02:48,519
+And we got up to Dasein.
+
+18
+00:02:48,519 --> 00:02:52,119
+And Dasein, remember, is us.
+
+19
+00:02:52,119 --> 00:03:04,040
+And, or when Heidegger sometimes says later, and it sort of helps sometimes to say it this way, Dasein, he talks about the Dasein in us.
+
+20
+00:03:04,359 --> 00:03:14,359
+That is, it's whatever it is about human beings that makes them make their being an issue for them.
+
+21
+00:03:14,679 --> 00:03:18,439
+And that's the Dasein in us.
+
+22
+00:03:18,440 --> 00:03:27,480
+And if it turns out that dolphins are worrying about their understanding of being or making it an issue for them, then Dasein, then dolphins would have Dasein in them.
+
+23
+00:03:27,479 --> 00:03:41,439
+Heidegger doesn't think that there's any, doesn't have any reason to believe that there's anything but people who have an interpretation of what it is to be a person built into their practices.
+
+24
+00:03:42,079 --> 00:03:48,559
+So again, just for straight approximation, we're just going to call us Daseine.
+
+25
+00:03:49,200 --> 00:03:51,200
+Well, yeah, we are Dasein.
+
+26
+00:03:51,440 --> 00:03:52,959
+What is our way of being?
+
+27
+00:03:53,279 --> 00:04:01,920
+That is, our way of being is to make our being an issue for us, and that's what's called existence.
+
+28
+00:04:01,920 --> 00:04:04,880
+Remember, that's how far we've gotten last time.
+
+29
+00:04:04,880 --> 00:04:06,719
+And yeah, problem worry?
+
+30
+00:04:09,440 --> 00:04:14,880
+Ah, well, interestingly enough, in Being in Time, they just don't come into the questions.
+
+31
+00:04:15,120 --> 00:04:22,479
+They're substances, obviously, because they aren't equipment, or they can be, but they're always substances.
+
+32
+00:04:22,480 --> 00:04:32,480
+But later, Heidegger, a little later, five years after being in time, wrote a big fat book, half of which is about boredom and half of which is about animals.
+
+33
+00:04:32,799 --> 00:04:34,079
+There's no big connection there.
+
+34
+00:04:34,079 --> 00:04:36,079
+That's just how it turned out.
+
+35
+00:04:37,120 --> 00:04:40,959
+And there, but it's not very interesting, what Heidegger says about animals.
+
+36
+00:04:40,959 --> 00:04:45,440
+It's derivative from what the ethnologists were saying.
+
+37
+00:04:45,440 --> 00:04:49,839
+He says animals are not things.
+
+38
+00:04:49,839 --> 00:04:51,519
+They have an environment.
+
+39
+00:04:51,919 --> 00:04:53,279
+But that's not a world.
+
+40
+00:04:53,279 --> 00:04:55,599
+Animals, but they have something like a world.
+
+41
+00:04:55,600 --> 00:05:00,880
+And anyway, if you're interested in animals, you come to office hours and I can tell you where to read about it.
+
+42
+00:05:00,880 --> 00:05:05,999
+But you won't, I'm afraid, learn deep things about animals from Heidegger.
+
+43
+00:05:07,279 --> 00:05:10,479
+So that's a sensible question.
+
+44
+00:05:10,799 --> 00:05:17,120
+Now, so let's go to Dasein's being being an issue for it.
+
+45
+00:05:17,440 --> 00:05:22,360
+I talked about that last time already, so I don't want to spend a lot of time going over it.
+
+46
+00:05:22,680 --> 00:05:32,840
+Um this is we're on page 32 of being in time where all this happens in a condensed way so that my copy is all scribbled up and yours should be too.
+
+47
+00:05:33,159 --> 00:05:46,839
+So and you find him saying on page 32 the second paragraph, oh by the way, I have to tell you, I'm always going to be giving a second page number because how many are reading it in German?
+
+48
+00:05:46,839 --> 00:05:49,079
+I know at least one person is reading it in German.
+
+49
+00:05:49,079 --> 00:05:49,560
+Hi.
+
+50
+00:05:49,880 --> 00:05:50,680
+I hope there are more.
+
+51
+00:05:50,679 --> 00:05:51,480
+Good, too.
+
+52
+00:05:51,479 --> 00:05:52,279
+Many more?
+
+53
+00:05:52,279 --> 00:05:54,519
+And I'm glad if people are reading it in German.
+
+54
+00:05:54,519 --> 00:05:55,720
+Did you see another hand?
+
+55
+00:05:55,719 --> 00:06:10,760
+And bringing good and bringing the German to class because it might always be the case that though I have read it sort of in German, I mean on and off, I may have just overlooked some mistranslation or some better way of saying what's going on.
+
+56
+00:06:10,760 --> 00:06:20,519
+And if you find when you read the German that it's illuminating and we should be paying attention to it, you can either raise your hand and tell me or come in after to office hours.
+
+57
+00:06:20,519 --> 00:06:31,399
+Office hours turned into a nice sort of discussion section for the first week in which there were about, I don't know, six or seven people coming with various questions.
+
+58
+00:06:31,399 --> 00:06:40,279
+In office hours, if you want to talk about Heidegger, which is mostly what anybody coming to my office hours would want to do, I'm not an advisor right now.
+
+59
+00:06:40,279 --> 00:06:44,840
+Anyway, I'm already talking to somebody about Heidegger or two or three people.
+
+60
+00:06:44,839 --> 00:06:46,359
+Don't be shy.
+
+61
+00:06:46,360 --> 00:06:47,320
+Come on in.
+
+62
+00:06:47,320 --> 00:06:55,479
+I mean, it seems a a waste of everybody's intellectual energy to go take up the interesting questions that arise from the lecture one by one.
+
+63
+00:06:55,480 --> 00:06:58,519
+You person each each one individual.
+
+64
+00:06:58,519 --> 00:07:04,760
+If you've got some individual problem or question or something, I can always certainly throw out everybody for a while.
+
+65
+00:07:04,760 --> 00:07:09,680
+But in general, treat my office hours as a supplementary discussion section.
+
+66
+00:07:05,399 --> 00:07:12,959
+And now, I was saying about the numbers on the sides of the page.
+
+67
+00:07:12,959 --> 00:07:15,520
+Those, of course, are the German edition numbers.
+
+68
+00:07:15,519 --> 00:07:18,159
+So on page 32, there's a 12 there.
+
+69
+00:07:18,159 --> 00:07:23,279
+I'm going to, and I want to read this passage right below where the 12 is.
+
+70
+00:07:23,279 --> 00:07:32,479
+So I'm going to always try to give the German number, partly because I want to be sure the people who are reading the German are on that, on the page.
+
+71
+00:07:32,480 --> 00:07:34,960
+But secondly, because it'll help you find out where we are.
+
+72
+00:07:34,959 --> 00:07:41,680
+See, if I say 32, and then I say 12, right below 12, then you know where we are.
+
+73
+00:07:41,680 --> 00:07:45,680
+So Dasein is an entity which does not just occur among entities.
+
+74
+00:07:45,679 --> 00:07:53,440
+Rather, it is ontically distinguished by the fact that its very being, that being, is an issue for it.
+
+75
+00:07:53,440 --> 00:08:04,560
+And I said, I believe I already said this, that Dasein, I put it, Dasein takes a stand on its being or has an interpretation of what it is to be a human being.
+
+76
+00:08:04,560 --> 00:08:07,599
+That's fine, except it's misleading.
+
+77
+00:08:07,599 --> 00:08:17,040
+But in the same way that an issue for it is misleading, it makes you think that Dasein has to actually be, so to speak, worrying about, wow, what is it to be a human being?
+
+78
+00:08:17,039 --> 00:08:18,880
+I guess maybe it's like this or like that.
+
+79
+00:08:18,880 --> 00:08:20,800
+I mean, Dasein can do that.
+
+80
+00:08:20,799 --> 00:08:38,399
+But Heidegger thinks that the German peasants, whom he likes a lot, and when he was invited to become a professor in Berlin, he said, no, he has to stay in Freiburg, which is some little town in the sort of boonies of Germany, because that way he gets to talk to the peasants.
+
+81
+00:08:38,399 --> 00:08:44,000
+And it's important that Heidegger, that's one of the reasons I think Heidegger manages to be so original.
+
+82
+00:08:44,000 --> 00:08:56,039
+I mean, he knows all the stuff that philosophers know, but he knows lots of stuff about skiing and planting crops and drinking the local wine and generally experiencing things the way the peasants do.
+
+83
+00:08:56,039 --> 00:09:04,120
+He writes about it in one place where he talks about what Van Gogh's painting of the peasant shoes show us about the life of them.
+
+84
+00:09:04,120 --> 00:09:09,240
+But all I want to say right now is they can be what Heidegger would call authentic.
+
+85
+00:09:09,240 --> 00:09:24,120
+That is, they can be taking a stand on their being and doing a very, so to speak, good job of it, meaning that what they're doing reflects what it is to be a human being without having any thinking about it.
+
+86
+00:09:24,120 --> 00:09:31,240
+So it's saying it's an issue for them or saying that they take a stand on it is somewhat misleading.
+
+87
+00:09:31,240 --> 00:09:32,840
+I gave you this example.
+
+88
+00:09:33,480 --> 00:09:35,799
+Last time I said, how about a sacrificial mother?
+
+89
+00:09:36,360 --> 00:09:39,160
+These examples are good from family therapy.
+
+90
+00:09:39,159 --> 00:09:47,240
+Some kid can be, from a family therapist's point of view, understanding him or herself as the bad child in the family.
+
+91
+00:09:47,240 --> 00:09:50,760
+But that doesn't mean that they have to say anything or think anything.
+
+92
+00:09:50,760 --> 00:09:56,200
+It just means they have to behave in certain family situations so as to take the heat.
+
+93
+00:09:57,000 --> 00:10:09,000
+But maybe the best way to deal with this, since you're going to have to keep saying this to yourself for the whole semester since you're going to be worrying about what Dasein is, is Kierkegaard's way of putting it.
+
+94
+00:10:09,000 --> 00:10:10,920
+Heidegger's getting this from Kierkegaard.
+
+95
+00:10:10,919 --> 00:10:12,920
+Heidegger gets lots from Kierkegaard.
+
+96
+00:10:12,919 --> 00:10:19,560
+But Kierkegaard defines the self and says the self is a relation that relates itself to itself.
+
+97
+00:10:19,559 --> 00:10:23,240
+Well, that is the most abstract way that you could say it.
+
+98
+00:10:23,240 --> 00:10:38,080
+It's not, you don't say it's an issue, you don't say it's a stand, but you say that somehow in being a self or a Dasein, you are relating to what it is to be a self or a Dasein.
+
+99
+00:10:38,480 --> 00:10:41,519
+So think that if you need to.
+
+100
+00:10:35,399 --> 00:10:42,719
+Okay, I'm going to go on reading this.
+
+101
+00:10:42,880 --> 00:10:45,200
+Let's see, is an issue for it.
+
+102
+00:10:45,840 --> 00:10:53,840
+But in that case, this is a constituted state of Dasein's being, and this implies that Dasein in its being has a relationship toward that being.
+
+103
+00:10:53,840 --> 00:10:56,000
+You see, he's really there, he's got the Kierkegaard.
+
+104
+00:10:56,159 --> 00:10:59,280
+Dasein is a relation which relates itself toward itself.
+
+105
+00:10:59,279 --> 00:11:02,160
+A relationship which itself is one of being.
+
+106
+00:11:02,159 --> 00:11:10,960
+And this means further that in some way in which Dasein understands itself in its being, that to some degree it does so explicitly.
+
+107
+00:11:10,960 --> 00:11:12,319
+Now, aha, that's interesting.
+
+108
+00:11:12,319 --> 00:11:14,320
+I usually don't read the quote that far.
+
+109
+00:11:14,320 --> 00:11:16,159
+Now I have something I have to explain.
+
+110
+00:11:16,319 --> 00:11:17,600
+Let's see if I can get if it helps that.
+
+111
+00:11:17,679 --> 00:11:23,519
+It is peculiar to this entity that with and through its being, that being is disclosed to it.
+
+112
+00:11:24,960 --> 00:11:39,839
+Well, I think what you have to say is when he does, when it understands itself explicitly, I want to read that, that it manifests in itself in its behavior, what its relation to its being is.
+
+113
+00:11:39,840 --> 00:11:44,400
+So the bad child in the family does what bad children in the family do without having to say that.
+
+114
+00:11:44,880 --> 00:11:50,159
+But it becomes, I wonder about the explicitly, time for the German.
+
+115
+00:11:50,159 --> 00:11:52,240
+That's why I'm glad that you keep there with the German.
+
+116
+00:11:52,240 --> 00:11:59,039
+What's getting translated that Dasein understands itself to some degree explicitly?
+
+117
+00:12:00,080 --> 00:12:11,440
+This book is so dense that every I mean, though I've read it so many times and lectured on it so many times, every once in at least once or twice in lecture, I come across something where I suddenly realize I don't understand what he's talking about.
+
+118
+00:12:12,240 --> 00:12:14,320
+Why is he saying explicitly?
+
+119
+00:12:14,320 --> 00:12:16,080
+And what's the German?
+
+120
+00:12:16,080 --> 00:12:17,279
+Hausdorcklich?
+
+121
+00:12:17,439 --> 00:12:18,480
+Hausdorcklich?
+
+122
+00:12:18,480 --> 00:12:18,880
+Oh, dear.
+
+123
+00:12:18,880 --> 00:12:20,440
+Well, that's explicitly.
+
+124
+00:12:21,720 --> 00:12:23,080
+Well, I don't know what to say.
+
+125
+00:12:19,919 --> 00:12:25,079
+I don't think that's the right thing to say, Heidegger.
+
+126
+00:12:25,240 --> 00:12:30,279
+I think he should have said that it manifests in its behavior the way it relates to its being.
+
+127
+00:12:30,279 --> 00:12:40,120
+I mean, I don't see that the Schwarzwald, the Black Forest peasants do anything about their understanding of being explicitly or think anything.
+
+128
+00:12:40,120 --> 00:12:50,040
+So you can either read it your way, in which case you're going to run into problems somewhere, I'm sure, or read it my way, because I think that what I'm saying fits with what Heidegger's trying to do.
+
+129
+00:12:51,000 --> 00:12:54,359
+And so its being is disclosed to it.
+
+130
+00:12:54,360 --> 00:13:02,519
+I guess what that means is it's got some sense of what it is to be a human being or to be the bad child in the family or be the sacrificial mother.
+
+131
+00:13:02,519 --> 00:13:10,760
+That is, it's not completely, so to speak, in the dark with respect to that, but it's also not making it explicit.
+
+132
+00:13:11,399 --> 00:13:12,360
+That's important.
+
+133
+00:13:13,080 --> 00:13:33,480
+It sounds like I might be making more of a fuss about it than I need to, but Heidegger's trying, and I've got to say this over and over, as I read him, and every time I read him and teach him, I get more and more amazed and impressed and convinced, to understand people behaving at the absolutely rock-bottom way they behave.
+
+134
+00:13:34,439 --> 00:13:37,640
+They can do complicated things like think about theories.
+
+135
+00:13:37,640 --> 00:13:41,240
+They can do complicated things like think about what it is to be a human being.
+
+136
+00:13:41,240 --> 00:13:46,440
+They can do less complicated things like thinking about the doorknob as they go out the door.
+
+137
+00:13:46,439 --> 00:14:05,240
+But Heidegger wants to talk about what we do when we cope with things, that is deal with things in our translations talk, the most round, unreflective, unthinking, totally absorbed, totally involved level.
+
+138
+00:14:06,000 --> 00:14:23,040
+And that's how he's going to overthrow 2,000 years of philosophy, because he's going to get, so to speak, to something more pervasive and beneath and the condition for being able to do whatever it is any philosopher before him has ever thought about.
+
+139
+00:14:23,039 --> 00:14:34,480
+And it turns out, when you describe this, what I would call absorbed coping, and he called this absorbed, unfortunately, he uses the word falling.
+
+140
+00:14:34,880 --> 00:14:37,360
+You'll hear him talking and talking about Dasein falling.
+
+141
+00:14:37,360 --> 00:14:42,080
+When you do, you don't want to think of sort of religious things about the fall.
+
+142
+00:14:42,080 --> 00:14:54,320
+You don't even want to think of sort of secular things about, say, diversion and then turning away from trying to live a life that manifests what it is to be human.
+
+143
+00:14:54,880 --> 00:15:16,079
+Falling is being absorbed in, and sometimes he talks that way, so that, mama, to help you, I mean, if you there is an English use of the word falling, which is not very common, but if you say somebody, they fell to work, meaning they just dug in and got involved in whatever they were working on.
+
+144
+00:15:16,080 --> 00:15:21,760
+They weren't thinking about it, they weren't planning, they were absorbed in their work.
+
+145
+00:15:21,760 --> 00:15:26,880
+That's this rock bottom way of being that Heidegger's interested in.
+
+146
+00:15:26,880 --> 00:15:34,320
+And that's why I don't want him to talk about making it the the question of your being explicit, because that's not ground level.
+
+147
+00:15:34,559 --> 00:15:42,720
+That's not this finalist way, the basicest way that we are involved with things and with ourselves.
+
+148
+00:15:42,720 --> 00:15:43,199
+Yeah.
+
+149
+00:15:55,319 --> 00:15:56,519
+Well, that's good.
+
+150
+00:15:56,519 --> 00:15:57,720
+That's what I like.
+
+151
+00:15:57,720 --> 00:16:00,199
+That's why I turned explicit into manifest.
+
+152
+00:16:00,199 --> 00:16:01,479
+You've got to manifest it.
+
+153
+00:16:01,480 --> 00:16:05,719
+You can't just sort of sit around and imagine you're going out the door.
+
+154
+00:16:05,720 --> 00:16:10,519
+You've got to really do it or to take another to the other opposite extreme.
+
+155
+00:16:11,000 --> 00:16:17,800
+If my ultimate stand on my being is to be a professor, well, that's something you've got to do.
+
+156
+00:16:18,279 --> 00:16:26,679
+I can't sit at home and read books all the time and then say I'm a professor or only come occasionally to lecture or whatever or talk so quietly nobody can hear me.
+
+157
+00:16:27,319 --> 00:16:32,440
+And there's all sorts of things you do when you're a professor to manifest it.
+
+158
+00:16:32,919 --> 00:16:43,640
+But I think it was my sort of identity to be a professor long before I ever asked myself sort of what am I here for and what's my vocation and calling and so forth.
+
+159
+00:16:43,640 --> 00:16:48,440
+And I was the important thing, I was doing it, manifesting it.
+
+160
+00:16:48,439 --> 00:16:51,320
+And that's this more rock-bottom level.
+
+161
+00:16:51,319 --> 00:16:55,720
+I didn't have to ask myself, what equipment do you use to be a professor and how do you use it?
+
+162
+00:16:55,719 --> 00:16:58,759
+It's all just, I just grew up in it.
+
+163
+00:16:59,080 --> 00:16:59,799
+Another hand.
+
+164
+00:16:59,880 --> 00:17:01,159
+Did you have a hand up?
+
+165
+00:17:02,759 --> 00:17:03,320
+Uh-oh.
+
+166
+00:17:03,640 --> 00:17:05,800
+It's always bad to look ahead.
+
+167
+00:17:05,800 --> 00:17:08,120
+Let's see what happens there.
+
+168
+00:17:08,120 --> 00:17:10,919
+Oh, about being ontological and preontological.
+
+169
+00:17:10,919 --> 00:17:12,360
+I was going to get to that.
+
+170
+00:17:18,120 --> 00:17:19,079
+Whoa.
+
+171
+00:17:19,080 --> 00:17:20,679
+That's even worse, isn't it?
+
+172
+00:17:20,679 --> 00:17:22,360
+That's disaster.
+
+173
+00:17:23,239 --> 00:17:23,960
+Well, let's read it.
+
+174
+00:17:23,959 --> 00:17:34,280
+Let's read it because the issue is whether we are really ontological or what Heidegger calls preontological.
+
+175
+00:17:34,280 --> 00:17:39,440
+And that's just a terminological distinction, but it's very important.
+
+176
+00:17:39,759 --> 00:17:45,360
+Ontology is the explicit understanding of being.
+
+177
+00:17:45,360 --> 00:17:51,519
+It's an ology, like genealogy or geology or whatever.
+
+178
+00:17:51,520 --> 00:17:52,560
+It's a logos.
+
+179
+00:17:52,560 --> 00:18:05,679
+It's a story of explicit theoretical, I'm not sure theoretical is quite right, an explicit story about existence in this case, would be to be ontological.
+
+180
+00:18:05,999 --> 00:18:08,800
+And Heidegger is doing ontology.
+
+181
+00:18:08,800 --> 00:18:11,039
+Being in time is ontology.
+
+182
+00:18:11,040 --> 00:18:13,040
+But most people don't do ontology.
+
+183
+00:18:13,040 --> 00:18:16,319
+And now, so he needs another word for all that we've just been talking about.
+
+184
+00:18:16,800 --> 00:18:24,559
+Having somehow a stand on your being, an issue, or being related to yourself, and having some sense of that and manifesting that.
+
+185
+00:18:24,560 --> 00:18:27,039
+What are you going to call that if not ontological?
+
+186
+00:18:27,040 --> 00:18:37,840
+Well, he just calls it pre-ontological, meaning that's the sort of stuff out of which you could form a theory of or a discipline, I guess.
+
+187
+00:18:37,840 --> 00:18:42,479
+A theory is too bad because it sounds like you to sort of stand back from it all.
+
+188
+00:18:42,479 --> 00:18:50,640
+And it's very important in Heidegger, it's hard to say everything at once, that you can't sort of stand back from what it is to be a human being, concerned about your own being.
+
+189
+00:18:51,280 --> 00:18:52,559
+Theory of that.
+
+190
+00:18:54,239 --> 00:18:56,959
+But you can have a discipline of that.
+
+191
+00:18:56,959 --> 00:19:05,439
+And he talks about one phrase which he later, I think, regretted and which people constantly beat him over the head with, but I think he meant it when he said it.
+
+192
+00:19:05,439 --> 00:19:11,520
+He says later on in the book, I couldn't turn to it, that being in time is a Wissenschaft von Sein.
+
+193
+00:19:11,520 --> 00:19:25,159
+It's a discipline of about being, where Wissenschaft gets usually translated because there's no other way to translate it as science of, but that's not exactly right, because history is a Wissenschaft.
+
+194
+00:19:20,320 --> 00:19:26,199
+It means a discipline.
+
+195
+00:19:26,520 --> 00:19:32,600
+So do ontology is to make it the discipline to think about being.
+
+196
+00:19:32,600 --> 00:19:35,159
+But we don't do that, except in this course.
+
+197
+00:19:35,159 --> 00:19:37,319
+But people don't normally do that.
+
+198
+00:19:37,320 --> 00:19:41,159
+And so, but they've got all the material, so to speak, to do it.
+
+199
+00:19:41,159 --> 00:19:42,919
+So they're pre-ontological.
+
+200
+00:19:42,919 --> 00:19:45,959
+Is that going to help with that paragraph, or am I still in trouble?
+
+201
+00:19:45,959 --> 00:19:46,759
+Let me read it now.
+
+202
+00:19:46,919 --> 00:19:50,039
+I'll read the paragraph because maybe it'll help me.
+
+203
+00:19:50,040 --> 00:19:54,519
+Here, being ontological is not tantamount to developing an ontology.
+
+204
+00:19:54,520 --> 00:20:00,679
+So if we reserve the term ontology for that theoretical inquiry, gee, I was trying to save him from that.
+
+205
+00:20:01,479 --> 00:20:06,360
+German readers again, I can't believe that must be Wissenschaft.
+
+206
+00:20:06,679 --> 00:20:07,319
+No?
+
+207
+00:20:07,320 --> 00:20:08,600
+What is it?
+
+208
+00:20:09,239 --> 00:20:09,719
+What?
+
+209
+00:20:10,199 --> 00:20:11,479
+The RTRetish.
+
+210
+00:20:11,560 --> 00:20:13,880
+Oh, goodness, poor Heidegger.
+
+211
+00:20:13,880 --> 00:20:15,479
+I don't know what to make of all this.
+
+212
+00:20:16,040 --> 00:20:21,399
+I mean, again, you can read theoretical so that it just means a discipline.
+
+213
+00:20:21,399 --> 00:20:36,199
+He certainly doesn't think it's a theory in the technical sense of theory that he develops later, where to have a theory is to deworld, is to step outside of our situation and study things from nowhere.
+
+214
+00:20:36,439 --> 00:20:40,120
+There's this famous line from Nagel that science is the view from nowhere.
+
+215
+00:20:40,120 --> 00:20:41,480
+Heidegger thinks that too.
+
+216
+00:20:41,479 --> 00:20:42,840
+He just doesn't say it.
+
+217
+00:20:43,239 --> 00:20:45,560
+And certainly he thinks that's a good idea.
+
+218
+00:20:45,560 --> 00:20:46,919
+He's not criticizing it.
+
+219
+00:20:46,919 --> 00:20:47,720
+He likes science.
+
+220
+00:20:47,719 --> 00:20:50,919
+I'll argue that later, because some people think he doesn't.
+
+221
+00:20:50,919 --> 00:20:56,439
+But, I mean, his his major when he was an undergraduate was uh physics and math.
+
+222
+00:20:56,320 --> 00:21:08,559
+Uh so uh so he's not against theory, and he's not against stepping outside the world and the whole human situation and contemplating, say, uh galaxies and electrons and so forth.
+
+223
+00:21:08,560 --> 00:21:12,559
+So but he certainly doesn't think you can do ontology from there.
+
+224
+00:21:12,560 --> 00:21:16,319
+You can only do ontology from within the human condition.
+
+225
+00:21:16,320 --> 00:21:19,600
+You're always already in it, you talk like Heidegger.
+
+226
+00:21:19,600 --> 00:21:24,719
+You are, to even more jer jargon you have to get used to later, in the hermeneutic circle.
+
+227
+00:21:24,719 --> 00:21:27,360
+That is, in the circle of interpretation.
+
+228
+00:21:27,360 --> 00:21:44,239
+You're already interpreted, and everything you're dealing with is already interpreted by you, even more by the culture you grew up in, and you can only do anything or think anything from inside there that has to do with human beings.
+
+229
+00:21:44,239 --> 00:21:46,720
+So I don't understand that.
+
+230
+00:21:46,719 --> 00:21:53,439
+Maybe there's, you know, when things start piling up that you don't understand, it may be that you've got the wrong paradigm.
+
+231
+00:21:53,439 --> 00:22:01,360
+So I have to be open to the fact that it doesn't usually happen twice in one lecture that he says something that I think he shouldn't say.
+
+232
+00:22:01,360 --> 00:22:01,999
+Yeah.
+
+233
+00:22:04,880 --> 00:22:05,760
+Oh, I see.
+
+234
+00:22:06,080 --> 00:22:06,799
+Does he?
+
+235
+00:22:06,800 --> 00:22:07,519
+Let's hope.
+
+236
+00:22:07,759 --> 00:22:07,919
+Good.
+
+237
+00:22:08,159 --> 00:22:18,080
+Reserving our fourth, the theoretical inquiry devoted to the if we reserve ontology for that, then we will, then we're pre-ontological.
+
+238
+00:22:18,080 --> 00:22:31,360
+But the trouble is, what's ontology going to mean, except the theoretical, I mean now the fundamental ontology is not going to be theoretical.
+
+239
+00:22:31,360 --> 00:22:32,640
+Okay, let's read it that way.
+
+240
+00:22:32,640 --> 00:22:33,040
+Good.
+
+241
+00:22:33,439 --> 00:22:35,040
+David will get me out of this.
+
+242
+00:22:35,040 --> 00:22:38,640
+So you could try to do theoretical ontology.
+
+243
+00:22:38,640 --> 00:22:41,439
+Philosophers have been doing it all for 2,000 years.
+
+244
+00:22:41,439 --> 00:22:51,479
+That is, step outside the human condition, like Plato's person who finally climbs out of the cave and looks at the ideas head-on from nowhere.
+
+245
+00:22:52,199 --> 00:22:53,159
+You can do it.
+
+246
+00:22:53,159 --> 00:22:55,159
+I mean, at least you can claim to do it.
+
+247
+00:22:55,159 --> 00:22:58,519
+I don't think Heidegger thinks anybody really succeeds in it.
+
+248
+00:22:58,520 --> 00:23:08,600
+But that kind of ontology, you could call it theoretical ontology, and that's certainly not how he's using the term.
+
+249
+00:23:08,600 --> 00:23:10,360
+But then, how is he using the term?
+
+250
+00:23:10,360 --> 00:23:11,960
+What is fundamental ontology?
+
+251
+00:23:12,360 --> 00:23:16,360
+We still don't know what ontology means.
+
+252
+00:23:17,640 --> 00:23:19,479
+Okay, well, okay, that's right.
+
+253
+00:23:19,479 --> 00:23:21,319
+So let's do it that way.
+
+254
+00:23:21,719 --> 00:23:23,239
+So you don't get confused.
+
+255
+00:23:23,479 --> 00:23:34,039
+So if you thought ontology was what philosophers traditionally thought ontology was, then you'd have to call, you couldn't call Dasein being ontological.
+
+256
+00:23:34,040 --> 00:23:37,319
+You'd have to call Dasein being pre-ontological.
+
+257
+00:23:37,320 --> 00:23:54,759
+And now you have to, it's still pretty murky, because now you have to switch over and say, well, pre-ontological, but not because it could ever turn out to be a theoretical discipline, but pre-another kind of ontological, that's what David is saying, namely what I'm going to do right now, explain fundamental ontology.
+
+258
+00:23:55,239 --> 00:23:57,480
+That's what you are supposed to be doing.
+
+259
+00:23:57,479 --> 00:23:59,159
+But we have to get there.
+
+260
+00:23:59,479 --> 00:24:01,239
+It's a little while yet.
+
+261
+00:24:02,520 --> 00:24:05,159
+So existence is our way of being.
+
+262
+00:24:05,159 --> 00:24:07,239
+I'm still talking about that.
+
+263
+00:24:07,239 --> 00:24:14,600
+And we did, we talked about, well, no, I never read the passage that said it, so I'm going to read that right now.
+
+264
+00:24:14,600 --> 00:24:20,759
+So Dasein's essence, you'll read later, essence is existence.
+
+265
+00:24:20,759 --> 00:24:21,800
+So I can say it now.
+
+266
+00:24:21,800 --> 00:24:26,919
+Dasein's essence is to be the being that takes this, makes an issue of its being.
+
+267
+00:24:26,919 --> 00:24:30,360
+And when it does that, what is its way of being?
+
+268
+00:24:30,520 --> 00:24:32,759
+Its way of being is what Heidegger is going to call existence.
+
+269
+00:24:32,759 --> 00:24:34,679
+So there we are back at that again.
+
+270
+00:24:34,679 --> 00:24:36,640
+That's at the bottom of 32.
+
+271
+00:24:36,640 --> 00:24:39,439
+We're still in page 12.
+
+272
+00:24:39,439 --> 00:24:48,479
+That kind of being toward which Dasein can comport itself in one way or another, and always does comport itself somehow, we call existence.
+
+273
+00:24:48,479 --> 00:24:56,560
+That's the, again, weird way to put it, but that's the kind of being, of beings that take a stand on their own being.
+
+274
+00:24:56,880 --> 00:24:59,999
+And now we're going to call that existence.
+
+275
+00:24:59,999 --> 00:25:08,159
+And then when you do that, now we have to skip to go back to 67.
+
+276
+00:25:08,159 --> 00:25:11,999
+Heidegger does, strangely enough, the same thing twice.
+
+277
+00:25:11,999 --> 00:25:23,919
+And you may have noticed if you've done the reading, which I hope you have, that I picked out from the introductions, which I don't want to talk about to the end, the kind of things that he talks about in the beginning after the introduction.
+
+278
+00:25:23,919 --> 00:25:30,479
+Because on 67, he goes back to this story about existence, but he adds something which I want to talk about.
+
+279
+00:25:30,479 --> 00:25:36,479
+So we're on page 42 now of the German.
+
+280
+00:25:45,679 --> 00:25:49,360
+Well, he's got to sort out existence the way he is using it.
+
+281
+00:25:49,360 --> 00:25:50,799
+That's what I want to do here.
+
+282
+00:25:50,800 --> 00:25:55,760
+From the way it's been used in the tradition and in common language forever.
+
+283
+00:25:55,759 --> 00:26:00,239
+I mean, usually it makes sense to say God exists if you believe God exists or he doesn't.
+
+284
+00:26:00,239 --> 00:26:08,079
+Or trees and trees exist and numbers exist or maybe subsist, but let's say exist for this discussion.
+
+285
+00:26:08,080 --> 00:26:14,719
+Anyway, but he's using existence in this very peculiar way that only human beings exist.
+
+286
+00:26:14,719 --> 00:26:16,159
+That's what he's telling you about.
+
+287
+00:26:16,159 --> 00:26:22,439
+So if you have to say, in his use of existence, God doesn't exist, and trees don't exist, and animals don't, that's okay.
+
+288
+00:26:20,320 --> 00:26:24,520
+Stones don't, Dasein does.
+
+289
+00:26:24,679 --> 00:26:29,640
+So he's saying that in the about 10 lines down on 67.
+
+290
+00:26:29,959 --> 00:26:33,880
+We choose to designate the being of this entity as existence.
+
+291
+00:26:33,880 --> 00:26:43,479
+This term does not and cannot have the ontological, and that's traditional old-fashioned ontological signification of the traditional term existentia.
+
+292
+00:26:43,959 --> 00:26:55,880
+Ontologically, existentia is tantamount to a being that in the tradition, as present at hand, a kind of being which is essentially inappropriate to the entities of Dasein's character.
+
+293
+00:26:55,880 --> 00:26:57,239
+That's fine.
+
+294
+00:26:57,239 --> 00:27:02,199
+And then he adds this new thing at the next paragraph: the essence of Dasein lies in its existence.
+
+295
+00:27:02,199 --> 00:27:03,640
+That's a big deal.
+
+296
+00:27:03,640 --> 00:27:05,719
+Sartre sort of takes off from there.
+
+297
+00:27:05,719 --> 00:27:06,840
+You want to say something?
+
+298
+00:27:12,360 --> 00:27:13,399
+How do we know about that?
+
+299
+00:27:16,040 --> 00:27:17,640
+How do we know what, talk about?
+
+300
+00:27:20,439 --> 00:27:22,200
+Oh, well, we don't.
+
+301
+00:27:22,199 --> 00:27:24,199
+I mean, that's the same thing about animals.
+
+302
+00:27:24,199 --> 00:27:28,600
+I mean, maybe it's further fetched even than dolphins that maybe refrigerators have it.
+
+303
+00:27:28,600 --> 00:27:29,959
+I mean, he doesn't care.
+
+304
+00:27:29,959 --> 00:27:32,679
+I mean, it's not an epistemological question.
+
+305
+00:27:33,000 --> 00:27:35,320
+It's a question, it's an ontological question.
+
+306
+00:27:35,320 --> 00:27:46,279
+He's trying to define what Dasein is, and he takes it for granted that he's going to say things about it that you'll recognize that you are one.
+
+307
+00:27:46,280 --> 00:27:56,600
+But if it turns out that there are weird gaseous Martians or something who are also Daseins, and I don't know, maybe even refrigerators, then Heidegger doesn't care.
+
+308
+00:27:58,040 --> 00:28:01,479
+And he doesn't ask how we would know.
+
+309
+00:28:03,000 --> 00:28:13,279
+He's just telling you how he's going to he's going to he's telling you that he's going to use this term to explain, no, sorry, to better, to refer to a way of being.
+
+310
+00:28:13,280 --> 00:28:18,079
+And of course, he's not ready to tell you the whole story about that way of being.
+
+311
+00:28:18,399 --> 00:28:34,080
+The whole story of that way of being is all of division one of being in time, because if that's what existence is, then if you did a story of the structure of existence, then that would be what he calls an existential analytic back on 33.
+
+312
+00:28:34,800 --> 00:28:35,919
+Oh, no, sorry.
+
+313
+00:28:35,919 --> 00:28:37,840
+I don't go back there yet.
+
+314
+00:28:37,840 --> 00:28:41,279
+I was talking about the essence of Dasein being its existence.
+
+315
+00:28:41,759 --> 00:28:50,719
+And I said, that's an amazingly interesting, strong claim that Sartre makes a big deal out of.
+
+316
+00:28:50,719 --> 00:28:57,759
+And Heidegger claims later he regrets having said it, at least the way Heidegger misunderstood it.
+
+317
+00:28:57,759 --> 00:29:20,399
+But what it certainly means in Heidegger and in Sartre, I think, and I don't think there's such a big misunderstanding over that, is that Dasein has no other defining characteristics except that in its activity it expresses a certain way of taking over itself.
+
+318
+00:29:20,959 --> 00:29:30,559
+And what I'm trying to say is, I gotta give you some other suppose if you're a Freudian and think that people are libido-maximizing machines or something like that.
+
+319
+00:29:30,560 --> 00:29:32,800
+If it's a caricature of Freud, don't worry about it.
+
+320
+00:29:32,800 --> 00:29:34,880
+I'm uh just trying to give you examples.
+
+321
+00:29:34,880 --> 00:29:43,719
+If you're uh a natural law philosopher and think that the that uh to be a human being you have a certain uh natural character.
+
+322
+00:29:43,719 --> 00:29:50,919
+And maybe uh or if you're a kind of Kantian, you think that that our essence is to be rational.
+
+323
+00:29:49,040 --> 00:29:54,120
+If you're an Aristotelian, you think to be a rational animal.
+
+324
+00:29:54,360 --> 00:29:58,840
+I mean, there are all kinds of claims about what the essence of the human being is.
+
+325
+00:29:58,840 --> 00:30:22,439
+And each of them lead, and if you, another one is to be you're a creature of God, each of those you can see leads to an immensely different way of life, whether you are a rational animal or a creature of God or a libido machine or something else that the sociobiologists think we are, some kind of just mostly animals enacting whatever the genetic code for this kind of animal is.
+
+326
+00:30:22,439 --> 00:30:27,959
+So, but he's making this claim, none of that captures what it is to be a human being.
+
+327
+00:30:27,959 --> 00:30:30,439
+And then you want to say, well, what does?
+
+328
+00:30:30,759 --> 00:30:51,399
+Well, what does is that there is an interpretation of what it is to be human in the culture, and you get socialized into it, and you may, and then you do believe, or can, probably do, that you do have a nature.
+
+329
+00:30:51,399 --> 00:30:56,360
+And if you get socialized into a Christian culture, you have the nature of being a creature of gods.
+
+330
+00:30:56,360 --> 00:31:08,840
+And if you get socialized into a Kantian culture, if there is such a thing, you would think that you were, I mean, in the Berkeley Philosophy Department, there is, you would think that you were a rational being, and so forth.
+
+331
+00:31:09,399 --> 00:31:31,479
+So, but the fact is, we have all those different views of what our nature is, which leads to the conclusion that our nature, our essence, let's get back to this kind of talk, is simply to be the kind of being that through their activity gives themselves a nature.
+
+332
+00:31:32,640 --> 00:31:35,319
+The of that the best per statement of it is Pascal.
+
+333
+00:31:35,600 --> 00:31:43,519
+Behind all of the existentialists are is this super genius Pascal who started figuring it out in the 1600s.
+
+334
+00:31:43,759 --> 00:31:48,719
+Pascal at one point in in the Pensées says custom is our nature.
+
+335
+00:31:48,719 --> 00:31:53,360
+That's what I've just been saying in a long, windy way in one sentence.
+
+336
+00:31:53,360 --> 00:32:03,919
+That is, whatever the culture tells us we are, we get socialized into it and take that to be our nature and take our behavior to follow from that.
+
+337
+00:32:03,919 --> 00:32:15,439
+But once you see that, then you see that there isn't any right answer to what our nature is, just that we're capable of having lots of understandings of our nature.
+
+338
+00:32:15,439 --> 00:32:17,120
+And that's it.
+
+339
+00:32:17,120 --> 00:32:19,280
+That's what Heidegger thinks with that phrase.
+
+340
+00:32:19,280 --> 00:32:19,919
+Yeah.
+
+341
+00:32:23,759 --> 00:32:24,479
+Yes.
+
+342
+00:32:24,800 --> 00:32:26,239
+Yes, exactly.
+
+343
+00:32:26,239 --> 00:32:27,679
+That's exactly what it is.
+
+344
+00:32:27,679 --> 00:32:32,159
+To say that custom is our nature is to say we have no nature, which is to say what?
+
+345
+00:32:32,159 --> 00:32:34,399
+That existence is our essence.
+
+346
+00:32:34,880 --> 00:32:37,840
+I'm trying to explain that sense.
+
+347
+00:32:38,640 --> 00:32:39,759
+Oh, yeah.
+
+348
+00:32:45,360 --> 00:32:46,320
+Interesting point.
+
+349
+00:32:46,320 --> 00:32:52,479
+No, I think I used to worry about that, whether when I'm brushing my teeth, I'm manifesting my understanding of being.
+
+350
+00:32:52,800 --> 00:32:58,159
+I'm not, I've never been able to be sure whether I am or not.
+
+351
+00:32:58,800 --> 00:33:01,840
+I'll give you the equipment, so to speak, for thinking about it.
+
+352
+00:33:01,840 --> 00:33:06,559
+I was going to talk about it briefly somewhere here, and probably, so why not now?
+
+353
+00:33:08,159 --> 00:33:09,039
+I have a lot.
+
+354
+00:33:09,120 --> 00:33:12,000
+How many of you are looking at my commentary and sort of reading along?
+
+355
+00:33:11,999 --> 00:33:15,600
+I just, well, okay, well, not very many, which is just as well.
+
+356
+00:33:16,159 --> 00:33:26,919
+But every once in a while, I get things sort of so interestingly right and so interestingly wrong at the same time that I can't help pointing this out, and I will have to fix it in the next edition.
+
+357
+00:33:27,239 --> 00:33:41,159
+I got a whole interesting story, which when I was thinking about whether we had a nature or not and how Heidegger thinks about it, I read a sociologist's account of the difference between Japanese and American babies.
+
+358
+00:33:41,159 --> 00:33:46,360
+And you don't have to, this is philosophy, so you don't have to worry about whether it's true or not.
+
+359
+00:33:48,439 --> 00:33:51,719
+Whether they've got it right, it's a kind of thought experiment.
+
+360
+00:33:51,719 --> 00:34:16,520
+But anyway, in their thinking, they say, well, Japanese mothers put their babies in the cradle and sing to them and sort of lull them and rock them and make them want to be contented, whereas American mothers put their babies down in such a way that they crawl around and they sort of talk to them in such a way as to kind of keep their attention and get them all focused.
+
+361
+00:34:16,520 --> 00:34:18,120
+And I thought that was interesting.
+
+362
+00:34:18,120 --> 00:34:22,120
+And I had a TA at that point who was married to a Japanese woman.
+
+363
+00:34:22,120 --> 00:34:23,799
+And he said, that's right.
+
+364
+00:34:23,799 --> 00:34:24,839
+I never thought of that.
+
+365
+00:34:25,400 --> 00:34:31,800
+When my wife puts the baby in the cradle, she always puts the baby back in its crib or wherever on its back.
+
+366
+00:34:31,799 --> 00:34:40,599
+Whereas often you find the American mother, so he claimed, put the baby on the wall, you know, walking around or crawling around.
+
+367
+00:34:40,839 --> 00:34:44,120
+The important point I'm trying to make of all this is two things.
+
+368
+00:34:44,120 --> 00:35:01,879
+One, it's right to give this example, because I want you to realize that understanding your nature or having an understanding of your way of being doesn't require thinking about, doesn't require having any intellectual content.
+
+369
+00:35:01,879 --> 00:35:03,319
+We're back at the ground level again.
+
+370
+00:35:03,319 --> 00:35:30,960
+At the ground level of babies, the moral of the paper by the sociologist was that by the time the baby is a few weeks old, it's already either in a kind of holistic, nurturing way of life, which is supposed with a Japanese way, or it's already beginning to relate to itself in the world as a kind of isolated, energetic individual out to satisfy its desires.
+
+371
+00:35:30,960 --> 00:35:38,480
+And the conclusion of the article is: by a few weeks of age, the baby is a Japanese or American baby.
+
+372
+00:35:38,480 --> 00:35:50,080
+And all I want you to think is, well, it's certainly not by virtue of its beliefs that it is, or it has nothing, or it doesn't think that it is, it doesn't think anything.
+
+373
+00:35:50,080 --> 00:35:52,479
+It's got no language, and it's just a little baby.
+
+374
+00:35:52,480 --> 00:36:03,040
+But it's got a certain style of practices that, let's say roughly, a nurturing style of being, and we've got a kind of aggressive style of being.
+
+375
+00:36:03,040 --> 00:36:08,719
+I've heard a proverb, I don't know if you all know this, maybe it's common, I just came across it lately.
+
+376
+00:36:08,719 --> 00:36:19,519
+You get to sum this up about Japanese babies, that this leads to a culture in which you could have a slogan like ours that the squeaky wheel gets the oil.
+
+377
+00:36:19,839 --> 00:36:22,719
+And what would be the Japanese equivalent of a proverb like that?
+
+378
+00:36:22,719 --> 00:36:24,080
+Do you know that?
+
+379
+00:36:24,080 --> 00:36:27,040
+The nail that sticks out gets pounded down.
+
+380
+00:36:27,679 --> 00:36:32,640
+So those would be very different views of being, of whatever, well, of the style.
+
+381
+00:36:32,640 --> 00:36:36,400
+I want to say being for the most general thing.
+
+382
+00:36:37,759 --> 00:36:59,799
+So I want to say the mistake in my commentary is this mistake I just blurted out, that I was trying to find out what Heidegger meant by being, and I was looking at the Japanese baby as an example of what Heidegger meant by being, and I don't think that's right, because being has got to cover, remember, presence of hand, readiness to hand, and Dasein.
+
+383
+00:36:59,799 --> 00:37:10,120
+And what I was describing is something more specific, a certain style, a certain understanding of what it is to be Dasein that's different in different cultures.
+
+384
+00:37:10,120 --> 00:37:20,840
+It just isn't that they, according to early Heidegger, this Heidegger, everybody but those primitives, whoever they are, has the same understanding of being.
+
+385
+00:37:20,839 --> 00:37:25,159
+It was confusing to get the Japanese off having one and us having another.
+
+386
+00:37:25,159 --> 00:37:34,679
+But that Heidegger isn't denying that before we even think, we've already got a certain style of existing.
+
+387
+00:37:34,679 --> 00:37:35,159
+Yeah.
+
+388
+00:37:38,920 --> 00:37:41,719
+Well, you're bunny.
+
+389
+00:37:42,279 --> 00:37:54,199
+Bottom of the question, when you were talking about the preontological, with self-interpreting danger of what it means to be human then, does happen in the preontological or unrequited way?
+
+390
+00:37:54,520 --> 00:37:55,319
+Yes, yes.
+
+391
+00:37:55,319 --> 00:37:57,640
+We're mostly preontological all the time.
+
+392
+00:37:57,960 --> 00:38:01,319
+Your question is great because that gives me a punchline I didn't know I had.
+
+393
+00:38:01,319 --> 00:38:05,479
+The baby already has a preontological understanding of being.
+
+394
+00:38:05,799 --> 00:38:13,560
+Not its understanding that nurturing versus aggressive, but the baby's already going to begin to understand the rattle.
+
+395
+00:38:13,799 --> 00:38:27,640
+Maybe the American baby is what you throw to get your parents to go and have to pick it up and bring it, and maybe the Japanese baby like a uh Mexican rain stick where you can rat rattle the rattle 'cause it makes nice rainy noises and helps you go to sleep.
+
+396
+00:38:27,640 --> 00:38:31,080
+I mean, they've already beginning to get an understanding of equipment.
+
+397
+00:38:31,080 --> 00:38:40,239
+I presume maybe they when they lie and look at the thing over their head, if they've got one of those they already are beginning to see entity objects with properties and so forth.
+
+398
+00:38:40,960 --> 00:38:59,040
+So that you you I think preontological is what every Dasein is as soon as it's got any kind of stand any well Yeah, as soon as it starts to relate to something or others, substances and equipment and itself.
+
+399
+00:38:59,040 --> 00:39:05,600
+When it's starting to relate to itself, that third kind, that's what I'm calling the style of its existence, it's got that too.
+
+400
+00:39:05,600 --> 00:39:08,640
+And that's part of what's preontological.
+
+401
+00:39:08,640 --> 00:39:10,640
+Well, no, it's got that too.
+
+402
+00:39:10,640 --> 00:39:12,560
+We don't want to I'm learning something.
+
+403
+00:39:13,040 --> 00:39:24,080
+I mean, I'm not right here learning it, but over the last, I don't know, year or so, I've got to keep reminding myself that ontology has only to do with the being.
+
+404
+00:39:24,480 --> 00:39:27,679
+It's the most general level.
+
+405
+00:39:28,080 --> 00:39:30,240
+I'll have to specify that more in a minute.
+
+406
+00:39:30,239 --> 00:39:37,199
+And so I don't, I keep wanting to not lapse into saying that the style of things is different.
+
+407
+00:39:37,359 --> 00:39:39,360
+A little footnote on that, real quick.
+
+408
+00:39:39,359 --> 00:39:43,679
+I mean, it's not that what I'm saying is really wrong about Heidegger.
+
+409
+00:39:43,679 --> 00:39:45,679
+It's wrong about early Heidegger.
+
+410
+00:39:45,679 --> 00:39:57,440
+The big move from early Heidegger to late Heidegger, which takes place about five years after being in time, is he decides that there are different understandings of being in various cultures.
+
+411
+00:39:57,440 --> 00:40:00,080
+And lots of cultures don't even have an understanding of being.
+
+412
+00:40:00,080 --> 00:40:03,199
+I'm sure he would say that, probably would say that of the Japanese.
+
+413
+00:40:04,080 --> 00:40:10,719
+To have an understanding of being is a very unique thing where all the practices have the same style.
+
+414
+00:40:10,719 --> 00:40:13,279
+Whereas in some culture, you can have a bunch of practice.
+
+415
+00:40:13,359 --> 00:40:16,159
+I'll give you the Bali example from Geertz.
+
+416
+00:40:16,239 --> 00:40:25,480
+I mean, the men have their style, and it's expressed in the cockfight in Bali, and the women have their style, and that's in the weaving rituals and so forth.
+
+417
+00:40:25,480 --> 00:40:28,040
+There may not be any one understanding of being.
+
+418
+00:40:28,040 --> 00:40:32,360
+And then Heidegger gets the idea that in our culture, we've got one understanding of being.
+
+419
+00:40:32,359 --> 00:40:35,400
+And then he gets the idea, no good grief, we've got three.
+
+420
+00:40:35,400 --> 00:40:43,239
+And then by the time he's done, he thinks there are seven different understandings of ethics of understanding of being in our culture.
+
+421
+00:40:43,239 --> 00:40:46,679
+But all that, and then it begins to look like styles, all right.
+
+422
+00:40:47,159 --> 00:40:53,079
+And but and I keep falling into that because I know teach and write later Heidegger too.
+
+423
+00:40:53,080 --> 00:40:56,279
+But focusing on being in time, let's just do it again.
+
+424
+00:40:56,279 --> 00:40:58,600
+There's only one understanding of being.
+
+425
+00:40:58,839 --> 00:41:08,440
+We haven't decided how to characterize it, but we know that it's got three aspects: readiness to hand, presence at hand, and existence.
+
+426
+00:41:09,000 --> 00:41:10,759
+Okay, I saw a hand.
+
+427
+00:41:10,759 --> 00:41:11,159
+Yeah.
+
+428
+00:41:12,120 --> 00:41:19,080
+Heidegger makes his own philosophy of, you know, if we didn't do this, what makes that?
+
+429
+00:41:21,000 --> 00:41:23,640
+Oh, that is a terrific truth.
+
+430
+00:41:26,839 --> 00:41:27,159
+Good.
+
+431
+00:41:27,400 --> 00:41:28,839
+You're a philosophy major, I bet.
+
+432
+00:41:29,960 --> 00:41:34,040
+That is a typical philosophy major question, and that is the right question.
+
+433
+00:41:34,040 --> 00:41:36,439
+And Heidegger really worries about it.
+
+434
+00:41:36,440 --> 00:41:38,359
+And I don't know where I was going to fit it in.
+
+435
+00:41:38,359 --> 00:41:48,120
+In fact, I finally left it out of my lecture because I thought, oh, this is so sort of a special philosophical worry that I shouldn't worry at this basic state.
+
+436
+00:41:48,120 --> 00:41:48,839
+But he does.
+
+437
+00:41:48,839 --> 00:41:50,840
+So I'm going to tell you about it right now.
+
+438
+00:41:50,839 --> 00:42:05,640
+Heidegger, in the lectures in the 1920s, when he was running up to finally doing Being in Time, published in 1927, he was very concerned with something he called formal indication.
+
+439
+00:42:07,199 --> 00:42:15,759
+Formal indication, formale Anzeige, which is the German, and I tell you that only because the German gets translated all sorts of different ways.
+
+440
+00:42:15,759 --> 00:42:22,720
+These guys don't understand that it's an important concept for Heidegger, and you have to translate it the same every time.
+
+441
+00:42:22,719 --> 00:42:24,880
+And what is formal indication?
+
+442
+00:42:24,879 --> 00:42:29,760
+Well, it's the, so to speak, methodological response to what you say.
+
+443
+00:42:29,759 --> 00:42:44,480
+It's the claim that you've got to start somewhere with a claim that this is the essence of such and such, but you want to make it provisional so that further investigation can call it into question.
+
+444
+00:42:44,480 --> 00:42:51,679
+And only at the end of your investigation will you either discover you got it wrong or that you had the right to say that.
+
+445
+00:42:51,679 --> 00:42:54,080
+Now, let me read you places where that happens.
+
+446
+00:42:54,080 --> 00:43:09,520
+I'm very interested in formal indication because as far as I can see, nobody for a long time, maybe they've caught up now, understood what Heidegger meant by it except me, and I understood it because I also knew some analytic philosophy.
+
+447
+00:43:09,759 --> 00:43:17,360
+Heidegger was on to something that Kripke, how many come across Kripte and rigid designation?
+
+448
+00:43:17,679 --> 00:43:23,360
+Okay, well, Kripke is a very, very, very smart analytic logician.
+
+449
+00:43:23,359 --> 00:43:28,800
+And I'll tell you it in Kripty terms first, because then you can understand it when Heidegger does it.
+
+450
+00:43:29,199 --> 00:43:49,600
+Kripke says that we can designate something by some property, which could be its defining property, and we ought to treat it as its defining property provisionally and keep investigating it until we find out whether we really got its essential property.
+
+451
+00:43:49,600 --> 00:44:01,159
+And I take it, I don't remember he says this, but I take essential property to mean the property that explains all of its important characteristics or something.
+
+452
+00:44:01,159 --> 00:44:03,320
+So he gives us an example gold.
+
+453
+00:44:03,319 --> 00:44:11,080
+You can start by saying, I'm going to call that yellow stuff gold, and I'm going to investigate that yellow stuff and see what its essence is.
+
+454
+00:44:11,080 --> 00:44:22,360
+And then you discover when you start to investigate, well, one, there's stuff that looks like that, but it clearly isn't like that, fool's gold, and you discover there's other stuff that really is gold.
+
+455
+00:44:22,359 --> 00:44:27,640
+For instance, it doesn't dissolve in any solvent, but it's not gold, it's white, and so forth.
+
+456
+00:44:27,640 --> 00:44:37,879
+But you keep investigating, and finally, atomic theory comes along, and finally you discover that gold is the essence of gold is it has an atomic number, I think it is of 72, is that right?
+
+457
+00:44:37,879 --> 00:44:39,480
+Or weight, I think number.
+
+458
+00:44:39,480 --> 00:44:53,239
+And it turns out, if you have enough theory, that you can explain why it's yellow sometime and white sometime and why it doesn't dissolve in acids and what its malleability and conductivity and all that is, given its atomic structure.
+
+459
+00:44:53,239 --> 00:44:54,919
+So now you know its essence.
+
+460
+00:44:54,920 --> 00:45:05,000
+And you have what you tentatively designated as gold.
+
+461
+00:45:05,000 --> 00:45:12,839
+Now you can say, well, whatever has this property, namely atomic number 72, that, and that alone is gold.
+
+462
+00:45:12,839 --> 00:45:14,679
+Let me give you two other quick examples.
+
+463
+00:45:14,679 --> 00:45:19,080
+You start with a flash in the sky, and you say, we're going to call that lightning.
+
+464
+00:45:19,080 --> 00:45:29,079
+And then, after a much investigation and culture going along, science finally comes around and tells you it's essentially an electrical discharge, whether you see it or not.
+
+465
+00:45:29,080 --> 00:45:31,719
+I suppose lightning goes on in the daytime and we don't see it.
+
+466
+00:45:31,719 --> 00:45:32,279
+Is that right?
+
+467
+00:45:32,279 --> 00:45:34,440
+I've always wondered when I get to this point.
+
+468
+00:45:34,679 --> 00:45:35,839
+But let's suppose so.
+
+469
+00:45:35,839 --> 00:45:36,959
+And the final one is heat.
+
+470
+00:45:35,480 --> 00:45:40,559
+So heat's what feels hot to you, and heat is what makes things boil.
+
+471
+00:45:40,879 --> 00:45:43,360
+Finally, you designate it like that.
+
+472
+00:45:43,359 --> 00:45:50,560
+Finally, after a lot of investigation, you discover the essential thing about heat is that the molecules are bouncing around and bumping into things and each other.
+
+473
+00:45:50,560 --> 00:45:53,120
+So, and that's now what's Heidegger going to do?
+
+474
+00:45:53,120 --> 00:45:54,239
+And you're looking worried.
+
+475
+00:45:54,239 --> 00:45:57,840
+Have I already said, should I go on or should I?
+
+476
+00:45:58,480 --> 00:46:00,560
+I've got to hear what you're worried about.
+
+477
+00:46:04,080 --> 00:46:05,040
+Yes.
+
+478
+00:46:06,319 --> 00:46:06,640
+Yes.
+
+479
+00:46:06,640 --> 00:46:07,600
+Well, let's go to this.
+
+480
+00:46:07,839 --> 00:46:09,199
+You're absolutely right.
+
+481
+00:46:09,679 --> 00:46:12,079
+I'm glad I asked you because you're the next step.
+
+482
+00:46:12,080 --> 00:46:20,719
+Yeah, when Heidegger's talking about formal indication, he wants to talk about how to find the essence of Dasein.
+
+483
+00:46:20,719 --> 00:46:21,759
+That's what's worrying him.
+
+484
+00:46:21,759 --> 00:46:23,040
+That's his question.
+
+485
+00:46:23,040 --> 00:46:30,159
+How do I have the right to say that the essence of Dasein is its existence and not say that it's a creature of God or something?
+
+486
+00:46:30,159 --> 00:46:41,360
+And he does, what he does is, in effect, tell you that I'm going to provisionally say that's its essence, but I won't know until the end of the book whether it is.
+
+487
+00:46:41,359 --> 00:46:55,679
+And whether it is or not will depend on whether I can make a totally coherent understanding of everything that's important about human beings and how it all hangs together using that as my clue.
+
+488
+00:46:55,679 --> 00:47:12,960
+Now, but he's not, as you're saying, talking about natural kinds like electricity and gold and heat, but he's talking about some other thing, which are other something, which has its own essential structure, he thinks.
+
+489
+00:47:12,960 --> 00:47:15,839
+And he thinks that Dasein has an essential structure.
+
+490
+00:47:15,839 --> 00:47:18,479
+But now we have to find the places, the two places.
+
+491
+00:47:18,640 --> 00:47:23,959
+Now, since I decided not to talk about RISA designation, I know how to find the best one.
+
+492
+00:47:24,120 --> 00:47:32,919
+The very beginning of the second part of Division II, where he summarizes what he's done, it comes out clearly.
+
+493
+00:47:32,920 --> 00:47:34,999
+The translation sort of messes it up.
+
+494
+00:47:35,400 --> 00:47:50,199
+So here, if you get to page 231, which is, that's the German, if you get, that's 274, you see him making just the RISA designation or formal indication move.
+
+495
+00:47:50,199 --> 00:47:53,159
+See, he says about six lines down.
+
+496
+00:47:53,159 --> 00:48:03,720
+When we came to analyze this being, namely Dasein, we took as our clue existence, which in anticipation we designated as the essence of Dasein.
+
+497
+00:48:05,159 --> 00:48:10,199
+This term existence formally indicates that Dasein is an understanding.
+
+498
+00:48:10,199 --> 00:48:15,719
+Well, potentiality for being is very bad, but ability to be is better, but we won't worry about that right now.
+
+499
+00:48:15,719 --> 00:48:20,600
+There's an understanding ability to be, which in its being makes an issue of itself.
+
+500
+00:48:20,600 --> 00:48:24,199
+So what he's saying there is just what I said he was saying.
+
+501
+00:48:24,199 --> 00:48:33,800
+He's going to take and give some description of what its essence is, that he understands, even here when he's summarizing all of Division I, it's still provisional.
+
+502
+00:48:33,799 --> 00:48:38,199
+It stays provisional, in fact, never gets unprovisional because he never finishes being in time.
+
+503
+00:48:39,319 --> 00:48:40,519
+But he gets far enough.
+
+504
+00:48:40,520 --> 00:48:50,920
+I'm going to tell you by the end of the lecture if I make it to there, if not next time, what the whole picture was going to be that would have put it all together and why it's called being in time.
+
+505
+00:48:51,199 --> 00:49:08,239
+But uh but right now, that's enough about formal indication, except for one further thing, which wouldn't won't be relevant until we get to Division II, is that Heidegger thinks that we have generally a tendency to cover up the real essence of things, particularly if it's somehow disturbing to us.
+
+506
+00:49:08,560 --> 00:49:15,759
+So that when he talks about guilt, when he talks about death, he starts out with a definition of them in our ordinary way.
+
+507
+00:49:15,759 --> 00:49:22,239
+And he shows radically that death means practically the opposite of what we think it means, or what it indicates.
+
+508
+00:49:22,319 --> 00:49:31,679
+Death indicates the essential something that death indicates is entirely different than what we think, that it's some psych, like my student John Hoagland used to say, croaking.
+
+509
+00:49:31,679 --> 00:49:34,880
+That is some kind of event that happens at the end of your life.
+
+510
+00:49:34,879 --> 00:49:39,439
+Anyway, so and he does it, he does it with time even.
+
+511
+00:49:39,440 --> 00:49:40,559
+He does it with language.
+
+512
+00:49:41,839 --> 00:49:43,120
+And now comes this exception.
+
+513
+00:49:43,120 --> 00:49:49,360
+That's why I'm saying it just so happens that he really would make no sense to begin this book with the wrong definition.
+
+514
+00:49:49,359 --> 00:49:55,679
+So he has to say that provisionally he happens to luck out and get the right one, because he's written the whole book already.
+
+515
+00:49:56,560 --> 00:50:03,519
+But he does want to answer you and say that even though he happens to get the right one, he doesn't claim it's the right one.
+
+516
+00:50:03,520 --> 00:50:05,120
+He claims it's provisional.
+
+517
+00:50:05,120 --> 00:50:05,679
+Good.
+
+518
+00:50:05,679 --> 00:50:05,999
+Yeah.
+
+519
+00:50:11,279 --> 00:50:11,999
+Definitely.
+
+520
+00:50:12,000 --> 00:50:26,159
+That it will account, just as you want gold, just as the molecular theory of heat's going to have to account for every important thing that heat does, not accidental things like be extra strong in the Congo or something, but all the sort of physical things.
+
+521
+00:50:26,159 --> 00:50:32,479
+And so yes, he's got to account for every important aspect of human being before he can say that.
+
+522
+00:50:32,480 --> 00:50:43,919
+And one of the things he's got to do, this is what I'm going to try to say briefly at the end, is show how the three modes of being are all rightly called modes of being.
+
+523
+00:50:43,920 --> 00:50:45,199
+What do they have in common?
+
+524
+00:50:45,199 --> 00:50:50,640
+It doesn't look like they have anything in common, but readiness to hand, presence of hand, and existence.
+
+525
+00:50:50,839 --> 00:50:54,520
+But then how come they're all called modes of being?
+
+526
+00:50:55,319 --> 00:51:01,640
+If he can do that, then he's ready to say, Yeah, I got it right with my provisional indication.
+
+527
+00:51:01,960 --> 00:51:03,320
+Okay.
+
+528
+00:51:03,640 --> 00:51:04,679
+Ready to go on?
+
+529
+00:51:04,679 --> 00:51:05,640
+Let's go on.
+
+530
+00:51:06,679 --> 00:51:07,959
+There's so many loose ends.
+
+531
+00:51:08,839 --> 00:51:14,120
+I thought I should tell you sort of whether you are DASIN when you're brushing your teeth.
+
+532
+00:51:14,120 --> 00:51:15,720
+We left that one aside.
+
+533
+00:51:15,719 --> 00:51:21,320
+Have I said anything in the meantime that's supposed to help you understand, or me understand, that?
+
+534
+00:51:23,480 --> 00:51:32,360
+I don't know whether.
+
+535
+00:51:32,359 --> 00:51:35,239
+Yeah, I see maybe that that's the wrong kind of question.
+
+536
+00:51:35,239 --> 00:51:38,840
+And then I keep falling into it, and that was a it's a kind of trap.
+
+537
+00:51:38,839 --> 00:52:01,480
+I mean, you want to know whether the style of being, say, of being nurturing or being aggressive, or now our style of being, Heidegger says, is to have a technological understanding of being, whether that shows up when you're brushing your teeth, whether the Japanese brush their teeth in a nurturing way and we brush our teeth in a technological way, I wouldn't be surprised.
+
+538
+00:52:01,480 --> 00:52:13,399
+But anyway, it's not the right problem to ask here, because the question here is, of course, it shows up when you're brushing your teeth, because you're using equipment to brush your teeth.
+
+539
+00:52:13,400 --> 00:52:17,640
+And we're not talking about styles of being, we're talking about modes of being.
+
+540
+00:52:18,279 --> 00:52:28,279
+So I never should let myself ask myself how much the Daseine way of being permeates everything.
+
+541
+00:52:28,520 --> 00:52:41,040
+The Dasein way of being is manifest in everything we do when we're using equipment or when we're staring at things or when we're taking up our culture's understanding of being and acting on it.
+
+542
+00:52:35,560 --> 00:52:42,079
+Period.
+
+543
+00:52:42,400 --> 00:52:44,720
+Now, back to this.
+
+544
+00:52:45,359 --> 00:52:46,159
+Where are we?
+
+545
+00:52:47,040 --> 00:52:48,879
+I'm going to give you some terminology.
+
+546
+00:52:49,120 --> 00:52:53,839
+I was way, I'm on the first half of page one of my lecture, but that's all right.
+
+547
+00:52:54,400 --> 00:52:59,040
+So the next thing I wanted to talk about was just terminological things.
+
+548
+00:52:59,520 --> 00:53:03,520
+Heidegger talks about existential and existentiale.
+
+549
+00:53:03,520 --> 00:53:09,359
+You've got to get used to all these variations on existence because existence is very important for Heidegger.
+
+550
+00:53:09,359 --> 00:53:18,239
+So back to page 32, page 12, where he says, I hope, though I don't see it yet.
+
+551
+00:53:25,120 --> 00:53:26,720
+Hmm, maybe he does.
+
+552
+00:53:27,359 --> 00:53:30,959
+Somebody, when you see existential, let me tell you about it.
+
+553
+00:53:30,960 --> 00:53:32,080
+Oh, here it is, 33.
+
+554
+00:53:32,080 --> 00:53:33,520
+I got it wrong.
+
+555
+00:53:33,759 --> 00:53:38,240
+Okay, so at the top of 33, still on page 12.
+
+556
+00:53:38,239 --> 00:53:44,240
+Dasein always understands itself in terms of its existence, in terms of a possibility of itself.
+
+557
+00:53:44,239 --> 00:53:51,280
+All that's pretty abstract, and I can't help to make it any clearer than I've done it, so I won't say more.
+
+558
+00:53:51,440 --> 00:53:54,239
+To be itself or not itself, that's certainly not going to help.
+
+559
+00:53:54,239 --> 00:54:06,159
+Dasein, at this stage of what we're talking about, that Dasein has already chosen the possibilities of itself or got into them or growing up in them already.
+
+560
+00:54:06,159 --> 00:54:10,079
+That's, do I have to talk about that?
+
+561
+00:54:12,319 --> 00:54:14,479
+That's division two issues.
+
+562
+00:54:14,480 --> 00:54:17,360
+That's whether Dasein is going to be authentic or not.
+
+563
+00:54:17,359 --> 00:54:37,880
+That is whether Dasein is going to manifest in its behavior some particular cultural understanding of what its essence is, or whether it's going to manifest in its behavior that it has no essence, so that he can't draw conclusions about how to live as a rational animal or a creature of gods and so forth.
+
+564
+00:54:37,879 --> 00:54:44,439
+And that's got to get settled by each particular Dasein's way of being, again, without thinking about it.
+
+565
+00:54:44,440 --> 00:54:48,600
+Presumably, the German peasants already do this right.
+
+566
+00:54:49,960 --> 00:55:03,720
+But whatever you want to say is, and we've got to just deal with it because he talks about it here, that when you're talking about what some particular Dasein's stand on its being, that's existential.
+
+567
+00:55:04,040 --> 00:55:17,640
+When you talk about the general structure of a being whose way of being is existence, then that's existential.
+
+568
+00:55:17,640 --> 00:55:18,759
+That's just what he's doing.
+
+569
+00:55:18,759 --> 00:55:29,239
+You see, he talks about the existential, and then he goes, the question about the structure, I've stepped down a little, aims at the analysis of what constitutes existence.
+
+570
+00:55:29,239 --> 00:55:32,920
+The context of such structures we call existentiality.
+
+571
+00:55:32,920 --> 00:55:39,800
+It's analytic, has the character of an understanding which is not existential, but existential.
+
+572
+00:55:39,799 --> 00:55:47,159
+And so this whole book, all of it, is an existential analytic.
+
+573
+00:55:47,159 --> 00:55:56,360
+It's an attempt to lay out the whole structure of the way of being, which is existence.
+
+574
+00:55:57,480 --> 00:56:02,839
+And that's to do an existential analytic, and that's just so you get used to that.
+
+575
+00:56:04,400 --> 00:56:10,479
+And it's not, and it doesn't have to do with reflecting and believing, and that's where I was going to talk about the Japanese baby that I did.
+
+576
+00:56:11,359 --> 00:56:44,880
+But I did want to read a place, I keep saying that it's important that we don't have to, and the Japanese baby does illustrate it in a way, is we get socialized into all of our practices, that is, are manifesting our understanding of being, but also manifesting the style of our understanding of being, and also manifesting whether we understand that we don't really have a nature, that is, that existence is our essence.
+
+577
+00:56:44,879 --> 00:56:52,800
+All of that is something that we just pick up from the culture.
+
+578
+00:56:53,120 --> 00:56:59,920
+On the bottom of 213, it happens, but I think it's important to see how he mentions it here.
+
+579
+00:57:00,239 --> 00:57:01,920
+He doesn't talk about it much.
+
+580
+00:57:02,159 --> 00:57:04,080
+This is the bottom of 213.
+
+581
+00:57:04,080 --> 00:57:10,560
+It's in the German 169, about two sentences into the paragraph that begins this way.
+
+582
+00:57:11,040 --> 00:57:24,640
+This everyday way in which things have been interpreted is one in which Gasein has grown in, has grown in, and I think the better way to translate the German here is has grown into from the start.
+
+583
+00:57:25,759 --> 00:57:29,040
+You could translate it from the first instance, but it just wouldn't make any sense.
+
+584
+00:57:29,040 --> 00:57:36,399
+It's one in which Gasein has grown into from the start, that's the Japanese baby, with never a possibility of extrication.
+
+585
+00:57:36,400 --> 00:57:38,399
+It's always going to have that style.
+
+586
+00:57:39,199 --> 00:57:47,360
+In it, out of it, and against it, all genuine understanding, interpreting, and communication, all rediscovering and appropriating is performed.
+
+587
+00:57:47,359 --> 00:57:53,719
+And so that's just part of saying we're always in an understanding of being.
+
+588
+00:57:54,359 --> 00:57:58,600
+Now it's important to make another, did I say that wrong again?
+
+589
+00:57:58,600 --> 00:58:00,599
+I'm falling back into later Heidegger.
+
+590
+00:58:00,600 --> 00:58:07,960
+We are always in, how does he say here, a way of interpreting Daseine.
+
+591
+00:58:09,000 --> 00:58:12,199
+So we're always in a way of interpreting Dasein.
+
+592
+00:58:12,199 --> 00:58:14,040
+That's what it is to exist.
+
+593
+00:58:14,040 --> 00:58:15,880
+You never can step out of it.
+
+594
+00:58:16,120 --> 00:58:23,640
+You're always doing what you're doing, even rebelling inside of it, and so forth.
+
+595
+00:58:24,279 --> 00:58:31,960
+And now another distinction that you need between facticity and factuality.
+
+596
+00:58:32,279 --> 00:58:44,439
+Because now you want to say, and probably if I let you have time, somebody would say that, well, but there are features of human beings that don't seem to have anything to do with this whole interpreting business.
+
+597
+00:58:44,440 --> 00:58:48,040
+I mean, let's take an example being male or female.
+
+598
+00:58:48,040 --> 00:58:51,400
+That's just the characteristic of us as organisms.
+
+599
+00:58:51,400 --> 00:58:57,320
+We've got, and that's Heidegger said, yes, that's factuality.
+
+600
+00:58:57,319 --> 00:59:15,400
+But what's interesting about us, and this is sort of related to whether you're brushing your teeth or not in the style of your culture, is that all the factuality about us gets taken up and interpreted if we're a dodzine and because our mode of being is existence.
+
+601
+00:59:15,400 --> 00:59:19,559
+So for instance, male turns into masculine.
+
+602
+00:59:19,560 --> 00:59:22,479
+And different cultures, this is the gender business.
+
+603
+00:59:22,719 --> 00:59:36,720
+Different cultures will have different ways of understanding the gender, masculine and feminine, even though the biological facts that there are males and females is cross-cultural.
+
+604
+00:59:35,640 --> 00:59:40,719
+And so Heidegger has a notion of facticity, he calls it.
+
+605
+00:59:41,040 --> 00:59:54,720
+Facticity is sort of the way of understanding yourself in your behavior that you're stuck with given the culture that you're raised.
+
+606
+00:59:55,040 --> 01:00:09,279
+So you're stuck with pretty much, and you can vary it a bit and rebel against it a bit, a certain understanding of masculinity, whether you never thought about it or not, and you couldn't ever get to the bottom of it if you did think about it, because it's so pervasive in how you stand.
+
+607
+01:00:10,480 --> 01:00:25,840
+There was a time when I first came to Berkeley when there were a lot of consciousness raising groups, and women and then later men too tried to understand sort of what all they had taken up from their culture in their facticity and particularly in their gender.
+
+608
+01:00:25,839 --> 01:00:27,520
+And I think they've stopped.
+
+609
+01:00:27,520 --> 01:00:36,560
+And I think the reason they've stopped, as far as I can make out, now they're not hundreds of consciousness raising groups, I don't think, is probably some people think, well, they sort of answered it.
+
+610
+01:00:36,560 --> 01:00:42,080
+They understand how women enter conversations differently than men and throw baseballs differently than men and so forth.
+
+611
+01:00:42,080 --> 01:01:13,119
+But I like to think that the reason they stopped is that they understood that they're never going to get to the bottom of it, that everything they can discover is is relatively superficial and what they can't notice is the sort of the tip of the iceberg, and that there's so much in in the in just in the in the whole way of dealing with things that is different because that's the way our culture does it, that that um they that and that there's no reason to think you would ever get to the bottom of understanding the style.
+
+612
+01:01:13,120 --> 01:01:20,839
+It's that this is again the sense of sort of Heidegger seeing that there's something very basic that you can't take up and make explicit.
+
+613
+01:01:21,000 --> 01:01:23,800
+You can have to, you manifest it all the time.
+
+614
+01:01:20,560 --> 01:01:24,999
+Oh, that's the next thing to say.
+
+615
+01:01:25,319 --> 01:01:33,400
+You manifest it all the time, but it is so pervasive and so embodied that you can't make it explicit.
+
+616
+01:01:34,279 --> 01:01:35,479
+It isn't a belief system.
+
+617
+01:01:35,480 --> 01:01:39,080
+We don't have a belief system about what it is to be masculine in our culture.
+
+618
+01:01:39,080 --> 01:01:41,080
+That would be an American.
+
+619
+01:01:41,319 --> 01:01:42,279
+That's a joke.
+
+620
+01:01:42,279 --> 01:01:47,640
+I mean, it's got very little to do with what we believe, and probably what we believe isn't even right about it.
+
+621
+01:01:47,640 --> 01:01:53,640
+So, what is going on there that Heidegger's getting at?
+
+622
+01:01:53,640 --> 01:01:57,239
+I have certain, I've just forgotten where I'm heading with this, just a second.
+
+623
+01:02:04,279 --> 01:02:05,480
+So, it's so pervasive.
+
+624
+01:02:05,480 --> 01:02:07,159
+Oh, that's what I want to talk about.
+
+625
+01:02:09,000 --> 01:02:09,879
+Ah, yes.
+
+626
+01:02:09,879 --> 01:02:10,359
+Okay.
+
+627
+01:02:10,359 --> 01:02:15,400
+Heidegger's words for this is that it's nearest and furthest away.
+
+628
+01:02:15,400 --> 01:02:37,159
+What our facticity, our particular style of interpreting our way of being, namely existence in all of our activity, is so obvious, so close to us, that we couldn't, we got it sort of right, so to speak, in front of us, except it isn't in front of us, it's all around us.
+
+629
+01:02:37,159 --> 01:02:59,400
+And it's so much like the water to the fish, it is so much all around us that just because it's nearest and pervades everything we do, and there's no counterclass of things and so forth, that makes it the hardest to see and the furthest away.
+
+630
+01:02:59,400 --> 01:03:02,919
+And Heidegger's not trying to do that job in being in time.
+
+631
+01:03:02,920 --> 01:03:07,279
+That is, get at what it is to be a German or what it is to be masculine or anything like that.
+
+632
+01:03:07,600 --> 01:03:20,400
+Though later, Heidegger has definitely got himself into this interesting business of trying to see what is nearest and furthest away, namely the style of our existence in the West.
+
+633
+01:03:21,279 --> 01:03:28,480
+But I don't know where I could, I mean, I've gone so far from my notes that I don't know whether I'll ever see again nearest and furthest away.
+
+634
+01:03:28,480 --> 01:03:29,679
+Oh, here we are.
+
+635
+01:03:31,600 --> 01:03:36,080
+I'm asking myself, oh, no, it's too, I'll have to come back to it.
+
+636
+01:03:36,400 --> 01:03:37,920
+I jumped ahead.
+
+637
+01:03:37,920 --> 01:03:40,719
+So let me go and do what I really want to do.
+
+638
+01:03:40,719 --> 01:03:46,000
+We've got to get the fundamental ontology right away, as David brought it up.
+
+639
+01:03:46,000 --> 01:03:48,799
+So I'm going to do it by giving you again definitions.
+
+640
+01:03:48,799 --> 01:03:58,480
+So ontic, as we come across it every once in a while, has to do with entities, properties, characteristics of entities.
+
+641
+01:03:58,480 --> 01:04:02,159
+Ontological has to do with the way of being.
+
+642
+01:04:02,480 --> 01:04:10,480
+And it could, and preontological has to do with acting out the way of being without thinking about it.
+
+643
+01:04:11,279 --> 01:04:13,120
+Let's see now.
+
+644
+01:04:14,719 --> 01:04:15,359
+Yeah.
+
+645
+01:04:15,359 --> 01:04:17,519
+And now comes the tricky thing.
+
+646
+01:04:17,520 --> 01:04:20,000
+What is fundamental ontology?
+
+647
+01:04:20,000 --> 01:04:24,879
+Well, it turns out, and you've been prepared for this by me very well, I think.
+
+648
+01:04:24,879 --> 01:04:34,719
+That is, it turns out that we, in our behavior, as we take a stand on our existence, it's better to be specific.
+
+649
+01:04:34,719 --> 01:04:42,000
+As I understand myself as a professor, I use lots of stuff.
+
+650
+01:04:42,000 --> 01:04:48,159
+That is, I take up things as equipment.
+
+651
+01:04:48,159 --> 01:04:54,759
+That is, I manifest my understanding of being, of the kind of being of readiness to hand.
+
+652
+01:04:55,400 --> 01:05:00,999
+And thanks to the fact that I do that, there is that kind of being called readiness to hand.
+
+653
+01:05:01,480 --> 01:05:06,120
+Being equipment doesn't just sort of lie around, whether any people are there or not.
+
+654
+01:05:06,120 --> 01:05:16,920
+It's only because we're here using equipment to do things in order to understand the kind of being that we are that there is readiness to hand.
+
+655
+01:05:16,920 --> 01:05:25,959
+And because we're also the kind of being that can, when we get into a problem, for instance, stare at things, look at their properties, try to put the blob back on the wood on the hammer.
+
+656
+01:05:25,960 --> 01:05:30,520
+We have this capacity to study substances.
+
+657
+01:05:30,839 --> 01:05:33,879
+And that's so there is presence at hand.
+
+658
+01:05:35,000 --> 01:05:51,080
+And we are the being that, so to speak, constitutes or generates, I don't know what the right word ought to be, produces, I just don't know.
+
+659
+01:05:51,319 --> 01:05:56,359
+I think maybe in a Heidegger jargon discloses, let's just use Heidegger's argument.
+
+660
+01:05:56,359 --> 01:06:00,679
+We are the kind of being that discloses all three ways of being.
+
+661
+01:06:00,679 --> 01:06:04,360
+Readiness to hand, presence of hand, existence.
+
+662
+01:06:04,359 --> 01:06:10,040
+And that's the sense in which when you do fundamental ontology, what do you do?
+
+663
+01:06:10,040 --> 01:06:14,120
+You study the being that is the basis for all the ontology.
+
+664
+01:06:14,120 --> 01:06:20,760
+That's on page 34 at the very top, 13 in the German, toward the bottom.
+
+665
+01:06:20,759 --> 01:06:28,439
+Therefore, fundamental ontology, from which all other ontologies can take their eyes, must be sought in the existential analytic of Dausheim.
+
+666
+01:06:28,440 --> 01:06:30,919
+So you know what an existential analytic is?
+
+667
+01:06:30,920 --> 01:06:33,560
+It's lying out the structure of existence.
+
+668
+01:06:33,560 --> 01:06:52,560
+You know that if you work out the structure of existence, you'll understand why it is that we have these three ways of understanding being, all of which, therefore, one, they depend on us, and two, we have to say something about them.
+
+669
+01:06:52,560 --> 01:06:58,799
+But I'm just going to blurt out a sentence about their depending on us, because they're going to spend a lot of time on it later.
+
+670
+01:06:58,799 --> 01:07:07,920
+Ivan, if I told you that modes of being depend on us, and does that make you, does that make Heidegger a kind of idealist?
+
+671
+01:07:07,920 --> 01:07:10,000
+And the answer is no.
+
+672
+01:07:10,000 --> 01:07:19,840
+Heidegger says, and I just don't want to take time to find the pages, way later in the book, that being depends on us, but beings don't.
+
+673
+01:07:20,159 --> 01:07:29,519
+That means that there is a mode of being called readiness to hand, and a mode of being we're going to call presence of hand, and a mode of being called existence depends on us.
+
+674
+01:07:29,520 --> 01:07:32,799
+And there wouldn't be any mode of being like that.
+
+675
+01:07:33,359 --> 01:07:38,079
+The things just wouldn't, there wouldn't be any intelligibility like that if it weren't for us.
+
+676
+01:07:38,080 --> 01:07:40,719
+Intelligibility depends on us.
+
+677
+01:07:41,040 --> 01:07:44,640
+But that whether there are any hammers or not doesn't depend on us.
+
+678
+01:07:44,640 --> 01:07:47,360
+We could make sense of hammers and there wouldn't be any.
+
+679
+01:07:47,359 --> 01:08:00,559
+Or there could be things around that we don't have any knowledge of, and they're still there, and they still, but what their mode of being is, it's going to be something relative to Dasein.
+
+680
+01:08:00,560 --> 01:08:06,560
+Yes, one.
+
+681
+01:08:07,039 --> 01:08:10,239
+For fundamental ontology, it's the top of page 34.
+
+682
+01:08:10,240 --> 01:08:13,560
+I wish I could tell you about being depending on us since I just got there.
+
+683
+01:08:13,640 --> 01:08:14,799
+Just a second.
+
+684
+01:08:14,799 --> 01:08:15,999
+Anybody know?
+
+685
+01:08:19,520 --> 01:08:28,439
+Well, then I will, but I do want to say something real fast, which will be too fast, but at least you can think it over, because I promised it.
+
+686
+01:08:28,440 --> 01:08:31,959
+And I'm trying to find where I do it so I can do it as quickly as possible.
+
+687
+01:08:31,959 --> 01:08:32,919
+Here we go.
+
+688
+01:08:35,480 --> 01:08:37,719
+Oh, this boy, I can't resist telling you that.
+
+689
+01:08:37,799 --> 01:08:49,079
+So on page 37, German, I don't know what, 15, I guess, where this closest and furthest away is.
+
+690
+01:08:49,079 --> 01:09:00,679
+Dasein is ontically closest to itself and to itself, and ontologically farthest, and pre-ontologically, it is not a strange, that is, you've got to work on it.
+
+691
+01:09:00,679 --> 01:09:07,640
+Okay, but here's what I want to say when you say that you've got to have a whole unified theory of all this now.
+
+692
+01:09:07,640 --> 01:09:09,159
+So how does it work?
+
+693
+01:09:09,160 --> 01:09:23,640
+Well, the structure of Dasein is to make sense of things and to make sense, or to make sense of itself by using things, and by, so that I'm using things to be a professor and so forth.
+
+694
+01:09:23,640 --> 01:09:29,959
+And when you do that, you discover, you discover there are these three modes of being.
+
+695
+01:09:29,959 --> 01:09:34,279
+The equipmental stuff, the stuff that are substances, and us.
+
+696
+01:09:34,600 --> 01:09:46,520
+And now the final question you have to ask is, why are there these three, and only in exactly three understandings of being?
+
+697
+01:09:46,839 --> 01:10:06,159
+And now you begin to get a glimmer, maybe, that if you could put this in terms of time, somehow, which has three dimensions, past, present, and future, you would understand something about the threefold structure of everything.
+
+698
+01:10:06,160 --> 01:10:10,719
+Now, I'm not even going to try to explain that, but I want to try to tell you one more weird thing.
+
+699
+01:10:10,719 --> 01:10:15,759
+Don't feel you need to know this or understand what I'm saying, but I think I promised it.
+
+700
+01:10:15,759 --> 01:10:31,759
+So, we want to know why there are three, and we do that, and you can't say it's because it's temporal, but you can say somehow that, well, you know that you got it all right, that there are three and only three, if you could map it onto time, which is very fundamental and has three dimensions.
+
+701
+01:10:31,759 --> 01:10:32,959
+But here's a tougher one.
+
+702
+01:10:32,959 --> 01:10:36,719
+And I said I was going to tell you how they were all unified.
+
+703
+01:10:37,039 --> 01:10:38,240
+That's the really hard part.
+
+704
+01:10:38,400 --> 01:10:42,719
+How come these are the three understandings of being?
+
+705
+01:10:42,719 --> 01:10:44,879
+What do they have in common?
+
+706
+01:10:44,879 --> 01:10:50,879
+Well, obviously, if Heidegger's going to make it work, they've got to all have temporality in common.
+
+707
+01:10:51,839 --> 01:10:53,359
+But how would that work?
+
+708
+01:10:53,360 --> 01:11:05,199
+Well, each of the three kinds of being would have one of the three modes of temporality, which is pretty far-fetched, but this is what Heidegger thinks.
+
+709
+01:11:05,200 --> 01:11:12,159
+Dasein is what he calls primordial temporality.
+
+710
+01:11:12,160 --> 01:11:25,520
+And it's haven't said it right.
+
+711
+01:11:26,400 --> 01:11:34,879
+There are three different, for each of the three modes of being, there is a kind of unity.
+
+712
+01:11:34,879 --> 01:11:36,239
+That's what I have to say.
+
+713
+01:11:37,679 --> 01:11:45,279
+What unifies them all is temporality because for each of the three, there is a unity of temporal, a temporal kind of unity.
+
+714
+01:11:45,280 --> 01:11:56,199
+And the temporal kind of unity is what he calls primordial temporality, which is the temporal structure of what you get in the existential analytic, and you'll get that.
+
+715
+01:11:57,160 --> 01:12:02,919
+Then there's the temporal structure of what one could call pragmatic time.
+
+716
+01:12:03,240 --> 01:12:06,119
+It's the time of equipment and coping.
+
+717
+01:12:07,640 --> 01:12:09,879
+And in a way, you already get that.
+
+718
+01:12:11,879 --> 01:12:16,679
+And then there's a kind of time which are the kind that you're used to on clocks.
+
+719
+01:12:16,999 --> 01:12:23,719
+A now time of this moment and then that moment, next, and that moment, the past, present, and future in that sense.
+
+720
+01:12:23,879 --> 01:12:28,039
+And that's also got its kind of unity.
+
+721
+01:12:28,039 --> 01:12:32,439
+So now, I mean, I know you're just puzzled, and don't worry about it.
+
+722
+01:12:32,440 --> 01:12:51,239
+I just promise to tell you that the reason he thinks that he's got it right when he provisionally designates the Dasein is the being who is existence, and when he says existence, its essence is existence, he owes you a big picture of how all this hangs together.
+
+723
+01:12:51,240 --> 01:12:59,319
+And the big picture of how it all hangs together is that there are three modes of temporality, each of which is unified.
+
+724
+01:12:59,320 --> 01:13:03,879
+And all of them are unified because, and I haven't said this yet, they are derived from each other.
+
+725
+01:13:03,879 --> 01:13:18,759
+So primordial temporality enables you to understand pragmatic coping temporality of equipment, which enables you to understand the moment-by-moment temporality of the ordinary physical world.
+
+726
+01:13:18,759 --> 01:13:21,640
+One question, but it's probably not time to answer.
+
+727
+01:13:23,640 --> 01:13:27,480
+President at hand temporality is clock time or now time.
+
+728
+01:13:27,480 --> 01:13:28,520
+I didn't say that.
+
+729
+01:13:28,520 --> 01:13:30,839
+It's just this minute and this second and this second.
+
+730
+01:13:30,839 --> 01:13:32,439
+It's the kind of time you're used to.
+
+731
+01:13:32,440 --> 01:13:36,959
+The other two kinds of time, Heidegger has to convince you that they're around.
+
+732
+01:13:37,280 --> 01:13:38,159
+Okay.
+
+733
+01:13:35,400 --> 01:13:38,719
+Yeah.
+
+734
+01:13:41,759 --> 01:13:51,999
+Yes, if you came in late and you didn't fill out a card, come up right now and fill it out, because you've got to know to do that, or you won't be in sections and then you won't be in the course.

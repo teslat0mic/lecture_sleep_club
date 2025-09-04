@@ -1,0 +1,3483 @@
+1
+00:00:00,000 --> 00:00:00,001
+Try again.
+
+2
+00:00:00,000 --> 00:00:13,200
+Okay, I could either just give up on Gareda, on idle talk, and go on to falling, but having spent this much time on it, I figure we ought to at least try to get some kind of closure.
+
+3
+00:00:13,201 --> 00:00:21,760
+So I've written out what I think is the right way to think about it and try to prevent some of the wrong ways to think about it.
+
+4
+00:00:21,760 --> 00:00:24,080
+And here we go.
+
+5
+00:00:24,080 --> 00:00:33,841
+For one thing, I caused a problem, but it was a good problem because you have to make mistakes to learn from the mistakes.
+
+6
+00:00:34,081 --> 00:00:38,321
+It was a mistake to bring in gossip and to bring in bullshit.
+
+7
+00:00:38,320 --> 00:00:48,080
+Both of them have their own kinds of motivations for misusing language, and that's what all of them have, a misuse of language.
+
+8
+00:00:48,081 --> 00:00:58,161
+But you can just give up any, just stop gossiping and stop bullshitting.
+
+9
+00:00:58,161 --> 00:01:02,881
+But whatever it is that idle talk is, it's much more complicated.
+
+10
+00:01:02,881 --> 00:01:13,920
+It's something which, in a certain way, you just got to have, the way you've got to have the leveling that goes with intelligibility when you have the one.
+
+11
+00:01:14,640 --> 00:01:31,120
+But yet there's a wrong kind of talk where it goes beyond the kind of leveling that's necessary, and then it becomes idle talk.
+
+12
+00:01:31,120 --> 00:01:33,600
+And we've got to figure out what that is.
+
+13
+00:01:33,600 --> 00:01:35,281
+So let me start.
+
+14
+00:01:35,680 --> 00:01:50,560
+I've been convinced that idle talk is not a bad translation because it doesn't seem to tie in with what some kind of motivation like showing off or prying into other people's business or anything.
+
+15
+00:01:50,560 --> 00:01:53,920
+Another possible translation is chatter.
+
+16
+00:01:53,920 --> 00:01:59,880
+And Kierkegaard, at least his translation, calls it talkativeness.
+
+17
+00:02:00,521 --> 00:02:12,440
+And now we have to understand what it whatever it is, there is some kind of way of using language which has a positive function.
+
+18
+00:02:12,440 --> 00:02:16,600
+And it's typical of the use of language in everydayness.
+
+19
+00:02:16,601 --> 00:02:20,921
+And we want to understand what it three levels.
+
+20
+00:02:20,921 --> 00:02:30,120
+That's my whole hope in to make this sensible is to say that there are three ways of using language that you can distinguish.
+
+21
+00:02:30,120 --> 00:02:40,280
+Primordial talk, which is using language in its most appropriate way to reveal things.
+
+22
+00:02:40,280 --> 00:02:49,160
+And whatever language is, I was going to say this later, but as I'm talking, I see it might be better just to say what is using language in its most appropriate way.
+
+23
+00:02:49,161 --> 00:02:55,481
+So we can keep that as a guide for when we, there are two stages of losing it.
+
+24
+00:02:55,481 --> 00:02:57,720
+But what is it, the it that we're losing?
+
+25
+00:02:57,721 --> 00:03:02,361
+Well, that's very important on page 56, which I keep mentioning.
+
+26
+00:03:02,361 --> 00:03:08,921
+He says more in one paragraph about what he means by talk back there or discourse.
+
+27
+00:03:09,560 --> 00:03:13,881
+When I say talk, that's because that's what the German word is, Reda.
+
+28
+00:03:14,120 --> 00:03:15,720
+Discourse is all right.
+
+29
+00:03:15,720 --> 00:03:36,120
+And I guess I should, it would be more less confusing if I talked the language of the translation that you're reading, but really I can't do it because I just hear the talk, very common sense notion of talk is somehow what Heidegger's getting at, not some fancy thing which we call discourse.
+
+30
+00:03:36,120 --> 00:04:03,840
+So, anyway, so but he's explaining talk or discourse, whichever, and by telling you that they're related to what the Greeks called logos, then about halfway down the first full paragraph in discourse, and so far as it is genuine, what is said is drawn from what is talked about.
+
+31
+00:04:03,840 --> 00:04:14,241
+So, the discursive communication in what it says makes manifest what it is talking about and thus makes this accessible to the other party.
+
+32
+00:04:14,241 --> 00:04:21,041
+That's the structure of logos as apophansis, that is, logos as showing something.
+
+33
+00:04:21,200 --> 00:04:23,041
+He goes on to say the showing something.
+
+34
+00:04:23,041 --> 00:04:33,601
+This mode of making manifest, in the sense of letting something be seen by pointing it out, does not go with all kinds of, does not go with all kinds of discourse.
+
+35
+00:04:33,601 --> 00:04:36,241
+Oh, yeah, then you couldn't have requesting and other stuff.
+
+36
+00:04:36,241 --> 00:04:44,161
+But there is a special basic positive, positive is a word that's going to have to be used for something else.
+
+37
+00:04:44,161 --> 00:04:50,000
+Primordial use of discourse, and the beginning of the next paragraph says it again.
+
+38
+00:04:50,000 --> 00:04:59,600
+When fully concrete, talking, letting something be seen, has the character of speaking, vocal proclamation in words.
+
+39
+00:04:59,601 --> 00:05:05,120
+All that is the crucial thing is it's letting something be seen by pointing it out.
+
+40
+00:05:05,680 --> 00:05:12,640
+That's the primordial, basic, right function of talking.
+
+41
+00:05:12,961 --> 00:05:33,640
+And then there's also a kind of, and this is the tricky one, a kind of idle talk which is necessary to carry on the business of average everydayness, which is what he's talking about.
+
+42
+00:05:33,961 --> 00:05:45,880
+And there's a positive kind of disclosedness that's typical of everydayness, and that also comes under idle talk on 2.11.
+
+43
+00:05:47,721 --> 00:05:49,481
+I try to keep you so you don't get lost.
+
+44
+00:05:49,640 --> 00:05:52,921
+The important thing is that there are three things to distinguish.
+
+45
+00:05:52,921 --> 00:06:00,041
+If you only have two, you get confused because you try to make one of the two do too many jobs.
+
+46
+00:06:00,281 --> 00:06:17,801
+There is the primordial kind, there is what I'm going to talk about now, the positive kind, which has a useful function, such a useful function that you couldn't get rid of it and still have average everyday coordinated practical activity.
+
+47
+00:06:17,801 --> 00:06:25,801
+And then there's the use of talk, which is covering up and not showing things as they are.
+
+48
+00:06:26,440 --> 00:06:32,281
+And I'm now on the second kind, which is the positive kind of talk.
+
+49
+00:06:32,280 --> 00:06:36,361
+And he talks about that on 2.11, right at the beginning.
+
+50
+00:06:36,361 --> 00:06:41,960
+The expression idle talk is not to be used here in a disparaging signification.
+
+51
+00:06:41,961 --> 00:06:51,321
+Terminologically, it signifies a positive phenomenon which constitutes a kind of being of everyday Dasein's understanding and interpreting.
+
+52
+00:06:51,640 --> 00:06:54,041
+Now, it's positive.
+
+53
+00:06:54,041 --> 00:06:58,201
+We don't know why yet, but that isn't to say it's primordial.
+
+54
+00:06:58,201 --> 00:07:10,361
+That is, it's not going to be just the best kind of pointing out things as they really are to somebody who shares the situation with you so that you both can see it and understand it.
+
+55
+00:07:10,361 --> 00:07:12,120
+That's the primordial kind.
+
+56
+00:07:12,161 --> 00:07:21,281
+That's the, I keep going back to that phrase, which for some odd reason I can't remember, but I always remember when I see it.
+
+57
+00:07:21,281 --> 00:07:29,120
+So let me just, so remember, keep remembering that the basic situation is letting something be seen by pointing it out.
+
+58
+00:07:29,120 --> 00:07:36,320
+So there's got to be somebody you're pointing it out to, and you've got to be right in the face of it, and you've got to have the skills to recognize it.
+
+59
+00:07:36,320 --> 00:07:56,320
+It isn't enough to, if one chess grandmaster says to some ordinary chess player, well, to take my example of the tank, the guy who's the Hun type general who said, you know, put the tank here and pointed at a place in his sort of fortress.
+
+60
+00:07:57,760 --> 00:08:03,120
+It didn't work because he wasn't pointing it out to me and my brother because we didn't have the skills to see it.
+
+61
+00:08:03,120 --> 00:08:06,320
+So you've got to have the skill, you've got to have the thing to see.
+
+62
+00:08:06,481 --> 00:08:09,120
+But now that's the primordial one.
+
+63
+00:08:09,120 --> 00:08:15,281
+The positive one is what he wants to talk about under this notion of idle talk.
+
+64
+00:08:15,280 --> 00:08:17,680
+And so we have to keep our eye on that.
+
+65
+00:08:17,680 --> 00:08:18,720
+And that's what we're going to do.
+
+66
+00:08:18,801 --> 00:08:30,481
+So we want to distinguish between the three kinds, primordial familiarity, which he calls genuine discourse back on 56 when I was reading.
+
+67
+00:08:30,481 --> 00:08:33,520
+And he talks about it again on 208.
+
+68
+00:08:34,160 --> 00:08:35,841
+So let's look at that.
+
+69
+00:08:38,400 --> 00:08:43,921
+The middle of 208, the very middle, right below 165, or a little below 165.
+
+70
+00:08:43,920 --> 00:08:48,480
+Keeping silent authentically is possible only in genuine discoursing.
+
+71
+00:08:48,481 --> 00:08:52,161
+That's the same as primordial discoursing, as I'm using the term.
+
+72
+00:08:52,160 --> 00:08:57,961
+That's when you're pointing out to somebody something which you both have the skill to understand.
+
+73
+00:08:57,520 --> 00:09:00,680
+To be able to keep silent, Dasein must have something to say.
+
+74
+00:09:00,760 --> 00:09:05,481
+That is, it must have its disposal an authentic, rich disclosedness of itself.
+
+75
+00:09:05,481 --> 00:09:11,161
+And that's like the two people who understand whatever they're talking about.
+
+76
+00:09:11,160 --> 00:09:16,281
+In that case, one's reticence makes something manifest and does away with idle talk.
+
+77
+00:09:17,400 --> 00:09:27,960
+As a mode of discoursing, reticence articulates the intelligibility of Dasein in so primordial a manner that it gives rise to, oh boy, I'm reading the wrong passage there for you.
+
+78
+00:09:27,961 --> 00:09:29,960
+I mean, I'm still, that's all about the genuine.
+
+79
+00:09:29,961 --> 00:09:31,880
+I said I was going to talk about the positive.
+
+80
+00:09:31,880 --> 00:09:32,601
+I will.
+
+81
+00:09:32,601 --> 00:09:36,760
+But, well, how did I get that quote doing this job?
+
+82
+00:09:37,081 --> 00:09:39,400
+Oh, it's supposed to be about the genuine.
+
+83
+00:09:39,400 --> 00:09:43,961
+I just misled you, but my notes don't mislead me.
+
+84
+00:09:43,961 --> 00:09:54,681
+All this is he wants, you can talk in such an intelligible way, in so primordial a manner, that you get, that the hearing is genuine and the being with one another is transparent.
+
+85
+00:09:54,681 --> 00:09:57,400
+That's all the number one good kind.
+
+86
+00:09:57,400 --> 00:10:02,041
+Now, I owe you a talk about number two, the positive kind.
+
+87
+00:10:02,040 --> 00:10:07,081
+And then we saw that the first place where he says it's a positive phenomenon is on 2.11.
+
+88
+00:10:07,081 --> 00:10:08,361
+I read that already.
+
+89
+00:10:08,361 --> 00:10:09,560
+But let's look again.
+
+90
+00:10:09,560 --> 00:10:11,161
+I want to fill it out a little more.
+
+91
+00:10:11,160 --> 00:10:16,201
+So on 2.12, there's a chunk about it.
+
+92
+00:10:17,800 --> 00:10:24,681
+And this is now we've gone from primordial, genuine, to average intelligibility.
+
+93
+00:10:24,681 --> 00:10:31,320
+But average intelligibility is still intelligibility, and we better have average intelligibility, or life isn't going to be on.
+
+94
+00:10:31,321 --> 00:10:32,760
+You're not going to be able to go on.
+
+95
+00:10:32,921 --> 00:10:43,241
+Pause, you should ask yourself: Could you always be in a situation in which the exact thing you're talking about is in front of you and the person you're talking to, and you both have the skills to recognize it?
+
+96
+00:10:43,681 --> 00:10:45,361
+That's asking an awful lot.
+
+97
+00:10:45,841 --> 00:10:47,041
+Nobody can do that.
+
+98
+00:10:47,040 --> 00:10:58,561
+There's much more in the everyday world than what you stand in front of, so to speak, face to face, and much, much more than you have the skill to recognize and deal with.
+
+99
+00:10:58,561 --> 00:11:01,841
+So you get this average intelligibility on 212.
+
+100
+00:11:01,841 --> 00:11:07,201
+In language, there is spoken when one expresses oneself, there lies an average intelligibility.
+
+101
+00:11:07,361 --> 00:11:21,681
+In accordance with this intelligibility, the discourse which is communicated can be understood to a considerable extent, even if the hearer does not bring himself into such a kind of being towards what the discourse is about as to have a primordial understanding of it.
+
+102
+00:11:21,681 --> 00:11:23,281
+That's pretty clear.
+
+103
+00:11:23,280 --> 00:11:26,320
+We do not so much understand the entities that are talked about.
+
+104
+00:11:26,321 --> 00:11:28,881
+We already are listening only to what is said in the talk.
+
+105
+00:11:30,000 --> 00:11:35,681
+What is said in the talk gets understood.
+
+106
+00:11:35,681 --> 00:11:39,761
+But what the talk is about is understood only approximately and superficially.
+
+107
+00:11:39,760 --> 00:11:45,761
+Well, that's really my carburetor example was an example of that.
+
+108
+00:11:45,760 --> 00:12:01,841
+It may not be, it has some maybe misleading aspects, but there is something, I mean, it's only misleading if you assume that the person who hears the mechanic say the carburetor was dirty has no clue as to what a carburetor is.
+
+109
+00:12:01,841 --> 00:12:03,281
+But that's not how it is.
+
+110
+00:12:03,280 --> 00:12:04,961
+They don't know much about a carburetor.
+
+111
+00:12:04,961 --> 00:12:14,321
+They wouldn't recognize one if they saw it, but they know it's something in the car, and they know that it's something that if it works, the motor runs, and if it gets dirty, the motor doesn't run.
+
+112
+00:12:14,321 --> 00:12:22,881
+And you could tell them some more, that it's kind of like an atomizer, which they do know what that is, maybe, that sprays the air and the gas and so forth.
+
+113
+00:12:22,880 --> 00:12:37,561
+And you could, without them having the skill of a mechanic to really understand and fix carburetors, you can, there is this positive level which he's talking about here, which is approximate and superficial.
+
+114
+00:12:37,561 --> 00:12:53,481
+My relation to carburetors is certainly that, but it's something that you can at least gives you some way to coordinate your activity, to tell the next time it happens, you can say to the mechanic, oh, I bet the carburetor is dirty.
+
+115
+00:12:53,481 --> 00:13:00,041
+You can say to your wife, the carburetor was dirty, even though she understands as little as you what that really means.
+
+116
+00:13:00,040 --> 00:13:05,001
+She also understands it means something inside the motor isn't working right, and so forth.
+
+117
+00:13:05,321 --> 00:13:12,441
+And so you still have the same thing in view and the same averageness, and you have a common understanding of what's said.
+
+118
+00:13:12,441 --> 00:13:15,321
+All that is the positive version.
+
+119
+00:13:16,280 --> 00:13:19,401
+I think so.
+
+120
+00:13:19,721 --> 00:13:24,841
+Okay, and so that's positive, average, everyday intelligibility.
+
+121
+00:13:24,841 --> 00:13:32,281
+And then you sort of gradually go into some third thing.
+
+122
+00:13:32,280 --> 00:13:37,881
+And that's when he talks about how the function of language is perverted.
+
+123
+00:13:37,880 --> 00:13:41,401
+That's the word he uses in the middle of 213.
+
+124
+00:13:41,961 --> 00:13:49,241
+He's talking about, well, let's just read that paragraph, because that's where he's introducing the third kind.
+
+125
+00:13:50,841 --> 00:14:01,161
+Discourse, which belongs, talk, still, I want to say, which belongs to the essential state of Dasein's being and has a share in constituting Dasein's disclosedness, has the possibility of becoming idle talk.
+
+126
+00:14:01,160 --> 00:14:04,361
+Yeah, and it's, remember, you have to keep saying, and that's still all right.
+
+127
+00:14:04,361 --> 00:14:05,641
+That's positive.
+
+128
+00:14:05,640 --> 00:14:07,641
+So let's see what, when does it go wrong?
+
+129
+00:14:07,640 --> 00:14:13,440
+When it does, it serves not so much to keep being in the world open for us in an articulated understanding as to close it off.
+
+130
+00:14:13,441 --> 00:14:16,160
+Ooh, I never realized how misleading this is.
+
+131
+00:14:13,081 --> 00:14:20,400
+I know that whenever I read this chapter over and over, I get dizzy.
+
+132
+00:14:20,721 --> 00:14:34,721
+Well, now, having started with idle talk as positive, as average understanding, as certainly necessary for there to be a social everyday world at all, he switches it right there.
+
+133
+00:14:36,241 --> 00:14:41,841
+If you can do something bad with language, it has the possibility of becoming idle talk.
+
+134
+00:14:41,841 --> 00:14:43,601
+He doesn't have enough words.
+
+135
+00:14:43,841 --> 00:14:53,441
+What we want is a word for primordial talk, then another word for average talk, and another word for idle talk, because look where he's going now.
+
+136
+00:14:53,441 --> 00:15:05,681
+And when it does, it serves not so much to keep being in the world open for us, which even the carburetor talk did, in an articulated understanding, it closes it off and covers up the entities within the world.
+
+137
+00:15:05,681 --> 00:15:10,481
+Well, telling me the carburetor is dirty didn't cover up anything and didn't close off anything.
+
+138
+00:15:10,481 --> 00:15:14,801
+It just didn't help, didn't give me any deep understanding.
+
+139
+00:15:14,800 --> 00:15:17,281
+To do this, one need not aim to deceive.
+
+140
+00:15:17,280 --> 00:15:18,081
+Well, that's sure.
+
+141
+00:15:18,081 --> 00:15:20,160
+This has nothing to do with lying.
+
+142
+00:15:20,160 --> 00:15:23,200
+You can add that on your list of not gossiping and not bullshit.
+
+143
+00:15:23,201 --> 00:15:24,640
+It doesn't, it's not lying.
+
+144
+00:15:24,640 --> 00:15:30,161
+Idle talk does not have the kind of being which belongs to consciously passing off something as something else.
+
+145
+00:15:31,520 --> 00:15:35,761
+Using language as a con person is put that on the list.
+
+146
+00:15:35,760 --> 00:15:36,961
+That's the best way to put it.
+
+147
+00:15:36,961 --> 00:15:41,520
+So gossiping isn't and bullshit isn't and conning people isn't.
+
+148
+00:15:41,841 --> 00:15:52,481
+The fact that something has been said groundlessly, and then gets passed along further and further retelling, amounts to perverting the act of disclosing into an act of closing off.
+
+149
+00:15:52,481 --> 00:15:54,320
+Well, now I'm beginning to understand.
+
+150
+00:15:54,321 --> 00:16:01,401
+I knew if I actually talked about it to you all, I'd finally understand where it gets so confusing.
+
+151
+00:15:57,921 --> 00:16:03,801
+It just got confusing, unless I'm mistaken.
+
+152
+00:16:04,120 --> 00:16:09,881
+He went too fast over the positive, smash into the negative there.
+
+153
+00:16:09,880 --> 00:16:14,200
+And that's when you don't, it looks like there's not these three distinctions.
+
+154
+00:16:14,201 --> 00:16:24,361
+And when you don't have the threefold distinction, you can't make any sense of what in the world, most of the time, talking is doing in an average everyday way.
+
+155
+00:16:25,000 --> 00:16:26,681
+It's doing this middle thing.
+
+156
+00:16:26,681 --> 00:16:37,321
+It's giving you enough understanding so that you can coordinate your activity and cope with what's going on, but you don't have the deep understanding that the people with the skills have.
+
+157
+00:16:37,800 --> 00:16:49,161
+But now we are on, he's trying to talk about here, and the degraded kind, the perverted kind of language, which has an absolutely negative function.
+
+158
+00:16:50,201 --> 00:16:54,041
+That is, it's keeping you from understanding anything.
+
+159
+00:16:54,040 --> 00:16:56,760
+So that's all over the place in here.
+
+160
+00:16:58,201 --> 00:17:02,120
+For instance, on 212.
+
+161
+00:17:02,360 --> 00:17:05,241
+And again, the fast move, the middle of the page.
+
+162
+00:17:05,241 --> 00:17:12,040
+What's being said all is now stands purity that stands in for the genuineness of the discourse.
+
+163
+00:17:12,040 --> 00:17:14,040
+This is really still a positive kind.
+
+164
+00:17:14,040 --> 00:17:19,561
+And the understanding which belongs to it and for its appropriateness to the facts.
+
+165
+00:17:19,560 --> 00:17:23,800
+That is, you'll have to make do with what little understanding you have of carburetors.
+
+166
+00:17:23,800 --> 00:17:40,921
+Now he goes on, because this discoursing has lost its primary relationship of being towards the entity talked about, which is true, but I don't have any primary relation to carburetors, in such a way as to let this entity be appropriated in a primary, I've lost this primordial understanding.
+
+167
+00:17:41,161 --> 00:17:44,721
+But communication rather follows the route of gossiping.
+
+168
+00:17:44,721 --> 00:17:46,160
+I want to know about the German.
+
+169
+00:17:43,080 --> 00:17:47,520
+I hope that isn't gossiping.
+
+170
+00:17:48,241 --> 00:17:50,241
+We decided it wasn't, didn't we?
+
+171
+00:17:57,520 --> 00:18:00,880
+It could be gossip, but it better not be here.
+
+172
+00:18:00,881 --> 00:18:07,121
+Because if gossiping is talking about stuff which is none of your business, that's not relevant.
+
+173
+00:18:07,121 --> 00:18:08,961
+That was my fault last time.
+
+174
+00:18:08,961 --> 00:18:10,560
+So I just cross out gossiping.
+
+175
+00:18:10,560 --> 00:18:14,560
+There is a word there, but it's a word that really means passing the word along.
+
+176
+00:18:16,161 --> 00:18:18,800
+And so whatever, do we have a word for that?
+
+177
+00:18:18,800 --> 00:18:19,520
+I don't know.
+
+178
+00:18:19,520 --> 00:18:20,961
+A single word?
+
+179
+00:18:21,600 --> 00:18:31,760
+For repeating what you just heard to somebody else so that it becomes more and more distant from the situation in which you heard it?
+
+180
+00:18:33,441 --> 00:18:34,080
+What?
+
+181
+00:18:34,961 --> 00:18:36,241
+Hearsay.
+
+182
+00:18:36,241 --> 00:18:37,681
+Yeah, that's good, I think.
+
+183
+00:18:37,681 --> 00:18:39,600
+Hearsay isn't gossip.
+
+184
+00:18:39,921 --> 00:18:40,801
+No, that's right.
+
+185
+00:18:40,800 --> 00:18:41,121
+Good.
+
+186
+00:18:41,121 --> 00:18:41,760
+Hearsay.
+
+187
+00:18:41,760 --> 00:18:42,161
+Yeah.
+
+188
+00:18:42,161 --> 00:18:44,481
+Put right in hearsay for gossiping.
+
+189
+00:18:48,000 --> 00:18:49,520
+It's even built into the English.
+
+190
+00:18:49,520 --> 00:18:57,280
+You just hear it, and then you go and say it, and that's all you, and that's the thought is, and that's the kind of relationship you have to it.
+
+191
+00:18:57,600 --> 00:19:00,161
+And that's a bad thing, passing the word along.
+
+192
+00:19:00,161 --> 00:19:06,000
+And he's again made this fast move from genuineness or skipping the positive.
+
+193
+00:19:06,000 --> 00:19:13,760
+He's smacking the negative, because now he says what's said in the talk spreads in wider circles, and things are so because one says so.
+
+194
+00:19:13,760 --> 00:19:15,201
+That's hearsay, all right.
+
+195
+00:19:15,201 --> 00:19:25,520
+Idle talk is constituted by just such hearsay, passing the word along, the process by which in its initial lack of grounds to stand on becomes aggravated to complete groundlessness.
+
+196
+00:19:25,520 --> 00:19:26,961
+Well, there you go.
+
+197
+00:19:27,280 --> 00:19:28,241
+He does it again.
+
+198
+00:19:28,840 --> 00:19:34,120
+And I don't know how many times I should read things to you.
+
+199
+00:19:34,121 --> 00:19:37,481
+One more at the bottom, the page 212.
+
+200
+00:19:37,481 --> 00:19:45,161
+The average understanding of the reader, I don't know if that's really in there, you don't need it, will never be able to decide what's been drawn from Pompon.
+
+201
+00:19:45,320 --> 00:19:47,000
+Oh, I want to say that to later.
+
+202
+00:19:48,040 --> 00:19:51,640
+That's an interesting, that's got to do with ambiguity.
+
+203
+00:19:51,961 --> 00:19:56,040
+And 213, let's look at 213.
+
+204
+00:19:56,040 --> 00:19:59,401
+And perverting, I read that already.
+
+205
+00:19:59,401 --> 00:19:59,961
+Good.
+
+206
+00:19:59,961 --> 00:20:05,000
+So now, I'll give you, just to, anybody want to say anything about that?
+
+207
+00:20:05,000 --> 00:20:07,641
+That's sort of the basic insight.
+
+208
+00:20:07,641 --> 00:20:16,040
+That's what I hope is right and that we've learned after, I don't know how many, at least three or four hours of talking about this.
+
+209
+00:20:17,481 --> 00:20:29,961
+If everybody buys it, I was going to give you another example sort of based on Blattner, because I was looking at the secondary sources, and Blattner's got a pretty good grip on this, and a kind of nice example of it.
+
+210
+00:20:29,961 --> 00:20:33,721
+I didn't take quite his example, but it's similar.
+
+211
+00:20:33,721 --> 00:20:34,600
+So I'll just run through it.
+
+212
+00:20:34,760 --> 00:20:37,241
+It's just another example instead of carburetors.
+
+213
+00:20:37,241 --> 00:20:41,961
+So I have a primordial understanding of teaching in a university.
+
+214
+00:20:42,201 --> 00:20:43,000
+What does that mean?
+
+215
+00:20:43,000 --> 00:20:44,361
+And this is where Blattner is helpful.
+
+216
+00:20:44,360 --> 00:20:48,040
+That means I can talk with people about it who understand what I'm talking about.
+
+217
+00:20:48,040 --> 00:20:50,360
+They can make useful suggestions to me.
+
+218
+00:20:50,360 --> 00:20:53,000
+They can point out things that I've done wrong.
+
+219
+00:20:53,000 --> 00:20:56,680
+They can point out to each other things they dislike and like about it.
+
+220
+00:20:56,681 --> 00:20:57,481
+All of that.
+
+221
+00:20:57,881 --> 00:21:01,481
+That is not any old people, but other teachers in the university.
+
+222
+00:21:02,360 --> 00:21:04,360
+That's the first level.
+
+223
+00:21:04,360 --> 00:21:12,560
+And that's the proper function of talk as logos, as pointing things out in a shared way.
+
+224
+00:21:11,881 --> 00:21:17,601
+And it's a way of articulating some, what I would call sub-world, I mean, the world of teaching.
+
+225
+00:21:17,840 --> 00:21:23,441
+It's not the big world, the referential totality, but it's got its own little world.
+
+226
+00:21:23,921 --> 00:21:35,120
+And now, then, well, then what I wouldn't say, and I have a derivative, privative, but nonetheless positive, understanding of kindergarten teaching.
+
+227
+00:21:35,121 --> 00:21:41,680
+That is, I can understand it well enough to decide which kindergarten to send my kid to after going and observing some.
+
+228
+00:21:41,681 --> 00:21:46,880
+I can sort of see what's working and what's not working sometime.
+
+229
+00:21:46,881 --> 00:21:55,040
+I can talk to other parents about what they think about how their kid is doing in kindergarten and where the best one is and so forth.
+
+230
+00:21:55,040 --> 00:21:57,600
+That's the derivative, but positive.
+
+231
+00:21:57,600 --> 00:22:02,800
+And it's not covering anything up as far as I can see and pushing it into groundlessness.
+
+232
+00:22:02,800 --> 00:22:06,560
+That's just what you have to do if you don't know about teaching kindergarten.
+
+233
+00:22:06,560 --> 00:22:10,961
+And that's none of you do, I imagine, or only a few, and I haven't a clue.
+
+234
+00:22:10,961 --> 00:22:25,040
+And then I tried to think of, and what would it be like to be talking about it and passing the word around about it and have no relation to it, not having ever taught kindergarten or even sent your kid to kindergarten.
+
+235
+00:22:25,040 --> 00:22:30,000
+Well, there is a, it just occurred to me then, there is a situation like that right now.
+
+236
+00:22:30,000 --> 00:22:33,840
+I doubt if many of you are in it, but I got sort of dragged into it.
+
+237
+00:22:33,840 --> 00:22:42,481
+There are the people who are very worried, and maybe they're right, about the children don't play enough anymore.
+
+238
+00:22:42,481 --> 00:22:52,801
+And they say, I just got a petition in the mail about three days ago, as usual, every few weeks, asking me to sign this thing saying there should be more playtime and more playgrounds.
+
+239
+00:22:52,800 --> 00:22:55,201
+And what are the poor kids doing instead?
+
+240
+00:22:55,201 --> 00:22:57,121
+They're learning to use computers.
+
+241
+00:22:57,121 --> 00:23:02,360
+Their computer is now that are just wonderful for, I don't know, six-year-olds to learn to use.
+
+242
+00:23:02,681 --> 00:23:17,721
+And now, what's interesting about that is I'm sure there are some people who are actual kindergarten teachers whose views about this and how much time they should play and how much time they should use computers in kindergarten, I would trust.
+
+243
+00:23:17,721 --> 00:23:23,560
+And then there are other people who at least have somewhat understanding of it, like me.
+
+244
+00:23:23,800 --> 00:23:27,000
+I think my impulse would be: it's a little early for computers.
+
+245
+00:23:27,161 --> 00:23:34,600
+I think it's nice if they play and sing and dance for a while in kindergarten, but I don't really have any basis on which to say it.
+
+246
+00:23:34,600 --> 00:23:48,201
+And then there are these people sending out these petitions and being interviewed on television and having mass rallies against computers in kindergarten, who I have a feeling are just having a kind of fixed reaction.
+
+247
+00:23:48,760 --> 00:23:51,161
+They get it all from, what's the guy's name?
+
+248
+00:23:51,401 --> 00:23:52,360
+Anybody know?
+
+249
+00:23:52,360 --> 00:23:54,681
+You probably don't recognize what I'm talking about.
+
+250
+00:23:55,481 --> 00:23:56,760
+Forgetting it now.
+
+251
+00:23:57,401 --> 00:23:58,921
+Waldorf School people.
+
+252
+00:23:58,921 --> 00:24:00,840
+Any of you, Waldorf School people?
+
+253
+00:24:01,641 --> 00:24:03,961
+Waldorf, what's the guy's name behind it?
+
+254
+00:24:04,280 --> 00:24:05,000
+Steiner.
+
+255
+00:24:05,000 --> 00:24:21,800
+Yeah, this is all a kind of Steiner talk, and it could be interesting, but it could just float off into everybody who's a Steiner person has a view about that you shouldn't be touching computers at all until I think they're 13 or something like that.
+
+256
+00:24:21,800 --> 00:24:31,160
+And that seems to me you'd be floating off pretty far into just covering up what they should be really studying and worrying about and asking teachers about it.
+
+257
+00:24:31,320 --> 00:24:33,241
+Anyway, that's my concrete example.
+
+258
+00:24:33,241 --> 00:24:43,241
+People have opinions, and then and with no positive experience, well, no, certainly no primordial, not even any positive experience, they still got opinions.
+
+259
+00:24:43,600 --> 00:25:03,520
+And that made me think, well, maybe the extreme form of this is the talk show, in which you with a perversion of talk is that everybody gets their chance to talk and everybody calls up and has an opinion, which then an opinion which has no no not necessarily any positive relation.
+
+260
+00:25:03,520 --> 00:25:08,321
+And I wonder, so so I would call them idle talk shows.
+
+261
+00:25:08,320 --> 00:25:12,000
+That's my new, I mean, that's how that's what they really are.
+
+262
+00:25:12,000 --> 00:25:14,320
+Heidegger's nailed them, I think.
+
+263
+00:25:14,800 --> 00:25:16,401
+Did somebody have a hand coming up?
+
+264
+00:25:16,401 --> 00:25:18,080
+Yes, that's Tyler.
+
+265
+00:25:20,560 --> 00:25:29,280
+Have somebody view from these things as past numbers experientialization would be one of the ends of the strange patterns.
+
+266
+00:25:29,921 --> 00:25:30,881
+I think that's right.
+
+267
+00:25:30,881 --> 00:25:33,760
+Is that what you think, or you think I'm not reading that right?
+
+268
+00:25:35,681 --> 00:25:38,560
+I think one possibility is trying to understand it.
+
+269
+00:25:39,681 --> 00:25:40,321
+Well, good.
+
+270
+00:25:40,320 --> 00:25:40,881
+Keep trying.
+
+271
+00:25:41,760 --> 00:25:42,961
+Go ahead.
+
+272
+00:25:44,961 --> 00:25:47,440
+One of your simple biggest mindsets.
+
+273
+00:25:52,961 --> 00:25:53,840
+Right.
+
+274
+00:25:56,401 --> 00:25:57,201
+Yeah.
+
+275
+00:25:58,800 --> 00:25:59,920
+That's right.
+
+276
+00:26:12,641 --> 00:26:13,201
+Yeah.
+
+277
+00:26:19,520 --> 00:26:21,760
+We wouldn't have a primordial relation to it.
+
+278
+00:26:21,760 --> 00:26:25,520
+We don't have it uh uh I I don't know if we're we're disagreeing.
+
+279
+00:26:25,560 --> 00:26:29,880
+In you're are you just ta are you trying to take in view to um literally maybe?
+
+280
+00:26:27,520 --> 00:26:46,520
+I mean it seems to me even in having kindergarten in view, uh you could be standing in the middle of the kindergarten and talk about it, but if you were standing over coffee in another room and you weren't actually looking at the kindergarten, but you were a kindergarten teacher and so was I, we'd still have it in view.
+
+281
+00:26:47,161 --> 00:26:48,201
+I think that that's okay.
+
+282
+00:27:01,721 --> 00:27:02,201
+Right.
+
+283
+00:27:02,520 --> 00:27:03,080
+Okay.
+
+284
+00:27:04,441 --> 00:27:04,921
+Yeah.
+
+285
+00:27:13,161 --> 00:27:15,241
+But we're visually present.
+
+286
+00:27:15,721 --> 00:27:16,360
+Yeah.
+
+287
+00:27:34,681 --> 00:27:38,520
+Or the way you're intact on it really is not as important as it appears.
+
+288
+00:27:43,881 --> 00:27:49,961
+Yeah, yeah, I think a lot depends on the way you're reading it, this uniqueness claim.
+
+289
+00:27:49,961 --> 00:27:52,921
+I don't I don't see the uniqueness claim in here.
+
+290
+00:27:52,921 --> 00:27:55,401
+I mean but of course we we don't know what this in view means.
+
+291
+00:27:55,401 --> 00:27:56,760
+That's the point I want to hear.
+
+292
+00:27:56,760 --> 00:27:58,840
+I don't think back to the kindergarten.
+
+293
+00:27:58,840 --> 00:28:07,401
+I don't c I can't believe that we can't have a genuine relation to the kindergarten even when we're having you know coffee or outside of it.
+
+294
+00:28:08,040 --> 00:28:21,441
+Although maybe if it was if it would help, if it was really the uniqueness of this particular kindergarten class at this point in the semester, maybe you would need to be actually there in front of it.
+
+295
+00:28:21,441 --> 00:28:35,920
+But I don't think that's I just have the feeling that's putting too strong a requirement on genuine primordial discourse that you have to be visually present and talk about that unique thing.
+
+296
+00:28:35,921 --> 00:28:40,161
+And I'm missing in your story and in Heidegger's story.
+
+297
+00:28:40,161 --> 00:28:41,520
+I'll call in your second.
+
+298
+00:28:42,481 --> 00:28:46,481
+The thing about the skill, it certainly wouldn't, I don't think we're disagreeing about that.
+
+299
+00:28:46,481 --> 00:28:48,080
+Heidegger just doesn't put it in.
+
+300
+00:28:48,080 --> 00:28:52,641
+It isn't enough to stand in front of the symposium, the podium, and do it.
+
+301
+00:28:53,201 --> 00:28:58,800
+I mean, let's take, but it was better to take something more like a chess master talking to another chess master.
+
+302
+00:28:58,800 --> 00:29:04,721
+They've got to have the position in front of them, presumably, and they've got to be chess masters.
+
+303
+00:29:04,721 --> 00:29:08,800
+And now, how much, you know, the chess is a funny example.
+
+304
+00:29:08,800 --> 00:29:11,520
+It certainly doesn't have to be visually present in front of them.
+
+305
+00:29:11,520 --> 00:29:14,080
+They can each there be chess masters.
+
+306
+00:29:14,080 --> 00:29:16,160
+They can have it in their mind.
+
+307
+00:29:16,161 --> 00:29:17,760
+I guess that's all right.
+
+308
+00:29:18,080 --> 00:29:20,800
+I don't think it becomes any less primordial.
+
+309
+00:29:21,360 --> 00:29:25,041
+But anyway, I can't go any further.
+
+310
+00:29:25,040 --> 00:29:31,120
+If you have quotes that push us in the direction of this actual presence and actual uniqueness, I'm ready to see them.
+
+311
+00:29:50,961 --> 00:29:51,441
+Yeah.
+
+312
+00:30:00,520 --> 00:30:01,160
+Okay.
+
+313
+00:30:06,520 --> 00:30:08,201
+Well, okay.
+
+314
+00:30:08,201 --> 00:30:14,921
+He, the phronesis, the practical wisdom, is something that he definitely interested in.
+
+315
+00:30:14,921 --> 00:30:29,000
+He gave whole courses on Aristotle's notion of practical wisdom, and it shows up in Division II in the Guilt chapter, where he never mind it, it's in the Guilt chapter, nothing means what it seems to mean in Division II.
+
+316
+00:30:29,800 --> 00:30:41,481
+But in the chapter, he distinguishes responding to the general situation, which is what most people do, and responding to the unique, concrete situation, which is what the person of practical wisdom does.
+
+317
+00:30:41,800 --> 00:30:43,961
+And that could be what's going on here.
+
+318
+00:30:44,600 --> 00:30:46,441
+I mean, it sort of cuts both ways.
+
+319
+00:30:46,441 --> 00:30:48,520
+He does know it, and that's on your side.
+
+320
+00:30:48,520 --> 00:30:50,441
+I mean, maybe that's what he has in his mind.
+
+321
+00:30:50,441 --> 00:30:54,280
+But if he knows it, he certainly doesn't, in the two places, refer back and forth.
+
+322
+00:30:54,280 --> 00:31:00,680
+He doesn't say that the phronesis is using language in its genuine form.
+
+323
+00:31:00,681 --> 00:31:03,880
+He just says he's responding appropriately.
+
+324
+00:31:03,881 --> 00:31:08,120
+And here he doesn't say Aristotle is the one who understood it.
+
+325
+00:31:08,121 --> 00:31:11,640
+So I'm going to do it my way.
+
+326
+00:31:11,641 --> 00:31:13,800
+But it's important you can all keep your eyes open.
+
+327
+00:31:13,800 --> 00:31:16,280
+Let me make clear again what Tyler is saying.
+
+328
+00:31:16,280 --> 00:31:25,241
+I mean, how direct and unique does your situation have to be?
+
+329
+00:31:25,641 --> 00:31:36,441
+How direct is your relation to the object, and how unique does the object have to be when you're talking about it to somebody else in order to count as genuine primordial discourse?
+
+330
+00:31:36,760 --> 00:31:38,841
+I think that's fine.
+
+331
+00:31:38,840 --> 00:31:41,481
+Now I saw these hands that were inspired by this discussion.
+
+332
+00:31:41,481 --> 00:31:42,040
+Yeah.
+
+333
+00:31:46,641 --> 00:31:58,801
+If you go to the new stage between primordial or groundless, that we're adding in this concept of positive versus negative, they're that fairly why do you think it isn't part of it?
+
+334
+00:31:59,280 --> 00:32:05,760
+He used the term positive, and he certainly has lots of negative things to say about the perversion is pretty negative.
+
+335
+00:32:07,600 --> 00:32:20,800
+The idea is closing off because all the techniques are putting the negative closing off on words, you must all move that off.
+
+336
+00:32:24,241 --> 00:32:25,441
+Yeah, okay.
+
+337
+00:32:28,320 --> 00:32:33,040
+But he's got, but wait, you're doing a good job of calling attention to a distinction.
+
+338
+00:32:33,040 --> 00:32:44,561
+There is another kind of closing off, but he's certainly on 213 talking about a closing off which can be pushed on to complete groundlessness.
+
+339
+00:32:44,560 --> 00:32:45,121
+Where is that?
+
+340
+00:32:45,121 --> 00:32:46,961
+Is that the next paragraph or someplace?
+
+341
+00:32:47,201 --> 00:32:56,880
+His closing off is not just sort of stopping the conversation, but passing the word along more and more outside of the context.
+
+342
+00:32:57,280 --> 00:32:58,721
+Where did anybody see that?
+
+343
+00:32:58,721 --> 00:33:00,241
+What I'm looking for?
+
+344
+00:33:03,441 --> 00:33:09,201
+There's passing the word along two-thirds down on 212, but there's some place where it, oh, here's right after that.
+
+345
+00:33:09,201 --> 00:33:28,280
+Passing the idle talk is constituted, this is two-thirds down on 212, by just such passing the word along, a process by which its initial lack of grounds to stand on, that's the positive, I think, which is no direct experience, becomes aggravated to complete groundlessness.
+
+346
+00:33:28,280 --> 00:33:30,360
+That sounds like a bad thing.
+
+347
+00:33:27,921 --> 00:33:31,080
+And let me go further.
+
+348
+00:33:31,241 --> 00:33:39,640
+And indeed, this idle talk is not confirming vocal gossip, but even spreads to what we write and takes the form of scribbling and so forth.
+
+349
+00:33:40,040 --> 00:33:42,760
+And okay.
+
+350
+00:33:42,760 --> 00:33:45,320
+Anyway, I think that he's got it negative.
+
+351
+00:33:46,441 --> 00:33:47,000
+Okay?
+
+352
+00:33:47,560 --> 00:33:48,361
+Next point.
+
+353
+00:33:48,360 --> 00:33:49,081
+Anybody else?
+
+354
+00:33:49,080 --> 00:33:51,561
+I saw another hand that you may have already said what you want.
+
+355
+00:33:51,560 --> 00:33:52,201
+Yeah.
+
+356
+00:34:12,440 --> 00:34:19,480
+Well, that's what Tyler raised, and I don't, but I don't think we're concerned about it, you say.
+
+357
+00:34:20,440 --> 00:34:23,961
+Do you think we have to take sides on this question, or can we leave it?
+
+358
+00:34:25,400 --> 00:34:26,760
+I can give my first.
+
+359
+00:34:40,121 --> 00:34:40,840
+Okay.
+
+360
+00:34:42,440 --> 00:34:47,080
+Well, yes, I guess, but if I understood you.
+
+361
+00:34:47,480 --> 00:34:49,080
+I'll leave that to you all.
+
+362
+00:34:49,081 --> 00:35:00,041
+I mean, what you need to ask yourself is: how much of a direct in the presence of X do you have to be when you're talking about it to somebody else?
+
+363
+00:35:00,440 --> 00:35:02,760
+How much skill do you have to share?
+
+364
+00:35:02,760 --> 00:35:04,921
+Do you have to have it actually in view?
+
+365
+00:35:04,920 --> 00:35:13,161
+Is it enough that you have both been in this, had the, as Tyler put it, had had the first-hand experience, but you're not having it right to the end?
+
+366
+00:35:14,001 --> 00:35:15,280
+You can worry about that.
+
+367
+00:35:15,280 --> 00:35:18,560
+I don't think anything important for us hangs on it.
+
+368
+00:35:19,840 --> 00:35:23,840
+If it does, you have to tell me about it because it doesn't fit.
+
+369
+00:35:24,081 --> 00:35:26,800
+I mean, I have no place for it right now in my picture.
+
+370
+00:35:26,800 --> 00:35:27,920
+So I'm going to go on.
+
+371
+00:35:27,920 --> 00:35:34,000
+And if you then tell me later that I've sort of messed up the picture, come and tell me in office hours.
+
+372
+00:35:34,001 --> 00:35:35,120
+People do, plenty.
+
+373
+00:35:35,121 --> 00:35:36,321
+And I learned a lot.
+
+374
+00:35:36,320 --> 00:35:38,241
+Okay, now let's see.
+
+375
+00:35:38,241 --> 00:35:46,561
+So I just got to the ideal talk show, which is the idle talk show.
+
+376
+00:35:46,561 --> 00:35:53,200
+And what Heidegger then calls scribbling, which we're right on the place where he's calling it, about 10 lines from the bottom.
+
+377
+00:35:53,201 --> 00:35:56,161
+Indeed, this idle talk is not confined to vocal gossip.
+
+378
+00:35:56,161 --> 00:35:57,280
+That's the talk show.
+
+379
+00:35:57,280 --> 00:36:00,640
+But even spreads to what we write where it takes the form of scribbling.
+
+380
+00:36:00,641 --> 00:36:02,881
+What's the latest form of scribbling?
+
+381
+00:36:02,880 --> 00:36:04,241
+It's blogs.
+
+382
+00:36:04,241 --> 00:36:11,841
+It's people writing about what they don't know anything about, and other people are reading about what they don't know anything about and have definite opinions about.
+
+383
+00:36:11,840 --> 00:36:16,881
+And it's got this kind of ambiguity in it, too, that he talks about.
+
+384
+00:36:16,880 --> 00:36:19,760
+I mean, it's not, I'll just say a word about that.
+
+385
+00:36:20,480 --> 00:36:26,241
+Even on talk shows, there are people who really know what they're talking about and are worth listening to.
+
+386
+00:36:26,241 --> 00:36:29,121
+And there are a lot of people who are just windbags.
+
+387
+00:36:29,121 --> 00:36:30,640
+And the same thing with blogs.
+
+388
+00:36:31,121 --> 00:36:39,120
+Not all blogs are absolutely useless and just people liking to hear themselves talk or see themselves scribble.
+
+389
+00:36:41,201 --> 00:36:44,280
+But the problem is, you can't tell.
+
+390
+00:36:44,280 --> 00:37:02,441
+Once you get outside the context and outside the expertise, Heidegger thinks, you, the reader of the blog or the listener to the Idol Talk show, can't distinguish the ones who are worth listening to because they really have a primordial relation to what they're talking about and the ones who aren't.
+
+391
+00:36:58,001 --> 00:37:05,080
+And that's the ambiguity that he talks about.
+
+392
+00:37:05,960 --> 00:37:09,320
+I think I'm ready for ambiguity in the just got there.
+
+393
+00:37:09,641 --> 00:37:11,800
+Yes, you can't tell.
+
+394
+00:37:11,800 --> 00:37:20,760
+And you know, blogs are set up so that you're supposed to be able to tell because the ones that get most hit on are supposedly the most reliable.
+
+395
+00:37:20,760 --> 00:37:27,161
+But they might just be the ones that appeal to the most people's prejudices or superstitions or stupidity.
+
+396
+00:37:27,161 --> 00:37:34,841
+There's no guarantee that just because they're blogs that a lot of people read, that the people who are writing them have anything to say.
+
+397
+00:37:34,840 --> 00:37:40,440
+So anyway, this is, and Kierkegaard already was talking about this scribbling phenomenon.
+
+398
+00:37:40,681 --> 00:37:46,440
+He called it the press or the media who were the phenomena behind it.
+
+399
+00:37:46,760 --> 00:37:58,040
+I'm sort of returning Heidegger to Kierkegaard, who really brought up the whole thing in terms of the evils of the press and the media where people, I'll just say this real quick.
+
+400
+00:37:58,201 --> 00:38:12,520
+At the time of Kierkegaard, 1850, they were just discovering sort of coffeehouses and people having conversations in a way about things that were kind of universal things.
+
+401
+00:38:12,521 --> 00:38:18,120
+People like Voltaire, who had views about all sorts of things, could talk to other people who had views about all sorts of things.
+
+402
+00:38:18,121 --> 00:38:21,000
+Kierkegaard thinks, Habermas thinks that's great.
+
+403
+00:38:21,001 --> 00:38:23,321
+That's the beginning of the public sphere.
+
+404
+00:38:23,320 --> 00:38:28,880
+And he thinks the public sphere is wonderful because these people who have no direct relation to what they're talking about it.
+
+405
+00:38:28,840 --> 00:38:39,881
+I'm putting funny words in his mouth, but it comes out that, and have no experience of what they're talking about, and certainly no commitment as not taking sides, because, as he puts it, they're outside of power.
+
+406
+00:38:40,201 --> 00:38:42,481
+They're just kibbutzers, I would say.
+
+407
+00:38:42,121 --> 00:38:47,360
+And those people now get together in the coffeehouses and make a big deal.
+
+408
+00:38:47,601 --> 00:38:52,480
+And Pablomas thinks that they're making great critical progress and people should pay attention to them.
+
+409
+00:38:52,480 --> 00:39:07,841
+And Kierkegaard thinks it's just the beginning of the end, the end being the talk shows and blogs where people have gotten taken out of the concrete shared situation in which genuine discourse is possible.
+
+410
+00:39:07,840 --> 00:39:13,920
+That's what the media does for people in the Heidegger-Kierkegaard version.
+
+411
+00:39:13,920 --> 00:39:14,880
+So no, let's go.
+
+412
+00:39:14,880 --> 00:39:16,320
+I mean, that was just an aside.
+
+413
+00:39:16,320 --> 00:39:17,200
+So let's go.
+
+414
+00:39:17,201 --> 00:39:23,360
+But if you want to read more about it, read Kierkegaard, The Present Age, where he's got this great attack on the media.
+
+415
+00:39:23,681 --> 00:39:27,280
+He thinks the press is going to destroy the West.
+
+416
+00:39:27,920 --> 00:39:30,880
+And so now on 17, where are we?
+
+417
+00:39:30,880 --> 00:39:31,920
+217.
+
+418
+00:39:31,920 --> 00:39:35,201
+I have things I want to read about ambiguity.
+
+419
+00:39:35,201 --> 00:39:38,400
+So let's just do it, because we're now ready for ambiguity.
+
+420
+00:39:38,400 --> 00:39:40,480
+And I skipped, as you can see, curiosity.
+
+421
+00:39:40,480 --> 00:39:47,360
+This is a funny grab bag of idle talk, curiosity, and ambiguity.
+
+422
+00:39:47,360 --> 00:39:51,520
+They just, I mean, it seems sort of arbitrary that he's got these three things.
+
+423
+00:39:51,601 --> 00:40:04,640
+It looks like if you worked at that a little, you could think of some fourth thing that you could throw in as part of what covers up what it is to be a Dasein.
+
+424
+00:40:04,641 --> 00:40:09,280
+But at least I can see, and I just tried to do it, how ambiguity comes in.
+
+425
+00:40:09,920 --> 00:40:16,161
+If you're outside of the situation and outside of the skill, then how do you know what to believe and what not?
+
+426
+00:40:16,320 --> 00:40:21,040
+It's curiosity that I skipped because I think it's just a totally different issue.
+
+427
+00:40:21,041 --> 00:40:22,241
+I'll get back to it.
+
+428
+00:40:22,241 --> 00:40:41,161
+The ambiguity on 217, he says, when in our everyday being with one another we encounter the sort of thing that is accessible to everyone, about which anyone can say anything, that's the, you know, I keep saying talk show, blog picture, it soon becomes impossible to decide what is disclosed in a genuine understanding and what is not.
+
+429
+00:40:41,161 --> 00:40:49,081
+This ambiguity extends not only to the world, but to being with one another and Dasein, even Dasein's being toward itself.
+
+430
+00:40:49,320 --> 00:40:50,920
+I've got to say something about that.
+
+431
+00:40:50,920 --> 00:40:52,681
+I thought that was fascinating.
+
+432
+00:40:52,681 --> 00:41:07,721
+What would it be to have an ambiguous relation to yourself and even to have a sense in which, and I'm not sure Heidegger's saying this, in which the ambiguity is some positive virtue.
+
+433
+00:41:08,760 --> 00:41:09,640
+Let's go on a little.
+
+434
+00:41:09,641 --> 00:41:20,840
+Everything looks as if it were genuinely understood, taken hold of, genuinely spoken, though at bottom it's not, or else it does not look so, and yet at bottom it is, and so forth.
+
+435
+00:41:20,840 --> 00:41:26,521
+Well, maybe I got a little off the beam here, but I was thinking about Second Life at this point.
+
+436
+00:41:26,521 --> 00:41:32,280
+There's this sense in which everybody, I mean, how many know about Second Life by this time?
+
+437
+00:41:32,280 --> 00:41:33,721
+A lot of people, I imagine.
+
+438
+00:41:33,721 --> 00:41:49,321
+This virtual world in which it's like a masquerade, in which people go there not to be directly confronting themselves and each other, but to be sort of what they would like to be instead of what they really are.
+
+439
+00:41:49,320 --> 00:41:58,360
+And that way, and make a positive, and that, a masquerade in general, of which Second Life is the latest version, it was already a big hit in the Renaissance.
+
+440
+00:41:58,360 --> 00:42:09,641
+Romeo and Juliet were met at a masquerade, but now they would meet on Second Life, and they would be disguised, he would be disguised as a woman, and she would be disguised as a man, but it would all work out anyway.
+
+441
+00:42:10,440 --> 00:42:22,560
+And what's interesting is this idea that not confronting what's going on and who you're talking to and what shared things you're pointing out can actually look like an advantage.
+
+442
+00:42:22,561 --> 00:42:29,280
+Somehow your true self comes out when you can disguise yourself as a member of the opposite sex or whatever.
+
+443
+00:42:29,601 --> 00:42:35,201
+There's some ambiguity is just running rife in Second Life.
+
+444
+00:42:35,201 --> 00:42:42,561
+Nobody's asking sort of what is really going on, who are they really talking to, or what is the situation really like.
+
+445
+00:42:42,561 --> 00:42:45,441
+That's all been just turned into the virtual.
+
+446
+00:42:45,440 --> 00:42:50,081
+I think Kierkegaard and Heidegger would find that really upsetting.
+
+447
+00:42:50,081 --> 00:42:51,921
+Yeah, you want to say something about it?
+
+448
+00:42:55,840 --> 00:43:12,480
+Heidegger's even saying that, for example, you have no idea, particularly politics, but he would say, Pauline hasn't been able to talk to us.
+
+449
+00:43:26,320 --> 00:43:27,201
+That's right.
+
+450
+00:43:28,400 --> 00:43:29,280
+Yeah, that's exactly.
+
+451
+00:43:35,041 --> 00:43:35,760
+That's right.
+
+452
+00:43:35,760 --> 00:43:36,241
+That's right.
+
+453
+00:43:36,241 --> 00:43:37,760
+That's exactly what he's saying.
+
+454
+00:43:37,760 --> 00:43:41,040
+He's saying, and you can have to take your stand on this.
+
+455
+00:43:41,041 --> 00:43:51,121
+With Habermas and Charles Taylor, for instance, who believe in the public sphere, the fact that you have no experience of what you're talking about has nothing to mean, no harm.
+
+456
+00:43:51,760 --> 00:43:56,960
+You're a rational being, and you can criticize what the administration is doing, even though you...
+
+457
+00:43:56,960 --> 00:44:14,280
+I mean, to put this in an extremely outrageous form, which I do when I talk about this in lectures sometime, is it's as if you'd rather listen to Chomsky if you're on the far left than Kissinger, who's on the far right.
+
+458
+00:44:14,280 --> 00:44:17,241
+But Chomsky's never done anything but linguistics.
+
+459
+00:44:17,241 --> 00:44:21,000
+And yet, if you like his politics, you'll listen to him.
+
+460
+00:44:21,001 --> 00:44:22,681
+I'd rather listen to Kissinger.
+
+461
+00:44:22,681 --> 00:44:27,160
+Even if I totally disagree with his values, he actually did something.
+
+462
+00:44:27,161 --> 00:44:29,080
+He got Israel and Egypt together.
+
+463
+00:44:29,081 --> 00:44:31,961
+He was involved in ending the Vietnam War.
+
+464
+00:44:31,960 --> 00:44:39,561
+When he talks about politics, you don't have to agree with him, but at least you have the feeling that you better pay attention to him.
+
+465
+00:44:39,561 --> 00:44:41,560
+Whereas I'm not so sure about Chomsky.
+
+466
+00:44:41,561 --> 00:44:44,841
+I mean, he's read a lot of newspapers and correlated them.
+
+467
+00:44:44,840 --> 00:44:48,360
+But I don't, I mean, so anyway, that's the issue.
+
+468
+00:44:48,360 --> 00:44:49,560
+You have to have a feel for this.
+
+469
+00:44:49,561 --> 00:45:10,280
+And this is a kind of Kierkegaard-Heideger issue that goes against sort of the whole idea of democracy and a critical electorate and so forth, and goes in the direction of you want experts to be making the decisions who are in these various domains.
+
+470
+00:45:10,280 --> 00:45:15,400
+And that's sort of unnerving and makes people annoyed, but that may still be the truth.
+
+471
+00:45:15,400 --> 00:45:17,400
+Anyway, that's certainly Heidegger's lie.
+
+472
+00:45:17,400 --> 00:45:18,041
+Yeah.
+
+473
+00:45:21,320 --> 00:45:28,280
+Sort of like someone noticing that are they sort of haven't understandable what's going on?
+
+474
+00:45:28,280 --> 00:45:29,480
+They don't think you know why.
+
+475
+00:45:31,400 --> 00:45:32,040
+That's good.
+
+476
+00:45:32,041 --> 00:45:32,600
+It might.
+
+477
+00:45:32,601 --> 00:45:38,440
+It might add uh that but then uh you don't know, I mean wha and what do you do about that?
+
+478
+00:45:38,440 --> 00:45:46,560
+You certainly don't read the the carburetor literature of the person who knows that it's something in a car that has something to do with the gas.
+
+479
+00:45:46,800 --> 00:45:55,280
+I mean they should why should we look at their blogs and listen to them on talk shows if all they got is this secondhand kind of understanding.
+
+480
+00:45:55,280 --> 00:45:58,241
+And then, just to repeat, we're back to ambiguity.
+
+481
+00:45:58,241 --> 00:46:01,280
+If only you could tell who had the real understanding and who didn't.
+
+482
+00:46:01,280 --> 00:46:02,241
+And there are clues.
+
+483
+00:46:02,241 --> 00:46:08,401
+I mean, I mean, I would say it's pretty clear that Kissinger understands something about politics at first hand.
+
+484
+00:46:08,400 --> 00:46:13,920
+And I yeah, anyway, I don't want to say more about it.
+
+485
+00:46:14,320 --> 00:46:17,121
+But I just want to go back and read something here.
+
+486
+00:46:18,561 --> 00:46:19,920
+No, I don't even need that.
+
+487
+00:46:20,081 --> 00:46:22,800
+Because I want to make sure we get where we're supposed to be.
+
+488
+00:46:22,800 --> 00:46:24,641
+Yeah, I want to get to curiosity.
+
+489
+00:46:24,641 --> 00:46:25,520
+Because I want to make sure.
+
+490
+00:46:25,681 --> 00:46:26,721
+I want to do falling today.
+
+491
+00:46:26,721 --> 00:46:28,561
+I want to go on to care next time.
+
+492
+00:46:28,561 --> 00:46:31,681
+But I do think it this I do think things are getting clearer.
+
+493
+00:46:31,681 --> 00:46:32,081
+I don't know.
+
+494
+00:46:32,081 --> 00:46:32,960
+I hope you all do.
+
+495
+00:46:32,960 --> 00:46:38,241
+I mean, people look a lot more focused than they were last time, because I was unfocused.
+
+496
+00:46:38,241 --> 00:46:40,081
+So, okay, curiosity.
+
+497
+00:46:43,280 --> 00:46:47,681
+We don't know really what's going on with curiosity.
+
+498
+00:46:47,681 --> 00:46:52,321
+But if you want to integrate it with the other two, here's a try.
+
+499
+00:46:52,320 --> 00:47:00,881
+You could ask yourself the question: well, why do people engage in idle talk and in scribbling?
+
+500
+00:47:00,880 --> 00:47:07,441
+And if it's so ambiguous, and if you really can't learn anything about yourself or the world from it.
+
+501
+00:47:07,440 --> 00:47:12,241
+And the answer would be, first answer would be, well, it satisfies their curiosity.
+
+502
+00:47:12,241 --> 00:47:13,520
+Why shouldn't they be curious?
+
+503
+00:47:13,521 --> 00:47:15,121
+That's a good thing to be.
+
+504
+00:47:15,121 --> 00:47:21,360
+And that's an aspect of everydayness and averageness.
+
+505
+00:47:21,360 --> 00:47:32,520
+It doesn't seem necessarily a perversion to want to understand as best you can, even though you're not directly involved, what people are saying about what's going on.
+
+506
+00:47:32,681 --> 00:47:38,361
+It's not a very high level of understanding, but it isn't covering up yet.
+
+507
+00:47:38,760 --> 00:47:43,161
+And if that's what curiosity is, then why not have curiosity?
+
+508
+00:47:43,161 --> 00:47:46,120
+But then he does a turns against curiosity.
+
+509
+00:47:46,121 --> 00:47:48,201
+This happens on 216.
+
+510
+00:47:48,521 --> 00:47:50,840
+Curiosity is no fancy term.
+
+511
+00:47:50,840 --> 00:48:01,721
+It just means being interested in all sorts of things, which, strictly speaking, are none of your business in the sense that they're not in your world and you don't have any expertise in them.
+
+512
+00:48:03,241 --> 00:48:10,920
+What I think, my model of curiosity at this point is listening to the news and watching the TV news, even when it doesn't concern you.
+
+513
+00:48:10,920 --> 00:48:16,201
+You're watching some big storm hitting the coast in Indonesia or something.
+
+514
+00:48:16,201 --> 00:48:21,321
+Well, that must be curiosity because there's nothing you can do about it or learn from it.
+
+515
+00:48:21,320 --> 00:48:23,800
+But people do that.
+
+516
+00:48:23,800 --> 00:48:26,681
+And now, why should we be against it?
+
+517
+00:48:26,681 --> 00:48:28,921
+Well, here's the bottom of 216.
+
+518
+00:48:28,920 --> 00:48:39,160
+When curiosity has become free, it concerns itself with seeing not in order to understand what is seen or come into being towards it, but just in order to see it.
+
+519
+00:48:39,161 --> 00:48:43,321
+I presume that's why you watch, mostly why one watches the TV news.
+
+520
+00:48:43,320 --> 00:48:47,480
+It seeks novelty to leap from it anew to another novelty.
+
+521
+00:48:47,480 --> 00:48:50,521
+So you get the sound bites or the picture bites.
+
+522
+00:48:50,521 --> 00:48:52,760
+It seeks novelty only in order to leap from it.
+
+523
+00:48:52,760 --> 00:48:53,560
+Oh, no, you do.
+
+524
+00:48:53,721 --> 00:48:59,800
+In this kind of seeing, that which is an issue for care does not lie in grasping something and being knowingly in the truth.
+
+525
+00:48:59,800 --> 00:49:03,161
+It lies in the possibility of abandoning oneself to the world.
+
+526
+00:49:03,161 --> 00:49:09,080
+Therefore, curiosity is characterized by a specific way of not tearing alongside what is closest.
+
+527
+00:49:09,081 --> 00:49:11,640
+Or back to whatever closest means.
+
+528
+00:49:12,360 --> 00:49:17,520
+It's certainly in some way direct relation to what's going on.
+
+529
+00:49:17,760 --> 00:49:21,361
+That's not what's going on when you're listening to the news.
+
+530
+00:49:21,360 --> 00:49:26,560
+Consequently, it does not seek the leisure of tearing observantly, but rather seeks restlessness.
+
+531
+00:49:26,561 --> 00:49:33,841
+That's one, you know, one scene to the next on television, from Indonesia to Warsaw to New York.
+
+532
+00:49:34,320 --> 00:49:42,321
+Consequently, it does not seek the leisure of tearing observantly, but rather seeks restlessness and excitement of continual novelty and changing encounters.
+
+533
+00:49:44,161 --> 00:49:49,440
+In not tearing, curiosity is concerned with the constant possibility of distraction.
+
+534
+00:49:49,681 --> 00:49:51,041
+That's the next move.
+
+535
+00:49:51,041 --> 00:49:53,441
+So, why would anybody do this?
+
+536
+00:49:53,440 --> 00:50:04,561
+Watch the TV news, jumping from little bits of this subject to little bits of that subject, none of which concern you and about which you're learning absolutely nothing except how it looks.
+
+537
+00:50:04,561 --> 00:50:05,520
+Why would you?
+
+538
+00:50:05,521 --> 00:50:09,600
+Well, Heidegger wants to say, this is a view that goes back to Pascal.
+
+539
+00:50:09,601 --> 00:50:12,081
+He introduced the notion of distraction.
+
+540
+00:50:12,081 --> 00:50:16,001
+That really it's because you don't want to think about something.
+
+541
+00:50:16,001 --> 00:50:32,961
+That distraction is if you want to see and hear everything in this way, it's because what you don't want to do is face up to where is that coming from?
+
+542
+00:50:37,681 --> 00:50:39,681
+It sounds icy.
+
+543
+00:50:39,681 --> 00:50:41,280
+Well, they've been lucky.
+
+544
+00:50:41,280 --> 00:50:42,640
+It's only happened once.
+
+545
+00:50:43,681 --> 00:50:45,521
+But anyway, we'll have to just go on.
+
+546
+00:50:45,800 --> 00:50:54,321
+So the so the the the Heidegger's view is that it's the it's curiosity is the one of those, it's in the third level of covering up.
+
+547
+00:50:54,320 --> 00:51:09,161
+It's not facing up to what you should be watching and being concerned with, like how the how the Berkeley City Council is performing, which has an effect on your life and about which and dealing with things that you know something about and have sort of opinions about.
+
+548
+00:51:09,161 --> 00:51:11,561
+Okay, so let's see now.
+
+549
+00:51:11,561 --> 00:51:13,800
+And that's that's all I want to say about that.
+
+550
+00:51:13,800 --> 00:51:15,481
+Like, think, let me see.
+
+551
+00:51:15,480 --> 00:51:17,241
+217.
+
+552
+00:51:17,241 --> 00:51:18,201
+Okay, let's see.
+
+553
+00:51:18,201 --> 00:51:19,720
+Oh, there's a little more here.
+
+554
+00:51:20,041 --> 00:51:21,481
+So let's read it.
+
+555
+00:51:21,800 --> 00:51:27,241
+It's interesting that this distraction is just the opposite of wonder, he says at the bottom of 216.
+
+556
+00:51:27,241 --> 00:51:38,760
+That is, curiosity has nothing to do with, I suppose, that Steinoff scene or whatever the word for wonder is, where that is.
+
+557
+00:51:38,920 --> 00:51:40,840
+Oh, you don't have it in front of you, probably.
+
+558
+00:51:40,840 --> 00:51:42,041
+Okay, never mind.
+
+559
+00:51:42,041 --> 00:51:44,280
+I'm going to say it is wonder, I'm pretty sure.
+
+560
+00:51:44,280 --> 00:51:51,800
+So that's to be amazed at the point of not understanding something, to be amazed to the point of not understanding something in which it has no interest.
+
+561
+00:51:52,280 --> 00:51:53,641
+That's the problem.
+
+562
+00:51:53,641 --> 00:51:57,321
+It concerns itself just to have known.
+
+563
+00:51:57,960 --> 00:52:00,120
+It's distraction and so forth.
+
+564
+00:52:00,201 --> 00:52:02,201
+Never dwells anywhere.
+
+565
+00:52:02,201 --> 00:52:06,360
+So the final thing at 217, curiosity is everywhere and nowhere.
+
+566
+00:52:06,360 --> 00:52:12,841
+This mode of being in the world reveals a new kind of being of everyday Dase Hein, a kind which Dasein is constantly uprooting itself.
+
+567
+00:52:14,601 --> 00:52:30,441
+If it was, if blogs and what was the, and talk shows were the problem, here I think it is just the problem of being a news junkie, where you have to, every hour you listen to make sure there isn't something somewhere in the world that you don't know about yet.
+
+568
+00:52:30,440 --> 00:52:32,921
+And you need to know, you want to know about everything.
+
+569
+00:52:32,920 --> 00:52:44,081
+I mean, that's because you don't want to know about the fact that, and now with a sort of punchline for this, is there's something uneasy about being Dasein.
+
+570
+00:52:43,241 --> 00:52:47,920
+There's this, we're going to talk about it when we get to falling in a minute.
+
+571
+00:52:48,241 --> 00:52:56,241
+And this, what he calls uncanniness, I would call it unsettledness of Dasein, is what you don't want to know about.
+
+572
+00:52:56,241 --> 00:53:09,280
+And that motivates you to think that you want to know about, or pretend, or believe, or something that you want to know about, all sorts of things that don't keep from your having to think about whatever this unsettledness is.
+
+573
+00:53:09,521 --> 00:53:12,320
+I haven't told you what it is, so that's why you look puzzled.
+
+574
+00:53:12,320 --> 00:53:14,640
+But that's all right, because we're ready to go to falling.
+
+575
+00:53:14,641 --> 00:53:26,881
+And falling is where the issue of the issue is, in the falling chapter, just to jump a bit ahead, is a new concept, namely fleeing.
+
+576
+00:53:26,880 --> 00:53:36,561
+And what he's been talking about in idle talk and in ambiguity, not so much in ambiguity, in idle talk and in curiosity are modes of fleeing.
+
+577
+00:53:36,561 --> 00:53:41,121
+They're not just lack of groundedness.
+
+578
+00:53:41,121 --> 00:53:50,241
+There's some way that Dasein is trying to not get a clear account of what the world is and what its situation is.
+
+579
+00:53:50,241 --> 00:53:52,320
+So let's jump to this.
+
+580
+00:53:52,641 --> 00:53:54,641
+We're now on 219.
+
+581
+00:53:55,521 --> 00:54:00,401
+I'm afraid, by the way, I might as well tell you now, the falling chapter is a complete mess.
+
+582
+00:54:00,400 --> 00:54:08,881
+The whole business of falling is a mess because Heidegger's got too many different meanings of falling all going on at once.
+
+583
+00:54:08,880 --> 00:54:13,041
+I say that every once in a while, but now it's time to sort of face up to it.
+
+584
+00:54:13,681 --> 00:54:21,440
+Luckily, for what's really, I think, interesting and important in Heidegger, it doesn't matter how you finally thought out falling.
+
+585
+00:54:21,440 --> 00:54:23,520
+But for understanding the book, it matters.
+
+586
+00:54:23,521 --> 00:54:25,601
+So we have to think about it.
+
+587
+00:54:25,601 --> 00:54:37,241
+He says at the bottom of 219, sort of the bottom of 175 in German, that there is a basic kind of being which belongs to every Danus.
+
+588
+00:54:37,320 --> 00:54:40,041
+We call it falling of Dasein.
+
+589
+00:54:40,041 --> 00:54:47,800
+And now he wants to say immediately a whole bunch of stuff, all of which is sort of too many things at once.
+
+590
+00:54:47,960 --> 00:54:51,081
+So you have to read it carefully at the top of 220.
+
+591
+00:54:51,081 --> 00:55:07,641
+This term, that is falling, does not express any negative evaluation, but is used significantly, used to signify that Dasein is proximately and for the most part amidst, remember, this is the right way to pronounce it, amidst the world of its concern.
+
+592
+00:55:07,641 --> 00:55:13,000
+This absorption has mostly the character of being lost in the publicness of the they.
+
+593
+00:55:13,320 --> 00:55:17,241
+So there's two kinds of absorption going on there.
+
+594
+00:55:17,241 --> 00:55:26,280
+The kind of absorption you're in when you're just going out the door or in flow and coping, which we talked about a lot when we talked about understanding.
+
+595
+00:55:26,280 --> 00:55:33,241
+And now we've got another kind of absorption, which is this business of being lost in the they.
+
+596
+00:55:33,241 --> 00:55:37,560
+And fallenness does the job of both.
+
+597
+00:55:37,880 --> 00:55:40,201
+I'll read you passages in a minute that show that.
+
+598
+00:55:40,201 --> 00:55:46,440
+Dasein has, in the first instance, fallen away from itself and has fallen into the world.
+
+599
+00:55:46,760 --> 00:56:01,561
+Well, when you're in flow, you're fallen into the world, and when you're sort of taken over by the they, when you're falling in with the they, or that is becoming a conformist, you're also taken over.
+
+600
+00:56:01,800 --> 00:56:05,720
+Fallenness into the world means an absorption in being with one another.
+
+601
+00:56:06,041 --> 00:56:08,121
+That's only one kind of absorption.
+
+602
+00:56:08,121 --> 00:56:09,561
+That's the they kind.
+
+603
+00:56:09,561 --> 00:56:15,681
+Insofar as it's guided, and notice we're back to idle talk, curiosity, and ambiguity.
+
+604
+00:56:15,681 --> 00:56:17,040
+So, how does it work?
+
+605
+00:56:17,201 --> 00:56:29,200
+Well, idle talk, curiosity, and ambiguity are that third cover-up bottom, bad bottom-level of average everydayness.
+
+606
+00:56:29,521 --> 00:56:50,160
+And now he's going to call that way of Dasein's being that is absorbed in average everydayness as by being curious and by having a lot of opinions and talk.
+
+607
+00:56:50,480 --> 00:56:53,601
+He's going to call all that falling.
+
+608
+00:56:53,601 --> 00:57:07,201
+And the trouble is, he's also got another view of falling, that is that you are falling into falling to work and getting absorbed in what you're doing.
+
+609
+00:57:07,201 --> 00:57:11,601
+And they're just two different kinds of absorption.
+
+610
+00:57:11,601 --> 00:57:16,000
+And if you could only just stick to one or the other, that would be fine.
+
+611
+00:57:16,001 --> 00:57:18,641
+But he doesn't.
+
+612
+00:57:18,641 --> 00:57:21,440
+So, just because, well, I won't try to jump ahead.
+
+613
+00:57:21,521 --> 00:57:23,441
+Let me go straight by sec.
+
+614
+00:57:24,400 --> 00:57:29,521
+And now that's one of the problems: that there are two kinds of absorption.
+
+615
+00:57:29,521 --> 00:57:37,201
+The other kind of problem is that there's an existential kind of falling and an existential story about falling.
+
+616
+00:57:37,201 --> 00:57:46,561
+That is, there's a certain way in which falling is a necessary, existential, ontological structure of Dasein's being.
+
+617
+00:57:46,561 --> 00:57:50,481
+And we're going to hear a lot about that in the following chapter.
+
+618
+00:57:50,480 --> 00:57:57,121
+But there's another sense in which falling is not necessary and not universal.
+
+619
+00:57:57,121 --> 00:57:58,600
+It's just general.
+
+620
+00:57:58,081 --> 00:58:05,161
+I mean, a lot of people are falling in the second sense, the existential sense, but they don't have to.
+
+621
+00:58:05,480 --> 00:58:09,640
+That's really the distinction between being authentic and being inauthentic.
+
+622
+00:58:09,880 --> 00:58:20,920
+Being inauthentic, we'll hear a lot more about it in Division II, is falling away from yourself by letting yourself be taken over by the one.
+
+623
+00:58:20,920 --> 00:58:22,760
+It's being a conformist.
+
+624
+00:58:22,760 --> 00:58:25,400
+And you don't have to be, nobody has to be a conformist.
+
+625
+00:58:25,400 --> 00:58:34,601
+The world will go on just fine without any conformists, just like without any gossip and without any bullshit and without any con people.
+
+626
+00:58:35,721 --> 00:58:38,760
+That's an existential problem.
+
+627
+00:58:39,320 --> 00:58:56,760
+So you've got to constantly pay attention to whether he's telling you about this existential structure which is falling, or whether he's telling you about this existential possibility, which is also called falling.
+
+628
+00:58:56,760 --> 00:58:59,480
+So now you've got a sort of fourfold mess.
+
+629
+00:58:59,480 --> 00:59:08,520
+You've got two kinds of falling, absorbed in the world and absorbed in the one, the coping kind and the conformist kind.
+
+630
+00:59:08,521 --> 00:59:29,800
+And then you've got two kinds, two ways of falling, or well, two philosophical views of falling, the one that sees it as a universal, necessary structure of human being, and one of them that sees it as a general feature of how unfortunately most human beings behave.
+
+631
+00:59:29,800 --> 00:59:32,440
+Okay, now I'll give you some pages, unless anybody has any.
+
+632
+00:59:32,521 --> 00:59:34,280
+I don't think you have anything to say about that yet.
+
+633
+00:59:34,280 --> 00:59:36,041
+I wouldn't imagine.
+
+634
+00:59:36,041 --> 00:59:38,120
+You've probably tried to read the falling chapter.
+
+635
+00:59:38,360 --> 00:59:41,480
+If you were very confused, I wouldn't be surprised.
+
+636
+00:59:41,480 --> 00:59:44,081
+I mean, every time I reread it, I'm confused.
+
+637
+00:59:43,081 --> 00:59:48,000
+So there's a structural kind of falling.
+
+638
+00:59:48,320 --> 00:59:54,241
+And you get hearing about that on page 220, where we are.
+
+639
+00:59:54,960 --> 01:00:01,361
+Skipping down to the bottom paragraph, the middle of the last full paragraph.
+
+640
+01:00:01,360 --> 01:00:07,201
+Dasein, now I'm quoting, has fallen into the world, which is again ambiguous.
+
+641
+01:00:07,201 --> 01:00:10,481
+That means either coping or conforming.
+
+642
+01:00:10,480 --> 01:00:14,961
+If Dasein has fallen into the world, which itself belongs to its being.
+
+643
+01:00:15,360 --> 01:00:17,201
+Dasein is being in the world.
+
+644
+01:00:17,201 --> 01:00:22,000
+Falling is a definite existential characteristic of Dasein itself.
+
+645
+01:00:22,241 --> 01:00:24,001
+Keep your eye on the ball for that.
+
+646
+01:00:24,001 --> 01:00:29,521
+I mean, that means with one kind of falling, Dasein, all Dasein has it all the time.
+
+647
+01:00:31,041 --> 01:00:36,721
+And I think 224, I'll get to follow my notes, is another one of those existential claims.
+
+648
+01:00:36,721 --> 01:00:52,161
+Yes, the middle of 224, the first full paragraph, second sentence, 179 in the German, falling reveals an essential ontological structure of Dasein itself.
+
+649
+01:00:52,480 --> 01:01:07,040
+Now, that's got, can't be the same notion of falling as on 220, where he says about falling, that it is, so there are three lines from the top.
+
+650
+01:01:07,041 --> 01:01:08,161
+I read it already.
+
+651
+01:01:08,161 --> 01:01:13,361
+Dasein has mostly the character of being lost in the publicness of the day.
+
+652
+01:01:13,360 --> 01:01:16,721
+That is, mostly Daseins are conformists.
+
+653
+01:01:17,041 --> 01:01:26,001
+But that's not, of course, falling as a structural, existential, ontological, universal structure.
+
+654
+01:01:26,641 --> 01:01:30,600
+That's just a lot of people generally are conformists.
+
+655
+01:01:28,081 --> 01:01:32,120
+But that counts as falling too.
+
+656
+01:01:32,201 --> 01:01:36,041
+Right there in the opening definition of it, he's got it as mostly.
+
+657
+01:01:36,041 --> 01:01:42,040
+And then on the same page where he's got it as mostly at the top, he's got it as an existential at the bottom.
+
+658
+01:01:42,041 --> 01:01:44,681
+This is very hard to deal with.
+
+659
+01:01:50,521 --> 01:02:05,161
+So there's an existentiale, and that's all got to do with how you get with intelligibility, how you've got to have a certain, you've got to follow norms and conform.
+
+660
+01:02:05,161 --> 01:02:15,081
+But then there's this other claim that you don't have to be a conformist and do everything you do for the sake of the norms.
+
+661
+01:02:15,081 --> 01:02:28,121
+And that is, if you do everything you do for the sake of the norm, if you, quote, make the one your hero, then that's an existential, not an existential structure.
+
+662
+01:02:28,360 --> 01:02:31,400
+That's an existential possibility, as he'll put it.
+
+663
+01:02:31,400 --> 01:02:37,560
+That is a way of using the one to cover up something that's unsettling about Dasein.
+
+664
+01:02:37,561 --> 01:02:41,560
+Now look at 220 and see where we are.
+
+665
+01:02:44,521 --> 01:02:45,080
+Okay.
+
+666
+01:02:45,081 --> 01:02:45,800
+Yeah.
+
+667
+01:02:53,400 --> 01:02:54,841
+Oh, boy.
+
+668
+01:02:55,001 --> 01:02:58,520
+I don't know if I read it, it'll just seem to confuse you, but it's here written down.
+
+669
+01:02:58,521 --> 01:02:59,561
+What can we do?
+
+670
+01:03:00,201 --> 01:03:13,000
+So he says at the end of the top full paragraph, not being itself functions as a positive possibility of that entity, which in its essential concern is absorbed in the world.
+
+671
+01:03:13,280 --> 01:03:23,201
+If it's a positive possibility, that means that it's not an existential structure, that you don't have to do it.
+
+672
+01:03:23,201 --> 01:03:26,081
+So why is it a positive possibility?
+
+673
+01:03:26,081 --> 01:03:27,760
+Well, I don't know, but let me just read it.
+
+674
+01:03:27,840 --> 01:03:28,721
+Maybe it'll come.
+
+675
+01:03:28,880 --> 01:03:31,760
+I'll understand it by the end of the next sentence.
+
+676
+01:03:31,760 --> 01:03:33,041
+I don't think so, though.
+
+677
+01:03:33,760 --> 01:03:41,361
+The not-being itself functions as a positive possibility of that entity which in its essential concern is absorbed in the world.
+
+678
+01:03:41,360 --> 01:03:49,921
+This kind of not-being has to be conceived as a kind of being which is closest to Dasein and which Dasein maintains itself for the most part.
+
+679
+01:03:49,920 --> 01:03:52,721
+That's the clue that it's existential.
+
+680
+01:03:52,721 --> 01:03:57,841
+So there's an existential possibility.
+
+681
+01:03:57,840 --> 01:03:59,841
+Why is it positive?
+
+682
+01:04:00,880 --> 01:04:02,800
+I don't really understand that.
+
+683
+01:04:02,800 --> 01:04:14,481
+If you skip down to the next big, sort of the last full paragraph, he says, in falling, Dasein itself, as factual being in the world, is something from which it's already fallen away.
+
+684
+01:04:14,480 --> 01:04:18,560
+And he's going from the positive, well, never.
+
+685
+01:04:18,641 --> 01:04:21,280
+He just gets to the existentiale if you keep reading.
+
+686
+01:04:21,280 --> 01:04:23,041
+So here's the problem.
+
+687
+01:04:23,440 --> 01:04:26,400
+Anybody who wants to help, now is the moment to jump in and help.
+
+688
+01:04:26,721 --> 01:04:32,720
+There is something that most Daseins do, which is a bad thing to do.
+
+689
+01:04:32,721 --> 01:04:39,040
+It's falling away from, and you can imagine, covering up and fleeing what it is to be Dasein.
+
+690
+01:04:39,041 --> 01:04:43,201
+But he wants to make sure that you understand that it's a positive possibility.
+
+691
+01:04:43,201 --> 01:04:45,040
+Why not a negative possibility?
+
+692
+01:04:45,041 --> 01:04:45,520
+Oh, good.
+
+693
+01:04:46,641 --> 01:04:48,000
+Yeah, Tyler, let him talk first.
+
+694
+01:04:48,400 --> 01:04:49,921
+Okay, go ahead.
+
+695
+01:04:52,480 --> 01:04:53,600
+Uh-huh.
+
+696
+01:04:56,561 --> 01:04:58,241
+Okay, that's helpful.
+
+697
+01:04:58,681 --> 01:05:03,881
+Eugene says we shouldn't think of positive as, what did we come across this morning?
+
+698
+01:05:03,880 --> 01:05:08,041
+At the beginning of my lecture, it was positive, which was not.
+
+699
+01:05:08,041 --> 01:05:09,640
+Yes, idle talk's positive.
+
+700
+01:05:09,641 --> 01:05:10,040
+Right.
+
+701
+01:05:10,041 --> 01:05:12,920
+No, so I should, I'm just losing my own list here.
+
+702
+01:05:13,161 --> 01:05:18,681
+So idle talk can be positive in the aha.
+
+703
+01:05:18,681 --> 01:05:20,600
+You see, though, why are you getting so confused?
+
+704
+01:05:20,601 --> 01:05:25,800
+When idle talk is positive, it's in the middle of the three, positive, so stuff.
+
+705
+01:05:25,800 --> 01:05:32,920
+And it's positive because it's doing the job of making understanding public and average and everything.
+
+706
+01:05:40,121 --> 01:05:42,121
+Okay, it's something necessary.
+
+707
+01:05:42,121 --> 01:05:45,400
+I mean, you need, and it's really positive in the sense of good.
+
+708
+01:05:45,400 --> 01:05:48,361
+But here, positive is not in the sense of good.
+
+709
+01:05:48,360 --> 01:05:50,121
+It's just not privative.
+
+710
+01:05:50,121 --> 01:05:53,080
+Is that what you're okay?
+
+711
+01:05:53,081 --> 01:05:54,520
+But that's confusing already.
+
+712
+01:05:54,521 --> 01:05:56,840
+Then there are two senses of positive going on.
+
+713
+01:05:56,840 --> 01:05:57,480
+Is that right?
+
+714
+01:05:57,480 --> 01:06:13,080
+There's a kind of positive which you'd absolutely need for the culture to go on, and a kind of positive which would be nice if everybody stopped doing it, because nobody, we would get along fine if everybody stopped fleeing and stopped engaging in idle talk, curiosity, and so-and-so.
+
+715
+01:06:13,081 --> 01:06:15,641
+But Tyler and then Curtis, yeah, Tyler.
+
+716
+01:06:15,800 --> 01:06:17,721
+Okay, and then you're here.
+
+717
+01:06:21,880 --> 01:06:22,520
+Oh, good.
+
+718
+01:06:22,521 --> 01:06:23,480
+Let's try.
+
+719
+01:06:31,001 --> 01:06:33,721
+The inauthenticity, is that the sentence?
+
+720
+01:06:35,681 --> 01:06:43,161
+In terms of inauthenticity, not authenticity by virtue.
+
+721
+01:07:01,121 --> 01:07:04,321
+Where is it the being no longer in?
+
+722
+01:07:06,001 --> 01:07:07,280
+I don't know.
+
+723
+01:07:14,001 --> 01:07:15,040
+I see.
+
+724
+01:07:15,360 --> 01:07:16,800
+Hmm.
+
+725
+01:07:17,760 --> 01:07:26,560
+Well, okay, but this kind is a falling away, but well, let's just let me know what Curtis has to say.
+
+726
+01:07:26,561 --> 01:07:27,201
+Yeah.
+
+727
+01:07:29,760 --> 01:07:31,841
+Sorry, go ahead.
+
+728
+01:07:32,161 --> 01:07:32,881
+What?
+
+729
+01:07:35,521 --> 01:07:37,201
+It's not a pivot thing?
+
+730
+01:07:37,201 --> 01:07:39,921
+Wait, wait, maybe it'll stop and I can hear you.
+
+731
+01:07:40,561 --> 01:07:41,921
+Okay, here, now.
+
+732
+01:07:45,121 --> 01:07:46,961
+Wait, well, let's wait one more.
+
+733
+01:07:46,960 --> 01:07:47,601
+Try again.
+
+734
+01:07:47,920 --> 01:07:50,961
+Positive and event that is constitutive.
+
+735
+01:07:50,960 --> 01:07:51,920
+It's not pivotive.
+
+736
+01:07:51,920 --> 01:07:53,840
+It constitutes the being of Dasein.
+
+737
+01:07:53,840 --> 01:08:06,321
+So just like idle talk makes possible this idea of everyday being, fallenness also constitutes Daseine, the way of being absorbed in the world.
+
+738
+01:08:06,320 --> 01:08:10,161
+Well, it's constitutive of average everydayness, but we could get along.
+
+739
+01:08:10,641 --> 01:08:12,401
+Can we get along without it or not?
+
+740
+01:08:14,320 --> 01:08:17,280
+It's part of our structure of being Dasein.
+
+741
+01:08:17,520 --> 01:08:18,961
+That's why it uses positive.
+
+742
+01:08:19,201 --> 01:08:22,400
+All this is positive in the sense of ontological structure.
+
+743
+01:08:23,600 --> 01:08:24,161
+And Daseine.
+
+744
+01:08:24,320 --> 01:08:26,960
+Okay, and falling is a positive structure.
+
+745
+01:08:26,961 --> 01:08:28,841
+Now, why is falling a positive structure?
+
+746
+01:08:29,001 --> 01:08:30,440
+Tyler is saying no.
+
+747
+01:08:36,440 --> 01:08:41,320
+A positive is an existential modification of a basic structure.
+
+748
+01:08:46,440 --> 01:08:51,241
+Well, that sounds promising, but now Eugene, think, what do you think?
+
+749
+01:08:56,440 --> 01:08:58,921
+That's primitive, because you're not really being a subject.
+
+750
+01:08:59,001 --> 01:09:00,520
+That's what it is to sort of write.
+
+751
+01:09:00,761 --> 01:09:04,841
+It's just the minus of the positive thing, which is being a subject.
+
+752
+01:09:17,961 --> 01:09:18,760
+Okay.
+
+753
+01:09:20,041 --> 01:09:22,121
+But okay, now just help me.
+
+754
+01:09:22,121 --> 01:09:36,921
+But this kind of positive turns out to be like the negative in whereas we've got to keep remembering that, whereas in the first half of this lecture, this lecture has a confusing character.
+
+755
+01:09:36,921 --> 01:09:39,640
+I'm afraid it's not, I mean, I think it's not my fault.
+
+756
+01:09:39,881 --> 01:09:41,241
+I'd be glad if it were.
+
+757
+01:09:41,241 --> 01:09:53,400
+The positive is the middle kind of thing, which for intelligibility, remember, we always have to deal with situations that we're not in and talk about things that we're not skilled at.
+
+758
+01:09:53,400 --> 01:10:02,520
+And that's doubly positive, I guess, because it's positive in the sense that it's a possibility for Dasein.
+
+759
+01:10:02,520 --> 01:10:07,560
+And it's a good possibility because our culture depends, our social world depends on it.
+
+760
+01:10:07,560 --> 01:10:17,840
+Now, there are other positive possibilities for Daseheim, which we're now reading about, and they are being involved in idle thought, curiosity, and ambiguity.
+
+761
+01:10:18,161 --> 01:10:21,201
+And it looks like we don't need them.
+
+762
+01:10:21,201 --> 01:10:24,400
+They aren't what's holding up our culture.
+
+763
+01:10:26,400 --> 01:10:38,560
+But they're still positive, even though they don't have a constitutive function in having average everydayness.
+
+764
+01:10:40,081 --> 01:10:41,440
+We go, okay.
+
+765
+01:10:42,560 --> 01:10:45,360
+Because, hmm, hmm, hmm.
+
+766
+01:10:46,001 --> 01:10:49,520
+Okay, I don't want to, there's a further weird thing, but I don't want to say it.
+
+767
+01:10:49,520 --> 01:10:49,760
+Yeah.
+
+768
+01:10:53,761 --> 01:10:54,720
+Make something clear.
+
+769
+01:10:54,720 --> 01:10:55,520
+Good.
+
+770
+01:10:56,961 --> 01:11:05,201
+221 people were not making the same phenomenon for falling.
+
+771
+01:11:05,201 --> 01:11:10,800
+This whole paragraph you talked about falling constitutes.
+
+772
+01:11:10,801 --> 01:11:14,241
+Yes, polling is an existential characteristic of Dasein itself.
+
+773
+01:11:14,241 --> 01:11:15,360
+I read that on 220.
+
+774
+01:11:15,360 --> 01:11:17,201
+Okay, it's the same point.
+
+775
+01:11:18,161 --> 01:11:18,720
+Yeah, I did it.
+
+776
+01:11:19,041 --> 01:11:20,081
+I said I misspoke.
+
+777
+01:11:20,161 --> 01:11:21,440
+Existential, yeah.
+
+778
+01:11:30,801 --> 01:11:34,961
+Logically, that's how I'm reading the idle thought and fallingness here.
+
+779
+01:11:35,121 --> 01:11:38,161
+You clearly said it's part of the constitutive structure.
+
+780
+01:11:38,320 --> 01:11:42,081
+You see this phenomenon, you realize without it, you weren't really.
+
+781
+01:11:42,720 --> 01:11:56,081
+Well, that's what I don't understand, because I don't think authentic Dasein is in, it has the structure, it deals in idle thought, curiosity, and ambiguity.
+
+782
+01:11:57,680 --> 01:11:58,241
+Exactly.
+
+783
+01:12:09,560 --> 01:12:10,680
+He does too.
+
+784
+01:12:10,680 --> 01:12:11,400
+Okay.
+
+785
+01:12:12,360 --> 01:12:12,920
+Okay.
+
+786
+01:12:12,921 --> 01:12:15,560
+Well, we have the capacity to fall.
+
+787
+01:12:15,560 --> 01:12:19,800
+That's not the same as fallenness, where fallenness is, you've already done it.
+
+788
+01:12:20,280 --> 01:12:22,440
+I mean, I don't know what he thinks.
+
+789
+01:12:24,600 --> 01:12:30,921
+Fallenness and sending out the possibility for falling in the positive side of the structure of Dodd Zign.
+
+790
+01:12:31,001 --> 01:12:33,480
+It's positive and intensive without falling.
+
+791
+01:12:35,001 --> 01:12:36,280
+So, but witch falling.
+
+792
+01:12:36,280 --> 01:12:43,480
+I mean, surely it's positive that we have to fall into work and fall into the flow, and we have to conform to the norms.
+
+793
+01:12:43,480 --> 01:12:44,840
+That's all positive.
+
+794
+01:12:44,841 --> 01:12:49,241
+But does this positive?
+
+795
+01:12:53,560 --> 01:13:05,560
+That possibility, yes, that capacity is part of the structure of Dasein in a funny way, because this is really, this is the basic thing that's hard to get your head around.
+
+796
+01:13:06,280 --> 01:13:09,560
+It's not a structure that every Dasein has.
+
+797
+01:13:09,560 --> 01:13:11,161
+That would be existencial.
+
+798
+01:13:11,560 --> 01:13:14,440
+It isn't a structure constitutive of Dasein.
+
+799
+01:13:14,440 --> 01:13:20,520
+It's a capacity or a tendency, more like a tendency that every Dasein has.
+
+800
+01:13:20,520 --> 01:13:28,680
+And unless you resist this tendency, you will get, you will become a conformist and you will become whatever else.
+
+801
+01:13:28,680 --> 01:13:32,360
+You will watch talk shows and blogs and all that.
+
+802
+01:13:32,360 --> 01:13:34,440
+But you don't have to do that.
+
+803
+01:13:34,440 --> 01:13:43,680
+So this peculiar thing, an ontological structure of Dasein, which you don't have to have to be Dasein.
+
+804
+01:13:41,881 --> 01:13:48,720
+All you have to have to be Dasein is a tendency toward that structure.
+
+805
+01:13:43,161 --> 01:13:50,081
+That's what you're saying.
+
+806
+01:13:50,400 --> 01:13:51,680
+That is your point.
+
+807
+01:13:51,680 --> 01:13:55,921
+Boy, I don't like it, but I can see that there is such a point.
+
+808
+01:13:56,400 --> 01:13:58,720
+I mostly wish there were better words for it.
+
+809
+01:13:59,121 --> 01:14:08,560
+The existencia, I think, ought to be actual ontological constitutive structures of every Dasein to be Dasein.
+
+810
+01:14:08,560 --> 01:14:13,760
+I don't think the capacities and tendencies ought to be in there.
+
+811
+01:14:20,720 --> 01:14:21,280
+That's right.
+
+812
+01:14:21,280 --> 01:14:24,320
+Well, this isn't a condition of the possibility.
+
+813
+01:14:25,600 --> 01:14:34,161
+It's a condition of Dasein, which is a possibility, but it isn't something that you have to have in order to be Dasein, I don't think.
+
+814
+01:14:34,881 --> 01:14:37,360
+Wait, I guess that's how we disagree.
+
+815
+01:14:37,360 --> 01:14:40,400
+But let me try again.
+
+816
+01:14:40,720 --> 01:14:52,480
+Do you have to have idle talk, curiosity, ambiguity, and all this bottom groundless cover-up in order to be Dasein?
+
+817
+01:14:53,680 --> 01:15:00,241
+Yes, but that isn't, having the possibility for that isn't something like what makes Dasein possible.
+
+818
+01:15:00,241 --> 01:15:02,640
+That's like a bad joke.
+
+819
+01:15:05,520 --> 01:15:07,600
+Okay, well, that's what we disagree about.
+
+820
+01:15:07,600 --> 01:15:19,121
+Okay, let's have if we have trouble defining what's positive about this, or how it might be positive, what do you mean by positive?
+
+821
+01:15:19,121 --> 01:15:22,800
+We can look at what might be negative, what the opposite would be.
+
+822
+01:15:22,801 --> 01:15:29,880
+And it seems, given the contrast that he puts up earlier in the paragraph, where he says this isn't not being, it's still being in the world.
+
+823
+01:15:30,360 --> 01:15:37,480
+It seems like the only thing that would be negative would be if somehow fallenness made you not in the world or deworlded somehow.
+
+824
+01:15:37,480 --> 01:15:41,880
+And it seems like his emphasis is that, in fact, this isn't de-worlding at all.
+
+825
+01:15:42,280 --> 01:15:45,800
+Even being a good former is a kind of being in the world.
+
+826
+01:15:45,801 --> 01:15:52,280
+And in that sense, it's a positive possibility because it's still a way most often it takes a stance on its own being.
+
+827
+01:15:53,241 --> 01:15:53,720
+Okay.
+
+828
+01:15:54,360 --> 01:16:14,680
+I think that's a diff that issue is clearer than this other issue, which is a different one about sort of to what extent the way of being that is a kind of falling away from Dasein, a fleeing, an attempt to cover up its nature, to what it, how to how to describe that.
+
+829
+01:16:14,680 --> 01:16:20,600
+Remember, the problem is, well, it's it's, I think it's not existential.
+
+830
+01:16:20,680 --> 01:16:29,800
+Well, I guess some way I can agree with Curtis, it's not existential as something that is constitutive of Dasein.
+
+831
+01:16:29,801 --> 01:16:31,961
+It doesn't have to do that.
+
+832
+01:16:31,961 --> 01:16:34,680
+It can live in a genuine, authentic way.
+
+833
+01:16:34,680 --> 01:16:38,840
+However, the tendency toward it is an existential.
+
+834
+01:16:39,161 --> 01:16:41,241
+That's that much we agree about.
+
+835
+01:16:41,241 --> 01:16:51,320
+Let me jump, because time is two minutes from up, to a place where Heidegger seems to be actually thinking about this and facing up to this puzzle.
+
+836
+01:16:51,320 --> 01:17:01,800
+On 229, I'm not, now that we've had this whole discussion, this will either turn out to be less interesting or more interesting than it was when I read it this morning.
+
+837
+01:17:01,801 --> 01:17:04,600
+So let's start at the top of 229.
+
+838
+01:17:05,881 --> 01:17:07,560
+I'm going to read that whole paragraph real fast.
+
+839
+01:17:07,560 --> 01:17:15,121
+Since our aim is to proceed toward the being of the totality of the structural whole, we'll take as our point of departure the concrete analysis of falling we've just carried through.
+
+840
+01:17:15,121 --> 01:17:19,840
+Now, Dasein's absorption in the one and its absorption in the world of its concern.
+
+841
+01:17:19,841 --> 01:17:33,360
+Notice he's got these two absorptions named and in there, make manifest something like a fleeing of Dasein in the face of itself, of itself as an authentic ability to be.
+
+842
+01:17:33,360 --> 01:17:40,880
+So there is a kind of negative-ish something, and it isn't something that Dasein always does.
+
+843
+01:17:40,881 --> 01:17:42,400
+It's a possibility.
+
+844
+01:17:42,400 --> 01:17:52,081
+Now, this phenomenon of Dasein's fleeing in the face of itself and in the face of its authenticity seems at least a suitable phenomenal basis for the following investigation.
+
+845
+01:17:52,081 --> 01:17:58,720
+But to bring itself face to face with itself is precisely what Dasein does not do when it thus flees.
+
+846
+01:17:58,720 --> 01:18:02,480
+It turns away from itself in accordance with its own most inertia.
+
+847
+01:18:02,480 --> 01:18:06,081
+That is, it has a tendency to do this, but it resists it.
+
+848
+01:18:06,081 --> 01:18:08,241
+Now comes the sentence I wanted to get to.
+
+849
+01:18:08,241 --> 01:18:27,440
+In investigating such phenomena, however, we must be careful not to confuse ontico-existential characterization with ontologico-existential interpretation, nor may we overlook the positive phenomenal basis provided for this interpretation by such a characterization.
+
+850
+01:18:27,440 --> 01:18:30,400
+You see how that's all concerned with what we were just talking about.
+
+851
+01:18:30,400 --> 01:18:35,280
+It says you don't want to confuse, it's sort of what Curtis and I were talking about.
+
+852
+01:18:35,280 --> 01:18:44,001
+You don't want to confuse the existential structure of Dasein with some existential tendencies of Dasein.
+
+853
+01:18:44,001 --> 01:18:52,000
+The existential structure is the ontico-existential story he's trying to tell.
+
+854
+01:18:52,001 --> 01:18:56,081
+You don't want to confuse that with the ontico-existential characterization.
+
+855
+01:18:56,081 --> 01:18:58,600
+That's when he's saying generally Dasein is this.
+
+856
+01:18:58,600 --> 01:19:00,840
+For the most part, Dasein is this.
+
+857
+01:19:00,841 --> 01:19:11,960
+And he wants to say, and this general way that Dasein is for the most part can be a positive phenomenological basis for the interpretation.
+
+858
+01:19:11,961 --> 01:19:12,920
+Isn't that neat?
+
+859
+01:19:12,921 --> 01:19:16,040
+That is sort of a rigid designation.
+
+860
+01:19:16,041 --> 01:19:27,000
+I mean, you start with average everydayness and all these sort of negative seeming ways that Dasein is fleeing and covering up and falling and so forth.
+
+861
+01:19:27,001 --> 01:19:37,881
+And you use them to lead you to talking about an essential ontological existential constitutive structure of Dasein.
+
+862
+01:19:37,961 --> 01:19:45,320
+You want to say one word because I think yes, it's now.
+
+863
+01:19:45,480 --> 01:19:48,520
+Yes, it's positive because you can use it as a formal indicator.
+
+864
+01:19:48,520 --> 01:19:56,920
+You can start with these, what Dasein generally is, and then you can see that Dasein has a tendency to do all these things.
+
+865
+01:19:56,921 --> 01:20:03,241
+And from there, you can see what the structure of Daseine necessarily existential is.
+
+866
+01:20:03,241 --> 01:20:04,280
+That's what I have.
+
+867
+01:20:04,360 --> 01:20:05,081
+I just betrayed.
+
+868
+01:20:05,480 --> 01:20:06,520
+I think we're agreeing.
+
+869
+01:20:06,520 --> 01:20:07,400
+That's amazing.
+
+870
+01:20:07,400 --> 01:20:07,880
+Okay.
+
+871
+01:20:07,881 --> 01:20:08,840
+Socrates.

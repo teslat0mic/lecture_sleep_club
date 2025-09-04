@@ -1,0 +1,3166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:06,241
+Okay, now, when we're going to do the phantom limb.
+
+2
+00:00:06,241 --> 00:00:19,120
+And that starts out where he starts out with the long-headed view, which I just repeat because it's important to keep repeating it.
+
+3
+00:00:19,120 --> 00:00:22,560
+And it's important to keep repeating it because it's the view that everybody holds.
+
+4
+00:00:22,560 --> 00:00:27,120
+It isn't some minority, fringe, kooky view.
+
+5
+00:00:27,361 --> 00:00:35,080
+It's a very, very popular, and according to Merlot-Ponty and Walter Freeman at least, and maybe other people too, but I don't know them.
+
+6
+00:00:35,961 --> 00:01:02,601
+Long-headed view, mainly that the world is a kind of transmitter, and the sense organs are receivers and transducers, and then the information is then passively, you know, the world impinges on the sense organs, and that sends the energy which contains the information about the world up to several stages in the brain until finally, magically, in the last stage, it becomes us and our experience of things.
+
+7
+00:01:02,601 --> 00:01:16,121
+He then writes that at about six lines down, where it was now in 84, where it was desired to insert the organism in the universe of objects and thereby close off that universe.
+
+8
+00:01:16,120 --> 00:01:34,921
+It was necessary, that is, put everything in the world of objects, it was necessary to translate, and this is Descartes, translate the functioning of the body into the language of the in itself and discover beneath behavior the linear dependence of stimulator and receptor, receptor and receiver.
+
+9
+00:01:34,921 --> 00:01:42,361
+And that's, and that the linear is jargon that Walter Freeman uses too.
+
+10
+00:01:42,361 --> 00:01:51,080
+That linear is just his name for the long sword of causality where it comes from out there to here to higher eccenters and so forth.
+
+11
+00:01:51,081 --> 00:02:11,241
+And what's missing in that story, in some form or other, is this kind of feedback loop in which what the sense organs are already attuned to, as he says, looking for, Walter Freeman says, what is significantly important to the organism at that point?
+
+12
+00:02:11,241 --> 00:02:12,680
+That's part of the feedback.
+
+13
+00:02:12,681 --> 00:02:18,361
+It isn't that the sense organ just sits there passively and collects whatever comes in.
+
+14
+00:02:19,481 --> 00:02:25,561
+And another part of the feedback is what he once or twice calls the intentional arc.
+
+15
+00:02:25,560 --> 00:02:32,120
+There are these very important ideas in Merlot-Conte that are so basic and important that he never actually schematizes them.
+
+16
+00:02:32,120 --> 00:02:35,760
+He just takes them as his way of dealing with things.
+
+17
+00:02:35,920 --> 00:02:53,361
+The intentional arc is that as I gain experience with what is significant in the world, that changes the way I pick up information from the world so that the world I don't need to have a representation of the world.
+
+18
+00:02:53,361 --> 00:02:55,521
+The world is its own representation.
+
+19
+00:02:55,520 --> 00:02:59,040
+And I don't need to update my representation of the world.
+
+20
+00:02:59,040 --> 00:03:03,041
+What gets updated is the world looks different to me before I learn about it.
+
+21
+00:03:03,040 --> 00:03:04,640
+I think it's in this section, is it?
+
+22
+00:03:04,640 --> 00:03:12,960
+Or no, maybe I was reading Gibson, where he says after the child's been putting fire looks different to the child.
+
+23
+00:03:17,681 --> 00:03:18,081
+Yeah, right.
+
+24
+00:03:18,081 --> 00:03:18,321
+Okay.
+
+25
+00:03:18,721 --> 00:03:20,081
+Well, the problem is.
+
+26
+00:03:20,081 --> 00:03:20,801
+Yeah, right.
+
+27
+00:03:20,800 --> 00:03:22,161
+Okay, yeah, it's in there.
+
+28
+00:03:22,160 --> 00:03:24,081
+And that's the intentional arc.
+
+29
+00:03:24,081 --> 00:03:29,841
+That says that the significance of things gets back in the world in the look of things.
+
+30
+00:03:29,841 --> 00:03:36,241
+So there's no, you can't have this linear view, but there's stuff out there which just comes in.
+
+31
+00:03:36,241 --> 00:03:38,161
+One, I have to be set to receive it.
+
+32
+00:03:38,160 --> 00:03:42,241
+Two, what's out there gets changed by what experience I've had.
+
+33
+00:03:42,241 --> 00:03:46,161
+That's going along in the background of what he's talking about.
+
+34
+00:03:46,160 --> 00:03:50,481
+That reminds me of something I want to say about the lecture coming up on Tuesday.
+
+35
+00:03:51,120 --> 00:04:16,321
+Because I discovered in office hours and in talking that though I talk about Gibson every once in a while, and he talks about the Gestaltas a lot, he never explains, and I never explain in some kind of systematic, clear way, who the Gefaltas were, what they were up to, and who Gibson is and what he was up to, and how they're both related to each other in Merle-Ponte.
+
+36
+00:04:16,321 --> 00:04:25,961
+Well, we're lucky we've got Rick, one of the TAs, who was a psychology major as an undergraduate in a Gibsonian and knows that stuff.
+
+37
+00:04:25,961 --> 00:04:28,761
+So on Tuesday, Rick is going to talk about these things.
+
+38
+00:04:28,760 --> 00:04:31,241
+Is there anything they're supposed to read in preparation for this?
+
+39
+00:04:31,880 --> 00:04:33,961
+I think it's better just to stick to the Merloponcy.
+
+40
+00:04:34,120 --> 00:04:34,760
+That's what I think.
+
+41
+00:04:34,760 --> 00:04:37,481
+I mean, I don't think you should be, you can get enough trouble.
+
+42
+00:04:37,800 --> 00:04:41,000
+It's a lot easier reading Gibson than the Gefeltas, but this is what we have to read.
+
+43
+00:04:44,520 --> 00:04:46,281
+Yeah, the Groin Heidegger's in the world.
+
+44
+00:04:46,441 --> 00:04:48,040
+I thought you were, but we've got to be careful.
+
+45
+00:04:48,040 --> 00:04:51,241
+Again, how many have had the Being in Time course?
+
+46
+00:04:52,681 --> 00:04:55,880
+You've got half the people who know what you're going to say, and half the people who need to know.
+
+47
+00:04:56,201 --> 00:04:56,601
+No, they don't.
+
+48
+00:04:56,681 --> 00:04:58,601
+Well, they don't, because it's in relations here.
+
+49
+00:04:58,681 --> 00:04:58,841
+Okay.
+
+50
+00:04:59,560 --> 00:05:10,520
+Okay, so we're going to go bring in Heidegger and tell you enough about Heidegger, which is, after all, as much as an important part of the background of this book as we felt psychology is.
+
+51
+00:05:10,520 --> 00:05:14,441
+I mean, being in the world is this notion he has all over the place.
+
+52
+00:05:14,441 --> 00:05:16,521
+So he's changed it a lot from Heidegger.
+
+53
+00:05:16,520 --> 00:05:21,241
+There's the basic, basic idea still thing.
+
+54
+00:05:21,241 --> 00:05:31,401
+Okay, so there's this wrong dominant view, and then he goes on to tell you what he thinks is the right view on 86, the next page at the bottom.
+
+55
+00:05:33,400 --> 00:05:38,680
+What's wrong with it is, well, I think I listed one of them here that I thought was neat.
+
+56
+00:05:39,560 --> 00:05:41,081
+Three things wrong with it.
+
+57
+00:05:41,081 --> 00:05:44,120
+First, I'll say it my way, and then I'll see if that's what I said in my notes.
+
+58
+00:05:44,120 --> 00:06:08,801
+I mean, to repeat what I said just a minute ago that was wrong with it, is that it's got this uh view of us as passive receivers of the world out there who then use our sense organs to get in the information and then construct a representation which we then have to update as we get more information, whereas that's wrong for two reasons, remember I said.
+
+59
+00:06:09,040 --> 00:06:18,401
+One, because what comes into the sense organ is already determined by what we're looking for, what we're set for, what we're, as you put it in here, attuned to.
+
+60
+00:06:18,400 --> 00:06:38,641
+And what we're attuned to is already determined by our past experience, which, and this is the other important point, isn't something we add to our incoming data, but the world itself, the perceptual world, changes its its appearance on the basis of our experience.
+
+61
+00:06:38,640 --> 00:06:43,760
+So again, we don't need to represent represent what the flame means, to use the example in here.
+
+62
+00:06:43,760 --> 00:06:46,801
+The flame comes to look dangerous.
+
+63
+00:06:46,800 --> 00:06:54,160
+That's all not the linear and receptive view of how we're related to the world.
+
+64
+00:06:54,160 --> 00:06:56,481
+That's the point.
+
+65
+00:06:56,800 --> 00:06:58,481
+Well, it's not very basic.
+
+66
+00:06:58,481 --> 00:06:59,520
+You did, is it?
+
+67
+00:06:59,520 --> 00:07:00,241
+Why not?
+
+68
+00:07:00,241 --> 00:07:14,161
+I mean, any assume that, you know, just the attention of the statement, well, it doesn't take up well, let me add a third, but but part of what I was saying was not quite that, though I did say that and that, you're right, it wasn't clear enough.
+
+69
+00:07:14,160 --> 00:07:29,521
+And this attuning is changing, depending on what, one, what I what I'm looking for, and two, what I've already experienced, so that I'm going to be attuned to the candle flame differently if I'm hot if I'm and to the heat where I'm warm or cold and so forth.
+
+70
+00:07:29,520 --> 00:07:36,481
+That's that it's not a fixed attunement like the radio tune to the set of stations, period.
+
+71
+00:07:36,481 --> 00:07:39,520
+It's an attunement which is going to change constantly.
+
+72
+00:07:39,520 --> 00:07:40,801
+So that maybe makes it all right.
+
+73
+00:07:40,800 --> 00:07:56,681
+But the other thing, the other problem is that anybody who believes in the receiver as in the model grant could grant as a psychological and phenomenological data that you experience the brain as the voter has returned.
+
+74
+00:07:56,681 --> 00:08:04,201
+The question is, ah, giant the assumption that all the action reaches you from that frame is over there.
+
+75
+00:08:04,201 --> 00:08:05,241
+It is light.
+
+76
+00:08:05,561 --> 00:08:06,441
+Good, good.
+
+77
+00:08:06,441 --> 00:08:07,000
+So that's...
+
+78
+00:08:07,241 --> 00:08:08,441
+How do you experience it?
+
+79
+00:08:08,920 --> 00:08:10,841
+Well, I don't cut it.
+
+80
+00:08:10,920 --> 00:08:14,760
+Okay, well, I think now we're going to get off in a dirt direction.
+
+81
+00:08:14,760 --> 00:08:16,440
+I guess it's okay to go.
+
+82
+00:08:17,561 --> 00:08:33,000
+Of course, you'd have to have a brain story that was not a receiver brain story because there'd be two stages which fit together for him and fit together for me because we've got Walter Freeman.
+
+83
+00:08:33,561 --> 00:08:36,681
+But he's already got a glimmer of the brain story.
+
+84
+00:08:36,681 --> 00:08:56,441
+But what you need is two things, a phenomenological description, which is what he gets from the Gestaltists and what Gibson gets from him, of the way the world changes its appearance as I learn more and more about it and its significance to me and what I'm interested in.
+
+85
+00:08:56,441 --> 00:08:57,721
+That's the first thing.
+
+86
+00:08:57,721 --> 00:08:59,721
+And, of course, Alvin is right.
+
+87
+00:08:59,721 --> 00:09:29,561
+That would be magical, even in a sense, too magical for Merlot Ponte, if you didn't tell a brain story of how it was possible, given that there is this, all there is, is an organism being bombarded with energy from the whole world, that we could have this experience instead of what would seem to be the sensible Cartesian one that we make, we put all this information together in the brain and build up a representation in the brain.
+
+88
+00:09:30,201 --> 00:09:34,560
+And that wouldn't, by the way, probably give you the right phenomenology.
+
+89
+00:09:34,561 --> 00:09:42,961
+I believe Hart didn't think that flames looked different after people were burned by them, or if he did, he didn't think it was important.
+
+90
+00:09:42,961 --> 00:09:53,681
+So we need a brain story that will give you the phenomenological description of perception, and we need to see how that could happen.
+
+91
+00:09:53,681 --> 00:10:02,481
+Okay, well, but whenever I talk about Walter Freeman, I feel bad because I start using a bunch of jargon that I don't fully understand myself.
+
+92
+00:10:02,481 --> 00:10:07,201
+But let me try it again because it's so important.
+
+93
+00:10:07,201 --> 00:10:20,721
+The picture Walter Freeman has is that on the basis of my experience of, say, being burnt by candles and nourished by carrots, he does rabbits.
+
+94
+00:10:20,961 --> 00:10:29,040
+So I make connections of a traditional sort, but what's called Hebbian connections.
+
+95
+00:10:29,040 --> 00:10:37,201
+So the connection between the rabbit smell and the rabbit taste gets reinforced.
+
+96
+00:10:37,201 --> 00:10:39,441
+But that's not important.
+
+97
+00:10:39,441 --> 00:10:42,320
+That's what's interesting and hard to explain.
+
+98
+00:10:42,320 --> 00:10:59,040
+But the whole brain gets tuned, is constantly going into a kind of chaotic mode and then settling into certain minimal energy states, which are called attractors.
+
+99
+00:10:59,040 --> 00:11:04,800
+And which minimal energy basically occurs it settles into is based on its experience.
+
+100
+00:11:04,800 --> 00:11:26,600
+So, with experiencing carrots and discovering that they're good to eat, not only does it get these normal sort of connections between carrots a good thing, it gets hard for me to say how it does this, but Freeman says he can see it on his psychoscope when he's plugged into the rabbit's brain.
+
+101
+00:11:26,840 --> 00:11:28,760
+It forms a new attractor.
+
+102
+00:11:28,760 --> 00:11:46,760
+That is, there is a certain least energy position that that part of the brain goes into, and it adds a new attractor for every new category it gets, and for celery and for carrots and so forth, and that modifies the attractor landscape.
+
+103
+00:11:46,760 --> 00:11:50,280
+Now, this is the jargon I can't hack out very well.
+
+104
+00:11:50,280 --> 00:12:21,560
+And the picture of it is now that when some stimulus comes in, because Alva's right, I mean, that is the physical level of what actually happens, it puts the brain into an attractor landscape, and depending on what significance this input has had for the organism before, it takes out some particular attractor.
+
+105
+00:12:21,560 --> 00:12:31,721
+And that is the organism recognizes the parrot, the rabbit does, and recognizes it as something to eat.
+
+106
+00:12:31,721 --> 00:12:33,080
+And it does.
+
+107
+00:12:33,401 --> 00:12:46,280
+What's important about that is that it depends on whether the rabbit is hungry, it depends on the past experience of the nabbit, and the input, and this is the hard part, and I can't explain it very well.
+
+108
+00:12:46,840 --> 00:13:00,520
+If need be, I would say, let's get Walden Freeman over here to explain it, but unfortunately, he's so deep into it and so far from where we are that whenever he explains it, I gave two seminars with him, but I never really understood it any better than I do now.
+
+109
+00:13:01,560 --> 00:13:16,560
+But the input that puts the brain into this global energy state, this attractor landscape, in which there are these minimum, that input gets thrown away, as he puts it.
+
+110
+00:13:16,560 --> 00:13:37,520
+That is, the original stuff from the world is just enough to set up this global phenomenon which contains in it the information as to what sort of things have been good and bad for that sort of animal under those conditions.
+
+111
+00:13:37,520 --> 00:13:45,520
+And that's what makes it a not linear, not normal picture of how the brain works.
+
+112
+00:13:45,921 --> 00:14:02,880
+On the perceptual level, it's like saying, well, when you see something, there's some array of energy on your retina, and that's going to have a certain distorted shape, and it's going to have all kinds of changes with changes in lighting and so forth.
+
+113
+00:14:02,881 --> 00:14:05,520
+But that's not important.
+
+114
+00:14:05,520 --> 00:14:15,680
+That what's important is some invariant in that that sets the whole system, the global system, into some recognition or other.
+
+115
+00:14:15,681 --> 00:14:27,600
+And the way the thing actually, what does he call it, the stimulus error, is to think that somehow the way the thing hits your retina plays an important role in the processing.
+
+116
+00:14:27,600 --> 00:14:30,000
+He thinks it just triggers the process.
+
+117
+00:14:30,000 --> 00:14:32,961
+That's very different, very important.
+
+118
+00:14:33,280 --> 00:14:43,840
+Now, if you want somebody to explain it to you, we might set up an extra session in which, Eric, could you explain this any better to people if we set up an extra session to do it like that?
+
+119
+00:14:44,481 --> 00:14:47,361
+Okay, well then I won't then I won't make you do it.
+
+120
+00:14:47,360 --> 00:14:47,481
+Yeah.
+
+121
+00:14:47,441 --> 00:14:50,920
+This is a nice causal story at the neurophysiological well.
+
+122
+00:14:51,080 --> 00:15:08,201
+And I think it's a good alpha the same, but how do you get from the causal story, which we've now given, I'm sorry, with Walter Freeman, to the fact that it's now the landscape has an appearance, a phenomenal appearance such as beautiful.
+
+123
+00:15:09,961 --> 00:15:11,721
+That's the qualia question.
+
+124
+00:15:11,721 --> 00:15:14,120
+So there's two separate questions.
+
+125
+00:15:14,520 --> 00:15:29,241
+Freeman thinks he's got a story, so complicated that neither Eric nor I could explain it very well, of how the organism picks up the significance of what it's dealing with directly and is attuned to the significance of what it's dealing with.
+
+126
+00:15:29,241 --> 00:15:42,360
+Directly in that the brain already just goes into a state on the basis of the input that can that and that state was formed by its previous experience with the significance of the input.
+
+127
+00:15:42,360 --> 00:15:44,201
+But it's not like a representation.
+
+128
+00:15:44,201 --> 00:15:49,880
+It's not like some description of the input plus an additional factor, namely good to eat.
+
+129
+00:15:49,881 --> 00:15:59,241
+It is something that's tied directly up with the action so that when it has that kind of input, it gets set to go and eat it.
+
+130
+00:15:59,241 --> 00:16:12,601
+So Freeman has a way of trying to describe how the brain can take up directly the significance of what it encounters in the world and how that's going to change as it encounters more things in the world.
+
+131
+00:16:13,320 --> 00:16:17,320
+It fits the phenomenology, the Meryl-Ponte phenomenology.
+
+132
+00:16:17,320 --> 00:16:21,880
+And he says, and this is part of the confusion, and therefore, he's explaining consciousness.
+
+133
+00:16:21,921 --> 00:16:23,321
+And you heard it, and you think that.
+
+134
+00:16:23,481 --> 00:16:39,201
+Anyway, consciousness has these two aspects, picking up the meaning and picking up the qualia or the feeling, you know, the sensual experience, the conscious experience of, say, melanchari.
+
+135
+00:16:39,681 --> 00:16:41,041
+He doesn't make that distinction.
+
+136
+00:16:41,040 --> 00:16:44,400
+He's happy just to say, well, we picked up the significance.
+
+137
+00:16:44,401 --> 00:16:45,840
+What more do you want?
+
+138
+00:16:45,840 --> 00:16:52,961
+And somebody like John Sydney says, well, what we really want is what's the conscious qualia aspect of all this.
+
+139
+00:16:52,961 --> 00:16:58,000
+And it isn't as if Walter thinks that's a good question and he thinks he doesn't have an answer.
+
+140
+00:16:58,000 --> 00:16:59,361
+He doesn't really hear the question.
+
+141
+00:16:59,360 --> 00:17:01,600
+He just thinks that's a non-question.
+
+142
+00:17:01,600 --> 00:17:04,641
+I mean, I don't, I mean, that's the best I can say about it.
+
+143
+00:17:04,641 --> 00:17:04,881
+Yeah.
+
+144
+00:17:05,520 --> 00:17:06,880
+Does that fit your experience?
+
+145
+00:17:06,881 --> 00:17:07,520
+Yeah, that's right.
+
+146
+00:17:07,520 --> 00:17:07,680
+Yeah.
+
+147
+00:17:07,921 --> 00:17:12,880
+Just to clarify what you said, so Freeman is giving you all the glory because we kind of call out.
+
+148
+00:17:12,881 --> 00:17:13,201
+Yes.
+
+149
+00:17:13,441 --> 00:17:14,080
+And good.
+
+150
+00:17:14,080 --> 00:17:21,040
+And what's interesting, which you haven't mentioned yet, is that it's not bringing into the picture an associationist understanding of memory, for example.
+
+151
+00:17:22,080 --> 00:17:24,640
+There's learning, but the learning is in this kind of.
+
+152
+00:17:24,881 --> 00:17:25,201
+That's right.
+
+153
+00:17:25,201 --> 00:17:37,361
+It's not a representationalist or it's not an empiricist notion of learning, which that didn't work out because these impressions don't call each other up until you've already recognized them, according to Merlopony.
+
+154
+00:17:37,360 --> 00:17:40,721
+And it isn't an intellectualist version, which I was really giving more of an example of.
+
+155
+00:17:40,721 --> 00:17:47,201
+You're not building up a representation of the world in which you're sort of having you have a description and you add more and more information.
+
+156
+00:17:47,201 --> 00:17:51,520
+You're changing the world and how it shows up for you.
+
+157
+00:17:51,840 --> 00:18:00,081
+Shows up for you is this interesting weasly term that Heidegger and Freeman and Merloponte like.
+
+158
+00:18:00,080 --> 00:18:04,881
+Shows up for you, you could say, well, shows up as significant, and then you'd be in their dimension.
+
+159
+00:18:04,881 --> 00:18:10,000
+Shows up for you, you could mean with what qualia, then they would just say, who cares?
+
+160
+00:18:10,320 --> 00:18:12,401
+Okay, all of that is right.
+
+161
+00:18:12,560 --> 00:18:26,681
+It not only is a view for the fits the intentional arc, but it also fits, but I haven't been saying this well because I don't know how to say it any better, is it fits the constant the organism's trying to get a maximum grip.
+
+162
+00:18:26,681 --> 00:18:33,641
+Remember that story, which that's the other secret deep thing in Merleau-Ponty that I keep stressing.
+
+163
+00:18:33,641 --> 00:18:45,961
+And I find a lot of places in the Phantom Limb this kind of where in every sort of metaphor he's always talking about keeping maximum grip and never using the expression it only is used about three times in all of the meaning time.
+
+164
+00:18:45,961 --> 00:19:06,520
+So it's part of the premium picture of it, that the organism is always seeking what is significant for it and seeking to get a better, clearer, more successful grip on what's important to it.
+
+165
+00:19:06,520 --> 00:19:14,600
+And that's why the information coming in is always already stored in terms of its importance for the organism.
+
+166
+00:19:14,600 --> 00:19:18,760
+So it's got a combination of the intentional arc and the maximum grip.
+
+167
+00:19:18,760 --> 00:19:28,600
+The seeking for the maximum grip is what determines what information gets built into the perception by way of the intentional arc.
+
+168
+00:19:28,760 --> 00:19:32,040
+I think those are the two most important notions in Merilloponte.
+
+169
+00:19:32,040 --> 00:19:44,680
+And interestingly enough, the least mentioned, and interesting enough, I just can't resist saying this, Merilloponte has a theory that every philosopher's really most important ideas he never talks about because they sort of are in the background coloring everything.
+
+170
+00:19:44,681 --> 00:19:46,760
+He says that about Hustler.
+
+171
+00:19:46,760 --> 00:19:52,120
+Well, all I got to do is transmit that and say that about Merlot Ponty, and you've got what I was saying.
+
+172
+00:19:52,121 --> 00:19:57,721
+And you'll be how many of you read Sean Kelly's paper on seeing things in Merleau-Ponty?
+
+173
+00:19:58,040 --> 00:20:01,000
+Well, when you do, you'll see that Sean is using that.
+
+174
+00:20:01,000 --> 00:20:11,680
+He's claiming that some third thing, which I haven't mentioned, which is his favorite given Marillopon T, is hardly ever mentioned and sometimes even contradicted.
+
+175
+00:20:11,681 --> 00:20:12,641
+Okay, yeah.
+
+176
+00:20:12,641 --> 00:20:16,320
+Do you think Barloboni himself would buy what previous causal story that you just gave?
+
+177
+00:20:16,401 --> 00:20:19,280
+Or did he part not addressing the quality of coaches?
+
+178
+00:20:19,441 --> 00:20:20,400
+Yes, I think he would buy it.
+
+179
+00:20:20,401 --> 00:20:21,441
+I think he'd love it.
+
+180
+00:20:21,441 --> 00:20:24,641
+Because he's trying to give a brain story every once in a while.
+
+181
+00:20:24,641 --> 00:20:28,880
+Well, at the beginning of this class, he said that these things should not be given in causal explanations.
+
+182
+00:20:28,881 --> 00:20:34,080
+Instead of your partial phenomenology theory, he's not there getting descriptive notions like describe what a notice is.
+
+183
+00:20:35,840 --> 00:20:37,920
+Okay, I have a sensible thing to say.
+
+184
+00:20:37,921 --> 00:20:44,321
+I think the answer to that is that when he says causal, he means what Freeman means when he says linear.
+
+185
+00:20:44,320 --> 00:20:54,721
+He hears causal as how the stuff from there, bombarding me and my brain as passive receivers, somehow give me a world.
+
+186
+00:20:54,721 --> 00:20:55,921
+And he thinks that's wrong.
+
+187
+00:20:55,921 --> 00:20:59,201
+He thinks it's circular, and he thinks I haven't stressed this.
+
+188
+00:20:59,201 --> 00:21:01,040
+We better throw this in holistic.
+
+189
+00:21:01,040 --> 00:21:10,080
+It's always the whole, what does he call it, a tracker landscape gets modified whenever I add a new experience.
+
+190
+00:21:10,401 --> 00:21:18,481
+He would say that that's not, Freeman would say that's not what people normally mean by causality when they talk about the brain.
+
+191
+00:21:18,481 --> 00:21:20,400
+And he's against the linear causality.
+
+192
+00:21:20,641 --> 00:21:23,440
+You think Freeman's callosa is a good description.
+
+193
+00:21:23,840 --> 00:21:24,320
+He is what?
+
+194
+00:21:24,320 --> 00:21:25,201
+It's a good description.
+
+195
+00:21:25,520 --> 00:21:26,161
+Of what?
+
+196
+00:21:26,961 --> 00:21:28,560
+You mean if that's a description that fits within the corner?
+
+197
+00:21:30,800 --> 00:21:32,641
+Yeah, that's right.
+
+198
+00:21:32,641 --> 00:21:34,961
+But it's a different kind of causality.
+
+199
+00:21:34,961 --> 00:21:38,000
+Let me say one more thing about it, although I don't see how it fits in.
+
+200
+00:21:38,000 --> 00:21:39,360
+It's important.
+
+201
+00:21:40,000 --> 00:21:44,721
+It comes up in what we're reading at one point, and I'll see if I could say before we get there.
+
+202
+00:21:45,681 --> 00:21:50,041
+No, I'll say it now, but I can't remember where why it's relevant yet.
+
+203
+00:21:50,201 --> 00:22:06,280
+But Freeman has this interesting idea that there's a kind of causality where the global activity enslaves, this is the official word for this from the mathematicians who study it, the activity of the elements.
+
+204
+00:22:06,600 --> 00:22:12,600
+It's the whole determines the parts phenomena, which we've been describing on the perceptual level.
+
+205
+00:22:12,600 --> 00:22:14,120
+That's the Gestalt view.
+
+206
+00:22:14,121 --> 00:22:16,360
+What would that look like on the brain level?
+
+207
+00:22:16,360 --> 00:22:27,961
+Well, that would look like a mathematics of how the global pattern that forms in the brain influences all the elements which are in there and any new element that comes in there.
+
+208
+00:22:27,961 --> 00:22:30,680
+And what would that be like in the real world?
+
+209
+00:22:30,681 --> 00:22:36,280
+Well, it's the mathematics of storms, of hurricanes, like.
+
+210
+00:22:36,280 --> 00:22:45,640
+For instance, once the air gets going around in a hurricane, every other air molecule that comes into it gets to be part of it and contributes to it.
+
+211
+00:22:45,641 --> 00:22:48,840
+And apparently, the mathematics was worked out for lasers.
+
+212
+00:22:48,840 --> 00:22:50,680
+They do this to the ions.
+
+213
+00:22:50,681 --> 00:22:54,201
+So there's a kind of top-down causality.
+
+214
+00:22:54,201 --> 00:22:56,760
+It still takes place in the natural world.
+
+215
+00:22:56,760 --> 00:23:07,721
+There's a very peculiar kind of causality in which you can't explain what's going on in terms of the elements, but you can explain it in terms of the whole pattern and how that's imposed on the elements.
+
+216
+00:23:07,721 --> 00:23:27,241
+But there are all these wonderful things going on, which I wish we knew more about, but it's nice to know they're there, because it means that Nero-Ponty isn't just sort of ignoring, or need just ignore the brain and say, and how this happens in the natural causal world.
+
+217
+00:23:27,241 --> 00:23:34,721
+He's groping every once in a while for a view of how the brain does it, that he has no clue.
+
+218
+00:23:32,921 --> 00:23:37,760
+So he's mostly saying, well, there's no brain account.
+
+219
+00:23:38,000 --> 00:23:41,520
+Sometimes he goes so far as to say no brain account is possible of this.
+
+220
+00:23:41,520 --> 00:23:47,760
+Whenever he says that, and when you see it, you will be surprised because it contradicts so much what I just said.
+
+221
+00:23:47,760 --> 00:24:00,640
+I think what he really means is no brain account that he can think of, or anybody can think of, at his time, with their math, which would be a linear causal account, is possible.
+
+222
+00:24:00,641 --> 00:24:02,961
+It doesn't account for the very important things.
+
+223
+00:24:03,201 --> 00:24:12,160
+The feedback, the intentional arc, the tendency toward maximum grip, the whole determining the elements.
+
+224
+00:24:12,161 --> 00:24:16,241
+So he sometimes says, well, we'll never get a brain, we'll never get an account of this.
+
+225
+00:24:16,241 --> 00:24:18,800
+Sometimes he says in terms of reflex physiology.
+
+226
+00:24:19,121 --> 00:24:24,400
+Sometimes he says, we'll never get an account of this in terms of linear causality in the brain.
+
+227
+00:24:24,401 --> 00:24:27,760
+But he really wants an account of it.
+
+228
+00:24:28,961 --> 00:24:36,481
+And whether he's an idealist or not, he would like to know how this stuff up here makes perception possible.
+
+229
+00:24:36,721 --> 00:24:38,560
+He's a modern person.
+
+230
+00:24:38,560 --> 00:24:40,961
+And he'd be happy with Freeman, I think.
+
+231
+00:24:40,961 --> 00:24:41,280
+Yeah.
+
+232
+00:24:42,881 --> 00:24:47,840
+Not only just obviously not a natural world causing things in just normal worlds.
+
+233
+00:24:47,840 --> 00:24:54,320
+And then not even those phenomenal world causing things and then natural world, but kind of back and forth all the time in this flowing kind of state.
+
+234
+00:24:54,721 --> 00:24:55,920
+It's both directions all the time.
+
+235
+00:24:55,921 --> 00:24:56,080
+Right.
+
+236
+00:24:56,401 --> 00:24:56,881
+Right.
+
+237
+00:24:56,881 --> 00:24:57,120
+Yes.
+
+238
+00:24:58,000 --> 00:24:58,321
+Yes.
+
+239
+00:24:58,481 --> 00:24:59,520
+But it's still causality.
+
+240
+00:24:59,681 --> 00:24:59,840
+Yes.
+
+241
+00:25:00,481 --> 00:25:00,961
+Right.
+
+242
+00:25:00,961 --> 00:25:04,241
+Only I think what he says, you know, he's against causality.
+
+243
+00:25:04,241 --> 00:25:09,520
+He means linear Cartesian transmitter-receiver causality.
+
+244
+00:25:10,241 --> 00:25:10,721
+Okay.
+
+245
+00:25:10,961 --> 00:25:12,881
+I mean, I'm ready to go back to this.
+
+246
+00:25:12,881 --> 00:25:16,481
+But that was not wasted, and it all would have come up sooner or later in this connection.
+
+247
+00:25:16,481 --> 00:25:20,040
+So I am very perfectly fine now.
+
+248
+00:25:20,360 --> 00:25:21,400
+So, where are we?
+
+249
+00:25:21,401 --> 00:25:27,961
+We've just got, again, another repetition of the view that he's against on 86.
+
+250
+00:25:27,961 --> 00:25:32,121
+I'll just read it because it sort of sums up again the view at the bottom of 86.
+
+251
+00:25:32,441 --> 00:25:36,600
+Even the presence or absence of a perception are not de facto.
+
+252
+00:25:36,840 --> 00:25:38,361
+This is now the other view.
+
+253
+00:25:38,360 --> 00:25:46,040
+And then here's his answer to the Cartesian passage I read before about the receiving, receiver story.
+
+254
+00:25:46,040 --> 00:25:51,481
+Even the presence or absence of a perception are not de facto effects of the situation outside the organism.
+
+255
+00:25:51,481 --> 00:25:56,280
+They represent the way in which it meets stimulation and is related to it.
+
+256
+00:25:56,280 --> 00:25:57,961
+This is the attunement story.
+
+257
+00:25:57,961 --> 00:26:02,520
+And excitation is not perceived when it strikes a sensory organ, which is not attuned to it.
+
+258
+00:26:02,520 --> 00:26:08,840
+The function of the organism in receiving stimuli is, so to speak, to conceive a certain form of excitation.
+
+259
+00:26:08,840 --> 00:26:13,400
+The psychophysical event is therefore no longer of the type of worldly causality.
+
+260
+00:26:13,401 --> 00:26:18,520
+The brain becomes the seat of a process of patterning, as the top gets to the top of 87.
+
+261
+00:26:18,520 --> 00:26:20,760
+So that's sort of what I was just saying.
+
+262
+00:26:21,161 --> 00:26:30,280
+That's the other story, which is still a natural story and still a causal story, but it's not what he calls worldly causality.
+
+263
+00:26:30,921 --> 00:26:33,880
+That's what Freeman calls linear causality.
+
+264
+00:26:34,201 --> 00:26:44,600
+And if you notice, the brain, and thereby the organism getting in the right way to receive the stimulus, that's tied up with this attempt to get a maximum grip.
+
+265
+00:26:44,600 --> 00:26:54,680
+It's fundamental that the organism is always actively involved in the world trying to do something, namely get a better grip on it.
+
+266
+00:26:54,681 --> 00:27:00,600
+And that's how come the stimulus gets patterned the way it gets patterned.
+
+267
+00:27:00,601 --> 00:27:04,320
+That's the picture he's got to meet.
+
+268
+00:27:02,681 --> 00:27:06,401
+Okay, onward.
+
+269
+00:27:08,241 --> 00:27:16,241
+Now I have to catch up because I have now given you what I've got here about Freema to see if I need to say anything more if I said it okay.
+
+270
+00:27:17,201 --> 00:27:31,120
+You know, I wrote about lasers and ions and storms and water drops, chaotic systems, dynamic systems, attractors, whatever this all means.
+
+271
+00:27:32,080 --> 00:27:38,721
+And Neil Punkey says this can't be done in third-person brain science 187.
+
+272
+00:27:39,681 --> 00:27:42,000
+We're starting, right?
+
+273
+00:27:42,081 --> 00:27:45,200
+We'll give a few sentences and then I'm going to read more.
+
+274
+00:27:45,201 --> 00:27:51,360
+Again, now we're going back from the brain story to see how it fits the perception.
+
+275
+00:27:51,360 --> 00:27:53,040
+So he's sort of in the middle story.
+
+276
+00:27:53,041 --> 00:27:54,161
+No, I don't know which it is.
+
+277
+00:27:54,241 --> 00:27:57,760
+He's trying to find this level in which we can talk about it either way.
+
+278
+00:27:57,760 --> 00:28:02,961
+The excitation is seized and reorganized by transversal functions.
+
+279
+00:28:02,960 --> 00:28:11,441
+That would be this attractor landscape business, which makes it resemble the perception which it is about to arouse.
+
+280
+00:28:11,440 --> 00:28:14,001
+That means that what?
+
+281
+00:28:14,001 --> 00:28:29,760
+That the organism is getting into a landscape in which there are attractors of the sort that terrorists and celery and so forth are imposed or whatever.
+
+282
+00:28:29,760 --> 00:28:34,320
+And it's going to go into one of them and it's getting ready to go into one of them.
+
+283
+00:28:34,721 --> 00:28:38,000
+That's the picture, which intervenes before the cortical stage.
+
+284
+00:28:40,241 --> 00:28:45,040
+Which, which from the moment the nervous system comes into play, confuses the relations of stimulus to organism.
+
+285
+00:28:45,201 --> 00:28:57,161
+That means as soon as something hits the rabbit, it goes into this burst of chaotic activity that's already got these attractors in it, and then it's ready to receive what's out there.
+
+286
+00:28:57,161 --> 00:29:02,760
+The excitation is seized and reorganized by the transverse functions, which make it resemble and so forth.
+
+287
+00:29:03,081 --> 00:29:07,000
+Now, I'm still going to read because all this is sort of sound, is his version of what I just said.
+
+288
+00:29:07,001 --> 00:29:14,921
+I cannot envisage this form, which is traced out in the nervous system, the exhibiting of the structure as a set of processes in the third person.
+
+289
+00:29:14,920 --> 00:29:28,601
+Well, you see, that's the, it makes it sound like, well, there is no way to talk about this in terms of nature and causal forces and energy-hitting organisms.
+
+290
+00:29:28,681 --> 00:29:29,560
+He's constant there.
+
+291
+00:29:29,561 --> 00:29:31,400
+He says, I cannot envisage.
+
+292
+00:29:31,721 --> 00:29:32,040
+That's right.
+
+293
+00:29:33,081 --> 00:29:33,640
+He's right?
+
+294
+00:29:33,641 --> 00:29:34,760
+He's being constant.
+
+295
+00:29:35,081 --> 00:29:36,200
+Yeah, at least.
+
+296
+00:29:36,440 --> 00:29:41,960
+But I want to say, too, or I was going to read it another way, but we can read it either way.
+
+297
+00:29:42,121 --> 00:29:44,360
+A set of processes in the third person.
+
+298
+00:29:44,360 --> 00:29:47,001
+I think he means nobody can do that.
+
+299
+00:29:47,001 --> 00:29:52,600
+Because I think by third person, he's got linear, he means linear causality where significance isn't in it.
+
+300
+00:29:54,440 --> 00:30:05,001
+Remember, he's going to say later, you can't understand what's going on in perception or the brain without bringing in at the ground floor its significance for an organism that's seeking something.
+
+301
+00:30:05,001 --> 00:30:07,560
+And that's why you can't have a third-person account of this.
+
+302
+00:30:07,561 --> 00:30:08,520
+That's very important.
+
+303
+00:30:09,081 --> 00:30:15,721
+So one way to be correct for a brain, at least in real time, we have to understand the rabbit as a rabbit looking for food.
+
+304
+00:30:16,121 --> 00:30:16,840
+And absolutely.
+
+305
+00:30:17,001 --> 00:30:20,760
+And so there's a text in which you can understand it from the first person perspective of the rabbit.
+
+306
+00:30:21,161 --> 00:30:23,641
+And he says as much in the part we read.
+
+307
+00:30:23,641 --> 00:30:28,760
+You can't understand the sentenced limb, he says, but in general, maybe you had this back.
+
+308
+00:30:28,920 --> 00:30:32,960
+No, maybe in the cryptomechanism part, but only not because of the cryptomechanism.
+
+309
+00:30:32,840 --> 00:30:35,440
+Someplace he says you can't do it in the third person.
+
+310
+00:30:35,681 --> 00:30:42,400
+You've got to, in a sense, empathize with the organism to be able to make sense of it.
+
+311
+00:30:42,641 --> 00:30:44,161
+It's in our reading for this kind.
+
+312
+00:30:44,480 --> 00:30:46,480
+I don't know the third person on that page, probably.
+
+313
+00:30:46,641 --> 00:30:49,840
+Yeah, but there's a place where he says you've got to do it in the first person.
+
+314
+00:30:49,840 --> 00:30:50,560
+Maybe it's right there.
+
+315
+00:30:50,561 --> 00:30:51,841
+Let me go on and see.
+
+316
+00:30:52,400 --> 00:31:01,120
+So as transmission movement, you can't do it in the third person as the transmission of a movement or the demarcation of one variable by another.
+
+317
+00:31:01,121 --> 00:31:03,441
+That's, I mean, that's back to Alvin's question.
+
+318
+00:31:03,920 --> 00:31:08,400
+If you were looking for that, do you think that he hasn't explained anything?
+
+319
+00:31:08,400 --> 00:31:10,480
+But he says that you don't need that.
+
+320
+00:31:10,480 --> 00:31:12,241
+I cannot gain a removed knowledge of it.
+
+321
+00:31:12,320 --> 00:31:14,880
+I guess this is the very thing where he's saying it, right, Greg?
+
+322
+00:31:15,840 --> 00:31:17,600
+You've got to do a first-person version.
+
+323
+00:31:17,601 --> 00:31:24,800
+Insofar as I've guessed what it may be, it is by abandoning the body as an object, parts outside of parts, going back to the body.
+
+324
+00:31:24,800 --> 00:31:25,920
+I experience, yes.
+
+325
+00:31:25,920 --> 00:31:26,880
+You really have to sort of...
+
+326
+00:31:27,121 --> 00:31:29,121
+Empathize with the rabbit, right?
+
+327
+00:31:29,121 --> 00:31:29,760
+Going back to.
+
+328
+00:31:30,001 --> 00:31:41,361
+He's quite learned just a footnote that I'm quite certain that all the humans, rabbits, with brains, were involved in that kind of natural exploring.
+
+329
+00:31:41,360 --> 00:31:43,280
+Oh, yes, they were, because they were very hungry.
+
+330
+00:31:43,280 --> 00:31:43,760
+We don't want to.
+
+331
+00:31:46,800 --> 00:31:47,360
+No, I don't.
+
+332
+00:31:48,241 --> 00:31:52,560
+He's pretty ecological, and he was in charge of animal experiments.
+
+333
+00:31:52,880 --> 00:31:53,681
+He's got a.
+
+334
+00:31:53,920 --> 00:32:00,000
+I know you've got a problem, but you can't, it wouldn't work for him if the rabbit weren't at least sniffing around.
+
+335
+00:32:00,001 --> 00:32:00,880
+But you're probably right.
+
+336
+00:32:01,121 --> 00:32:03,041
+It's sniffing around in the stream.
+
+337
+00:32:03,041 --> 00:32:08,961
+And it's very important to say that, and that's a kind of Gibsonian point.
+
+338
+00:32:08,960 --> 00:32:13,841
+But I think he thinks that you've got enough of the rabbit, the active snipping.
+
+339
+00:32:14,081 --> 00:32:16,160
+The question is, how much it's moving around.
+
+340
+00:32:16,161 --> 00:32:16,960
+I agree with you.
+
+341
+00:32:16,960 --> 00:32:17,520
+I don't know.
+
+342
+00:32:17,521 --> 00:32:33,001
+I mean, I agree, it's pretty hard to move around with an array of 12 by 12 needles in the olfactory part of the brain, which is where the rabbit, and each one of them hooked up a wire to a complicated computer stuff.
+
+343
+00:32:33,001 --> 00:32:38,280
+So it'd probably be better if we could find out how it would do it without that.
+
+344
+00:32:38,280 --> 00:32:50,360
+But if it forms an attractor when sniffing and hungry and comes across carrots, I mean, until we proved otherwise, we better assume that it would do the same thing even if it were running around.
+
+345
+00:32:50,360 --> 00:32:51,641
+But all this is true.
+
+346
+00:32:51,641 --> 00:33:01,800
+And if he was doing perception or action, instead of categorizing of stuff, he'd certainly have to, but maybe that's why he can't do it.
+
+347
+00:33:01,800 --> 00:33:09,800
+I mean, he's always saying, of course, the limbic system comes in here and it's very important, and that's how the animal's moving around, and it has its own attractors, but he can't study them.
+
+348
+00:33:09,800 --> 00:33:11,960
+He doesn't say, I can't study them when he's talking.
+
+349
+00:33:11,960 --> 00:33:15,161
+He's got his hands full of the rabbit all his life.
+
+350
+00:33:15,161 --> 00:33:16,441
+But you're right.
+
+351
+00:33:16,760 --> 00:33:22,920
+The only question I'm asking you is, Sorry, we don't know, I mean, the significance of the fact that the poor rabbit can't move.
+
+352
+00:33:22,920 --> 00:33:27,241
+Right, although you might think presentation shows that there's an incidental in the ground.
+
+353
+00:33:27,320 --> 00:33:28,520
+It doesn't go back and forth.
+
+354
+00:33:28,681 --> 00:33:31,241
+Well, no, no, because it never said that it was moving.
+
+355
+00:33:31,721 --> 00:33:32,600
+It was seeking.
+
+356
+00:33:32,601 --> 00:33:33,721
+And that doesn't mean moving.
+
+357
+00:33:33,721 --> 00:33:42,920
+It can be sniffing, trying to get sniff the eating molecules in the air instead of the enemy molecules in the air.
+
+358
+00:33:42,920 --> 00:33:43,320
+That's all.
+
+359
+00:33:43,960 --> 00:33:45,721
+It needs to be seeking.
+
+360
+00:33:45,721 --> 00:33:47,640
+And okay.
+
+361
+00:33:48,681 --> 00:33:49,880
+Good, hard questions.
+
+362
+00:33:49,880 --> 00:33:51,320
+Okay, let me go back to reading this.
+
+363
+00:33:51,320 --> 00:33:53,400
+I cannot have a remote knowledge of it.
+
+364
+00:33:53,400 --> 00:33:55,880
+It's a very interesting, weird view here.
+
+365
+00:33:55,840 --> 00:34:01,241
+It's it as Rick says, you've got to sort of empathize with the the organism to talk about it.
+
+366
+00:34:01,400 --> 00:34:02,241
+I think that's the point.
+
+367
+00:34:01,960 --> 00:34:08,000
+It but it it's pretty doing science from a third person point of view.
+
+368
+00:34:08,081 --> 00:34:18,800
+It's just a different kind of science which is recognizing the gestalt, where we're we're treating the rabbit as a rabbit and not as far as not as a bunch of cards stuck together.
+
+369
+00:34:18,960 --> 00:34:20,400
+Let me just add a footnote quick.
+
+370
+00:34:20,400 --> 00:34:25,041
+Recognizing the gestal as significant to what you're seeking.
+
+371
+00:34:25,041 --> 00:34:26,560
+That's a very important part of it.
+
+372
+00:34:27,360 --> 00:34:29,601
+That's why it isn't just third person.
+
+373
+00:34:29,681 --> 00:34:31,600
+You have to have the level of the rabbit, I guess.
+
+374
+00:34:31,601 --> 00:34:32,000
+That's right.
+
+375
+00:34:33,760 --> 00:34:41,760
+It's the you've got to understand the organism in its active involved seeking what it needs and what is significant.
+
+376
+00:34:47,280 --> 00:34:47,840
+Yeah, right.
+
+377
+00:34:49,360 --> 00:34:53,841
+So let's do all the live stuff we're talking about, so let's go on.
+
+378
+00:34:54,081 --> 00:34:58,000
+So it isn't the transmission of a movement or the determination of one variable by another.
+
+379
+00:34:58,001 --> 00:34:59,680
+Well, that's to say the least.
+
+380
+00:34:59,840 --> 00:35:00,960
+Now comes the harder part.
+
+381
+00:35:00,960 --> 00:35:10,480
+I cannot gain a remote knowledge of it insofar as I guess what it may be, which is by abandoning the body as an object and by going back to the body which I experience at this moment.
+
+382
+00:35:10,480 --> 00:35:14,881
+See, that's when you're trying to figure out the rabbit by understanding your own body.
+
+383
+00:35:14,880 --> 00:35:26,721
+In the manner, for example, in which my hand, and now we're going to do it from sort of firsthand, my hand moves around the object it touches, anticipating the stimuli and itself tracing out the form which I'm about to perceive.
+
+384
+00:35:26,721 --> 00:35:30,880
+I cannot understand the function of a living body except by enacting it myself.
+
+385
+00:35:30,880 --> 00:35:32,080
+Well, that's pretty extreme.
+
+386
+00:35:32,081 --> 00:35:33,680
+I mean, that's what I thought it said.
+
+387
+00:35:33,681 --> 00:35:43,280
+That is, any organism, any living organism, if you can't understand it, if you don't think of it as teleological, as weeping, and so forth.
+
+388
+00:35:43,280 --> 00:35:56,681
+That's what the really Cartesian mechanist picture was supposed to get rid of, was the teleology, was building what it meant to the organism and what the organism was seeking into the causal explanation.
+
+389
+00:35:56,681 --> 00:36:00,681
+That's what that's that's that would be very satisfying.
+
+390
+00:36:01,241 --> 00:36:04,760
+Yeah, which will I reach that thing's teleology?
+
+391
+00:36:04,760 --> 00:36:09,960
+Oh, I think it's the it's tracing out the form I'm about to perceive.
+
+392
+00:36:10,360 --> 00:36:13,161
+That's in effect what I'm reaching for when I'm.
+
+393
+00:36:14,521 --> 00:36:15,880
+Husslow could have said that.
+
+394
+00:36:15,880 --> 00:36:18,121
+Well, I'm not saying that Husserl did say this.
+
+395
+00:36:18,201 --> 00:36:21,721
+There'll be too many fronts to discuss on at the same time.
+
+396
+00:36:21,721 --> 00:36:27,560
+We're discussing, I mean, I don't think he thinks that he's got a completely new version of the phenomenon.
+
+397
+00:36:27,561 --> 00:36:28,760
+I don't have to think about that.
+
+398
+00:36:29,161 --> 00:36:32,361
+This is supposed to be how to do brain science.
+
+399
+00:36:32,360 --> 00:36:43,481
+And you can't do brain science, but do one thing at a time without, in effect, emphasizing, empathizing with the organism the way you do when you are reaching for something.
+
+400
+00:36:43,480 --> 00:36:47,960
+And remember, when you're reaching for something, it's already there directing your behavior.
+
+401
+00:36:47,960 --> 00:37:06,921
+In the background of this talk is always don't forget that your hand is at the doorknob as soon as you get up to leave the room, or as soon as you get ready to get your coffee, that your hand is starting to take account of where on the cup the handle is, behind the cup, or in front of the cup, on the right side of the cup, or the left, or maybe it hasn't got a handle.
+
+402
+00:37:08,601 --> 00:37:10,760
+The activity is ahead of itself.
+
+403
+00:37:11,400 --> 00:37:17,401
+Your body is not sort of waiting to get to the cup to deal with how to take it up.
+
+404
+00:37:17,400 --> 00:37:21,000
+It's already picking it up.
+
+405
+00:37:21,001 --> 00:37:23,401
+That's being magically at the door.
+
+406
+00:37:23,721 --> 00:37:29,561
+And you know that if you think about it, then that's the phenomenology for it.
+
+407
+00:37:29,561 --> 00:37:34,081
+And moreover, whatever it is that goes on in the brain, you better be able to account for that.
+
+408
+00:37:34,400 --> 00:37:45,601
+And it means you're not just taking in data from the cup and then processing an image of the cup and then adding the fact that it's got good something to drink and then finding where your arm is in objective space.
+
+409
+00:37:45,601 --> 00:37:54,161
+I'm just telling you the computer, the AI story, and then bringing your arm in objective space over to the cup in objective space.
+
+410
+00:37:54,161 --> 00:37:56,800
+That's how cognitivism thinks about it.
+
+411
+00:37:56,800 --> 00:37:58,400
+That has always failed.
+
+412
+00:37:58,400 --> 00:38:00,161
+Nobody's ever been able to do it.
+
+413
+00:38:00,161 --> 00:38:09,601
+So in contrast, and close to the organism, as something's holistic, the smarter causality, top down, you're going through it.
+
+414
+00:38:10,001 --> 00:38:12,241
+I'm just going to form identity.
+
+415
+00:38:12,400 --> 00:38:18,321
+There's a more atomistic conception, bottom-up causation, all linear causation.
+
+416
+00:38:18,960 --> 00:38:24,721
+Can you fully spell out those two pictures without mentioning empathy or teleology?
+
+417
+00:38:25,041 --> 00:38:25,840
+Do you think so?
+
+418
+00:38:26,400 --> 00:38:26,880
+Yeah.
+
+419
+00:38:28,480 --> 00:38:45,360
+He thinks that spelling out the story of how it's already getting set up, getting hot and TV permit attuned because sense organs and also the reaching and stuff is attuned to the object that it's reaching for.
+
+420
+00:38:45,760 --> 00:38:50,881
+You don't have to bring in first person and teleology to talk that kind of attuned language.
+
+421
+00:38:50,880 --> 00:38:57,280
+But if you take a third-person perspective and since they view that the organism has coupled to its environment in some kind of way.
+
+422
+00:38:57,521 --> 00:38:59,121
+Well, coupled to its environment.
+
+423
+00:39:01,760 --> 00:39:02,000
+Yeah.
+
+424
+00:39:02,800 --> 00:39:05,280
+You're talking about the sensory perspective environment, right?
+
+425
+00:39:05,360 --> 00:39:06,960
+You know, those passages aren's fascinating to move.
+
+426
+00:39:07,201 --> 00:39:07,600
+Right.
+
+427
+00:39:07,601 --> 00:39:19,480
+And that means it has to be, attention has to be focused on something, and the eye has to move to look at the something, even if you're not consciously trying to do it.
+
+428
+00:39:19,800 --> 00:39:29,481
+The organism is, and I'm not sure now which way to put it, whether we're disagreeing or not, the organism is moving to get this optimal grip.
+
+429
+00:39:29,480 --> 00:39:45,800
+Isn't that a teleological explanation if you say the only way to explain how that organism is moving is that it has the goal of getting an optimal grip, and only in terms of that goal and what will achieve that goal can you understand what the organism is doing now?
+
+430
+00:39:45,800 --> 00:39:46,840
+Well, I don't.
+
+431
+00:39:46,840 --> 00:39:47,800
+It's teleological.
+
+432
+00:39:48,041 --> 00:39:50,601
+I don't see Merloponte saying anything like that in these passages.
+
+433
+00:39:50,760 --> 00:39:53,721
+Ah, well, it may not be in these passages, although I think it is.
+
+434
+00:39:53,721 --> 00:39:54,840
+It's certainly in the book.
+
+435
+00:39:54,840 --> 00:39:57,000
+But why isn't it in these passages?
+
+436
+00:39:57,721 --> 00:40:00,201
+Okay, let's see if it is by going on.
+
+437
+00:40:00,201 --> 00:40:01,720
+But keep your eye open.
+
+438
+00:40:01,721 --> 00:40:06,840
+But I'll bet on this, that if it isn't in these passages, it's a lot of other places.
+
+439
+00:40:06,840 --> 00:40:16,040
+But it'll be in these passages because it'll explain why, for instance, the guy with no leg tries to get up and walk towards the door and so forth.
+
+440
+00:40:16,041 --> 00:40:23,480
+It's going to be because the door is summoning him, and I've talked in like this chapter, to do that.
+
+441
+00:40:23,480 --> 00:40:26,360
+That's a pretty weird way of talking.
+
+442
+00:40:26,681 --> 00:40:28,361
+So let's go on with that.
+
+443
+00:40:29,241 --> 00:40:30,201
+Well, let's see now.
+
+444
+00:40:30,201 --> 00:40:31,241
+Well, well, well.
+
+445
+00:40:31,241 --> 00:40:38,841
+Merloponte says it can't be done in the third person, but Merloponte would still talk.
+
+446
+00:40:38,840 --> 00:40:45,800
+So a third-person account, I think Alva summed this up pretty well, and I'll just read it again.
+
+447
+00:40:46,681 --> 00:40:52,121
+The account he's against is not holistic, but in terms of elements and bottom-up, it's linear.
+
+448
+00:40:52,121 --> 00:41:06,400
+It's in terms of something in there transmitted to, passively received by the brain, and it doesn't take into account the significance of the input for the organism and how that gets picked up.
+
+449
+00:41:03,161 --> 00:41:08,001
+Those are his objections.
+
+450
+00:41:08,320 --> 00:41:12,161
+Now I've written here about attractors, but I think I said all that just in a second.
+
+451
+00:41:12,161 --> 00:41:12,881
+Yes.
+
+452
+00:41:12,880 --> 00:41:17,120
+Okay, so now he says the test case of this is going to be the phantom wheel.
+
+453
+00:41:17,440 --> 00:41:20,800
+So then he goes on and starts talking about that.
+
+454
+00:41:20,800 --> 00:41:31,920
+That's where he says, well, by the way, you realize, let me just, it's so hard to not tell you where he's off doing saying this isn't the case.
+
+455
+00:41:31,920 --> 00:41:33,921
+So let me just go on for a second.
+
+456
+00:41:34,161 --> 00:41:39,760
+He wants to say the soul spreads over all the parts and behavior over stills, the central sector.
+
+457
+00:41:39,760 --> 00:41:43,120
+And this is the kind of thing that Descartes tried to get rid of.
+
+458
+00:41:43,121 --> 00:41:44,800
+This is back to Aristotle.
+
+459
+00:41:44,880 --> 00:41:50,561
+It looks like some kind of teleology, that the goal is going to be the only way to explain the behavior, I think.
+
+460
+00:41:50,561 --> 00:41:54,960
+And it looks like the soul is the form of the body, Aristotle said.
+
+461
+00:41:54,960 --> 00:42:05,441
+It's not the special final stage in the input where it finally gets translated into consciousness and perception.
+
+462
+00:42:05,440 --> 00:42:08,481
+So the goal is going to spread all over the body.
+
+463
+00:42:09,760 --> 00:42:12,081
+But now, be careful here.
+
+464
+00:42:12,081 --> 00:42:19,521
+One might object that this bodily experience is itself a representation, a psychic fact, and so forth.
+
+465
+00:42:19,521 --> 00:42:27,280
+Now, sometimes he's the one doing the objecting and saying, but, but here, this one is Descartes.
+
+466
+00:42:28,081 --> 00:42:30,161
+This is not Merlot.
+
+467
+00:42:31,041 --> 00:42:36,241
+One might object that the body experience is a representation, a psychic fact, and that is such as the end of a chain.
+
+468
+00:42:36,241 --> 00:42:44,561
+You can see that you recognize now it's the same thing as the earlier, of physical and physiological events, which alone can be ascribed to the real body.
+
+469
+00:42:44,561 --> 00:42:53,800
+It's not my body exact, is not my body exactly as the external body is a body which acts on receptors and finally gives us the consciousness of the body.
+
+470
+00:42:54,121 --> 00:42:57,000
+And worth reading again and again because that's what we all think.
+
+471
+00:42:57,001 --> 00:42:59,160
+It's such a pervasive view.
+
+472
+00:42:59,161 --> 00:43:13,561
+That's why Walter Freeman is either the great genius of the 21st century who will be recognized later or just a kook, which is what practically everybody thinks because his view of this brain story is just utterly different than what we're reading here.
+
+473
+00:43:13,561 --> 00:43:21,800
+Is there, and now, is there not an inter inferioceptivity just as there is an exteriorceptivity?
+
+474
+00:43:21,800 --> 00:43:28,921
+Cannot I find in the body, this is the body message wires sent from the internal organs to the brain?
+
+475
+00:43:28,920 --> 00:43:35,481
+You know, Descartes discovered what he called the tiny fibers of the optic nerve.
+
+476
+00:43:35,480 --> 00:43:45,481
+And he discovered the nerves going from the stump to the brain and understood that the phantom limb was, because that nerve was still sending impulses and so forth.
+
+477
+00:43:45,800 --> 00:43:48,681
+This Cartesian picture is brilliant.
+
+478
+00:43:48,681 --> 00:43:52,921
+And it's just over through the Aristotelian picture completely.
+
+479
+00:43:52,920 --> 00:43:58,040
+So can I find in my body message wires sent by the internal organs to the brain?
+
+480
+00:43:58,121 --> 00:44:13,640
+Cannot I find, this is all Descartes, which are installed by nature to provide the soul, which is not all over the body but just the crineal gland, with the opportunity of feeling its body, consciousness of the body, and the soul are thus repressed.
+
+481
+00:44:13,641 --> 00:44:21,481
+The body becomes the highly polished machine in which the ambiguous notion of behavior makes us, nearly makes it forget.
+
+482
+00:44:21,480 --> 00:44:23,640
+Well, that's, I mean, I hope it helps.
+
+483
+00:44:23,641 --> 00:44:28,521
+That's the view that you're supposed to try to get yourself free of.
+
+484
+00:44:28,840 --> 00:44:35,440
+And now comes finally the phantom limb example on 88.
+
+485
+00:44:35,760 --> 00:44:38,961
+What has modern psychology to say to this?
+
+486
+00:44:38,960 --> 00:44:49,441
+Well, what he's going to tell you now, it took me years to unscramble this, and I've only unscrambled it up to the place where I told you to start skipping things because at that point I can't understand it anymore.
+
+487
+00:44:50,561 --> 00:44:53,440
+But to begin with, it's pretty easy to unscramble.
+
+488
+00:44:53,440 --> 00:44:54,800
+It's the usual thing.
+
+489
+00:44:54,800 --> 00:45:03,120
+He's going to give us a mentalistic and a mechanistic account of the phantom limb.
+
+490
+00:45:03,121 --> 00:45:05,600
+And he's going to show you that neither one of them works.
+
+491
+00:45:05,601 --> 00:45:08,881
+And then he's going to say there has to be some third thing, he says.
+
+492
+00:45:08,880 --> 00:45:13,920
+And then he's going to give you his intention, his existentialist account of the phantom limb.
+
+493
+00:45:13,920 --> 00:45:15,360
+That's all you could structure.
+
+494
+00:45:15,360 --> 00:45:17,760
+You've got to keep in mind, Renaro Ponte.
+
+495
+00:45:18,320 --> 00:45:22,960
+Let's try the mechanical empiricist version.
+
+496
+00:45:23,280 --> 00:45:26,881
+Just doesn't account for the phenomena, and maybe it's even incoherent.
+
+497
+00:45:26,880 --> 00:45:31,840
+Let's try the mentalist attempt, the intellectualist, the cognitive account of the phenomena.
+
+498
+00:45:31,840 --> 00:45:33,760
+It doesn't account for certain things.
+
+499
+00:45:33,760 --> 00:45:35,521
+It's probably also incoherent.
+
+500
+00:45:35,521 --> 00:45:38,721
+In this part, he's not worrying about whether they're incoherent.
+
+501
+00:45:38,721 --> 00:45:39,921
+That was earlier.
+
+502
+00:45:39,920 --> 00:45:42,081
+That was when he was doing philosophy.
+
+503
+00:45:42,081 --> 00:46:01,601
+Right now, he just wants to say, if you look at the empirical work on phantom limb, you can see that the mechanistic people only could tell at best half the story, and the mental people another piece of the story, but they can't, none of them can get the whole thing, how it can do all the, how it can have all the funny effects that it does.
+
+504
+00:46:01,601 --> 00:46:04,640
+So first goes the mechanistic one on 88.
+
+505
+00:46:04,960 --> 00:46:07,120
+What is modern physiology to say?
+
+506
+00:46:07,121 --> 00:46:12,561
+Well, it turns out that anesthesia with cocaine does not do away with the phantom limb.
+
+507
+00:46:12,561 --> 00:46:15,841
+And now we've got a problem already.
+
+508
+00:46:16,161 --> 00:46:19,960
+That would have been the simple mechanistic answer.
+
+509
+00:46:20,280 --> 00:46:45,160
+I mean, if Descartes is right, that the phantom limb is simply that the brain is getting impulses from the nerve that it normally gets when you've got a leg, and it normally represents the body as having a leg because it got those impulses, and it's still getting them, then it's still representing the leg, and you emesociize the nerve, you just numb it, it isn't sending any impulses, why doesn't the leg go away?
+
+510
+00:46:45,161 --> 00:46:47,961
+That's the first objection to it.
+
+511
+00:46:48,280 --> 00:47:11,081
+And then we don't understand either why the limb retains the position so that whatever this is, somehow the phantom arm has something to do with where it got stuck, so to speak, and it retains that position.
+
+512
+00:47:11,081 --> 00:47:11,800
+Why is that?
+
+513
+00:47:11,800 --> 00:47:20,440
+Is it getting, even when, I mean, is it getting from the nerve an account of exactly where it was when it was hit?
+
+514
+00:47:20,440 --> 00:47:21,481
+Maybe it is.
+
+515
+00:47:21,480 --> 00:47:26,280
+But if it is, then why couldn't you just get rid of it if you got rid of the nerve?
+
+516
+00:47:26,280 --> 00:47:28,520
+Well, it seems it depends on emotions.
+
+517
+00:47:28,521 --> 00:47:31,321
+Now he flips over to the mental side.
+
+518
+00:47:31,320 --> 00:47:33,241
+It depends on psychic determinations.
+
+519
+00:47:33,241 --> 00:47:34,440
+I'm in the middle of ADA.
+
+520
+00:47:34,601 --> 00:47:41,480
+An emotion, emotion, circumstance which recalls those in which the wound is received, creates a phantom limb in subjects who had none.
+
+521
+00:47:41,480 --> 00:47:44,760
+Well, boy, there's no simple Cartesian account of that one.
+
+522
+00:47:45,081 --> 00:47:47,241
+I mean, why is that?
+
+523
+00:47:47,241 --> 00:47:51,481
+Either, well, either the impulses are coming in from the nerve or they aren't.
+
+524
+00:47:51,480 --> 00:47:54,360
+And when they are, you've got a limb, and when you don't, you don't.
+
+525
+00:47:54,400 --> 00:47:57,480
+How do what why would how do you feel about it make any difference?
+
+526
+00:47:57,561 --> 00:48:02,681
+Oh, well, it looks like there must be some central thing going on, some psychic thing.
+
+527
+00:48:02,721 --> 00:48:18,161
+And it then it looks like uh you can even have a kind of psycho lo psycho yeah, a a a psychological account, a a psychotherapy kind of one say a psychoanalytical account practically of it.
+
+528
+00:48:18,161 --> 00:48:28,321
+Uh it it turns out that it's the people who refuse to recognize their lack of limb at the bottom of the ADA, whose phantom limb doesn't go away.
+
+529
+00:48:28,320 --> 00:48:37,920
+So he says, must we then conclude that the phantom limb is a memory, a volition, a belief, and failing any physiological explanation provide a psychological one.
+
+530
+00:48:38,241 --> 00:48:40,961
+Well, that's not going to work either.
+
+531
+00:48:40,960 --> 00:48:45,760
+And I'll see if I can tell you, I'll go back and read it in a second, but that'll be nice to be able to say it.
+
+532
+00:48:46,800 --> 00:48:55,601
+Oh yeah, cutting the nerve does make the limb go away in some people, at least some of the time.
+
+533
+00:48:55,601 --> 00:49:03,441
+So then it doesn't look like it's an inner psychological thing, whether they refuse to believe they've lost their limb or not.
+
+534
+00:49:03,440 --> 00:49:04,640
+You can make it go away.
+
+535
+00:49:04,641 --> 00:49:06,321
+So temporarily.
+
+536
+00:49:06,641 --> 00:49:13,201
+He says, but no psychological explanation can overlook the fact that the severance of the nerves to the brain abolishes the phantom.
+
+537
+00:49:13,521 --> 00:49:15,280
+I think he says later it comes back.
+
+538
+00:49:15,280 --> 00:49:29,681
+At least in fact it does, because it would be nice if you could cure these poor people who have the pains in their non-arms and non-legs just by cutting the nerve, but you can't, because I know from reading that it'll come back again.
+
+539
+00:49:29,681 --> 00:49:33,921
+And so we need much more complicated explanation.
+
+540
+00:49:33,920 --> 00:49:39,201
+And now we're on, let's see, well, time changes the size of it.
+
+541
+00:49:39,201 --> 00:49:40,800
+That's also an AD3.
+
+542
+00:49:40,800 --> 00:49:44,401
+That's got to do presumably with the emotional side.
+
+543
+00:49:44,400 --> 00:49:51,560
+But it seems, and then it looks like maybe it's a question of our beliefs about it.
+
+544
+00:49:51,561 --> 00:49:53,001
+I just read that.
+
+545
+00:49:53,320 --> 00:49:56,121
+And now comes the part where it gets really important.
+
+546
+00:49:56,121 --> 00:49:58,041
+How can we put the two together?
+
+547
+00:49:58,041 --> 00:50:03,161
+We don't seem to be able to figure it out on a mechanistic category or description.
+
+548
+00:50:03,161 --> 00:50:04,841
+of nerve impulses.
+
+549
+00:50:04,840 --> 00:50:13,881
+We don't seem to be able to figure it out on the psychological description of what one believes and accepts and thinks about whether they've got a limb or not.
+
+550
+00:50:13,880 --> 00:50:21,401
+And then he wants to say, that's a big problem on 89.
+
+551
+00:50:21,721 --> 00:50:23,320
+What's happening a lot?
+
+552
+00:50:23,320 --> 00:50:30,441
+What has to be understood then is how the psychic determining factors and the physiological conditions veer into each other.
+
+553
+00:50:31,161 --> 00:50:32,840
+This is the third thing he's getting at.
+
+554
+00:50:33,161 --> 00:50:36,520
+We need a third understanding of being, he says the 2012.
+
+555
+00:50:37,081 --> 00:50:45,561
+We're not going to do it in terms of the mechanical impulses of the in itself, merely physical.
+
+556
+00:50:45,561 --> 00:50:53,800
+And we can't do it in terms of the mental content, the intentionality, the belief, which is merely mental.
+
+557
+00:50:53,800 --> 00:51:08,200
+And not only do we can't get it either way, but we can't get the two together to get it without introducing an entirely different description, which in the light of the discussion Alvin and I just had is a kind of existential teleological description.
+
+558
+00:51:08,201 --> 00:51:16,601
+It's going to be about how the organism is always set to move around in and deal with the world.
+
+559
+00:51:16,920 --> 00:51:18,920
+And that's because he hasn't got there yet.
+
+560
+00:51:19,081 --> 00:51:25,161
+So he says, what has to be understood is how the psychic determining factors and physiological conditions fear into each other.
+
+561
+00:51:25,161 --> 00:51:39,681
+It's not clear how the imaginary limb is dependent on physiological conditions as a result of third-party causality can be in another context dependent on the pre on the emotions and volitions and so forth of the individual.
+
+562
+00:51:40,001 --> 00:51:43,921
+And there's no place these two things can come together.
+
+563
+00:51:44,880 --> 00:51:57,681
+Then a little further down, you can't get together the in itself and the cogitationes, that's the mental stuff, the for itself.
+
+564
+00:51:57,681 --> 00:52:02,721
+A hybrid theory of the phantom limb which finds a place is obscure.
+
+565
+00:52:03,201 --> 00:52:05,280
+He doesn't think you can make up such a story.
+
+566
+00:52:05,681 --> 00:52:10,080
+So the phantom limb is not something you can get from objective causality.
+
+567
+00:52:10,081 --> 00:52:13,681
+That's this linear account.
+
+568
+00:52:13,681 --> 00:52:15,520
+No more is it a cogi pill.
+
+569
+00:52:15,521 --> 00:52:16,641
+It could be a mixture.
+
+570
+00:52:16,800 --> 00:52:19,441
+We could only find a way of putting the two together.
+
+571
+00:52:19,601 --> 00:52:21,440
+But they have no meaning.
+
+572
+00:52:21,521 --> 00:52:34,000
+If the third person process and the personal acts can be integrated into a kind can only be put together if the third person processes and the personal acts could be integrated into a common middle term.
+
+573
+00:52:34,641 --> 00:52:37,040
+There we are, looking for Meroffon.
+
+574
+00:52:37,041 --> 00:52:45,041
+He's got his opening now to put in the missing thing.
+
+575
+00:52:45,681 --> 00:52:53,361
+And now we get this neat move to the insect, which we go on a lot about in the structure of behavior.
+
+576
+00:52:53,360 --> 00:53:02,800
+But properly here, when he's talking about the structure of behavior, as he is the bottom of 89 and the top of 90, he tells you the story again that he told there, which is so neat.
+
+577
+00:53:02,800 --> 00:53:07,120
+I have no idea whether it's true, but it should be true, given his view.
+
+578
+00:53:07,121 --> 00:53:20,361
+And that is that there's got to be a level of engaged activity and readiness and seeking significance coming from the organism.
+
+579
+00:53:21,001 --> 00:53:31,481
+And that's more fundamental and sort of, well, it's the global thing that determines what happens in the specific part.
+
+580
+00:53:31,480 --> 00:53:40,680
+And his example of it is that if you suppose if you tie up the leg of an insect, it keeps struggling to get the leg untied.
+
+581
+00:53:41,001 --> 00:53:49,641
+But if you cut off the leg and it's no more in the body image of the insect, he thinks, then the insect will just use another leg.
+
+582
+00:53:50,280 --> 00:53:54,920
+And that's because what's really important is that the insect is trying to reach for something.
+
+583
+00:53:55,001 --> 00:53:56,520
+It's a little hard to see it with insects.
+
+584
+00:53:56,840 --> 00:54:00,040
+Pick a little higher up the scale, like lizards or something.
+
+585
+00:54:01,241 --> 00:54:08,360
+When it's trying to grab something, and if you stop it, it'll struggle to get its leg back.
+
+586
+00:54:08,360 --> 00:54:15,721
+But if you just get its leg, one leg out of the system, then the whole thing just readapts and it uses the other leg.
+
+587
+00:54:15,721 --> 00:54:22,601
+Because what it's really doing is it's doing whatever it can do to get what it wants.
+
+588
+00:54:22,601 --> 00:54:29,961
+It's trying to get the optimal grip, and it doesn't care whether it's getting the optimal grip with its left leg or its right leg or its mouth.
+
+589
+00:54:29,960 --> 00:54:32,921
+It will get the optimal grip however way it can.
+
+590
+00:54:32,920 --> 00:54:53,800
+Apparently, I just realized Charles Taylor talks about this in his own way in his book, The Explanation of Behavior, that what the behaviorists didn't take account of is that when an animal presses the lever to get the food, it's not really funny Taylor Taylor translates all this into analytic in that book.
+
+591
+00:54:53,800 --> 00:55:05,841
+But he says that the behaviorists have to say that the animal gets conditioned to reproduce the same behavior, where behavior has to be a certain motion of the organism.
+
+592
+00:55:02,920 --> 00:55:13,601
+But in fact, the animal doesn't get conditioned to produce a certain behavior because it can reach the knob that gets the food in various ways.
+
+593
+00:55:13,760 --> 00:55:18,081
+If you hamper it with one, it can reach the knob with another, with the other paw.
+
+594
+00:55:18,081 --> 00:55:19,920
+That's not behavior.
+
+595
+00:55:19,920 --> 00:55:22,081
+That's not movement.
+
+596
+00:55:22,081 --> 00:55:24,000
+That's comportment.
+
+597
+00:55:24,161 --> 00:55:25,760
+That's action.
+
+598
+00:55:25,760 --> 00:55:32,001
+The animal has a goal and it goes after it with whatever means it's got.
+
+599
+00:55:32,081 --> 00:55:39,681
+That's, I mean, Charles Taylor's book helped bring down behaviorists and it would have brought it down completely if Chomsky hadn't in the meantime shot it down.
+
+600
+00:55:39,681 --> 00:55:42,641
+And it was this kind of argument that did it.
+
+601
+00:55:42,641 --> 00:55:44,321
+Okay, let's go back to this.
+
+602
+00:55:44,480 --> 00:55:50,640
+We have always, we met elsewhere the case of substitution meant the insect, giving about five lines down.
+
+603
+00:55:50,641 --> 00:55:54,721
+The insect simply continues to belong to the same world and moving it with all its powers.
+
+604
+00:55:54,721 --> 00:55:56,081
+That's what I was just saying.
+
+605
+00:55:56,081 --> 00:56:01,441
+The tied limb isn't replaced by the free one because it continues to carry the insect scheme.
+
+606
+00:56:01,440 --> 00:56:06,241
+And because the current of activity which flows toward the world still passes through it.
+
+607
+00:56:06,241 --> 00:56:09,600
+Now, that's just one, I'll show you a lot of it.
+
+608
+00:56:09,601 --> 00:56:13,041
+There is this constant stuff with these metaphors.
+
+609
+00:56:13,041 --> 00:56:20,800
+It's not hot, it's hard to know what in the world to take this as, but current of activity.
+
+610
+00:56:20,800 --> 00:56:35,681
+What that means is that somehow the I don't know, the energy in the nerves is already physiologically met to get what the insect wants.
+
+611
+00:56:35,681 --> 00:56:43,041
+That's what it means to say that there's a current of activity that flows toward the world.
+
+612
+00:56:43,681 --> 00:56:48,601
+It's it's what is sort of setting up, what do you take?
+
+613
+00:56:48,840 --> 00:57:00,841
+The current of activity that flows toward the world is a metaphor for whatever it is in the nervous system, which is like that the door is already calling the hand to get the right shape for the doorknob.
+
+614
+00:57:00,840 --> 00:57:05,081
+It's the current of activity, oh no, sorry.
+
+615
+00:57:06,360 --> 00:57:08,041
+It's the response.
+
+616
+00:57:08,041 --> 00:57:18,921
+So whatever it is the insect's trying to do, or we're trying to do to open the door, calls forth this kind of activity.
+
+617
+00:57:18,920 --> 00:57:25,480
+And that's, and you have to understand this activity as called forth by the world.
+
+618
+00:57:25,480 --> 00:57:30,041
+And there's all this funny metaphor, the current of activity which flows toward the world.
+
+619
+00:57:30,041 --> 00:57:37,721
+So he says later somewhere, I think I'll find it when we get there, that there's this current of existence which flows down the nerve.
+
+620
+00:57:37,721 --> 00:57:39,080
+I mean, talk about weirdness.
+
+621
+00:57:39,480 --> 00:57:45,640
+I mean, it's almost, I mean, trying to get things together that you don't understand how they could be got together.
+
+622
+00:57:45,641 --> 00:57:48,681
+How can a current of existence flow down a nerve?
+
+623
+00:57:48,681 --> 00:58:05,001
+Well, what he's trying to say is that the impulses in the nerve are the way they are because it's a response to the solicitation of the object by an organism that's seeking an optimal grip.
+
+624
+00:58:05,001 --> 00:58:11,561
+And therefore, this nerve current already means this is where I can get a better grip.
+
+625
+00:58:12,201 --> 00:58:13,960
+We'll see them again and again.
+
+626
+00:58:13,960 --> 00:58:17,800
+It's the optimal grip, as I want to try to show you in the background.
+
+627
+00:58:17,800 --> 00:58:21,720
+There is this instant no more choice than in the case of a drop of oil.
+
+628
+00:58:21,721 --> 00:58:39,921
+Oh, yeah, now we're going to get this business of tendency toward some kind of optimal, which reduces it to some kind of disequilibrium and produces an equilibrium.
+
+629
+00:58:39,920 --> 00:58:47,760
+I'm saying it in this very abstract way in order to cover oil drops on the one hand and the impact on the other.
+
+630
+00:58:48,161 --> 00:59:02,721
+But the main sort of level of description he's getting from the Gestaltist is that there is this tendency to some kind of optimal.
+
+631
+00:59:03,121 --> 00:59:08,321
+For the Gestaltis, it's going to be some least energy organization of the field.
+
+632
+00:59:08,320 --> 00:59:13,681
+Or the animal is going to be getting a grip on what it's seeking.
+
+633
+00:59:13,681 --> 00:59:24,001
+And that tendency is pulling it to do this, is leading it, or causing, I guess, causing it in this kind of teleological way.
+
+634
+00:59:24,001 --> 00:59:43,041
+That tendency to get this optimal grip is causing it to do what it does, but away the tendency to lower its energy causes the soap bubble to take the shape of a sphere, even though it hasn't got any conscious goal of wanting to be a sphere.
+
+635
+00:59:43,041 --> 00:59:48,160
+That's not linear causality either, he thinks, the Gestaltist thing.
+
+636
+00:59:48,800 --> 00:59:53,521
+That tendency toward least energy is always teleological.
+
+637
+00:59:53,521 --> 01:00:12,321
+It's because there is bottom to an attractor, an attractor always is least at the least energy level, that the organism moves toward getting to the bottom of that attractor, which would mean getting rid of the tension, getting whatever it's trying to get.
+
+638
+01:00:12,320 --> 01:00:13,520
+That's what he's talking about here.
+
+639
+01:00:13,521 --> 01:00:15,440
+I mean, now he starts with the oil drop.
+
+640
+01:00:15,440 --> 01:00:21,321
+So the oil drop solves, in practical terms, the maximum and minimum problem which confronts it.
+
+641
+01:00:21,641 --> 01:00:25,241
+It wants to use the least energy, so it gets to be round.
+
+642
+01:00:25,241 --> 01:00:31,000
+The difference between the drop of oil adapts itself to given external forces.
+
+643
+01:00:31,001 --> 01:00:38,921
+Oh, yeah, and the oil drop does it in a gravitational field, and it does it because they're the electrical forces between the particles.
+
+644
+01:00:38,920 --> 01:00:50,040
+But the animal does it, which, because it projects the norms of its environment and it projects the norms on its environment.
+
+645
+01:00:50,360 --> 01:00:55,961
+It gives the norms to the environment and lays down the terms of its final problem.
+
+646
+01:00:56,280 --> 01:01:05,961
+So, whereas the problem for the oil drop is just get the least energy, the problem for the organism is, say, get something to eat.
+
+647
+01:01:05,960 --> 01:01:07,640
+But then the same thing occurs.
+
+648
+01:01:08,121 --> 01:01:13,320
+That it hasn't got something to eat, there's a tension that pulls it toward getting something to eat.
+
+649
+01:01:13,320 --> 01:01:21,480
+When a carrot shows up, the carrot says, eaten it, solicits it to go feed it to lower the tension.
+
+650
+01:01:21,480 --> 01:01:33,961
+It's behaving like an oil drop, but its current needs are determining what it will do to lower the tension.
+
+651
+01:01:33,960 --> 01:01:39,961
+Well, so he says, what is found behind the phenomenon of substitution is the impulse of being in the world.
+
+652
+01:01:39,960 --> 01:01:47,480
+Now, the impulse of being in the world is this name in him, is always the name of seeking the maximum grip.
+
+653
+01:01:47,800 --> 01:02:06,161
+It says that there is always some engaged activity which is involved in some dealing with something whose significance is that it's not as optimal as it could be and who is moving towards an optimal.
+
+654
+01:02:03,081 --> 01:02:08,161
+That's all built in there.
+
+655
+01:02:09,440 --> 01:02:16,560
+And so there's an open situation, if you drop it down to about 10 lines from the bottom, that requires the animal's movements.
+
+656
+01:02:16,560 --> 01:02:25,520
+So there's always talk about the attractiveness of the carrot causes the animal's movements.
+
+657
+01:02:25,520 --> 01:02:28,001
+That's the teleological way of talking about it.
+
+658
+01:02:28,001 --> 01:02:38,081
+It's not something in the organism alone that causes it, but it's always going to be understood as what it's needed and needed.
+
+659
+01:02:38,801 --> 01:02:45,201
+And that's the story of, and it's got to be like completing a gestalt.
+
+660
+01:02:45,201 --> 01:02:50,161
+So it's like the first notes of a melody require a certain kind of resolution.
+
+661
+01:02:50,161 --> 01:02:58,961
+That's the talk of requiring, of disequilibrium, of tension, of getting an equilibrium.
+
+662
+01:02:58,961 --> 01:03:01,121
+That's all both.
+
+663
+01:03:01,121 --> 01:03:20,161
+I mean, this is important to say, both phenomenological perceptual talk about what it feels like to be an organism, and you can check it in yourself, responding to the door needing to be opened if you're in a room and trying to get out and attract you to do it.
+
+664
+01:03:20,161 --> 01:03:30,161
+And it's a level in which the brain is supposed to be, if you have a Walter Freeman-like brain story, also described, tension, the basis of attraction, movement, or least energy.
+
+665
+01:03:30,161 --> 01:03:32,720
+And that's supposed to go over both.
+
+666
+01:03:33,041 --> 01:03:39,280
+And so it's the, so on 91, about five lines down, the reflexes are never blind processes.
+
+667
+01:03:39,280 --> 01:03:46,800
+They adjust themselves to a direction of the situations, express our orientation toward the behavioral aesthetics.
+
+668
+01:03:46,801 --> 01:03:53,161
+They trace out from a distance the structure of the object without waiting for its point-to-point stimulation.
+
+669
+01:03:53,480 --> 01:03:58,280
+They do that because it's gone into an attractor landscape, if you talk freeman.
+
+670
+01:03:58,360 --> 01:04:03,720
+It is this global presence of the situation which gives a meaning to the partial stimuli.
+
+671
+01:04:03,720 --> 01:04:06,921
+This is the top-down whole part story.
+
+672
+01:04:06,921 --> 01:04:11,880
+It causes them to inquire importance, value, and existence for the organism.
+
+673
+01:04:11,881 --> 01:04:13,720
+Now let me read my notes about this.
+
+674
+01:04:13,720 --> 01:04:16,680
+You complete the whole pattern, you lower the tension.
+
+675
+01:04:16,680 --> 01:04:20,680
+And oh yeah, I said, and remember Homer, the arms in Homer.
+
+676
+01:04:20,680 --> 01:04:26,760
+Did I ever say this about the way Homer describes the warriors at a dinner party?
+
+677
+01:04:27,161 --> 01:04:27,640
+I do.
+
+678
+01:04:27,640 --> 01:04:27,961
+No.
+
+679
+01:04:28,280 --> 01:04:30,840
+My favorite thing, Homer understood this.
+
+680
+01:04:31,320 --> 01:04:44,360
+And Greek gives him a way of saying it, apparently, in the middle voice, where he says, I did not say this, I said in office hours, that when the warrior, the hungry warriors sat down to dinner, their arms went out to the food in front of them.
+
+681
+01:04:44,360 --> 01:04:45,800
+That's great.
+
+682
+01:04:45,801 --> 01:04:47,800
+That's pure Marilla-Ponty.
+
+683
+01:04:47,801 --> 01:04:51,560
+Because he isn't saying as agents, they reached for the food.
+
+684
+01:04:51,560 --> 01:04:54,041
+And he isn't saying that they were just mechanisms.
+
+685
+01:04:54,041 --> 01:04:55,081
+Their arms went out the way.
+
+686
+01:04:55,081 --> 01:04:57,720
+If you hit your knee with the thing, your foot goes off.
+
+687
+01:04:57,720 --> 01:04:59,480
+It wasn't a reflex.
+
+688
+01:04:59,961 --> 01:05:08,600
+Their body felt the tension to complete the gestalt, which was in their case, being hungry with good food in front of them, grasped the food.
+
+689
+01:05:08,600 --> 01:05:11,720
+And so Homer's just doing phenomenology, doing it right.
+
+690
+01:05:12,201 --> 01:05:13,800
+But it sounds so weird.
+
+691
+01:05:13,801 --> 01:05:18,520
+We don't say that unless we're Marillau Ponty or Oil Gibson.
+
+692
+01:05:18,761 --> 01:05:20,201
+You want to say something, Alex?
+
+693
+01:05:20,201 --> 01:05:20,520
+Yes.
+
+694
+01:05:20,640 --> 01:05:21,640
+Um okay.
+
+695
+01:05:21,961 --> 01:05:24,760
+So that's where we are still.
+
+696
+01:05:25,081 --> 01:05:50,400
+Well, so the the the we're causing them at the top of ninety-two or the the the the he would give them a meaning, they exist as a situation, uh and he goes back to how this is a result of our whole being, an intention of our whole being, our modalities of pre ex pre-objective view, which we call being in the world.
+
+697
+01:05:50,400 --> 01:06:03,201
+Just being in the world is always this, again, tendency toward optimal grip, which makes it possible for things to solidify you to do things, and then you do them in response to it.
+
+698
+01:06:03,201 --> 01:06:05,440
+All that goes in in there.
+
+699
+01:06:05,440 --> 01:06:08,880
+But then he says it in these funny ways.
+
+700
+01:06:08,881 --> 01:06:10,161
+It's about here.
+
+701
+01:06:10,400 --> 01:06:21,920
+He's trying to make a vocabulary in which the in itself and the for itself are actually put together in a third way of being.
+
+702
+01:06:21,921 --> 01:06:34,961
+And that third way of being is always moving to remove attention and reach an equilibrium, which is an optimal grip for an engaged organism seeking something.
+
+703
+01:06:35,041 --> 01:06:36,720
+I mean that's all in there.
+
+704
+01:06:37,280 --> 01:06:42,960
+And that's but then he says these weird things about eight lines from the bottom of the paragraph of ninety two.
+
+705
+01:06:42,961 --> 01:06:47,201
+He says there's a certain energy in the pulsation of existence.
+
+706
+01:06:47,201 --> 01:06:49,121
+I mean, that's weird talk.
+
+707
+01:06:49,121 --> 01:06:52,480
+I mean, but it's not physical energy exactly.
+
+708
+01:06:52,480 --> 01:06:54,880
+I mean, or is it energy in the nerves?
+
+709
+01:06:54,881 --> 01:06:56,560
+Is it light energy?
+
+710
+01:06:56,560 --> 01:07:00,081
+I mean, I don't think I mean, he doesn't know himself how to describe it.
+
+711
+01:07:00,081 --> 01:07:03,360
+He wants to say it's not just third person energy.
+
+712
+01:07:03,360 --> 01:07:06,720
+It's not first person agency.
+
+713
+01:07:06,720 --> 01:07:15,520
+And and the pulsation of existence is all is this notion of, again, responding to this tension and lowering it.
+
+714
+01:07:15,520 --> 01:07:17,841
+And now we're going to go back to the Phantom Limbs there.
+
+715
+01:07:17,921 --> 01:07:18,440
+Good.
+
+716
+01:07:18,081 --> 01:07:23,961
+We got away from the, I mean, he's given you the story on the level of movement toward optimal grip.
+
+717
+01:07:24,041 --> 01:07:26,440
+Now he's going to give it to you later.
+
+718
+01:07:26,440 --> 01:07:27,640
+But let me see where I am again.
+
+719
+01:07:28,680 --> 01:07:29,241
+Okay, sure.
+
+720
+01:07:29,241 --> 01:07:30,440
+I have a mark to read.
+
+721
+01:07:30,440 --> 01:07:35,081
+It is because it is a pre-objective view that being in the world can be distinguished from every, yeah, good.
+
+722
+01:07:35,081 --> 01:07:46,760
+From every third-person process, from every modality of the race, etc., and from every covito, from every first-person form of knowledge, that it can affect the union of the psychic and the physiological.
+
+723
+01:07:46,761 --> 01:07:48,600
+Exactly what I tried to say.
+
+724
+01:07:48,600 --> 01:07:53,560
+And that's exactly what I should have read and even wrote down, I think, to read, that didn't.
+
+725
+01:07:53,961 --> 01:07:56,680
+So let me see where we are here.
+
+726
+01:07:56,680 --> 01:07:59,161
+So how does that help us understand the things I'm wondering about?
+
+727
+01:07:59,161 --> 01:08:01,001
+Well, yeah, but I'm going to catch up.
+
+728
+01:08:03,560 --> 01:08:06,440
+Okay, we give the new category as being in the world.
+
+729
+01:08:06,761 --> 01:08:09,961
+It solves the phantom limb problem on 94, I write.
+
+730
+01:08:09,961 --> 01:08:12,840
+So let's see how that is and why you think we've got it.
+
+731
+01:08:14,041 --> 01:08:15,480
+94.
+
+732
+01:08:15,801 --> 01:08:17,720
+Okay, I'm going to read that paragraph.
+
+733
+01:08:17,720 --> 01:08:25,800
+This phenomenon, distorted equally by physiological and psychological explanations, is, however, understood in the perspective of being in the world.
+
+734
+01:08:25,801 --> 01:08:26,440
+Okay, here we go.
+
+735
+01:08:26,440 --> 01:08:31,400
+We're going to solve the phantom limb problem once we've got this movement toward maximum grip.
+
+736
+01:08:31,400 --> 01:08:43,000
+What is it in us who refuses mutilation and disablement is an I am committed to a certain physical and infrared world, which continues to tend towards its world despite handicaps.
+
+737
+01:08:43,001 --> 01:08:44,121
+Who continues?
+
+738
+01:08:44,520 --> 01:08:45,480
+I am one.
+
+739
+01:08:45,480 --> 01:08:53,440
+Who continues to tend towards this world despite handicapped with amputations, and who to this extent does not recognize them, they should.
+
+740
+01:08:53,480 --> 01:09:07,360
+What that means is, just to get the simple phenomenon, that the world, because I am a kind of person who wants to get a maximum grip, say, on cups, cups continue to look reachable to me.
+
+741
+01:09:07,360 --> 01:09:09,041
+It's the intentional art.
+
+742
+01:09:03,081 --> 01:09:15,520
+I mean, it isn't as if there's a cup and I believe it's reachable, and then I would stop believing it if I didn't have any arm anymore.
+
+743
+01:09:15,520 --> 01:09:18,320
+But suppose neither no arm.
+
+744
+01:09:18,320 --> 01:09:21,520
+Then the cup isn't reachable anymore.
+
+745
+01:09:21,520 --> 01:09:22,800
+But I know that.
+
+746
+01:09:22,801 --> 01:09:25,201
+I can stop believing it's reachable.
+
+747
+01:09:25,201 --> 01:09:28,800
+The question is, why does it go on looking reachable?
+
+748
+01:09:28,801 --> 01:09:35,121
+Well, it's because it's I need to reach it.
+
+749
+01:09:35,121 --> 01:09:40,161
+And it's calling me to reach it because that's how it's done before when I had arms.
+
+750
+01:09:40,161 --> 01:09:46,081
+And I still have the experience that the cup looks reachable.
+
+751
+01:09:46,400 --> 01:09:51,041
+So if I had arms, I wouldn't reach it, but instead my phantom arm tries to reach it.
+
+752
+01:09:51,041 --> 01:09:53,920
+It's even clearer with your legs, apparently.
+
+753
+01:09:54,801 --> 01:10:12,400
+If somebody comes into the door that I like and want to give a hug to or shake hands, but I've lost a leg, then I will just get up and try to walk toward them because they solicit me to do that, because they say hug me, in effect, and I fall over.
+
+754
+01:10:12,400 --> 01:10:17,600
+But why do I try to do it when I know perfectly well I haven't got any legs?
+
+755
+01:10:17,600 --> 01:10:20,480
+Well, because my knowing it isn't what's important.
+
+756
+01:10:20,480 --> 01:10:22,081
+It's what the world looks like.
+
+757
+01:10:22,161 --> 01:10:29,760
+I afford walking over and hugging them, and my arm, my body just responds to that.
+
+758
+01:10:30,081 --> 01:10:33,280
+And then the next move is, I'll try to go faster.
+
+759
+01:10:33,360 --> 01:10:34,480
+Uh-oh, time is up.
+
+760
+01:10:34,480 --> 01:10:36,320
+Well, I'll just say one more thing, and then I'll stop.
+
+761
+01:10:36,320 --> 01:10:39,840
+And then he says, Well, it's a habit in your body.
+
+762
+01:10:39,841 --> 01:10:46,560
+It's like, and I'll give the example, when the electricity fails and you keep going and switching the light switches on while you're looking for your flashlight.
+
+763
+01:10:46,560 --> 01:10:51,480
+You know perfectly well that there's no electricity, but your body doesn't know it, it's before it's turning on.
+
+764
+01:10:51,801 --> 01:10:58,121
+So then he that's the and then he asks the psychological question, well, if it's like a habit, why don't I just find it outgrow it?
+
+765
+01:10:58,121 --> 01:10:59,320
+And some people do.
+
+766
+01:10:59,320 --> 01:11:07,880
+I mean, after enough light switches don't go on and enough cups can't be reached and you fall over enough when people come into the room, you could learn to stop doing that.
+
+767
+01:11:07,881 --> 01:11:09,400
+And what would happen if you did?
+
+768
+01:11:09,400 --> 01:11:11,480
+Cups wouldn't look reachable anymore.
+
+769
+01:11:11,480 --> 01:11:14,040
+People wouldn't look walkable to anymore.
+
+770
+01:11:14,041 --> 01:11:18,920
+Light switches wouldn't look like they would turn on the light anymore and your friend of wind would go away.
+
+771
+01:11:19,001 --> 01:11:21,800
+But he wants to know, in some people that doesn't happen.
+
+772
+01:11:21,801 --> 01:11:22,680
+Why not?
+
+773
+01:11:22,680 --> 01:11:27,081
+Then he has this whole incomprehensible psychoanalytical story about why not.
+
+774
+01:11:27,081 --> 01:11:28,520
+And I'm not going to go into it.
+
+775
+01:11:28,520 --> 01:11:32,041
+I think I could just say we can go on next time for the next reading.
+
+776
+01:11:32,041 --> 01:11:34,921
+I'll check and see if I've covered everything I have in cost.

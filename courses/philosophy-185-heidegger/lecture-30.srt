@@ -1,0 +1,2607 @@
+
+
+
+
+1
+00:00:00,000 --> 00:00:07,680
+So I want to start by taking back a serious mistake I made in my last lecture.
+
+2
+00:00:07,680 --> 00:00:16,880
+Somebody tried to rescue me, I think it may have been Tyler, when I said that Heidegger's view tells us that there is no Supreme Being.
+
+3
+00:00:17,280 --> 00:00:20,880
+Who was it who told me that's not the right way to think about it?
+
+4
+00:00:21,439 --> 00:00:22,719
+You, Ravi?
+
+5
+00:00:22,719 --> 00:00:23,360
+What?
+
+6
+00:00:23,680 --> 00:00:24,560
+Adam.
+
+7
+00:00:24,560 --> 00:00:25,120
+Okay.
+
+8
+00:00:25,680 --> 00:00:28,479
+So Adam is going to be here today.
+
+9
+00:00:28,479 --> 00:00:30,399
+But anyway, he's correct.
+
+10
+00:00:30,879 --> 00:00:32,560
+That's wrong, altogether wrong.
+
+11
+00:00:32,560 --> 00:00:39,599
+I hope the person who asked me the question, who was up in that corner, will come in or will listen to the podcast.
+
+12
+00:00:39,599 --> 00:00:45,839
+But the story is, being in time has no view about whether there's a supreme being.
+
+13
+00:00:47,280 --> 00:00:54,640
+The only thing that Heidegger has to say is that whatever a supreme being is, that isn't what he's interested in as being.
+
+14
+00:00:54,640 --> 00:01:11,120
+And it isn't what the tradition should have been interested in as being, because being is that on the basis of which beings are understood, and the supreme being has a lot of other jobs, presumably as creator and moral legislature, legislator.
+
+15
+00:01:11,120 --> 00:01:18,479
+And I don't even know, I suppose background of intelligibility might, and it couldn't be background of intelligibility.
+
+16
+00:01:18,480 --> 00:01:25,679
+It could be sort of producer of intelligible things, because beings produce things.
+
+17
+00:01:25,680 --> 00:01:28,879
+But Heidegger's not talking about beings.
+
+18
+00:01:28,880 --> 00:01:40,719
+He's very clear that even the Supreme Being is a being and can't isn't what he means by being and what he thinks the tradition was getting at.
+
+19
+00:01:40,719 --> 00:02:02,839
+And whether you call it being or not, Heidegger's interested in something that I'll come back to this at the end, the tradition never got straight, but which he thinks is crucially important, and you're used to this now, the background practices in terms of which, on the basis of which, we make everything intelligible to ourselves and everybody else.
+
+20
+00:02:02,840 --> 00:02:09,879
+So, what should you say if you're asked, as I was, well, is Heidegger saying there's no Supreme Being?
+
+21
+00:02:09,880 --> 00:02:15,799
+You can say that Heidegger explicitly thinks he has no view on the subject.
+
+22
+00:02:15,799 --> 00:02:28,439
+He says somewhere, I couldn't find it, I don't remember where, it's not his job to tell people whether there's a Supreme Being or not, and nothing that he's doing is going to count as an answer to that question.
+
+23
+00:02:28,439 --> 00:02:34,519
+Everybody got to find on the basis of their own revelation whether there's a Supreme Being.
+
+24
+00:02:34,519 --> 00:02:36,040
+And that's the first thing.
+
+25
+00:02:36,040 --> 00:02:40,920
+And then you might want to ask, yeah, but that's what Being in Time says, but what does Heidegger think?
+
+26
+00:02:41,079 --> 00:02:42,839
+Not that that's very important.
+
+27
+00:02:43,079 --> 00:02:47,559
+I mean, it's much more important to know what Being in Time says than what Heidegger thinks.
+
+28
+00:02:47,559 --> 00:02:53,559
+But just for the record, Heidegger's got a very interesting and complicated relation to the Supreme Being.
+
+29
+00:02:53,559 --> 00:03:06,360
+That is, Heidegger started out in Jesuit school and was studying to be a priest, and then they sort of politely eased him out of that on the basis of health.
+
+30
+00:03:06,360 --> 00:03:10,040
+And for some reason, it's never explained, or he eased himself out.
+
+31
+00:03:10,040 --> 00:03:10,440
+I don't know.
+
+32
+00:03:10,439 --> 00:03:23,239
+Anyway, he got out of it and became a Protestant and married a Protestant and gave lectures on Kierkegaard, particularly, which is the superist kind of Protestantism.
+
+33
+00:03:23,480 --> 00:03:25,400
+But that isn't even where he ended up.
+
+34
+00:03:25,399 --> 00:03:36,799
+He ended up a polytheist writing about the gods in Homer, as in some way on the right track of understanding what the divine is and what the sacred is.
+
+35
+00:03:36,799 --> 00:03:43,360
+So that's an amazingly interesting development.
+
+36
+00:03:43,360 --> 00:03:57,279
+So I think, I mean, so then, so there Heidegger says, but I take back as a big mistake my saying that on the basis of the distinctions in being and time, you can conclude there is no supreme being.
+
+37
+00:03:57,279 --> 00:03:58,480
+That's just wrong.
+
+38
+00:03:58,720 --> 00:04:05,679
+Heidegger does not think that being in time implies that at all.
+
+39
+00:04:05,920 --> 00:04:07,600
+Anything, any question about that?
+
+40
+00:04:07,600 --> 00:04:11,839
+I just feel bad of having mucked something so important.
+
+41
+00:04:12,799 --> 00:04:15,600
+Okay, well, then we can go on.
+
+42
+00:04:15,600 --> 00:04:19,280
+Today, we're in on Introduction II.
+
+43
+00:04:19,280 --> 00:04:31,679
+And Introduction II has got important stuff in it that you wouldn't have been able to understand until you had at least read Division I.
+
+44
+00:04:31,920 --> 00:04:38,879
+But it's all going to look sensible and straightforward to you all, having read Division I now.
+
+45
+00:04:39,200 --> 00:04:46,719
+He's going to tell you what phenomenology is mainly and why that's the right method for doing ontology.
+
+46
+00:04:46,720 --> 00:04:49,600
+But we have to sort of lead up to that.
+
+47
+00:04:49,920 --> 00:05:37,160
+So we start by where we were last time: that we can't just read off the meaning of being or what being is, from Dasein's everyday understanding, because our everyday understanding, which does certainly have in it a pre-ontological understanding of being, and whenever you hear an understanding of being, you have to think, at least I do, well, the being of hammers is to be ready to hand, and the being of trees is to be present at hand, and the meaning of being is whatever it is that would combine what the meaning, the meaning of the being of objects like trees, and the being of subjects like, well, subjects, Dasein's like us, and so forth.
+
+48
+00:05:37,160 --> 00:05:51,160
+And whatever, and that meaning of being is certainly too close to us and too pervasive that for us to have any explicit understanding of it, all we've got is a pre-ontological understanding of it.
+
+49
+00:05:51,160 --> 00:06:07,559
+I just read you the natural things to read at this point: 36 and 37 at the beginning of page 36 and 37, at the beginning of section 2 of introduction 2, which is the methodological introduction, and that's what he's going to do now.
+
+50
+00:06:07,559 --> 00:06:16,920
+He's going to say, the title is The Twofold Task of Working Out the Question of Being, Method and Design of the Investigation.
+
+51
+00:06:16,920 --> 00:06:25,799
+So he's starting to tell you on 37 this thing I keep citing, but I never actually cited the passage.
+
+52
+00:06:25,799 --> 00:06:28,360
+So you might want to look at it just because it's there.
+
+53
+00:06:28,360 --> 00:06:38,759
+Five lines down on 37, Dasein is ontically closest to itself and ontologically farthest, but pre-ontological, surely not a stranger.
+
+54
+00:06:38,759 --> 00:06:47,640
+Now that sentence would be absolutely obscure if you weren't used to it by now, that you've got this pre-ontological understanding.
+
+55
+00:06:47,639 --> 00:06:49,799
+You are an understanding of being.
+
+56
+00:06:49,799 --> 00:07:06,080
+And that's as close as it can get to you, but you're so pervasively an understanding of being that you can't, you don't normally have any distance from it to step back and notice it or you have an account of it.
+
+57
+00:07:06,720 --> 00:07:11,920
+So, on I just noticed something.
+
+58
+00:07:11,920 --> 00:07:12,640
+Let me look.
+
+59
+00:07:12,639 --> 00:07:16,720
+I was going, when I talked about the God thing, I had one quote I was going to quote.
+
+60
+00:07:16,720 --> 00:07:18,079
+Now, why was I going to quote it?
+
+61
+00:07:18,080 --> 00:07:20,639
+Let me look back and see if it's important.
+
+62
+00:07:27,040 --> 00:07:30,160
+Yeah, I go back, let me go back just to put this in.
+
+63
+00:07:30,160 --> 00:07:39,839
+I mean, when I said that whatever being in time is about, it isn't about any entity, any being, even the Supreme Being.
+
+64
+00:07:40,559 --> 00:07:45,999
+It's just, he doesn't say that, but he says the thing about something that implies that.
+
+65
+00:07:45,999 --> 00:08:03,119
+If you look at on 62 at the second, third sentence in the first full paragraph, being and the structure of being lie beyond every entity and every possible character which an entity may possess.
+
+66
+00:08:03,119 --> 00:08:05,920
+Being is the transcendence pure and simple.
+
+67
+00:08:05,920 --> 00:08:07,759
+That doesn't help us much.
+
+68
+00:08:07,759 --> 00:08:17,920
+But the first sentence says: even the Supreme Being, who has the property of being good and supreme and ultimately intelligent, is still an entity, being.
+
+69
+00:08:17,919 --> 00:08:24,080
+And therefore, Heidegger thinks that that's not what he's writing about.
+
+70
+00:08:24,080 --> 00:08:28,480
+And it's no answer to his question about what being is.
+
+71
+00:08:28,480 --> 00:08:29,600
+Now, back to where I was.
+
+72
+00:08:30,239 --> 00:08:35,840
+So, preontologically, on 36, we do have an understanding of being.
+
+73
+00:08:35,840 --> 00:08:55,400
+He says in the middle of that bottom paragraph: to be sure, its own being, this is Dasein, is such that it is an understanding of that being and already maintains itself in each case as if in its being it has been interpreted in some manner.
+
+74
+00:08:55,399 --> 00:08:56,840
+Is that what I want?
+
+75
+00:08:58,200 --> 00:09:13,720
+Yeah, that's the preontological understanding, that it already has a stand on its being as a Bert Dreyfus and as a teacher, but also as a human being and also as an entity, among others.
+
+76
+00:09:13,960 --> 00:09:18,600
+That is all of that in the preontological understanding.
+
+77
+00:09:18,600 --> 00:09:30,440
+And we, and ontically, it's well, here is another important sentence that just is still saying what I've been saying about six lines down in that paragraph.
+
+78
+00:09:30,440 --> 00:09:43,720
+Ontically, of course, Dasein is not only close to us, even that which is closest, we are it, each of us ourselves, in spite of this, or rather, for just this reason, is ontologically that which is farthest.
+
+79
+00:09:44,119 --> 00:09:45,239
+Same point again.
+
+80
+00:09:45,239 --> 00:09:54,680
+So, you're going to have to have some special method for noticing it and being, and the understanding of being and dealing with it.
+
+81
+00:09:54,680 --> 00:10:11,000
+And the interesting thing is that if Dasein does stop and reflect on its being, as it has in the history of philosophy from Plato and Aristotle on, it always gets the wrong answer.
+
+82
+00:10:10,999 --> 00:10:33,200
+It gets the wrong answer because the instead of the being of w of world, or the the phenomenon of world, or the being of the ready-to-hand, or the r button, which it could have thought, they could have thought about, the thing that ref you that comes into your mind when you s step back and reflect about it is something present at hand.
+
+83
+00:10:33,200 --> 00:10:46,239
+So Aristotle and Plato each have their own story, but it's always about something present and it's and present to hand that isn't in the German, still German is for Handen.
+
+84
+00:10:46,239 --> 00:10:55,520
+But it's helpful to have that wrongish translation because it's true that what they're thinking about is something present, all of them.
+
+85
+00:10:55,519 --> 00:10:56,880
+And that's interesting.
+
+86
+00:10:56,879 --> 00:10:59,999
+That is what Heidegger later calls the metaphysics of presence.
+
+87
+00:10:59,999 --> 00:12:03,440
+It's just been the case from Plato on that it's it's supposed that being is some kind of supreme being which is altogether present or some totality of beings some part of which is present and Heidegger thinks I think though I don't know any place where he says it in so many words I think it's really deep and important that he thinks that being is basically absence that is everything important in Heidegger's always withdraws the re readiness to hand the equipment withdraws the world because we're so close to it is we don't see it it it withdraws the background by very definition of being a background has to withdraw that's the job of the background so naturally they all get out of the way so to speak and then somebody reflecting has left presence and and in variations they all these people have got it wrong talking about presence.
+
+88
+00:12:03,440 --> 00:12:08,279
+I've got some place where I say that I'm going to read something to see.
+
+89
+00:12:08,239 --> 00:12:12,120
+I don't remember what it is, so let me just see why I want to read that.
+
+90
+00:12:11,200 --> 00:12:14,039
+Hmm.
+
+91
+00:12:15,320 --> 00:12:20,200
+Oh, I'm being dyslexic and looking up the wrong thing.
+
+92
+00:12:22,519 --> 00:12:24,439
+Okay, the bottom of 36.
+
+93
+00:12:24,440 --> 00:12:29,400
+I thought it was funny, but I was getting back into the introduction one.
+
+94
+00:12:29,560 --> 00:12:31,480
+We're going to stay in introduction two.
+
+95
+00:12:31,480 --> 00:12:35,559
+And here's the statement of what I've been saying, sort of, about six lines up.
+
+96
+00:12:35,560 --> 00:12:46,759
+The kind of being which belongs to Dasein is rather such that in its understanding, its own being has a tendency to do so in terms of the entity towards which it comports itself approximately.
+
+97
+00:12:46,759 --> 00:13:03,880
+That is, it's understanding in terms of what on reflection it sees, namely the present at hand, and in a way which is essentially constant in terms of the world, that notice, world in quotes, meaning the totality of entities.
+
+98
+00:13:03,879 --> 00:13:11,800
+So it's always thinking, I mean, there's something sort of funny going on here and fudged by Heidegger, and I don't think he ever faces it.
+
+99
+00:13:12,200 --> 00:13:34,280
+It isn't as if most of the time we have a tendency to describe ourselves and everything in terms of the being of what we are most constantly dealing with, because what we're most constantly dealing with is equipment and its mode of being and withdrawing and ready to hand.
+
+100
+00:13:34,279 --> 00:13:52,360
+What you have to say is, and I've been saying it to sort of help Heidegger out, when you stop to reflect and do philosophy and try to understand what kind of being a human being has, then you get the notion of substances, of present-of-hand entities with properties.
+
+101
+00:13:52,360 --> 00:13:54,040
+That's what he's got to mean.
+
+102
+00:13:54,040 --> 00:13:59,600
+When you stop to reflect on the ready-to-hand one, when you're really in the full ready-to-hand, you don't stop to reflect at all.
+
+103
+00:13:59,600 --> 00:14:00,720
+You're in the flow.
+
+104
+00:14:00,720 --> 00:14:03,440
+And when you do reflect, you get the unready-to-hand.
+
+105
+00:14:03,440 --> 00:14:27,280
+But if you do philosophy, then you can at least think that you've got the pure present at hand, that you have now detached yourself, taken an objective view, and paid attention to what being is, and you get some kind of answer from supreme beings to the totality of entities as what fills in the answer to that question.
+
+106
+00:14:27,279 --> 00:14:31,040
+And that's the wrong answer you get.
+
+107
+00:14:31,519 --> 00:14:36,640
+And this is where he says this on 37.
+
+108
+00:14:37,279 --> 00:14:56,480
+Right, if I go on from where I was at the bottom of 36, in Dasein itself, and therefore in its own understanding of being, the way the world is understood is, as we shall now, we shall show, reflected back ontologically upon the way in which Dasein itself gets interpreted.
+
+109
+00:14:56,480 --> 00:15:07,440
+That means that it's got this, remember, world is in quotes, that means that it thinks of itself and everything else in terms of things, of present-of-hand entities.
+
+110
+00:15:11,200 --> 00:15:25,280
+And that distorts, of course, and you are having read Division I can imagine, totally distorts everything important about being and understanding of being and the world and our way of being in the world.
+
+111
+00:15:25,279 --> 00:15:40,239
+That's all covered up by this way that the present at hand and the ontology or metaphysics of presence jumps in and seems to be the thing that we should be thinking about.
+
+112
+00:15:40,239 --> 00:15:42,119
+Anybody, if you want to interrupt me, go right ahead.
+
+113
+00:15:41,280 --> 00:15:46,279
+This is also, in a way, general.
+
+114
+00:15:46,919 --> 00:15:55,880
+And I wish I had, I mean, we aren't going to talk about it, we don't get to talk about any specific phenomenon in introduction one or two, because they're introductions.
+
+115
+00:15:55,879 --> 00:16:04,040
+And the only part that's fun is the phenomena, like the one or the referential totality or whatever.
+
+116
+00:16:04,279 --> 00:16:05,800
+But we have to do this.
+
+117
+00:16:05,800 --> 00:16:14,680
+And it does sort of hopefully sort of consolidate in our mind what we've been seeing in the concrete things.
+
+118
+00:16:14,680 --> 00:16:16,280
+So let's go on with this.
+
+119
+00:16:16,600 --> 00:16:22,999
+So, for example, haha, I was desperate for a phenomenon.
+
+120
+00:16:23,399 --> 00:16:24,519
+What gets distorted?
+
+121
+00:16:24,519 --> 00:16:25,960
+I've got to have an example.
+
+122
+00:16:25,960 --> 00:16:34,360
+What does it mean to say that in some domain, you can't help thinking in terms of the present at hand and that that distorts things?
+
+123
+00:16:34,360 --> 00:16:45,479
+Well, the one that I always talk about more usually because of Searle's beginning philosophy of mind right before this course in the old days and maybe in the future days.
+
+124
+00:16:45,479 --> 00:16:54,119
+Anyway, one of the things we do when we reflect is discover ourselves as subjects, which are kinds of substances.
+
+125
+00:16:54,119 --> 00:17:15,719
+As in Descartes, we discover ourselves as thinking things, as minds, to talk the more modern way, minds with properties, and which then have to have either a mind-to-world direction of fit or a world-to-mind direction of fit.
+
+126
+00:17:15,719 --> 00:17:33,039
+That is, we get a story about perception and action, which have to explain how the inner stuff inside this substance, the mind, gets related to the outer stuff, substances like this and chairs and so forth.
+
+127
+00:17:33,040 --> 00:17:34,160
+And we're off.
+
+128
+00:17:34,719 --> 00:17:40,879
+We have a wrong view of action because it looks like we're always pursuing some goal which we're representing to ourselves.
+
+129
+00:17:40,879 --> 00:17:42,959
+That's how it looks to Searle.
+
+130
+00:17:42,959 --> 00:17:52,159
+And we have the wrong view of perception, and it looks like that we have a visual experience which we're then relating inner visual experience, which is caused by some outer thing.
+
+131
+00:17:52,159 --> 00:18:00,080
+And everything is so distorted and covered up that you can't even see the original phenomena of flow and coping anymore.
+
+132
+00:18:00,080 --> 00:18:06,479
+And therefore, I think next point, our understanding, our pre-ontological understanding decays.
+
+133
+00:18:06,479 --> 00:18:12,719
+That is, since it's covered up, and it gets more and more covered up.
+
+134
+00:18:12,719 --> 00:18:18,159
+I mean, I was giving you the Cartesian cover-up, but it was covered up already by Plato and Aristotle.
+
+135
+00:18:18,159 --> 00:18:38,959
+It was covered up by everybody except the pre-Socratics who were on the right track because, according to the way Heidegger reads them, the pre-Socratics really hadn't got this idea yet that pure presence was the way things ultimately were, I don't know, at their best or something like that.
+
+136
+00:18:38,959 --> 00:18:47,600
+The pre-Socratics thought that presencing, which is I use this rotary term, whooshing up, was what being really was.
+
+137
+00:18:47,600 --> 00:18:49,919
+And so they were on the right track.
+
+138
+00:18:51,199 --> 00:18:53,680
+Presencing would be okay with Heidegger.
+
+139
+00:18:53,679 --> 00:19:02,080
+But the idea that you could just take and sort of freeze into pure presence, that's the way things started.
+
+140
+00:19:02,080 --> 00:19:05,199
+And once they started that way, they got worse and worse.
+
+141
+00:19:06,159 --> 00:19:15,400
+So, from the Homeric Greeks who barely had any understanding of the inner, we get the Christians who were all tied up with looking at the inner and people's desires and so forth.
+
+142
+00:19:15,399 --> 00:19:17,560
+Foucault is very good on that.
+
+143
+00:19:17,560 --> 00:19:29,879
+And we get further and further from the children of our culture, like the Homeric Greeks or the primitives, neither of whom are making this kind of mistake.
+
+144
+00:19:30,199 --> 00:19:37,159
+Now, we have to get that right, and that's what Division II is going to tell us.
+
+145
+00:19:37,399 --> 00:19:46,039
+So, I'm going to read you just because it's here, so to speak, this sort of condensed summary of Division II in two paragraphs on 38.
+
+146
+00:19:47,000 --> 00:19:49,400
+This is sort of an advertisement for next semester.
+
+147
+00:19:49,399 --> 00:19:52,439
+It's not supposed to be understandable at this point.
+
+148
+00:19:52,439 --> 00:20:16,199
+But it's going to, he's going to argue that the right way to understand being is to see it in the context of temporality, to see that temporality is the meaning of being, to see that you have to understand being in terms of temporality.
+
+149
+00:20:16,199 --> 00:20:21,480
+And temporality doesn't mean the present or our stream of moments of the present.
+
+150
+00:20:21,479 --> 00:20:25,879
+Temporality means the whole thing from past, present, and future.
+
+151
+00:20:26,439 --> 00:20:28,360
+That's what's happening in present thing.
+
+152
+00:20:28,600 --> 00:20:34,279
+Okay, so here we are in the middle of 38, the second sentence of the second paragraph.
+
+153
+00:20:34,280 --> 00:20:41,080
+Our analysis of Dasein, however, is not only incomplete, it's also, in the first instance, provisional.
+
+154
+00:20:41,080 --> 00:20:48,199
+That's got to do, I take it, with the fact that it's always doing formal indication.
+
+155
+00:20:48,199 --> 00:20:51,320
+And always, you can always work it out more.
+
+156
+00:20:51,320 --> 00:20:55,519
+It merely brings out the being of this entity without interpreting its meaning.
+
+157
+00:20:55,159 --> 00:20:58,320
+That's what he's doing that.
+
+158
+00:20:55,479 --> 00:21:01,600
+That's what you would do if you were doing anthropology.
+
+159
+00:21:01,919 --> 00:21:12,320
+It is rather, but for Heidegger, what he's doing is a preparatory procedure by which the horizon for the most primordial way of interpreting being may be laid bare.
+
+160
+00:21:12,320 --> 00:21:18,159
+The horizon is the context, or the upon which, or in terms of which.
+
+161
+00:21:18,159 --> 00:21:24,560
+And he wants to find out what the, and you could keep your eye open.
+
+162
+00:21:24,560 --> 00:21:36,479
+It's never clear whether he thinks that he's going to give us the primordial way of interpreting being or a more primordial way, because there's never, you never get to the answer.
+
+163
+00:21:36,479 --> 00:21:38,639
+I think that's what he ought to think.
+
+164
+00:21:38,639 --> 00:21:48,639
+And I think he does think it when he gets to the next, when he writes basic problems, which is this, if I keep saying, his lectures the year he published Being in Time.
+
+165
+00:21:48,639 --> 00:21:55,280
+And I'll read you a quote at the end where you can see that there's a, he learned something.
+
+166
+00:21:55,280 --> 00:22:02,879
+In Being in Time, he still keeps saying over and over, and I checked all of them, there is always the most primordial way.
+
+167
+00:22:02,879 --> 00:22:12,000
+Or on the next page, 39, about five lines down, time must be brought to light and genuinely conceived as the horizon for all understanding of being.
+
+168
+00:22:12,639 --> 00:22:21,040
+That goes with his claim somewhere in the book, which I haven't bothered to look for, that he is doing a science of being, a Wissenschaft consign.
+
+169
+00:22:22,159 --> 00:22:25,679
+I think he gives that, I don't think that's in basic problems either.
+
+170
+00:22:26,159 --> 00:22:27,760
+But here he does say that.
+
+171
+00:22:27,760 --> 00:22:32,479
+We're going to do the horizon for all understanding of being and for any way of interpreting it.
+
+172
+00:22:32,479 --> 00:22:45,399
+In order for us to discern this, time needs to be explicated primordially as the horizon for the understanding of being and in terms of temporality as the being of Dasein, which understands being.
+
+173
+00:22:45,719 --> 00:22:50,119
+Now, have I got everything I wanted to say about that?
+
+174
+00:22:55,560 --> 00:22:55,960
+Yeah.
+
+175
+00:22:56,280 --> 00:23:01,000
+But then I say in my notes, but see page 49, so we better see page 49.
+
+176
+00:23:01,000 --> 00:23:02,360
+Is he going to take that back?
+
+177
+00:23:02,360 --> 00:23:03,159
+I doubt it.
+
+178
+00:23:03,159 --> 00:23:04,759
+But what is he going to do?
+
+179
+00:23:05,399 --> 00:23:13,639
+Well, yes, I mean, that's when you see the other side of him, which is that he is not so sure that he's got the right answer.
+
+180
+00:23:13,639 --> 00:23:17,639
+At the end of that section, middle of page 49.
+
+181
+00:23:17,639 --> 00:23:27,639
+In any investigation in this field where the thing itself is deeply veiled, and of course it's been covered up for 2,000 years, one must take pains not to overestimate the results.
+
+182
+00:23:27,639 --> 00:23:35,320
+For in such an inquiry, one is constantly compelled to face the possibility of disclosing an even more primordial and more universal horizon.
+
+183
+00:23:35,320 --> 00:23:45,080
+Well, that seems to say that he doesn't really have the right to say, and he couldn't possibly know that he's got the primordial horizon.
+
+184
+00:23:45,080 --> 00:23:47,959
+There's always a possibility of more primordials.
+
+185
+00:23:48,040 --> 00:24:05,720
+To show you what that would mean is if you had a story that accounted for all the ways of being in being and time and their kind of temporality, suppose somebody then came in, somebody in this case being Heidegger in 1933, and said, But works of art, we haven't got works of art in here.
+
+186
+00:24:05,719 --> 00:24:16,199
+They're neither present at hand nor ready to hand, and yet really great works of art like the Greek Temple or the medieval cathedral, are very important.
+
+187
+00:24:16,520 --> 00:24:19,000
+They focus a whole world and so forth.
+
+188
+00:24:18,999 --> 00:24:25,320
+And you better have a notion of how they fit into your story because they've got their mode of being.
+
+189
+00:24:25,320 --> 00:24:28,080
+They're a special kind of way of being.
+
+190
+00:24:26,119 --> 00:24:29,919
+And that would be another horizon.
+
+191
+00:24:30,240 --> 00:24:35,040
+And then you could discover something else, which Heidegger did in roughly 33.
+
+192
+00:24:35,439 --> 00:24:46,239
+I'm talking about a book called The Origin of the Work of Art, which I hope next fall or maybe spring, I'm going to give a course on the origin of the work of art because all these great new things come in.
+
+193
+00:24:46,240 --> 00:24:51,360
+So Heidegger discovers that there's a history of the understanding of being.
+
+194
+00:24:51,360 --> 00:24:53,199
+That's the big discovery.
+
+195
+00:24:53,199 --> 00:25:10,959
+That there isn't just one right answer that the pre-Socratics had and that we lost bit by bit, where the job of being in time is to get us back in touch with these basic experiences and basic words that the pre-Socratics had, but that there was something like, first he thinks there are three.
+
+196
+00:25:10,959 --> 00:25:17,519
+There's Ephesus or the whooshing up view of the pre-Socratics.
+
+197
+00:25:17,520 --> 00:25:23,999
+There's production, which is putting form on matter of Aristotle.
+
+198
+00:25:24,560 --> 00:25:35,199
+And there's modernity, subjects knowing and using objects to satisfy their desires and so forth, our whole picture.
+
+199
+00:25:35,280 --> 00:25:38,320
+So the amazing thing is, Heidegger, look at that.
+
+200
+00:25:38,639 --> 00:25:41,119
+Instead of one understanding of being, there are those three.
+
+201
+00:25:41,119 --> 00:25:44,159
+And by a few years later, he has six.
+
+202
+00:25:44,159 --> 00:25:46,479
+I think maybe he stops with six.
+
+203
+00:25:47,280 --> 00:25:56,560
+Anyway, so these are all ways that he should see, given that it's possible that there's always a more universal horizon.
+
+204
+00:25:56,560 --> 00:25:57,840
+There sure is.
+
+205
+00:25:57,840 --> 00:26:05,280
+Now he needs a horizon, which he thinks he has, in terms of which the history of being becomes intelligible.
+
+206
+00:26:05,280 --> 00:26:11,360
+What is it that makes being have different forms, different styles?
+
+207
+00:26:12,040 --> 00:26:18,040
+So the medieval style of being is so different than the Homeric style of being and so different than the modern style of being.
+
+208
+00:26:18,040 --> 00:26:19,159
+But what's behind all of them?
+
+209
+00:26:19,159 --> 00:26:21,320
+Because they're still styles of being.
+
+210
+00:26:21,639 --> 00:26:24,999
+Well, then he's got a magic word in German.
+
+211
+00:26:25,000 --> 00:26:26,600
+I think I wrote it on the board once before.
+
+212
+00:26:26,600 --> 00:26:28,279
+I don't remember why.
+
+213
+00:26:28,919 --> 00:26:37,239
+Eragnus, which gets translated something like appropriation.
+
+214
+00:26:37,560 --> 00:26:42,199
+Nobody knows quite how to understand it, and I'm not going to talk about it now.
+
+215
+00:26:42,199 --> 00:26:51,800
+But he does think that he's got a story of something even more fundamental because he says Erignis gives being.
+
+216
+00:26:52,119 --> 00:26:59,080
+Now, and I'm not, as I say, I have an idea what that might mean, but I'm certainly not going to try to tell you now.
+
+217
+00:26:59,719 --> 00:27:01,239
+We've got enough on our hands.
+
+218
+00:27:01,800 --> 00:27:21,800
+So now, having done that, I was going to read something from Basic Problems where I said it's clear that Heidegger has gone over to, so to speak, the page 49 version of the story and not the page 40 version of the story.
+
+219
+00:27:21,800 --> 00:27:32,119
+By that I mean gone over to the fact that there could always be a broader horizon, and instead of saying, well, I'm going to tell you the horizon.
+
+220
+00:27:32,119 --> 00:27:46,360
+And so I want to read something which I've read several times in office hours, but I don't think I've ever read to the whole class, where Heidegger says that he understands that he's almost surely wrong to say that he's got the horizon.
+
+221
+00:27:46,360 --> 00:27:49,560
+Have I read you this passage where he says he's almost surely wrong?
+
+222
+00:27:49,560 --> 00:27:51,000
+Okay, I'm going to read it now.
+
+223
+00:27:51,280 --> 00:27:53,480
+It's I'm going to put it on the website, too.
+
+224
+00:27:54,119 --> 00:27:56,399
+I've got two favorite passages in Basic Problems.
+
+225
+00:27:56,399 --> 00:27:58,959
+I'm going to read them both to you, and I'm going to put them on the website.
+
+226
+00:27:56,199 --> 00:28:00,080
+Here's this one.
+
+227
+00:28:02,800 --> 00:28:13,119
+Faulty interpretations of transcendence, which is another version of being in the world, of the basic relation of Dasein to beings and to itself.
+
+228
+00:28:13,119 --> 00:28:15,040
+So, really, it's the understanding of being.
+
+229
+00:28:15,040 --> 00:28:20,080
+Faulty interpretations of the understanding of being are no mere defects of thought.
+
+230
+00:28:20,080 --> 00:28:28,879
+They have their reason and their necessity in Dasein's own historical existence, meaning that there's always a changing understanding of being.
+
+231
+00:28:28,879 --> 00:28:30,639
+No, no, he doesn't have that yet.
+
+232
+00:28:30,639 --> 00:28:52,479
+Just that in this book, the tradition, I mean, you have to say it in being in time terms, we're historical because we have a tradition which hardens and covers up more and more these original, sort of primitive and primordial insights of the pre-Socratics.
+
+233
+00:28:52,479 --> 00:28:58,639
+And I don't know why tradition gets worse and worse and covers up more and more.
+
+234
+00:28:58,639 --> 00:29:01,199
+If he has a story about that, I've missed it.
+
+235
+00:29:01,199 --> 00:29:04,560
+If you find out that he tells you why, let me know.
+
+236
+00:29:04,959 --> 00:29:14,639
+But he certainly does think that we more and more lose touch with the original experience as the West goes down straight downhill.
+
+237
+00:29:15,199 --> 00:29:16,320
+But let me go back.
+
+238
+00:29:16,320 --> 00:29:22,959
+So he says, false interpretations are caused by Dasein's historical existence.
+
+239
+00:29:22,959 --> 00:29:24,879
+Okay, I don't know what to say about that.
+
+240
+00:29:25,360 --> 00:29:28,080
+But here comes the part I want you to hear.
+
+241
+00:29:28,639 --> 00:29:40,600
+In the end, these faulty interpretations, of which his may be one, must underline, be made, so that Dasein may reach the path to true phenomena by correcting them.
+
+242
+00:29:40,320 --> 00:29:43,160
+And then his admission that he may be wrong.
+
+243
+00:29:43,479 --> 00:29:56,520
+Without our knowing where the faulty interpretation lies, we can be quietly persuaded that there is a faulty interpretation concealed within the temporal interpretation of being as such, and again, no arbitrary one.
+
+244
+00:29:56,520 --> 00:29:58,119
+That's pretty amazing.
+
+245
+00:29:58,119 --> 00:30:00,840
+I mean, he's saying it must be the case.
+
+246
+00:30:00,840 --> 00:30:06,600
+We can be sure that the whole project of being in time is itself mistaken.
+
+247
+00:30:07,479 --> 00:30:11,159
+And to show that he really believes what he's saying, he never finished it.
+
+248
+00:30:11,479 --> 00:30:21,560
+And it was when he never did produce the understanding of being in terms of temporality because he decided that he was on much too narrow a track.
+
+249
+00:30:22,360 --> 00:30:28,600
+Starting with Dasein, it was still too much into subjectivity and Kantian way of looking at things.
+
+250
+00:30:28,600 --> 00:30:35,239
+And he's going to try it another way with the origin of the work of art and beyond.
+
+251
+00:30:35,240 --> 00:30:41,159
+So, anyways, there he is saying that he knows that there's a faulty interpretation.
+
+252
+00:30:41,159 --> 00:30:44,280
+And I think, not that I want you to care whether it's faulty or not.
+
+253
+00:30:44,439 --> 00:30:49,080
+It's a pretty brilliant and interesting trial, as you'll see next semester.
+
+254
+00:30:49,080 --> 00:30:58,439
+It's just that he's consistent when he says that, with the idea that there are always going to be broader horizons, more phenomena to take account of.
+
+255
+00:30:59,399 --> 00:31:07,879
+There's no reason to think ever if you're going to do this kind of hermeneutic interpretation, you might want to bring these words in, although that's redundant.
+
+256
+00:31:07,879 --> 00:31:09,720
+Hermeneutic means interpretation.
+
+257
+00:31:09,719 --> 00:31:25,719
+If you're going to do this kind of interpretation, which is always from the inside, from your own experience, not from the outside, like Descartes in a warm room contemplating the universe from God's point of view, Heidegger's got his own story.
+
+258
+00:31:25,719 --> 00:31:46,480
+You're always already inside a tradition, inside an understanding of being, and you're trying to work your way to the best, and you'll have a pre-ontological understanding which is all covered up and distorted in a mess, and you're trying to work your way to articulate a coherent and deep understanding of being, but you never get out of it being.
+
+259
+00:31:46,479 --> 00:31:52,639
+You remember the understanding of being, you are it, and there's no place outside it from which to think.
+
+260
+00:31:52,639 --> 00:32:08,560
+Therefore, it's always possible that when you're thinking interpretively, that in your, throw in another word that you're used, you should be used to, your forehaving, which Western tradition has given you, is always going to get in the way.
+
+261
+00:32:08,560 --> 00:32:15,679
+I wasn't going to read this, but now I've put myself into the position of wanting to read something if I can find it.
+
+262
+00:32:17,600 --> 00:32:23,199
+Remember, right in our reading somewhere, how, what am I looking for?
+
+263
+00:32:23,199 --> 00:32:24,719
+How do I describe it?
+
+264
+00:32:25,040 --> 00:32:32,320
+The sense in which he says our tradition always goes ahead of us and determines what we will see.
+
+265
+00:32:32,639 --> 00:32:34,159
+Help me find it.
+
+266
+00:32:34,479 --> 00:32:35,600
+I swear it's in.
+
+267
+00:32:35,600 --> 00:32:36,559
+I think it's pretty.
+
+268
+00:32:36,639 --> 00:32:38,320
+I know it's in here.
+
+269
+00:32:41,840 --> 00:32:42,320
+No?
+
+270
+00:32:42,320 --> 00:32:42,959
+Maybe it's not.
+
+271
+00:32:43,199 --> 00:32:43,840
+Oh, sure.
+
+272
+00:32:43,840 --> 00:32:45,119
+I was only in Division I.
+
+273
+00:32:45,119 --> 00:32:47,760
+I mean, in Introduction I, I think it's in Introduction II.
+
+274
+00:32:48,080 --> 00:32:49,999
+Yeah, on page 41.
+
+275
+00:32:50,000 --> 00:32:57,039
+I wasn't going to read this, but it's just the story about how you're always already trapped inside a tradition.
+
+276
+00:32:57,040 --> 00:33:00,639
+So, the middle of the middle paragraph on 41.
+
+277
+00:33:00,639 --> 00:33:05,440
+Dasein has grown up both into and in a traditional way of interpreting itself.
+
+278
+00:33:05,439 --> 00:33:09,919
+In terms of this, it understands itself proximally and within a certain range constantly.
+
+279
+00:33:09,919 --> 00:33:14,360
+By this understanding, the possibilities of its being are disclosed and regulated.
+
+280
+00:33:14,679 --> 00:33:23,959
+Its own past, and this always means the past of its generation, is not something which follows along after Dasein, but something that already goes ahead of it.
+
+281
+00:33:23,959 --> 00:33:25,479
+You understand what that means?
+
+282
+00:33:25,479 --> 00:33:41,080
+That means that what you see when you look ahead, so to speak, and try to think further, has already been colored by the tradition, so that your past is determining what you can see, even when you try to look further ahead.
+
+283
+00:33:41,080 --> 00:33:45,479
+And that's just the structure of finitude.
+
+284
+00:33:45,479 --> 00:33:48,360
+That's the structure of Dasein, to be in it.
+
+285
+00:33:48,360 --> 00:33:51,719
+And just notice, because you might get confused about this.
+
+286
+00:33:51,720 --> 00:33:57,240
+I was unclear about it for years, because he never sort of focuses and defines it.
+
+287
+00:33:57,240 --> 00:33:59,560
+The tradition is a bad thing.
+
+288
+00:33:59,559 --> 00:34:11,320
+The tradition is part of this process of leveling and covering up, which starts right after the pre-Socratics and has to do with, I don't know what.
+
+289
+00:34:11,320 --> 00:34:14,519
+I mean, again, I don't know what it is, but I know the tradition is a bad thing.
+
+290
+00:34:14,519 --> 00:34:17,240
+Why it has to go downhill, I don't know.
+
+291
+00:34:17,240 --> 00:34:19,320
+There is something good, however.
+
+292
+00:34:20,280 --> 00:34:23,720
+This is jumping ahead to something important in Division II.
+
+293
+00:34:24,599 --> 00:34:36,200
+Not only does this misunderstanding come down to us, and we're shaped by it, and we are it, and because we are it, we see it everywhere, and it runs ahead of us, that's bad news.
+
+294
+00:34:36,200 --> 00:34:39,720
+But there is also something called the heritage, thank goodness.
+
+295
+00:34:39,720 --> 00:34:41,720
+And the heritage is the good thing.
+
+296
+00:34:42,039 --> 00:34:46,679
+In our practices, there are still remnants of the pre-Socratic understanding.
+
+297
+00:34:46,680 --> 00:35:04,160
+If it weren't possible to work your way back to this primordial experience and understand the primordial language of the pre-Socratic Greeks, you wouldn't have any alternative position from which to get out of the narrowness and distortedness of the tradition.
+
+298
+00:35:04,160 --> 00:35:12,240
+So the heritage is, and people ask me and anybody, and most people don't, I think, really realize what the answer is.
+
+299
+00:35:12,240 --> 00:35:15,280
+Well, how can Heidegger understand those pre-Socratic Greeks?
+
+300
+00:35:15,280 --> 00:35:27,919
+They were lived a long, long time ago, and they admits that we've lost touch with what they really understood, or we don't have any conscious, any more explicit understanding of what they understood.
+
+301
+00:35:28,479 --> 00:35:32,239
+Aristotle already didn't understand the pre-Socratics, as some of you may know.
+
+302
+00:35:32,240 --> 00:35:34,879
+He thought they were doing kind of primitive science.
+
+303
+00:35:34,879 --> 00:35:37,039
+Heidegger thinks that is totally wrong.
+
+304
+00:35:37,039 --> 00:35:38,960
+He thinks they're doing ontology.
+
+305
+00:35:38,959 --> 00:35:44,879
+But whatever it is, something from them is still in our practices.
+
+306
+00:35:44,879 --> 00:35:45,999
+That's the heritage.
+
+307
+00:35:45,999 --> 00:35:48,159
+That's what Heidegger has to recover.
+
+308
+00:35:48,160 --> 00:35:57,280
+And he recovers it by finding things in our own practices that are not understandable in terms of the present at hand.
+
+309
+00:35:57,280 --> 00:36:05,280
+I mean, he's doing it in being in time to get us back to the two go-in and out, which is something that the pre-Socratics had too.
+
+310
+00:36:05,280 --> 00:36:19,840
+And he's going to later talk about the way, even for us, he mentions it already in basic, in being in time, but later in the foundation, the metaphysical...
+
+311
+00:36:19,840 --> 00:36:23,919
+No, what is the one about the animals and boredom?
+
+312
+00:36:27,039 --> 00:36:40,399
+Anyway, in 1930, he talks about how moods whoosh up, only he doesn't say that, but they well up and they dominate us and they are contagious and they drag us in.
+
+313
+00:36:40,399 --> 00:36:43,240
+Well, see, moods have the fuchsis way of being.
+
+314
+00:36:43,240 --> 00:36:54,919
+It's very important to him to think and describe moods because there are ways in which, I mean, I don't think he doesn't have to claim that this comes down from the pre-Socratics.
+
+315
+00:36:54,919 --> 00:37:09,080
+What he has to do is find things in our experience which gives him access to the same sort of thing, which was central to the pre-Socratics and organized their world.
+
+316
+00:37:09,079 --> 00:37:10,839
+It's marginal in our world.
+
+317
+00:37:10,840 --> 00:37:15,159
+Moods, something we barely understand, as in the way Heidegger understands them.
+
+318
+00:37:15,160 --> 00:37:20,919
+We think of moods as inner, because that's how Augustine and Descartes got us to understand them.
+
+319
+00:37:20,919 --> 00:37:37,560
+But if you get the right description of moods and then look back at the pre-Socratics, then you can understand what presencing and whooshing up and dominating us and drawing us in and the kind of understanding of being.
+
+320
+00:37:37,879 --> 00:37:42,360
+Okay, and that's where I am.
+
+321
+00:37:42,760 --> 00:37:46,360
+I got to that by reading this piece of basic problems.
+
+322
+00:37:46,360 --> 00:37:48,520
+Now, we've got to get back to this.
+
+323
+00:37:48,519 --> 00:37:51,479
+Okay, you can't get outside the tradition.
+
+324
+00:37:51,479 --> 00:37:52,520
+I just read that.
+
+325
+00:37:52,519 --> 00:37:56,119
+It covers up the phenomenon on page 43.1.
+
+326
+00:37:56,120 --> 00:37:57,159
+We're ready for that.
+
+327
+00:37:57,720 --> 00:37:59,320
+Tradition is the bad guy.
+
+328
+00:38:00,120 --> 00:38:01,239
+First full paragraph.
+
+329
+00:38:01,240 --> 00:38:07,079
+When tradition becomes master, it does so in such a way that what it transmits is made so inaccessible proximally.
+
+330
+00:38:07,079 --> 00:38:13,560
+See, it's still transmitting bits of stuff from the pre-Socratics, but it's getting more and more inaccessible.
+
+331
+00:38:13,559 --> 00:38:18,199
+Made so inaccessible proximately and for the most part that it rather becomes concealed.
+
+332
+00:38:18,200 --> 00:38:22,279
+Tradition takes what has come down to us and delivers it over to self-evidence.
+
+333
+00:38:22,280 --> 00:38:34,480
+It blocks our access to those primordial sources, and that's the pre-Socratics, from which the categories and concepts handed down to us have been in part quite genuinely drawn.
+
+334
+00:38:34,479 --> 00:38:46,080
+Indeed, it makes us forget that they have had their origin and makes us suppose that going back to the sources, going back to the, something which we need not even understand.
+
+335
+00:38:46,399 --> 00:38:53,679
+Okay, so the idea that the current understanding of being is so self-evident that you don't have to think about these marginal things.
+
+336
+00:38:53,680 --> 00:38:55,599
+Again, John Searle is a great example.
+
+337
+00:38:55,599 --> 00:39:07,360
+I mean, he thinks that the subject-object understanding in ontology and science as explaining everything is something that any sensible person in our day and age just had better believe.
+
+338
+00:39:07,360 --> 00:39:31,919
+And Heidegger's saying, well, that's what happens if you let the tradition run ahead of you and give you the ontology that Descartes worked out, and it's a good, it's a powerful ontology, and it does certainly create modernity, but then you miss this heritage that's there unnoticed in the background.
+
+339
+00:39:32,320 --> 00:39:38,639
+Now, let's see, so we want to get back to where the tradition hadn't covered up the primordial phenomena.
+
+340
+00:39:38,640 --> 00:39:40,560
+This is Hong 44.
+
+341
+00:39:42,479 --> 00:39:50,080
+This is what he's going to do by destroying the tradition, the middle, the first full paragraph, the second or third, second sentence.
+
+342
+00:39:50,079 --> 00:39:51,760
+We understand the task.
+
+343
+00:39:52,399 --> 00:39:54,479
+We're going to break up this hardened tradition.
+
+344
+00:39:54,479 --> 00:39:55,280
+That's the task.
+
+345
+00:39:55,280 --> 00:40:09,999
+We understand this task as one in which, by taking the question of being as our clue, we are to destroy the traditional content of ancient ontology until we arrive at those ancient ontology, not meaning pre-Socratics, but Plato on.
+
+346
+00:40:10,320 --> 00:40:20,760
+Ancient ontology, until we arrive at those primordial experiences in which we achieved our first way of determining the nature of being, the way which has guided us ever since.
+
+347
+00:40:20,760 --> 00:40:30,519
+So he wants to get back to this experience of presencing that once upon a time was the central thing and is now way marginal.
+
+348
+00:40:30,519 --> 00:40:33,000
+But he can get it, he hopes to get it back.
+
+349
+00:40:34,840 --> 00:40:36,519
+So now what else?
+
+350
+00:40:40,680 --> 00:40:47,879
+And another thing, I guess, is that the pre-Socratics understood the background, but they couldn't articulate it.
+
+351
+00:40:48,200 --> 00:40:51,399
+They couldn't even say that it was the background.
+
+352
+00:40:51,399 --> 00:41:07,160
+But they said things like: Heidegger wrote a whole, I don't know, about 40 pages on the one sentence of Anaximander that is around from 700 BC, roughly, about things coming into being as is their custom.
+
+353
+00:41:07,160 --> 00:41:11,960
+And then he has lots to say about custom and habit as very, very basic.
+
+354
+00:41:11,959 --> 00:41:25,560
+I take it what Heidegger's trying to do is say that Anaximander understood that the background practices, though he didn't have much, he didn't know in one sentence, he couldn't say much about them and probably couldn't do even if he had more sentences.
+
+355
+00:41:26,120 --> 00:41:36,919
+But why say that custom is sort of the way that being is, unless you've got something like Pascal says, custom is our nature.
+
+356
+00:41:36,919 --> 00:41:41,159
+And maybe that's, I think maybe Heidegger thinks that's what Anaximander thought.
+
+357
+00:41:41,160 --> 00:41:47,720
+I wish Adam were here because I'm sure Adam had a much more sophisticated view of the Anaximander fragment than I do.
+
+358
+00:41:47,720 --> 00:41:49,399
+Okay, so let's go on here.
+
+359
+00:41:55,079 --> 00:41:58,879
+So the how are we going to recover this original understanding of being?
+
+360
+00:41:58,879 --> 00:42:00,399
+How are we going to get it back?
+
+361
+00:42:00,399 --> 00:42:02,080
+That's the question.
+
+362
+00:42:02,720 --> 00:42:24,719
+We have to use the phenomena we've got and the words that they had together to sort of triangulate what we want, namely the most primordial and basic understanding of being in our tradition, anyway.
+
+363
+00:42:24,720 --> 00:42:27,039
+That's all he wants at this being in time.
+
+364
+00:42:27,039 --> 00:42:33,919
+He just wants the basic insight that our tradition has been running on ever since the pre-Socratics have been losing track of it.
+
+365
+00:42:33,919 --> 00:42:35,200
+So, what are you going to do?
+
+366
+00:42:35,200 --> 00:42:44,480
+Well, one of the things you have to do is get back to the phenomena that they had, and that the primitives presumably have and so forth.
+
+367
+00:42:44,479 --> 00:42:45,680
+And how do you do that?
+
+368
+00:42:45,680 --> 00:42:47,280
+Well, that's where we are now.
+
+369
+00:42:47,280 --> 00:42:48,079
+There we are.
+
+370
+00:42:48,079 --> 00:42:50,239
+It's phenomenology, is how you do that.
+
+371
+00:42:50,240 --> 00:43:07,759
+So, from now on, we're going to talk about the phenomenological method, because that's Heidegger's way of recovering this primordial understanding of being, which has temporality, not as presence, and so forth.
+
+372
+00:43:09,439 --> 00:43:27,839
+And Heidegger's way of doing it is a sort of funny, I mean, fun, nasty, convincing attack on Husserl, which he can make because he's now safely got his chair, got Husserl's chair in Freiburg.
+
+373
+00:43:27,840 --> 00:43:40,919
+And so, in the background, he's really taking over Husserl's definition of phenomenology and turning it around 180 degrees so it says exactly the opposite of what Husserl was trying to say.
+
+374
+00:43:40,559 --> 00:43:43,719
+Husserl is the ultimate metaphysics of presence.
+
+375
+00:43:43,879 --> 00:43:54,999
+He finally gets himself into the position of thinking that there is only the living, streaming present, the now, in our, it's the here-now predicament, and I think I talked about way back with C.I.
+
+376
+00:43:54,999 --> 00:43:55,399
+Lewis.
+
+377
+00:43:55,399 --> 00:43:56,919
+So, you know, Husserl.
+
+378
+00:43:56,919 --> 00:44:04,839
+And now Heidegger's going to turn that around to say, no, no, the now is not even the most important dimension of temporality.
+
+379
+00:44:04,840 --> 00:44:06,760
+But he hasn't done that yet.
+
+380
+00:44:06,760 --> 00:44:08,199
+That's for next semester.
+
+381
+00:44:08,200 --> 00:44:19,640
+But what he's going to do now is just sort of sneak up on and flip around what phenomenology means so that phenomenology becomes his method against Husserl.
+
+382
+00:44:19,640 --> 00:44:22,599
+And so first you start with the formal conception, he said.
+
+383
+00:44:22,919 --> 00:44:25,079
+And there he and Husserl are all in agreement.
+
+384
+00:44:25,079 --> 00:44:28,840
+Phenomena is what shows itself, what appears.
+
+385
+00:44:28,840 --> 00:44:34,680
+And even semblance is phenomena, when something appears as it isn't.
+
+386
+00:44:34,680 --> 00:44:44,120
+So to understand the phenomena, we have to understand appearance, and we have to understand how things can appear and how they can also be hidden.
+
+387
+00:44:44,360 --> 00:44:53,240
+And we have to understand when things are covered up, we have to see that they're covered up and understand how to uncover them.
+
+388
+00:44:53,240 --> 00:45:02,199
+All this is on page starting on 51, when he's giving you, well, starting on 49, when he's giving you the phenomenological method of investigation.
+
+389
+00:45:02,200 --> 00:45:03,719
+That's where I am now.
+
+390
+00:45:14,360 --> 00:45:18,600
+I just got hooked by an interesting passage over here I'm not talking about.
+
+391
+00:45:20,840 --> 00:45:25,240
+Because I have to look at it, the top of 48, because I may have said something wrong.
+
+392
+00:45:25,240 --> 00:45:27,600
+I don't understand why he's saying this.
+
+393
+00:45:28,160 --> 00:45:30,000
+Top of 48.
+
+394
+00:45:30,320 --> 00:45:42,639
+Awareness of something present at hand in its sheer present at hand, which Parmenides had already taken to guide him in his own interpretation of being as the temporal structure of pure making present.
+
+395
+00:45:42,640 --> 00:45:44,799
+Whoa, I've got to think about that.
+
+396
+00:45:44,800 --> 00:45:47,280
+Maybe only Heraclitus has got it right.
+
+397
+00:45:47,280 --> 00:45:50,560
+I think Parmenides just got dumped from the list.
+
+398
+00:45:50,559 --> 00:45:52,720
+I always thought it was both of them.
+
+399
+00:45:52,720 --> 00:45:53,519
+Well, I don't know.
+
+400
+00:45:53,519 --> 00:45:54,480
+I have to.
+
+401
+00:45:55,439 --> 00:45:57,119
+He makes a comeback in Heidegger.
+
+402
+00:45:57,120 --> 00:46:07,120
+Yes, but in being in time when he's going back to the primordial phenomenon and primordial words, I guess he's only got Heraclitus and Anaximander to go back to.
+
+403
+00:46:07,760 --> 00:46:12,720
+Okay, but then I'm sure he's going to discover Parmenides has got the right view.
+
+404
+00:46:12,720 --> 00:46:13,280
+He better.
+
+405
+00:46:13,280 --> 00:46:16,080
+I mean, he's got, he hasn't got much to go on.
+
+406
+00:46:16,320 --> 00:46:21,679
+Anyway, but in this book, I realize Parmenides is not one of the superheroes.
+
+407
+00:46:21,919 --> 00:46:25,759
+He's the first of the guys who's got it totally wrong.
+
+408
+00:46:25,760 --> 00:46:27,680
+I never noticed that.
+
+409
+00:46:28,240 --> 00:46:36,000
+Just in case, you know, don't go around saying at cocktail parties that Parmenides got it right, because you'll be making a fool of yourself.
+
+410
+00:46:36,640 --> 00:46:38,879
+Okay, now, where were we?
+
+411
+00:46:40,160 --> 00:46:48,000
+I'd say the formal conception is simply what he's talking about in 51 and 52.
+
+412
+00:46:47,999 --> 00:46:55,680
+And it's the old story which you've heard again and again of apophansis, or in italics, down about 15 lines.
+
+413
+00:46:56,879 --> 00:47:01,200
+The phenomenon signifies that which shows itself in itself.
+
+414
+00:47:01,200 --> 00:47:04,800
+Sometimes he says shows itself as it is in itself, thing thing.
+
+415
+00:47:05,120 --> 00:47:11,559
+According to the Apophan, the is that Apophansis, or is that, oh, where's Adam or Needham?
+
+416
+00:47:11,720 --> 00:47:12,919
+Or is that phenomenon?
+
+417
+00:47:11,280 --> 00:47:14,440
+That's phenomena, isn't it?
+
+418
+00:47:16,120 --> 00:47:26,760
+Yeah, okay, accordingly, the phenomena or phenomena or phenomena are the totality of what lies in the light of day or can be brought to light.
+
+419
+00:47:26,760 --> 00:47:32,039
+What the Greeks sometimes identified with the that's ta'anta, isn't it?
+
+420
+00:47:32,039 --> 00:47:32,759
+Entities.
+
+421
+00:47:32,760 --> 00:47:33,399
+Yeah.
+
+422
+00:47:33,399 --> 00:47:33,800
+Okay.
+
+423
+00:47:34,360 --> 00:47:36,599
+Never mind the details.
+
+424
+00:47:36,599 --> 00:47:38,440
+You don't have to know Greek.
+
+425
+00:47:38,439 --> 00:47:46,840
+Just know that the phenomenon is what shows itself as it is in itself.
+
+426
+00:47:46,840 --> 00:47:48,599
+He says it again on 54.
+
+427
+00:47:48,599 --> 00:47:50,120
+He says it all over.
+
+428
+00:47:52,360 --> 00:47:59,079
+At the middle, second paragraph, the phenomenon is understood from the beginning as that which shows itself in itself.
+
+429
+00:47:59,079 --> 00:48:01,399
+We just, that's, that's basic.
+
+430
+00:48:01,879 --> 00:48:03,320
+But that's just formal.
+
+431
+00:48:03,320 --> 00:48:06,040
+We don't know what shows itself as in itself.
+
+432
+00:48:06,039 --> 00:48:19,800
+Now that's just the, so the formal conception of phenomenology says that, you know, he calls it the formal conception right after the line I read in the middle of 54, the last of the bottom paragraph, at the beginning.
+
+433
+00:48:19,800 --> 00:48:23,720
+We've only arrived, he says, at the formal conception of phenomenology.
+
+434
+00:48:25,240 --> 00:48:29,080
+And it's going to get a lot more interesting when it gets more concrete.
+
+435
+00:48:29,079 --> 00:48:33,720
+But then there's something called the preliminary conception of phenomenology.
+
+436
+00:48:33,720 --> 00:48:36,999
+And what is the phenomenon in the distinctive sense?
+
+437
+00:48:36,999 --> 00:48:40,440
+And that's he's going to introduce to you on 59.
+
+438
+00:48:40,439 --> 00:48:42,839
+That's where he's going to flip whisceral around.
+
+439
+00:48:43,320 --> 00:48:56,239
+So on 59, the first full paragraph, he asks in the second sentence, what is it that phenomenology is to let us see?
+
+440
+00:48:55,959 --> 00:48:59,840
+What is it that must be called a phenomenon in a distinctive sense?
+
+441
+00:49:00,160 --> 00:49:01,680
+And so forth.
+
+442
+00:49:01,680 --> 00:49:06,559
+And then he goes, he makes this amazing move.
+
+443
+00:49:06,559 --> 00:49:10,560
+Remember, I said that really he's interested more in the hiddenness than in the presence.
+
+444
+00:49:10,559 --> 00:49:13,600
+Manifest, oh wait, what is it now?
+
+445
+00:49:14,320 --> 00:49:21,360
+Manifestly, it, namely the phenomena, is something that proximally and for the most part does not show itself at all.
+
+446
+00:49:21,360 --> 00:49:26,720
+It is something that lies hidden, in contrast to that which proximally for the most part does show itself.
+
+447
+00:49:26,720 --> 00:49:30,800
+But at the same time, it is something that belongs to what thus shows itself.
+
+448
+00:49:31,360 --> 00:49:54,399
+If you hear in the background, that's because, keep in mind always in my reading anyway, that we're talking about the background, the basis of which, on the basis of which is hidden, because like the light in the room, that on the basis of which the background practices withdraw, have to disappear for you to pay attention to the entities and see them and use them.
+
+449
+00:49:54,399 --> 00:49:56,320
+And that's what he's talking about here.
+
+450
+00:49:56,640 --> 00:50:01,520
+So it lies hidden, but at the same time, it belongs to what shows itself.
+
+451
+00:50:01,519 --> 00:50:04,000
+Namely, it's the background of the foreground.
+
+452
+00:50:03,999 --> 00:50:08,399
+And it belongs to it so essentially as to constitute its meaning and its ground.
+
+453
+00:50:08,399 --> 00:50:12,080
+That's what the on the basis of which does.
+
+454
+00:50:13,999 --> 00:50:30,320
+Yet what remains hidden in an egregious sense or relapses and gets covered up and so forth gets disguised is not just this entity or that entity, but the being of entities are our previous observations have shown.
+
+455
+00:50:30,320 --> 00:50:34,240
+Being can be covered up so extensively that it's forgotten, and so forth.
+
+456
+00:50:34,240 --> 00:50:42,120
+Okay, so it turns out now that the phenomena in the distinctive sense is something essentially hidden.
+
+457
+00:50:39,840 --> 00:50:45,239
+But it's not something essentially hidden like in Kant.
+
+458
+00:50:41,200 --> 00:50:47,079
+He's got that in the back of his mind.
+
+459
+00:50:47,240 --> 00:50:51,480
+I forget where he actually puts it in the foreground, but I'm going to tell you right now.
+
+460
+00:50:51,479 --> 00:51:01,720
+In Kant, what is essentially hidden is the thing in itself, and it's so essentially hidden that it's utterly unintelligible and we can never know it.
+
+461
+00:51:02,280 --> 00:51:15,079
+The phenomenon, unlike the thing in itself, is something that is essentially hidden and withdrawn, but is something you can, and when it's functioning, it's got to be hidden and withdrawn and all that.
+
+462
+00:51:15,079 --> 00:51:19,639
+But you can reflect on it and make it explicit.
+
+463
+00:51:19,640 --> 00:51:29,000
+And that's what you've been doing for the last whole semester when you talk about worldhood, the referential totality, moods, coping, and all that.
+
+464
+00:51:28,999 --> 00:51:44,840
+You are making that what is normally not noticed but is there in your preontological understanding, namely, really, namely, I'm going to come back to this, something like world and the structure of worldhood.
+
+465
+00:51:45,160 --> 00:51:47,879
+You're going to make all that explicit.
+
+466
+00:51:47,879 --> 00:51:48,919
+And you can do that.
+
+467
+00:51:48,919 --> 00:51:50,680
+Phenomenology does it.
+
+468
+00:51:51,079 --> 00:51:52,919
+That's where I want to read now.
+
+469
+00:51:52,919 --> 00:51:53,799
+Where am I?
+
+470
+00:51:53,800 --> 00:51:55,080
+58.
+
+471
+00:52:00,200 --> 00:52:03,320
+So we've done the formal meaning on 58.
+
+472
+00:52:03,320 --> 00:52:07,399
+And the phenomena in its distinctive sense on 59.
+
+473
+00:52:08,120 --> 00:52:11,319
+And yep, okay.
+
+474
+00:52:11,640 --> 00:52:13,159
+And it's not Kant.
+
+475
+00:52:13,160 --> 00:52:14,760
+It can be hidden, but it must be.
+
+476
+00:52:14,919 --> 00:52:23,799
+But if it's a phenomenon, it's one, I'm sort of stressing this essentially hidden more than he does, because I think it's more interesting and important than he realizes.
+
+477
+00:52:23,800 --> 00:52:25,879
+But anyway, but he does see that.
+
+478
+00:52:25,919 --> 00:52:30,719
+So it's essentially hidden, but on the other, it can be made to show itself.
+
+479
+00:52:30,720 --> 00:52:32,879
+That's the crucial gizma.
+
+480
+00:52:32,879 --> 00:52:35,119
+I mean, that's not Husserl.
+
+481
+00:52:35,120 --> 00:52:40,640
+Husserl doesn't think that the phenomena is essentially hidden.
+
+482
+00:52:40,640 --> 00:52:41,840
+And he does.
+
+483
+00:52:41,840 --> 00:52:48,640
+And this whole structure that Heidegger's got is his own idea.
+
+484
+00:52:48,640 --> 00:52:51,280
+And now we're back at the bottom of 54.
+
+485
+00:52:51,280 --> 00:52:53,200
+I'm doing it in a different order.
+
+486
+00:52:53,200 --> 00:52:55,840
+But now comes the crucial move.
+
+487
+00:52:55,840 --> 00:53:06,720
+That which already shows itself in the appearance as prior to the phenomenon as ordinarily understood, and that is more primordial than the ordinary phenomenon.
+
+488
+00:53:06,720 --> 00:53:27,680
+And accompanying it in every case, even though it thus shows itself unthematically, that is, the background is always there, but pre-ontological, can be brought thematically to show itself, and what thus shows itself will be, I'm skipping for something, will be the phenomena of phenomenology.
+
+489
+00:53:27,680 --> 00:53:35,040
+So phenomenology has got to deal with something that is hidden but can be made to show itself.
+
+490
+00:53:35,039 --> 00:53:39,360
+I remember that so few have had the concourse that it's not worth repeating very much.
+
+491
+00:53:39,360 --> 00:53:48,560
+But in Kant, Heidegger says right there at the top of 55, it's like the forms of intuition in Kant, and the forms of intuition in Kant are space and time.
+
+492
+00:53:48,559 --> 00:53:52,720
+And space and time are normally hidden, that is withdrawn.
+
+493
+00:53:52,720 --> 00:53:56,080
+You don't notice and think about space.
+
+494
+00:53:56,079 --> 00:54:04,959
+And time, you know what time it is, that sort of optic, but time is as a big deal sort of container or whatever it is, you don't think about it at all.
+
+495
+00:54:04,959 --> 00:54:08,800
+And that's a good idea because it makes you dizzy to try to think about time.
+
+496
+00:54:08,800 --> 00:54:17,239
+But in any case, so, but you, but though they are hidden and necessarily hidden, remember, keep thinking of like the lighting in the room.
+
+497
+00:54:17,479 --> 00:54:21,720
+They have to withdraw so that you can deal with the particular entities.
+
+498
+00:54:21,720 --> 00:54:25,879
+You can make them explicit and thematize them.
+
+499
+00:54:25,879 --> 00:54:27,239
+That's what Heidegger does.
+
+500
+00:54:27,879 --> 00:54:29,000
+And he does it.
+
+501
+00:54:29,160 --> 00:54:33,240
+And phenomenology is the name for the activity in which you do it.
+
+502
+00:54:33,240 --> 00:54:36,280
+And that just takes it away from Husserl.
+
+503
+00:54:36,280 --> 00:54:42,999
+That makes Husserl just the formal conception, whereas he's got the distinctive concept.
+
+504
+00:54:43,240 --> 00:54:46,999
+Heidegger's got his own distinctive version of what phenomenology is.
+
+505
+00:54:46,999 --> 00:54:53,480
+Another way to put it is, and I think I said this, but I never can remember what I say in office hours and what I say here.
+
+506
+00:54:53,640 --> 00:55:00,840
+Did I talk about this sort of almost joke where there was this phenomenological summer school when I was a graduate student?
+
+507
+00:55:00,840 --> 00:55:07,079
+There was Spiegelberg, who was one of the early phenomenology sort of groupies around Husserl.
+
+508
+00:55:07,079 --> 00:55:14,039
+And he, like all of them, most of them Jewish, were refugees in the United States by that point.
+
+509
+00:55:14,039 --> 00:55:15,399
+Spiegelberg was at St.
+
+510
+00:55:15,399 --> 00:55:18,919
+Louis, and he had a summer school in phenomenology.
+
+511
+00:55:18,919 --> 00:55:25,959
+And as far as I can gather from the few people I ever talked to who were there, it amounted to just describing things.
+
+512
+00:55:25,959 --> 00:55:34,360
+You can describe the way this bridge near his house looked on a rainy day, or how it feels to be dumped by somebody you love, or whatever.
+
+513
+00:55:34,360 --> 00:55:36,200
+That's phenomenology.
+
+514
+00:55:36,519 --> 00:55:59,999
+And that's and you could get that if you were a Husserl person, because Husserl, who wrote 30,000 pages in his lifetime, just describing, in shorthand, 30,000 pages, just describing everything, seeing objects, seeing people, having the social institutions, temporality, spatiality, Husserl would describe it.
+
+515
+00:56:00,320 --> 00:56:05,360
+But the Heidegger point is, you aren't just supposed to describe any old thing.
+
+516
+00:56:05,999 --> 00:56:12,800
+If you're doing phenomenology, you're supposed to describe something that has two important characteristics, or maybe three.
+
+517
+00:56:12,800 --> 00:56:16,000
+One, it's invisible, it withdraws.
+
+518
+00:56:15,999 --> 00:56:20,399
+Two, it's the condition for seeing whatever you do see.
+
+519
+00:56:20,399 --> 00:56:23,360
+And three, it can be made visible.
+
+520
+00:56:23,360 --> 00:56:29,759
+But it's mainly the background condition story that Spiegelberg didn't get, and that Husserl hasn't got either.
+
+521
+00:56:29,760 --> 00:56:34,800
+Spiegelberg just was sort of reducing Husserl to absurdity.
+
+522
+00:56:34,800 --> 00:56:53,919
+But with the idea of the background practices again, that's what you, when Heidegger's done defining phenomenology, there's only one thing phenomenology can study, the background practices, because it's got to study something that's hidden, that is somehow dimly visible all the time, if you just don't see it.
+
+523
+00:56:53,919 --> 00:57:02,480
+And it's got to be hidden, but on the basis of it, it makes possible what you do pay attention to, and you can pay attention to it.
+
+524
+00:57:02,479 --> 00:57:04,320
+I mean, that's what he differs from Wittgenstein.
+
+525
+00:57:04,399 --> 00:57:05,280
+Remember my first lecture?
+
+526
+00:57:05,280 --> 00:57:10,480
+Wittgenstein says it's such a mess that you can't, with the background practices, there's nothing you can say about them.
+
+527
+00:57:10,479 --> 00:57:12,159
+And Heidegger says, watch me.
+
+528
+00:57:12,800 --> 00:57:16,879
+And we've been saying things about them for the whole semester.
+
+529
+00:57:16,879 --> 00:57:18,399
+Okay, where are we now?
+
+530
+00:57:19,280 --> 00:57:23,120
+So it's got to be hidden, and it's got to be able to be made to show itself.
+
+531
+00:57:23,120 --> 00:57:24,239
+What could that be?
+
+532
+00:57:24,240 --> 00:57:28,720
+Oh, yeah, I was going to do this in a much more pedagogically fun way, but I blew it.
+
+533
+00:57:28,720 --> 00:57:30,079
+But let's do it anyway.
+
+534
+00:57:30,320 --> 00:57:31,599
+Suppose you have to lay that out.
+
+535
+00:57:31,599 --> 00:57:32,399
+It's hidden.
+
+536
+00:57:32,399 --> 00:57:34,879
+It makes us able to see what we do see.
+
+537
+00:57:34,879 --> 00:57:40,480
+It's always sort of marginally known by us, and it can be made explicit by us.
+
+538
+00:57:40,479 --> 00:57:41,360
+What could that be?
+
+539
+00:57:41,879 --> 00:57:44,040
+What fills that role?
+
+540
+00:57:44,039 --> 00:57:45,480
+What candidate?
+
+541
+00:57:45,479 --> 00:57:47,879
+Well, the answer is supposed to be being.
+
+542
+00:57:47,879 --> 00:57:55,159
+Being is what is the always there, but hidden, but can be spelled out and thematized.
+
+543
+00:57:55,160 --> 00:58:00,600
+That's the difference from go from pre-ontological to ontological.
+
+544
+00:58:00,599 --> 00:58:05,080
+That's exactly what you do when you do phenomenology.
+
+545
+00:58:05,079 --> 00:58:07,479
+You only need one more piece in the puzzle.
+
+546
+00:58:07,479 --> 00:58:09,560
+I mean, and what's the name for that?
+
+547
+00:58:09,559 --> 00:58:12,599
+That thematizing when you do phenomenology?
+
+548
+00:58:12,599 --> 00:58:13,879
+Well, how do you do it?
+
+549
+00:58:13,879 --> 00:58:15,879
+Well, that's where the oligon.
+
+550
+00:58:16,200 --> 00:58:26,360
+So he's got, having done the phenomena, which is what we've been doing up to now, the phenomena, namely, which is both, which is hidden but can be brought out and so forth.
+
+551
+00:58:26,360 --> 00:58:28,919
+Now we've got to do the ology of phenomenology.
+
+552
+00:58:28,919 --> 00:58:31,800
+That's logos on 55.
+
+553
+00:58:32,120 --> 00:58:34,759
+So, and what does logos do?
+
+554
+00:58:35,079 --> 00:58:42,200
+Well, logos, or discourse, as he says, of 55, is guess what?
+
+555
+00:58:42,840 --> 00:58:46,360
+It's talking about the phenomena.
+
+556
+00:58:46,360 --> 00:58:49,639
+It makes manifest whatever it is it's talking about.
+
+557
+00:58:49,640 --> 00:58:56,199
+I mean, ology, you know, isn't just talking about phenomena because there's geology and what else.
+
+558
+00:58:56,519 --> 00:58:58,600
+There must be a lot of ologies around.
+
+559
+00:58:58,919 --> 00:59:09,239
+But phenomenon, phenomenon, phenomena is the way you talk about the phenomena.
+
+560
+00:59:09,320 --> 00:59:13,080
+This is the move he's making on 56.
+
+561
+00:59:14,840 --> 00:59:18,919
+Skipping the first full paragraph, four lines down.
+
+562
+00:59:18,919 --> 00:59:42,959
+The logos lets something be seen, namely, that what the discourse is about, and so forth and so forth, and skipping down now, some, in on the far right side of that first paragraph, halfway down, in discourse, so far as it is genuine, what is said is drawn from what is talked about, so that discursive communication is.
+
+563
+00:59:43,120 --> 00:59:46,399
+Oh, I just remembered that I'm supposed to be stopping 15 minutes early.
+
+564
+00:59:46,399 --> 00:59:47,039
+Oh, dear.
+
+565
+00:59:47,519 --> 00:59:50,399
+So, anyway, let's finish reading that, and then I'll worry about that.
+
+566
+00:59:53,999 --> 01:00:07,200
+So, in discursive communication is drawn from what is talked about, so that the discursive communication in what it says makes manifest what it is talking about and thus makes this accessible to the other party.
+
+567
+01:00:07,200 --> 01:00:10,239
+This is the structure of logos as apophansis.
+
+568
+01:00:10,240 --> 01:00:11,759
+And it's guess what?
+
+569
+01:00:11,760 --> 01:00:16,160
+Logos is letting something be seen by pointing it out.
+
+570
+01:00:16,160 --> 01:00:20,960
+So, remember, the phenomena is just what is seen.
+
+571
+01:00:20,959 --> 01:00:29,600
+But now, if you're busy pointing out what is seen, making assertions about it that calls people's attention to it, that's logos.
+
+572
+01:00:29,599 --> 01:00:37,040
+And so, phenomenology points out the phenomena, which is normally hidden.
+
+573
+01:00:37,039 --> 01:00:41,440
+And now I'm going to skip stuff because I realize time is running out.
+
+574
+01:00:41,680 --> 01:00:44,079
+He does, I'll try to sort of condense it.
+
+575
+01:00:44,079 --> 01:00:51,120
+Heidegger talks about the modes of covered-upness next, and he goes over them very fast.
+
+576
+01:00:51,120 --> 01:00:56,160
+But there seem to be three modes of covered-upness on 60, and I'm just going to mention them.
+
+577
+01:00:56,160 --> 01:01:02,320
+There is the way the background is structurally hidden, which is the one that interests me, at the bottom of 60.
+
+578
+01:01:02,320 --> 01:01:05,360
+There are coverings up which are accidental.
+
+579
+01:01:05,360 --> 01:01:10,080
+There are also some which are necessary, grounded in what the thing discovered consists in.
+
+580
+01:01:10,079 --> 01:01:12,679
+And we've been talking about necessary covering up.
+
+581
+01:01:12,680 --> 01:01:15,160
+I keep repeating, that's what the light in the room is about.
+
+582
+01:01:15,160 --> 01:01:22,520
+Necessary covering up is how the background practices have to stay in the background so you can see the things in the foreground.
+
+583
+01:01:22,519 --> 01:01:28,200
+And then it also can be buried over, he talks about on 60.
+
+584
+01:01:28,200 --> 01:01:38,760
+That is that's what happens historically, I take it, as the tradition gets more and more hardened and the original insights get covered up.
+
+585
+01:01:38,760 --> 01:01:42,040
+And it can be disguised, he also says on 60.
+
+586
+01:01:42,039 --> 01:01:44,600
+Disguising is the one I really don't like.
+
+587
+01:01:44,599 --> 01:01:47,640
+Disguising, you'll hear lots about in Division II.
+
+588
+01:01:47,640 --> 01:01:55,480
+That's the fleeing story that you want to, because there's something unsettling about the background, you try to cover up the background.
+
+589
+01:01:55,479 --> 01:01:58,520
+And that's called disguise.
+
+590
+01:01:58,919 --> 01:02:00,919
+But I haven't time to say more about it anyway.
+
+591
+01:02:01,959 --> 01:02:04,840
+There's more than I want to say about it in Division II.
+
+592
+01:02:04,840 --> 01:02:18,599
+So, well, you do phenomenology by doing, to do phenomenology is, obviously, I've been saying this again and again, but I'm going to read one place, is to do ontology.
+
+593
+01:02:18,599 --> 01:02:20,040
+They're meant for each other.
+
+594
+01:02:20,039 --> 01:02:21,720
+I mean, that's what I just said when I said it.
+
+595
+01:02:21,800 --> 01:02:23,399
+I could have done it more rhetorically.
+
+596
+01:02:23,399 --> 01:02:28,280
+When you define finally what phenomenology is about, turns out it's about the background.
+
+597
+01:02:28,280 --> 01:02:32,360
+When you describe what ontology is about, it turns out it's about the background.
+
+598
+01:02:32,439 --> 01:02:34,600
+Turns out they were meant for each other.
+
+599
+01:02:34,599 --> 01:02:41,160
+And on so at the top of 60, only as phenomenology is ontology possible.
+
+600
+01:02:42,280 --> 01:02:45,320
+And in the phenomenological, I'm still reading a little more.
+
+601
+01:02:45,320 --> 01:02:53,640
+In the phenomenological conception of phenomenon, what one has in mind is that which shows itself is the being of entities, their meaning, and modifications.
+
+602
+01:02:53,640 --> 01:02:56,800
+So now I have to go very fast, but I can do it.
+
+603
+01:02:57,999 --> 01:03:10,160
+So, and what and how and the main thing that we see this in is the phenomenon is the background, and the background is the phenomenon of world.
+
+604
+01:03:10,479 --> 01:03:16,320
+So, you so the phenomenon par excellence, I think, is finally the phenomenon of world.
+
+605
+01:03:16,320 --> 01:03:23,760
+Because world is there, it's in the background, it's holistic, it's background practices, and it lets everything show up.
+
+606
+01:03:23,760 --> 01:03:36,399
+So, you do the phenomenology of the phenomenon of world, and you do the existential analysis of the structure of the phenomenon of world, and that's called worldhood.
+
+607
+01:03:36,399 --> 01:03:43,039
+And what you find out is what we read long ago, but I'm going to read it again quickly.
+
+608
+01:03:43,039 --> 01:03:56,480
+What you find out is that the understanding of being or the phenomenon of world, book on 119, in italics in the middle of the page, the phenomenon of world is what we're going to talk about.
+
+609
+01:03:56,479 --> 01:03:58,559
+And then comes, guess what?
+
+610
+01:03:58,559 --> 01:04:02,719
+The phenomenon of world gets us to the understanding of being.
+
+611
+01:04:03,039 --> 01:04:05,919
+And that's what he says in the next paragraph.
+
+612
+01:04:05,919 --> 01:04:11,440
+That wherein Dasein understands itself is something which is primordially familiar.
+
+613
+01:04:11,439 --> 01:04:20,560
+This familiarity with the world, with the world, does not necessarily require that the relations are theoretically transparent.
+
+614
+01:04:20,559 --> 01:04:28,560
+However, the possibility of giving these relations an explicit ontological interpretation is grounded in this familiarity with the world.
+
+615
+01:04:28,559 --> 01:04:30,079
+And now comes the crucial line.
+
+616
+01:04:30,079 --> 01:04:35,839
+And this familiarity in turn is constituted for Dasein and goes to make up Dasein's understanding of being.
+
+617
+01:04:36,160 --> 01:04:47,240
+So finally, the background practices turn out to be familiarity, and familiarity goes to make up Dasein's understanding of being.
+
+618
+01:04:41,280 --> 01:04:48,600
+That's terrific.
+
+619
+01:04:48,919 --> 01:04:53,720
+And now, in basic problems, that's my last quote.
+
+620
+01:04:53,720 --> 01:05:02,840
+Heidegger says this on page 162, and I'm going to read this long quote, and then I'm going to run.
+
+621
+01:05:02,840 --> 01:05:05,000
+The middle of the top paragraph.
+
+622
+01:05:04,999 --> 01:05:16,600
+Transcendence, which is a name for the way the world is beyond all the entities in it, transcendence is a fundamental determination of the ontological structure of Dasein.
+
+623
+01:05:16,599 --> 01:05:19,320
+It belongs to the existentiality of existence.
+
+624
+01:05:19,320 --> 01:05:21,720
+Transcendence is an existential concept.
+
+625
+01:05:21,720 --> 01:05:29,159
+It turns out, I say this because it's so important, and another way to deal with Husserl and John Searle.
+
+626
+01:05:29,160 --> 01:05:31,319
+Transcendence is an existential concept.
+
+627
+01:05:31,320 --> 01:05:37,879
+It turns out that intentionality is founded in Dasein's transcendence and is possible solely for this reason.
+
+628
+01:05:37,879 --> 01:05:47,960
+So that's to say, Husserl, who spent all his time thinking about intentionality, and Searle too, except that he has got a view of the background, which Husserl didn't really have.
+
+629
+01:05:48,599 --> 01:05:57,800
+So, but anyway, transcendence cannot, so transcendence is possible solely on the basis of what am I?
+
+630
+01:06:00,360 --> 01:06:03,320
+Transcendence cannot be explained in terms of intentionality.
+
+631
+01:06:03,320 --> 01:06:16,440
+Okay, the task of bringing to light the Dasein's existential constitution leads one, first of all, to the twofold task of interpreting more radically the phenomena of intentionality and transcendence.
+
+632
+01:06:17,079 --> 01:06:19,239
+Why it's twofold is so interesting.
+
+633
+01:06:19,240 --> 01:06:20,839
+I can't resist telling you.
+
+634
+01:06:20,840 --> 01:06:28,560
+I think it's because the background practices, one, you have to make the move to see that they're primordial intentionality.
+
+635
+01:06:28,559 --> 01:06:30,079
+They're not goal-directed.
+
+636
+01:06:30,079 --> 01:06:34,640
+They're not representational, but they still are a kind of coping intentionality.
+
+637
+01:06:34,640 --> 01:06:35,759
+That's one of the moves.
+
+638
+01:06:35,760 --> 01:06:40,720
+And the second move you have to see is that the background practices aren't even goal-directed.
+
+639
+01:06:41,360 --> 01:06:45,680
+And the background is not a kind of intentionality, but it's a kind of activity.
+
+640
+01:06:45,680 --> 01:06:57,360
+Nonetheless, it's a holistic way the practices function together to reveal things, even when it's not something specific that you're doing or seeing.
+
+641
+01:06:58,079 --> 01:07:05,600
+I think that's the twofold task, intrinsically one, of interpreting more radically the phenomena of intentionality and transcendence.
+
+642
+01:07:05,599 --> 01:07:08,320
+Now comes the punchline, which I can read and then run.
+
+643
+01:07:08,320 --> 01:07:22,320
+With this task of bringing to view, along with the more original conception of intentionality and transcendence, a basic determination of Dasein's whole existence, we run up against a central problem that has remained unknown to all previous philosophy.
+
+644
+01:07:22,320 --> 01:07:23,839
+I think I did read that once before.
+
+645
+01:07:23,919 --> 01:07:25,199
+Makes your hair stand on end.
+
+646
+01:07:25,200 --> 01:07:45,840
+Heidegger's saying the most important thing that anybody should have ever thought about, namely worldhood and transcendence and the meaning of being as background, has never been thought before in previous philosophy and has involved philosophy in remarkable, insoluble aporia, that is, hopeless messes.
+
+647
+01:07:46,559 --> 01:07:47,839
+And now that's it.
+
+648
+01:07:48,240 --> 01:07:51,439
+You've just finished Division I.
+
+649
+01:07:51,439 --> 01:07:53,520
+You're ready for Division II.
+
+650
+01:07:53,840 --> 01:07:57,439
+We're going to give out time to give out the evaluations.
+
+651
+01:07:57,439 --> 01:08:00,559
+Tyler, I have to come talk to me a second.

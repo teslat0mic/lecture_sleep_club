@@ -1,0 +1,3573 @@
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:02,479
+So let's start on 292.
+
+2
+00:00:04,159 --> 00:00:15,039
+You've heard this already, maybe once or twice, I don't remember how many, but we'll just take this as a sort of text for the first half hour anyway, about eight lines down.
+
+3
+00:00:15,039 --> 00:00:32,680
+My body is geared into the world when my perception presents me with a spectacle as varied and as clearly articulated as possible, and when my motor intentions, as they unfold, receive the responses they expect from the world.
+
+4
+00:00:32,680 --> 00:00:36,519
+Those are the three things that you're trying to optimize.
+
+5
+00:00:36,519 --> 00:00:48,599
+This maximum sharpness of perception and action points clearly to a perceptual ground, a basis of my life, a general setting in which my body can coexist with the world.
+
+6
+00:00:48,599 --> 00:00:52,039
+That's probably the basic idea of the book.
+
+7
+00:00:52,039 --> 00:01:00,599
+And what we got involved with is a whole bunch of issues around that.
+
+8
+00:01:00,599 --> 00:01:12,680
+So I'm just going to sort of first put that in perspective and then tell you what I think the four questions are that that raises or that you've all raised and that then I think I can now answer.
+
+9
+00:01:12,680 --> 00:01:25,720
+So all the arguments in the space chapter which you've just read, and I suppose in the whole book, depend on the organisms seeking not just a good grip, but the best one.
+
+10
+00:01:26,039 --> 00:01:36,200
+And now I did say for, in my notes, probably I said it in quiet, for this past in these circumstances.
+
+11
+00:01:36,199 --> 00:01:40,280
+So that's why I think at least we're once you could say, I think that's wrong.
+
+12
+00:01:40,280 --> 00:01:42,759
+And I'll have to argue for that in a minute.
+
+13
+00:01:43,079 --> 00:01:50,599
+I think it depends on the organism seeking not just a good grip, but the best one.
+
+14
+00:01:50,599 --> 00:01:51,799
+That's right.
+
+15
+00:01:51,800 --> 00:01:54,679
+But it's not for this past in these circumstances.
+
+16
+00:01:54,680 --> 00:01:59,479
+There is one best grip, independent of culture, independent of task.
+
+17
+00:01:59,480 --> 00:02:03,239
+That's what you all were denying and what I was defending.
+
+18
+00:02:03,399 --> 00:02:05,800
+Maybe Olivier was defending it with me, I guess.
+
+19
+00:02:05,959 --> 00:02:06,800
+Sort of half.
+
+20
+00:02:06,800 --> 00:02:07,840
+That's what I thought.
+
+21
+00:02:07,840 --> 00:02:11,519
+But now I want to defend it head on in a minute.
+
+22
+00:02:11,840 --> 00:02:17,440
+So the chapter shows how important the idea of maximum grip is for Merrill Punching.
+
+23
+00:02:17,440 --> 00:02:28,079
+It's certainly, this we all agree on, necessary for us to have an experience of the size of anything, of distance, of motion, of shape.
+
+24
+00:02:28,079 --> 00:02:31,840
+And in the next chapter, it will be also of color.
+
+25
+00:02:32,240 --> 00:02:38,879
+All the constants that go together make up our experience of a perceptual object.
+
+26
+00:02:38,879 --> 00:02:43,120
+And now the question is what to do about that.
+
+27
+00:02:43,600 --> 00:02:47,680
+So I'm going to see where I'm.
+
+28
+00:02:48,000 --> 00:02:57,039
+Yeah, I thought I would just give one example, one specific example, before I turn to the really general story.
+
+29
+00:02:57,360 --> 00:03:02,399
+And so let's look, how do we determine how far away something is?
+
+30
+00:03:02,400 --> 00:03:10,560
+Well, do we do it by calculating the disparity between the way, how much our eyes are turned in in order to see it?
+
+31
+00:03:10,560 --> 00:03:13,919
+Or that Merrowpontee says, no, we don't calculate that.
+
+32
+00:03:13,920 --> 00:03:19,840
+Do we calculate it in terms of the distance and the apparent size of the object on the retina?
+
+33
+00:03:19,839 --> 00:03:21,600
+No, because we don't see that.
+
+34
+00:03:21,599 --> 00:03:24,159
+And we don't calculate it at all.
+
+35
+00:03:24,160 --> 00:03:26,879
+Something else is happening, something entirely different.
+
+36
+00:03:26,879 --> 00:03:29,759
+We keep talking about on 304.
+
+37
+00:03:29,759 --> 00:03:42,000
+But let me say it first, and then I think how far an object seems to us in experience is a function of how much of a grip we have on it.
+
+38
+00:03:42,000 --> 00:03:46,320
+And when it's near, then we have a good grip on it.
+
+39
+00:03:46,319 --> 00:03:49,680
+As it gets further and further, we get a less good grip on it.
+
+40
+00:03:49,680 --> 00:04:04,919
+At a certain point, like when you're taking off in a plane, you rather suddenly, though I can't ever get a clear sense of exactly when it happens, you lose your grip on it and then houses and cars look like toys.
+
+41
+00:04:04,920 --> 00:04:08,040
+And you get this too from the top of the Empire State Building.
+
+42
+00:04:08,040 --> 00:04:12,440
+These perceptual constants break down at some point, and that's important.
+
+43
+00:04:12,440 --> 00:04:18,600
+Because then you do get something like the retina experience.
+
+44
+00:04:18,600 --> 00:04:30,199
+But normally, you get an experience of something getting further and further away and keeping a constant size, unlike the airplane experience.
+
+45
+00:04:31,079 --> 00:04:42,279
+But it's keeping a constant size, but how far away it is depends on your losing more and more of your sense of what was it, the clarity, the detail, and so forth.
+
+46
+00:04:42,280 --> 00:04:51,720
+So at the bottom of 304, about five lines from the bottom, taking the various apparent sizes of the retreating object, it is not necessary.
+
+47
+00:04:51,719 --> 00:04:52,040
+What?
+
+48
+00:04:52,839 --> 00:04:53,399
+Yeah.
+
+49
+00:04:54,759 --> 00:04:55,959
+That doesn't look like a thing.
+
+50
+00:04:55,959 --> 00:04:57,320
+Am I being deflected?
+
+51
+00:04:57,639 --> 00:05:07,319
+Taking the various apparent size of the retreating object, it is not necessary to link them in a synthesis if none of them has been specifically positive.
+
+52
+00:05:07,800 --> 00:05:16,919
+I guess I should say an aside, generally I think he's against syntheses because he always thinks that the whole is prior to the elements.
+
+53
+00:05:16,920 --> 00:05:22,679
+But sometimes he calls the way the whole organizes the elements itself a synthesis.
+
+54
+00:05:22,680 --> 00:05:27,000
+Here he's saying it's not a synthesis of elements.
+
+55
+00:05:27,319 --> 00:05:33,560
+We have the recruiting object, we never cease to hold it, and to have a grip on it.
+
+56
+00:05:33,560 --> 00:05:44,240
+And the increasing distance, now we're talking, how do you measure distance, is not, as breadth appears to us, an augmenting externality.
+
+57
+00:05:44,240 --> 00:05:51,199
+That is what if you get nearer something, you can see it getting bigger and bigger in your field, I guess.
+
+58
+00:05:52,160 --> 00:05:53,839
+But how does depth appear to you?
+
+59
+00:05:53,839 --> 00:05:58,240
+Because you can't see depth, it says, because it's not spread out in front of you.
+
+60
+00:05:58,240 --> 00:05:59,279
+That's the point.
+
+61
+00:06:00,639 --> 00:06:07,120
+So you can see how far you are from something spread out in front of you.
+
+62
+00:06:07,120 --> 00:06:10,879
+You could see it getting bigger as you get nearer and, well, not getting bigger.
+
+63
+00:06:10,879 --> 00:06:11,839
+You can see it.
+
+64
+00:06:11,839 --> 00:06:12,719
+That's the point.
+
+65
+00:06:12,719 --> 00:06:17,440
+You can see it as the same size as you get nearer and further away.
+
+66
+00:06:17,440 --> 00:06:20,560
+Yet you can see it as nearer and further away.
+
+67
+00:06:20,560 --> 00:06:21,600
+How come?
+
+68
+00:06:21,920 --> 00:06:30,320
+Well, not by a calculation from the apparent size, which stays the same, but from a sense of the grip changing.
+
+69
+00:06:30,319 --> 00:06:38,800
+Now, it expresses the distance that the thing is beginning to slip away from the grip of our gaze and is less closely allied to it.
+
+70
+00:06:38,800 --> 00:06:45,679
+Distance is what distinguishes this loose and approximate grip from the complete grip, which is proximity.
+
+71
+00:06:45,680 --> 00:06:49,520
+We shall define it then as we define straight and oblique.
+
+72
+00:06:49,519 --> 00:06:58,560
+That's the part about vertical orientation in terms of the situation of the object in relation to our power for grasping it.
+
+73
+00:06:58,560 --> 00:07:03,680
+Now, I'm just putting that in right now as Benny Dilbo.
+
+74
+00:07:03,759 --> 00:07:09,360
+He does the same thing with size and motion.
+
+75
+00:07:09,359 --> 00:07:13,760
+And I'm going to come back to them by the end of the hour if we get time.
+
+76
+00:07:13,759 --> 00:07:23,239
+But because I'm not sure we will get time, because I picture, although Olivier not being here, might make it possible to go further before we launch into one of these big discussions.
+
+77
+00:07:23,560 --> 00:07:31,240
+We may get involved in so many discussions over the four points I want to talk about, that we won't get back to it.
+
+78
+00:07:31,239 --> 00:07:33,080
+Well, in that case, too bad.
+
+79
+00:07:33,079 --> 00:07:37,160
+But it's important, more important, to get this overall picture.
+
+80
+00:07:37,800 --> 00:07:56,599
+So, the perception of the thing as a whole, with its this-ness and its fullness, remember, is the result of the impersonal body, the body schema, locking onto and thereby unlocking the thing in the natural world.
+
+81
+00:07:56,599 --> 00:07:58,600
+That's the overall picture.
+
+82
+00:07:58,599 --> 00:08:10,520
+And that's, and this is what I'm going to argue: the ground of all higher-level intentionality, which is, and it's the thing in the natural world, which is the subject of the next chapter.
+
+83
+00:08:10,520 --> 00:08:22,120
+You can think of what I'm doing when I talk about the next chapter and show you things in it, to tell you sort of what questions to be asking as you read it and what to be paying attention to as you read it.
+
+84
+00:08:22,119 --> 00:08:30,280
+And that chapter is so much more central than the space chapter, I think, that I don't mind doing that.
+
+85
+00:08:30,280 --> 00:08:38,920
+So, here are the four questions to keep in mind as you read the chapter on the thing and listen to Sean talk about it.
+
+86
+00:08:39,239 --> 00:08:44,040
+First, how is maximum grip related to the task?
+
+87
+00:08:44,040 --> 00:08:46,280
+That's the rig problem.
+
+88
+00:08:46,280 --> 00:08:48,440
+Remember the example of the desk?
+
+89
+00:08:48,440 --> 00:08:59,240
+Do I get an optimal grip on the desk just by looking at it in a way that lets me see its shape and its which qualities optimally?
+
+90
+00:08:59,239 --> 00:09:03,319
+Or how about when I'm looking for bubble gum under the desk?
+
+91
+00:09:03,319 --> 00:09:22,239
+That's not going to be discovered by the general optimal way of looking at the desk there there's an optimal way of looking at the desk when you're looking for the bubble gum under it how is that related to the supposed just general optimal way of looking at the desk?
+
+92
+00:09:22,239 --> 00:09:27,519
+Or is that just a mistake on my part or Merlot-Ponty's part if you want that?
+
+93
+00:09:27,680 --> 00:09:31,760
+Well first let's just get Merleau-Ponty right, then we'll get the phenomena right.
+
+94
+00:09:32,719 --> 00:09:46,400
+Or is there, as I'm going to claim when we get back to point one, always one basic natural optimal grip which is independent of the task?
+
+95
+00:09:46,400 --> 00:09:48,160
+That's what I'm sure there is.
+
+96
+00:09:48,160 --> 00:09:49,920
+I'm sure I can explain to you how.
+
+97
+00:09:49,920 --> 00:09:53,120
+It's complicated, but it's there.
+
+98
+00:09:53,680 --> 00:09:57,599
+Then the second question is, and how about relative to the culture?
+
+99
+00:09:57,599 --> 00:10:07,839
+Isn't the optimal grip also got to do what reveals the culture, reveals the object as it appears relative to the culture?
+
+100
+00:10:08,160 --> 00:10:10,240
+I think the answer is no.
+
+101
+00:10:10,560 --> 00:10:18,240
+These are all things I was defending last time, and you were all throw, or some people were throwing objections to me, and so I have to answer them.
+
+102
+00:10:18,239 --> 00:10:40,160
+Okay, the third question is, granted you're always experiencing the natural thing in some particular, in terms of an optimal, can you ever experience a natural thing alone without any of the task relative or cultural relative properties?
+
+103
+00:10:40,160 --> 00:10:43,680
+There, I think the answer is pretty clear, and I think Elizabeth quoted the passage.
+
+104
+00:10:43,680 --> 00:10:46,319
+Merleau-Ponty's answer is yes.
+
+105
+00:10:46,319 --> 00:10:47,520
+You can do that.
+
+106
+00:10:47,520 --> 00:10:52,440
+That's the cong of the wall in the Place de la Gonkard, yeah, no doubt.
+
+107
+00:10:52,760 --> 00:11:03,720
+And finally, and this is a separate issue that I raise, and this is the one that throws its full grasp into the next chapter, but I raised it.
+
+108
+00:11:03,719 --> 00:11:18,440
+And so it should be on your mind, and it was certainly on my mind keeping me awake most of last night, which was the question: do you get a maximum grip, or do you only get a tendency toward a maximum grip?
+
+109
+00:11:18,440 --> 00:11:26,200
+And then people were saying, at least I was hearing, the objection that maybe you never get this optimal grip at all.
+
+110
+00:11:26,199 --> 00:11:31,240
+And I was saying, wrong, this time I'm wrong.
+
+111
+00:11:31,239 --> 00:11:33,239
+Three for me and one for you all.
+
+112
+00:11:34,760 --> 00:11:52,199
+Because I was saying you have to actually be able to experience the optimal grip in order to be able to experience objects as having a certain size, a certain shape, a certain color, a certain, I always don't remember that the width.
+
+113
+00:11:52,199 --> 00:11:53,239
+What is the one?
+
+114
+00:11:53,800 --> 00:11:58,999
+It's not a distance that the object has, that that's in there, but it's not a property of the object.
+
+115
+00:11:59,880 --> 00:12:02,120
+Size, that's one out.
+
+116
+00:12:02,119 --> 00:12:03,800
+Maybe I haven't heard one out.
+
+117
+00:12:03,800 --> 00:12:05,480
+I have to go back and look.
+
+118
+00:12:06,280 --> 00:12:07,800
+Maybe size, color, and shape.
+
+119
+00:12:07,800 --> 00:12:08,199
+Is that it?
+
+120
+00:12:08,839 --> 00:12:09,399
+That's it.
+
+121
+00:12:09,400 --> 00:12:09,719
+Okay.
+
+122
+00:12:09,719 --> 00:12:15,080
+Well, color, of course, stands in for sound and feel and everything.
+
+123
+00:12:15,640 --> 00:12:19,399
+A whole list of such of what I get with my senses.
+
+124
+00:12:19,880 --> 00:12:21,800
+What is the sanctilla?
+
+125
+00:12:22,199 --> 00:12:24,760
+How does that sense experience?
+
+126
+00:12:25,560 --> 00:12:27,960
+So that's a very important issue.
+
+127
+00:12:28,599 --> 00:12:31,560
+Do we ever experience the maximum?
+
+128
+00:12:31,560 --> 00:12:39,359
+And a sub-issue was saying, issue from another angle, do we need to experience before we can experience stable objects with properties?
+
+129
+00:12:39,680 --> 00:12:42,400
+I said NarrowConte said we do.
+
+130
+00:12:42,719 --> 00:12:44,720
+I now think I was wrong.
+
+131
+00:12:44,719 --> 00:12:47,200
+I think he clearly says we don't.
+
+132
+00:12:47,199 --> 00:12:49,040
+Well, he also clearly says the opposite.
+
+133
+00:12:50,079 --> 00:12:52,160
+That's why this is such a hard one.
+
+134
+00:12:52,160 --> 00:12:57,519
+And the moral of this one is going to be when we get there, number four, get to the phenomenon.
+
+135
+00:12:58,319 --> 00:12:59,359
+Don't panic.
+
+136
+00:12:59,359 --> 00:13:01,520
+There's a way of getting it all together.
+
+137
+00:13:01,520 --> 00:13:04,800
+Oh, there must be, since there is a phenomenon.
+
+138
+00:13:05,120 --> 00:13:05,839
+Okay.
+
+139
+00:13:07,359 --> 00:13:12,640
+I don't want to discuss anything, but I want to make sure I haven't lost everybody because it is, yeah, of course, you have a problem.
+
+140
+00:13:12,640 --> 00:13:14,160
+So what was question number three?
+
+141
+00:13:14,479 --> 00:13:17,999
+Oh, yeah, well, I went very fast over three, because I don't think it's important.
+
+142
+00:13:17,999 --> 00:13:19,840
+And I think the answer is clear.
+
+143
+00:13:19,839 --> 00:13:32,079
+Can we experience the natural thing in a way that is independent of any cultural stance that we have and any past that we have?
+
+144
+00:13:32,079 --> 00:13:45,360
+Just in its pure naturalness, which means for everybody who has a body, whether it's a pre-linguistic infant, whether it's somebody in Bali, whether it's somebody medieval, and even climates.
+
+145
+00:13:46,880 --> 00:13:51,839
+Is there such a way that we can just perceive the thing in its pure natural finness?
+
+146
+00:13:51,839 --> 00:13:53,520
+That's the third one.
+
+147
+00:13:54,079 --> 00:13:55,600
+Anything else?
+
+148
+00:13:56,239 --> 00:13:59,360
+Okay, let's take them one by one.
+
+149
+00:13:59,359 --> 00:14:02,400
+How is the natural gift related to the task?
+
+150
+00:14:02,400 --> 00:14:09,280
+That's the most fun, in a way, because that's purely a question of getting a phenomenon.
+
+151
+00:14:09,280 --> 00:14:11,679
+But let's just sort of see what's going on.
+
+152
+00:14:11,680 --> 00:14:17,120
+The death has a shape, a size, a color, and feel and smell, presumably.
+
+153
+00:14:17,119 --> 00:14:21,640
+And Sean wants to add to this list, top and bottom.
+
+154
+00:14:21,199 --> 00:14:25,640
+That's the orientation part of the chapter, which I'm dipping over.
+
+155
+00:14:26,040 --> 00:14:40,920
+But John does their experiments to show we experience all objects as having a top and a bottom or as weird things that we can't figure out where their top and bottom is, but we won't be able to get a good grip on them until we do.
+
+156
+00:14:41,079 --> 00:14:45,000
+That's probably true, but I'm going to skip that.
+
+157
+00:14:45,239 --> 00:14:46,839
+We don't need to bring that in.
+
+158
+00:14:46,839 --> 00:14:51,880
+We'll stick to the desk has a faith, size, and color.
+
+159
+00:14:52,199 --> 00:14:55,479
+And there is a way in which...
+
+160
+00:14:55,640 --> 00:14:57,639
+Oh, oh, yeah, here's a parenthesis.
+
+161
+00:14:57,640 --> 00:15:00,280
+I couldn't resist saying this at this point.
+
+162
+00:15:00,280 --> 00:15:08,840
+Isn't it interesting that shape, size, and color crosses the distinction between primary and secondary qualities?
+
+163
+00:15:09,079 --> 00:15:17,959
+In case you thought that what we were getting here in this list of properties were all relative to us in the same way, they're not.
+
+164
+00:15:17,959 --> 00:15:30,199
+I mean, remember the whole Galileo and modernity move, that the color is relative to us, but presumably the size and shape are just there in the universe.
+
+165
+00:15:30,199 --> 00:15:48,999
+And Merle Ponty is not interested in it because he thinks that all of them are relative to us and are relative to us in the same way, and in a certain way aren't relative to us at all, because they're really the way the thing in the natural world is.
+
+166
+00:15:49,320 --> 00:16:06,959
+Now, behind this, that I'm not going to talked about, is a question of idealism always lurking, but because somehow the thing in the natural world is the way the thing just naturally is, and the thing in the natural world is the way it is, because we've got the body set to unlock it that way.
+
+167
+00:16:06,959 --> 00:16:08,799
+But don't worry about that.
+
+168
+00:16:06,279 --> 00:16:10,879
+Back to what we should be worrying about.
+
+169
+00:16:11,999 --> 00:16:31,599
+So if one claims that things are always presented as some deviation from an optimal for us to experience a stable object, then how do we deal with the Rick objection that the optimal depends on the task?
+
+170
+00:16:31,600 --> 00:16:34,239
+I'm not now.
+
+171
+00:16:34,239 --> 00:16:35,759
+The answer is simple.
+
+172
+00:16:36,080 --> 00:16:39,039
+You've got to have, I don't know what you all think, Ask it.
+
+173
+00:16:39,440 --> 00:16:40,719
+Let's take a vote.
+
+174
+00:16:40,719 --> 00:16:55,920
+How many think that there you lose the relevance or you cover up or you something, the general optimal when you have some task which has its own optimal?
+
+175
+00:16:56,239 --> 00:16:56,879
+That's how people.
+
+176
+00:16:59,199 --> 00:16:59,600
+Yes.
+
+177
+00:16:59,600 --> 00:17:00,239
+Yeah, okay.
+
+178
+00:17:00,239 --> 00:17:08,640
+How many believe there is a general optimal according to Merlot-Ponty and the phenomena, which I'm going to say are always on the same side.
+
+179
+00:17:10,239 --> 00:17:16,559
+And if you do believe there is an optimal, do you believe that it gets trumped or covered up by the task?
+
+180
+00:17:16,559 --> 00:17:20,400
+I think this is my main contribution this morning.
+
+181
+00:17:20,400 --> 00:17:27,279
+I think I understood something that I haven't understood before, and that's an important question and it has a clear answer.
+
+182
+00:17:27,279 --> 00:17:47,839
+When I go under the desk, which I'm not going to do right now, to look for the bubble jump, if Merrill-Ponty is right and it feels right to me, I'm going to at the same time feel that I'm getting a very good grip on the bottom of the desk and the bubble jump, and I'm going to be feeling at the same time that I'm getting a terrible view of the desk.
+
+183
+00:17:47,840 --> 00:17:53,799
+You're going to be feeling, if he's right, that there is a better way to see the desk.
+
+184
+00:17:50,959 --> 00:17:58,039
+And if you weren't busy looking for the bubble gum, that's where you'd be pulled to go.
+
+185
+00:17:58,360 --> 00:18:04,279
+But you'll resist that pull toward this better way as long as you've got this task.
+
+186
+00:18:04,279 --> 00:18:08,120
+But the task doesn't in any way override the optimal.
+
+187
+00:18:08,120 --> 00:18:21,799
+Because the optimal is always there as the pull, as the sense that you are not getting the best view of the desk, and it would be better over there, which Manuel Punchy describes as a tension, a sense of unbalance.
+
+188
+00:18:22,039 --> 00:18:25,319
+Particularly, the unbalance comes in when you're looking at the shape of something.
+
+189
+00:18:25,320 --> 00:18:31,640
+There's some shape, he says, I won't rush to find the text, in which you see the optimal balance.
+
+190
+00:18:31,640 --> 00:18:37,719
+And you're going to be getting a very unbalanced view of the shape of the desk under there looking for the gums.
+
+191
+00:18:37,719 --> 00:18:43,319
+And you're going to be always pulled to get the better one and sense that there's a better one.
+
+192
+00:18:43,320 --> 00:18:57,239
+And let me just, and the basic reason why that must be right is that you constantly experience the desk as a stable object with a size, a shape, a color.
+
+193
+00:18:57,239 --> 00:19:08,519
+And to do that while going under to look for the bubble gum, even though it's dark under there and the color looks sort of different and the shape is ungodly messed up and so forth, that the object doesn't begin to mess up.
+
+194
+00:19:08,519 --> 00:19:16,839
+Why doesn't the object begin to get unstable and you can't tell what shape it is and you can't tell what color it is and you don't understand, you know, you wonder what size it is.
+
+195
+00:19:16,840 --> 00:19:17,799
+Why doesn't it?
+
+196
+00:19:17,799 --> 00:19:23,879
+Because you're always experiencing yourself as deviating from the optimal while you're doing the task.
+
+197
+00:19:23,880 --> 00:19:26,040
+Now, oddly enough, Eric does not seem happy.
+
+198
+00:19:26,039 --> 00:19:28,519
+I should think everybody would go up their hands with the light.
+
+199
+00:19:28,680 --> 00:19:31,759
+So, the thing would go under the desk, the bubblegum.
+
+200
+00:19:31,759 --> 00:19:36,320
+You get yourself through a terrible condescension.
+
+201
+00:19:34,759 --> 00:19:39,359
+Do you all send the sense of terrible steeling?
+
+202
+00:19:36,039 --> 00:19:41,920
+No, because you're not trying to see them.
+
+203
+00:19:42,479 --> 00:19:45,359
+I could switch that into this existential point.
+
+204
+00:19:45,360 --> 00:19:57,040
+All of this has got to be sort of existentialized, meaning there's something you're trying to cope with now that you're interested in, because you can't be trying to get it to the one every day, right?
+
+205
+00:19:57,759 --> 00:20:00,079
+Ah, good, I see what you're saying now.
+
+206
+00:20:00,080 --> 00:20:02,160
+Well, yes and no.
+
+207
+00:20:02,160 --> 00:20:04,640
+I mean, if you could, it's interesting.
+
+208
+00:20:04,640 --> 00:20:12,079
+If you could get so involved with the bubblegum, the issue that that was the whole object of the desk didn't matter.
+
+209
+00:20:12,719 --> 00:20:14,079
+Then I think you're right, Eric.
+
+210
+00:20:14,479 --> 00:20:18,400
+Then the whole thing switches over and it becomes a bubblegum issue.
+
+211
+00:20:18,400 --> 00:20:19,759
+But it's not relative.
+
+212
+00:20:20,080 --> 00:20:28,799
+What's relative to the task, I see what you're saying, is what's going to be the stable object and what's going to go into the background.
+
+213
+00:20:28,799 --> 00:20:32,479
+That's but that's okay.
+
+214
+00:20:35,120 --> 00:20:36,480
+Well, it's interesting.
+
+215
+00:20:36,479 --> 00:20:37,360
+No, I don't know.
+
+216
+00:20:37,360 --> 00:20:38,959
+Think of the phenomenon.
+
+217
+00:20:38,959 --> 00:20:43,120
+What happens to the desk if you go under and look for the gum?
+
+218
+00:20:44,400 --> 00:20:48,719
+Well, I'll go in and, oh, well, I'm so sure what's going to happen, but I'll go check.
+
+219
+00:20:48,719 --> 00:20:49,999
+Okay, my mind's not going to be.
+
+220
+00:20:50,080 --> 00:20:52,080
+Well, there's no gum, that's sure.
+
+221
+00:20:52,320 --> 00:20:57,360
+And the desk stayed the same shape and the same color and all that, which is important.
+
+222
+00:20:57,360 --> 00:20:59,279
+And how do you account for that?
+
+223
+00:21:00,479 --> 00:21:03,920
+I want to say, wait, wait, wait, okay, well, here, Louvie, let Eric first.
+
+224
+00:21:03,920 --> 00:21:04,880
+It's his problem.
+
+225
+00:21:05,120 --> 00:21:06,160
+I mean, it's understood.
+
+226
+00:21:06,320 --> 00:21:06,719
+What?
+
+227
+00:21:06,719 --> 00:21:07,680
+It's under the same problem.
+
+228
+00:21:07,920 --> 00:21:09,680
+I believe it, but one at a time.
+
+229
+00:21:09,680 --> 00:21:11,279
+Okay, Eric, well, what?
+
+230
+00:21:11,440 --> 00:21:11,999
+I think you.
+
+231
+00:21:12,320 --> 00:21:13,599
+I mean, I mean, Rick.
+
+232
+00:21:13,759 --> 00:21:14,400
+That's okay.
+
+233
+00:21:14,400 --> 00:21:22,279
+I think your way of phrasing was sneaky, as Eric was pointing out, because you just, you're very, there are different tasks involved.
+
+234
+00:21:22,360 --> 00:21:31,559
+So everything that you're saying, I can redescribe in a task-relative way, such that we don't need to posit what you're calling, I guess, like a joint.
+
+235
+00:21:31,799 --> 00:21:34,839
+There's always got to be, yeah, I may have described it wrong.
+
+236
+00:21:34,840 --> 00:21:36,119
+Let me try again.
+
+237
+00:21:36,999 --> 00:21:43,160
+There's some object that you're coping with, and that will be selected by the task.
+
+238
+00:21:43,160 --> 00:21:45,559
+That's what you and Eric are right about.
+
+239
+00:21:45,559 --> 00:21:54,600
+But whatever object is selected by the task, that object's properties are not determined by the task.
+
+240
+00:21:54,600 --> 00:22:04,360
+That object has, this is where we're disagreeing, and then it comes up next, its own optimal, which is settling what color and shape and so forth it has.
+
+241
+00:22:04,519 --> 00:22:10,360
+So here's my forgetting the bubblegum, because you're just kind of playing off the idiosyncrasy of that example.
+
+242
+00:22:10,360 --> 00:22:21,559
+I could just say that, imagine there are different people, an archaeologist's way of studying the table, and the way you do get a maximum grid of the table, or his kind of whatever, kind of like archaeological past would be.
+
+243
+00:22:21,559 --> 00:22:27,400
+So you could have an ENG collector who would want a different kind of ripoff at the table.
+
+244
+00:22:27,400 --> 00:22:32,999
+And then suppose I'm just a consumer and I want to buy tables and I want a sense of whether it would fit in my room and what.
+
+245
+00:22:33,400 --> 00:22:33,799
+I see that.
+
+246
+00:22:37,239 --> 00:22:38,359
+There are different quantities.
+
+247
+00:22:38,360 --> 00:22:38,680
+That's all.
+
+248
+00:22:41,959 --> 00:22:43,799
+It just goes back to what all of them.
+
+249
+00:22:44,039 --> 00:22:45,799
+Okay, that's all true.
+
+250
+00:22:45,799 --> 00:22:54,440
+But there is in it, according to Merlot Ponty, and I think he's right, an experience of the table, or which you can look for is scratches and so forth.
+
+251
+00:22:54,440 --> 00:23:07,600
+And just keep your eye on the fact that we're surrounded by objects which have stable shapes, sizes, colors, and so forth.
+
+252
+00:23:07,920 --> 00:23:26,719
+And the and the and the Merrill-Plantique claim is that stays constant and is a done by the body schema in a task irrelevant, person irrelevant, affectivity that is what you care about and desire, irrelevant way.
+
+253
+00:23:26,719 --> 00:23:31,120
+That's what it means to say that one does it indeed that it's done by the body schema.
+
+254
+00:23:31,120 --> 00:23:33,039
+That's what I'm trying to explain.
+
+255
+00:23:33,039 --> 00:23:36,319
+And that seems the right thing to say, but now I see it, yeah.
+
+256
+00:23:36,320 --> 00:23:52,879
+Well, I think we could lead out basically I don't, because it's it's if you do the social definitions, but I think even though every object is whatever you do is always testable.
+
+257
+00:23:52,880 --> 00:23:55,920
+Because every object just offers an importance.
+
+258
+00:23:56,239 --> 00:23:56,640
+What?
+
+259
+00:23:56,640 --> 00:23:58,479
+An importance as you are at that.
+
+260
+00:23:58,479 --> 00:24:09,440
+So if you go to the bubble under the table, it just means that when you go towards the table, you know that if you want to get the best dantage point on the table, you will stop there.
+
+261
+00:24:09,440 --> 00:24:10,959
+But you don't take this into account.
+
+262
+00:24:10,959 --> 00:24:11,839
+You know that you could.
+
+263
+00:24:11,840 --> 00:24:15,040
+So you okay, there is this dimension in your experience.
+
+264
+00:24:15,039 --> 00:24:17,360
+And in fact, how is it predominant in your experience?
+
+265
+00:24:17,360 --> 00:24:23,119
+The fact that who you want to get the best damage point on the table is that, well, you avoid the thing.
+
+266
+00:24:23,519 --> 00:24:25,759
+You just don't go in this position.
+
+267
+00:24:25,759 --> 00:24:26,799
+You know it's here.
+
+268
+00:24:26,799 --> 00:24:32,719
+And this best density point corresponds to the fact that you have like something in the table, but you go under it.
+
+269
+00:24:33,039 --> 00:24:33,680
+Well, I don't know.
+
+270
+00:24:34,479 --> 00:24:35,279
+The goggle gun.
+
+271
+00:24:35,519 --> 00:24:45,600
+I mean, the synthesis of the tasks that happens when you go to the goggle gun implies that you integrate the fact that you could have been sleeping at the table, but if you don't do so.
+
+272
+00:24:45,600 --> 00:24:46,239
+You go further.
+
+273
+00:24:46,479 --> 00:24:47,360
+Why is that important?
+
+274
+00:24:47,360 --> 00:24:50,999
+Well, I mean, this before that, you started with a premise that I didn't get.
+
+275
+00:24:50,640 --> 00:24:53,000
+It isn't always an affordance.
+
+276
+00:24:53,239 --> 00:24:58,599
+That tree doesn't afford anything to me, but I'm not all the same thing as side of size and a shape.
+
+277
+00:24:58,999 --> 00:25:02,519
+You can think of the cases of utilization behavior, you know.
+
+278
+00:25:04,039 --> 00:25:15,559
+But I don't want to think of it as big vague, or if I do, never utilization days, there is these weird cases where the big brain-injured person, if there's a chair, sits on it, if there's an apple and the device there.
+
+279
+00:25:16,360 --> 00:25:18,599
+But I don't have even this vague.
+
+280
+00:25:18,600 --> 00:25:19,160
+I don't feel like it's not.
+
+281
+00:25:20,039 --> 00:25:26,120
+It's very interesting because it doesn't fit into account because desires, president desires like no.
+
+282
+00:25:26,120 --> 00:25:34,839
+So it's very interesting because it's only related to the flow of time and the way it integrates partial events or everything you're saying.
+
+283
+00:25:35,640 --> 00:25:36,199
+It shouldn't.
+
+284
+00:25:36,360 --> 00:25:39,079
+I don't believe that it's related to the flow of time.
+
+285
+00:25:39,080 --> 00:25:43,319
+I don't believe that my experience is that everything is related to the flow of time, of course.
+
+286
+00:25:44,279 --> 00:25:45,799
+It doesn't in the flow of time.
+
+287
+00:25:45,959 --> 00:25:46,680
+Of course, it does.
+
+288
+00:25:46,680 --> 00:25:49,160
+But I can't believe that that's the issue.
+
+289
+00:25:49,160 --> 00:25:50,999
+The issue is simpler than that.
+
+290
+00:25:50,999 --> 00:26:08,680
+The issue is that we have in us a kind of impersonal perceiver that perceives objects in an impersonal way, meaning that anybody from any culture with any task or perceived apple.
+
+291
+00:26:11,799 --> 00:26:11,959
+Right.
+
+292
+00:26:13,080 --> 00:26:13,719
+It's natural.
+
+293
+00:26:13,719 --> 00:26:14,519
+It's company.
+
+294
+00:26:14,920 --> 00:26:15,160
+Of course.
+
+295
+00:26:15,160 --> 00:26:18,920
+I mean, I don't think there would be plenty of time to say that.
+
+296
+00:26:18,920 --> 00:26:20,360
+Well, because time is natural.
+
+297
+00:26:20,360 --> 00:26:22,680
+So yeah, sure, space natural.
+
+298
+00:26:22,680 --> 00:26:23,800
+No, or maybe not.
+
+299
+00:26:24,360 --> 00:26:25,160
+So what?
+
+300
+00:26:25,799 --> 00:26:28,920
+Can't we separate it from time and say there are natural objects?
+
+301
+00:26:28,999 --> 00:26:31,479
+But what you do is always in time.
+
+302
+00:26:31,479 --> 00:26:31,880
+Yes.
+
+303
+00:26:31,880 --> 00:26:38,640
+If you stick to the phenomena as you propose to do, then you have to take into account the fact that there are inventions.
+
+304
+00:26:36,360 --> 00:26:41,600
+Well, you could stop at the table and you have to be able to notice it.
+
+305
+00:26:41,840 --> 00:26:48,400
+And you have to and notice what you think the table would be not to go in the direction, as to get the best notes going.
+
+306
+00:26:48,959 --> 00:26:57,119
+Let's go under it because there's another task that presupposes that first you take into account the presence of the table to get the shooting of that under it.
+
+307
+00:26:57,120 --> 00:26:58,479
+Otherwise it wouldn't be under the bottom.
+
+308
+00:26:58,640 --> 00:26:59,199
+I don't see why.
+
+309
+00:26:59,199 --> 00:27:00,719
+I mean I don't think any of you say it's wrong.
+
+310
+00:27:00,719 --> 00:27:03,279
+I just want to repeat what I said because I don't think that I need anything.
+
+311
+00:27:03,360 --> 00:27:08,559
+Well what I mean is that then you can say that the objects are not task related.
+
+312
+00:27:08,559 --> 00:27:09,279
+Factory.
+
+313
+00:27:09,279 --> 00:27:11,760
+That's the term I've already tasked related.
+
+314
+00:27:11,759 --> 00:27:12,560
+Factory.
+
+315
+00:27:13,759 --> 00:27:14,319
+Oh related.
+
+316
+00:27:14,320 --> 00:27:14,799
+Oh good.
+
+317
+00:27:14,799 --> 00:27:15,599
+Oh the ob good.
+
+318
+00:27:15,600 --> 00:27:17,279
+I was afraid something new was happening.
+
+319
+00:27:17,279 --> 00:27:19,279
+The objects are not related.
+
+320
+00:27:19,279 --> 00:27:20,880
+I mean related to what?
+
+321
+00:27:20,880 --> 00:27:22,400
+Each other, the task, me?
+
+322
+00:27:22,719 --> 00:27:24,479
+The objects aren't related to the task.
+
+323
+00:27:24,559 --> 00:27:25,999
+We agree about that, don't we?
+
+324
+00:27:26,239 --> 00:27:31,599
+Which object I'm dealing with, what the lady wants to do does change the object property.
+
+325
+00:27:31,600 --> 00:27:45,759
+But you don't have to say, I mean, saying that the objects are fascinated doesn't mean that, okay, that's what I tried to say when I said which object you're dealing with is task related and and what you're paying attention to on the object is task related, like the scratch.
+
+326
+00:27:45,759 --> 00:27:47,759
+But the object isn't task related.
+
+327
+00:27:47,759 --> 00:27:56,000
+That is the underlying natural, stable, perceptual object, and that's what followed into the the body schema.
+
+328
+00:27:55,999 --> 00:27:59,440
+I mean, it you keep that personal body schema in the background.
+
+329
+00:27:59,440 --> 00:28:02,160
+It's not there just for fun.
+
+330
+00:28:02,160 --> 00:28:19,440
+It's doing the basic job of giving you a world of objects with, I have to just keep repeating, they have a constant size, this chair and that's independent of whether I know it's a chair and a forward sitting or not on the on this Merrill-Ponjee theory.
+
+331
+00:28:19,440 --> 00:28:20,719
+Uh yeah, James.
+
+332
+00:28:21,039 --> 00:28:28,759
+Okay, I mean, I agree that this is a view that you could have, and I think this could be a red view, but I'm just very spectacular in Malabon theory.
+
+333
+00:28:29,160 --> 00:28:29,959
+Well, that's interesting.
+
+334
+00:28:29,959 --> 00:28:32,120
+There are quotes that kind of fit this, but not yet.
+
+335
+00:28:32,120 --> 00:28:32,359
+Okay.
+
+336
+00:28:34,440 --> 00:28:46,199
+I mean, I don't think that they're okay, well, they're not body schema, and what you just said is relevant, because it seems to me that whatever the optimal group is going to be, it has to be human.
+
+337
+00:28:46,199 --> 00:28:46,520
+Yeah.
+
+338
+00:28:46,519 --> 00:28:46,760
+Right?
+
+339
+00:28:46,759 --> 00:28:48,920
+It's not independent of the body schema.
+
+340
+00:28:48,999 --> 00:28:50,119
+It has to be in the optimum.
+
+341
+00:28:50,199 --> 00:28:51,079
+Yeah, what about this quote?
+
+342
+00:28:51,239 --> 00:29:07,319
+Near the bottom, he says in the last analysis, if my body can be a form, and if there can be in front of it important figures against indifferent backgrounds, this occurs in virtue of its being polarized by its past, of its existence towards them, of its collecting together of itself in its pursuit of its aims.
+
+343
+00:29:07,640 --> 00:29:09,559
+I don't know what to do with that on the screen here.
+
+344
+00:29:10,360 --> 00:29:12,759
+Well, I don't see the problem.
+
+345
+00:29:13,320 --> 00:29:25,160
+I think that the task, again, to stick to the phenomenon of the task orients me toward the object, and you couldn't, you wouldn't be normally oriented to the object without a task.
+
+346
+00:29:25,160 --> 00:29:27,800
+I think the classical econom card shows you can be.
+
+347
+00:29:27,799 --> 00:29:30,999
+You could just stop your job and stare at the wall.
+
+348
+00:29:31,559 --> 00:29:33,640
+But you were doing something.
+
+349
+00:29:33,640 --> 00:29:34,999
+Do you think you have a task right now?
+
+350
+00:29:35,959 --> 00:29:36,920
+Well, but it is.
+
+351
+00:29:37,719 --> 00:29:40,920
+You're doing something because I think you decide who stopped or being interested.
+
+352
+00:29:42,360 --> 00:29:46,360
+I mean, it's sort of paradoxical to say your task is not that any task.
+
+353
+00:29:46,999 --> 00:29:48,199
+One thing at a time.
+
+354
+00:29:48,199 --> 00:29:58,759
+So you've got a task, and your body schema, you know, it says body image, but we all know it's body schema, is that your is that your body is in the world.
+
+355
+00:29:58,759 --> 00:30:04,359
+Well, the main thing this is emphasizing, I don't disagree with it or anything James said.
+
+356
+00:30:04,360 --> 00:30:08,079
+It's just in a it's got a different issue on its mind.
+
+357
+00:30:08,080 --> 00:30:27,759
+It's that there is always, and that's why this is hard to talk about, normally the body is engaged in a task and it's got in a culture, and all that is involved in being in the world because Mero Conti is, if anybody in the world is, a holist through and through.
+
+358
+00:30:27,759 --> 00:30:29,600
+And that's right.
+
+359
+00:30:29,920 --> 00:30:48,160
+And yet, within this holism, there is this claim about the fundamental structural ground of our perception of objects that we share and we're back again with creatures that don't have our kinds of tasks and so forth.
+
+360
+00:30:48,160 --> 00:30:58,160
+And that's not incompatible with the fact that we normally do see objects because of our interest.
+
+361
+00:30:58,160 --> 00:31:02,319
+But they don't, and this is crucial for him.
+
+362
+00:31:02,320 --> 00:31:06,799
+They are going there's a certain level at which they look the same no matter what.
+
+363
+00:31:06,799 --> 00:31:08,799
+I mean, I mean, yes, that's a critical point.
+
+364
+00:31:08,799 --> 00:31:11,440
+You can't because don't view the body.
+
+365
+00:31:11,440 --> 00:31:29,040
+I mean, unless you have very strong neural nerds or I mean, the the the the the interests of the body uh tell you what to do, what you're going to be interested in doing with such or such under the control, or why you're interested in knowing that there is no gun under the table.
+
+366
+00:31:29,039 --> 00:31:36,799
+But the fact that you have different interests maybe to look at the goddamn gun under the table will change the colour of the gold.
+
+367
+00:31:36,799 --> 00:31:38,160
+I mean, wait, wait, wait, wait.
+
+368
+00:31:38,160 --> 00:31:42,959
+I wanna I don't need sorry about this, but I I I think we have to go on for a minute.
+
+369
+00:31:42,959 --> 00:31:53,079
+We'll c we can come back to this, but we can't, we're not getting in, and we're not going to get any further with this, and we're not going to get my four points done if you don't talk for th for a while talking about it.
+
+370
+00:31:51,279 --> 00:31:57,479
+So I'm just going to say again what I said, and then we can all come back to it later.
+
+371
+00:31:57,799 --> 00:32:04,519
+So I want to say that, I mean, and I see now that my wonderful solution was too simple.
+
+372
+00:32:04,519 --> 00:32:13,959
+But when I said that we have two tasks at once, to keep the table stable and the bubblegum stable, that didn't solve the problem, right?
+
+373
+00:32:13,959 --> 00:32:57,239
+The problem is supposed to be, has to be solved in a harder way when you just concentrate on something, either the bubble gum or the table, and you see, and you understand that no matter how much your task of dealing with it, what you're going to do, what you're thinking of, what you desire about it, and care about it, is no matter how much that varies, no matter how much your culture varies, and this is clearly his call, there is an impersonal one who's in your body, which is seeing it just the way that any other one would see it, even primates and so forth.
+
+374
+00:32:57,240 --> 00:32:58,600
+That's the claim.
+
+375
+00:32:58,599 --> 00:33:02,519
+And what always amazes me is how hard it seems to be for anybody to accept this.
+
+376
+00:33:02,519 --> 00:33:08,839
+To me, it seems just incredibly obvious that we perceive the same way as all sorts of things.
+
+377
+00:33:09,559 --> 00:33:30,599
+I just remember, and maybe this is relevant, a brilliant professor at MIT, famous once, Gary Lexen, who wrote the famous paper with the frog's eye, held the frog's brain, who found the first to plug into a particular neuron and see that it was firing when there was a black spot in the visual view of the field that they saw.
+
+378
+00:33:30,920 --> 00:33:38,880
+But Lecum said, in another context, how amazingly cross-species perception is.
+
+379
+00:33:36,360 --> 00:33:41,040
+And his example was sort of interesting.
+
+380
+00:33:41,360 --> 00:34:01,199
+He said that in order to look, to save being eaten, the viceroy butterfly gets evolved to look like the monarch butterfly, would take, and it looks that way to the birds, and it looks that way to us.
+
+381
+00:34:01,200 --> 00:34:04,800
+We can't tell viceroy through monarchs, and neither can the bird.
+
+382
+00:34:05,119 --> 00:34:08,639
+That's an example of how cross-species perception is.
+
+383
+00:34:08,639 --> 00:34:09,759
+It seems to have the same.
+
+384
+00:34:09,920 --> 00:34:16,799
+I don't know if it has the same size and shape and color for the bird as it does for us, but it certainly has the same shape and size and color.
+
+385
+00:34:17,360 --> 00:34:19,840
+And it isn't really identical to the viceroy.
+
+386
+00:34:19,920 --> 00:34:23,680
+I mean, these two butterflies don't look so much alike that you couldn't tell them apart.
+
+387
+00:34:23,679 --> 00:34:27,360
+They just managed to look enough alike so birds can't tell them apart.
+
+388
+00:34:27,360 --> 00:34:29,599
+And if you know how to look, you can tell.
+
+389
+00:34:29,599 --> 00:34:31,040
+So that's important.
+
+390
+00:34:31,599 --> 00:34:38,160
+What's important is that they look a lot alike to birds and to us and fool the birds.
+
+391
+00:34:38,800 --> 00:34:53,359
+What I want to say about this is that Merloponte thinks it's just obvious that perception of objects of their shape, of their size, and of their color goes way across species and absolutely across cultures and tasks.
+
+392
+00:34:53,360 --> 00:34:55,599
+And why do you all find that so strange?
+
+393
+00:34:55,760 --> 00:35:00,080
+And I have to keep citing the body schema.
+
+394
+00:35:00,639 --> 00:35:08,440
+The one that's assuming me, the one that sees in me sees in the same as it says too, and that's the Merloponte picture.
+
+395
+00:35:06,720 --> 00:35:08,719
+Yeah, because you see the thing doesn't say that.
+
+396
+00:35:09,119 --> 00:35:12,079
+No, I don't think it is because of the body's schema.
+
+397
+00:35:12,079 --> 00:35:26,999
+It would be a task, but because the body's schema has in it the knowledge of the world and is always knowing how far we're deviating from the optimal, the body scheme, the desk or the bubblegum or the butterfly stays stable.
+
+398
+00:35:21,360 --> 00:35:27,639
+Yeah.
+
+399
+00:35:28,519 --> 00:35:29,799
+Okay, I'm going to go on.
+
+400
+00:35:29,800 --> 00:35:31,879
+I don't see a problem there yet.
+
+401
+00:35:31,880 --> 00:35:34,999
+Although I see the problem that I haven't convinced anybody yet with that question.
+
+402
+00:35:35,079 --> 00:35:37,959
+I think you mentioned two terms that I don't think are worth mentioning.
+
+403
+00:35:38,280 --> 00:35:42,680
+I'm heard you mentioned, I don't know if I see the kind of attention, motivation.
+
+404
+00:35:42,679 --> 00:35:44,199
+I try to not mention them.
+
+405
+00:35:44,200 --> 00:35:44,360
+Yes.
+
+406
+00:35:46,440 --> 00:35:48,039
+I mean, I think they're inequal to this problem.
+
+407
+00:35:48,280 --> 00:35:50,200
+I think they are not inequal to this.
+
+408
+00:35:50,200 --> 00:35:50,999
+And why?
+
+409
+00:35:50,999 --> 00:35:57,800
+Because attention and motivation are individual, so they can't be in the one that thinks in the us.
+
+410
+00:35:57,800 --> 00:35:58,119
+What?
+
+411
+00:35:58,360 --> 00:36:00,679
+You don't think the attention and motivation are pre-human confusion?
+
+412
+00:36:00,840 --> 00:36:21,560
+They're pre-human, all right, but you have your attention and motivation, presumably, and I have my attention and motivation, whereas your body schema and my body schema is something that takes chairs or tables or trees and gives them the stable shape and stuff, independent of any particular person's particular attention and particular motivation.
+
+413
+00:36:22,119 --> 00:36:24,119
+Would that be getting too awful and how to get rid of it?
+
+414
+00:36:24,200 --> 00:36:27,720
+Well, it would be just getting non-impersonal.
+
+415
+00:36:27,720 --> 00:36:35,880
+I mean, there is an impersonal thing in our body, and it hasn't anything to do with our interest, our agency, our tasks, and our culture.
+
+416
+00:36:35,880 --> 00:36:37,320
+That's what he said.
+
+417
+00:36:37,800 --> 00:36:58,840
+I want to convince you both that he says it and that he says it's right, and that it doesn't really violate anything you want to say, that on top of that, so to speak, you will also see this as an object with a certain use if you belong in this culture, and you will see it as, okay, look, I haven't got the culture, but I have a good transition.
+
+418
+00:37:00,519 --> 00:37:00,919
+Yeah?
+
+419
+00:37:00,959 --> 00:37:06,159
+It's a striking that a lot of birds, for example, birds of prey, have a much, much better vision than you do.
+
+420
+00:37:06,159 --> 00:37:07,200
+They're trying to get a little picture of the current.
+
+421
+00:37:06,280 --> 00:37:08,879
+I know, wonderful.
+
+422
+00:37:09,200 --> 00:37:12,639
+So, how can the optimal bridge for a bird be the same as what it is for us?
+
+423
+00:37:12,639 --> 00:37:14,479
+I mean, it has to be at a very different vision.
+
+424
+00:37:14,800 --> 00:37:20,320
+Ah, it doesn't say that it's the same, but that's interesting.
+
+425
+00:37:20,320 --> 00:37:21,920
+I think that's interesting and important.
+
+426
+00:37:21,920 --> 00:37:23,280
+We've got to get clear now.
+
+427
+00:37:23,280 --> 00:37:35,920
+When I say that it's an impersonal one and it's the same across all the cultures, I mean not that they've got the same perceptual capacities.
+
+428
+00:37:39,440 --> 00:37:39,999
+That's right.
+
+429
+00:37:39,999 --> 00:37:51,280
+I want to say their impersonal body schema has a better optimal visual component than we do.
+
+430
+00:37:51,280 --> 00:37:59,760
+It's impersonal across all cultures that there will be an optimal visual component.
+
+431
+00:37:59,760 --> 00:38:04,399
+But of course, you're right, it's not going to look thus the same.
+
+432
+00:38:04,720 --> 00:38:15,279
+So, the stress should be, you're correcting something I said, that the correction should be on the impersonal, not the cross-cultural.
+
+433
+00:38:15,280 --> 00:38:23,839
+By that, I mean the important thing isn't that the one in us is the same as the one in the eagle and so forth.
+
+434
+00:38:23,840 --> 00:38:25,280
+That's cross-species.
+
+435
+00:38:25,280 --> 00:38:36,720
+The important thing is that the one in us has nothing to do with our interests, our desires, and our tasks, and the one in the eagle will have nothing to do with its interests and its desires and its paths.
+
+436
+00:38:36,720 --> 00:38:42,159
+And I think they will have a lot of global qualities in common.
+
+437
+00:38:42,159 --> 00:38:44,400
+But that's not the important thing to stress.
+
+438
+00:38:44,959 --> 00:38:58,679
+The impersonal thing to stress is that there is a way that every species would perceives objects at all perceives them in a way independent of their tasks and interests.
+
+439
+00:38:58,999 --> 00:39:03,640
+Not that they all perceive them in the same way we do.
+
+440
+00:39:03,959 --> 00:39:07,959
+Though I don't know how much how far to go with that, so I won't go.
+
+441
+00:39:10,360 --> 00:39:11,879
+You have to eventually.
+
+442
+00:39:12,599 --> 00:39:13,159
+Why?
+
+443
+00:39:13,159 --> 00:39:15,800
+Well, yeah, you can see the data, but there's a thing you can see there.
+
+444
+00:39:19,479 --> 00:39:20,360
+That's true.
+
+445
+00:39:20,360 --> 00:39:23,239
+And I think maybe now Olivia backs me in the other direction.
+
+446
+00:39:23,240 --> 00:39:25,880
+I feel like a ping-pong ball in this discussion.
+
+447
+00:39:25,880 --> 00:39:38,440
+I mean, because he wants to say, he wants me to say, and that's true too, that there's this natural object, and in a certain way, the eagle is just getting a better look at it from a farther away thing than we are.
+
+448
+00:39:38,440 --> 00:39:41,800
+I think Marilyn Plantee, that's back to the butterflies again.
+
+449
+00:39:42,440 --> 00:39:52,919
+It may be, I mean, it is the same rabbit, looking just like a rabbit from the top that he sees from way up there, and it's got the color it's got.
+
+450
+00:39:52,920 --> 00:39:54,919
+Now, maybe eagles are colorful.
+
+451
+00:39:54,920 --> 00:40:00,520
+I don't know if they are, then they just don't see a certain aspect of the natural state we do.
+
+452
+00:40:02,119 --> 00:40:10,279
+It's still the same rabbit with the same shape and the same size and some color or grayness that this eagle is seeing.
+
+453
+00:40:10,679 --> 00:40:13,560
+So it is cross-cultural a lot.
+
+454
+00:40:13,559 --> 00:40:15,400
+Maybe I gave too much away.
+
+455
+00:40:15,400 --> 00:40:19,880
+Anyway, there's nothing in personal life in your body.
+
+456
+00:40:20,119 --> 00:40:22,759
+Is that object that is that irrelevant?
+
+457
+00:40:22,760 --> 00:40:31,080
+So if it's human body, or human being versus an object, is that irrelevant at this stage of discussion?
+
+458
+00:40:31,079 --> 00:40:49,520
+That it will also, if it's a human, automatically draw on something in your system, which may in your visual system, in your brain, in your in your way, in your being in the world, depending on what set level, which makes you unable to not see it as a person.
+
+459
+00:40:49,519 --> 00:40:52,720
+That we'll get to in the chapter on being with others.
+
+460
+00:40:52,720 --> 00:41:00,799
+But people also have a stable size and color and shape and so forth.
+
+461
+00:41:00,800 --> 00:41:05,120
+And it doesn't override that, that you see them as people.
+
+462
+00:41:05,119 --> 00:41:09,600
+They don't stop looking like stable objects of perception.
+
+463
+00:41:09,599 --> 00:41:10,959
+That's the same point again.
+
+464
+00:41:10,959 --> 00:41:12,400
+Well, and it's so cultural.
+
+465
+00:41:12,559 --> 00:41:16,720
+Well, it's related to more like the cultural point than the task point.
+
+466
+00:41:16,720 --> 00:41:22,079
+But it's probably another, you could probably add a fifth point.
+
+467
+00:41:22,479 --> 00:41:33,759
+Not only is this perceptual object and the corporeal schema unaffected by the past, also unaffected by the culture.
+
+468
+00:41:33,760 --> 00:41:40,719
+And it's also unaffected by whether the object is a human being or an object or that I think.
+
+469
+00:41:40,720 --> 00:41:42,719
+But I have no word about that.
+
+470
+00:41:43,119 --> 00:41:48,080
+When we read the being with others chapter, let's keep that in mind.
+
+471
+00:41:48,400 --> 00:41:50,719
+There's no doubt that it makes a big.
+
+472
+00:41:50,800 --> 00:41:58,079
+And I don't think it makes a difference in the impersonal body schema that it is a person.
+
+473
+00:41:58,079 --> 00:42:00,399
+It's just another object figure.
+
+474
+00:42:01,280 --> 00:42:15,440
+Okay, relative to the conflict, I made up an example, and maybe it's going to bonfire on me like the bubblegum one did, because I was trying to find, but there must be something right in what I'm saying, but I don't know what it is yet.
+
+475
+00:42:15,440 --> 00:42:20,080
+I'm trying to find this double thing where we're both responding.
+
+476
+00:42:20,079 --> 00:42:31,400
+I tried to say to the task, and that feeling always nonetheless the tension toward the optimal that keeps the object stable private in a culture.
+
+477
+00:42:31,400 --> 00:42:40,280
+I mean, where you can have all kinds of differences, but I've just taken extreme difference, how you deal with sacred objects in the culture.
+
+478
+00:42:40,280 --> 00:42:43,079
+And I'm making up a story that I think is probably true.
+
+479
+00:42:43,079 --> 00:42:55,160
+You're not supposed to go too near the Torah, and you're certainly not supposed to touch the Torah, so you've got to stand at a respectful distance from it, and you would, and you will if you're in a Hebrew culture.
+
+480
+00:42:55,159 --> 00:42:57,159
+But it seems obvious to me.
+
+481
+00:42:57,320 --> 00:43:05,400
+You will feel that you would get a better look if you could go closer and a better, even better grip on it if you could take hold of it.
+
+482
+00:43:05,400 --> 00:43:15,560
+And that isn't, that's not incompatible with the sense that it's the kind of thing that is sacred and you can't come near it.
+
+483
+00:43:15,959 --> 00:43:19,160
+I think you'd have these two things at once.
+
+484
+00:43:19,159 --> 00:43:21,639
+And why would you have to have these two things at once?
+
+485
+00:43:21,639 --> 00:43:30,440
+Because the Torah doesn't stop having a shape and a size and a color and a weight that's constant, but you put weight in there.
+
+486
+00:43:30,840 --> 00:43:40,440
+That's constant, whether it's got this higher order sacred thing that inhibits you from actually getting a better grip on it.
+
+487
+00:43:40,760 --> 00:43:50,599
+And I want to say because the crucial thing is that the impersonal body schema isn't committed to getting to feeling unhappy when it doesn't have the optimal grip on it.
+
+488
+00:43:50,599 --> 00:44:00,999
+That is, it feels the tension, it feels the imbalance, it senses that it would be better, he could get it to have a better grip on the object some closer and over there and so forth.
+
+489
+00:44:00,999 --> 00:44:03,240
+But that can be overridden.
+
+490
+00:44:03,240 --> 00:44:06,479
+That doesn't change anything that that can be overridden.
+
+491
+00:44:06,800 --> 00:44:07,759
+Yeah, Eric.
+
+492
+00:44:06,119 --> 00:44:12,479
+So, in this sample, you say or speak on yourself.
+
+493
+00:44:12,800 --> 00:44:13,999
+That's the wrong way to put it.
+
+494
+00:44:14,639 --> 00:44:15,599
+You don't like it.
+
+495
+00:44:15,920 --> 00:44:16,479
+You don't like it?
+
+496
+00:44:17,920 --> 00:44:19,199
+You feel a disequilibrium.
+
+497
+00:44:19,519 --> 00:44:22,720
+Yeah, when I said I'm happy, I just meant attention.
+
+498
+00:44:23,599 --> 00:44:25,040
+Attention, you can say.
+
+499
+00:44:25,039 --> 00:44:26,479
+A disequilibrium.
+
+500
+00:44:26,479 --> 00:44:26,880
+What?
+
+501
+00:44:28,079 --> 00:44:30,639
+Oh, well, then that was a metaphor or something.
+
+502
+00:44:31,200 --> 00:44:32,719
+And don't take me literally.
+
+503
+00:44:32,720 --> 00:44:38,720
+I didn't think that the impersonal body schema was sort of getting out an impersonal handkerchief and my favorite size.
+
+504
+00:44:38,720 --> 00:44:39,360
+Yeah, go ahead.
+
+505
+00:44:39,920 --> 00:44:41,679
+There's paradise already there.
+
+506
+00:44:41,679 --> 00:44:45,520
+So then I recognize that.
+
+507
+00:44:45,999 --> 00:44:57,519
+And you think there's a single difference from a sacredist, then you say that shape and you still feel disequilibrium.
+
+508
+00:44:57,840 --> 00:44:58,800
+Definitely.
+
+509
+00:44:58,800 --> 00:45:05,360
+You feel that you could see it better from over there, and everything else being equal, you'd rather be over there.
+
+510
+00:45:05,360 --> 00:45:08,719
+That's already putting a little too much personal stuff in it.
+
+511
+00:45:09,280 --> 00:45:10,079
+I can say that.
+
+512
+00:45:10,559 --> 00:45:19,680
+Everything else being equal, you'd rather be over there because you're just having, it makes you uneasy because you're sort of blurry and so forth.
+
+513
+00:45:19,679 --> 00:45:21,440
+Well, you could.
+
+514
+00:45:21,440 --> 00:45:24,880
+I think you'd be too busy looking at the sacred Torah to worry about it.
+
+515
+00:45:24,959 --> 00:45:33,920
+It's a constitutive thing, the part of the science that is sacred because it's sacred because you're not completely you're not allowed to go for a good proceeding parent.
+
+516
+00:45:33,920 --> 00:45:34,319
+Right.
+
+517
+00:45:34,639 --> 00:45:42,799
+Okay, but you're always feeling, and but how conscious you are, I guess, of you know, this disequilibrium is a whole other question.
+
+518
+00:45:43,079 --> 00:45:47,039
+I I don't know how to dis say what to say about that.
+
+519
+00:45:47,039 --> 00:45:49,680
+Again, it's a possible paper topic, I imagine.
+
+520
+00:45:49,679 --> 00:45:55,079
+It can be very unnoticed and in the very much in the background.
+
+521
+00:45:55,079 --> 00:45:59,640
+I'll read you a quote in a little while where Merlot Franci says it's in the background.
+
+522
+00:45:59,639 --> 00:46:09,400
+And so you're not noticing it or paying attention to it unless for some funny reason you know it's breaking down for your life.
+
+523
+00:46:11,880 --> 00:46:14,200
+Anyway, normally it's in the background.
+
+524
+00:46:14,999 --> 00:46:15,640
+Yeah.
+
+525
+00:46:16,840 --> 00:46:43,560
+I'm puzzled by this example because I think that in the for if the maximum growth of that object is keeping the tension so that you don't realize yourself as getting closer together adventure group because the object as it's all is to keep it you yeah but that's not a disagreement.
+
+526
+00:46:43,559 --> 00:46:57,320
+That just says there is no you have no feeling that you would want to say oh but I would get it by the group on an if all subject no there is no the the maximum growth on it is on the distance.
+
+527
+00:46:57,639 --> 00:46:59,879
+Well that's that that doesn't feel right to me.
+
+528
+00:47:00,039 --> 00:47:12,360
+You want to say okay once it once you marry no if it's an object would be a little bit suppose you put it in a very dim light and you want to get the light brighter.
+
+529
+00:47:12,360 --> 00:47:13,800
+You're allowed to do that.
+
+530
+00:47:13,800 --> 00:47:20,839
+Suppose you had to watch it from way down there but you were allowed to get up this close but not closer.
+
+531
+00:47:20,840 --> 00:47:22,360
+You'd want to do that.
+
+532
+00:47:22,840 --> 00:47:28,759
+Suppose you were allowed to carry around the Torah on Sampa Torah and you have a right to carry around the Torah.
+
+533
+00:47:28,760 --> 00:47:32,040
+You go, wow, now I've really got a grip on it.
+
+534
+00:47:32,039 --> 00:47:34,840
+So I think the other one is still in the background.
+
+535
+00:47:35,159 --> 00:47:35,719
+Think about it.
+
+536
+00:47:35,720 --> 00:47:36,799
+We talk about it more.
+
+537
+00:47:36,360 --> 00:47:36,959
+Yeah.
+
+538
+00:47:37,440 --> 00:47:47,359
+The cultural situation depends on being a best volume situation.
+
+539
+00:47:47,360 --> 00:47:58,159
+Because the because if you do that, you've not reached the maximal quote scheme, right?
+
+540
+00:47:58,559 --> 00:48:00,880
+That will be respectful to the building.
+
+541
+00:48:01,039 --> 00:48:01,440
+Right.
+
+542
+00:48:01,440 --> 00:48:04,800
+So it it does it depends on the.
+
+543
+00:48:04,880 --> 00:48:13,999
+That's what Olene was sort of saying that if that is said sacred, part of it is that it blocks your natural tendency to get up a certain way.
+
+544
+00:48:16,400 --> 00:48:17,599
+They couldn't be that dependent.
+
+545
+00:48:17,599 --> 00:48:25,200
+So they said, on the one hand.
+
+546
+00:48:25,840 --> 00:48:26,479
+It was surprising.
+
+547
+00:48:26,639 --> 00:48:26,959
+Go ahead.
+
+548
+00:48:27,200 --> 00:48:33,679
+So obviously that means supposedly the police demonstrates it.
+
+549
+00:48:33,920 --> 00:48:34,239
+I see.
+
+550
+00:48:34,240 --> 00:48:35,119
+I see you have to.
+
+551
+00:48:35,360 --> 00:48:41,039
+Otherwise, if it wasn't independent in that kind of point, then the whole thing is.
+
+552
+00:48:44,159 --> 00:48:45,119
+It wouldn't work.
+
+553
+00:48:45,440 --> 00:48:48,159
+It's kind of blocked your tendency to want to pick it up.
+
+554
+00:48:48,159 --> 00:48:48,479
+Yeah.
+
+555
+00:48:54,079 --> 00:48:59,200
+Personal motivations are certainly affected by the culture, so your attention can shift.
+
+556
+00:48:59,200 --> 00:49:03,280
+They're blocked by this impersonal, what am I trying to say?
+
+557
+00:49:03,360 --> 00:49:10,559
+This impersonal ability for maximal grip is being blocked by these personal motivations in this case that are affected by the culture.
+
+558
+00:49:10,559 --> 00:49:10,799
+Yeah.
+
+559
+00:49:10,800 --> 00:49:16,320
+You know, though I like to think of it in terms of this impersonal ability for a maximum grip, you don't have to fulfill this maximum time.
+
+560
+00:49:16,479 --> 00:49:17,360
+But you have to feel.
+
+561
+00:49:17,360 --> 00:49:30,119
+I mean, you have to, because it's this this impersonal thing happening in you, that this tension, this disequilibrium, this unbalance, this pull to see it come over there, you can then override the pull by this culture.
+
+562
+00:49:30,360 --> 00:49:34,440
+I can just write the sacred law that says I should not be close to the Torah.
+
+563
+00:49:34,920 --> 00:49:35,239
+That's right.
+
+564
+00:49:35,240 --> 00:49:36,999
+But that's what we're all saying.
+
+565
+00:49:36,999 --> 00:49:38,599
+And whether we're agreeing about that.
+
+566
+00:49:38,599 --> 00:49:40,360
+Maybe, I don't know if you're not, you might not do this.
+
+567
+00:49:40,519 --> 00:49:41,639
+You think that's the way I'm putting it out?
+
+568
+00:49:41,639 --> 00:49:48,279
+Like your personal motivation in a way blocks this impersonal ability for a maximal grip in this case.
+
+569
+00:49:48,280 --> 00:49:51,639
+Yes, but it blocks doing it.
+
+570
+00:49:51,639 --> 00:50:00,199
+But it doesn't block, it can't, because this impersonal thought and schema saying, boy, this is a tension.
+
+571
+00:50:00,200 --> 00:50:02,120
+I mean, how clearly it says that I don't know.
+
+572
+00:50:02,119 --> 00:50:03,319
+This is an optimal.
+
+573
+00:50:03,320 --> 00:50:05,479
+You'd be better off if I were over there.
+
+574
+00:50:05,479 --> 00:50:07,800
+But, yeah, and you block.
+
+575
+00:50:08,119 --> 00:50:12,679
+Personal motivation causes your attention to shift such that you don't fulfill this ability to get a maximal grip.
+
+576
+00:50:13,559 --> 00:50:16,840
+But I keep going to stress, but it's going to turn out to be very important later.
+
+577
+00:50:18,119 --> 00:50:19,479
+We just don't fulfill it.
+
+578
+00:50:19,479 --> 00:50:21,800
+The important thing to stress is we can just feel it.
+
+579
+00:50:21,800 --> 00:50:28,199
+I mean, the body schema goes right on saying this is an unbalanced, this is a disequilibrium, this is a tension.
+
+580
+00:50:28,360 --> 00:50:30,599
+Yeah, I would be holding over here.
+
+581
+00:50:31,240 --> 00:50:32,679
+This is me.
+
+582
+00:50:33,079 --> 00:50:33,959
+Yes, that's right.
+
+583
+00:50:33,959 --> 00:50:35,959
+That's what distance is, he says.
+
+584
+00:50:35,959 --> 00:50:37,159
+It's the what?
+
+585
+00:50:37,159 --> 00:50:41,479
+The fence that I'm not as close as I would like to be.
+
+586
+00:50:41,479 --> 00:50:42,999
+That's what distance is.
+
+587
+00:50:42,999 --> 00:50:49,800
+And where close means getting a better grip, where the impersonal body schema could get a better grip.
+
+588
+00:50:50,599 --> 00:50:52,280
+Okay, James and then Eric.
+
+589
+00:50:52,999 --> 00:50:58,360
+I mean, would you think about the optimal grip when the Torah would be the one pulled up really well, or were you going to read the writing?
+
+590
+00:50:58,360 --> 00:50:59,959
+Ah, interesting.
+
+591
+00:51:00,840 --> 00:51:03,079
+These are the puzzling things like the bubble gun.
+
+592
+00:51:03,079 --> 00:51:09,679
+The optimal grip on the Torah, depending on whether you were interested, I guess, and now it will help interest you.
+
+593
+00:51:10,240 --> 00:51:13,360
+Ah, but the question is.
+
+594
+00:51:13,519 --> 00:51:15,039
+No, it's the bubble gum example.
+
+595
+00:51:15,039 --> 00:51:15,920
+No, it's just the.
+
+596
+00:51:16,800 --> 00:51:18,800
+I'm trying to go below the level of culture.
+
+597
+00:51:18,880 --> 00:51:19,039
+Right.
+
+598
+00:51:20,800 --> 00:51:21,679
+It's the bubble gum.
+
+599
+00:51:21,679 --> 00:51:23,119
+It's the shifting task example.
+
+600
+00:51:23,440 --> 00:51:25,599
+I'm saying that.
+
+601
+00:51:26,320 --> 00:51:27,279
+You're making it harder.
+
+602
+00:51:28,079 --> 00:51:35,760
+You're running up the temperature of the bubblegum example, which makes it even harder for me to cope with it.
+
+603
+00:51:35,760 --> 00:51:37,920
+I see that that's right.
+
+604
+00:51:38,559 --> 00:52:01,920
+I don't know where this will lead, but I think you have to say, think of the phenomenon, remember, that it's the case that you may be interested in the whole object and its beautiful pace and all that, and then you will feel that you can't get closer and you shouldn't get closer and you're really seeing it as well as you because it requires to be seen when you can't get closer.
+
+605
+00:52:01,920 --> 00:52:03,840
+But you feel all that anyway.
+
+606
+00:52:03,840 --> 00:52:06,160
+But now, suppose you're trying to read it.
+
+607
+00:52:06,159 --> 00:52:12,400
+Well, it seems to me that we never said that you aren't directed by your task.
+
+608
+00:52:12,400 --> 00:52:15,999
+Now, it's just, I still think it's like the bubble gum example, basically.
+
+609
+00:52:15,999 --> 00:52:17,599
+Now your task is to read it.
+
+610
+00:52:17,599 --> 00:52:24,080
+Well, it's got a perceptual page with perceptual print on it, and there's an optimal distance from that.
+
+611
+00:52:24,079 --> 00:52:33,840
+And that doesn't mean that your task has changed the impersonal body schema, which will do the job for you if your task is to see the whole object.
+
+612
+00:52:33,840 --> 00:52:37,280
+It'll do the job for you if your task is to read a page of the object.
+
+613
+00:52:37,280 --> 00:52:40,079
+It'll be, so it's okay, I think.
+
+614
+00:52:40,479 --> 00:52:42,639
+It doesn't challenge the basic points.
+
+615
+00:52:43,840 --> 00:52:48,159
+The writing elements are both equally essential to this being the object, but it is.
+
+616
+00:52:48,159 --> 00:52:55,400
+And I don't think there's any neutral way of describing that one of those two standpoints, one from which you can read, one from which you can see the whole thing, is figurative.
+
+617
+00:52:56,200 --> 00:53:02,440
+There's an optimal grip on whatever is the figure, I think, in your experience.
+
+618
+00:53:02,440 --> 00:53:09,159
+And that happens mostly, or maybe all you probably couldn't say that there's an optimal grip on the object.
+
+619
+00:53:09,159 --> 00:53:10,360
+That's what you're saying.
+
+620
+00:53:10,360 --> 00:53:11,239
+And that's right.
+
+621
+00:53:11,320 --> 00:53:22,680
+I mean, because you can certainly get inside the object, and you get an alternative grip on a house when you see it from the front, and another optimal grip on the house if you see the interior and the furniture.
+
+622
+00:53:22,679 --> 00:53:26,600
+So we shouldn't say that there's not just one optimal.
+
+623
+00:53:26,599 --> 00:53:42,520
+But again, the phenomena says, okay, the important thing is that there's an impersonal body schema which will kick in and stabilize your perceptual experience on the inside of the house or the outside of the house.
+
+624
+00:53:42,519 --> 00:53:45,240
+So we better not say an optimal grip on the house.
+
+625
+00:53:45,240 --> 00:53:50,120
+We better just say your task will determine something is bigger for you.
+
+626
+00:53:50,119 --> 00:53:58,440
+And at that point, your optimal, the optimal stuff in your impersonal body will take over and stabilize.
+
+627
+00:53:58,440 --> 00:53:58,920
+Is that okay?
+
+628
+00:53:59,159 --> 00:54:02,039
+So it is not in the way that we're not.
+
+629
+00:54:02,200 --> 00:54:02,920
+Right, right, right.
+
+630
+00:54:03,400 --> 00:54:04,119
+We're sorting it out.
+
+631
+00:54:04,119 --> 00:54:06,759
+It's relative to the task, what is the figure?
+
+632
+00:54:06,760 --> 00:54:10,760
+And that's part of the existential being in the world aspect of it.
+
+633
+00:54:10,760 --> 00:54:17,320
+But it's also your body has an impersonal task, namely getting an optimal grip.
+
+634
+00:54:17,320 --> 00:54:19,479
+And it's also relative to that.
+
+635
+00:54:19,639 --> 00:54:22,919
+That's also called existential and being in the world.
+
+636
+00:54:22,920 --> 00:54:23,559
+Yeah, Rich.
+
+637
+00:54:23,720 --> 00:54:28,920
+So on the one hand, microphone grip is supposed to accomplish the dirty work of preserving constancy.
+
+638
+00:54:28,920 --> 00:54:29,479
+Yes.
+
+639
+00:54:29,479 --> 00:54:32,599
+And so no one wants to deny that we experience constancies.
+
+640
+00:54:32,599 --> 00:54:43,679
+But we have to distinguish between the constancies that are in the background as opposed to the maximum grip of the particular object that I'm paying attention to, and it's the object of my past.
+
+641
+00:54:44,240 --> 00:54:50,559
+And so we can only shift our past, and no one is saying it when you shift past that the background constancy disappears.
+
+642
+00:54:50,559 --> 00:55:01,440
+It's just that even though, so I don't have a sense of the colors around me changing when I'm shifting past, but then there is a problem getting a maximum grip of the color of this one object.
+
+643
+00:55:01,840 --> 00:55:05,600
+So there's the example of buying a tie in unnatural light.
+
+644
+00:55:05,599 --> 00:55:11,840
+And then to really get a maximum grip of the color of this type, really just looking at it and looking at it next to different things.
+
+645
+00:55:11,840 --> 00:55:13,840
+And then I go outside in sunlight.
+
+646
+00:55:13,840 --> 00:55:19,039
+And then really in the sunlight, you know, if ever there are a maximum grip of the color of this object.
+
+647
+00:55:19,119 --> 00:55:19,920
+That's right.
+
+648
+00:55:20,159 --> 00:55:28,159
+And so even though I don't experience the object is changing color, so even when it's in the background, there's a color constancy.
+
+649
+00:55:28,159 --> 00:55:34,799
+There's still a sense of the maximum grip of the object in the periphery in the backgrounds and the maximum grip that I experienced.
+
+650
+00:55:34,800 --> 00:55:36,079
+That's absolutely right.
+
+651
+00:55:36,079 --> 00:55:37,360
+And I'm going to take that off.
+
+652
+00:55:37,440 --> 00:55:38,959
+So these are two disciplines.
+
+653
+00:55:38,959 --> 00:55:40,559
+Yeah, that's point four.
+
+654
+00:55:40,559 --> 00:55:47,839
+That's because that's related to the issue I said that was important, whether you ever needed to get the maximum grip.
+
+655
+00:55:47,840 --> 00:55:55,840
+And so really, this is the question of whether the true color needs ever to be something you see.
+
+656
+00:55:55,840 --> 00:55:58,240
+Maybe you can't get anywhere that's like to see it in that.
+
+657
+00:55:58,559 --> 00:55:59,759
+That's a separate question, though.
+
+658
+00:56:00,320 --> 00:56:05,520
+For now, I just want to emphasize how it seems like there's a background and the foreground.
+
+659
+00:56:05,519 --> 00:56:08,159
+And I guess there's a question though.
+
+660
+00:56:08,320 --> 00:56:14,079
+On your understanding of maximum grip, is there maximum grip happening all the time, and that's what's preserving us.
+
+661
+00:56:14,360 --> 00:56:16,400
+The the stats of deviation of the one.
+
+662
+00:56:16,400 --> 00:56:16,559
+Yes.
+
+663
+00:56:16,639 --> 00:56:17,759
+And that's in the background.
+
+664
+00:56:17,760 --> 00:56:19,360
+That's why we got all the constancy.
+
+665
+00:56:19,360 --> 00:56:19,679
+Yes.
+
+666
+00:56:19,679 --> 00:56:24,280
+But you also would accept if we just look at a phenomenon that sometimes we are Yes.
+
+667
+00:56:21,039 --> 00:56:28,039
+And in that case it seems like that would be for you that would also be a case of case.
+
+668
+00:56:28,519 --> 00:56:30,999
+What you're saying about I was looking at a thing.
+
+669
+00:56:30,999 --> 00:56:34,199
+I'm like forgetting the distinction between maximum grip and optimal grip.
+
+670
+00:56:34,519 --> 00:56:35,559
+No, I don't think so.
+
+671
+00:56:35,559 --> 00:56:36,440
+I think they're the same.
+
+672
+00:56:36,599 --> 00:56:37,799
+I don't think that's going to help.
+
+673
+00:56:37,800 --> 00:56:42,999
+What Rick is saying is well further there's a new interesting issue there.
+
+674
+00:56:42,999 --> 00:56:44,519
+There are all interesting issues.
+
+675
+00:56:44,519 --> 00:57:01,799
+What that interesting issue is, is that the marrow punch is quite clear, but I won't go and try to grab the page and read it, that the optimal grip is a kind of optimal that takes into account various factors and kind of does a Pareto optimal on them, if you know what that is.
+
+676
+00:57:01,800 --> 00:57:08,360
+I mean it tries to find the position in which you get the most of all of them without getting all of any of them.
+
+677
+00:57:08,360 --> 00:57:28,839
+And now Rick is saying, yes, but you could shift that too if your interest changed, where instead of trying to get the optimal that gets the best combination of seeing the texture, seeing the size, seeing the color, seeing the shape, that you just put them all into trying to optimize one of them.
+
+678
+00:57:28,840 --> 00:57:29,959
+That's what you're saying.
+
+679
+00:57:30,119 --> 00:57:31,479
+And you could do that.
+
+680
+00:57:31,479 --> 00:57:33,320
+And what about that?
+
+681
+00:57:33,320 --> 00:57:34,759
+Well, that's right.
+
+682
+00:57:35,159 --> 00:57:38,600
+And your impersonal schema is going to go on anyway.
+
+683
+00:57:38,599 --> 00:57:40,999
+That's just a a refinement, but it's an interesting one.
+
+684
+00:57:50,840 --> 00:57:58,599
+I think like you shouldn't be privileging like the natural um or natural conception of things and natural things.
+
+685
+00:57:58,599 --> 00:58:15,119
+And when you're talking about maximum grip, you need to take into consideration um human significance if you're doing with respect to our being in the world because it includes all these cultural and human institutions, and that's why it involves everything else, all the biological stuff, all the natural stuff, all the spatial stuff.
+
+686
+00:58:15,599 --> 00:58:17,519
+Well, yeah, I see what you're saying.
+
+687
+00:58:17,519 --> 00:58:22,080
+And I just want to say, for Mero-Ponty, that's interesting that you'll get there.
+
+688
+00:58:22,079 --> 00:58:25,359
+And then he gets to the freaking chapter and the others and so forth.
+
+689
+00:58:25,360 --> 00:58:29,519
+There he is, so to speak, on top of this basic level.
+
+690
+00:58:29,840 --> 00:58:31,999
+All these other, and the basic level is not trans.
+
+691
+00:58:33,039 --> 00:58:36,800
+The impersonal one, this basic level is real.
+
+692
+00:58:36,880 --> 00:58:40,559
+You know, if you're deceiving it to be human, it's going to have great human aspects to you.
+
+693
+00:58:40,720 --> 00:58:45,679
+Well, now that's the point four, but we might as well skip to it because we're going to get it out of the way in a hurry.
+
+694
+00:58:45,679 --> 00:58:55,599
+Point four is, yes, most of the time, this thing looks if you're in a Christian culture as a creature of God, and if you're in Homeric Greece, it looks like something that wooshed up, and so forth.
+
+695
+00:58:55,760 --> 00:59:01,200
+There's a different way things look in each culture, and all kinds of differences.
+
+696
+00:59:01,200 --> 00:59:32,239
+And Merrill-Ponty thinks that, given his sort of top-down holism, most of the time, it's already got not only this impersonal list of stuff, which I get tired of repeating, but it's also got the perceptual, it looks like a creature of God, or it looks like something that wooshed up, or it looks like something that needs nurturing if you're in Athenian Greece, or it looks like subjects and objects if you're us.
+
+697
+00:59:32,479 --> 00:59:34,160
+That's true, all right.
+
+698
+00:59:34,720 --> 00:59:38,400
+But all that Mero-Ponty wants to say two things about that.
+
+699
+00:59:38,400 --> 00:59:49,360
+One, that that presupposes as its basis that you get a stable perceptual object first, and then without that, you can't have it looking like a creature of God or anything else.
+
+700
+00:59:49,360 --> 00:59:56,119
+Second, and this is this funny passage which I said I would get out of the way in a hurry, is the Foster Le Concord comment.
+
+701
+00:59:56,360 --> 01:00:06,119
+I'm going to just skip to it because that will, I just want to do more before you see the phone is not wrong.
+
+702
+01:00:06,200 --> 01:00:06,519
+Yeah, yeah.
+
+703
+01:00:09,159 --> 01:00:10,119
+He goes through sense.
+
+704
+01:00:10,119 --> 01:00:15,320
+He says first he isn't his phone, and then he can change his life with colors and good, good, yeah, yeah.
+
+705
+01:00:15,320 --> 01:00:19,719
+So, um, he's just making a point that all the projections all there.
+
+706
+01:00:19,720 --> 01:00:21,959
+Yes, but that's right.
+
+707
+01:00:21,959 --> 01:00:37,240
+And you, I don't know what you're saying, except probably that the cultural significance is important, and not only is it important what we share with the higher primates and maybe the birds, but it's important that what we share with all human beings, and even more, it's maybe very important what we share with the people in our culture.
+
+708
+01:00:37,720 --> 01:00:38,599
+That's fine.
+
+709
+01:00:39,159 --> 01:00:48,440
+But what interests him is to, because he's writing the book, The Phenomenology of Perception, to get this clear about this impersonal body schema level.
+
+710
+01:00:48,440 --> 01:00:51,720
+And this isn't just because he happens to be interested in that.
+
+711
+01:00:51,720 --> 01:00:57,160
+But he thinks that that's fundamental in the sense that if you don't have that, you can't have the others.
+
+712
+01:00:57,159 --> 01:00:59,799
+And you could have that without having the others.
+
+713
+01:00:59,800 --> 01:01:02,039
+That's just what the wall is supposed to show.
+
+714
+01:01:02,039 --> 01:01:10,600
+It's a philosophical point, not that the gritty wall and the Flashlight are supposed to be as interesting as the book.
+
+715
+01:01:10,599 --> 01:01:16,199
+But that it's a w it's a it's a relation of founding, as Husserl would call it.
+
+716
+01:01:16,200 --> 01:01:20,120
+That is, you can't have any of these others without having this perceptual one.
+
+717
+01:01:20,119 --> 01:01:24,360
+You can have the perceptual one without having the others, although that's a weird case.
+
+718
+01:01:24,360 --> 01:01:29,800
+And you should know that, and it should be philosophically important that there is this basic level.
+
+719
+01:01:29,800 --> 01:01:30,199
+Yeah.
+
+720
+01:01:31,440 --> 01:01:38,320
+Going back to your point of the polygon.
+
+721
+01:01:36,200 --> 01:01:48,720
+So if you say that you get a maximum grid on the figure, then I think you need to get a maximum grid on yourself, which is not the same as very.
+
+722
+01:01:48,959 --> 01:02:05,840
+Maybe, then I shouldn't, we shouldn't maybe say it the way Rich said it, but the phenomena is we can take out and put as a figure on a background some particular natural property of the object, the tie in this case, namely its color.
+
+723
+01:02:05,840 --> 01:02:16,880
+And we do that by focusing on the color and trying to get the optimal for seeing that color, even if the shape of the tie doesn't turn out to be important anymore, or the texture or the material.
+
+724
+01:02:17,360 --> 01:02:22,479
+And those constants will be in the background in the sense that we're not noticing it.
+
+725
+01:02:22,479 --> 01:02:23,999
+And that's all he wants to say.
+
+726
+01:02:24,559 --> 01:02:25,360
+Let me go on.
+
+727
+01:02:25,840 --> 01:02:30,239
+So because one big deal important issue we haven't even gotten to, or maybe two.
+
+728
+01:02:30,240 --> 01:02:31,840
+Let's do the culture first.
+
+729
+01:02:31,840 --> 01:02:33,039
+I think I finished that.
+
+730
+01:02:33,039 --> 01:02:34,400
+Good, I finished that.
+
+731
+01:02:34,800 --> 01:02:37,920
+And you've done the wall in the phosphoron core.
+
+732
+01:02:37,920 --> 01:02:39,760
+Let's say we finish that.
+
+733
+01:02:41,679 --> 01:02:42,559
+That was number three.
+
+734
+01:02:42,639 --> 01:02:47,679
+Can we experience the natural thing alone without any relevance to the task and so forth?
+
+735
+01:02:47,679 --> 01:02:49,680
+Merrill Ponty's answer is yes.
+
+736
+01:02:49,679 --> 01:02:53,759
+And that's important mainly because of this notion of foundationalness.
+
+737
+01:02:54,240 --> 01:03:09,360
+Now, there's another whole big important issue that I raised, and it's been in the background of this discussion, that we got to get it into the foreground, though I didn't worry too much about the time because it's something that Sean is a specialist on, and it will come up again.
+
+738
+01:03:09,360 --> 01:03:11,519
+But I think we should start thinking about it.
+
+739
+01:03:11,519 --> 01:03:20,080
+Do we need to experience the maximum grip to experience stable objects as having a constant size and shape and color?
+
+740
+01:03:20,079 --> 01:03:30,999
+Because we can only experience this constant if we experience the current one, the current way it looks, as deviations from the optimal.
+
+741
+01:03:30,999 --> 01:03:31,959
+See the problem.
+
+742
+01:03:32,200 --> 01:03:42,679
+Don't you have to know what the thing looks like at its best, so to speak, in order to experience it as not as clear as it should be?
+
+743
+01:03:42,679 --> 01:03:49,479
+That I get a clearer view over there, that I could see this shape better from over here, that I could, and so forth.
+
+744
+01:03:49,639 --> 01:04:00,040
+Don't you have to have already had an experience of the optimal, maximal, whatever, I think there's no difference there, the optimal look of it.
+
+745
+01:04:00,039 --> 01:04:12,279
+A look of it in which you don't feel, let's describe that optimal, any tension, any unbalance, any pull to be anywhere else, or to change the lighting.
+
+746
+01:04:12,280 --> 01:04:19,080
+The lighting is just the right brightness, the lighting is just the right color, you're just the right distance, and it just feels fine.
+
+747
+01:04:19,079 --> 01:04:25,720
+You could have such an experience, but do you have to have such an experience to get the sense of deviation from it?
+
+748
+01:04:25,720 --> 01:04:33,959
+Well, that's a tough one, but the answer has got to be no, because it would have weird results otherwise.
+
+749
+01:04:34,679 --> 01:04:43,160
+If you just didn't happen to have ever had the optimal experience of the such and such, you couldn't have a stable experience of the such and such.
+
+750
+01:04:44,039 --> 01:04:51,959
+But then you get this funny question, but how do you know what the optimal is if you never had an experience of it?
+
+751
+01:04:51,959 --> 01:04:57,800
+So you can understand, feel your present experience is not as good as it could be.
+
+752
+01:04:57,800 --> 01:05:11,199
+I guess the answer to that is supposed to be, and that's why I think it's so interesting and important, the impersonal corporal schema knows somehow it's got in it a whole understanding of the world already.
+
+753
+01:05:11,440 --> 01:05:18,079
+And then therefore it's got an understanding of what this object would look like from the optimal, even if it's never seen it from the optimal.
+
+754
+01:05:18,079 --> 01:05:22,640
+Olivia has not even re encouraged me because it seems like an outrageous thesis.
+
+755
+01:05:22,639 --> 01:05:36,560
+But I think Merlopon T would just say that, look, that's how it has to be, because we know that people can experience stable objects with stable shapes and properties and colors and all that, who will never see them under the optimal conditions.
+
+756
+01:05:36,559 --> 01:05:58,959
+And therefore, we can know that our mind schema has already got built into it this prehistory, before we were ever born already, of an understanding of the properties of natural objects and how they would look from wherever, even if you've never seen them from wherever.
+
+757
+01:05:58,959 --> 01:06:00,319
+That's built in.
+
+758
+01:06:00,320 --> 01:06:01,359
+It's amazing.
+
+759
+01:06:01,360 --> 01:06:02,400
+And true problems.
+
+760
+01:06:02,400 --> 01:06:02,639
+Yeah.
+
+761
+01:06:05,200 --> 01:06:06,159
+The norms, right?
+
+762
+01:06:08,479 --> 01:06:08,639
+Right.
+
+763
+01:06:09,360 --> 01:06:09,679
+Right.
+
+764
+01:06:09,840 --> 01:06:13,920
+You seem like supposing that we have to represent the ideal situation.
+
+765
+01:06:14,240 --> 01:06:14,719
+That's right.
+
+766
+01:06:14,720 --> 01:06:18,079
+And that seems in general when we talk about norms.
+
+767
+01:06:19,679 --> 01:06:30,719
+We think that you follow a rule and try to get things right without necessarily representing what the rule is.
+
+768
+01:06:30,720 --> 01:06:32,320
+Or what the idea is we get it.
+
+769
+01:06:32,320 --> 01:06:32,800
+Right.
+
+770
+01:06:33,280 --> 01:06:37,280
+Do we have to have a description or an experience of what it would be to get it right?
+
+771
+01:06:37,280 --> 01:06:45,440
+You don't seem to need a general description of what it would be to give advice in order to be governed by 10 mega senten mainstays getting advice in general.
+
+772
+01:06:45,440 --> 01:06:45,839
+Right.
+
+773
+01:06:45,839 --> 01:06:47,919
+But I'm not sure we're saying the same thing.
+
+774
+01:06:47,919 --> 01:06:51,199
+But let me say what I think is, to me, the important thing.
+
+775
+01:06:52,200 --> 01:06:53,719
+Where am I in Christology?
+
+776
+01:06:54,040 --> 01:06:59,320
+It took pages to say it, but I'm going to try to do it in brief because Sean will do it anyway.
+
+777
+01:07:00,919 --> 01:07:12,199
+So, this is, by the way, what I'm telling you now is the sense in which the body contains the logos of the world, the key for unlocking all experiences, even before you've had it.
+
+778
+01:07:12,200 --> 01:07:17,239
+And the point is that you don't need to experience the maximum grip.
+
+779
+01:07:17,240 --> 01:07:23,320
+What you always experience is the more or less deviation from the maximum.
+
+780
+01:07:23,639 --> 01:07:33,799
+And thanks to the way the body schema already has an understanding of the world, it gives you an answer that this is the best, or it would be better over there.
+
+781
+01:07:33,799 --> 01:07:39,239
+It gives you attention and sense of unbalance, or it doesn't.
+
+782
+01:07:39,240 --> 01:07:50,999
+I was just wrong when I said that you had to experience the maximum grip in order to experience the constants that are related to them.
+
+783
+01:07:51,320 --> 01:07:53,479
+It's just not so.
+
+784
+01:07:53,479 --> 01:08:00,119
+And the clearest quote to where it's not so is on 350, which Sean picks out and makes a big fuss about.
+
+785
+01:08:00,440 --> 01:08:03,959
+And I'm going to refer you to that.
+
+786
+01:08:03,960 --> 01:08:05,719
+It gives a sense.
+
+787
+01:08:05,719 --> 01:08:07,400
+No, no, wait, the real color.
+
+788
+01:08:07,400 --> 01:08:07,959
+Yeah.
+
+789
+01:08:08,280 --> 01:08:08,759
+Oh, yeah.
+
+790
+01:08:08,759 --> 01:08:10,919
+Okay, yes, it's about five lines down.
+
+791
+01:08:10,919 --> 01:08:12,360
+The real color.
+
+792
+01:08:12,839 --> 01:08:30,200
+Take Rick's story about the tie and the fact that you may never have seen the real color in the sense that, only in this peculiar sense now, that you never see the color under optimal conditions, the lighting, but yet you see the real color.
+
+793
+01:08:30,200 --> 01:08:32,999
+You saw the real color all along.
+
+794
+01:08:33,000 --> 01:08:37,839
+Because the real color isn't the color that you experience when you see it optimally.
+
+795
+01:08:38,160 --> 01:08:49,199
+The real color is what is in the background, giving you the experience that all the experiences you've had of that color so far are not optimal.
+
+796
+01:08:49,200 --> 01:08:54,479
+It gives you the sense of I could see it even better from there and see it even better from there.
+
+797
+01:08:54,479 --> 01:08:59,280
+Just to have that experience is already to, that is to see the real color.
+
+798
+01:08:59,280 --> 01:09:05,679
+You never have to see the optimal color in order to sense deviations from the optimal.
+
+799
+01:09:05,679 --> 01:09:10,079
+And as long as you're sensing deviations from the optimal, you're seeing the real color.
+
+800
+01:09:10,080 --> 01:09:14,959
+This is said on page seven, oh, sorry, line seven of 356.
+
+801
+01:09:14,960 --> 01:09:20,320
+The real color persists beneath appearances as the background beneath the figure.
+
+802
+01:09:20,320 --> 01:09:27,759
+That is not as a scene or thought of quality, but through a non-sensory presence.
+
+803
+01:09:28,080 --> 01:09:36,479
+Well, the non-sensory presence is the tension, is the feeling of unbalance, is the sense that I could see it even better over there.
+
+804
+01:09:36,479 --> 01:09:39,440
+As soon as you've got that, you've already seen it.
+
+805
+01:09:39,440 --> 01:09:42,559
+You already have seen the optimal color.
+
+806
+01:09:42,559 --> 01:09:45,919
+I don't know how that's going to work with the tide, but it's supposed to work with the tie.
+
+807
+01:09:46,000 --> 01:09:52,400
+I just suggest, Brad, that you don't actually see the real color, that the real color is in a non-sensory effect.
+
+808
+01:09:52,639 --> 01:09:53,599
+Well, that's right.
+
+809
+01:09:53,599 --> 01:09:54,160
+That's good.
+
+810
+01:09:54,160 --> 01:09:55,119
+That's important.
+
+811
+01:09:55,120 --> 01:09:55,519
+Yes.
+
+812
+01:09:56,400 --> 01:09:57,040
+Okay, good.
+
+813
+01:09:57,040 --> 01:09:59,039
+Now you made the right distinction.
+
+814
+01:09:59,360 --> 01:10:04,799
+The complication, I've got, I mean, I'm trying to say everything at once, and that's a problem.
+
+815
+01:10:04,799 --> 01:10:19,440
+There's the real color in the sense that we, that is tied up with the optimal grip story that counts for all the deviations, is a color that you never see.
+
+816
+01:10:19,440 --> 01:10:21,719
+Like a magnet underneath talking human.
+
+817
+01:10:21,280 --> 01:10:22,200
+Right.
+
+818
+01:10:22,440 --> 01:10:32,199
+It's what is the nearest you come to ever seeing the real color is seeing the color in a way that you don't feel any tension anymore.
+
+819
+01:10:32,200 --> 01:10:44,599
+Now, that's then see there are two senses of optimal seeing the color because you can the color the red tie in the optimal conditions.
+
+820
+01:10:44,599 --> 01:10:53,079
+And that means when the lighting is right, and that means basically when you don't feel any tension and that there's any place from which you could see it better.
+
+821
+01:10:53,719 --> 01:11:00,759
+But that's not the sort of optimal color that Merloponte is interested in.
+
+822
+01:11:00,759 --> 01:11:06,519
+The optimal color Merloponte is interested in is there whether you ever get that experience or not.
+
+823
+01:11:06,519 --> 01:11:10,759
+That is, whether you ever get the color in the best conditions.
+
+824
+01:11:11,080 --> 01:11:25,559
+The optimal color is there in the background, drawing you to get the optimal experience and to not be satisfied without it, whether you ever get it head on, whether you ever get the optimal color in the other sense.
+
+825
+01:11:25,559 --> 01:11:38,519
+Now, I could read you passages, and if John doesn't, I will, in which you can see that Merlot Ponty seems to be confused about this, in that sometimes he seems to be, I think he is confused about it.
+
+826
+01:11:38,519 --> 01:11:52,999
+Sometimes he's, well, look at 370 and 371 is a place where you can, where he seems to say that the optimal is the maximum richness, whereas I just read you the passage from 356 where he says the optimal is the color.
+
+827
+01:11:53,160 --> 01:11:57,160
+There's always been the maximum between the real color we're getting in the background.
+
+828
+01:11:56,719 --> 01:11:56,879
+Right.
+
+829
+01:11:57,040 --> 01:12:01,799
+The optimal color, which is just kind of interesting.
+
+830
+01:12:01,799 --> 01:12:03,639
+Keep your eye open to that.
+
+831
+01:12:03,960 --> 01:12:08,160
+I think so the real color is the same as the optimal color.
+
+832
+01:12:06,200 --> 01:12:11,519
+I think the optimal color is itself ambiguous.
+
+833
+01:12:11,839 --> 01:12:19,360
+I think the optimal color is the name for what's pulling you toward lack of any tension.
+
+834
+01:12:19,360 --> 01:12:25,599
+But it's also the name for what you get when you, what you see when you get to the place where there's no tension.
+
+835
+01:12:25,599 --> 01:12:26,799
+But you're right.
+
+836
+01:12:26,799 --> 01:12:28,159
+I'm only claiming this.
+
+837
+01:12:28,160 --> 01:12:34,799
+But look at here's a place of 371 where it's clear that the optimal is the maximum grip.
+
+838
+01:12:34,799 --> 01:12:37,280
+But look at this, how confusing it is.
+
+839
+01:12:37,679 --> 01:12:41,039
+Rich, just what you're saying, what I would want to say too.
+
+840
+01:12:41,040 --> 01:12:47,360
+He says, I run through appearances and reach the real color or the real shape when my experience is at its maximum.
+
+841
+01:12:47,360 --> 01:12:49,440
+See how that messes up what you just said.
+
+842
+01:12:49,440 --> 01:12:52,400
+Well, no, because it's not the real color.
+
+843
+01:12:52,719 --> 01:12:53,599
+Ah, I see.
+
+844
+01:12:53,599 --> 01:12:54,719
+That's what you want to say.
+
+845
+01:12:54,719 --> 01:12:55,919
+Good, let me go on.
+
+846
+01:12:55,919 --> 01:13:01,119
+So the experience will reach a degree of clarity, a maximum richness.
+
+847
+01:13:01,120 --> 01:13:04,639
+And then that will be a culmination, an optimum balance.
+
+848
+01:13:04,639 --> 01:13:07,119
+I'm just skimming through the paragraph.
+
+849
+01:13:07,120 --> 01:13:12,959
+It's my full coexistence with the phenomenon at the moment, then it's maximum articulation.
+
+850
+01:13:12,960 --> 01:13:20,639
+Okay, that's but then that is the problem, because he's calling that the real color.
+
+851
+01:13:20,960 --> 01:13:25,759
+And that real color is this maximum clarity story, right?
+
+852
+01:13:25,759 --> 01:13:28,159
+But those are now in 356.
+
+853
+01:13:28,160 --> 01:13:29,999
+But the color doesn't get clarity.
+
+854
+01:13:30,000 --> 01:13:30,959
+The colour is just bad.
+
+855
+01:13:30,960 --> 01:13:31,919
+It's just real.
+
+856
+01:13:31,919 --> 01:13:33,919
+You get a clear colour.
+
+857
+01:13:34,160 --> 01:13:41,599
+Okay, but you, I see, you get a maximum experience of the color when, well, when there's no tension and so forth.
+
+858
+01:13:42,919 --> 01:13:45,999
+But the the but the real color is not.
+
+859
+01:13:47,200 --> 01:13:49,839
+All I originally wanted to do is correct into a real color?
+
+860
+01:13:49,919 --> 01:13:50,200
+Yeah.
+
+861
+01:13:51,160 --> 01:13:51,959
+Oh, I see.
+
+862
+01:13:50,000 --> 01:13:53,160
+Well but there's a lot in there.
+
+863
+01:13:53,400 --> 01:13:54,999
+It says real color, right?
+
+864
+01:13:55,000 --> 01:14:03,879
+And but the real color, and I you think that that's not the same as the optimal, but here on top of 371, the real color is my experience.
+
+865
+01:14:04,280 --> 01:14:04,440
+Yeah.
+
+866
+01:14:06,599 --> 01:14:06,759
+Yeah.
+
+867
+01:14:07,639 --> 01:14:11,400
+There's more than one situation in which you might increase zero tension with the tie.
+
+868
+01:14:11,400 --> 01:14:24,440
+If you're buying the tie, if you were at work and there's lots of windows in your office, so you've been to lots of denser light, you want to take it outside to see what color it is, but if you're buying it to where the dinner parties where you're going to be indoors all the time, the tension will be at zero when you're in the store.
+
+869
+01:14:24,440 --> 01:14:25,079
+No.
+
+870
+01:14:25,080 --> 01:14:26,440
+No, I mean, no, no, no, no, no.
+
+871
+01:14:26,440 --> 01:14:29,799
+That would get that would get to trump the impersonal body schema.
+
+872
+01:14:30,679 --> 01:14:31,799
+It'll be impersonal.
+
+873
+01:14:32,440 --> 01:14:35,639
+So it has to be anyone, not just anyone in the store or out.
+
+874
+01:14:35,639 --> 01:14:51,320
+There's one level at which, and maybe it's wrong, but the body schema has built into it a sense of what the optimal color is, and even if you never experience it, you're experiencing all these deviations from it.
+
+875
+01:14:51,320 --> 01:14:53,160
+Now, I submit we have to stop it.
+
+876
+01:14:53,160 --> 01:15:05,959
+I mean, I do keep your eyes open now in this chapter, but I submit that to these confused in a way that's not horrible as long as you keep it straight, between two senses of the real color.
+
+877
+01:15:05,960 --> 01:15:15,879
+What you experience when there is no tension and you have an optimal grip could be called the real color.
+
+878
+01:15:15,879 --> 01:15:24,440
+Or what gives you a sense that wherever you are, these are the optimal grip could be called the real color.
+
+879
+01:15:24,440 --> 01:15:33,639
+And even if you never experience it, it's what you are always experiencing yourself as either far from or near from or at.
+
+880
+01:15:33,639 --> 01:15:36,440
+And that could be something you never experience.
+
+881
+01:15:36,719 --> 01:15:38,239
+Both are there.
+
+882
+01:15:38,240 --> 01:15:41,360
+And both we just keep in mind the phenomena.
+
+883
+01:15:41,360 --> 01:15:47,919
+It's true that some optimal color is guiding you impersonally all the time whether you ever see it or not.
+
+884
+01:15:47,919 --> 01:15:51,280
+And you can call that the real color in the background.
+
+885
+01:15:51,280 --> 01:16:00,959
+Or some color is the color you get when you get the best lighting conditions and distance conditions and everything that your impersonal body schema knows are the right ones.
+
+886
+01:16:00,960 --> 01:16:05,119
+And then you see the color, you can call that the real color.
+
+887
+01:16:05,120 --> 01:16:13,919
+I think that it's more interesting to call the real color the thing in the background that you never need to experience, because that's what's doing the impersonal job.
+
+888
+01:16:14,799 --> 01:16:18,479
+That's what the body schema is operating off of and giving you.
+
+889
+01:16:18,479 --> 01:16:23,280
+The other is just good luck if you happen to see it when you need to see it in its best.
+
+890
+01:16:23,519 --> 01:16:29,759
+Okay, now you're prepared to read this chapter on the thing looking for these important questions.
+
+891
+01:16:29,759 --> 01:16:30,240
+That's it.
+
+892
+01:16:30,240 --> 01:16:31,440
+Have a good vacation.

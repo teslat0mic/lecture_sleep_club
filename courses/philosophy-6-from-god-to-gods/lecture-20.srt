@@ -1,0 +1,3176 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:18,400
+I went very fast, too fast, last time, over Virgil's explanation in the middle of the poem of the whole moral layout of the poem and the evidence that Dante really understood that that was wrong.
+
+2
+00:00:18,400 --> 00:00:40,239
+Not totally wrong, but as I keep saying, correct but not true, by which I mean Virgil saying things that correspond roughly to moral distinctions, which are not out of line much with the Christian distinctions, but nonetheless, pretty different, uh I'm going to come back.
+
+3
+00:00:40,239 --> 00:00:55,319
+I decided that the way to do things was to be sure we finished all of the purgatory so that but this today and be ready to go on to the Paradiso next Tuesday, because we only have Tuesday and Thursday to finish the Divine Comedy.
+
+4
+00:00:55,640 --> 00:01:04,360
+And when I finish what I want to say about the rest of the Paradiso, I'll go back to the middle of the paradiso, keep me straight.
+
+5
+00:01:04,359 --> 00:01:17,560
+When I finish what I want to say today about the purgatory, I'll go back to the middle of the purgatory, which is the middle of the whole poem, which is where Virgil explains everything and goes wrong.
+
+6
+00:01:17,560 --> 00:01:23,639
+It's not absolutely clear whether Dante knows he goes wrong or not, and I'll talk about that.
+
+7
+00:01:23,640 --> 00:01:50,119
+I've already been mentioning that there's the sort of impossible job of being an articulator when what you're trying to articulate, namely this new revelation that Jesus has brought to the culture, in the categories, the concepts, the definitions, and all that of the Greeks, either Plato or Aristotle or Stoics or a kind of mixture of all of that.
+
+8
+00:01:50,120 --> 00:02:05,479
+So poor Dante has got, on the one hand, the Troubadours with their view about total love, which is somewhat related to what Jesus was going around saying according to the New Testament.
+
+9
+00:02:05,479 --> 00:02:09,079
+And then we've got, but Dante also reads and is impressed by St.
+
+10
+00:02:09,080 --> 00:02:13,400
+Thomas Aquinas, who's trying to map the whole thing onto Aristotle.
+
+11
+00:02:13,400 --> 00:02:18,120
+And so I think, I just don't know how confused Dante is.
+
+12
+00:02:18,120 --> 00:02:26,199
+Rereading it again this year, I get confused about trying to figure out, does he understand here?
+
+13
+00:02:25,919 --> 00:02:28,039
+Here, I'm just saying things that are on my mind.
+
+14
+00:02:28,039 --> 00:02:48,639
+I wasn't going to start with this, but what's bothering me right now, and you can keep an eye open for it, is the relation between the three stars and the four stars, which are talked about in the middle of the poem, which you see, and the four stars are setting and the three stars are rising in the middle of the poem.
+
+15
+00:02:48,639 --> 00:03:11,760
+To begin with, you've got to say that allegorically, that is symbolically, the four stars stand for the four classic antique time of Plato and Aristotle virtues, which were wisdom, courage, justice, and temperance.
+
+16
+00:03:11,760 --> 00:03:30,640
+And temperance is the big problem, because temperance says, particularly the way Virgil understands it, from a Stoic angle, never let yourself get too excited and upset about anything and never desire anything too intensely because nothing can really satisfy you.
+
+17
+00:03:30,640 --> 00:03:35,679
+And the three stars are faith, hope, and love.
+
+18
+00:03:35,680 --> 00:03:40,960
+The Christian verdict has been going up purgatory, the way the astronomy works.
+
+19
+00:03:40,960 --> 00:03:45,039
+The four stars are dropping out, and Virgil is dropping out.
+
+20
+00:03:45,039 --> 00:03:46,640
+We'll talk about that today.
+
+21
+00:03:46,640 --> 00:03:49,520
+And the three stars are becoming prominent.
+
+22
+00:03:49,520 --> 00:03:50,880
+So far, so good.
+
+23
+00:03:51,200 --> 00:04:20,359
+The important question, I think, this year anyway, is when you want to understand Dante as articulator and his problem, is it the case that the four stars are, is there a kind of layer cake view of the relation of antiquity and those pagans to the Christians, where the pagan virtues are all correct, they just don't cover the whole thing.
+
+24
+00:04:20,080 --> 00:04:26,359
+And after you've got courage, temperance, wisdom, and justice, you have to add faith, hope, and love.
+
+25
+00:04:26,999 --> 00:04:30,200
+That's the wrong way to think about it, it seems to me.
+
+26
+00:04:30,200 --> 00:04:48,360
+And I'll try to argue how today Dante sort of runs full glass into the wrong way to think about it, which is the interesting way to think about it, which is that love trumps everything and transforms everything so that the four virtues aren't even virtues anymore after Christianity comes along.
+
+27
+00:04:48,359 --> 00:04:50,599
+We can see it most clearly in temperance.
+
+28
+00:04:50,599 --> 00:05:02,439
+Temperance isn't a virtue in a religion where ecstatic oral devotion is the best thing you can do.
+
+29
+00:05:02,440 --> 00:05:14,439
+And whenever Virgil talks about temperance, it was either on the circle of heretics in the Inferno or in the circle of sloth in the purgatory.
+
+30
+00:05:14,440 --> 00:05:19,159
+And the punishment is always people running around trying to get excited.
+
+31
+00:05:19,159 --> 00:05:29,319
+And being excited is what comes out of the Christian story, being ecstatic, being totally, highly, emotionally involved.
+
+32
+00:05:29,320 --> 00:05:33,880
+So the moral is either you go with St.
+
+33
+00:05:33,880 --> 00:05:45,880
+Thomas and believe that the four stars are still around, and then you just add the three Christian virtues, all of them very irrational and very different in terms of hope, love.
+
+34
+00:05:45,879 --> 00:05:52,199
+And you either think that the four stars are just gone now, and there are three big, better stars.
+
+35
+00:05:52,200 --> 00:05:54,440
+And sometimes Dante seems to write that way.
+
+36
+00:05:54,440 --> 00:06:00,600
+And then just when you think, boy, he's got it, the three stars have replaced the four stars, the four stars are still around.
+
+37
+00:06:00,599 --> 00:06:04,039
+They're just taking up a rather minor position.
+
+38
+00:06:04,039 --> 00:06:04,840
+That's the St.
+
+39
+00:06:04,840 --> 00:06:05,320
+Thomas.
+
+40
+00:06:05,440 --> 00:06:17,280
+So now I think of Dante as the four articulator caught between the the the s the bot the Bible articulation of what Jesus was doing and St.
+
+41
+00:06:17,359 --> 00:06:29,280
+Paul's which we don't read which was the one who made the big fuss about faith hope and love so Dante's caught between that and the the Thomistic stuff that St.
+
+42
+00:06:29,359 --> 00:07:52,680
+Thomas has worked out using Aristotle and he's in a hopeless mess so that when he tries to explain all this it just doesn't add up and in a way that's interesting too it occurs to me in a way he's a funny kind of articulator who articulates the mess but not the normal job okay that's what I want to get back to either at the end of the whole discussion of the divine comedy or at the end of today but I you should keep your eyes open all the time for the question is Virgil getting Christianity right is if he isn't getting it right does Dante understand that he isn't getting it right this is so hard to keep clear about but there's some things that's easy to keep clear so let's switch to that for now so we are now ready to go to the top of purgatory the top of purgatory is as usual the nicest and most fun because that's always the lovers the lovers are at the top of the inferno because they're the least bad because they've got the wrong desires, but they have turned against go and tried to cut down their desires or to reject God or reject God's creation and so forth and but they but they've got they've unfortunately put each other in the place of God.
+
+43
+00:07:50,479 --> 00:07:58,280
+They've totally, they are totally devoted to each other, Powell and Francesca.
+
+44
+00:07:58,279 --> 00:08:01,000
+Well, now, and they're just stuck like that.
+
+45
+00:08:01,320 --> 00:08:03,240
+That's what it is to be in the inferno.
+
+46
+00:08:03,239 --> 00:08:14,679
+But in the purgatory, you expect a punishment which is to reverse the crime, which looks like a kind of Nicky Mouse stupid thing to do in the inferno.
+
+47
+00:08:14,680 --> 00:08:19,879
+Why would you sort of put people into the eternally reversal of their crime?
+
+48
+00:08:19,879 --> 00:08:25,400
+Remember the crazy things like cutting seismatics in half and turning fortune tellers around?
+
+49
+00:08:25,399 --> 00:08:28,040
+I realize that fortune tellers, we still have them.
+
+50
+00:08:28,040 --> 00:08:36,040
+They're now called futurologists, and companies pay them lots of money to predict, give them scenarios about the future.
+
+51
+00:08:36,040 --> 00:08:39,720
+Dante would put them in hell, and I think that might be a good idea.
+
+52
+00:08:39,720 --> 00:08:46,680
+But I think turning their heads around so that they have to walk in a direction they can't see.
+
+53
+00:08:47,320 --> 00:08:55,800
+You could see how that's sort of fitting if you hate futurologists, but it's certainly not very illuminating about their condition or state of mind.
+
+54
+00:08:55,799 --> 00:09:04,200
+So now you'd expect, in the purgatory, also punishments which seem to reverse the crime.
+
+55
+00:09:04,200 --> 00:09:07,080
+But I said this last time, and it's important to remember.
+
+56
+00:09:07,080 --> 00:09:13,720
+You expect here punishments that reverse the crime in the way that if you're an addict, you diet.
+
+57
+00:09:13,720 --> 00:09:19,480
+And that is, you do some, if you're prideful, you walk around and bent over.
+
+58
+00:09:19,479 --> 00:09:29,160
+And if you're a glutton, you, well, that's why I said, you abstain from the food that you find so attractive.
+
+59
+00:09:29,160 --> 00:09:30,680
+So, what do these lovers do?
+
+60
+00:09:30,680 --> 00:09:32,040
+Do you remember?
+
+61
+00:09:32,359 --> 00:09:47,359
+For one thing, there seem to be, and that's sort of nice, homosexual lovers and heterosexual lovers, with Dante making no particular distinction between them and seeming to know a lot of the homosexual lovers who are fellow poets of his.
+
+62
+00:09:47,680 --> 00:10:04,640
+And they aren't, I mean, apparently the homosexual lovers in the Inferno were cruising around in groups, whereas these seem to be pairs, monogamous partner lovers.
+
+63
+00:10:04,639 --> 00:10:19,040
+And when they're monogamous partner lovers, Dante doesn't separate them or condemn them, which is very radical and original of him, since the church then and now condemns the homosexual lovers as unnatural.
+
+64
+00:10:19,040 --> 00:10:24,560
+Dante just thinks the promiscuity is unnatural and puts them in hell.
+
+65
+00:10:24,560 --> 00:10:26,400
+So, what is the punishment of the lovers?
+
+66
+00:10:26,399 --> 00:10:27,760
+Do you remember?
+
+67
+00:10:27,759 --> 00:10:29,120
+Anybody?
+
+68
+00:10:29,759 --> 00:10:32,080
+Well, you can make it up, sort of.
+
+69
+00:10:32,400 --> 00:10:44,480
+They're walking around in these circles in which some are going this way and some are going this way, and when they cross their lover, they have only a very brief kiss, and then they go on.
+
+70
+00:10:44,479 --> 00:10:47,680
+That's the reversal kind of story.
+
+71
+00:10:47,999 --> 00:10:55,120
+So I say in here, look back at page 257.
+
+72
+00:10:55,359 --> 00:10:57,280
+Why 257?
+
+73
+00:10:57,599 --> 00:10:58,560
+Oh, I see.
+
+74
+00:10:58,560 --> 00:11:01,119
+Oh, yeah, there's two other, there's another issue.
+
+75
+00:11:01,119 --> 00:11:03,359
+I really took it up more.
+
+76
+00:11:03,359 --> 00:11:07,200
+Oh, let's go to 265 because that completes what I am just saying.
+
+77
+00:11:07,200 --> 00:11:16,160
+On 265, which is Canto 26, which at line 31, what does Dante see?
+
+78
+00:11:16,160 --> 00:11:26,680
+He says, I saw them hurrying from either side, and each shade kissed another without pausing, each for the briefest greeting, by the briefest greeting, satisfied.
+
+79
+00:11:27,239 --> 00:11:32,039
+So that's the reversal.
+
+80
+00:11:32,680 --> 00:11:45,080
+They were trying to get over their total addiction, adoration of each other, and get it to be appropriate, which is to be strong but not total.
+
+81
+00:11:45,080 --> 00:11:50,200
+So, and now we have to ask, and what's Dante's relation to this?
+
+82
+00:11:50,519 --> 00:12:03,480
+Given that he's a complete Beatrice fanatic whose whole life spent writing poems to Beatrice and writing this poem like no one has ever written about their girlfriend before, as he says.
+
+83
+00:12:03,479 --> 00:12:08,520
+And so, well, Dante's relation to it is just what you'd expect.
+
+84
+00:12:09,320 --> 00:12:14,760
+He's very, talk about punishments that he's in danger of going into.
+
+85
+00:12:14,759 --> 00:12:18,840
+Remember, I said anger, which you didn't read, but he's a very angry guy.
+
+86
+00:12:18,840 --> 00:12:23,479
+But also, he was too involved with Paul and Francesca.
+
+87
+00:12:23,720 --> 00:12:25,879
+He was too involved with his old teacher.
+
+88
+00:12:25,879 --> 00:12:31,160
+I mentioned that again, who was homosexual, and Dante gets right into the punishment with him.
+
+89
+00:12:31,160 --> 00:12:40,599
+He was too involved with Odysseus, and so she almost fell into the punishment because he's so tempted by the idea that you should explore new worlds.
+
+90
+00:12:40,599 --> 00:12:54,440
+And now, here he is, of course, in real trouble on this level, and 257, which is Canto 25, which is line 112.
+
+91
+00:12:54,759 --> 00:12:56,999
+Here, now he's describing the situation.
+
+92
+00:12:56,999 --> 00:13:05,680
+Here, from the inner wall, flames blast the ledge, while from the floor, an air blast bends them back, leaving one narrow path along the edge.
+
+93
+00:13:05,160 --> 00:13:09,840
+This path we were forced to take as best we might in single file.
+
+94
+00:13:10,160 --> 00:13:15,040
+And there I was, the flames to the left of me and the abyss to the right.
+
+95
+00:13:15,040 --> 00:13:23,840
+My leader said, that's Virgil, in this place it's clear we must all keep a tight rein on our eyes to take a false step will be easy here.
+
+96
+00:13:23,840 --> 00:13:26,399
+Well, that's the way.
+
+97
+00:13:26,399 --> 00:13:36,480
+That's the warning that Dante, in his relation to Beatrice, is also in danger of taking a false step.
+
+98
+00:13:36,479 --> 00:13:43,680
+And he does go into the purifying flames.
+
+99
+00:13:44,320 --> 00:13:47,279
+There on page 266.
+
+100
+00:13:47,359 --> 00:13:49,680
+Don't know where I went, 266.
+
+101
+00:13:49,680 --> 00:13:51,119
+266.
+
+102
+00:13:52,239 --> 00:13:57,519
+Okay, the soul is asking Dante about line 64 on 266.
+
+103
+00:13:57,840 --> 00:14:02,399
+This is a different issue, but it's, remember we talked about Dante.
+
+104
+00:14:03,040 --> 00:14:05,119
+Oh, there are too many issues in my head now.
+
+105
+00:14:05,119 --> 00:14:06,320
+This is back.
+
+106
+00:14:09,440 --> 00:14:21,119
+Dante's in danger there, but the issue is also: remember that whether this is a poem for everybody, or is this a poem that is supposed to teach Dante something, edifying for him?
+
+107
+00:14:21,119 --> 00:14:35,040
+And I had the discussion with him about whether it's whether one finds oneself in the dark woods and it's a poem for everybody who gets lost sooner or later in their life, or whether it's specifically a poem about what Dante has to learn.
+
+108
+00:14:35,040 --> 00:14:37,760
+And it's somehow both, though it's hard to put them together.
+
+109
+00:14:37,759 --> 00:14:44,560
+But he explains here at the bottom of 266 that it's a poem for him.
+
+110
+00:14:46,879 --> 00:14:52,599
+The soul says, but now I pray, so it may seem, he's asking the soul to tell him what's going on.
+
+111
+00:14:50,560 --> 00:14:56,599
+He says, tell me that I may write down what you say for all to read.
+
+112
+00:14:57,239 --> 00:14:58,200
+And who are you?
+
+113
+00:14:58,200 --> 00:14:58,920
+And so forth.
+
+114
+00:14:58,920 --> 00:15:03,560
+Now that sounds like the one, going for everybody to read.
+
+115
+00:15:03,560 --> 00:15:13,960
+And then at the bottom of the page, the shade says, Blessed are you who for a better life store in your soul experiences of these realms you travel through.
+
+116
+00:15:13,960 --> 00:15:21,159
+And there it looks like the important thing is that this is relevant to, I guess it's not too strange.
+
+117
+00:15:21,160 --> 00:15:22,920
+It's really what I've been saying.
+
+118
+00:15:22,920 --> 00:15:29,560
+I mean, he sees all of these punishments, but he gets specially involved in certain ones.
+
+119
+00:15:29,560 --> 00:15:40,120
+Seeing them all is the for everybody part, and getting involved in certain ones is ones that Dante has to get rid of in order to get to paradise.
+
+120
+00:15:40,119 --> 00:15:41,960
+So I think it could be both.
+
+121
+00:15:41,960 --> 00:15:46,840
+And so he's, and now we're in the part of it being directed toward him.
+
+122
+00:15:47,239 --> 00:15:50,119
+He has to go through these experiences.
+
+123
+00:15:50,119 --> 00:15:54,839
+Notice it's like Odyssey is saying he wants to get all the experiences.
+
+124
+00:15:54,839 --> 00:15:59,399
+But these aren't experiences of any old thing or any old world.
+
+125
+00:15:59,400 --> 00:16:04,759
+These are experiences that he has to go through so that he can lead a better life.
+
+126
+00:16:04,759 --> 00:16:06,920
+And then he does that.
+
+127
+00:16:08,039 --> 00:16:10,039
+Now, where are...
+
+128
+00:16:10,120 --> 00:16:11,479
+Now, that's fine.
+
+129
+00:16:11,479 --> 00:16:14,039
+So they have the brief kiss.
+
+130
+00:16:14,039 --> 00:16:16,039
+He's on his personal journey.
+
+131
+00:16:16,039 --> 00:16:21,159
+Oh, I'm going to talk about, yeah, I'm trying to keep track of these many things.
+
+132
+00:16:21,479 --> 00:16:23,319
+And how does he go through it?
+
+133
+00:16:23,319 --> 00:16:27,840
+Well, he goes actually into the flame.
+
+134
+00:16:27,839 --> 00:16:32,119
+Of all the punishments that he's almost fallen into.
+
+135
+00:16:32,120 --> 00:16:35,320
+He's never, as far as I can remember, suffered from any of them.
+
+136
+00:16:35,319 --> 00:16:36,239
+I mean, he fainted.
+
+137
+00:16:35,559 --> 00:16:39,120
+I guess I don't know if that's a kind of suffering or not.
+
+138
+00:16:39,440 --> 00:16:47,920
+But here, he's in big pain because he has to actually go through the purifying fires along with the lovers.
+
+139
+00:16:47,920 --> 00:16:52,079
+On the middle of 276, line 49.
+
+140
+00:16:52,079 --> 00:17:01,039
+Once in the flame, I gladly would have cast my body into boiling glass to cool it against the measureless fury of the blast.
+
+141
+00:17:01,039 --> 00:17:09,999
+And so, in other words, he's going through a tiny bit of the kind of purifying fire that you have to get.
+
+142
+00:17:09,999 --> 00:17:16,399
+On 276, it's Canto 27, line 49.
+
+143
+00:17:16,400 --> 00:17:22,239
+It goes by rather fast because that's not what he's mainly interested in.
+
+144
+00:17:22,239 --> 00:17:25,280
+Okay, now that's all I have to say about the lovers.
+
+145
+00:17:25,279 --> 00:17:47,600
+If anybody has anything more to say about the lovers, you should say it now before I go on to the what is really the exciting, interesting thing for today, which you, the the good ones, the the brave and loyal ones who stayed even now, it's the mimical weather and the vacation so nearby and the podcast right outside get to get rewarded by this fascinating next episode.
+
+146
+00:17:47,600 --> 00:17:57,999
+And before we go on, uh, anybody I don't think there's anything to say about the Beatrice thing, but there is something to say about the stars, which I forgot to say.
+
+147
+00:17:57,999 --> 00:18:00,799
+That's when I got noticed I does something wrong.
+
+148
+00:18:01,440 --> 00:18:07,279
+You might want to ask, well, these three stars, are they real stars?
+
+149
+00:18:07,279 --> 00:18:12,319
+And if so, what have they got to do with the Christian virtues and the four stars?
+
+150
+00:18:12,319 --> 00:18:21,239
+Or are they just allegorical stars, sort of, I don't know, like imaginary or something like painted scenery or something?
+
+151
+00:18:21,239 --> 00:18:25,960
+And the answer is supposed to be illuminating, namely, they are real stars.
+
+152
+00:18:25,960 --> 00:18:27,720
+They are in the southern hemisphere.
+
+153
+00:18:28,039 --> 00:18:33,559
+And you see them when you go down there and see the Mount of Purgatory.
+
+154
+00:18:33,559 --> 00:18:36,840
+And they shift around like stars do as the Earth turns.
+
+155
+00:18:36,839 --> 00:18:38,999
+I mean, Dante doesn't know as the Earth turns.
+
+156
+00:18:38,999 --> 00:18:42,279
+He thinks the stars are moving, but they move around in the sky.
+
+157
+00:18:42,839 --> 00:18:46,360
+But what's important is that it's hard to remember.
+
+158
+00:18:46,360 --> 00:18:57,079
+Those are real stars, and they really stand for the Christian virtues and the pagan virtues.
+
+159
+00:18:57,079 --> 00:19:03,720
+Pagan is, I keep wanting the right word for the Greeks, the antiquity virtue, the virtues of antiquity, maybe.
+
+160
+00:19:04,039 --> 00:19:13,159
+But in any case, and why can they both be real and mean something allegorical at the same time for Dante?
+
+161
+00:19:13,160 --> 00:19:22,440
+It's perfectly natural for him that they should be, that there should be such three bright stars and that they should shine on purgatory and so forth.
+
+162
+00:19:22,759 --> 00:19:25,639
+It's, you've got a cool?
+
+163
+00:19:25,640 --> 00:19:28,920
+You look like you're about to, you know?
+
+164
+00:19:29,160 --> 00:19:29,800
+Exactly.
+
+165
+00:19:29,799 --> 00:19:32,680
+I could see it in your eyes that you were about to say that.
+
+166
+00:19:32,680 --> 00:19:34,039
+Yes, exactly.
+
+167
+00:19:34,920 --> 00:19:38,599
+It's because it's the creation understanding of being.
+
+168
+00:19:38,600 --> 00:19:41,960
+Because everything in the universe is created by God.
+
+169
+00:19:41,960 --> 00:19:44,839
+And everything in the universe has a meaning.
+
+170
+00:19:44,839 --> 00:19:49,159
+And so that there are, whatever, there are planets.
+
+171
+00:19:49,160 --> 00:19:49,479
+I don't know.
+
+172
+00:19:49,479 --> 00:19:51,479
+I think there are many seven at that point.
+
+173
+00:19:51,479 --> 00:19:53,400
+That God is trying to tell you something.
+
+174
+00:19:53,400 --> 00:20:04,999
+And when there are three stars that replace in the sky the four stars, or at least take more prominence depending on what's going on there, God is telling you something.
+
+175
+00:20:04,999 --> 00:20:07,680
+You've heard the phrase, the book of nature.
+
+176
+00:20:05,400 --> 00:20:10,079
+Well, God wrote the book of nature.
+
+177
+00:20:10,079 --> 00:20:13,359
+He made it all so that it meant something.
+
+178
+00:20:13,360 --> 00:20:16,559
+And people spend their time trying to read the book of nature.
+
+179
+00:20:16,559 --> 00:20:21,280
+I mentioned that once before, but I'm illustrating it now with the stars.
+
+180
+00:20:21,279 --> 00:20:35,200
+It's a very interesting frame of mind that everything that's there in nature is there to tell something important to human beings about their spiritual and ethical lives.
+
+181
+00:20:35,200 --> 00:20:40,559
+You can't, I mean, it's so far from our way of thinking, it's just hard to get into.
+
+182
+00:20:40,559 --> 00:20:46,239
+I don't suppose even the most religious Catholics believe it anymore.
+
+183
+00:20:46,239 --> 00:20:47,760
+Nobody can believe it anymore.
+
+184
+00:20:47,759 --> 00:20:53,680
+Modern science has just taken over and told us that it doesn't matter how many planets there are.
+
+185
+00:20:53,680 --> 00:20:56,399
+It's just a sheer, it's not a sheer accident.
+
+186
+00:20:56,400 --> 00:21:03,119
+It's a sheer result of some of the very complicated laws that were happening in the first nanoseconds of the Big Bang or something.
+
+187
+00:21:03,120 --> 00:21:08,399
+But it doesn't mean anything as far as advice of how to live a human life.
+
+188
+00:21:08,400 --> 00:21:08,800
+Yeah.
+
+189
+00:21:09,039 --> 00:21:14,960
+Well, man, what?
+
+190
+00:21:15,279 --> 00:21:16,720
+Oh, that's interesting.
+
+191
+00:21:16,720 --> 00:21:20,079
+That's the very important issue about evolution.
+
+192
+00:21:21,120 --> 00:21:26,800
+What he's saying is, but don't the Christians, and they do, still look at nature not as so much as beautiful.
+
+193
+00:21:26,799 --> 00:21:28,559
+That's the romantics, I think.
+
+194
+00:21:29,279 --> 00:21:36,720
+But having an intricacy, intelligent design, in effect, is the last remnant of Dante.
+
+195
+00:21:37,039 --> 00:21:47,759
+If there is intelligent design, then at least you can see that it's a created world and that there are signs of the Creator around, even though they're not to be read so literally as they once were.
+
+196
+00:21:47,759 --> 00:21:57,640
+And of course, the belief in evolution is the last nail in the coffin of that way of looking at things if you don't believe that way of looking at things.
+
+197
+00:21:57,640 --> 00:22:00,120
+And no wonder there's a big battle about evolution.
+
+198
+00:22:00,120 --> 00:22:01,239
+And I'm glad you brought it up.
+
+199
+00:22:01,239 --> 00:22:07,559
+Yes, that's the last bit of the Dante view of the creation.
+
+200
+00:22:07,559 --> 00:22:09,319
+I mean, you can still be a Christian.
+
+201
+00:22:09,319 --> 00:22:13,879
+You can still be, you can even, you can certainly still believe in the creation.
+
+202
+00:22:13,880 --> 00:22:24,039
+And it's getting harder and harder and harder to think that you can read out of the creation sort of evidence of the motives and intelligence of the Creator.
+
+203
+00:22:24,360 --> 00:22:24,920
+Yeah.
+
+204
+00:22:27,400 --> 00:22:30,279
+Yeah, but don't talk about Kierkegaard here.
+
+205
+00:22:30,279 --> 00:22:32,519
+That's an ad for Philosophy VII.
+
+206
+00:22:32,519 --> 00:22:37,639
+Yes, Kierkegaard certainly understood, but I think probably people even before.
+
+207
+00:22:37,640 --> 00:22:47,799
+And in fact, Pascal already understood, that the world had become completely, and he thought, frighteningly, huge and meaningless.
+
+208
+00:22:49,720 --> 00:22:53,400
+That was Pascal before Newton, but he was after Galileo.
+
+209
+00:22:53,400 --> 00:23:02,119
+So it was, and as soon as the new science came in, I mean, Galileo's big contribution was to get rid of teleology.
+
+210
+00:23:02,120 --> 00:23:03,640
+Nothing had any purpose.
+
+211
+00:23:03,640 --> 00:23:05,239
+Nothing had any meaning.
+
+212
+00:23:05,239 --> 00:23:10,040
+Everything was obeying the laws of physics, and the laws of physics were just facts.
+
+213
+00:23:11,239 --> 00:23:14,440
+They had no moral human significance.
+
+214
+00:23:14,440 --> 00:23:20,200
+And Pascal understood that in the 16, about the early 1700s.
+
+215
+00:23:20,200 --> 00:23:20,759
+Okay.
+
+216
+00:23:20,759 --> 00:23:22,440
+Now, I'm glad we had that discussion.
+
+217
+00:23:23,239 --> 00:23:24,200
+That's interesting.
+
+218
+00:23:24,200 --> 00:23:27,159
+I hadn't heard thought about it what you brought up.
+
+219
+00:23:27,160 --> 00:23:28,200
+Okay, now.
+
+220
+00:23:28,200 --> 00:23:30,680
+Now we're going on, as I said, to the fun part.
+
+221
+00:23:30,680 --> 00:23:43,440
+The whole poem was written to get us to say something about Beatrice that nobody has ever said about their girlfriend before.
+
+222
+00:23:43,600 --> 00:23:51,119
+Write a poem, a love poem that was a greater love poem than anybody had ever written before.
+
+223
+00:23:51,120 --> 00:23:56,479
+And now we're going to see how Dante brings that off in a complicated way.
+
+224
+00:23:56,799 --> 00:24:09,119
+So you skip to Canto 29, and there you get this big pageant, the sort of parade that Dante sees at the top of purgatory.
+
+225
+00:24:09,120 --> 00:24:15,119
+And there, on 292, Chiardi sums it up.
+
+226
+00:24:15,120 --> 00:24:18,879
+When Chiardi is just sort of summarizing, you can trust him.
+
+227
+00:24:19,120 --> 00:24:20,960
+And he's not making any interpretation.
+
+228
+00:24:21,440 --> 00:24:24,479
+You just read all the stuff in capital letters.
+
+229
+00:24:24,479 --> 00:24:26,160
+There's a heavenly pageant.
+
+230
+00:24:26,160 --> 00:24:28,400
+There are these golden candlesticks.
+
+231
+00:24:28,400 --> 00:24:29,680
+There's a rainbow.
+
+232
+00:24:29,680 --> 00:24:34,079
+That's not so important as there are 24 books of the Old Testament.
+
+233
+00:24:34,079 --> 00:24:38,559
+There's the four beasts which represent the four gospels.
+
+234
+00:24:38,559 --> 00:24:43,519
+There's a triumphal chariot, which is the church drawn by a griffon.
+
+235
+00:24:43,519 --> 00:24:45,519
+That's one of the interesting characters.
+
+236
+00:24:45,839 --> 00:24:57,440
+Turns out to be a symbol for Jesus because the griffon is supposed to have two natures, a supernatural nature and an animal nature at the same time, I guess.
+
+237
+00:24:57,440 --> 00:25:01,039
+I don't know much, don't know much about anything about the griffon except what Chiardi says.
+
+238
+00:25:01,279 --> 00:25:02,319
+I wouldn't trust that.
+
+239
+00:25:02,319 --> 00:25:07,920
+But he is certainly a symbol of the incarnation, and Dante makes that clear.
+
+240
+00:25:08,400 --> 00:25:11,599
+And then there are the three theological virtues.
+
+241
+00:25:11,600 --> 00:25:16,239
+Those are now the same as the three stars, that there's faith, hope, and love again.
+
+242
+00:25:16,239 --> 00:25:19,759
+And it's the left wheel of the chariot, the four cardinal virtues.
+
+243
+00:25:19,759 --> 00:25:21,239
+And I worry about that.
+
+244
+00:25:21,239 --> 00:25:23,960
+I mean, I'm sure it's worse to be on the left than to be on the right.
+
+245
+00:25:20,559 --> 00:25:24,680
+It always is.
+
+246
+00:25:24,999 --> 00:25:29,639
+The right has got to do with what's right, and the left has always got to do with what's wrong.
+
+247
+00:25:29,640 --> 00:25:37,239
+But how wrong, and why they're there at all, dancing in this Christian parade, I'm very worried about.
+
+248
+00:25:37,239 --> 00:25:40,039
+But anyway, that whole parade goes by.
+
+249
+00:25:40,039 --> 00:25:51,639
+I wouldn't bother to tell you, except that it's very important, and it's going to play a crucial role in what's going to happen next.
+
+250
+00:25:51,640 --> 00:26:15,559
+By the way, the Griffin I've written here, it's Dante who tells us on page, in Canto 31, page 313, line 79, he says that beast, I just want to read just line 80 and 81, that beast, that's the griffon, which is one person in two natures.
+
+251
+00:26:15,559 --> 00:26:20,840
+Well, that's God, one person in two natures, God the Father and God the Son.
+
+252
+00:26:20,999 --> 00:26:27,399
+He's got a Holy Spirit in there, too, but that's not relevant for the incarnation, is what we're busy talking about.
+
+253
+00:26:27,400 --> 00:26:37,319
+So, and now all of this goes by, and then it stops in front of Dante, the procession.
+
+254
+00:26:37,319 --> 00:26:46,359
+Sort of the history of Christianity, the history, in fact, the history of the Judeo-Christian, because the Old Testament 24 books are in there too.
+
+255
+00:26:46,360 --> 00:26:56,039
+The whole history of the Judeo-Christian religion in the West is going by, and it all stops right in front of Dante.
+
+256
+00:26:56,039 --> 00:27:02,279
+It has something special to do with this version with Dante.
+
+257
+00:27:05,120 --> 00:27:15,440
+And then the most weird part of all, weird in a sense I can't quite explain yet, is the angels are flying over the Griffin is pulling the chariot.
+
+258
+00:27:15,440 --> 00:27:18,159
+The chariot is the symbol of the church.
+
+259
+00:27:18,160 --> 00:27:24,960
+And inside the chariot, there's something or somebody, and we don't know what it is yet because it's covered up.
+
+260
+00:27:24,960 --> 00:27:33,120
+But whatever it is, the angels fly over and singing, line 19, Benedictus Tivenis.
+
+261
+00:27:33,120 --> 00:27:41,680
+I don't know how to, my Latin isn't any good, but I know that that translation of that is, Blessed is he who comes.
+
+262
+00:27:41,680 --> 00:27:50,239
+Now, that sounds, who would you expect in the middle of Christian history, in what the Christians call the fullness of time?
+
+263
+00:27:50,239 --> 00:27:52,479
+Jesus came in the fullness of time.
+
+264
+00:27:52,799 --> 00:28:00,239
+In the middle of Christian history, which is the parade, there is somebody who arrives.
+
+265
+00:28:00,479 --> 00:28:03,279
+With the angels singing, blessed is he who arrives.
+
+266
+00:28:03,279 --> 00:28:05,119
+Well, who could that be?
+
+267
+00:28:05,120 --> 00:28:05,760
+Come on.
+
+268
+00:28:06,319 --> 00:28:07,360
+Yeah, you know.
+
+269
+00:28:07,680 --> 00:28:08,880
+Jesus, of course.
+
+270
+00:28:08,880 --> 00:28:09,680
+It must be.
+
+271
+00:28:09,680 --> 00:28:13,039
+I mean, it couldn't, what else could it possibly be?
+
+272
+00:28:13,039 --> 00:28:16,639
+And yet, of course, it isn't.
+
+273
+00:28:17,120 --> 00:28:40,239
+Going down further on the page, there was, so as if the sun was getting rid of the vapors on line two, on page 303, line 25, he began to see within clouds of flowers that rose like fountains from the angels' hands.
+
+274
+00:28:40,239 --> 00:28:46,079
+This is quite a stupor parade, and fell upon the chariot, a lady came into view.
+
+275
+00:28:46,079 --> 00:28:47,759
+That is too much.
+
+276
+00:28:47,759 --> 00:29:00,519
+I mean, even with the angels singing, Blessed is he who comes, in the middle of the parade, and in the place of Jesus, in the church, pulled by the griffin, who should show up but a lady.
+
+277
+00:29:00,519 --> 00:29:07,400
+And that's the amazing gizmo that Dante has built into the poem.
+
+278
+00:29:07,400 --> 00:29:10,039
+We're now in line 31.
+
+279
+00:29:10,039 --> 00:29:17,080
+The lady came into view, and then she's got an olive crown, and that's not important, and so forth.
+
+280
+00:29:17,239 --> 00:29:21,159
+What's important is Dante's reaction, starting in 34.
+
+281
+00:29:21,479 --> 00:29:39,640
+My soul, such years had passed since it saw that lady and stood trembling in her presence, stupefied by the power of holy awe, now by some power that shone from her above the reach and witness of my mortal eyes, felt the full mastery of ancient love, I think.
+
+282
+00:29:40,440 --> 00:29:41,799
+I don't think, I'm not sure.
+
+283
+00:29:42,279 --> 00:29:43,720
+We need to know about the Italian.
+
+284
+00:29:43,720 --> 00:29:47,319
+Beatrice and I are going to study the Italian or Vitation, and we'll tell you the answer.
+
+285
+00:29:47,319 --> 00:29:48,440
+That's one of the issues.
+
+286
+00:29:48,440 --> 00:29:50,600
+I just don't know what kind of love it's supposed to be.
+
+287
+00:29:50,600 --> 00:29:55,079
+I'm sure that whatever it is, it doesn't matter for the interpretation.
+
+288
+00:29:55,079 --> 00:29:58,200
+It's his super kind of love.
+
+289
+00:29:58,200 --> 00:30:04,759
+I mean, I think what you would write in there, though Dante would never write it in because he doesn't know the name for it yet, is romantic love.
+
+290
+00:30:04,759 --> 00:30:06,840
+The full mastery of romantic love.
+
+291
+00:30:06,839 --> 00:30:08,440
+That's what he's really saying.
+
+292
+00:30:08,440 --> 00:30:14,839
+This chivalric knight for his lady, super adoration kind of love.
+
+293
+00:30:14,839 --> 00:30:17,879
+It's something that's been invented by the Troubadours.
+
+294
+00:30:17,880 --> 00:30:19,080
+There's no precedent.
+
+295
+00:30:19,079 --> 00:30:22,039
+There's no other culture that has romantic love.
+
+296
+00:30:22,039 --> 00:30:27,799
+And our culture didn't have romantic love either until the Troubadours came along.
+
+297
+00:30:27,799 --> 00:30:48,319
+I mean, Odysseus certainly was eager and happy to get back to Penelope, but it isn't as if he adored Penelope so that if she died or went away, his whole world would collapse or that he could spend his whole life devoted to writing poems or anything else for Penelope.
+
+298
+00:30:48,319 --> 00:30:49,599
+That just wouldn't make any sense.
+
+299
+00:30:49,600 --> 00:30:51,680
+The Greeks would think other craziness.
+
+300
+00:30:51,680 --> 00:30:58,399
+So here it is, this new thing that Dante is claiming for his, this kind of romantic love.
+
+301
+00:30:58,400 --> 00:31:05,440
+The instant I was smitten by the force which had already once transfixed my soul before my boyhood years had run their course.
+
+302
+00:31:05,440 --> 00:31:08,720
+Remember, he was 14 when he saw her.
+
+303
+00:31:09,039 --> 00:31:14,559
+And then comes the amazing fastest moves at the top of 304.
+
+304
+00:31:15,200 --> 00:31:36,239
+Then Dante is really, when Dante is talking about romantic love and his love of Beatrice, then he's totally clear and utterly unconfused about what articulation, what he thinks the moral of Christianity is, when Jesus presumably says, love is your commandment, and it's the only commandment.
+
+305
+00:31:36,239 --> 00:31:42,799
+Dante doesn't seem to think it's agape, that you should go around being generous in giving things.
+
+306
+00:31:42,799 --> 00:31:49,119
+He doesn't seem to think it's eros that you should desire something, although he certainly desires Beatrice.
+
+307
+00:31:49,279 --> 00:31:51,440
+It's a lot more than desire.
+
+308
+00:31:51,759 --> 00:32:00,720
+But he does think that this is the kind of love that the whole Christianity is built around.
+
+309
+00:32:01,360 --> 00:32:07,280
+And at this, when he's inside the Beatrice story, then when he gets outside the Beatrice story, he gets sort of taken over by St.
+
+310
+00:32:07,279 --> 00:32:12,239
+Thomas, and that makes it harder, very hard to keep track of what's going on.
+
+311
+00:32:12,239 --> 00:32:14,559
+But we're right in the middle of the best part.
+
+312
+00:32:14,559 --> 00:32:17,119
+So, see, I turned left.
+
+313
+00:32:17,120 --> 00:32:29,319
+I'm at the top of 304 with the same assured belief that makes a child run to its mother's arms when it is frightened or has come to grief, to say to Virgil, there is not within me one drop of blood unstirred.
+
+314
+00:32:29,319 --> 00:32:32,440
+I recognize the tokens of the ancient flame.
+
+315
+00:32:32,440 --> 00:32:35,799
+That's my favorite line in the divine comedy.
+
+316
+00:32:35,799 --> 00:32:37,879
+And it's in quotes.
+
+317
+00:32:37,880 --> 00:32:39,320
+Why is it in quotes?
+
+318
+00:32:39,319 --> 00:32:42,680
+I think I've already said this, but I want to, does anybody remember?
+
+319
+00:32:42,999 --> 00:32:44,599
+Who's he quoting?
+
+320
+00:32:44,920 --> 00:32:53,879
+Well, he's quoting Beat, he's quoting Dido, saying what she felt when she saw Aeneas.
+
+321
+00:32:53,880 --> 00:33:03,799
+He's reading romantic love back into the Dido story, or maybe not that, but maybe I don't know whether he thinks Dido had this love for Aeneas.
+
+322
+00:33:03,799 --> 00:33:04,839
+Probably he doesn't.
+
+323
+00:33:04,839 --> 00:33:26,759
+But what he's doing is saying whatever it meant to her, to him it means that he feels completely overwhelmed by this mixture of physical and spiritual love, this somehow mixture of, which is Neros and isn't agape, which is this polar adoration, period.
+
+324
+00:33:26,759 --> 00:33:33,239
+And you might want to know, and I better stop and tell you, why does this have anything to do with Christianity at all?
+
+325
+00:33:33,799 --> 00:33:44,920
+Is it just a coincidence that it's the same culture, namely Judeo-Christian Western culture, which also invented and believed in romantic love up to very recently?
+
+326
+00:33:44,919 --> 00:33:54,360
+I have a feeling maybe not anymore, but certainly up to, I don't know, my parents' generation.
+
+327
+00:33:54,359 --> 00:33:57,640
+I guess maybe even, yeah, maybe my daughter still does.
+
+328
+00:33:57,640 --> 00:33:58,279
+Okay, yes.
+
+329
+00:33:58,279 --> 00:34:00,680
+Anyway, invented romantic love.
+
+330
+00:34:00,680 --> 00:34:02,440
+And why?
+
+331
+00:34:02,439 --> 00:34:05,000
+What's it got to do with the Gospels?
+
+332
+00:34:05,000 --> 00:34:05,720
+Well, I don't know.
+
+333
+00:34:06,000 --> 00:34:09,039
+I mean, I would like to see somebody write a book about this.
+
+334
+00:34:09,040 --> 00:34:13,040
+There are probably dozens of books about this, but nobody's ever told me which to read.
+
+335
+00:34:13,359 --> 00:34:30,080
+But to make up a story myself, I say, well, Jesus says to the disciples that they should be ready to die for each other or for him, and that he's ready to die for them.
+
+336
+00:34:30,560 --> 00:34:33,920
+But also important, nobody's supposed to kill anybody.
+
+337
+00:34:33,919 --> 00:34:41,120
+Remember, Peter has to put up his sword when he tries to defend Jesus by killing the Roman soldiers when they're coming.
+
+338
+00:34:41,120 --> 00:34:52,879
+So the idea that there should be somebody that you are willing to die for, but not to kill for, that's in the Bible.
+
+339
+00:34:52,879 --> 00:34:54,560
+That's in the New Testament.
+
+340
+00:34:54,560 --> 00:35:05,759
+And then the Troubadours just elaborate on it and make that somebody the lady and make the person committed to them the knight whose lady that is.
+
+341
+00:35:05,759 --> 00:35:08,640
+And chivalric love grows out of that.
+
+342
+00:35:08,640 --> 00:35:19,279
+And then romantic love is kind of the bourgeois secular version of that kind of aristocratic love that the Troubadours had.
+
+343
+00:35:19,279 --> 00:35:22,080
+And so Dante is inheriting all that.
+
+344
+00:35:22,080 --> 00:35:31,120
+And he's, he would claim, it makes a very tiny part of the Gospels very, very important.
+
+345
+00:35:31,120 --> 00:35:38,399
+But after all, Jesus said the main important commandment was love, and Paul said that the main virtue was love.
+
+346
+00:35:38,720 --> 00:35:50,479
+It's just that what they've done is switch, what Dante's done is switched around the notion of love from this agape-giving kind of love to a total commitment kind of love.
+
+347
+00:35:51,000 --> 00:35:59,720
+And you can see why there's a reason to see that, because Jesus does talk about how he's committed to the disciples and they're committed to him, clung to death.
+
+348
+00:35:59,720 --> 00:36:01,800
+And there you get it.
+
+349
+00:36:01,799 --> 00:36:10,520
+So there, and now, and what's happening here, why is it interesting and important that he's quoting Virgil?
+
+350
+00:36:10,839 --> 00:36:22,440
+Well, I brought along the Virgil, but in our version, you can't tell very much that it's the same words, but it's on 82.
+
+351
+00:36:23,560 --> 00:36:24,279
+No, wait a minute.
+
+352
+00:36:24,279 --> 00:36:24,919
+Where am I?
+
+353
+00:36:25,399 --> 00:36:27,319
+Oh, what I've got the wrong thing here.
+
+354
+00:36:27,319 --> 00:36:28,119
+Let's try again.
+
+355
+00:36:28,120 --> 00:36:31,239
+I'm running along the Aeneid on page 82.
+
+356
+00:36:31,560 --> 00:36:37,399
+She's talking about how her husband died, and now Aeneas is the only man.
+
+357
+00:36:37,399 --> 00:36:42,200
+She's telling her sister, I think it's her sister she's talking to, three lines down on 82.
+
+358
+00:36:42,200 --> 00:36:46,440
+Aeneas is the only man to move my feelings, to overturn my shifting heart.
+
+359
+00:36:46,439 --> 00:36:49,400
+I know too well the signs of the old flame.
+
+360
+00:36:49,399 --> 00:36:54,439
+That's what Dante is saying when he's saying, I recognize the tokens of the ancient flame.
+
+361
+00:36:54,439 --> 00:36:56,840
+He's quoting that exactly.
+
+362
+00:36:56,839 --> 00:36:59,640
+And what does it do, to quote that exactly?
+
+363
+00:36:59,640 --> 00:37:15,400
+Well, it turns the relation of Virgil to Dante sort of inside out or upside down or something, because Virgil, when Dido says that, that's the beginning of the end for Dido.
+
+364
+00:37:15,399 --> 00:37:37,759
+She's falling in love with Aeneas by being shot by Cupid and has this arrow hanging out of her side, and she's becoming, she gets more and more frantic and runs around foaming at the mouth, and she gets, and this, and the flame finally turns into the funeral pyre that kills, and it's a disease, and finally she burns up.
+
+365
+00:37:38,080 --> 00:37:51,839
+There's nothing more disastrous than this kind of romantic mixture of sensual and spiritual passion that she has for Aninas.
+
+366
+00:37:51,839 --> 00:37:58,720
+So it isn't as if sort of romantic love or some kind of romantic passion didn't exist.
+
+367
+00:37:58,720 --> 00:38:00,720
+Virgil could picture it.
+
+368
+00:38:00,720 --> 00:38:03,759
+It's just that he thought it was a disease, an awful thing.
+
+369
+00:38:03,759 --> 00:38:13,360
+The interesting thing in Dante is not only does it exist, but it's the highest thing that human beings, the most positive thing that human beings could possibly experience.
+
+370
+00:38:13,359 --> 00:38:24,480
+So he just takes over the Virgil description and applies it to his romantic, chivalric devotion to Beatrice.
+
+371
+00:38:24,480 --> 00:38:27,679
+And what effect does that have on Virgil?
+
+372
+00:38:28,000 --> 00:38:29,119
+Next question.
+
+373
+00:38:29,439 --> 00:38:30,880
+Done the reading?
+
+374
+00:38:31,200 --> 00:38:33,200
+What happens to Virgil?
+
+375
+00:38:33,200 --> 00:38:34,880
+You look like you know.
+
+376
+00:38:34,879 --> 00:38:35,759
+He leaves.
+
+377
+00:38:35,759 --> 00:38:38,079
+He vanishes like in a puff of smoke.
+
+378
+00:38:38,080 --> 00:38:39,920
+He doesn't even say goodbye.
+
+379
+00:38:39,919 --> 00:38:41,359
+He's just gone.
+
+380
+00:38:41,359 --> 00:39:02,479
+And the next sentence, he says this, he turns to Virgil, and in a funny frame of mind, I don't know what he's thinking, quotes this line, which in Virgil means disaster as the most exciting good thing that's happening, and Virgil can't take it, that he had taken, that he had taken his life from us, that has disappeared.
+
+381
+00:39:02,480 --> 00:39:03,279
+He had gone.
+
+382
+00:39:03,279 --> 00:39:04,399
+Virgil had gone.
+
+383
+00:39:04,399 --> 00:39:09,120
+Virgil, the gentle father, to whom I gave my soul for its salvation.
+
+384
+00:39:09,120 --> 00:39:10,959
+Well, that's a bit of an exaggeration.
+
+385
+00:39:10,959 --> 00:39:17,520
+He never gave his soul for his salvation to anybody but one person, of course.
+
+386
+00:39:17,520 --> 00:39:18,720
+Beatrice.
+
+387
+00:39:18,720 --> 00:39:19,599
+Beatrice.
+
+388
+00:39:19,600 --> 00:39:22,999
+He has really given his soul for his salvation to Beatrice.
+
+389
+00:39:20,399 --> 00:39:24,279
+She's his savior.
+
+390
+00:39:24,600 --> 00:39:32,279
+Exactly in what way she's his savior, and you could put it more strongly, she's the savior to him.
+
+391
+00:39:32,279 --> 00:39:35,879
+That is, there's this is the crucial, interesting thing.
+
+392
+00:39:35,879 --> 00:39:39,880
+Dante never relates to Jesus as the savior.
+
+393
+00:39:40,040 --> 00:39:43,000
+Jesus doesn't even show up in the divine comedy.
+
+394
+00:39:43,000 --> 00:39:46,200
+And that's because Beatrice has taken the place of Jesus.
+
+395
+00:39:46,200 --> 00:39:47,720
+That's what we just were talking about.
+
+396
+00:39:47,720 --> 00:39:53,800
+That's why she's standing in the chariot in the middle of the procession, which is the history of the church.
+
+397
+00:39:53,799 --> 00:39:58,200
+And she is Jesus in Dante's life.
+
+398
+00:39:58,200 --> 00:40:11,640
+She isn't your Savior or my Savior, but each of us, if we are to be saved, will have to be saved by finding somebody to love with this romantic, total adoration.
+
+399
+00:40:11,959 --> 00:40:15,800
+Why do you have to do that in order to be saved?
+
+400
+00:40:15,799 --> 00:40:22,519
+Well, that's where things get complicated, but I'm not sure I'm ready to do it yet.
+
+401
+00:40:23,160 --> 00:40:35,239
+So Dante has now written a poem about his girlfriend like nobody ever did before, saying his girlfriend was in effect God and the Savior, his Savior.
+
+402
+00:40:36,520 --> 00:40:43,400
+And in case you missed it, he is, for Dante, the incarnation.
+
+403
+00:40:43,399 --> 00:40:45,960
+Dante tells you so.
+
+404
+00:40:46,279 --> 00:40:49,479
+Let me see, though, catching up where I am.
+
+405
+00:40:49,799 --> 00:40:50,359
+Okay.
+
+406
+00:40:51,959 --> 00:40:52,759
+Yeah?
+
+407
+00:40:53,080 --> 00:40:54,439
+So Virgil vanishes.
+
+408
+00:40:54,439 --> 00:40:55,800
+I'm just catching up.
+
+409
+00:40:55,799 --> 00:40:59,960
+Well, no, yeah, now I want to say something here or later.
+
+410
+00:41:00,279 --> 00:41:02,520
+Well, let me finish what I'm saying now.
+
+411
+00:41:02,520 --> 00:41:06,960
+Proving that Dante doesn't want you to miss that she's the incarnation.
+
+412
+00:41:07,279 --> 00:41:20,000
+He looks into her eyes, and in her eyes, he sees the griffon, which was, remember, which is the symbol of the incarnation.
+
+413
+00:41:20,000 --> 00:41:22,320
+So let's look on 296.
+
+414
+00:41:22,319 --> 00:41:25,759
+Well, there was the gripon on 296, but now that's not going to do any good.
+
+415
+00:41:25,759 --> 00:41:27,919
+Let's go on to 300.
+
+416
+00:41:28,239 --> 00:41:38,639
+Now, 300, we have Chiardi telling us, in footnote, that the church is represented as a chariot, and that's fine.
+
+417
+00:41:38,640 --> 00:41:40,560
+We don't deny that.
+
+418
+00:41:40,560 --> 00:41:42,960
+And now, where is Beatrice looking?
+
+419
+00:41:42,959 --> 00:41:44,880
+Now, here we are.
+
+420
+00:41:44,879 --> 00:41:46,479
+On 330.
+
+421
+00:41:46,480 --> 00:41:50,160
+I have to jump way ahead, but I want to finish my story.
+
+422
+00:41:50,399 --> 00:41:58,800
+Lest you think that Dante doesn't know that he's putting Beatrice in the place of Jesus, you can see it very clearly.
+
+423
+00:41:58,799 --> 00:42:06,160
+One, he gives her Jesus' words to say at the top of 330.
+
+424
+00:42:06,480 --> 00:42:12,880
+He says a whole bunch of Latin, I guess that's Latin, right?
+
+425
+00:42:13,359 --> 00:42:19,600
+And what it means is she's quoting, she's quoting, she's channeling Jesus in a sense.
+
+426
+00:42:19,600 --> 00:42:22,959
+He says in the Gospels, not the one we read, I don't think.
+
+427
+00:42:22,959 --> 00:42:24,319
+Does he say it in ours?
+
+428
+00:42:24,319 --> 00:42:29,759
+That for a while you've seen me, but then for a while you won't see me, and then you will see me again.
+
+429
+00:42:29,759 --> 00:42:30,640
+Is that what that says?
+
+430
+00:42:30,640 --> 00:42:31,599
+That's what that says.
+
+431
+00:42:31,759 --> 00:42:32,879
+Does he say that at the end?
+
+432
+00:42:32,879 --> 00:42:40,000
+It may be that there's a page missing from the end of the Gospel of John that I passed out to everybody, and it may be that he says it there.
+
+433
+00:42:40,000 --> 00:42:43,920
+In any case, those are Jesus's words, and she says them.
+
+434
+00:42:43,919 --> 00:42:46,239
+But that's not the clincher.
+
+435
+00:42:46,239 --> 00:42:49,839
+And the clincher, I'm beginning to not understand where it is.
+
+436
+00:42:50,160 --> 00:42:51,559
+It isn't where I say it is.
+
+437
+00:42:51,560 --> 00:42:53,239
+That's a little alarming.
+
+438
+00:42:53,640 --> 00:42:55,079
+So now I have to find it.
+
+439
+00:42:50,560 --> 00:42:56,359
+You have to help me find it.
+
+440
+00:42:56,680 --> 00:43:04,279
+Somewhere we understand what happens when he looks into her eyes, what he sees.
+
+441
+00:43:04,279 --> 00:43:05,319
+Aha.
+
+442
+00:43:05,959 --> 00:43:06,599
+No?
+
+443
+00:43:06,600 --> 00:43:07,720
+Well, keep looking.
+
+444
+00:43:07,720 --> 00:43:09,080
+Somewhere earlier.
+
+445
+00:43:09,080 --> 00:43:10,120
+Hmm.
+
+446
+00:43:10,439 --> 00:43:13,640
+So he's got to look into her eyes.
+
+447
+00:43:15,000 --> 00:43:17,160
+You find it, yeah.
+
+448
+00:43:17,480 --> 00:43:23,160
+Funny, I wrote down the page number on, but it's so clearly there that we just have to wait till we find it because it's crucial.
+
+449
+00:43:23,160 --> 00:43:28,759
+He looks into her eyes, and he sees the griffon in her eyes.
+
+450
+00:43:28,759 --> 00:43:31,159
+Ah, here we are, at the top of 314.
+
+451
+00:43:31,480 --> 00:43:37,960
+They say, line, we're now in Canto 31, line 115.
+
+452
+00:43:38,279 --> 00:43:45,000
+The angels are singing, Look deep, look well, however your eyes may smart.
+
+453
+00:43:45,000 --> 00:43:47,319
+We have led you now before those emeralds.
+
+454
+00:43:47,319 --> 00:43:48,519
+That's her green eyes.
+
+455
+00:43:49,000 --> 00:43:51,160
+That was the thing that most attracted him, he says.
+
+456
+00:43:51,160 --> 00:43:52,279
+We'll get back to that.
+
+457
+00:43:52,279 --> 00:43:55,239
+From which love shot his arrows through your heart.
+
+458
+00:43:55,239 --> 00:43:57,560
+So he's taken over Cupid's arrows.
+
+459
+00:43:57,640 --> 00:44:00,759
+These are little things on the side, but I have to say them when I see them.
+
+460
+00:44:01,080 --> 00:44:07,720
+Whereas the arrow was part of the bad thing that happened to poor Dido when she got shot by Cupid's arrow.
+
+461
+00:44:07,720 --> 00:44:08,519
+It was no fun.
+
+462
+00:44:08,520 --> 00:44:10,600
+It was being like a wounded animal.
+
+463
+00:44:10,600 --> 00:44:22,279
+But now those green eyes, which were the first thing, now I have to prove that, the first thing about Beatrice that attracted him when he was young, where is that earlier?
+
+464
+00:44:22,279 --> 00:44:23,879
+So now we've got to find the green eyes.
+
+465
+00:44:23,879 --> 00:44:25,960
+Boys, it's a struggle.
+
+466
+00:44:25,959 --> 00:44:27,239
+Well, I don't see it.
+
+467
+00:44:27,239 --> 00:44:28,759
+Now I'm worried about that.
+
+468
+00:44:28,759 --> 00:44:30,119
+Oh, yeah, well, but it's right.
+
+469
+00:44:30,120 --> 00:44:31,720
+But I was just reading.
+
+470
+00:44:31,720 --> 00:44:32,519
+I see.
+
+471
+00:44:32,520 --> 00:44:33,320
+Yes.
+
+472
+00:44:33,319 --> 00:44:33,879
+Okay.
+
+473
+00:44:34,520 --> 00:44:35,919
+It's right in front of me.
+
+474
+00:44:35,560 --> 00:44:39,839
+So look deep into those emeralds from which love shot his arrows through your heart.
+
+475
+00:44:40,160 --> 00:44:45,039
+That means it was the sight of her green eyes that first grabbed him.
+
+476
+00:44:45,040 --> 00:44:46,800
+We'll see more about that in a little while.
+
+477
+00:44:46,799 --> 00:44:50,879
+So a thousand burning passions, everyone hotter than flame.
+
+478
+00:44:50,879 --> 00:44:56,959
+I mean, there's no question that there's a sensual embodied side to this love.
+
+479
+00:44:56,959 --> 00:44:57,839
+And there ought to be.
+
+480
+00:44:57,839 --> 00:45:03,279
+I mean, this is a religion about incarnation, about the spirit becoming flesh.
+
+481
+00:45:03,839 --> 00:45:08,880
+And so it's her body, in this case, her eyes, that he's fixed on.
+
+482
+00:45:08,879 --> 00:45:11,919
+And now comes the interesting part about the incarnation.
+
+483
+00:45:12,560 --> 00:45:21,600
+These eyes, these passions, hotter than flames, held my eyes fixed to the loosened eyes she held fixed on the griffon.
+
+484
+00:45:21,600 --> 00:45:29,440
+And like sunlight in a glass, the twofold creature shone from the deep reflection over her eyes, now in one, now in the other, nature.
+
+485
+00:45:29,439 --> 00:45:35,999
+So he sees in the griffon the man side and the God side of Jesus.
+
+486
+00:45:36,000 --> 00:45:40,640
+He doesn't actually see Jesus because, as I say, she's Jesus.
+
+487
+00:45:40,640 --> 00:45:42,320
+But he sees that.
+
+488
+00:45:42,319 --> 00:45:43,919
+And that's what...
+
+489
+00:45:43,919 --> 00:45:45,919
+And why did I have the wrong page?
+
+490
+00:45:45,919 --> 00:45:47,520
+Anyway, let me fix it.
+
+491
+00:45:48,480 --> 00:45:50,960
+So I'm back to the incarnation now.
+
+492
+00:45:50,959 --> 00:45:56,640
+She's an incarnation, presumably, of God.
+
+493
+00:45:56,640 --> 00:45:57,600
+She's his God.
+
+494
+00:45:57,759 --> 00:45:59,920
+She incarnates God for him.
+
+495
+00:45:59,919 --> 00:46:02,799
+That is, when he looks into, how did I put it?
+
+496
+00:46:02,799 --> 00:46:05,120
+I had a good way of putting it just a second.
+
+497
+00:46:06,000 --> 00:46:08,080
+Now I'm back to worrying about where's the griffon again.
+
+498
+00:46:08,080 --> 00:46:09,920
+Ah yeah, okay, here we are.
+
+499
+00:46:10,879 --> 00:46:15,920
+So the griffon pulls the cart, which is the church.
+
+500
+00:46:16,239 --> 00:46:17,840
+And that's right.
+
+501
+00:46:20,000 --> 00:46:23,640
+And Beatrice is the incarnation.
+
+502
+00:46:20,560 --> 00:46:25,800
+I have to find the right way I want to say it.
+
+503
+00:46:26,759 --> 00:46:35,560
+So Beatrice looks off the incarnation, the griffon, and Dante is seeing the incarnation reflected in Beatrice's eyes.
+
+504
+00:46:35,560 --> 00:46:38,439
+That's a way of saying she's the incarnation.
+
+505
+00:46:38,839 --> 00:46:44,599
+It's through Beatrice that he sees, and when he sees Beatrice, he sees the incarnation.
+
+506
+00:46:44,919 --> 00:46:47,239
+And again, it's all there is to see, you would think.
+
+507
+00:46:47,239 --> 00:46:49,160
+You don't have to actually see Jesus.
+
+508
+00:46:49,160 --> 00:46:51,160
+You don't actually have to see the Father.
+
+509
+00:46:51,160 --> 00:46:56,440
+You've seen all you need to see if you've just seen Beatrice's green eyes, he seems to be saying.
+
+510
+00:46:56,439 --> 00:47:04,200
+And I think that's what he really wants to say, but I don't think he quite dares to say it or thinks it through.
+
+511
+00:47:04,200 --> 00:47:08,360
+But let me go back now a little because I jumped ahead.
+
+512
+00:47:08,359 --> 00:47:11,160
+So there's the chariot, time stops.
+
+513
+00:47:11,160 --> 00:47:12,439
+The lady comes out.
+
+514
+00:47:12,439 --> 00:47:14,359
+I have to find out where I am.
+
+515
+00:47:14,680 --> 00:47:15,319
+Oh, yeah.
+
+516
+00:47:15,319 --> 00:47:21,239
+We have to go back and just make sure that we understand that it's Beatrice's body which attracts him.
+
+517
+00:47:21,239 --> 00:47:26,200
+And it's because she has a body that he sees in her, the incarnation.
+
+518
+00:47:26,520 --> 00:47:42,359
+And we've got that on page 314, sort of funny, if you want to say so, because he starts by looking at her eyes, and they're the things that grabbed him first and kept him.
+
+519
+00:47:42,359 --> 00:47:55,800
+But if you go back to 312, she says on line 49, nothing in art or nature could call forth such joy from you as the sight of that fair body.
+
+520
+00:47:55,799 --> 00:47:57,880
+Well, I was curious about that.
+
+521
+00:47:57,879 --> 00:47:59,799
+I wondered what that really meant.
+
+522
+00:47:59,799 --> 00:48:02,840
+You get in other translations, you get fair limbs.
+
+523
+00:48:02,839 --> 00:48:07,440
+So it was the sight of her legs or fair members in another translation.
+
+524
+00:48:05,560 --> 00:48:10,319
+I mean, I think the sensiblest thing is legs, but I don't know.
+
+525
+00:48:10,560 --> 00:48:14,400
+But anyway, that also attracted him.
+
+526
+00:48:14,399 --> 00:48:20,720
+But then there is, where is the place where they go on about her mouth, which is something very important, too.
+
+527
+00:48:20,720 --> 00:48:23,600
+Now I've lost 314 again?
+
+528
+00:48:23,600 --> 00:48:24,480
+Where?
+
+529
+00:48:25,120 --> 00:48:28,479
+Oh, I see.
+
+530
+00:48:28,480 --> 00:48:29,279
+Yes, yes.
+
+531
+00:48:29,279 --> 00:48:42,800
+Okay, so now we've got her eyes and her legs, and out the bottom of 314, grant us this favor of your grace, reveal your mouth to him, and let his eyes behold that second beauty, which your veil conceals.
+
+532
+00:48:42,799 --> 00:48:44,639
+So those are the three beauties.
+
+533
+00:48:44,640 --> 00:48:48,160
+His eyes, her mouth, her limbs, or whatever.
+
+534
+00:48:48,160 --> 00:48:54,880
+And that's all completely embodied as it should be.
+
+535
+00:48:54,879 --> 00:49:04,799
+Now, but scary, because it's getting more and more hard to tell why Dante is here and not in hell.
+
+536
+00:49:04,879 --> 00:49:06,400
+Sounds like a poem.
+
+537
+00:49:06,720 --> 00:49:16,879
+And because it sounds very much like the Paola-Francesca adoration couple.
+
+538
+00:49:17,279 --> 00:49:20,799
+And they also, I mean, why not?
+
+539
+00:49:20,799 --> 00:49:26,239
+That's again a case of total sensual romantic love.
+
+540
+00:49:26,720 --> 00:49:30,880
+And, well, we've got to figure out, sort that out.
+
+541
+00:49:30,879 --> 00:49:32,160
+Oh, but I forgot something else.
+
+542
+00:49:32,160 --> 00:49:33,919
+There are too many different things planned.
+
+543
+00:49:33,919 --> 00:49:38,320
+I wanted to say she is the incarnation for Dante, all right.
+
+544
+00:49:38,319 --> 00:49:42,800
+And it's through her that he understands the incarnation.
+
+545
+00:49:43,600 --> 00:49:47,040
+But the incarnation is Jesus.
+
+546
+00:49:47,040 --> 00:49:48,879
+Why is he the incarnation?
+
+547
+00:49:48,879 --> 00:49:59,480
+Well, I take it, I mean, I'm not, Dante doesn't say this, but I'm saying what's what Dante must think is he understands that Beatrice didn't come and save the world.
+
+548
+00:50:00,359 --> 00:50:11,000
+Jesus came to save the world because Jesus first showed what it was to be incarnate, totally spiritual and total flesh at the same time.
+
+549
+00:50:11,000 --> 00:50:19,960
+Jesus also introduced this kind of love, which for the time it gets to Dante is romantic adoration.
+
+550
+00:50:20,600 --> 00:50:28,600
+And he did think that the apostles could adore him, that the disciples could adore him.
+
+551
+00:50:28,600 --> 00:50:41,320
+Anyway, so, but therefore, Jesus brings the very notion of incarnation and that you get saved by adoring another embodied being into the world.
+
+552
+00:50:41,319 --> 00:50:45,560
+And that makes him a big deal, the incarnation.
+
+553
+00:50:46,040 --> 00:51:02,440
+But then, once he's done it, and after a little bit of articulating, a lot of articulating, and finally the troubadour articulating and so forth, then it comes out that thanks to Jesus, everybody could have their own incarnation.
+
+554
+00:51:02,439 --> 00:51:16,840
+That is, Dante's got Beatrice, and every other person could have their own Savior, their own being for whom they had total devotion and commitment.
+
+555
+00:51:17,640 --> 00:51:19,720
+That's how it works out in Dante.
+
+556
+00:51:19,720 --> 00:51:21,559
+So, let me see now where we are.
+
+557
+00:51:21,560 --> 00:51:24,520
+So, the point is to have total devotion.
+
+558
+00:51:24,520 --> 00:51:26,359
+Now, why is it so important?
+
+559
+00:51:26,359 --> 00:51:30,919
+Why is it necessary for Beatrice to save Dante?
+
+560
+00:51:30,919 --> 00:51:32,759
+And how does she save Dante?
+
+561
+00:51:33,080 --> 00:51:35,000
+He doesn't seem very saved yet.
+
+562
+00:51:35,000 --> 00:51:46,640
+Well, the first thing you've got to do is soup up your love to total devotion so that nothing in the world can satisfy it.
+
+563
+00:51:46,640 --> 00:51:47,920
+That's the next move.
+
+564
+00:51:47,919 --> 00:51:52,160
+You'd think that Beatrice had satisfied it, but that's not how Dante wants it to go.
+
+565
+00:51:52,160 --> 00:51:53,759
+So let me get us straight here.
+
+566
+00:51:53,759 --> 00:51:55,599
+So she's in the place of Jesus.
+
+567
+00:51:55,600 --> 00:52:00,479
+She's the Savior, total love, combining the spiritual and the physical.
+
+568
+00:52:01,919 --> 00:52:15,600
+She soups up his capacity to love so that, and now comes the move which I don't like, but it's very medieval and not very early Christian, I think.
+
+569
+00:52:15,600 --> 00:52:21,759
+Anyway, there's nothing, finally, he loves Beatrice so much that even she can't really satisfy him.
+
+570
+00:52:21,759 --> 00:52:24,320
+A very weird, hard thing to understand.
+
+571
+00:52:24,319 --> 00:52:28,800
+But there's nothing in the world that can satisfy him.
+
+572
+00:52:28,799 --> 00:52:38,560
+And he, in the end, you'll see in the Paradiso, sort of sends him off, so to speak, to contemplate God.
+
+573
+00:52:38,879 --> 00:52:47,520
+And so Beatrice turns out, and Jesus turns out, on Dante's view, to be the way but not the truth.
+
+574
+00:52:47,520 --> 00:52:53,040
+To talk, I mean, you're sort of, I think he's sort of deviating from the Gospel of John.
+
+575
+00:52:53,200 --> 00:52:56,080
+What is it for Beatrice to be the way and not the truth?
+
+576
+00:52:56,080 --> 00:52:58,000
+She leads him to God.
+
+577
+00:52:58,000 --> 00:53:08,160
+She soups up his love to such an extent of complete adoration that she's not able to completely fulfill it.
+
+578
+00:53:08,160 --> 00:53:15,360
+And then she transfers him to God, who is the only being, the supreme being, that can fulfill it.
+
+579
+00:53:15,359 --> 00:53:18,960
+And that means she was the way to the truth.
+
+580
+00:53:18,959 --> 00:53:23,480
+The truth being the contemplation of the highest reality.
+
+581
+00:53:23,480 --> 00:53:26,440
+I take it that's how Dante thinks of it.
+
+582
+00:53:20,480 --> 00:53:32,759
+On 3.11, he talks about it in ways that are somewhat hard to figure out.
+
+583
+00:53:33,399 --> 00:53:34,839
+I'll tell you what I think.
+
+584
+00:53:34,839 --> 00:53:54,040
+On 3.11, which is Canto 31, line 22, she says, filled as you were with the desire I taught you for that good, without any capital letters, and for that good beyond which nothing exists on earth to which man may aspire.
+
+585
+00:53:54,040 --> 00:54:09,399
+That is, you're going to fill with a desire for a good which so supreme, I think that's God, only called Aristotelian, beyond which nothing exists on earth which man can aspire.
+
+586
+00:54:09,399 --> 00:54:14,279
+And then what yawning mode, Sephard to abandon all hope.
+
+587
+00:54:14,520 --> 00:54:19,559
+So she, I think, she sets him up with a desire that only God can satisfy.
+
+588
+00:54:19,560 --> 00:54:22,200
+I think that's what that is trying to say.
+
+589
+00:54:22,600 --> 00:54:24,040
+Now, and then what?
+
+590
+00:54:24,359 --> 00:54:30,920
+Well, for one thing, Chiardi panics at this point.
+
+591
+00:54:30,919 --> 00:54:37,480
+And I think it's sort of funny what Chiardi's always having these sort of Puritan reactions.
+
+592
+00:54:37,480 --> 00:54:53,960
+This idea that Dante's total physical romantic love for Beatrice is how every soul relates to Jesus and how Jesus is the way for everyone to get to God.
+
+593
+00:54:54,839 --> 00:55:09,279
+When Chiardi thinks about it, on 317, the middle of the page in the notes, just to note, note that Dante doesn't achieve his revelation by looking at the griffon itself, but by looking at its reflection in the eyes of Beatrice.
+
+594
+00:55:05,560 --> 00:55:12,239
+And what, in parentheses, as the church.
+
+595
+00:55:12,560 --> 00:55:14,079
+So he's turned.
+
+596
+00:55:14,080 --> 00:55:19,520
+Chiardi can't imagine that Dante could have this complete, I mean, how can Chiardi be meaning this?
+
+597
+00:55:19,680 --> 00:55:27,120
+But he can't imagine that Dante is having this sort of physical, romantic, flaming love for Beatrice.
+
+598
+00:55:27,120 --> 00:55:41,519
+And since Beatrice is in that chariot that's being pulled in the procession, which is the church, he thinks that somehow, if he can think at all, that Beatrice is the church.
+
+599
+00:55:41,759 --> 00:55:43,279
+Beatrice isn't the heart.
+
+600
+00:55:44,080 --> 00:55:48,160
+Beatrice is the person in the cart, and she's not the church.
+
+601
+00:55:48,480 --> 00:55:50,079
+If she's anything, she's Jesus.
+
+602
+00:55:50,080 --> 00:55:52,720
+I mean, she's Dante's Savior.
+
+603
+00:55:53,040 --> 00:56:04,480
+And now, and so, and now his love for Beatrice gets souped up, and he sees the incarnation.
+
+604
+00:56:04,480 --> 00:56:06,400
+I'm getting to where we were.
+
+605
+00:56:07,120 --> 00:56:12,960
+And then Dante will get to the truth, will get to God thanks to her.
+
+606
+00:56:13,759 --> 00:56:22,640
+And now she makes this speech on page 312, which has the fair body part in it, but it has something else in it.
+
+607
+00:56:22,640 --> 00:56:26,800
+The reason she's talking about the fair body is further interesting.
+
+608
+00:56:27,759 --> 00:56:41,279
+She says on 49, 312, nothing in art or nature could call forth such joy for you as the sight of that fair body, which clothed me once, and now shifts back to earth.
+
+609
+00:56:41,279 --> 00:56:56,120
+Now, at this point, Dante really starts getting caught in the crossfire of articulation, because he's got this beautiful Dante story, that romantic love is what saves people.
+
+610
+00:56:56,600 --> 00:57:01,320
+And then it's embodied, focused on one fair body and so forth.
+
+611
+00:57:01,319 --> 00:57:06,200
+And now it turns out it's very important that we've got to get rid of Beatrice's body.
+
+612
+00:57:06,200 --> 00:57:07,399
+She already would like that.
+
+613
+00:57:07,399 --> 00:57:08,520
+So it goes on.
+
+614
+00:57:08,520 --> 00:57:19,239
+She says, and if my dying turned that highest pleasure, that is her body, to very dust, what joy could still remain in mortal things for you to seek and treasure?
+
+615
+00:57:19,239 --> 00:57:31,320
+That the first blow you took from such vain things, your every thought, the first blow you took from such vain things, your every thought should have been raised to follow my flight above decay.
+
+616
+00:57:31,319 --> 00:57:41,559
+That you should have remained faithful to really something like the meaning of our love, not the actual embodiment of our love.
+
+617
+00:57:41,560 --> 00:57:47,799
+How could you get hooked on the embodiment of my love and then when I died, think that somehow it was over?
+
+618
+00:57:47,799 --> 00:57:50,120
+But that's what happened, or it seemed to happen.
+
+619
+00:57:50,120 --> 00:57:52,999
+He went through a period in which he lost touch with Beatrice.
+
+620
+00:57:53,000 --> 00:57:55,080
+That's why he was in the dark woods.
+
+621
+00:57:56,120 --> 00:58:01,079
+Nor should your wings have been weighted down by any joy below, love of a maid.
+
+622
+00:58:01,080 --> 00:58:11,640
+She's angry because he seems to have had some affair with some other woman or any other fleeting and useless thing to wait a second blow.
+
+623
+00:58:12,359 --> 00:58:14,599
+If you love this maid, she would have died.
+
+624
+00:58:14,600 --> 00:58:22,360
+So since people die, you shouldn't have this unconditional admiration of the whole embodied person.
+
+625
+00:58:22,359 --> 00:58:25,479
+It's again to say the truth doesn't go away, Story.
+
+626
+00:58:25,480 --> 00:58:30,840
+I mean, it's fine to get your love souped up toward an embodied other person.
+
+627
+00:58:30,839 --> 00:58:57,840
+But if you're asking for trouble, if you really make the meaning of your life depend on the other embodied person, and Dante is slipping into some kind of Stoic view, some kind of Greek view, not Homeric, Plato and Aristotle kind of view, where only if you could relate, I mean, he's really, I think, not Stoic, I take that back, because that would say love less.
+
+628
+00:58:57,839 --> 00:58:59,599
+That's certainly not the idea.
+
+629
+00:58:59,600 --> 00:59:10,080
+It's not that she's supposed to soup up your love, and you're not supposed to love less, but you're supposed to transfer that love to first to the meaning of the love.
+
+630
+00:59:10,080 --> 00:59:15,680
+You could get your whole meaning of your life by having had this relation to Beatrice.
+
+631
+00:59:15,680 --> 00:59:17,600
+That's what you should have remembered.
+
+632
+00:59:17,600 --> 00:59:30,800
+And then you could transfer that disembodied meaning of the love to a direct experience of God, who is altogether disembodied, and you'll see in the Paradiso.
+
+633
+00:59:30,799 --> 00:59:32,959
+And that's now where are we?
+
+634
+00:59:32,959 --> 00:59:39,999
+I mean, if you get to that, it's very confusing and I think sort of depressing to me, because Dante seems to have blown it.
+
+635
+00:59:40,000 --> 00:59:57,600
+I mean, he's made Beatrice the central Jesus figure, Savior figure in his life, but then he's sort of thrown Jesus and Savior figure into the business of being the way to another truth, which is disembodied and pure spiritual and so forth.
+
+636
+00:59:57,600 --> 01:00:04,480
+That doesn't seem to have gotten the message of the troubadours in the New Testament right.
+
+637
+01:00:04,480 --> 01:00:06,319
+But it's the message of St.
+
+638
+01:00:06,319 --> 01:00:20,080
+Thomas, and there's always this Greek articulation running crash into the Christian articulation, my Christian articulation, and I think Dante's experience.
+
+639
+01:00:20,080 --> 01:00:23,000
+And this isn't back to the three stars and the four stars.
+
+640
+01:00:20,399 --> 01:00:34,600
+I mean, he doesn't see that the faith, hope, and love, which he's interpreting in his romantic love of Beatrice, has replaced and trumped the other stars.
+
+641
+01:00:34,600 --> 01:00:41,640
+And all the whole wisdom of antiquity is wrong.
+
+642
+01:00:42,120 --> 01:00:45,400
+It can't be a step to something else.
+
+643
+01:00:45,399 --> 01:00:46,279
+It's just wrong.
+
+644
+01:00:46,279 --> 01:00:47,560
+It's a dead end.
+
+645
+01:00:47,799 --> 01:00:50,680
+Because it says you should have temperance.
+
+646
+01:00:50,680 --> 01:00:52,519
+You should cut down your love.
+
+647
+01:00:53,560 --> 01:00:54,519
+That's a dead end.
+
+648
+01:00:55,000 --> 01:01:07,159
+If in a created universe in which there is God who is able to satisfy the most extreme desire, then it's just wrong to cut down your love.
+
+649
+01:01:07,160 --> 01:01:11,480
+And it's wrong to, and now that's a different point.
+
+650
+01:01:11,480 --> 01:01:16,599
+And it looks like somebody embodied could satisfy all your love.
+
+651
+01:01:16,839 --> 01:01:18,920
+That's what Jesus seemed to be showing.
+
+652
+01:01:19,080 --> 01:01:31,400
+He didn't remember he who's seen me has seen the Father, and he meant me incarnate, and the word made flesh, but now the flesh is being dropped.
+
+653
+01:01:31,399 --> 01:01:33,640
+And that's what's happening here.
+
+654
+01:01:33,640 --> 01:01:46,200
+I can't say anything about it except that it's inevitable, that it's just too hard and too premature for Dante's really interesting vision to work.
+
+655
+01:01:46,200 --> 01:01:51,479
+Now, I would say maybe he's afraid of the church because he's afraid, I mean, the church would be like Chiari.
+
+656
+01:01:51,480 --> 01:01:54,200
+They'd be very upset about all this if they understood it.
+
+657
+01:01:54,200 --> 01:01:56,039
+But I don't think Dante's afraid of the church.
+
+658
+01:01:56,040 --> 01:01:57,960
+I don't think Dante's afraid of anything.
+
+659
+01:01:58,200 --> 01:02:06,800
+And there's plenty of heresies in here, including, I told you, the present Pope being in hell and some sort of virtual Pope being on the throne.
+
+660
+01:02:05,480 --> 01:02:11,279
+I don't think Dante really is going to let that intimidate him.
+
+661
+01:02:11,600 --> 01:02:17,279
+I think it's more that he's fallen under the influence of St.
+
+662
+01:02:17,279 --> 01:02:18,160
+Thomas, that's all.
+
+663
+01:02:18,560 --> 01:02:25,199
+That the reigning articulation is an articulation which is really not a good articulation.
+
+664
+01:02:25,200 --> 01:02:28,560
+It's just underlining what it's trying to articulate.
+
+665
+01:02:28,560 --> 01:02:47,599
+And Dante's caught between the really deep sense, thanks to the troubadour, of some new kind of love, new kind of relation to God, and the old Platonic Aristotelian model being recycled and trying to get to put this Christian experience into it.
+
+666
+01:02:47,600 --> 01:02:48,640
+Beatrice wants to say something.
+
+667
+01:02:50,959 --> 01:02:55,279
+Gingerbotton dies the same thing that happens to Jesus in the bottom of God.
+
+668
+01:02:55,600 --> 01:02:56,640
+He also dies.
+
+669
+01:02:57,120 --> 01:02:58,160
+Wow, that's good.
+
+670
+01:02:58,160 --> 01:02:59,040
+That's good.
+
+671
+01:02:59,040 --> 01:03:00,800
+I have to think about that.
+
+672
+01:03:01,759 --> 01:03:03,360
+Yes, he does.
+
+673
+01:03:03,359 --> 01:03:10,319
+And then he says that he's gone for a while, that he'd come back for a while, but that's only a little while he comes back.
+
+674
+01:03:10,319 --> 01:03:14,959
+And then he sends the Holy Spirit, which is some mixture.
+
+675
+01:03:14,959 --> 01:03:27,279
+I've been convinced by one of you who came to office hours, that the Holy Spirit is some mixture of the articulator and a kind of mood.
+
+676
+01:03:27,279 --> 01:03:36,800
+But whatever it is, and I have, I'll talk more about that later if the guy who's teaching it to me explains it to me more.
+
+677
+01:03:36,799 --> 01:03:40,560
+But Jesus is gone.
+
+678
+01:03:40,560 --> 01:03:42,000
+Why isn't that?
+
+679
+01:03:42,319 --> 01:03:44,399
+Well, now, Beatrice, here's the answer.
+
+680
+01:03:44,399 --> 01:03:46,720
+I mean, the answer is a puzzle.
+
+681
+01:03:46,720 --> 01:03:54,759
+If Jesus says he has seen me and seeing the Father, and then Jesus is gone, so you can't see him anymore.
+
+682
+01:03:49,839 --> 01:03:57,480
+I mean, he's just an idea.
+
+683
+01:03:57,480 --> 01:04:00,039
+Then what are you supposed to see?
+
+684
+01:04:00,040 --> 01:04:02,759
+If you can't see, I think this is what happens.
+
+685
+01:04:02,759 --> 01:04:07,079
+That's why the Virgin Mary comes in and gets to be so important, although I'm not sure.
+
+686
+01:04:07,399 --> 01:04:14,040
+There's got to be something incarnate that you can see in this religion and love and adore.
+
+687
+01:04:14,040 --> 01:04:28,039
+And if Jesus is gone, well, then you've got to make statues to Jesus and statues to those you can't just go off and contemplate some disincarnated thing, the supreme being.
+
+688
+01:04:28,040 --> 01:04:35,319
+You can't go back to the Hebrews who don't think you can make a picture or who shouldn't worship all these.
+
+689
+01:04:36,200 --> 01:04:44,759
+It upsets the Jews who see these Christians sort of lighting candles and so forth in front of the Virgin Mary and in front of the statue of Jesus.
+
+690
+01:04:44,759 --> 01:04:48,520
+But I think this following Beatrice, you're stuck with that.
+
+691
+01:04:48,520 --> 01:04:55,640
+If Jesus, try to put it my way, if Jesus comes around and says, I'm God, if you've seen me, you've seen the Father.
+
+692
+01:04:55,640 --> 01:04:58,039
+You can't even see the Father anymore.
+
+693
+01:04:58,040 --> 01:04:59,080
+You've got me.
+
+694
+01:04:59,319 --> 01:05:00,839
+I'm better to see.
+
+695
+01:05:00,839 --> 01:05:04,520
+I'm the one thing you can see and so forth.
+
+696
+01:05:04,520 --> 01:05:07,880
+And then leaves, this is a big problem.
+
+697
+01:05:08,200 --> 01:05:09,479
+I don't know what to think about.
+
+698
+01:05:09,640 --> 01:05:13,320
+Of course, he's coming back eventually, but what are you supposed to do in the meantime?
+
+699
+01:05:13,319 --> 01:05:15,799
+Of course, that's the other strange thing about Christians.
+
+700
+01:05:15,799 --> 01:05:25,800
+They've not only got the problem of having to have something concrete to adore once Jesus is gone, and that's a big puzzle.
+
+701
+01:05:25,799 --> 01:05:33,080
+But then they're all, particularly early Christians, thought, well, Jesus is coming back right away, which is another logical response.
+
+702
+01:05:34,680 --> 01:05:42,479
+If you've seen him, you've seen the Father, and he leaves for a while, and he says, I'm coming back, he must mean right away.
+
+703
+01:05:42,720 --> 01:05:46,480
+And so they were waiting for the end of the world immediately.
+
+704
+01:05:46,480 --> 01:05:48,000
+And then it would have made sense.
+
+705
+01:05:48,000 --> 01:06:00,160
+Then everybody would have got their bodies back, and Jesus would have been there in his body, and it would have all been going around with what's called glorified bodies, better bodies than you've had before, according to St.
+
+706
+01:06:00,239 --> 01:06:01,840
+Augustine, anyway.
+
+707
+01:06:01,839 --> 01:06:05,279
+And then it would have worked out, but it didn't work out that way.
+
+708
+01:06:05,279 --> 01:06:07,839
+And maybe, and now Dante's got this problem.
+
+709
+01:06:07,839 --> 01:06:21,840
+If Beatrice is right, I mean, I mean, sorry, that Beatrice is right, that if Dante's Beatrice disappears and dies, what's Dante supposed to do?
+
+710
+01:06:21,839 --> 01:06:28,960
+Well, I don't, this won't illuminate you any, but it's important to say, only Kierkegaard's got it figured out.
+
+711
+01:06:28,959 --> 01:06:52,080
+I mean, Kierkegaard's got the whole thing trying to, Kierkegaard's got a view about how a Christian can always have, must have, an unconditional commitment to something embodied and finite and temporal, and how it could be have that even though people die.
+
+712
+01:06:52,080 --> 01:06:54,239
+But you can't have, I mean, that's Philosophy VII.
+
+713
+01:06:54,239 --> 01:06:54,960
+I can't.
+
+714
+01:06:54,959 --> 01:06:58,880
+But anyway, you know, so Dante isn't only caught.
+
+715
+01:06:59,359 --> 01:07:00,319
+It's fascinating.
+
+716
+01:07:00,319 --> 01:07:02,160
+It's always fun to learn something.
+
+717
+01:07:02,160 --> 01:07:15,039
+So Dante isn't only caught between a kind of coherent Christian view and a coherent Greek view, represented by the Gospel of John on the one hand and Aristotle and St.
+
+718
+01:07:15,039 --> 01:07:16,720
+Thomas on the other.
+
+719
+01:07:16,720 --> 01:07:23,319
+But there is an incoherent Christian story told in the Gospel.
+
+720
+01:07:23,640 --> 01:07:30,359
+I mean, that you have to keep seeing Jesus to see the Father, and that Jesus leaves and goes and you can't see him anymore.
+
+721
+01:07:30,360 --> 01:07:34,039
+And yet, supposedly, you're not supposed to see the Father anymore.
+
+722
+01:07:34,039 --> 01:07:38,119
+So there's a big problem in the Gospels.
+
+723
+01:07:38,119 --> 01:07:43,799
+And so it's not as if, I'm just saying it to myself, the Gospel is a coherent story, and look what a mess St.
+
+724
+01:07:43,799 --> 01:07:45,399
+Thomas is making of it.
+
+725
+01:07:45,640 --> 01:07:56,839
+The Gospel is a very, very interesting, complicated story, and different interpretations of it, different articulations of it, try to make it coherent.
+
+726
+01:07:56,839 --> 01:08:00,680
+So you've got two articulations coming around.
+
+727
+01:08:00,680 --> 01:08:19,079
+The romantic, chivalric one, where Dante should have loved Beatrice ever after and got her body back and they lived happily forever after, embodied and the Day of Judgment came around very, was coming any minute.
+
+728
+01:08:19,079 --> 01:08:21,239
+That's a coherent story.
+
+729
+01:08:21,240 --> 01:08:23,959
+And the St.
+
+730
+01:08:23,959 --> 01:08:27,799
+Thomas, Aristotle's story was a coherent story.
+
+731
+01:08:27,799 --> 01:08:38,039
+The real God is an abstract God, and the whole role of Jesus was only to be the way that led you to the truth.
+
+732
+01:08:38,839 --> 01:08:45,720
+So the real interesting issue is, I guess, whether how we get together Jesus being the truth and the way in the end.
+
+733
+01:08:45,720 --> 01:08:48,199
+I mean, is Jesus the apparent?
+
+734
+01:08:48,520 --> 01:08:51,720
+If Jesus is the truth, then what are you going to do when he goes away?
+
+735
+01:08:51,720 --> 01:08:52,600
+That's not a pun.
+
+736
+01:08:52,680 --> 01:08:54,039
+I mean, there's two different things.
+
+737
+01:08:54,039 --> 01:08:59,799
+So if he's the truth, then you better stay around or come back soon.
+
+738
+01:09:00,119 --> 01:09:12,479
+Or is he the way, since he didn't stay around and come back soon, which takes you to a God that is not him, but some abstract, eternal something.
+
+739
+01:09:12,799 --> 01:09:17,279
+And then, of course, we don't understand how he's the truth, but only the way.
+
+740
+01:09:17,600 --> 01:09:25,119
+I mean, there's some puzzle in here, and I think Dante's struggling with it, and everybody is.
+
+741
+01:09:25,119 --> 01:09:27,839
+You look like you want to say something, right?
+
+742
+01:09:28,159 --> 01:09:29,119
+What?
+
+743
+01:09:29,759 --> 01:09:31,199
+Okay, but somebody did.
+
+744
+01:09:31,199 --> 01:09:33,359
+Then, Kevin, did you want to say something?
+
+745
+01:09:33,360 --> 01:09:37,839
+Okay, I saw a hand or a glimmer that somebody was going to try to help out.
+
+746
+01:09:37,839 --> 01:09:47,199
+I mean, in a way, this Beatrice has helped out, but only by making matters worse, which is always a good step in some direction.
+
+747
+01:09:47,199 --> 01:09:48,239
+Did you want to say something?
+
+748
+01:09:48,240 --> 01:09:48,799
+No.
+
+749
+01:09:48,799 --> 01:09:50,560
+Okay, yes, Kevin, did you?
+
+750
+01:09:51,119 --> 01:10:06,480
+I mean, when Jesus said that he's coming back, did that mean that not that Jesus is literally coming back, but that it's going to be a good practice of romantic love and that they'll need Beatrice's.
+
+751
+01:10:07,039 --> 01:10:08,079
+That's good.
+
+752
+01:10:08,079 --> 01:10:13,759
+Okay, that's how I would read it, but I don't think that's going to answer this Beatrice here question.
+
+753
+01:10:13,759 --> 01:10:17,839
+I mean, yes, it should be that this is Kierkegaard.
+
+754
+01:10:17,839 --> 01:10:29,199
+I mean, somehow when Jesus is coming back, it means somehow everybody's going to have their object of total unconditional romantic commitment.
+
+755
+01:10:29,199 --> 01:10:36,239
+And somehow even death isn't going to change that.
+
+756
+01:10:36,240 --> 01:10:42,480
+Yes, but I mean, that's a very complicated story that nobody figured out until Kierkegaard.
+
+757
+01:10:42,480 --> 01:10:50,439
+It isn't enough to say that Jesus isn't coming back, that everybody should have their Beatrice, but of course their Beatrice is going to die too and go away and not come back.
+
+758
+01:10:50,440 --> 01:10:51,720
+That's the problem.
+
+759
+01:10:50,159 --> 01:10:53,799
+That's Dante's problem.
+
+760
+01:10:54,440 --> 01:11:02,119
+I mean, he wasn't able, I mean, you have to be a genius like Kierkegaard to think it out and try to make it coherent.
+
+761
+01:11:02,119 --> 01:11:04,519
+Anybody else want to say anything about it?
+
+762
+01:11:04,759 --> 01:11:19,640
+I was going to go on to summarize things, but I'm not worried that I didn't get to it because what I want to, in the last lecture, I'll try to put it together, what Dante thinks about, for instance, free will.
+
+763
+01:11:19,640 --> 01:11:23,959
+I've been skipping the free will part, but it's too, with three minutes to go.
+
+764
+01:11:23,959 --> 01:11:25,560
+I don't want to start the free will part.
+
+765
+01:11:25,560 --> 01:11:25,959
+Yeah.
+
+766
+01:11:28,919 --> 01:11:31,959
+Am I saying that the contemplation can't be what?
+
+767
+01:11:32,280 --> 01:11:35,239
+Well, I want to say it shouldn't be.
+
+768
+01:11:35,400 --> 01:11:40,279
+I am saying that contemplating God is Dante's solution.
+
+769
+01:11:40,280 --> 01:11:41,879
+I mean, that's what he says in the book.
+
+770
+01:11:42,039 --> 01:11:47,879
+You'll read the Paradiso over occasion and you'll see him contemplating God, and it's totally satisfying.
+
+771
+01:11:47,879 --> 01:11:49,720
+What more could anybody want?
+
+772
+01:11:49,720 --> 01:11:51,399
+That is his solution.
+
+773
+01:11:51,400 --> 01:12:07,640
+But it seems to me it conflicts with his view that Beatrice is sort of the totally adorable being that allows him to soup up his love completely and satisfy it.
+
+774
+01:12:07,640 --> 01:12:29,799
+And of course, the problem is Beatrice is gone, and then I'm just thinking out what you're saying, and then the next best thing is to go back to a vision of God as eternal and the supreme being, out of utterly un can die and everything.
+
+775
+01:12:30,119 --> 01:12:35,720
+And it looks like that shouldn't be possible.
+
+776
+01:12:36,159 --> 01:12:44,799
+Because when you've seen Jesus and Beatrice, you've seen the Father, and you've seen that you can have it all, the incarnation, the spiritual and the physical.
+
+777
+01:12:44,799 --> 01:12:51,839
+Why would you settle for the pure s how could you get back in touch with the pure spiritual and how would it satisfy you?
+
+778
+01:12:51,839 --> 01:12:52,640
+You get the last word.
+
+779
+01:12:52,640 --> 01:12:53,680
+We have one minute.
+
+780
+01:12:53,680 --> 01:12:59,119
+Ah, no, you're saying what Kierkegaard calls the night of resignation.
+
+781
+01:12:59,119 --> 01:13:08,479
+That is, the night of resignation makes the meaning of the love of Beatrice the eternal, secure, fulfilling thing.
+
+782
+01:13:08,480 --> 01:13:11,839
+I mean, that isn't the move Dante makes because he goes on directly to God.
+
+783
+01:13:11,839 --> 01:13:12,799
+And that's better.
+
+784
+01:13:12,799 --> 01:13:19,199
+That saves more to keep Beatrice as Jesus in the picture to make the meaning of the relation.
+
+785
+01:13:19,199 --> 01:13:20,959
+But it wasn't a meaning relation.
+
+786
+01:13:20,959 --> 01:13:23,919
+It was a physical incarnate relation.
+
+787
+01:13:23,919 --> 01:13:28,799
+It still loses the flesh to make the meaning the solution.
+
+788
+01:13:28,799 --> 01:13:31,919
+And therefore, I don't think it's completely the solution.
+
+789
+01:13:31,919 --> 01:13:35,680
+Although it's the next move in the history of the story.
+
+790
+01:13:35,680 --> 01:13:36,480
+Okay, that's it.
+
+791
+01:13:36,480 --> 01:13:37,600
+Have a good vacation.

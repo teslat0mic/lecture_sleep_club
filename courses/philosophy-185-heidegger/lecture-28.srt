@@ -1,0 +1,3302 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:00,001
+So let's start.
+
+2
+00:00:00,000 --> 00:00:14,160
+To begin with, I want to go back and try to say more clearly what's going on with the truth chapter, though I find it very, very subtle and minimal and hard to get a grip on.
+
+3
+00:00:14,160 --> 00:00:18,800
+This may not be right either, but it's at least better.
+
+4
+00:00:18,800 --> 00:00:24,800
+So I think to begin with, we've got to understand what Heidegger's up to.
+
+5
+00:00:25,361 --> 00:00:29,200
+In the truth chapter, he's got three different jobs.
+
+6
+00:00:29,201 --> 00:00:33,201
+I guess really four different jobs, but I'm only going to talk about three of them.
+
+7
+00:00:33,600 --> 00:00:35,840
+I'll tell you which one the fourth is and why.
+
+8
+00:00:35,841 --> 00:00:37,440
+I'm not going to talk about it.
+
+9
+00:00:37,440 --> 00:00:46,001
+But the three are, he wants to reject the correspondence theory of truth, roughly say that it's incoherent and useless.
+
+10
+00:00:46,001 --> 00:00:52,561
+And then, this is the subtle part, tries to recover the phenomenon behind the traditional view.
+
+11
+00:00:52,561 --> 00:01:00,320
+Something that is really going on, that the traditional view got wrong, but which you've got to pay attention to and try to get right.
+
+12
+00:01:00,321 --> 00:01:03,440
+That's what we're going to talk about a lot of the time.
+
+13
+00:01:03,440 --> 00:01:09,361
+And then derive, and then he owes an explanation, as usual when you do this sort of thing.
+
+14
+00:01:09,361 --> 00:01:16,440
+Well, how come for 2,000 years a lot of very smart people believed the correspondence theory of truth?
+
+15
+00:01:17,001 --> 00:01:35,160
+What's going on there that makes that seem so obviously the right way to think about things, that there's something subjective or mental or ideal whereby minds or propositions have content and correspond to objects.
+
+16
+00:01:35,561 --> 00:01:38,121
+That seems a very plausible view.
+
+17
+00:01:38,121 --> 00:01:44,281
+So he has to tell us why it seems plausible and wrong and why it's wrong.
+
+18
+00:01:44,281 --> 00:01:56,120
+I mean, we've already seen that it's hopeless for the incoherent, but now he wants to also show the particular mistake that leads to this incoherent view.
+
+19
+00:01:56,121 --> 00:01:59,240
+Okay, so starting with one.
+
+20
+00:02:00,201 --> 00:02:08,281
+We make an assertion that an object, this is just the sort of facts of the case.
+
+21
+00:02:08,281 --> 00:02:15,320
+We make assertions like the lectern is on the table and or the lectern is brown.
+
+22
+00:02:15,320 --> 00:02:16,600
+Let's stick to that one.
+
+23
+00:02:16,600 --> 00:02:18,521
+That's the sort of traditional one.
+
+24
+00:02:18,521 --> 00:02:22,120
+This object has this property.
+
+25
+00:02:22,121 --> 00:02:26,841
+And that seems all right, and we can get it right or wrong.
+
+26
+00:02:27,721 --> 00:02:35,641
+If I say this object is blue, that assertion isn't going to do the right thing, isn't going to get to the object at all.
+
+27
+00:02:35,641 --> 00:02:39,240
+So we've got to understand that we can get it wrong.
+
+28
+00:02:39,240 --> 00:02:55,721
+And now, and the wrong conclusion to draw from these simple facts is that, again, there must be some content in the subject that corresponds or fails to correspond to the property of the object, namely that in this case, that it's brown.
+
+29
+00:02:56,200 --> 00:03:11,281
+And that view turns out to be incoherent in the sense that we can't really understand what it is for something ideal or mental.
+
+30
+00:03:11,281 --> 00:03:16,480
+I keep saying ideal or mental because there are two different kinds of representations that could correspond.
+
+31
+00:03:16,480 --> 00:03:24,401
+One could be something you have in your mind, intentional content, as Searle would call it, and lots of people call it.
+
+32
+00:03:24,401 --> 00:03:33,680
+It's something, or that's how your assertion, how you're related to an object, so that you make this assertion about it.
+
+33
+00:03:33,680 --> 00:03:42,240
+I have a representation of this lectern, and I have a representation of the lectern that's brown, and that's my mental content.
+
+34
+00:03:42,240 --> 00:03:44,081
+And then I assert it of the object.
+
+35
+00:03:44,081 --> 00:03:45,921
+But it also could be ideal.
+
+36
+00:03:45,920 --> 00:03:47,601
+Heidegger doesn't talk much about that.
+
+37
+00:03:47,600 --> 00:03:49,761
+Husserl talks a lot about that.
+
+38
+00:03:49,760 --> 00:03:59,680
+So propositions like the lectern is brown seem to correspond to the object, even if nobody's saying them or entertaining, making assertions like that.
+
+39
+00:03:59,681 --> 00:04:11,281
+And then we're told, well, the propositions have propositional content, which is some kind of ideal entity that is what makes them, relates them to the object.
+
+40
+00:04:11,281 --> 00:04:13,440
+And Heidegger's got both in mind.
+
+41
+00:04:13,760 --> 00:04:29,841
+But the one he's really after, because it's being in time, he's writing, and because he doesn't want to fight with Husserl at this point in his career, is the subject kind, the intentional content, which is the representation in my mind of the object.
+
+42
+00:04:29,841 --> 00:04:34,320
+And that's the view he really wants to criticize.
+
+43
+00:04:34,961 --> 00:04:37,281
+But now, I'll get back to it.
+
+44
+00:04:37,281 --> 00:04:43,281
+I'm going to go over each of these three points in more detail, but I'm going over them just roughly now.
+
+45
+00:04:43,281 --> 00:04:50,761
+He wants to return to the phenomenon of agreement or correspondence and in some way get it right.
+
+46
+00:04:51,160 --> 00:04:52,360
+I've said that already.
+
+47
+00:04:52,761 --> 00:04:55,560
+I'm going to say the things, sort of what I'm saying three times.
+
+48
+00:04:55,560 --> 00:04:59,000
+I said it very generally in the introduction a minute ago.
+
+49
+00:04:59,000 --> 00:05:06,040
+I want to run through each of the three quickly, and then I want to run through each of the three in more detail.
+
+50
+00:05:06,040 --> 00:05:08,841
+But I'm just going over them, or am I?
+
+51
+00:05:08,841 --> 00:05:10,201
+No, I'm going to stick with this one.
+
+52
+00:05:10,201 --> 00:05:10,761
+Sorry.
+
+53
+00:05:10,761 --> 00:05:18,360
+So I'm going to do the first one first, and that is, now I should be on about 260.
+
+54
+00:05:22,360 --> 00:05:23,081
+I don't know.
+
+55
+00:05:23,081 --> 00:05:25,880
+I seem to have lost a piece, but that's all right.
+
+56
+00:05:25,880 --> 00:05:26,841
+We can find it.
+
+57
+00:05:26,841 --> 00:05:34,120
+I mean, I'm just looking for the place where he says we don't have any idea what this notion of agreement or correspondence could be.
+
+58
+00:05:34,120 --> 00:05:44,600
+How does something ideal or mental get to be corresponding to or agreeing with or in some way even like an object?
+
+59
+00:05:44,600 --> 00:05:58,360
+I mean, whatever it is I've got in my mind, or whatever ideal entity propositions have as their content, it doesn't seem to have anything to do with brown lecterns on the table in such a way that you could just say, compare them.
+
+60
+00:05:58,360 --> 00:06:00,281
+Look, how similar they are.
+
+61
+00:06:00,281 --> 00:06:02,281
+They're not similar at all.
+
+62
+00:06:02,281 --> 00:06:05,480
+That's this first kind of objection.
+
+63
+00:06:05,801 --> 00:06:06,761
+What way?
+
+64
+00:06:06,761 --> 00:06:07,560
+Yeah.
+
+65
+00:06:09,081 --> 00:06:09,881
+Yes.
+
+66
+00:06:10,521 --> 00:06:11,961
+Okay, right, good.
+
+67
+00:06:11,961 --> 00:06:26,600
+In clarifying the truth relation, we should notice also what a peculiar peculiar to the terms of this relation with regard to what do intellectus, the mind, and race, things, agree?
+
+68
+00:06:26,600 --> 00:06:32,160
+In their kind of being, in their essential content, do they give us anything at all with regard to which they can agree?
+
+69
+00:06:32,480 --> 00:06:39,841
+If it's impossible for intellectus and race to be equal because they are not of the same species, are they perhaps similar?
+
+70
+00:06:39,841 --> 00:06:42,160
+And then he decides they're not even similar.
+
+71
+00:06:42,160 --> 00:06:46,721
+So you have to go back and try to figure out some other way of talking about this.
+
+72
+00:06:47,281 --> 00:06:57,121
+At the end of the paragraph, from these questions, it becomes plain that to clarify the structure of truth is not enough to presuppose this relational totality.
+
+73
+00:06:57,120 --> 00:07:02,880
+We've got to go back and inquire into the context of being that provides a support of this totality.
+
+74
+00:07:02,880 --> 00:07:06,721
+That is, we've got to go back and find out something about the phenomenon.
+
+75
+00:07:06,721 --> 00:07:07,760
+I want to write in here.
+
+76
+00:07:07,761 --> 00:07:10,800
+I don't know why I lost 258.
+
+77
+00:07:11,120 --> 00:07:11,920
+Okay.
+
+78
+00:07:12,560 --> 00:07:18,800
+And so then that's, and when he's that's now I connect up with what I was writing and thinking about this morning.
+
+79
+00:07:18,800 --> 00:07:31,680
+Namely, the question which keeps coming up, particularly when I talk to some of the students in office hours about this, is, well, does he believe in the notion of agreement and correspondence at all?
+
+80
+00:07:31,680 --> 00:07:36,480
+Well, in a certain way, no, because he thinks that you can't make any sense of it.
+
+81
+00:07:37,120 --> 00:07:43,761
+But he does think that there's some phenomenon that's being gotten, and that he wants to get at that phenomenon.
+
+82
+00:07:43,760 --> 00:07:56,481
+And really, I suppose, you could call it agreement, except that agreement has now been sort of taken over by these agreements of these fictitious entities that don't agree with each other.
+
+83
+00:07:56,480 --> 00:08:04,721
+He's going to have to find a phenomenon of agreement, which is not the agreement of something mental with something objective.
+
+84
+00:08:04,721 --> 00:08:07,441
+But this is what he's saying, I think, on 260.
+
+85
+00:08:07,441 --> 00:08:11,681
+So look at the middle of the top paragraph.
+
+86
+00:08:12,321 --> 00:08:21,081
+We must, at the same time try to bring into view a phenomenon which is characteristic of knowledge, the phenomenon of truth.
+
+87
+00:08:21,081 --> 00:08:24,201
+What does truth become phenomenal?
+
+88
+00:08:24,201 --> 00:08:29,081
+When does truth become phenomenally explicit in knowledge itself?
+
+89
+00:08:29,081 --> 00:08:33,481
+It does so when such knowing demonstrates itself as true.
+
+90
+00:08:33,480 --> 00:08:37,161
+By demonstrating itself, it is assured of its truth.
+
+91
+00:08:37,161 --> 00:08:43,480
+Thus, in the phenomenal context of demonstration, the relationship of agreement must become visible.
+
+92
+00:08:43,480 --> 00:08:47,641
+It's that last little piece of the quote that I'm interested in.
+
+93
+00:08:47,640 --> 00:08:49,881
+There is a phenomenon of agreement.
+
+94
+00:08:49,880 --> 00:09:02,121
+And we've got to get on that phenomenon before we can spell out how to think about truth and how to say what's right about the traditional view of agreement.
+
+95
+00:09:02,120 --> 00:09:02,520
+Yeah.
+
+96
+00:09:07,321 --> 00:09:08,760
+Okay, that's a tough one.
+
+97
+00:09:08,760 --> 00:09:10,441
+Boy, is that a tough one?
+
+98
+00:09:10,441 --> 00:09:11,961
+I don't know.
+
+99
+00:09:12,681 --> 00:09:16,760
+If he does, they would be obviously breakdown states.
+
+100
+00:09:16,760 --> 00:09:27,161
+He doesn't think that in our normal talking, in our normal coping, in the flow of the way we are in the world, mental states play any role at all.
+
+101
+00:09:27,401 --> 00:09:28,921
+I'm clear about that.
+
+102
+00:09:28,921 --> 00:09:37,001
+But I think he does think that when there's a kind of breakdown, we do attribute it to mental states.
+
+103
+00:09:37,000 --> 00:09:56,041
+We say something like, well, he believed such and such, or that when he mentions in moods that when somebody's in a weird mood, then you have to attribute some inner mood to them because they're out of tune with the shared mood that everybody else is in.
+
+104
+00:09:56,040 --> 00:10:02,321
+And so I think he does believe that there is mental content.
+
+105
+00:10:02,561 --> 00:10:12,241
+And I think he thinks that it's just not the basic under stuff out of which you understand knowledge and you understand action.
+
+106
+00:10:12,561 --> 00:10:21,361
+Searle thinks that intentional content in perception and action is the way to understand our relation to the world and our ability to act.
+
+107
+00:10:21,360 --> 00:10:23,281
+Heidegger certainly thinks no.
+
+108
+00:10:23,600 --> 00:10:28,081
+But then, I don't know if anybody here agrees or disagrees with me.
+
+109
+00:10:28,081 --> 00:10:30,401
+It seems to me he needs a notion of mental content.
+
+110
+00:10:30,400 --> 00:10:36,640
+I don't see how he can get rid of it, and I don't see why he should get rid of it, as long as he understands where it fits in.
+
+111
+00:10:36,640 --> 00:10:36,961
+Yeah.
+
+112
+00:10:47,841 --> 00:10:48,641
+Oh.
+
+113
+00:10:53,280 --> 00:10:55,761
+You're a perfect straight person for this.
+
+114
+00:10:55,760 --> 00:10:58,961
+Yes, that's where that's level two.
+
+115
+00:10:59,280 --> 00:11:02,161
+In Heidegger's jargon, that's not wrong.
+
+116
+00:11:02,161 --> 00:11:03,841
+That comes in too late.
+
+117
+00:11:04,480 --> 00:11:11,441
+It's true that we've got lots of beliefs, and it's sometimes important to find out what we believe and what other people believe.
+
+118
+00:11:11,441 --> 00:11:13,360
+It's true, what was the second thing you said?
+
+119
+00:11:13,360 --> 00:11:14,561
+I just lost it.
+
+120
+00:11:14,561 --> 00:11:17,201
+You said beliefs and something else.
+
+121
+00:11:19,760 --> 00:11:25,360
+Okay, and we make choices and decisions, and all that is absolutely right.
+
+122
+00:11:25,360 --> 00:11:49,240
+But you should be getting used to the idea now that that's all on the background of familiarity and transparent, skillful coping, pressing into possibilities, which are on the basis, to talk Heidegger talking, that's on the basis of that basic way in which we are the world existingly, just absorbed in it.
+
+123
+00:11:49,561 --> 00:12:00,681
+Like Hassart says in one place I just saw, like ink in a blotter, which is a nice metaphor, when we're like that, then we're not having beliefs about anything.
+
+124
+00:12:00,681 --> 00:12:03,721
+We're just doing it, and we're not making choices about anything.
+
+125
+00:12:03,721 --> 00:12:07,081
+We're just responding to whatever is pulling us at the moment.
+
+126
+00:12:07,880 --> 00:12:10,041
+So, I'm glad you asked.
+
+127
+00:12:10,681 --> 00:12:21,561
+I mean, that's the important phenomenological intuition to keep in mind, is always that the tradition, of which Sterl is a perfect example, has got something right.
+
+128
+00:12:21,561 --> 00:12:31,880
+It's just that they think that they've got the basic thing, and what they've got is a certain kind of interesting, important, and not to be belittled.
+
+129
+00:12:31,880 --> 00:12:35,001
+And that's why I say breakdown phenomenon isn't quite the right word.
+
+130
+00:12:35,321 --> 00:12:38,681
+It's a disturbance of the flow phenomenon.
+
+131
+00:12:38,681 --> 00:12:40,360
+That's what they've got.
+
+132
+00:12:40,360 --> 00:12:40,760
+Yeah.
+
+133
+00:12:49,561 --> 00:12:55,721
+Whether you see something like internal monologue, it encompasses all of the coping.
+
+134
+00:12:57,801 --> 00:13:01,160
+Is there an internal monologue accompanying all of our coping?
+
+135
+00:13:01,161 --> 00:13:01,961
+Not my coping.
+
+136
+00:13:01,961 --> 00:13:04,121
+Usually I find out only later what I've done.
+
+137
+00:13:13,240 --> 00:13:22,761
+Oh, well, I do think that a lot of the time we're thinking about stuff, where we're heading and what's going to happen in class and what just happened in class.
+
+138
+00:13:22,760 --> 00:13:24,681
+Heidegger doesn't have to deny that.
+
+139
+00:13:24,681 --> 00:13:29,401
+He just has to say that that plays no essential role in our perceiving and acting.
+
+140
+00:13:29,520 --> 00:13:31,041
+It's just accompaniment.
+
+141
+00:13:31,041 --> 00:13:38,961
+You could shut it up if you're a good Buddhist, I think, or and could go into a kind of mindless state, and you'd be better off if you could.
+
+142
+00:13:38,961 --> 00:13:53,361
+But there is this sort of yakking inner track, and so I think Heidegger's going to say, Yeah, there is this kind of constant talk going on, so much the worse for us all, but it isn't playing any important role.
+
+143
+00:13:54,161 --> 00:13:56,240
+I think it'd be crazy to deny it.
+
+144
+00:13:59,280 --> 00:14:00,721
+No, it's just well, sort of not.
+
+145
+00:14:00,721 --> 00:14:06,321
+It's sort of this con this thought and then that thought and all kinds of sort of that's the internal monologue.
+
+146
+00:14:06,321 --> 00:14:20,321
+If you once you think that that's what's basic, is the influx like Kant, the sort of stream of experience and inner sense, then you're in the old traditional view in whatever version you happen to have it.
+
+147
+00:14:20,321 --> 00:14:22,881
+You look like you want to say something else.
+
+148
+00:14:22,880 --> 00:14:23,921
+Oh, okay.
+
+149
+00:14:23,921 --> 00:14:27,361
+Yeah, yes, go ahead.
+
+150
+00:14:27,360 --> 00:14:28,240
+With what?
+
+151
+00:14:30,161 --> 00:14:31,681
+When we're reading.
+
+152
+00:14:34,321 --> 00:14:34,961
+Where is that?
+
+153
+00:14:37,520 --> 00:14:38,561
+That's interesting.
+
+154
+00:14:38,561 --> 00:14:42,001
+We're thinking, and what is we what are we doing when we're thinking?
+
+155
+00:14:42,000 --> 00:14:43,841
+Well, look at the phenomenon.
+
+156
+00:14:43,841 --> 00:14:52,001
+We are perceiving the book, and through that, the ideas.
+
+157
+00:14:52,321 --> 00:14:57,920
+And I don't know if Heidegger has anything to say about it.
+
+158
+00:14:57,921 --> 00:15:19,001
+The important thing I think to say about it, if you're Heidegger, is it's derivative, and you could do an interesting phenomenological study of it, but it would all again be on the basis of the general familiarity of the books and of what's in the book and the skill for reading the book, all of which has to be in place.
+
+159
+00:15:19,000 --> 00:15:24,921
+But I think, I mean, maybe I'm missing something, but I don't know any place where Heidegger talks about that kind of thinking.
+
+160
+00:15:24,921 --> 00:15:26,760
+He has his own notion of thinking.
+
+161
+00:15:26,760 --> 00:15:28,360
+He thinks thinking is very important.
+
+162
+00:15:28,360 --> 00:15:30,041
+It's something he's doing.
+
+163
+00:15:30,041 --> 00:15:40,441
+But before he writes the book, I mean, it's there, there are thinkers, and they try to understand the human condition and what's going on in the world and find language for expressing it.
+
+164
+00:15:40,441 --> 00:15:42,361
+He's got a story about that.
+
+165
+00:15:42,360 --> 00:15:48,521
+He's also got a story, which is interestingly more down to earth.
+
+166
+00:15:48,520 --> 00:15:54,841
+That when he tells his class at one point in one of the lectures, think about the bridge in Heidelberg.
+
+167
+00:15:54,841 --> 00:15:58,921
+And then he says, And where, and what have you got in your mind?
+
+168
+00:15:58,921 --> 00:16:02,681
+Some representation of the bridge in Heidelberg that you're consulting?
+
+169
+00:16:02,681 --> 00:16:07,001
+No, your mind is just directly at the bridge in Heidelberg.
+
+170
+00:16:07,000 --> 00:16:20,360
+And he says, Of course, if it's snowing on the bridge in Heidelberg, it isn't snowing here in the classroom, but then you're, but you have your mind directed toward the bridge in Heidelberg, and in this case, that it's being snowed on.
+
+171
+00:16:20,361 --> 00:16:22,441
+And he thinks, and I think that's right.
+
+172
+00:16:22,441 --> 00:16:26,840
+I mean, he just says he's just, again, sticking to the phenomena and not, what does he say?
+
+173
+00:16:26,840 --> 00:16:37,800
+And you're slipping in some representation that's supposed to help, but I think he would say doesn't really help to say, aha, you get to the bridge in Heidelberg by the representation of the bridge you have in your mind.
+
+174
+00:16:37,800 --> 00:16:39,480
+It doesn't do any good to say that.
+
+175
+00:16:39,480 --> 00:16:47,160
+You might as well just stick to the phenomena and say we have the capacity to think about things, whether they're in our immediate vicinity or not.
+
+176
+00:16:47,161 --> 00:16:47,640
+Yeah.
+
+177
+00:16:51,800 --> 00:16:52,841
+No, that's right.
+
+178
+00:16:54,361 --> 00:17:01,841
+You mean, well, yes, the book sort of is transparent for you.
+
+179
+00:17:02,000 --> 00:17:06,000
+Certainly, what you could completely not notice what language it was in.
+
+180
+00:17:06,161 --> 00:17:12,801
+That happens to bilingual people like my kids would never know whether they were reading their comic books in French or English.
+
+181
+00:17:13,121 --> 00:17:14,800
+That is transparent.
+
+182
+00:17:16,161 --> 00:17:19,601
+And so much of that gets out of the way.
+
+183
+00:17:19,601 --> 00:17:27,280
+But notice, remember, I told you the story where people try to get it into your inner, the Augustine story, I'm sure I told you about St.
+
+184
+00:17:27,681 --> 00:17:28,560
+Jerome.
+
+185
+00:17:28,800 --> 00:17:42,641
+And the wrong analysis of reading is what you're saying, is that some meaning is coming from the book, that's true, and somehow going into your interior private meaning store.
+
+186
+00:17:42,641 --> 00:17:57,840
+Of course, when somebody's reading to themselves and they're reading the book and people are all sitting around watching this amazing phenomenon, it is true that they're getting the meaning transparently out of the book and it's going directly into their mind.
+
+187
+00:17:57,840 --> 00:18:00,240
+But that isn't anything inner.
+
+188
+00:18:00,240 --> 00:18:04,161
+It's just a meaning that they contemplate when they do it.
+
+189
+00:18:04,161 --> 00:18:05,361
+I can't say more about that.
+
+190
+00:18:06,000 --> 00:18:09,281
+And I can't even say I recommend you try to write a paper topic on it.
+
+191
+00:18:09,280 --> 00:18:13,840
+I think it's just something that Heidegger hasn't got anything to say about.
+
+192
+00:18:13,840 --> 00:18:20,480
+And all I can do is do what I just did, try to tell you why he doesn't have anything to say about it.
+
+193
+00:18:20,480 --> 00:18:22,480
+Because he would say it's so derivative.
+
+194
+00:18:23,201 --> 00:18:39,120
+There's so much to say about familiarity, about coping, about perceiving, about which he doesn't have very much to say, and so forth, that and until you get that straightened out, which has been messed up for 2,000 years, don't worry about these other questions.
+
+195
+00:18:39,121 --> 00:18:40,721
+But now people will.
+
+196
+00:18:40,721 --> 00:18:50,360
+And Alva Noe, one of my colleagues, who's a cognitive science kind of person and an analyst, oh, he's interested in Heidegger and so forth.
+
+197
+00:18:50,361 --> 00:19:05,400
+But anyway, Alva's very interested now in the way our mind could be at a bridge in Heidelberg, and that the cognitive science people with their notion that, well, perception is direct, but mental stuff requires representation.
+
+198
+00:19:05,401 --> 00:19:06,681
+Now they're going to get the net.
+
+199
+00:19:06,681 --> 00:19:09,080
+That's already, the first move is already made.
+
+200
+00:19:09,080 --> 00:19:18,280
+Lots of interest in idolatic philosophy and how perception turns out to be direct, meaning not having any inner representations involved.
+
+201
+00:19:18,280 --> 00:19:24,921
+Next move is going to be, Alva's always on the forefront, is going to be how thinking is direct, and maybe we'll learn something from them.
+
+202
+00:19:24,921 --> 00:19:31,080
+Let Heidegger do the basic work and let them do the next, always the coming in too late work.
+
+203
+00:19:31,080 --> 00:19:33,240
+Okay, now, where am I?
+
+204
+00:19:33,240 --> 00:19:34,520
+Those are good questions.
+
+205
+00:19:34,840 --> 00:19:36,121
+Now I don't know where you are, though.
+
+206
+00:19:36,121 --> 00:19:46,201
+Oh, okay, let's go back to the phenomenon of agreement, that important sentence to me, because I think we're supposed to find the phenomenon of agreement.
+
+207
+00:19:46,201 --> 00:19:48,520
+It must be, I've got to read it over.
+
+208
+00:19:48,520 --> 00:19:55,320
+Thus, the phenomenal context of demonstration, the relationship of agreement, must become visible.
+
+209
+00:19:55,320 --> 00:20:06,681
+So now we're going to get a phenomenological story about some kind of agreement, but it's a kind of agreement that isn't going to involve any mental content, any mental representation.
+
+210
+00:20:06,681 --> 00:20:08,760
+And how is that going to work?
+
+211
+00:20:08,760 --> 00:20:18,441
+Well, and I'm not sure I get this right yet, it's tricky to preserve the phenomenon of agreement and not bring in any of these strange intermediate entities.
+
+212
+00:20:18,760 --> 00:20:31,201
+Well, I think Heidegger wants to say the assertion I make that the lectern is brown, is true if it points out the object as being a certain way, it points out the how of the object.
+
+213
+00:20:29,560 --> 00:20:37,040
+And the object shows itself to be the way the assertion points it out as being.
+
+214
+00:20:37,361 --> 00:20:40,721
+I mean, that's the minimal kind of agreement as far as I can see.
+
+215
+00:20:40,721 --> 00:20:44,480
+I hope I haven't smuggled in content every time I try to say it.
+
+216
+00:20:44,480 --> 00:20:46,160
+I get accused of it.
+
+217
+00:20:46,161 --> 00:20:51,360
+But I'll read it again, and then you all can think about whether it makes sense.
+
+218
+00:20:51,361 --> 00:21:09,201
+So I think he thinks, and I'll read you quotes, that what happens in a true assertion is that it points out the object as being a certain way, and what's left of the agreement part is, and the object shows itself to be the way the assertion points it out as being.
+
+219
+00:21:09,601 --> 00:21:11,121
+That's got to be pretty empty.
+
+220
+00:21:11,280 --> 00:21:13,441
+I'm trying to make it as empty as possible.
+
+221
+00:21:13,441 --> 00:21:22,240
+The whole game is not to bring in any strange entities and yet to preserve some kind of phenomenon of what it is to make a true assertion.
+
+222
+00:21:22,240 --> 00:21:25,360
+Okay, now I'll read you places where we do that.
+
+223
+00:21:25,361 --> 00:21:30,320
+I'm still trying to review, but I always get stuck in my reviews, so I've got to be careful here.
+
+224
+00:21:30,800 --> 00:21:44,800
+Okay, on page 261, I want to read about halfway down in the top big chunk, which is a paragraph that began way back on 260.
+
+225
+00:21:44,800 --> 00:21:48,480
+I want to read about 10 lines down on 261.
+
+226
+00:21:49,121 --> 00:22:01,441
+The entity itself, which one has in mind, shows itself, and that's a bad translation, as I read in one of the commentaries.
+
+227
+00:22:01,921 --> 00:22:06,560
+All that says in German is the entity which is meant.
+
+228
+00:22:06,881 --> 00:22:11,600
+You don't want to bring in one has in mind there and sort of blow the whole game.
+
+229
+00:22:11,601 --> 00:22:13,520
+Gemeint, it's in German.
+
+230
+00:22:13,520 --> 00:22:18,681
+The entity meant shows itself just as it is in itself.
+
+231
+00:22:18,681 --> 00:22:30,280
+That is to say, it shows that it, in itself-sameness, is, just as it gets pointed out in the assertion as being, just as it gets uncovered as being.
+
+232
+00:22:30,280 --> 00:22:32,601
+I take that to be just the same thing I'm trying to say.
+
+233
+00:22:32,921 --> 00:22:38,120
+The object shows itself as being the way the assertion points it out as being.
+
+234
+00:22:38,441 --> 00:22:44,360
+And now I want to read more of that kind of talk, just skipping a few lines.
+
+235
+00:22:44,361 --> 00:22:49,480
+What is to be demonstrated is solely the being uncovering of the entity itself.
+
+236
+00:22:49,480 --> 00:22:53,160
+That entity in the how of its uncoveredness.
+
+237
+00:22:53,560 --> 00:22:57,801
+The how of its uncoveredness is it's uncovered as a brown lectern, presumably.
+
+238
+00:22:58,201 --> 00:23:02,760
+And that gets shown when it's pointed out.
+
+239
+00:23:03,080 --> 00:23:14,921
+This uncoveredness is confirmed when that which is put forward in the assertion, namely the entity itself, the brown lectern, shows itself as that very same thing.
+
+240
+00:23:14,921 --> 00:23:17,721
+That's the minimalist correspondence again.
+
+241
+00:23:17,721 --> 00:23:24,840
+The lectern that I'm talking about shows itself as the lectern I'm talking about.
+
+242
+00:23:24,840 --> 00:23:28,921
+Something like that is the minimal truth.
+
+243
+00:23:29,240 --> 00:23:34,120
+Now skipping to the bottom, the crucial sentences are all there.
+
+244
+00:23:34,121 --> 00:23:36,520
+I read them once already, but I've got to read them again.
+
+245
+00:23:36,520 --> 00:23:40,921
+To say that an assertion is true signifies that it uncovers the entity as it is in itself.
+
+246
+00:23:40,921 --> 00:23:45,961
+Such an assertion asserts, points out, lets the entity be seen.
+
+247
+00:23:45,961 --> 00:23:53,000
+By the way, later he's going to say, if it's a really important true assertion, you have to sort of make a big effort to let the entity be seen.
+
+248
+00:23:53,000 --> 00:23:55,641
+But that's coming up at the end of the chapter.
+
+249
+00:23:55,641 --> 00:23:59,160
+Just now, let's the entity be seen.
+
+250
+00:24:01,121 --> 00:24:10,561
+Yeah, Pathansis, in its uncoveredness, the being true of the assertion must be understood as being uncovering.
+
+251
+00:24:10,560 --> 00:24:17,120
+It's true when it uncovers the entity, as the entity is in itself.
+
+252
+00:24:18,401 --> 00:24:21,521
+Thus, truth has by no means the structure of an agreement between.
+
+253
+00:24:21,520 --> 00:24:28,480
+Now, he's not repudiating agreement, but he's repudiating the correspondence theory.
+
+254
+00:24:29,121 --> 00:24:39,120
+It has not the structure of an agreement between a knowing, that's the subject, and the object, in the sense of a likening of one entity, the subject, to another, the object.
+
+255
+00:24:39,121 --> 00:24:40,961
+That's the wrong kind of agreement.
+
+256
+00:24:40,961 --> 00:24:45,201
+You've got to get this much more minimal kind of agreement to stick to the phenomenon.
+
+257
+00:24:45,201 --> 00:24:51,681
+Okay, now, I've done that part of what I want to do.
+
+258
+00:24:51,681 --> 00:24:54,800
+262 is the next piece of it.
+
+259
+00:24:57,361 --> 00:25:07,441
+Yeah, at the very bottom, I'm still making my case that what he's trying to do is take over the agreement story and make it work.
+
+260
+00:25:07,441 --> 00:25:14,800
+Because he says, in proposing our definition of truth, which we've just been having, we have not shaken off the tradition.
+
+261
+00:25:14,800 --> 00:25:17,120
+We've appropriated it primordially.
+
+262
+00:25:17,121 --> 00:25:20,721
+You're not supposed to say, look, Heidegger's repudiated the correspondence theory.
+
+263
+00:25:20,721 --> 00:25:22,081
+He's repudiated agreement.
+
+264
+00:25:22,081 --> 00:25:24,240
+That's what the secondary sources all say.
+
+265
+00:25:24,240 --> 00:25:25,121
+Well, that's true.
+
+266
+00:25:25,121 --> 00:25:28,000
+He's certainly repudiated the correspondence theory.
+
+267
+00:25:28,000 --> 00:25:32,880
+And he's repudiated a certain kind of account of agreement, the one that he's shaken off here.
+
+268
+00:25:33,361 --> 00:25:47,000
+But he's got his own version of a phenomenon of indicating something in a way that something shows up the way you indicated it is being.
+
+269
+00:25:44,320 --> 00:25:49,240
+He keeps that, I think.
+
+270
+00:25:49,961 --> 00:25:52,361
+And that's a kind of minimalist view of truth.
+
+271
+00:25:52,921 --> 00:25:56,520
+I just wanted to relate you to other courses you might have had.
+
+272
+00:25:56,760 --> 00:26:09,480
+You might have come across this attempt to be totally deflationary about truth and not bring in any fancy entities like representations in the subject.
+
+273
+00:26:09,480 --> 00:26:13,800
+And you get it in Wittgenstein, in Rorty, and in Davidson.
+
+274
+00:26:14,121 --> 00:26:17,800
+How many have read one of those, any one of those three in other courses?
+
+275
+00:26:18,201 --> 00:26:21,320
+How many read N of them on truth in any other course?
+
+276
+00:26:21,320 --> 00:26:22,441
+Not very many.
+
+277
+00:26:22,441 --> 00:26:28,201
+Oh, well, anyway, if you had, you could see interesting connections to this.
+
+278
+00:26:29,800 --> 00:26:33,560
+But now, if you ask, but how in the world does the assertion do that?
+
+279
+00:26:33,560 --> 00:26:41,640
+Indicate the object in such a way that if it's a true assertion, it indicates the object as it is in itself.
+
+280
+00:26:41,641 --> 00:26:44,681
+And the answer is, Dasein does it.
+
+281
+00:26:45,240 --> 00:26:50,201
+Well, again, and the answer shouldn't be, aha, there's something in the mind, this wonderful thing.
+
+282
+00:26:50,201 --> 00:27:01,801
+Again, this, Husserl called it Noima, intentional content, whatever, that, you know, in a marvelous way, just sort of directs their mind toward the objects.
+
+283
+00:27:01,800 --> 00:27:04,921
+Husserl said it was Wunderbar that it could do that.
+
+284
+00:27:04,921 --> 00:27:15,320
+And the interesting thing, if you're a Heideggerian, you think in Husserl, well, that just means you don't have the slightest clue how it does it, so why do you bring it in at all and say that it's marvelous that it does it?
+
+285
+00:27:15,961 --> 00:27:18,361
+But then you want to know, well, how do we do it?
+
+286
+00:27:18,361 --> 00:27:21,881
+Well, the answer from Heidegger is, of course, a very different sort of answer.
+
+287
+00:27:21,881 --> 00:27:22,921
+What do we need?
+
+288
+00:27:22,921 --> 00:27:26,681
+We just need to open up a world, to be disclosers.
+
+289
+00:27:26,681 --> 00:27:33,921
+And when you're a discloser, then you've got objects about which you can make assertions directly.
+
+290
+00:27:34,480 --> 00:27:44,881
+That's what it is to be a discloser and open up a world, is to be able to relate to the things in the world by grabbing them, by seeing them, and by making assertions about them.
+
+291
+00:27:44,881 --> 00:27:53,681
+Just as you don't need any intermediate thing in order to grab them, or an intermediate thing in order to see them, you don't need an intermediate thing either to think about them.
+
+292
+00:27:53,681 --> 00:27:57,201
+This is this crucial sentence at the bottom of 261.
+
+293
+00:27:57,201 --> 00:28:03,441
+Being true as being uncovering is in turn ontologically possible.
+
+294
+00:28:03,441 --> 00:28:06,560
+See, he's going to tell you his story now about how it's possible.
+
+295
+00:28:06,560 --> 00:28:10,320
+Ontologically possible only on the basis of being in the world.
+
+296
+00:28:10,320 --> 00:28:17,201
+The latter phenomenon, which we've known as a basic state of Dodd Zeign, is the foundation for the primordial phenomenon of truth.
+
+297
+00:28:17,201 --> 00:28:19,681
+That is, it makes truth possible.
+
+298
+00:28:19,681 --> 00:28:23,921
+And that's all you need to say.
+
+299
+00:28:24,881 --> 00:28:25,760
+Okay.
+
+300
+00:28:29,201 --> 00:28:29,760
+Yeah.
+
+301
+00:28:30,080 --> 00:28:41,841
+Next, Heidegger moves to something which I don't want to talk about, but I just want to talk about it long enough so that you know what happened when you read it.
+
+302
+00:28:41,840 --> 00:28:48,801
+And that is, there's something which I wish he hadn't even brought in here.
+
+303
+00:28:49,040 --> 00:28:55,121
+I'm going to leave it to division to the next semester when we go into authenticity and so forth.
+
+304
+00:28:55,121 --> 00:29:00,000
+But he brings in what he calls the most primordial truth.
+
+305
+00:29:00,000 --> 00:29:16,761
+Lo and behold, more important than ontic correspondence and discovering, and more important than ontological disclosing and revealing, there's, what is this more primordial phenomenon of truth?
+
+306
+00:29:16,760 --> 00:29:19,640
+Well, I'm just going to mention it, and then we're not going to talk about it.
+
+307
+00:29:20,201 --> 00:29:31,641
+On 263, in italics, about 10 lines down, the most primordial phenomenon of truth is first shown by the existential ontological foundations of uncovering.
+
+308
+00:29:31,641 --> 00:29:33,961
+Now, look, you see, a new foundation.
+
+309
+00:29:33,961 --> 00:29:39,480
+There was already a foundation of ontic discovering and disclosing.
+
+310
+00:29:39,480 --> 00:29:46,521
+That's what he said at the bottom of 261: the foundation for the primordial phenomenon of truth.
+
+311
+00:29:46,520 --> 00:29:53,800
+But now we've got a new foundation, the most primordial, and so forth, and it's the foundation of uncovering.
+
+312
+00:29:53,800 --> 00:29:57,401
+Well, that means something goes back to Dasein.
+
+313
+00:29:57,401 --> 00:30:12,681
+That is, Dasein being the kind of being that takes a stand on itself and can flee and cover up the truth about itself, or can face up to the truth about itself, is going to turn out to be the most primordial.
+
+314
+00:30:12,681 --> 00:30:15,800
+I don't really understand why that's the most primordial.
+
+315
+00:30:16,201 --> 00:30:18,760
+If I did, I would save it till the next semester.
+
+316
+00:30:18,760 --> 00:30:21,640
+Maybe by next semester together, we'll all understand it.
+
+317
+00:30:21,641 --> 00:30:24,121
+But it's got to do with authenticity.
+
+318
+00:30:24,121 --> 00:30:26,840
+That's why I'm putting it off to next semester.
+
+319
+00:30:26,840 --> 00:30:40,840
+So on 263, he says, the piece I just read, and on 264, he says, okay, the number three there on 264.
+
+320
+00:30:40,840 --> 00:30:44,600
+To Dasein's being belongs projection, disclosive being.
+
+321
+00:30:44,601 --> 00:30:47,401
+As something that understands, Dasein can understand itself.
+
+322
+00:30:47,401 --> 00:30:49,240
+You see, this has got to do with that.
+
+323
+00:30:49,240 --> 00:30:56,681
+The possibility just mentions means that Dasein discloses itself in and as its own most ability to be.
+
+324
+00:30:57,000 --> 00:31:03,760
+This authentic disclosiveness shows the phenomena of the most primordial truth in the mode of authenticity.
+
+325
+00:30:59,560 --> 00:31:06,480
+Now, you can well understand why we're not going to talk about that.
+
+326
+00:31:06,641 --> 00:31:08,480
+That requires a whole story.
+
+327
+00:31:08,480 --> 00:31:10,080
+So we're going on.
+
+328
+00:31:10,080 --> 00:31:12,320
+And where we're going is number three.
+
+329
+00:31:12,320 --> 00:31:17,201
+Remember, I said first he attacks the traditional view about truth.
+
+330
+00:31:17,201 --> 00:31:20,800
+Then he gives his own phenomenological view about truth.
+
+331
+00:31:20,800 --> 00:31:24,321
+And then he has to explain, well, how did we ever get into this wrong view?
+
+332
+00:31:24,320 --> 00:31:34,641
+If the phenomenon is the way he says it is, well, I'm going to have to, in his language, derive the traditional conception of truth from his kind of truth, truth is uncovering.
+
+333
+00:31:34,721 --> 00:31:37,921
+Had to explain how you get there.
+
+334
+00:31:37,921 --> 00:31:40,401
+And I think he has an interesting story about it.
+
+335
+00:31:40,401 --> 00:31:47,441
+I'm not sure the story comes out as clearly here as it does a little later, but we start with it here.
+
+336
+00:31:48,721 --> 00:31:52,881
+So, well, let me just say first.
+
+337
+00:31:52,881 --> 00:31:59,681
+Well, look, 266, the first full paragraph, because this is where he's going to do it.
+
+338
+00:32:00,000 --> 00:32:16,321
+Assertion and its structure, namely the apophantical as, pointing things out as they are in themselves, that should be obvious to you by now, are founded upon interpretation and its structure, namely the hermeneutical as, and also upon understanding upon Dasein's disclosedness.
+
+339
+00:32:16,641 --> 00:32:22,160
+Truth, however, is regarded as a distinctive character of an assertion, as so derived.
+
+340
+00:32:22,161 --> 00:32:27,600
+Much truth, however, is regarded as a distinctive character of assertion as so derived.
+
+341
+00:32:27,601 --> 00:32:28,640
+It's a funny sentence.
+
+342
+00:32:29,040 --> 00:32:30,240
+That's what it says.
+
+343
+00:32:30,240 --> 00:32:35,120
+Thus, the roots of the truth of assertion reach back to the disclosiveness of the understanding.
+
+344
+00:32:35,121 --> 00:32:36,721
+That's all review.
+
+345
+00:32:36,721 --> 00:32:46,840
+But over and above these indications of how the truth of assertion has originated, the phenomenon of agreement must now be exhibited explicitly in its derivative character.
+
+346
+00:32:47,161 --> 00:32:59,080
+That means we've got to understand why philosophers thought that truth was a correspondence of something in the mind to something in the world all these years, and he's going to have to tell us.
+
+347
+00:32:59,560 --> 00:33:02,441
+And that means that he's going to see.
+
+348
+00:33:02,760 --> 00:33:08,841
+I used to think it meant, I think I even wrote it here, but I doubt it now, that there's something right about truth as correspondence.
+
+349
+00:33:08,840 --> 00:33:11,160
+I don't think that's the right way to put it.
+
+350
+00:33:11,161 --> 00:33:33,321
+There is another phenomenon which I just told you, which is a kind of agreement that he wants to describe, but I don't think there's anything right about truth as correspondence if that means the kind of correspondence of the mental thing with the world, with the outside thing, the inner with the outer.
+
+351
+00:33:33,320 --> 00:33:46,121
+The capacity for using an assertion, but okay, but now we're going to hear about how you get from the right use of assertions to the misunderstanding of assertions.
+
+352
+00:33:46,121 --> 00:33:47,000
+And so it goes.
+
+353
+00:33:47,481 --> 00:33:52,921
+There is a capacity for using assertions to point things out.
+
+354
+00:33:53,240 --> 00:34:00,121
+And that is using assertions as ready-to-hand to do a certain job.
+
+355
+00:34:00,601 --> 00:34:04,601
+So far, don't let me lose you, that's fine.
+
+356
+00:34:05,161 --> 00:34:08,681
+But now he's going to show how things start to go wrong.
+
+357
+00:34:08,681 --> 00:34:16,360
+But before I do, I've been talking too long, and I'm changing the subject sort of into this, deriving the mistake.
+
+358
+00:34:17,001 --> 00:34:19,560
+Doesn't anybody want to say anything about so far?
+
+359
+00:34:19,561 --> 00:34:20,200
+Yes.
+
+360
+00:34:22,121 --> 00:34:22,760
+Oh, none.
+
+361
+00:34:22,760 --> 00:34:23,721
+I'm using them.
+
+362
+00:34:23,721 --> 00:34:24,521
+Sorry.
+
+363
+00:34:24,521 --> 00:34:27,401
+But I think maybe we should make it a difference.
+
+364
+00:34:27,400 --> 00:34:34,640
+I think agreement is broad enough so that both the wrong people and Heidegger talk about agreement.
+
+365
+00:34:35,360 --> 00:34:38,081
+I think this is healthwater saying, or implying.
+
+366
+00:34:38,081 --> 00:34:48,881
+I think correspondence of the adequatio in Italy, which is getting translated correspondence from the medievals, is the wrong view.
+
+367
+00:34:48,880 --> 00:34:54,321
+And I think probably correspondence is always correspondence theory.
+
+368
+00:34:54,800 --> 00:35:01,440
+And he's going to say, when he was saving the phenomena, he's going to do it by talking about agreement.
+
+369
+00:35:01,440 --> 00:35:01,840
+Is that you?
+
+370
+00:35:01,920 --> 00:35:02,561
+You look worried.
+
+371
+00:35:02,561 --> 00:35:04,560
+You don't think that's what you were getting at?
+
+372
+00:35:09,280 --> 00:35:10,400
+That's what Mark's going to say.
+
+373
+00:35:11,041 --> 00:35:15,201
+Wayne, he doesn't want to eliminate agreement, I don't think.
+
+374
+00:35:15,521 --> 00:35:16,401
+Yes.
+
+375
+00:35:19,920 --> 00:35:20,240
+Yes.
+
+376
+00:35:20,240 --> 00:35:22,321
+Where does he say he wants to eliminate agreement?
+
+377
+00:35:22,320 --> 00:35:24,721
+Yes, he should mean the correspondence theory.
+
+378
+00:35:24,880 --> 00:35:25,840
+I'm upset already.
+
+379
+00:35:26,001 --> 00:35:29,841
+The phenomenon of agreement must now be explicitly that sentence?
+
+380
+00:35:34,880 --> 00:35:36,721
+Ah, aha.
+
+381
+00:35:38,240 --> 00:35:39,040
+That seems wrong.
+
+382
+00:35:39,041 --> 00:35:44,960
+But while I've got it in front of me on 266, when he says the phenomenon of agreement must now be exhibited explicitly.
+
+383
+00:35:45,280 --> 00:35:48,400
+Oh, no, agreement is wrong, too.
+
+384
+00:35:48,721 --> 00:35:50,401
+I don't know what to make of this.
+
+385
+00:35:50,400 --> 00:35:58,801
+Because when he says here on 266, the end of the paragraph I just read, the phenomenon of agreement must now be exhibited explicitly in its derivative character.
+
+386
+00:35:58,800 --> 00:36:03,920
+So then we can't use correspondence or agreement without bringing in this wrong baggage.
+
+387
+00:36:03,920 --> 00:36:07,521
+You don't think correspondence is an okay word, do you?
+
+388
+00:36:11,960 --> 00:36:13,280
+That's what we want to eliminate.
+
+389
+00:36:13,280 --> 00:36:17,400
+And now he seems to suddenly talk about agreement as something we want to eliminate or derive.
+
+390
+00:36:18,121 --> 00:36:20,361
+Well, let me where have you got it?
+
+391
+00:36:21,641 --> 00:36:23,400
+262 on top.
+
+392
+00:36:23,400 --> 00:36:23,880
+Okay.
+
+393
+00:36:23,880 --> 00:36:28,601
+The primordial phenomenon and the derivative character of the traditional conception of truth.
+
+394
+00:36:28,601 --> 00:36:30,920
+Okay, I can see where we're going there.
+
+395
+00:36:30,920 --> 00:36:33,480
+Being true means being uncovering, but it's not a hard.
+
+396
+00:36:33,641 --> 00:36:40,521
+But by such drastic ways of defining the concept, we may succeed in eliminating the idea of agreement from the conception of truth.
+
+397
+00:36:42,041 --> 00:36:47,240
+And that's what some sort of some interlocutor says.
+
+398
+00:36:47,240 --> 00:37:01,960
+And it seems to me he isn't trying to use the notion of agreement to get rid of something right about the conception of truth.
+
+399
+00:37:01,960 --> 00:37:03,320
+Now I'm really confused.
+
+400
+00:37:03,320 --> 00:37:04,520
+I don't know what to make of it.
+
+401
+00:37:04,521 --> 00:37:10,760
+What's the right way to describe the way we show things as they are in themselves, such that we point them out and so forth?
+
+402
+00:37:11,081 --> 00:37:14,760
+The phenomenon, what's the name of the phenomenon he's trying to save?
+
+403
+00:37:16,041 --> 00:37:17,320
+Assertions being true.
+
+404
+00:37:17,320 --> 00:37:18,201
+Is that all?
+
+405
+00:37:18,201 --> 00:37:19,321
+Truth.
+
+406
+00:37:22,840 --> 00:37:24,121
+Yeah, right, right.
+
+407
+00:37:24,440 --> 00:37:25,401
+Exactly.
+
+408
+00:37:25,400 --> 00:37:33,721
+But if he's going to call that correspondence and agreement, then he's going to eliminate all talk of correspondence.
+
+409
+00:37:33,800 --> 00:37:35,480
+I mean, don't get confused.
+
+410
+00:37:35,481 --> 00:37:36,520
+Wait, it's just a quality.
+
+411
+00:37:36,840 --> 00:37:37,721
+We agree, I think.
+
+412
+00:37:37,721 --> 00:37:40,760
+The question of what's really going on is okay.
+
+413
+00:37:40,760 --> 00:37:42,760
+If just the words are hard.
+
+414
+00:37:42,760 --> 00:37:44,840
+He wants to, just a second, Chris.
+
+415
+00:37:45,001 --> 00:38:10,321
+He wants to describe a phenomenon which could have been described as agreement if it hadn't been, unfortunately, that agreement and correspondence have been taken over by the tradition, but he wants to save the phenomenon that agreement and probably correspondence were trying to get at.
+
+416
+00:38:10,641 --> 00:38:12,400
+And he doesn't have any words for that.
+
+417
+00:38:12,400 --> 00:38:15,200
+He just says, well, that's what he calls being true.
+
+418
+00:38:15,840 --> 00:38:23,361
+Remember, he says, assertions have this character of being true, and then he tells you what it is, letting things show themselves as they are in themselves.
+
+419
+00:38:23,360 --> 00:38:24,801
+Yeah, Curtis.
+
+420
+00:38:41,280 --> 00:38:42,400
+Yeah, I read that.
+
+421
+00:38:42,960 --> 00:38:44,240
+With what language, yeah?
+
+422
+00:38:44,400 --> 00:38:47,121
+I mean, it's clear that that's what he's doing.
+
+423
+00:38:47,121 --> 00:38:49,601
+But how is he going to describe it?
+
+424
+00:38:57,440 --> 00:38:58,401
+Uh-huh.
+
+425
+00:39:00,880 --> 00:39:01,520
+I don't know.
+
+426
+00:39:01,521 --> 00:39:02,400
+No, no, I don't.
+
+427
+00:39:02,721 --> 00:39:19,681
+I'm really confused now because he wants to save the primordial phenomenon of truth, and he wants to tell us a story about how, unfortunately, that turns into a talk about agreement and correspondence, and it shouldn't.
+
+428
+00:39:19,681 --> 00:39:21,521
+I mean, that's really what I'm talking about now.
+
+429
+00:39:21,521 --> 00:39:37,441
+He wants to derive why it seems appropriate to talk about agreement and correspondence, even though there are no entities anymore of the sort, like that the people who did, the intellectuals and ray people thought there were.
+
+430
+00:39:37,760 --> 00:39:39,840
+So what do you want to do?
+
+431
+00:39:39,840 --> 00:39:42,881
+Save those words or just save the phenomenon?
+
+432
+00:39:46,201 --> 00:39:46,520
+Yeah.
+
+433
+00:39:56,681 --> 00:39:58,201
+Where does he say he wants to meet?
+
+434
+00:39:58,201 --> 00:40:03,401
+What he says he wants to appropriate primordially.
+
+435
+00:40:03,721 --> 00:40:08,440
+Yeah, I'm reading it, but he doesn't say it's agreement he wants to appropriate primordially.
+
+436
+00:40:08,440 --> 00:40:12,440
+He just wants to say that the tradition is supposed to be appropriate.
+
+437
+00:40:12,440 --> 00:40:16,601
+I can see that since the tradition is the correspondence theory.
+
+438
+00:40:16,920 --> 00:40:17,800
+Oh, it goes on.
+
+439
+00:40:17,800 --> 00:40:18,440
+I see one.
+
+440
+00:40:18,440 --> 00:40:20,201
+And we shall, no, that's interesting.
+
+441
+00:40:20,201 --> 00:40:22,521
+The idea of, oh, oh, I hadn't.
+
+442
+00:40:22,521 --> 00:40:32,121
+And we shall have done so all the more if we succeed in demonstrating the idea of agreement is one to which theory had to come.
+
+443
+00:40:32,121 --> 00:40:33,641
+Oh, no, that's not going to do it.
+
+444
+00:40:33,641 --> 00:40:37,240
+On the basis of primordial phenomena of truth, agreement is this.
+
+445
+00:40:37,561 --> 00:40:40,521
+I'm going to, this takes us right back to what I'm talking about.
+
+446
+00:40:40,521 --> 00:40:50,121
+Because agreement is exactly the wrong understanding to which the tradition had to come given the phenomenon of truth, is what he's saying here.
+
+447
+00:40:50,280 --> 00:40:53,480
+So I think Eugene, who got it is right.
+
+448
+00:40:54,121 --> 00:40:58,441
+The way he's using the words, I'm not taking back anything but words.
+
+449
+00:40:58,440 --> 00:41:06,041
+The way he's using the words, correspondence and agreement is the traditional view, and it's just plain wrong.
+
+450
+00:41:06,041 --> 00:41:10,121
+But there's a phenomenon behind it that they're trying to get at.
+
+451
+00:41:10,121 --> 00:41:20,601
+But we're not going to call that phenomenon behind it agreement or correspondence, because we don't have any of the right, the kind of entities that could, that they thought, you know, corresponded.
+
+452
+00:41:20,601 --> 00:41:29,721
+We've just got this kind of indicating of the thing itself as it is in itself, and we're not going to call that correspondence or agreement.
+
+453
+00:41:38,641 --> 00:41:40,400
+Well, that's tricky.
+
+454
+00:41:40,400 --> 00:41:42,561
+That's exactly what I'm going to talk about next.
+
+455
+00:41:42,561 --> 00:41:50,961
+He thinks it's a mistake to think of it as basic, and he's going to show you how you can derive it.
+
+456
+00:41:50,960 --> 00:41:53,920
+And I can't tell, but you all pay attention and see if we can.
+
+457
+00:41:54,240 --> 00:42:13,841
+Yes, what you're raising is the question: when he derives the traditional view, is he telling you it has in its own domain a limited derivative kind of applicability and legitimacy, or is he telling you I'm showing how this wrong-headed view, which is totally wrong-headed, ever got off the ground?
+
+458
+00:42:13,840 --> 00:42:14,800
+I can't tell.
+
+459
+00:42:14,800 --> 00:42:16,721
+But we're going to read the passages in a minute.
+
+460
+00:42:16,721 --> 00:42:18,321
+Maybe somebody will tell.
+
+461
+00:42:18,561 --> 00:42:19,680
+So let's read them.
+
+462
+00:42:20,240 --> 00:42:22,961
+We perfectly set up the next move.
+
+463
+00:42:22,960 --> 00:42:27,841
+So 267 is where I say we are now.
+
+464
+00:42:28,721 --> 00:42:30,561
+And so let's go there and see.
+
+465
+00:42:30,561 --> 00:42:33,280
+And I've written, this is where Eugene interrupted.
+
+466
+00:42:33,280 --> 00:42:37,280
+And I said there's something right about truth as correspondence.
+
+467
+00:42:37,280 --> 00:42:39,841
+Now I want to write in my margin, no.
+
+468
+00:42:39,840 --> 00:42:43,681
+I think that's probably not going to turn out to be the case, but let's see.
+
+469
+00:42:43,681 --> 00:42:45,280
+267.
+
+470
+00:42:45,681 --> 00:42:49,121
+And we're going to go through this.
+
+471
+00:42:50,481 --> 00:43:08,161
+I've just sort of picked out the passages for starting sort of the basic story is, I'll just blurt it out, that we use assertions as ready-to-hand equipment to point out objects as they are in themselves.
+
+472
+00:43:08,161 --> 00:43:09,760
+That's fine.
+
+473
+00:43:09,760 --> 00:43:23,801
+But then we reflect on what we do and we think of the assertions as present-at-hand relating to the present-at-hand object when we're not actually using them as equipment to point things out.
+
+474
+00:43:23,800 --> 00:43:31,561
+And as soon as we do that, then we can't understand anymore what's going on because we don't know how to relate a present-at-hand assertion.
+
+475
+00:43:31,641 --> 00:43:51,321
+They're not being used in some particular context to point out some way some object is in itself, but just to think about how the assertion, this lectern is brown, abstractly in class sitting here, relates to this object brown.
+
+476
+00:43:51,320 --> 00:44:03,961
+And when I'm not using it in a context to point something out, it's just talking about it, then you start getting a theory about it, and you start treating the assertion as present at hand, he says.
+
+477
+00:44:03,960 --> 00:44:10,280
+And now I'll read it, and we'll see if we can see whether this leads to some interesting truth about things.
+
+478
+00:44:10,440 --> 00:44:12,760
+Truth, never mind, that blow your mind.
+
+479
+00:44:12,760 --> 00:44:14,041
+I don't mean the word truth.
+
+480
+00:44:14,041 --> 00:44:18,201
+Whether something important is revealed when you make these moves.
+
+481
+00:44:18,201 --> 00:44:38,040
+But you make a bunch of moves, he's going to say, from the assertion working well in a context, indicating something and being ready to hand, to its being present at hand, and the object it's pointing out being present at hand, and the relation between the two having to be also present at hand, then you've got the correspondence here.
+
+482
+00:44:38,041 --> 00:44:40,521
+And I think that's what's happening on 267.
+
+483
+00:44:40,521 --> 00:44:43,240
+So let's, I'm going to go about 15 lines down.
+
+484
+00:44:43,561 --> 00:44:45,721
+The assertion is something ready to hand.
+
+485
+00:44:45,721 --> 00:44:52,280
+The entities to which it is related as something that uncovers are either ready to hand or present at hand within the world.
+
+486
+00:44:52,360 --> 00:44:53,401
+Sounds right.
+
+487
+00:44:53,400 --> 00:45:01,680
+The relation itself presents itself thus, as one that is present at hand.
+
+488
+00:45:02,641 --> 00:45:07,280
+I think that I tried to fix that to more plausibleness in the German.
+
+489
+00:45:07,280 --> 00:45:13,280
+The relation can be taken as one that is present at hand.
+
+490
+00:45:13,280 --> 00:45:17,360
+I mean, if you say the relation presents itself as present at hand, maybe it doesn't matter.
+
+491
+00:45:17,920 --> 00:45:25,681
+If you stand back and just describe what's going on, it presents itself as present at hand, and you take it as present at hand.
+
+492
+00:45:25,681 --> 00:45:26,801
+It's okay.
+
+493
+00:45:27,360 --> 00:45:31,600
+And now skipping down to after where it says Kant there.
+
+494
+00:45:31,920 --> 00:45:40,000
+But the relation itself now acquires the character of presence at hand by getting switched over to a relationship between things that are present at hand.
+
+495
+00:45:40,001 --> 00:45:45,121
+So the object's present at hand, the assertion is present at hand, so the relation now gets switched over.
+
+496
+00:45:45,121 --> 00:45:58,401
+The uncoveredness of something becomes the present-at-hand conformity, that's agreement, that's correspondence, of one thing which is present at hand, the assertion, to something else which is present at hand, the entity under discussion.
+
+497
+00:45:59,360 --> 00:46:14,881
+And then just skipping down at the end of the paragraph, then the relation shows itself as an agreement or correspondence, you could have either, of two things which are present at hand, an agreement which is present at hand.
+
+498
+00:46:14,880 --> 00:46:16,641
+And now you've got the tradition.
+
+499
+00:46:16,641 --> 00:46:21,280
+That's a quick derivation that he just throws at you.
+
+500
+00:46:22,400 --> 00:46:26,481
+Now he says, I've derived the correspondence theory, isn't that terrific?
+
+501
+00:46:26,481 --> 00:46:28,240
+At the bottom of the page.
+
+502
+00:46:28,880 --> 00:46:43,600
+Though it is founded upon Dasein's disclosiveness, the existential phenomenon of uncoveredness becomes a property which is present at hand, but in which there still lurks a relation of character, and as such, a property, it gets broken into a relationship which is present at hand.
+
+503
+00:46:43,601 --> 00:46:44,400
+I mean, that's all.
+
+504
+00:46:44,601 --> 00:47:07,001
+Then truth as disclosedness, as a being towards uncovered entities, a being which itself uncovers, that's all the right story, has become truth as agreement between things that are present at hand within the world, and thus we have pointed out the ontologically derivative character of the traditional conception of truth.
+
+505
+00:47:07,641 --> 00:47:15,081
+Now, nothing in there seems to suggest that there's anything useful at all about it, I'm afraid, or for better or for worse.
+
+506
+00:47:15,081 --> 00:47:18,601
+It just seems to say that's how you get it, and it's wrong.
+
+507
+00:47:19,481 --> 00:47:21,641
+Or, well, let's not say wrong.
+
+508
+00:47:21,641 --> 00:47:25,001
+It's it's the well, this is the question.
+
+509
+00:47:25,001 --> 00:47:42,601
+Is it the proper present-at-hand description of what's going on, which you can now use in logic, which is after all a discipline that has an interesting history of its own, which he isn't against, and uh and and Aristotle and whose views about judgment were already like this?
+
+510
+00:47:42,920 --> 00:47:46,681
+I guess I think it could he can't think it's just plain wrong.
+
+511
+00:47:46,681 --> 00:47:52,521
+I mean, it would be bad to be thinking that Aristotle, for him, that Aristotle was just plain wrong, I believe.
+
+512
+00:47:52,521 --> 00:48:08,121
+So, what he's got to think is if you want to manipulate formal structures when you talk about intelligibility and language, then you've got to bring in judgment and you can you're going to have to bring in the present at hand story.
+
+513
+00:48:09,320 --> 00:48:13,080
+Of course, it's I don't know, because it's going to be unintelligible.
+
+514
+00:48:13,081 --> 00:48:13,960
+We we know.
+
+515
+00:48:13,960 --> 00:48:18,280
+So, what good is an unintelligible story though, on the basis of which you could do logic?
+
+516
+00:48:18,280 --> 00:48:19,321
+I don't know.
+
+517
+00:48:19,320 --> 00:48:21,080
+Well, let's read the rest of the quotes.
+
+518
+00:48:21,081 --> 00:48:26,361
+I j I came in here totally puzzled by this, so I'm happy that now we're all puzzled by it.
+
+519
+00:48:26,360 --> 00:48:29,721
+267, I just did, didn't I?
+
+520
+00:48:29,840 --> 00:48:30,480
+Yes.
+
+521
+00:48:32,001 --> 00:48:33,120
+Yeah, okay.
+
+522
+00:48:33,440 --> 00:48:34,880
+Now let me see where I am.
+
+523
+00:48:34,880 --> 00:48:38,080
+268 is the next move, it seems to me.
+
+524
+00:48:38,081 --> 00:48:39,201
+Let's do the italics.
+
+525
+00:48:39,201 --> 00:48:41,841
+That might be important on 268.
+
+526
+00:48:45,920 --> 00:48:50,001
+He said, we've derived the correspondence theory 268.
+
+527
+00:48:50,001 --> 00:48:50,960
+Yeah, at the top.
+
+528
+00:48:50,960 --> 00:48:52,240
+Okay, now the italics.
+
+529
+00:48:52,240 --> 00:49:05,041
+The primordial phenomenon of truth has been covered up by Dasein's very way of being, the understanding, which is approximately the one that prevails, which even today has been surmounted explicitly and in principle.
+
+530
+00:49:05,041 --> 00:49:11,121
+But has not, well, has not, good, been surmounted explicitly and in principle, as he has.
+
+531
+00:49:11,121 --> 00:49:13,201
+So what's the answer?
+
+532
+00:49:13,201 --> 00:49:23,521
+Now that we've derived the 2,000 years of philosophy and logic, have we just shown that they ought to be thrown in the garbage, that there was an intuition behind them, but that they lost it?
+
+533
+00:49:23,521 --> 00:49:24,880
+Or are we supposed to not?
+
+534
+00:49:25,601 --> 00:49:26,881
+I can't tell.
+
+535
+00:49:27,760 --> 00:49:28,401
+Yeah.
+
+536
+00:49:32,481 --> 00:49:35,201
+What do you think relationships called?
+
+537
+00:49:36,721 --> 00:49:37,841
+Our what?
+
+538
+00:49:40,081 --> 00:49:41,601
+Relation, is he saying?
+
+539
+00:49:41,760 --> 00:49:56,961
+No, he's saying that tradition, once it's stopped using assertions in a ready-to-hand way in a situation to point out objects, then the assertions are present at hand and the objects are present at hand and the relation between them is present at hand.
+
+540
+00:49:56,960 --> 00:50:00,240
+It isn't really, but I mean, well, really, that's a funny way to put it.
+
+541
+00:50:00,240 --> 00:50:06,001
+It isn't when we're at our most basic way of being in the world and disclosing.
+
+542
+00:50:06,001 --> 00:50:07,760
+But it really looks that way.
+
+543
+00:50:07,760 --> 00:50:12,161
+It really is that way when we stand back and describe it.
+
+544
+00:50:12,721 --> 00:50:19,481
+But the interesting thing is, instead of saying, as with space, now I'm just leaving my notes behind and trying to think.
+
+545
+00:50:19,721 --> 00:50:22,520
+Where with space he says, well, Descartes got something right.
+
+546
+00:50:22,521 --> 00:50:24,440
+You can stand back and describe space.
+
+547
+00:50:24,440 --> 00:50:31,721
+And then you get rid of all this existential spatiality, and there's nothing, no place for here and there, and no places and everything.
+
+548
+00:50:31,721 --> 00:50:33,320
+And good for a Descartes.
+
+549
+00:50:33,320 --> 00:50:35,320
+He got that in Galileo.
+
+550
+00:50:35,320 --> 00:50:41,400
+They discovered that if you leave all that stuff out, you get to something important, real, and incredibly valuable.
+
+551
+00:50:41,400 --> 00:50:45,960
+And you make satellites and spaceships and everything.
+
+552
+00:50:46,201 --> 00:50:47,721
+That's nice.
+
+553
+00:50:47,721 --> 00:51:04,841
+But here, he seems to be saying, if you do that kind of leaving out of the involved level of disclosing, you get something incoherent, a kind of artifact with which you can't understand anything or do anything.
+
+554
+00:51:05,400 --> 00:51:09,560
+It's funny because mostly he respects the getting.
+
+555
+00:51:09,880 --> 00:51:18,201
+When he did the derivation of logic, he didn't say that you can get to a predicate calculus if you leave out aspects of it.
+
+556
+00:51:18,360 --> 00:51:19,561
+Let's go through that.
+
+557
+00:51:19,561 --> 00:51:20,440
+He did logic.
+
+558
+00:51:20,440 --> 00:51:23,161
+He said, well, there's hammering going on.
+
+559
+00:51:23,161 --> 00:51:24,760
+Then there's unready to hand.
+
+560
+00:51:24,840 --> 00:51:26,521
+The hammer is too heavy.
+
+561
+00:51:26,521 --> 00:51:31,721
+Then you can go to the present at hand and say the hammer has the property brown.
+
+562
+00:51:31,721 --> 00:51:34,120
+And then you can write logic about that.
+
+563
+00:51:34,121 --> 00:51:35,401
+And why not?
+
+564
+00:51:35,400 --> 00:51:36,680
+Then that was fine.
+
+565
+00:51:36,681 --> 00:51:38,121
+And so everybody can do logic.
+
+566
+00:51:38,121 --> 00:51:44,360
+And he thinks it's bad to forget where logic came from and think that it'll do everything, that it will do something.
+
+567
+00:51:44,360 --> 00:51:47,161
+It does a lot when in your computers.
+
+568
+00:51:47,481 --> 00:51:54,601
+But now he tells us a story about truth in which it looks like truth is just the traditional view of truth is just junk.
+
+569
+00:52:09,280 --> 00:52:10,240
+Okay, yes, yes.
+
+570
+00:52:10,240 --> 00:52:15,760
+Okay, he he I think he just takes over the traditional view about abstraction.
+
+571
+00:52:15,760 --> 00:52:24,321
+He doesn't ask how we get from collies to dogs and dogs to animals and animals to entities and stuff.
+
+572
+00:52:24,641 --> 00:52:26,961
+We make those kinds of abstractions.
+
+573
+00:52:29,041 --> 00:52:30,161
+It's again like thinking.
+
+574
+00:52:30,161 --> 00:52:41,360
+There's all kinds of ways we relate to the world which he has not gotten a story about because he's too busy sort of he's ready to leave in general.
+
+575
+00:52:41,360 --> 00:52:43,760
+Oh this case of truth is a funny case.
+
+576
+00:52:43,760 --> 00:52:48,961
+In general he's ready to leave the tradition and have these upper levels of the conceptual.
+
+577
+00:52:49,280 --> 00:52:50,320
+It's an upper level.
+
+578
+00:52:50,960 --> 00:52:51,360
+That's right.
+
+579
+00:52:51,360 --> 00:52:56,321
+It's an upper level for him and the tradition is full of interesting stories about concepts.
+
+580
+00:52:56,320 --> 00:53:04,080
+I bet if he was writing about it, maybe he is somewhere, he'd say the notion of concept is pretty confused too, like agreement.
+
+581
+00:53:04,081 --> 00:53:11,041
+It's not easy just because you can't just sort of wheel in the idea of concept whenever you please as if you knew what it was.
+
+582
+00:53:11,041 --> 00:53:22,081
+But he's not going to say that it's his business to say somehow that he's got a better understanding of the phenomena or that the notion of concepts is useless.
+
+583
+00:53:22,081 --> 00:53:25,121
+But he does seem to say the notion of correspondence is useless.
+
+584
+00:53:25,121 --> 00:53:25,600
+Yeah.
+
+585
+00:53:37,440 --> 00:53:43,920
+The relationship that it has between the two is version one thing that's all about the relation by the change that we put on.
+
+586
+00:53:45,561 --> 00:53:46,760
+He talks about that.
+
+587
+00:53:46,760 --> 00:53:50,360
+I think he thinks that truth is a special case of indication, isn't that what he says?
+
+588
+00:53:51,721 --> 00:53:57,161
+He says that truth isn't just any old indication, is what I think he says back here.
+
+589
+00:53:57,161 --> 00:54:00,200
+It's a special kind of indication, and then he tells you what?
+
+590
+00:54:00,201 --> 00:54:08,681
+A kind of indication of something as it is in itself, whereas some kind of indication is that the path turns to the right.
+
+591
+00:54:09,081 --> 00:54:11,400
+So indication is a much bigger notion.
+
+592
+00:54:11,400 --> 00:54:13,240
+I think that's his story.
+
+593
+00:54:13,240 --> 00:54:15,480
+So anyway, and you know what is going to help me here?
+
+594
+00:54:15,481 --> 00:54:17,721
+Nobody's going to tell us what to do about this.
+
+595
+00:54:17,721 --> 00:54:19,800
+I mean, you see the problem?
+
+596
+00:54:19,800 --> 00:54:23,081
+One, you don't want to throw out the whole story about truth.
+
+597
+00:54:23,081 --> 00:54:26,360
+And he doesn't usually throw out the tradition.
+
+598
+00:54:26,360 --> 00:54:40,201
+He usually derives the tradition at the end of any of these stories and tells you it's got its legitimate, derivative, privative, having left out most of what's important and interesting, story to tell.
+
+599
+00:54:40,201 --> 00:54:46,040
+And sometimes, like with Descartes and science, that turns out to be a powerful thing to do.
+
+600
+00:54:46,041 --> 00:54:48,921
+And with logic, I mean, it's a powerful thing to do.
+
+601
+00:54:48,920 --> 00:54:51,721
+But here it's not a powerful thing to do, I guess.
+
+602
+00:54:51,721 --> 00:54:52,200
+Yeah.
+
+603
+00:55:00,840 --> 00:55:07,161
+Well, well it's because of the I'm I'm well okay, I'll tell you where I see it, and you can tell me why I shouldn't see it there.
+
+604
+00:55:07,161 --> 00:55:08,840
+It's because he says it's incoherent.
+
+605
+00:55:08,840 --> 00:55:14,601
+We have no idea how to make sense of the adequatio of the intellectus and race.
+
+606
+00:55:14,601 --> 00:55:22,041
+And if it's true that we have no idea how to make sense of it, it's so incoherent idea, then it's hard to save it.
+
+607
+00:55:23,641 --> 00:55:27,320
+Wait, let me let me have some more.
+
+608
+00:55:27,481 --> 00:55:28,201
+Go ahead.
+
+609
+00:55:38,561 --> 00:55:39,040
+That's right.
+
+610
+00:55:39,041 --> 00:55:45,200
+He he lo I according to me, he likes science and he understands it better than anybody before Kunt.
+
+611
+00:55:53,521 --> 00:55:55,681
+Well, yeah, it's not.
+
+612
+00:55:56,001 --> 00:55:57,121
+You don't see it.
+
+613
+00:55:57,121 --> 00:56:00,561
+Well, how do you respond to this thing which is on my mind?
+
+614
+00:56:00,561 --> 00:56:24,480
+If there really is no way to make sense of the agreement of anything mental or subjective or ideal with anything objective and real, if there's if that's a completely, and it does seem to be, incomprehensible relation that they could ever correspond or agree with each other, it's two such totally different domains, then it looks like it's useless.
+
+615
+00:56:24,481 --> 00:56:27,280
+I mean, I don't know what you mean by making sense of it.
+
+616
+00:56:27,521 --> 00:56:30,561
+It might have some kind of use without either.
+
+617
+00:56:33,360 --> 00:56:35,600
+And maybe the point is, maybe that's interesting.
+
+618
+00:56:35,601 --> 00:56:41,601
+Maybe the point has to be, you can go on talking that way, and it may be useful sometime to talk that way.
+
+619
+00:56:41,601 --> 00:56:49,680
+And you just don't, as long as you don't, I don't know why, think that you're getting at anything deep and important.
+
+620
+00:56:57,681 --> 00:57:10,081
+You don't have to get anywhere with it's already in the idea that it's already been done there.
+
+621
+00:57:10,400 --> 00:57:12,240
+Okay, yeah, yeah.
+
+622
+00:57:12,561 --> 00:57:21,721
+Yeah, analytic agreements can not be really getting anywhere in terms of the things itself.
+
+623
+00:57:23,001 --> 00:57:25,960
+Well, I guess the question ought to be, sort of, what can you do with it?
+
+624
+00:57:25,960 --> 00:57:33,480
+I mean, I mean, I haven't thought about this, but I mean, is it doing anybody any good to have this notion of truth, this correspondence?
+
+625
+00:57:33,481 --> 00:57:43,320
+Shouldn't we just sort of make a Davidsonian or a Tarskian or a Rordian completely empty definition of truth and just get rid of a correspondence in agreement?
+
+626
+00:57:52,601 --> 00:57:57,161
+Agreement of what to when you do it in math, what's the agree agreement of what with what?
+
+627
+00:57:57,800 --> 00:58:02,041
+I can try to go with an example of fine.
+
+628
+00:58:02,360 --> 00:58:13,320
+But you can buy certain principles, even if we agree, move the next step, then drive it.
+
+629
+00:58:13,960 --> 00:58:14,681
+I don't know.
+
+630
+00:58:14,840 --> 00:58:16,440
+Depends on, well, I don't know.
+
+631
+00:58:16,440 --> 00:58:16,920
+I don't know.
+
+632
+00:58:16,920 --> 00:58:18,201
+I can't tell from what you're saying.
+
+633
+00:58:18,440 --> 00:58:19,641
+Don't say more right now.
+
+634
+00:58:19,641 --> 00:58:20,201
+Dave, yeah.
+
+635
+00:58:20,521 --> 00:58:28,760
+Why does it have to just get that there's a real phenomenal agreement that the tradition has specifically misunderstood?
+
+636
+00:58:28,760 --> 00:58:44,681
+If actually I can say traditional hands not explained and fallen into the other thing, that there is a really right way of thinking about agreement.
+
+637
+00:58:44,681 --> 00:58:46,681
+I came in here thinking that.
+
+638
+00:58:46,681 --> 00:58:47,960
+But I don't think he thinks that.
+
+639
+00:58:47,960 --> 00:59:00,800
+There's a phenomenon, but agreement and correspondence doesn't grasp it because there's not the kind of stuff that could agree in the in unless you've got this minimal, again, empty notion of agreement.
+
+640
+00:59:00,800 --> 00:59:17,121
+That when you point out an object as, when I point this, when I say the lectern is brown, and that is true if the lectern, what, in itself is brown.
+
+641
+00:59:19,360 --> 00:59:21,600
+Those itself is brown, I should say, yeah.
+
+642
+00:59:23,840 --> 00:59:26,001
+Basically, 361.
+
+643
+00:59:26,001 --> 00:59:29,441
+The accident is showing itself in itself sameness.
+
+644
+00:59:29,760 --> 00:59:31,921
+Yes, well, that's what I was just trying to say.
+
+645
+00:59:36,721 --> 00:59:40,800
+Okay, that's okay.
+
+646
+00:59:40,800 --> 00:59:41,600
+I think that's right.
+
+647
+00:59:41,601 --> 00:59:43,121
+That's the phenomenon.
+
+648
+00:59:43,521 --> 00:59:55,121
+Now, so all we have to do, and that's what he wants to make the truth, he wants to show the phenomenal context of demonstration, the relation of agreement will become visible.
+
+649
+00:59:55,121 --> 00:59:58,320
+So that's the main line supporting the view you're holding.
+
+650
+00:59:58,320 --> 01:00:03,601
+That he's trying to, that that's what is the phenomenon of agreement, and he's made it visible.
+
+651
+01:00:03,601 --> 01:00:08,001
+That's what really happened.
+
+652
+01:00:08,320 --> 01:00:14,081
+How do you know it really happened except that you draw out the phenomenon in such a way that they cohere with themselves?
+
+653
+01:00:16,800 --> 01:00:19,360
+We don't want to get a coherence view of truth would do with it.
+
+654
+01:00:19,360 --> 01:00:20,080
+Wait, wait, wait.
+
+655
+01:00:20,081 --> 01:00:29,121
+Okay, but you have to draw out there.
+
+656
+01:00:30,800 --> 01:00:32,161
+That's the truth.
+
+657
+01:00:31,721 --> 01:00:35,920
+Uh the accident is what it is, and it's neither true nor false.
+
+658
+01:00:35,920 --> 01:00:59,800
+The truth or false view is when the powder has been drawn out in the axiom of either the assertion is also uh what I see is the assertion draws out an agreement that happens between some so in the accident there's no point false because the assertion isn't quite fine.
+
+659
+01:01:05,641 --> 01:01:10,760
+It lets the state of affairs it lets the uh the entity show itself as it is in this.
+
+660
+01:01:23,641 --> 01:01:28,361
+And and and when you try to draw out how it is, you do it with your assertion.
+
+661
+01:01:28,360 --> 01:01:35,480
+But is there but but he, I think, having I came in here with the idea, and that's the true phenomenon of agreement and correspondence.
+
+662
+01:01:35,481 --> 01:01:47,081
+But I every passage seems to suggest, no, that's not, because it hasn't got the right any elements in it, that each sort of self-sufficient and then related to the other one.
+
+663
+01:01:47,081 --> 01:01:51,160
+And therefore there's no way to characterize it as agreement and correspondence.
+
+664
+01:01:51,161 --> 01:01:52,120
+We don't find any way.
+
+665
+01:01:52,121 --> 01:01:54,521
+We tried of half an hour ago.
+
+666
+01:01:54,521 --> 01:02:02,920
+And therefore the whole way of talking of truth as agreement and correspondence was going to be useless to us, so we just drop it.
+
+667
+01:02:03,240 --> 01:02:03,800
+Yeah.
+
+668
+01:02:27,081 --> 01:02:29,641
+So that's where the assertion is in agreement.
+
+669
+01:02:45,840 --> 01:02:57,360
+Let me just stop the conversation because I just found two sentences which seem to me to take these two different sides that you guys are just taking, and I just don't know what to say, but I'll just point them out.
+
+670
+01:02:57,360 --> 01:03:06,081
+On 260, David fits perfectly well with this claim that we've read it already at the end, 260 at the end of the top paragraph.
+
+671
+01:03:06,081 --> 01:03:13,201
+Thus, in the phenomenal context of demonstration, the relationship of agreement must become visible.
+
+672
+01:03:13,201 --> 01:03:25,440
+And if that's his view, and he's not sort of attributing it to the other guys, then he's trying to make some new phenomenological description of agreement.
+
+673
+01:03:25,440 --> 01:03:38,801
+But now, if you flip over to 266, he's saying at the end of the top paragraph, the phenomenon of agreement must now be exhibited explicitly in its derivative character.
+
+674
+01:03:38,800 --> 01:03:41,760
+Oh, that's interesting.
+
+675
+01:03:41,760 --> 01:03:46,721
+So then he's saying there is a phenomenon of agreement.
+
+676
+01:03:47,041 --> 01:03:51,041
+And that means, namely, something present at hand.
+
+677
+01:03:51,041 --> 01:03:53,120
+But then how can that be?
+
+678
+01:03:54,721 --> 01:03:55,520
+Yeah, I don't know.
+
+679
+01:03:55,521 --> 01:03:58,400
+But I miss, I mean, I thought I had something exciting to say.
+
+680
+01:03:59,041 --> 01:04:11,280
+Scratch what I just was saying, because it looks like when he does do the phenomenon of agreement in its derivative character, he seems to be saying that there's nothing left of it.
+
+681
+01:04:17,800 --> 01:04:20,041
+Yeah, that's the phenomenon.
+
+682
+01:04:22,601 --> 01:04:24,601
+Yeah, that's good.
+
+683
+01:04:24,601 --> 01:04:25,320
+That's good.
+
+684
+01:04:25,320 --> 01:04:25,880
+You agree?
+
+685
+01:04:25,880 --> 01:04:26,520
+I agree.
+
+686
+01:04:26,521 --> 01:04:27,480
+Let's all say that.
+
+687
+01:04:27,481 --> 01:04:27,960
+Right.
+
+688
+01:04:27,960 --> 01:04:35,240
+There's the phenomenon description which gets it right as it points out the object and it agrees with the object agrees with itself.
+
+689
+01:04:35,240 --> 01:04:39,161
+And then there's what the tradition made of this phenomenon of agreement.
+
+690
+01:04:39,161 --> 01:04:40,441
+And they got it wrong.
+
+691
+01:04:40,440 --> 01:04:47,161
+And Heidegger wants to stave the phenomenon of agreement, but I think he doesn't want to call it agreement.
+
+692
+01:04:47,320 --> 01:04:47,800
+Well, I don't know.
+
+693
+01:04:47,800 --> 01:04:48,681
+Well, back to this again.
+
+694
+01:04:48,681 --> 01:04:53,081
+The phenomenon of agreement will now be demonstrated in its derivative character.
+
+695
+01:04:54,681 --> 01:05:14,201
+It's like a funny sentence because it looks like when he derives it as the present-at-hand relation of an assertion with an object, he's making it clear that there's nothing there to describe because the assertion becomes a present-at-hand relation and that's unintelligible.
+
+696
+01:05:14,201 --> 01:05:27,641
+So if there's nothing there to describe, what's he talking about when he's deriving it in its making it deriving it?
+
+697
+01:05:28,681 --> 01:05:30,201
+I still don't understand it.
+
+698
+01:05:30,201 --> 01:05:31,960
+But anyway, I don't want to get stuck on it.
+
+699
+01:05:31,960 --> 01:05:32,840
+I am stuck on it.
+
+700
+01:05:32,840 --> 01:05:34,680
+But I know I want to get unstuck.
+
+701
+01:05:34,681 --> 01:05:38,601
+So let's do, I mean, I want to just see where I am and then go on.
+
+702
+01:05:38,840 --> 01:05:41,400
+I leave it to you all to worry about it.
+
+703
+01:05:42,681 --> 01:05:46,440
+Luckily, it isn't something that makes a big deal to worry about.
+
+704
+01:05:46,440 --> 01:05:48,201
+I don't think it matters all that much.
+
+705
+01:05:48,201 --> 01:05:52,041
+We spend a lot of time on it, because he spends a lot of time on it.
+
+706
+01:05:52,920 --> 01:05:54,201
+Let's see now.
+
+707
+01:05:54,521 --> 01:05:56,121
+Okay, we got that.
+
+708
+01:05:56,440 --> 01:06:29,841
+So he's derived the correspondence theory, he says, and on 268 he says he just says it again, bottom of 267, truth is disclosedness as a being towards uncovered entities, being which itself uncovers, that's the good thing, has become, now that's the bad thing, truth is agreement between things that are present at hand within the world, and thus we have pointed out the ontologically derivative character of the traditional conception of truth.
+
+709
+01:06:29,840 --> 01:06:36,561
+And so now we want to, he doesn't tell us, at least I haven't got any quote that tells us, so we just leave it.
+
+710
+01:06:36,561 --> 01:06:41,201
+Is this derivative something or other useful in some way?
+
+711
+01:06:41,601 --> 01:06:48,240
+Got something correct, if not deeply right, or is it just incoherent?
+
+712
+01:06:48,240 --> 01:06:49,120
+I just don't know.
+
+713
+01:06:49,121 --> 01:06:50,400
+Keep your eyes open.
+
+714
+01:06:50,400 --> 01:07:00,641
+Now, I've got to get done to the rest of this because we've got to, of course, we're going to do, from now on, next time we're going to do the first introduction, and the next time we're going to do the second introduction.
+
+715
+01:07:00,641 --> 01:07:03,280
+So now I have to finish the book before we get to that.
+
+716
+01:07:03,280 --> 01:07:05,600
+And I have all of 10 minutes, which is not bad.
+
+717
+01:07:07,121 --> 01:07:08,801
+There's only one more thing to do.
+
+718
+01:07:08,800 --> 01:07:11,601
+Truth and realism on 269.
+
+719
+01:07:11,920 --> 01:07:25,841
+All I want to say about that is that just as the real depends on us, but reality, I'm sorry, reality depends on us, but the real doesn't.
+
+720
+01:07:26,161 --> 01:07:31,440
+So truth depends on us, but what is true doesn't.
+
+721
+01:07:31,441 --> 01:07:40,400
+And he's just making that connection here, I think, on 269 at the beginning of the kind of being the truth possesses.
+
+722
+01:07:40,721 --> 01:07:44,601
+So I'm going to read, starting with the second sentence at the beginning of that.
+
+723
+01:07:44,241 --> 01:07:48,441
+There is truth only insofar as Dasein is, and so long as Dasein is.
+
+724
+01:07:48,601 --> 01:07:54,360
+Entities are uncovered only when Daseine is, and only as long as Dasein is, are they disclosed.
+
+725
+01:07:54,361 --> 01:08:05,880
+And then we get this thing about Newton's laws, that they are anything like this, can only be disclosed when we're around as disclosers.
+
+726
+01:08:05,880 --> 01:08:16,280
+But that doesn't mean that the truth of these laws, what the laws are true of, comes into being when we disclose them.
+
+727
+01:08:16,281 --> 01:08:21,800
+That is, when they become, well, when we disclose them is when they become true.
+
+728
+01:08:22,120 --> 01:08:35,561
+But there is a sense that when they become true, they turn out to describe something which has been there all along, the laws of Newton's laws.
+
+729
+01:08:35,561 --> 01:08:39,080
+And I take it, I tried to say it, I'll say it again.
+
+730
+01:08:39,080 --> 01:08:44,200
+I think that's the same form as reality depends on us, but the real doesn't.
+
+731
+01:08:44,521 --> 01:08:52,120
+Truth, that is revealing, depends on us, but what is revealed, what is disclosed, what is discovered, doesn't.
+
+732
+01:08:52,120 --> 01:08:53,960
+And that seems okay to me.
+
+733
+01:08:53,960 --> 01:08:55,960
+And I think that's what he's saying here.
+
+734
+01:08:55,960 --> 01:08:58,520
+So let me just find the other places.
+
+735
+01:08:59,080 --> 01:09:10,200
+Once things are uncovered, that is found, that is revealed, that is, we make true assertions about them, it turns out that they were there all along.
+
+736
+01:09:10,200 --> 01:09:14,760
+So I think that what is true doesn't depend on us.
+
+737
+01:09:15,880 --> 01:09:19,400
+But I'm not sure that I'm using the language in the way he wants to use it.
+
+738
+01:09:19,401 --> 01:09:22,440
+This is what I'm trying to explain at the bottom of 269.
+
+739
+01:09:22,441 --> 01:09:25,240
+Through through Newton, the laws became true.
+
+740
+01:09:25,241 --> 01:09:29,840
+That is, Newton disclosed them, that is, or discovered them.
+
+741
+01:09:29,840 --> 01:09:30,880
+I'm not sure which.
+
+742
+01:09:31,120 --> 01:09:32,800
+It's tricky there.
+
+743
+01:09:29,401 --> 01:09:34,481
+Depends on.
+
+744
+01:09:34,800 --> 01:09:45,681
+If Newton worked out the whole Newtonian way of looking at reality, I don't want to say reality, looking at the way things are, then he disclosed something.
+
+745
+01:09:45,681 --> 01:09:51,840
+If Newton discovered that things fall at a certain speed, you know, what happened?
+
+746
+01:09:52,800 --> 01:09:56,880
+Never mind the formula, then that would be discovering something.
+
+747
+01:09:56,880 --> 01:10:03,200
+Newton, being this great character, is not just a scientist, he's the New World discloser.
+
+748
+01:10:03,200 --> 01:10:11,681
+So he's disclosing things, and on the basis of what he discloses, that becomes a disciplinary matrix on which scientists can discover things.
+
+749
+01:10:11,681 --> 01:10:16,880
+And through Newton, the laws became true, and with them, entities became accessible in themselves.
+
+750
+01:10:16,960 --> 01:10:21,120
+That is, what they were true of is now accessible.
+
+751
+01:10:21,120 --> 01:10:23,681
+But what they were true of was there all along.
+
+752
+01:10:23,681 --> 01:10:28,721
+Once entities have been uncovered, they show themselves as entities which beforehand already were.
+
+753
+01:10:28,721 --> 01:10:39,920
+That's so what the truth is true of has been there all along, and we get access to that by way of true assertions.
+
+754
+01:10:39,920 --> 01:10:42,880
+But the true assertions, though, they depend on us.
+
+755
+01:10:42,880 --> 01:10:46,721
+What we get access to through the true assertions doesn't depend on us.
+
+756
+01:10:46,721 --> 01:10:49,920
+I think it's exactly the same kind of argument.
+
+757
+01:10:50,241 --> 01:10:55,920
+So, true and yeah, I'm just saying it over and over here.
+
+758
+01:10:55,920 --> 01:10:57,681
+In general, disclosing depends on us.
+
+759
+01:10:57,681 --> 01:11:00,641
+Okay, I say it three times in my notes.
+
+760
+01:11:01,040 --> 01:11:02,641
+We've got to get to truth and being.
+
+761
+01:11:02,641 --> 01:11:04,080
+That's the last thing.
+
+762
+01:11:04,481 --> 01:11:06,880
+It's a sort of funny move.
+
+763
+01:11:06,880 --> 01:11:11,040
+Truth and being turn out to be, of course, very intimately related.
+
+764
+01:11:11,040 --> 01:11:13,200
+Here's my story about it.
+
+765
+01:11:13,521 --> 01:11:14,481
+And I'm not sure it's right.
+
+766
+01:11:14,601 --> 01:11:15,561
+You have to check.
+
+767
+01:11:15,561 --> 01:11:22,681
+But anyway, he says, you know, I'm trying to explain the line that truth and being are equiprimordial.
+
+768
+01:11:22,681 --> 01:11:23,641
+Where is it?
+
+769
+01:11:24,281 --> 01:11:25,321
+Somebody help me find it.
+
+770
+01:11:25,321 --> 01:11:28,440
+It's right at the end of this part somewhere.
+
+771
+01:11:28,441 --> 01:11:30,360
+Maybe I wrote it down.
+
+772
+01:11:32,601 --> 01:11:36,920
+Yeah, here on two, where it says 230 in the margin, on 272.
+
+773
+01:11:36,920 --> 01:11:39,960
+The being of truth is connected primordially with Dasein.
+
+774
+01:11:39,960 --> 01:11:47,160
+And only because Dasein is as constituted by disclosedness, that is, by understanding, can anything like being be understood?
+
+775
+01:11:47,160 --> 01:11:53,480
+And so it is possible, and so is it possible to understand being.
+
+776
+01:11:53,481 --> 01:11:59,401
+And then the next sentence: being, not entities, is something which there is only so far as truth is.
+
+777
+01:11:59,401 --> 01:12:03,160
+Now we've got being, reality, and truth all have this funny character.
+
+778
+01:12:03,160 --> 01:12:12,840
+That as disclosed, as disclosing, the disclosedness of anything of the real depends on us.
+
+779
+01:12:12,840 --> 01:12:19,320
+The disclosing of being, disclosing of truth, but then what they reveal doesn't depend on us.
+
+780
+01:12:19,321 --> 01:12:23,641
+So being, not entities, is something that there is only insofar as truth is.
+
+781
+01:12:23,641 --> 01:12:30,601
+And truth is only so far and as long as Dasein is, being and truth are equiprimordially.
+
+782
+01:12:30,601 --> 01:12:34,520
+Okay, here's my attempt to give the feel, the phenomena for that.
+
+783
+01:12:34,521 --> 01:12:44,681
+So if being is that on the basis of which being are already understood, then being is very close to being familiarity.
+
+784
+01:12:44,681 --> 01:12:46,200
+I think it's the same.
+
+785
+01:12:46,521 --> 01:12:49,000
+It's background coping.
+
+786
+01:12:49,641 --> 01:12:53,240
+It's what makes possible intelligibility.
+
+787
+01:12:53,241 --> 01:12:58,601
+That is, being is that on the basis of which beings are already understood.
+
+788
+01:12:58,601 --> 01:12:59,721
+And where does truth come in?
+
+789
+01:13:00,000 --> 01:13:02,160
+Truth is disclosedness.
+
+790
+01:13:02,481 --> 01:13:07,360
+It's that on the basis of which beings are uncovered as they are.
+
+791
+01:13:07,681 --> 01:13:10,320
+But that's also background coping.
+
+792
+01:13:10,321 --> 01:13:15,040
+That's that one, it's so close that you would hardly distinguish them.
+
+793
+01:13:15,040 --> 01:13:26,320
+Being is what is that makes everything makes intelligibility possible.
+
+794
+01:13:26,321 --> 01:13:32,480
+And truth makes encountering what is intelligible possible, I think.
+
+795
+01:13:32,481 --> 01:13:34,160
+And they're that close together.
+
+796
+01:13:34,160 --> 01:13:42,000
+Both depend on Dasein, and both of them go back to Dasein taking a stand on its own being by way of coping in the world.
+
+797
+01:13:42,000 --> 01:13:48,080
+So I think that's what I was just, oh, I want to read that a little more in a second.
+
+798
+01:13:48,080 --> 01:13:49,760
+And now, why would I say that?
+
+799
+01:13:49,760 --> 01:14:00,080
+Well, I think that the role of understanding on 272, where it says 230, what I just read, but I want to read it again now with a different emphasis.
+
+800
+01:14:00,080 --> 01:14:03,040
+The being of truth is connected primarily with being a Dasein.
+
+801
+01:14:03,040 --> 01:14:10,320
+Yes, and only because Dasein is as constituted by disclosedness, that is, by understanding, can anything like being be understood?
+
+802
+01:14:10,321 --> 01:14:13,280
+Only so is it possible to understand being.
+
+803
+01:14:13,281 --> 01:14:25,200
+Well, remember, understanding as sort of basic coping or dealing is way back in the beginning, turns out to be very close to familiarity.
+
+804
+01:14:25,200 --> 01:14:39,200
+And he says that it's that you finally, the understanding of being, as I understand it, is just the holistic coping that makes rooms familiar and finally makes the world familiar.
+
+805
+01:14:39,200 --> 01:14:49,480
+And so he can say that together, sort of by, let's see.
+
+806
+01:14:49,800 --> 01:15:01,080
+So both intelligibility, which depends, which is what being gives us, and encountering, which is what truth gives us, go together.
+
+807
+01:15:01,080 --> 01:15:12,360
+And together, they are, I mean, I don't know whether they whether to say they are made possible by coping or they make coping possible.
+
+808
+01:15:14,441 --> 01:15:16,360
+I think coping is more basic.
+
+809
+01:15:16,361 --> 01:15:24,360
+I think coping is what makes possible intelligibility, and coping is what makes possible encountering.
+
+810
+01:15:24,361 --> 01:15:27,561
+And that, and I'm going to start with this next time.
+
+811
+01:15:28,840 --> 01:15:31,160
+Now read Introduction 1.
+
+812
+01:15:31,481 --> 01:15:38,360
+I think what being turns out to be when you read Introduction 1 is holistic background coping.
+
+813
+01:15:38,361 --> 01:15:49,160
+And see if, I don't know if that's right, but I mean, that's at least a candidate, because you're trying to figure out when you read Introduction 1, now that you've read all of Part 1 of Being in Time.
+
+814
+01:15:49,160 --> 01:15:51,481
+So what is the right story about being?
+
+815
+01:15:51,481 --> 01:15:58,840
+He has a list of the wrong stories about being and a list of what sort of glimmer of truth is in each of them.
+
+816
+01:15:58,840 --> 01:16:13,400
+Now you have to take those wrong stories and the glimmer of truth in each of them and see if on the basis of that you can understand what being is according to Heidegger, as opposed to all the mistaken views in the tradition.
+
+817
+01:16:13,401 --> 01:16:14,601
+That's where we're going to start.
+
+818
+01:16:14,601 --> 01:16:16,280
+I just want to make sure I'm ready to start.
+
+819
+01:16:16,281 --> 01:16:16,601
+Yeah.
+
+820
+01:16:16,601 --> 01:16:18,681
+So we're going to start with what being isn't.
+
+821
+01:16:18,681 --> 01:16:25,480
+And we're going to try to figure out on the basis of that what being is according to chapter one.
+
+822
+01:16:25,800 --> 01:16:26,601
+Okay.

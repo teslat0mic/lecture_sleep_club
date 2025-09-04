@@ -1,0 +1,3919 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:05,039
+Where we ended last time was on page 92.
+
+2
+00:00:05,039 --> 00:00:13,199
+This is just to take up where we left off, talking about various versions of world.
+
+3
+00:00:13,200 --> 00:00:20,399
+And on 92, there's a sentence that sort of pulls together things, all the things, some of the things we've been saying.
+
+4
+00:00:20,559 --> 00:00:30,679
+On 92, at the beginning of the bottom paragraph, on 64, about a third of the way down, worldhood is an ontological concept.
+
+5
+00:00:30,680 --> 00:00:33,399
+Remember, that's the fourth meaning of world.
+
+6
+00:00:33,719 --> 00:00:41,560
+An ontological concept that stands for the structure of one of the constitutive items of being in the world.
+
+7
+00:00:41,560 --> 00:00:47,159
+You'll discover that the next chunk of the book is about the in part.
+
+8
+00:00:47,159 --> 00:00:53,000
+But he manages to make an interesting distinction and take them apart and do them separately.
+
+9
+00:00:53,000 --> 00:00:59,560
+He says, but we know being in the world is a way in which Dasein's character is defined existentially.
+
+10
+00:00:59,560 --> 00:01:02,599
+Thus, worldhood itself is an existentiale.
+
+11
+00:01:02,759 --> 00:01:04,439
+All that should be familiar to you.
+
+12
+00:01:04,439 --> 00:01:14,039
+An existentiale, remember, was a structure of a being that has the way of being of existence, namely that takes a stand on its own being.
+
+13
+00:01:14,360 --> 00:01:23,800
+And so we know that it does that by having a whole lot of equipment and having a world.
+
+14
+00:01:23,800 --> 00:01:28,840
+So world is part of the existential structure of Dasein.
+
+15
+00:01:29,079 --> 00:01:31,719
+Now, that's just for last night.
+
+16
+00:01:31,719 --> 00:01:34,439
+Now, I want to just prepare you for two things.
+
+17
+00:01:34,439 --> 00:01:38,759
+One, I might have to go back beyond a little bit to the assigned reading.
+
+18
+00:01:38,759 --> 00:01:40,120
+I don't like to do that.
+
+19
+00:01:40,120 --> 00:01:45,879
+I think it's very important that I give you a chance to read it first before I talk about it.
+
+20
+00:01:45,879 --> 00:01:47,080
+And maybe we won't get there.
+
+21
+00:01:47,079 --> 00:01:48,599
+It's always hard to say.
+
+22
+00:01:48,599 --> 00:02:13,480
+But what I want to warn you about is next week's reading, which starts out very simple and continues what's going to be today very simple, namely, this amazingly detailed and convincing account of the structure of worldhood, the thing that Wittgenstein said you couldn't do.
+
+23
+00:02:13,480 --> 00:02:20,480
+Take this Govinnel, this hurly-burley of all the stuff that everybody's doing and find some kind of structure in it.
+
+24
+00:02:21,039 --> 00:02:27,280
+Heidegger finds just an amazing amount of structure in it and constantly gives you concrete examples.
+
+25
+00:02:27,280 --> 00:02:28,799
+It's fun to read.
+
+26
+00:02:29,280 --> 00:02:31,519
+It's phenomenology at its best.
+
+27
+00:02:31,520 --> 00:02:37,280
+And that's what we're going to do today and probably some of next Tuesday.
+
+28
+00:02:37,280 --> 00:02:47,279
+But then, out of this detailed description of the structure of worldhood, Heidegger draws ontological conclusions about being.
+
+29
+00:02:47,279 --> 00:02:50,879
+And it's the hardest stuff in being and time.
+
+30
+00:02:50,879 --> 00:02:52,320
+Just don't panic.
+
+31
+00:02:52,319 --> 00:02:57,439
+And if you don't understand it the first time, let me help you after 30 times.
+
+32
+00:02:57,439 --> 00:02:59,599
+I'm beginning to understand it, I think.
+
+33
+00:02:59,600 --> 00:03:05,599
+And it's really not only very abstract and hard, but it's very important.
+
+34
+00:03:05,600 --> 00:03:09,359
+It really is Heidegger's telling you what he's up to.
+
+35
+00:03:09,360 --> 00:03:13,040
+But for the time being, we get to relax and have fun.
+
+36
+00:03:13,040 --> 00:03:27,599
+And it's one, it's not going to be all sort of vague as I've been up to now because I was trying to describe the kind of general background of what was going on in the book and talk about the background, which is hard to talk about.
+
+37
+00:03:27,600 --> 00:03:29,680
+This is very concrete.
+
+38
+00:03:29,680 --> 00:03:38,800
+And you can just keep checking it against your own experience of hammering or writing on the board with chalk or whatever, piping at your computer or whatever.
+
+39
+00:03:40,879 --> 00:03:42,400
+I was going to say one more thing about it.
+
+40
+00:03:42,639 --> 00:03:43,280
+What was it?
+
+41
+00:03:43,279 --> 00:03:43,840
+Oh, yeah.
+
+42
+00:03:44,159 --> 00:03:46,400
+And it's best in being in time.
+
+43
+00:03:46,399 --> 00:04:05,480
+So I don't have to bring in, I don't have to carry the history of the concept of time and the book on the foundations of logic and what else on this and oh, and basic problems, all of which lots of the time say something in his lectures that's more detailed or more understandable.
+
+44
+00:04:05,959 --> 00:04:08,120
+But here, I don't know any place else.
+
+45
+00:04:08,120 --> 00:04:13,480
+I don't know all the something like hundred books now that are out of his lectures.
+
+46
+00:04:13,480 --> 00:04:17,319
+He wrote down every course he ever gave, and they're all being published.
+
+47
+00:04:17,319 --> 00:04:21,800
+And I don't know any place where he goes into the detail that he does here.
+
+48
+00:04:21,800 --> 00:04:31,000
+And he obviously, I think, just decided this was he was going to work it out this time and not just sort of talk generally about it.
+
+49
+00:04:31,000 --> 00:04:35,079
+And when he does his phenomenology, it really is fascinating.
+
+50
+00:04:35,079 --> 00:04:54,680
+So just think now, how would you go about trying to describe the structure of the everyday world that everybody's always involved in coping and absorb coping with, and see if you like how he does it.
+
+51
+00:04:54,680 --> 00:05:10,439
+So he's going to call, this is an analysis of environmentality, which is just to say of the everyday world around us that we're in and which we encounter all the time in our skillful coping.
+
+52
+00:05:10,439 --> 00:05:24,920
+Now, the first thing I need to say, which isn't something he needs to say, because he's writing in German, but we're reading it in English, and in the discussion in my office hours Wednesday, people, somebody, sort of challenged me on it.
+
+53
+00:05:24,920 --> 00:05:34,439
+They didn't think of it as a challenge, but I did, to try to explain what in the text corresponds to my talking about absorbed coping.
+
+54
+00:05:34,439 --> 00:05:39,079
+Because those that phrase does never occur in this translation.
+
+55
+00:05:39,399 --> 00:05:48,639
+So I'm going to try to tell you, so just so you've got what the German is and how I'm translating it and why, and then we will go into the details.
+
+56
+00:05:48,959 --> 00:05:55,360
+So absorb gets translated weirdly on page 80.
+
+57
+00:05:55,360 --> 00:05:56,240
+What do you mean?
+
+58
+00:05:57,199 --> 00:06:00,079
+Once or twice the translator says absorb.
+
+59
+00:06:00,079 --> 00:06:04,319
+Oh yeah, he does on 80, but he says it in a context which is very confusing.
+
+60
+00:06:04,319 --> 00:06:10,959
+The bottom of that top paragraph, the only paragraph on 80, in German we're on 54.
+
+61
+00:06:10,959 --> 00:06:12,399
+Just this sentence.
+
+62
+00:06:12,399 --> 00:06:21,599
+Being alongside the world in the sense of being absorbed in the world is an existential founded upon being in.
+
+63
+00:06:21,600 --> 00:06:28,000
+Now, what's weird about that, I hope you already have enough of a feeling for the phenomena.
+
+64
+00:06:28,000 --> 00:06:31,839
+What in the world would it be to be alongside the world?
+
+65
+00:06:31,840 --> 00:06:35,279
+This is one of these remarkably wrong translations.
+
+66
+00:06:35,279 --> 00:06:39,279
+I mean, there are some translations that go, well, you could do it that way, you could do it that way.
+
+67
+00:06:39,680 --> 00:06:44,959
+Sometimes there are translations that say just the opposite of what Heidegger's trying to say.
+
+68
+00:06:44,960 --> 00:06:50,800
+You are always already involved in the midst of everything, not alongside it.
+
+69
+00:06:50,800 --> 00:07:06,560
+The German, it's sort of like a bad joke, is sein by, which means being by, but it means being by in B E I in German, the way Shea means being at home.
+
+70
+00:07:07,440 --> 00:07:14,320
+If you're living at somebody's house, then you live by B E I, them.
+
+71
+00:07:14,320 --> 00:07:15,920
+And so it's fine.
+
+72
+00:07:16,159 --> 00:07:23,600
+What Heidegger's saying when he says sein by is being at home in the world, not being alongside the world.
+
+73
+00:07:23,919 --> 00:07:31,799
+Now, that would be fine to translate it that way, but you can't translate it that way because Heidegger's also got the view that we're never at home in the world.
+
+74
+00:07:32,039 --> 00:07:36,120
+That's got to do with anxiety and stuff that we come up with, we'll come up to later.
+
+75
+00:07:36,120 --> 00:07:38,040
+So, what are we going to do with Zein Bai?
+
+76
+00:07:38,120 --> 00:07:39,399
+Well, it's not easy to see.
+
+77
+00:07:39,799 --> 00:07:42,200
+One thing you know was not to do what he did.
+
+78
+00:07:42,200 --> 00:07:47,480
+Well, my version is being amidst, amidst the things.
+
+79
+00:07:47,799 --> 00:07:53,640
+That really doesn't get you enough of feeling sort of at home in them.
+
+80
+00:07:53,960 --> 00:08:00,600
+So, you can think of it as being at home as long as you have a little sense that in a certain way everything is weird.
+
+81
+00:08:00,919 --> 00:08:04,039
+But, okay, so much for the that.
+
+82
+00:08:04,039 --> 00:08:09,480
+And he goes right on to say, in the sense of being absorbed in the world, and absorbed is fine.
+
+83
+00:08:09,799 --> 00:08:20,600
+That is his word for the way you're just totally plunged into what you're doing, and when you're doing it well, you're forgetting yourself altogether.
+
+84
+00:08:20,600 --> 00:08:22,520
+And what about coping?
+
+85
+00:08:22,519 --> 00:08:24,200
+Now, I have to tell you that.
+
+86
+00:08:24,200 --> 00:08:31,160
+Well, coping gets talked about on 95 at the very what?
+
+87
+00:08:31,159 --> 00:08:32,200
+I don't see it on 90.
+
+88
+00:08:32,279 --> 00:08:33,000
+Oh, yeah.
+
+89
+00:08:33,240 --> 00:08:52,200
+Right at the beginning of that section, at the end of 66 in German, the being of those entities which we encounter as closest to us in the exhibited phenomenology phenomenologically, if we take as our clue our everyday being in the world, which we also call our dealings in the world.
+
+90
+00:08:52,200 --> 00:08:58,840
+Okay, his word for this thing I'm calling coping, he's calling dealing.
+
+91
+00:08:58,840 --> 00:09:00,919
+The German word is umgang.
+
+92
+00:09:00,919 --> 00:09:04,120
+I think coping or dealing is fine.
+
+93
+00:09:04,120 --> 00:09:11,480
+And he says it also means something more complicated, like intercourse with the world and figuring with things.
+
+94
+00:09:11,480 --> 00:09:12,920
+Certainly, we don't want that.
+
+95
+00:09:12,919 --> 00:09:14,480
+Dealing is okay.
+
+96
+00:09:14,039 --> 00:09:16,240
+I think coping is better.
+
+97
+00:09:14,360 --> 00:09:21,439
+I guess I think coping is better because it seems more rock-bottom.
+
+98
+00:09:21,600 --> 00:09:29,200
+I mean, remember, you're not dealing with doors and stuff in any sense of paying any attention to them.
+
+99
+00:09:29,200 --> 00:09:36,960
+You're just taking account of them and using them to get done what at that time needs to be done.
+
+100
+00:09:36,960 --> 00:09:38,560
+So I stick to coping.
+
+101
+00:09:39,360 --> 00:09:47,920
+So I'm going to say always that you're absorbed coping and you are amidst the things in the world.
+
+102
+00:09:50,080 --> 00:09:53,279
+That's the basic.
+
+103
+00:09:54,559 --> 00:09:59,600
+And now we're ready to talk about this sort of ground-level phenomena of absorbed coping.
+
+104
+00:09:59,600 --> 00:10:09,920
+Only you're going to talk about it now, not as the skillful activity, but sort of what you're coping with when you're absorbed coping.
+
+105
+00:10:09,919 --> 00:10:20,879
+And in other words, because we're starting to talk about the phenomenon in the world, we're trying to talk about the way we encounter equipment to talk like Heidegger and the environment.
+
+106
+00:10:20,879 --> 00:10:28,480
+And he talks about, he's going on to say something about that right away on 95, right after where I stop.
+
+107
+00:10:28,799 --> 00:10:33,680
+Such dealings have already dispersed themselves in manifold ways of concern.
+
+108
+00:10:33,680 --> 00:10:40,320
+The kind of dealing which is closest to us is, and I'm going to stick to dealing in here because that's just fine.
+
+109
+00:10:40,319 --> 00:10:47,200
+But I can't help thinking to sticking to coping when you hear me giving my line, because I'm just used to it, and I think it's fine, too.
+
+110
+00:10:47,200 --> 00:10:54,480
+So you just get used to hearing dealing and coping meaning the same thing, you never get used to it and don't pay any attention.
+
+111
+00:10:54,480 --> 00:10:57,280
+Just you know what you mean.
+
+112
+00:10:57,279 --> 00:10:58,560
+So here we go again.
+
+113
+00:10:58,960 --> 00:11:02,759
+Such dealings have already dispersed themselves into manifold ways of concern.
+
+114
+00:11:03,080 --> 00:11:14,520
+The kind of dealing which is closest to us is, as we have shown, not a bare perceptual cognition, but rather the kind of concern which manipulates things and puts them to use and has its own kind of knowledge.
+
+115
+00:11:14,519 --> 00:11:15,639
+That's know-how.
+
+116
+00:11:16,440 --> 00:11:18,120
+The little reviews come in here.
+
+117
+00:11:18,120 --> 00:11:24,040
+That's the kind of knowledge that you have when you're able just to deal with things.
+
+118
+00:11:24,039 --> 00:11:27,960
+Okay, now we, having said that, we're about ready to be.
+
+119
+00:11:28,039 --> 00:11:30,440
+And that's page 67 of the German.
+
+120
+00:11:31,720 --> 00:11:34,040
+And also.
+
+121
+00:11:37,240 --> 00:11:44,439
+Yeah, and here's a passage which sounds a lot like Basic Problems, where he talks about going out the door for a minute.
+
+122
+00:11:44,440 --> 00:11:45,639
+And it's helpful.
+
+123
+00:11:45,639 --> 00:11:46,839
+So we're going to look at that too.
+
+124
+00:11:46,840 --> 00:11:53,000
+96, about five lines down, sort of the middle of page 67 of the German.
+
+125
+00:11:57,320 --> 00:11:59,559
+And the sentence before that intrigues me.
+
+126
+00:11:59,559 --> 00:12:01,080
+And as I see it, I'll just read it.
+
+127
+00:12:01,080 --> 00:12:03,000
+I wonder what he's saying there.
+
+128
+00:12:03,000 --> 00:12:13,640
+But as an investigation of being, what he's doing here, it brings to completion and explicitly the understanding of being which belongs to Dasein, which comes alive in any of its dealings.
+
+129
+00:12:13,639 --> 00:12:14,600
+Well, that's good.
+
+130
+00:12:14,600 --> 00:12:18,199
+The understanding of being is always there, no matter in all the dealings.
+
+131
+00:12:18,200 --> 00:12:19,000
+We know that.
+
+132
+00:12:19,559 --> 00:12:21,480
+That's something he's going to come back to.
+
+133
+00:12:21,480 --> 00:12:27,559
+Now, so let's go what I want to read is: those entities which serve phenomenologically as our preliminary theme.
+
+134
+00:12:27,559 --> 00:12:31,639
+Remember, we're talking about the stuff now that makes up the world.
+
+135
+00:12:31,639 --> 00:12:42,280
+In this case, those which are used or which are to be found in the course of production become accessible when we put ourselves into the position of concerning ourselves with them in some such way.
+
+136
+00:12:42,279 --> 00:12:46,879
+Strictly speaking, this talk of putting ourselves in such a position is misleading.
+
+137
+00:12:46,879 --> 00:12:53,920
+For the kind of being which belongs to such concernful dealings is not one in which we need to put ourselves first.
+
+138
+00:12:53,919 --> 00:12:56,879
+This is the way in which Dasein always is.
+
+139
+00:12:56,879 --> 00:12:59,519
+When I open the door, for instance, I use the latch.
+
+140
+00:12:59,519 --> 00:13:09,120
+That is, we're always doing this business of to go in and out, and we're always using without even noticing it the equipment for doing that.
+
+141
+00:13:09,759 --> 00:13:11,120
+And so let's go on.
+
+142
+00:13:12,000 --> 00:13:29,600
+The achieving of phenomenological access to the entities we encounter consists, and now he's going to try to get you not to think about what we deal with as substances and not to think about our coping skills as some kind of rules, unconscious rules for how to deal with doors and so forth.
+
+143
+00:13:29,600 --> 00:13:33,200
+Those are the interpretations you want to push aside all the time.
+
+144
+00:13:33,200 --> 00:13:42,560
+The achieving of phenomenological access to the entities which we encounter consists rather in thrusting aside our interpretive tendencies which keep thrusting themselves upon us and running along with us.
+
+145
+00:13:42,559 --> 00:13:53,520
+Sometimes he says they run ahead of us and which conceal not only the phenomenon of such concern, but even more the entities themselves as encountered of their own accord in our concern.
+
+146
+00:13:53,519 --> 00:14:07,840
+All that's to say, well, whatever this stuff is we're going to talk about, which is equipment, of course, it's not going to be what people have always thought it was, substances with properties, and who are just sitting there, each one self-sufficient.
+
+147
+00:14:07,840 --> 00:14:21,360
+There are such things, but that's not what he's going to talk about because we're always already in the world, coping with doors and using the latch and so forth, and not thinking about it.
+
+148
+00:14:21,360 --> 00:14:35,079
+And it would be a long story, not that that doesn't interest him very much, to say what a skill is, but he certainly thinks a skill isn't anything like mental representations, conscious or unconscious, of stuff in the world and rules for coping.
+
+149
+00:14:35,320 --> 00:14:40,440
+We'll come back to that when he criticizes Descartes for thinking something like that.
+
+150
+00:14:40,759 --> 00:14:49,000
+Okay, so now we've got to ready to define equipment.
+
+151
+00:14:49,000 --> 00:14:52,839
+Equipment's the probably okay translation for zoig.
+
+152
+00:14:52,840 --> 00:14:55,879
+Zeug is the German, and it's sort of funny.
+
+153
+00:14:55,879 --> 00:14:59,240
+German is such a what my kids used to call a Lego language.
+
+154
+00:14:59,240 --> 00:15:03,879
+You put all the little pieces together in bigger and bigger words, and you talk about anything that way.
+
+155
+00:15:03,960 --> 00:15:07,320
+Zeug is a little piece that goes onto anything.
+
+156
+00:15:07,320 --> 00:15:17,560
+There's houses, which are Bohnsoug, and there are toys, which are Spielsoug, and there are screwdrivers, which are, I don't know what, my German's not good enough.
+
+157
+00:15:17,559 --> 00:15:18,840
+Some kind of Zeug.
+
+158
+00:15:18,919 --> 00:15:22,440
+Zeug just means equipment for doing anything.
+
+159
+00:15:22,440 --> 00:15:24,039
+I mean, it's a big deal.
+
+160
+00:15:24,039 --> 00:15:25,639
+I mean, it covers everything.
+
+161
+00:15:25,639 --> 00:15:35,559
+That's what's which is hard to see that he's going to include houses in his story about equipment, so they're equipment for living in, and toys, and so forth.
+
+162
+00:15:35,559 --> 00:15:39,880
+Everything that we cope with are soigs.
+
+163
+00:15:39,880 --> 00:15:44,519
+And so we're going to Hoagland says paraphernalia.
+
+164
+00:15:44,759 --> 00:15:46,919
+Other people have other fancy words.
+
+165
+00:15:47,079 --> 00:15:51,799
+I think this is this is as good as any, yeah.
+
+166
+00:15:57,559 --> 00:16:00,039
+Ah, no, no, that's not right.
+
+167
+00:16:00,039 --> 00:16:02,759
+I mean, I I misled you then.
+
+168
+00:16:02,759 --> 00:16:05,160
+I hadn't really thought about making the distinction.
+
+169
+00:16:05,160 --> 00:16:06,679
+No, let's just test it.
+
+170
+00:16:06,680 --> 00:16:17,200
+Could there be something which was not made for coping, but which you could use in coping, a natural thing?
+
+171
+00:16:17,519 --> 00:16:19,200
+Now, let me see if we can think of one.
+
+172
+00:16:19,519 --> 00:16:20,319
+Yeah.
+
+173
+00:16:24,160 --> 00:16:26,000
+Ah, that's a nice one.
+
+174
+00:16:26,000 --> 00:16:32,720
+Okay, so there's a, I don't know, and it may be that you can't call it equipment in German.
+
+175
+00:16:32,720 --> 00:16:34,400
+I don't know what kind of toy it would be.
+
+176
+00:16:35,039 --> 00:16:38,000
+Wait, I have to, I'm stuck about this because I'm not sure.
+
+177
+00:16:39,279 --> 00:16:45,279
+If equipment is aha, it is always social.
+
+178
+00:16:45,279 --> 00:16:50,240
+That's one of the morals I was going to get out of this lecture, but I hadn't really seen it coming.
+
+179
+00:16:50,960 --> 00:16:52,720
+I can't tell you why yet.
+
+180
+00:16:52,720 --> 00:16:55,919
+But a tree that falls, you can use it.
+
+181
+00:16:55,920 --> 00:17:01,759
+But in his way of defining equipment, it doesn't count as equipment.
+
+182
+00:17:01,759 --> 00:17:06,960
+And you don't know why yet, but you're going to find out pretty soon how we're going to rule out trees.
+
+183
+00:17:06,960 --> 00:17:07,599
+Yeah.
+
+184
+00:17:11,119 --> 00:17:12,720
+Ah, what is the tree there?
+
+185
+00:17:12,720 --> 00:17:14,480
+Oh boy, this is interesting.
+
+186
+00:17:14,480 --> 00:17:15,040
+I don't know.
+
+187
+00:17:15,039 --> 00:17:16,000
+Let me think.
+
+188
+00:17:19,200 --> 00:17:23,200
+No, it's being used.
+
+189
+00:17:23,200 --> 00:17:28,720
+And I wouldn't be surprised that it even has readiness to hand.
+
+190
+00:17:29,119 --> 00:17:32,559
+I mean, because you can use it to cope.
+
+191
+00:17:32,559 --> 00:17:42,799
+And I'm discovering only this year, after all my years of teaching it, and fighting, particularly for the last three years with a TA who's no longer with us, which is a kind of relief for me.
+
+192
+00:17:42,799 --> 00:17:59,759
+But fighting with him about this business of whether what's, I saw, finally saw that all of our disagreement about what counts as equipment was that we weren't distinguishing what makes it equipment and what mode of being it has.
+
+193
+00:18:00,039 --> 00:18:08,279
+Equipment has the mode of being of readiness to hand, but so does any old tree that if you're using it as a bridge.
+
+194
+00:18:08,599 --> 00:18:10,200
+And now, how come?
+
+195
+00:18:10,200 --> 00:18:22,839
+I mean, once you see that, lots of things that we used to fight about, me and Rick Kenedo, like, is a hammer in a drawer still count as equipment?
+
+196
+00:18:22,839 --> 00:18:25,240
+And does it count as ready to hand?
+
+197
+00:18:25,240 --> 00:18:30,039
+And I used to keep insisting it isn't ready to hand, it isn't ready to hand, and he kept insisting it is equipment.
+
+198
+00:18:30,039 --> 00:18:31,640
+And the answer is both.
+
+199
+00:18:31,640 --> 00:18:33,000
+Yes, it's equipment.
+
+200
+00:18:33,000 --> 00:18:35,720
+And when it's in the drawer, it's not ready to hand.
+
+201
+00:18:36,119 --> 00:18:40,439
+In fact, I'll come to this, but I'll say something mysterious now.
+
+202
+00:18:40,440 --> 00:18:52,440
+A hammer in a culture that ties things with mines or glues them and has no nails in a drawer or even in your hand isn't a hammer.
+
+203
+00:18:52,440 --> 00:18:53,639
+So we've got to sort all that out.
+
+204
+00:18:53,640 --> 00:18:55,319
+And Heidegger's got it all sorted out.
+
+205
+00:18:55,319 --> 00:18:57,720
+It's just me that didn't have it sorted out.
+
+206
+00:18:57,720 --> 00:19:00,359
+And I don't know any commentary that it has either.
+
+207
+00:19:00,359 --> 00:19:02,439
+And so we have to go step by step.
+
+208
+00:19:02,440 --> 00:19:08,519
+So we want to understand what it is to be counted as equipment.
+
+209
+00:19:08,519 --> 00:19:11,240
+And I bet, and soy does equal equipment.
+
+210
+00:19:11,240 --> 00:19:13,720
+And I bet that's only in a culture.
+
+211
+00:19:13,720 --> 00:19:16,200
+So she was very right to ask that question.
+
+212
+00:19:16,599 --> 00:19:23,159
+But we haven't defined why we can't call the fallen bridge equipment until we get to, we're going to do it.
+
+213
+00:19:23,240 --> 00:19:30,599
+We see it on page 98 and on German 69, the crucial move.
+
+214
+00:19:30,599 --> 00:19:32,039
+And that is.
+
+215
+00:19:38,759 --> 00:19:39,720
+Oh, oh no, it doesn't.
+
+216
+00:19:39,720 --> 00:19:42,759
+I mean, the thing I was going to read is a different point.
+
+217
+00:19:42,759 --> 00:19:57,119
+So as long as I got you to 98.6, it fits the other thing I said, namely that the being, it says the kind of being which equipment possesses, in which it manifests itself in its own right, we call readiness to hand.
+
+218
+00:19:57,119 --> 00:20:07,039
+And I said, yes, all equipment does have as its way of being under certain conditions, namely when we're using it, readiness to hand.
+
+219
+00:20:07,039 --> 00:20:08,640
+And so do other things.
+
+220
+00:20:08,640 --> 00:20:10,480
+But I didn't look up the right thing.
+
+221
+00:20:10,559 --> 00:20:14,639
+I didn't get into this when I was thinking, writing these notes from this angle.
+
+222
+00:20:14,640 --> 00:20:15,839
+So let's look for another.
+
+223
+00:20:15,839 --> 00:20:17,200
+On 68.
+
+224
+00:20:17,279 --> 00:20:18,319
+Oh, no, that's the German.
+
+225
+00:20:18,319 --> 00:20:19,519
+On 97.
+
+226
+00:20:19,519 --> 00:20:20,960
+Let's go back there.
+
+227
+00:20:21,279 --> 00:20:22,640
+Ah, okay, good.
+
+228
+00:20:22,640 --> 00:20:24,000
+That's important.
+
+229
+00:20:24,000 --> 00:20:25,200
+There we go.
+
+230
+00:20:26,480 --> 00:20:35,200
+What I'm trying to get is on 68, the first full paragraph in German.
+
+231
+00:20:35,359 --> 00:20:37,039
+Oh, I keep saying 68, sorry.
+
+232
+00:20:37,279 --> 00:20:40,960
+97, the first full in English.
+
+233
+00:20:40,960 --> 00:20:42,720
+68 in German.
+
+234
+00:20:42,720 --> 00:20:46,960
+Now, the crucial thing he's going to say there, I'll read that little paragraph.
+
+235
+00:20:46,960 --> 00:20:50,240
+Strictly speaking, there is no such thing as having equipment.
+
+236
+00:20:50,240 --> 00:20:56,799
+To the being of any equipment, there belongs a totality of equipment in which it can be this equipment that it is.
+
+237
+00:20:56,799 --> 00:21:00,000
+Equipment is essentially something in order to.
+
+238
+00:21:00,000 --> 00:21:03,040
+And I'll be very explained a lot there.
+
+239
+00:21:03,039 --> 00:21:10,960
+A totality of equipment is constituted by various ways of the in order to, such as serviceability, usability, and so forth.
+
+240
+00:21:10,960 --> 00:21:12,720
+And he goes on, all this is important.
+
+241
+00:21:12,720 --> 00:21:14,720
+Let me just tell you what we're really looking for.
+
+242
+00:21:14,720 --> 00:21:18,480
+We're looking for the holism, what it's crucial to something.
+
+243
+00:21:18,559 --> 00:21:24,960
+This is so important for Heidegger that he has seen this, and it's right, and it makes a big deal point for him.
+
+244
+00:21:24,960 --> 00:21:31,799
+That equipment is always only equipment in a totality of other equipment.
+
+245
+00:21:32,599 --> 00:21:43,639
+And that's the crucial thing that's going to make the, you see why the bridge, why the tree is not going to turn out to be equipment, it's not in a totality of other equipment.
+
+246
+00:21:43,799 --> 00:21:45,320
+If it were a bridge, it would be.
+
+247
+00:21:45,319 --> 00:21:52,279
+It would have a road leading up to it, and it would have a place for boats to go under it, and so forth, and it would be in the totality.
+
+248
+00:21:52,599 --> 00:22:04,439
+But by the way, just a fussy point, but still, totality is sort of misleading because totality could just be a heap of bricks or something.
+
+249
+00:22:04,599 --> 00:22:25,319
+The Gestalt people, who are really interested in holism, would say not that this Garnsheit, which is the German, should be translated here anyway, a whole, where in a whole, and I think I should say this, what counts as a part depends on its position in the whole.
+
+250
+00:22:25,319 --> 00:22:27,720
+That's the Gestaltist point.
+
+251
+00:22:27,720 --> 00:22:32,599
+People say the Gestaltist point is that the whole is more than the sum of the parts.
+
+252
+00:22:32,599 --> 00:22:33,880
+That's not interesting.
+
+253
+00:22:33,880 --> 00:22:35,159
+That's not right.
+
+254
+00:22:35,160 --> 00:22:37,799
+So is a heap of bricks more than the sum of a part?
+
+255
+00:22:37,799 --> 00:22:39,399
+It's a heap, I suppose.
+
+256
+00:22:39,400 --> 00:22:48,200
+But in any case, what the Gestaltists want to say is what it is to be whatever it is, it gets only by the way it fits into the whole.
+
+257
+00:22:48,200 --> 00:22:56,519
+Their kind of example is a note in a melody will be heard as a different note depending on the different melodies it's in.
+
+258
+00:22:56,519 --> 00:23:03,639
+And because it gets its quality of the kind of note it is from its position in the hole.
+
+259
+00:23:03,640 --> 00:23:07,080
+And you see, you wouldn't even say a totality for that.
+
+260
+00:23:07,319 --> 00:23:15,039
+So, anyway, I may or may not remember to say it, but I think it's something Heidegger certainly, when he says Garn's gonze, he means whole.
+
+261
+00:23:15,039 --> 00:23:16,000
+So, where are we?
+
+262
+00:23:14,680 --> 00:23:21,600
+I am on 60, on 97, and I'm reading something.
+
+263
+00:23:21,759 --> 00:23:23,279
+Ah, yeah, okay, let's go back.
+
+264
+00:23:23,279 --> 00:23:26,720
+Taken strictly, there is no such thing as an equipment.
+
+265
+00:23:26,720 --> 00:23:34,639
+To the being of any equipment, there always belongs a whole, an equipmental hole, I'm going to say, in which it can be this equipment that it is.
+
+266
+00:23:34,640 --> 00:23:37,599
+Equipment is essentially something in order-to.
+
+267
+00:23:37,599 --> 00:23:42,480
+The totality of equipment is constituted by the various ways of the inorder-to.
+
+268
+00:23:42,480 --> 00:23:43,679
+I read that.
+
+269
+00:23:43,680 --> 00:23:52,879
+Now, but it's so hard to understand this, partly because now that I do understand it, I see that even Heidegger can't quite get it right.
+
+270
+00:23:52,880 --> 00:24:00,160
+That is, it's not enough to say that equipment is constituted by ways of in order-to.
+
+271
+00:24:00,160 --> 00:24:08,159
+I love his example because this tree that's fallen across the water can be used in order to get across the water.
+
+272
+00:24:08,160 --> 00:24:11,119
+It's not that that Heidegger wants to point at.
+
+273
+00:24:11,119 --> 00:24:18,640
+He wants to point out that if it's equipment and not just a tree used to get across the water, then it's got more than an inorder-to.
+
+274
+00:24:18,640 --> 00:24:21,759
+That's in order, it's more than just in order to get across the water.
+
+275
+00:24:21,759 --> 00:24:24,879
+It's got to be fitted into a hole of other stuff.
+
+276
+00:24:24,880 --> 00:24:28,319
+That's part of what it is to be equipment.
+
+277
+00:24:28,319 --> 00:24:32,960
+Now, it's like, if you think of it, it's just ordinary English.
+
+278
+00:24:32,960 --> 00:24:39,279
+You just don't, just because you can walk across this tree and use it as a bridge doesn't make it a bridge.
+
+279
+00:24:39,279 --> 00:24:43,679
+A bridge is a piece of equipment in a whole collection of other pieces of equipment.
+
+280
+00:24:43,680 --> 00:24:52,079
+And Heidegger's very set on that because he wants to show that equipment isn't a substance.
+
+281
+00:24:52,079 --> 00:24:53,759
+It's not self-sufficient.
+
+282
+00:24:53,759 --> 00:24:58,399
+It only gets to be the equipment it is in the whole of other equipment.
+
+283
+00:24:58,400 --> 00:25:02,599
+And that's something that no philosophers have ever paid attention to.
+
+284
+00:24:59,839 --> 00:25:02,919
+Yeah.
+
+285
+00:25:09,319 --> 00:25:22,359
+Well, at some point, I don't think a trail would be maybe enough, but then signs saying, you know, go slow, and I was putting in some way to go under it if it could be a bridge.
+
+286
+00:25:22,359 --> 00:25:23,400
+But no, I don't know.
+
+287
+00:25:23,400 --> 00:25:28,039
+I mean, this is not a kind of question that we can, you know, give any general answer to.
+
+288
+00:25:28,039 --> 00:25:37,319
+It's when something gets to be what it is by how it fits in with the other stuff around, then it's become equipment.
+
+289
+00:25:37,319 --> 00:25:39,240
+And I think maybe you're right.
+
+290
+00:25:39,240 --> 00:25:42,600
+It's become already a bridge as soon as you build a road up to it.
+
+291
+00:25:42,759 --> 00:25:45,000
+I won't object to that.
+
+292
+00:25:45,000 --> 00:25:47,240
+And then it's equipment for crossing roads.
+
+293
+00:25:47,240 --> 00:25:54,120
+And then it, but it couldn't be a bridge, this is the point, unless it was linked into the highway system.
+
+294
+00:25:54,359 --> 00:25:55,720
+And that's the Heidegger point.
+
+295
+00:25:55,720 --> 00:25:56,279
+So you're right.
+
+296
+00:25:56,279 --> 00:26:00,440
+Just build a road up to it, link it in, and it becomes equipment.
+
+297
+00:26:00,440 --> 00:26:01,000
+Yeah.
+
+298
+00:26:04,039 --> 00:26:11,399
+I think possibly that maybe you're right in the foundation of bridged in the repository.
+
+299
+00:26:11,480 --> 00:26:15,639
+Like we're kind of trying to stretch it by the long example.
+
+300
+00:26:16,039 --> 00:26:21,160
+Now I'm just saying the law and okay.
+
+301
+00:26:26,680 --> 00:26:29,000
+Yeah, you're absolutely right.
+
+302
+00:26:29,000 --> 00:26:31,000
+There is a third characterization.
+
+303
+00:26:31,000 --> 00:26:36,839
+Maybe I just sort of blurt out the general rules of this game because they turn out to be so subtle.
+
+304
+00:26:36,839 --> 00:26:42,039
+And this is the cause of, as I say, arguments for years, and I don't even know anybody else who's tried to work it out.
+
+305
+00:26:42,039 --> 00:26:46,319
+To understand equipment, you've got to understand suitability.
+
+306
+00:26:46,640 --> 00:26:57,200
+And that would mean that it has to have, Heidegger will say in a minute, the kinds of properties, real properties, that make it able to do what it does.
+
+307
+00:26:57,200 --> 00:27:01,039
+So if it's got to be a bridge, it can't be just sinking into the water when you step on it.
+
+308
+00:27:01,039 --> 00:27:02,319
+Then that's fine.
+
+309
+00:27:02,319 --> 00:27:04,639
+Suitability, but that won't get you just equipped.
+
+310
+00:27:04,720 --> 00:27:08,799
+That only gets you the log across the water.
+
+311
+00:27:09,599 --> 00:27:12,639
+And then it has to have appropriateness.
+
+312
+00:27:12,640 --> 00:27:16,960
+That's a different German word, but they get translated the same here, which doesn't help at all.
+
+313
+00:27:16,960 --> 00:27:23,840
+There is, it's got to be sudden, that's suitable, and ongames, that's appropriate.
+
+314
+00:27:23,839 --> 00:27:25,359
+Now, what about appropriate?
+
+315
+00:27:25,359 --> 00:27:29,839
+Well, there are two kinds of appropriate, and that's what he just put his finger on.
+
+316
+00:27:29,839 --> 00:27:34,960
+There is that it has its appropriate place in the system.
+
+317
+00:27:34,960 --> 00:27:44,240
+And when you think about that, my examples always are that a hammer is suitable for opening paint cans, but it's not appropriate for opening paint cans.
+
+318
+00:27:44,240 --> 00:27:45,680
+Or more or less fancy.
+
+319
+00:27:45,680 --> 00:27:50,319
+A chair is suitable to stand on, but it's not appropriate to stand.
+
+320
+00:27:50,319 --> 00:27:53,519
+Now, but why are there two kinds of appropriate?
+
+321
+00:27:53,519 --> 00:27:56,559
+One is to be linked into the rest of the stuff.
+
+322
+00:27:56,559 --> 00:28:01,759
+So chairs are, for cultures where there are tables, they don't work in Japan.
+
+323
+00:28:02,639 --> 00:28:09,200
+Chairs are strong enough to support people who weigh a good deal.
+
+324
+00:28:09,200 --> 00:28:12,640
+And otherwise, we don't find them collapsing under people and so forth.
+
+325
+00:28:12,639 --> 00:28:15,759
+There's lots, well, that's, by the way, a suitability complaint.
+
+326
+00:28:15,759 --> 00:28:18,480
+Claim they've got to be tough like that.
+
+327
+00:28:18,480 --> 00:28:22,879
+It's an appropriateness that it's only appropriate in a culture where there are tables.
+
+328
+00:28:22,880 --> 00:28:25,200
+Chairs go with tables.
+
+329
+00:28:25,200 --> 00:28:27,119
+Tables go with floors.
+
+330
+00:28:27,119 --> 00:28:31,879
+If you have a dirt floor, you're very unlikely to have chairs and tables fitting into that.
+
+331
+00:28:31,880 --> 00:28:35,640
+Now, but he, who was it that just said this problem to me?
+
+332
+00:28:35,640 --> 00:28:36,279
+You.
+
+333
+00:28:36,279 --> 00:28:38,919
+You got me into the third kind.
+
+334
+00:28:38,920 --> 00:28:51,720
+And that is that it's culturally determined by what's the appropriate use of such and such.
+
+335
+00:28:51,720 --> 00:29:01,799
+So it's not just that it's integrated in with all the other equipment, it's inorder to mixed in with all these other inorder twos.
+
+336
+00:29:02,200 --> 00:29:05,160
+It's got a kind of sanction.
+
+337
+00:29:05,400 --> 00:29:12,119
+I went to a lot of trouble, so I'll go find out where I am trying to give me an example of this.
+
+338
+00:29:12,759 --> 00:29:21,639
+Okay, I don't know if this is going to work, but a fork is suitable for stabbing chunks of food and for holding things down when you're carving it.
+
+339
+00:29:21,880 --> 00:29:25,319
+I'm trying to distinguish forks from chopsticks in my head.
+
+340
+00:29:25,319 --> 00:29:29,879
+So that's what a fork is, for stabbing hunks of food and holding it down while you're carving it.
+
+341
+00:29:30,039 --> 00:29:32,919
+The prong thing is not a fork in Asia.
+
+342
+00:29:32,920 --> 00:29:39,639
+Since to be a fork, there have to be, on a suitability claim, a food that you can hold down and carve up.
+
+343
+00:29:39,640 --> 00:29:44,599
+And there also have to be knives and plates and so forth.
+
+344
+00:29:45,240 --> 00:29:50,519
+And the food doesn't have to come in chopstick-sized chunks.
+
+345
+00:29:51,960 --> 00:29:53,799
+And now comes the norm part.
+
+346
+00:29:53,799 --> 00:30:13,240
+And you enforce the way forks are used by saying one uses one's fork to eat vegetables, one does not use a fork to eat fruit like grapes, although you could, you know, that took me a long time to think of something you shouldn't do with a fork, but I think that, but, but that seems right.
+
+347
+00:30:13,359 --> 00:30:24,159
+So, so now we've got a level at which what one normally, properly, and the word in here is appropriately, I'm domestic in German, what you have to do with work.
+
+348
+00:30:24,160 --> 00:30:29,759
+So it turns out to be a piece of equipment, it's got to have three necessary qualifications.
+
+349
+00:30:29,759 --> 00:30:30,560
+Who would have thought?
+
+350
+00:30:30,559 --> 00:30:32,000
+And not even Heidegger.
+
+351
+00:30:32,000 --> 00:30:35,039
+He's got it all in here, but he hasn't really thematized it.
+
+352
+00:30:35,039 --> 00:30:38,799
+But it's got to have, he talks about the suitability conditions, I'll show you that.
+
+353
+00:30:38,799 --> 00:30:44,480
+He certainly talks about the appropriate, has to fit into the whole conditions.
+
+354
+00:30:44,480 --> 00:30:49,599
+And he certainly, I'll show you that too, talks about the social norm conditions.
+
+355
+00:30:49,599 --> 00:30:58,319
+And when it has to fill all of those, and he was saying, it's not enough to be a log across the stream, not enough even to build a road up to it.
+
+356
+00:30:58,319 --> 00:31:03,679
+It's got to be the sort of thing that one normally drives across.
+
+357
+00:31:03,680 --> 00:31:04,160
+Yeah.
+
+358
+00:31:06,799 --> 00:31:10,480
+Can't you consolidate those saying these lipids, whatever we want?
+
+359
+00:31:12,799 --> 00:31:16,560
+Well, that's true too, but I'm not sure it consolidates it.
+
+360
+00:31:16,559 --> 00:31:20,960
+It just, you could say it, it's, then you don't, we'd have to unpack it.
+
+361
+00:31:20,960 --> 00:31:22,240
+And why would we say it?
+
+362
+00:31:22,240 --> 00:31:27,519
+It isn't enough just to walk up to we discovered a log across the water and say that's a bridge.
+
+363
+00:31:31,680 --> 00:31:36,320
+Well, then they've got roads leading up to it and maybe signs of their sorts.
+
+364
+00:31:37,920 --> 00:31:39,200
+Paths leading up to it.
+
+365
+00:31:39,200 --> 00:31:42,960
+They can't have it just out of from sheer jungle to sheer jungle.
+
+366
+00:31:42,960 --> 00:31:43,839
+They've got to go.
+
+367
+00:31:43,839 --> 00:31:49,759
+They've got to have paths, I think, and then something the equivalent of signs, whatever they use for markers to lead people to it.
+
+368
+00:31:49,799 --> 00:31:51,920
+I don't want to, I don't think you can do it that way.
+
+369
+00:31:51,920 --> 00:31:54,080
+I don't think you can just walk up and make something.
+
+370
+00:31:54,079 --> 00:31:55,279
+At least Heidegger doesn't.
+
+371
+00:31:55,279 --> 00:31:59,359
+And you're supposed to be checking this against not what Heidegger thinks, but the phenomena.
+
+372
+00:31:59,799 --> 00:32:09,160
+If you think that we can just walk up to something and make it a piece of equipment all by itself or without any social position and something, then we're deviating.
+
+373
+00:32:09,160 --> 00:32:09,720
+Yeah.
+
+374
+00:32:13,880 --> 00:32:15,480
+Here's the exact thing.
+
+375
+00:32:15,480 --> 00:32:18,839
+It's the activity functionality.
+
+376
+00:32:19,640 --> 00:32:27,640
+In order to do something, I'm walking alongside.
+
+377
+00:32:27,640 --> 00:32:30,440
+I could notice that I fast that there's three.
+
+378
+00:32:32,359 --> 00:32:48,200
+But you get a cost of three, then it seems to me the three of us for me become something with this, but in order to find awkward my promotion.
+
+379
+00:32:48,840 --> 00:32:49,639
+Okay, that's.
+
+380
+00:32:51,400 --> 00:32:53,559
+Okay, I see what you're saying.
+
+381
+00:32:54,440 --> 00:33:06,680
+It's true that you can use the stream as the trunk across the stream in order to get across.
+
+382
+00:33:06,679 --> 00:33:13,880
+And that's, and when you're doing that, its mode of being will be the readiness to hand.
+
+383
+00:33:13,880 --> 00:33:20,200
+But Heidegger's trying to distinguish that from a sense of equipment.
+
+384
+00:33:20,440 --> 00:33:22,679
+Maybe equipment is ambiguous on this.
+
+385
+00:33:22,679 --> 00:33:23,559
+I don't know.
+
+386
+00:33:23,880 --> 00:33:26,599
+I think maybe he's got it right, sort of.
+
+387
+00:33:26,840 --> 00:33:29,159
+I wish I had a better feel for Zeug in German.
+
+388
+00:33:29,159 --> 00:33:36,599
+Does it become a Zeug just, or does it have to get a word like spiel or house or something in front of it before it can be a Zeug?
+
+389
+00:33:36,599 --> 00:33:37,400
+I don't know.
+
+390
+00:33:37,400 --> 00:33:48,400
+But before it becomes equipment for something, for Heidegger anyway, it has to do more than just satisfy your current desire to get something done.
+
+391
+00:33:48,400 --> 00:33:55,440
+That's enough to let you use it in order to, remember I said order to is broader than the holism.
+
+392
+00:33:55,440 --> 00:33:59,599
+In order to do something, at that point, it's ready to hand.
+
+393
+00:33:59,599 --> 00:34:03,680
+If you are walking across it and you're using it, it's ready to hand.
+
+394
+00:34:03,679 --> 00:34:05,039
+But I don't think it's equipment.
+
+395
+00:34:05,039 --> 00:34:12,240
+But remember, I'm not saying that the readiness to hand is a broader notion.
+
+396
+00:34:12,239 --> 00:34:18,000
+It covers the holistic, normative stuff.
+
+397
+00:34:18,320 --> 00:34:20,399
+When I'm using it, it's ready to hand.
+
+398
+00:34:20,400 --> 00:34:27,120
+And it covers the, you just find it all by itself and you use it without any social categories.
+
+399
+00:34:27,119 --> 00:34:28,559
+And that's also ready to hand.
+
+400
+00:34:29,199 --> 00:34:30,240
+You can do that.
+
+401
+00:34:30,800 --> 00:34:33,679
+I think you can use something to SWAT insects, for instance.
+
+402
+00:34:33,679 --> 00:34:40,880
+There may not be any equipmental thing around for that in that culture or something, but you can still do it.
+
+403
+00:34:41,760 --> 00:34:42,799
+Yeah, you will have more to say.
+
+404
+00:34:42,960 --> 00:34:44,160
+That's okay.
+
+405
+00:34:46,400 --> 00:34:48,960
+I think I've talked about why the street is equipment.
+
+406
+00:34:48,960 --> 00:34:53,519
+They're saying that the street is making things, it's probably not.
+
+407
+00:34:54,480 --> 00:34:55,840
+Exactly.
+
+408
+00:34:56,159 --> 00:34:58,880
+That's exactly.
+
+409
+00:34:58,880 --> 00:34:59,760
+Good.
+
+410
+00:35:00,079 --> 00:35:00,959
+You got it.
+
+411
+00:35:00,960 --> 00:35:03,120
+I'm pleased for you and for me.
+
+412
+00:35:03,119 --> 00:35:03,679
+Okay.
+
+413
+00:35:04,320 --> 00:35:05,920
+Next, more hands.
+
+414
+00:35:05,920 --> 00:35:06,399
+Yeah.
+
+415
+00:35:17,679 --> 00:35:23,039
+I suppose if you, I mean, that's got the cultural piece and the suitability piece.
+
+416
+00:35:23,039 --> 00:37:09,120
+You've got to say that they aren't just what we use to cross streams, but that that involves, if you want to, you don't have to add anything new but you just have to spell out that of course then there'll have to be paths up to them and markers telling you where they are and uh uh stuff like that and then but if then you got it it's all right it becomes equipment uh it uh well just is fascinating this isn't how I picture things going but I don't know I well I'm gonna go just remind me one two three four five and then I'm gonna go on for a while yeah what is the red and reference that will make bridges and people have been making a bridge and it's this kind of stuff like that people walk into the speech bridge and putting on that on the water and saying wouldn't people still say that it's a bridge because it looks like a bridge and has all the topic for bridge people it's not in any bridge it's probably hard to deal with but it's funny I came up with the same example on the actual isn't the London Bridge is now someplace in Texas if I'm not mistaken isn't that right anybody know and it's not and I don't suppose any roads lead up to it or away from it it just sits there someplace in Texas and and and you're asking is it's is it still a bridge uh it's it's and you just have to say it's a former piece of equipment which is no longer functioning like a piece of equipment that she's is that what you want to say too you say it okay that does it okay you're happy with that both of you okay you have another point yeah oh, I was going to add for it if you're talking about intention talking about the regular equipment that we intend to use.
+
+417
+00:37:11,079 --> 00:37:12,480
+I think the answer is no.
+
+418
+00:37:12,519 --> 00:37:16,640
+I didn't quarrel with him about it because it belongs at another part of the discussion.
+
+419
+00:37:14,679 --> 00:37:21,359
+But I, luckily, we've got the door latch that Heidegger has dropped in here.
+
+420
+00:37:14,760 --> 00:37:26,239
+You are going to use the latch as a piece of equipment, even though you don't intend to use the latch.
+
+421
+00:37:26,239 --> 00:37:29,920
+What you tend is to go out, and you know may not even notice it.
+
+422
+00:37:29,920 --> 00:37:36,239
+You may even want to deny there is a latch, and then they have to show you that, look, you couldn't have gotten in if you hadn't turned it, and so forth.
+
+423
+00:37:36,239 --> 00:37:39,519
+So, no, you do not have to intend to use it.
+
+424
+00:37:39,519 --> 00:37:42,719
+It can be just part of your overall activity.
+
+425
+00:37:43,760 --> 00:37:50,480
+You have to, as I said, keep saying in my terms, you have to take account of it, because otherwise you won't be able to turn it.
+
+426
+00:37:50,480 --> 00:37:56,559
+But you don't have to think, you don't have to try to turn it, or want to turn it, or think about believing you have to turn it to get out or anything.
+
+427
+00:37:56,559 --> 00:37:57,280
+Yeah.
+
+428
+00:37:57,920 --> 00:37:59,199
+Okay, where's somebody here?
+
+429
+00:38:00,159 --> 00:38:01,280
+Here.
+
+430
+00:38:02,880 --> 00:38:03,519
+Yeah.
+
+431
+00:38:08,320 --> 00:38:09,440
+Oh, an overhead for you.
+
+432
+00:38:09,519 --> 00:38:11,440
+Oh, yeah, that old thing, yeah.
+
+433
+00:38:15,599 --> 00:38:16,640
+Right.
+
+434
+00:38:16,639 --> 00:38:17,280
+Right.
+
+435
+00:38:24,639 --> 00:38:31,519
+Because the media is the outside speaking instead of what my two boards and spot modes are too cool anymore.
+
+436
+00:38:32,400 --> 00:38:35,279
+Well, you guys are doing Heidegger's work and mine.
+
+437
+00:38:35,280 --> 00:38:39,519
+I mean, these are all fascinating questions that you just have to look at the phenomena.
+
+438
+00:38:39,760 --> 00:38:47,920
+I mean, he's really trying to be true to your common sense or linguistic, however, you prefer, understanding of this.
+
+439
+00:38:47,920 --> 00:38:48,880
+Let me think.
+
+440
+00:38:49,840 --> 00:38:51,839
+Does it cease to be equipment?
+
+441
+00:38:51,840 --> 00:38:58,319
+It's still suitable for if you get it by an electrical outlet and still can plug it in and so forth.
+
+442
+00:38:58,280 --> 00:39:01,319
+It's, I suppose, suitable.
+
+443
+00:38:59,760 --> 00:39:06,519
+And it's no longer part of a referential totality.
+
+444
+00:39:06,679 --> 00:39:12,360
+That's his fancy word for this holism, of where it fits with all the other equipment.
+
+445
+00:39:13,079 --> 00:39:15,320
+I think it's not part of that.
+
+446
+00:39:15,320 --> 00:39:28,920
+I think it's like, it becomes like a hammer in a culture like where the Coke bottle story, like the gods must be crazy, they could have dropped a hammer instead of a Coke bottle out of their airplane.
+
+447
+00:39:29,480 --> 00:39:37,079
+In a culture in which there is no nails and no wood and so forth, and it's not a hammer.
+
+448
+00:39:37,079 --> 00:39:39,559
+Now, this thing was a slide projector.
+
+449
+00:39:39,559 --> 00:39:41,559
+That's what makes it seem sort of different.
+
+450
+00:39:41,559 --> 00:39:43,720
+But it was equipment.
+
+451
+00:39:43,719 --> 00:39:47,079
+But it's no longer equipment by the holistic claim.
+
+452
+00:39:47,079 --> 00:39:49,319
+If nothing, there's no screen anymore to show it.
+
+453
+00:39:49,320 --> 00:39:55,320
+And, you know, nobody's got any transparencies to write on and pens and stuff.
+
+454
+00:39:55,960 --> 00:39:57,559
+It's once upon a time equipment.
+
+455
+00:39:57,559 --> 00:39:58,679
+Of course, there's lots of that.
+
+456
+00:39:58,920 --> 00:39:59,480
+I mentioned it.
+
+457
+00:39:59,480 --> 00:40:04,119
+I think archaeologists dig up all sorts of stuff from, you know, it's similar.
+
+458
+00:40:04,119 --> 00:40:15,239
+It would be now like digging up something that you don't if you go far enough, if we go far enough with PowerPoint, people will have to be very ingenious and try to figure out what it is.
+
+459
+00:40:15,239 --> 00:40:16,279
+You look unhappy.
+
+460
+00:40:22,039 --> 00:40:26,599
+But it does seem taking those analysis the possibilities for overviews.
+
+461
+00:40:26,599 --> 00:40:31,960
+For tools that are smooth, are possible, are ridiculous, you know, may not be the customer.
+
+462
+00:40:31,960 --> 00:40:32,440
+Okay.
+
+463
+00:40:32,440 --> 00:40:41,480
+Well, look, you you are what you're saying is fine, but that you've gotta be careful and not get too much into the s the the what?
+
+464
+00:40:41,480 --> 00:40:48,239
+The the queen is whether the distinctions you're making are going to be illuminating in general about equipment.
+
+465
+00:40:48,239 --> 00:40:56,320
+Sure, there will be degrees of equipment, and sure it'll be unclear when they actually dropped out of being equipment altogether and so forth.
+
+466
+00:40:56,320 --> 00:41:02,880
+But try to focus on paradigm cases and don't worry about these weird borderline cases.
+
+467
+00:41:02,880 --> 00:41:07,760
+There's always going to be borderline cases in which you just don't know whether something's equipment or not.
+
+468
+00:41:07,760 --> 00:41:08,879
+But that doesn't matter.
+
+469
+00:41:08,880 --> 00:41:16,319
+What you want to find out is sort of what in the best case is what are the necessary and sufficient conditions for something counting as equipment.
+
+470
+00:41:16,320 --> 00:41:17,760
+That's what you want to find out.
+
+471
+00:41:17,760 --> 00:41:21,360
+Then you can make all these little subtler moves.
+
+472
+00:41:21,360 --> 00:41:26,480
+Now, I said I wouldn't touch anymore, but I can't resist one more hand, and then I'm going on.
+
+473
+00:41:40,239 --> 00:41:42,399
+Doesn't it prevent us from doing what?
+
+474
+00:41:49,599 --> 00:42:05,840
+I mean, I can hear you, but I can't understand why would it keep us from referring to it as equipment.
+
+475
+00:42:05,920 --> 00:42:07,600
+That's not ontological.
+
+476
+00:42:07,599 --> 00:42:14,239
+That's just a, I mean, the being of equipment is ready to hand, and you can refer to that too, but that's a little fancier.
+
+477
+00:42:14,639 --> 00:42:16,559
+But I don't see the problem.
+
+478
+00:42:29,239 --> 00:42:35,799
+Well, you're using preontological in this funny way, or at least it doesn't help here, because it is all preontological.
+
+479
+00:42:35,800 --> 00:42:40,039
+Ontology, remember, is the science of being.
+
+480
+00:42:40,360 --> 00:42:50,839
+It's what you get when you understand these ways of being and then you reflect on their general structure and you discover how they're related to temporality and you do all kinds of stuff.
+
+481
+00:42:50,840 --> 00:43:00,360
+The ontology doesn't d w everybody knows how to handle equipment and you really have an intuition where you're all using it to what would and wouldn't count as equipment.
+
+482
+00:43:00,360 --> 00:43:05,160
+And that's all pre-ontological and you may never have any notion of the being of equipment.
+
+483
+00:43:05,159 --> 00:43:09,399
+But we're going to go to that right now, because I we've had enough discussion of that.
+
+484
+00:43:09,400 --> 00:43:15,320
+I just have to run through here though just to catch up in case there's some quote that it would be helpful to give you.
+
+485
+00:43:17,880 --> 00:43:19,320
+98.
+
+486
+00:43:19,320 --> 00:43:25,640
+I'm just seeing.
+
+487
+00:43:25,960 --> 00:43:29,559
+No, that's going to be remind me, but well I'll I'll remember when I get to that.
+
+488
+00:43:29,719 --> 00:43:31,080
+Equipment.
+
+489
+00:43:35,559 --> 00:43:37,000
+So normal functioning.
+
+490
+00:43:37,000 --> 00:43:37,639
+We did all that.
+
+491
+00:43:37,639 --> 00:43:40,440
+Did I let me see if I on page 97?
+
+492
+00:43:40,440 --> 00:43:41,799
+I think we did that.
+
+493
+00:43:42,119 --> 00:43:43,880
+Oh yeah, yeah.
+
+494
+00:43:44,519 --> 00:43:46,039
+Okay, that's fine.
+
+495
+00:43:46,039 --> 00:43:48,919
+Let's oh, I think it's funny.
+
+496
+00:43:51,480 --> 00:43:58,680
+I say that we have to jump ahead to 115 for a good statement of it, but let's see if that's where it is that I want to talk about.
+
+497
+00:44:04,360 --> 00:44:05,480
+No.
+
+498
+00:44:05,800 --> 00:44:09,159
+There he's talking about suitableness, serviceability, and so forth.
+
+499
+00:44:09,159 --> 00:44:14,720
+That's a flat passage where all these things come out, but they don't come out any clearer.
+
+500
+00:44:14,360 --> 00:44:21,840
+I mean, he's got, well, maybe I should try the top of 115 in 83 German.
+
+501
+00:44:23,119 --> 00:44:34,239
+Anything ready to hand is, at least, I think, I'm trying to fix it, suitable, that's that, for some purpose and unsuitable for others.
+
+502
+00:44:34,239 --> 00:44:42,079
+And its properties are, as it were, still bound up in these ways in which it is suitable or unsuitable and so forth.
+
+503
+00:44:42,079 --> 00:44:46,160
+And then serviceability, let's see if they're all like that.
+
+504
+00:44:51,920 --> 00:45:01,920
+Serviceability is a constituted state of equipment, is not suitable of some entity.
+
+505
+00:45:01,920 --> 00:45:08,000
+It's rather a condition which makes it possible for the character of some entity to be defined by its appropriateness.
+
+506
+00:45:08,000 --> 00:45:08,480
+Aha.
+
+507
+00:45:08,559 --> 00:45:15,199
+The switching from suitable there to appropriateness in the sense of reference or assignment.
+
+508
+00:45:15,199 --> 00:45:16,639
+We might as well introduce those terms.
+
+509
+00:45:16,639 --> 00:45:18,640
+They are back in the earlier reading, too.
+
+510
+00:45:18,639 --> 00:45:25,760
+That is the way pieces of equipment have bearing on each other, the hammer on the nail, the nail on the wood, and so forth.
+
+511
+00:45:26,400 --> 00:45:27,920
+And that's fine.
+
+512
+00:45:27,920 --> 00:45:29,359
+Now let's go to the end of it.
+
+513
+00:45:29,360 --> 00:45:32,719
+An entity is discovered when it's been assigned or referred to something.
+
+514
+00:45:32,719 --> 00:45:39,120
+That is, you discover what it, you, you, you know what, you have a know-how for what to do with it.
+
+515
+00:45:39,119 --> 00:45:41,920
+And it's referred as that entity which it is.
+
+516
+00:45:42,239 --> 00:45:45,600
+There is an involvement it has in something.
+
+517
+00:45:46,239 --> 00:45:51,199
+Okay, no, that's just filling it all out with jargon that we need to know.
+
+518
+00:45:51,599 --> 00:45:54,000
+Let me see if there's anything else.
+
+519
+00:46:00,760 --> 00:46:04,679
+So I've got these examples, which I'll run through quickly because we've done them already.
+
+520
+00:46:04,679 --> 00:46:13,719
+Now, I was saying a hammer used as a weapon wouldn't be suitable to bask people, but it's still a hammer.
+
+521
+00:46:13,719 --> 00:46:14,920
+It's not a weapon.
+
+522
+00:46:14,920 --> 00:46:24,600
+It's a hammer because it's got this appropriate place in the referential totality as a weapon it doesn't have.
+
+523
+00:46:24,920 --> 00:46:27,320
+And a chair and so forth, we said that.
+
+524
+00:46:27,320 --> 00:46:28,119
+Okay.
+
+525
+00:46:32,920 --> 00:46:34,920
+Look on 67.
+
+526
+00:46:34,920 --> 00:46:40,039
+I think that's one of the places that I wanted to refer to, or maybe it's important.
+
+527
+00:46:40,360 --> 00:46:42,839
+Maybe, oh, 67 is German.
+
+528
+00:46:42,840 --> 00:46:45,000
+I'm doing that wrong again.
+
+529
+00:46:45,000 --> 00:46:46,519
+Now, where am I?
+
+530
+00:46:51,880 --> 00:46:54,440
+Now I don't even see where I got 67.
+
+531
+00:46:54,440 --> 00:46:55,320
+Okay.
+
+532
+00:46:57,880 --> 00:46:59,639
+Because I turned the page wrong.
+
+533
+00:46:59,639 --> 00:47:00,519
+Here we are.
+
+534
+00:47:00,519 --> 00:47:04,600
+It's on 67, it says.
+
+535
+00:47:05,000 --> 00:47:05,879
+That's crazy.
+
+536
+00:47:05,880 --> 00:47:06,920
+I don't know what happened there.
+
+537
+00:47:06,920 --> 00:47:09,960
+I can only mark it and go back and try to find out.
+
+538
+00:47:11,239 --> 00:47:17,880
+But it's so, I think it became clear in that discussion already, and I don't think we need to look at it anymore.
+
+539
+00:47:19,719 --> 00:47:27,000
+Yeah, let's go on to the next thing, which is how we relate to equipment.
+
+540
+00:47:27,000 --> 00:47:30,360
+That gets us to taking it up and using it.
+
+541
+00:47:30,360 --> 00:47:35,640
+That's an important distinction, which I didn't see for a long time.
+
+542
+00:47:35,639 --> 00:47:44,640
+So, and now, so that's about readiness to hand.
+
+543
+00:47:44,199 --> 00:47:47,679
+And now we want to find out where I am and to talk about that.
+
+544
+00:47:48,000 --> 00:47:52,639
+Okay, on 98, 69 of the German.
+
+545
+00:47:52,639 --> 00:47:56,080
+So, now you see, I mean, there's nothing very mysterious about this.
+
+546
+00:47:56,079 --> 00:48:02,960
+So, you get it as a piece of equipment, like a hammer, and then you pick it up and use it.
+
+547
+00:48:02,960 --> 00:48:10,880
+Its way of being can be like a substance if it's just lying there present.
+
+548
+00:48:11,440 --> 00:48:13,920
+Ooh, that's interesting.
+
+549
+00:48:14,239 --> 00:48:16,959
+It's still holistically defined.
+
+550
+00:48:16,960 --> 00:48:20,640
+I wonder if it can be present as a hammer.
+
+551
+00:48:20,639 --> 00:48:25,039
+No, I think it's present as a wooden shank with a blob.
+
+552
+00:48:25,039 --> 00:48:33,359
+I don't think it can be, it'll cease to be a hammer if you try to isolate it.
+
+553
+00:48:33,360 --> 00:48:42,480
+And it's always going to have to be involved with, I mean, have bearing on other things to be a hammer.
+
+554
+00:48:42,480 --> 00:48:44,240
+Okay, so there's something there.
+
+555
+00:48:44,239 --> 00:48:46,080
+It has bearing on other things.
+
+556
+00:48:46,079 --> 00:48:48,880
+You pick it up and you use it.
+
+557
+00:48:48,880 --> 00:48:55,519
+When you use it, then its mode of being becomes readiness to hand.
+
+558
+00:48:55,840 --> 00:48:59,119
+Its mode of being before you pick it up and use it.
+
+559
+00:48:59,440 --> 00:49:02,240
+Back in this argument I used to have with Rick.
+
+560
+00:49:02,800 --> 00:49:05,600
+It doesn't seem, it shouldn't be.
+
+561
+00:49:05,599 --> 00:49:07,760
+Ah, yeah, that's how it comes out.
+
+562
+00:49:08,559 --> 00:49:11,920
+Okay, the crucial passage where I win.
+
+563
+00:49:11,920 --> 00:49:14,880
+Poor Rick, he isn't here to defend himself.
+
+564
+00:49:14,880 --> 00:49:28,080
+But anyway, where I thought that I was showed to be right is that it's not enough to just pick it up and have it in your hand for it to become ready to hand.
+
+565
+00:49:28,960 --> 00:49:31,799
+And what does it take to become ready to hand?
+
+566
+00:49:32,119 --> 00:49:40,759
+Well, it has to, and there's this crucial passage now I have to find, withdraw in order to be ready to hand.
+
+567
+00:49:43,639 --> 00:49:44,840
+Uh-oh.
+
+568
+00:49:50,920 --> 00:49:54,279
+So, but now I can't find that.
+
+569
+00:49:54,280 --> 00:50:00,200
+This is what happens if you do things in the order in which they don't regret it, in the order in which they come up.
+
+570
+00:50:00,199 --> 00:50:03,880
+But then I try to get back to where I am and I don't know where I am.
+
+571
+00:50:05,159 --> 00:50:11,080
+Okay, I'm just going to go through this in readiness to hand way, and then we'll get there eventually.
+
+572
+00:50:13,000 --> 00:50:21,960
+I'd say we need to distinguish the definition of equipment, and that's what we've been doing, to its mode of being, its kind of being that equipment has.
+
+573
+00:50:21,960 --> 00:50:29,640
+And it can have all sorts of kind of being if it's just lying there or if it's in a culture in which it doesn't, it has no function.
+
+574
+00:50:29,639 --> 00:50:34,760
+But what about its mode of being when it's functioning as equipment?
+
+575
+00:50:34,760 --> 00:50:38,760
+Then you get the talk about readiness to hand.
+
+576
+00:50:38,760 --> 00:50:42,600
+And a lot of this talk is on 97.
+
+577
+00:50:42,920 --> 00:50:44,759
+I think I read that all.
+
+578
+00:50:46,039 --> 00:50:49,319
+Yeah, that's where reference and assignment, by the way, first comes in.
+
+579
+00:50:49,320 --> 00:50:54,920
+In the in order to, as a structure, there lies an assignment or reference of something to something.
+
+580
+00:50:54,920 --> 00:50:56,840
+It's just important to talk about that.
+
+581
+00:50:56,840 --> 00:51:00,039
+I'm going to use the definitions, I mean, those words.
+
+582
+00:51:00,039 --> 00:51:02,200
+I don't think they're very good words.
+
+583
+00:51:02,199 --> 00:51:05,240
+Assignment is probably bearing would be better.
+
+584
+00:51:05,239 --> 00:51:07,559
+It's the it's and reference.
+
+585
+00:51:07,559 --> 00:51:12,200
+The the nail, the hammer has bearing on the nail.
+
+586
+00:51:12,519 --> 00:51:15,280
+Then that's its reference.
+
+587
+00:51:14,840 --> 00:51:21,119
+And a referential hole would be all the bearing that all the various pieces have on each other.
+
+588
+00:51:21,440 --> 00:51:23,119
+But reference isn't bad.
+
+589
+00:51:23,119 --> 00:51:25,120
+It just sounds sort of linguistic.
+
+590
+00:51:25,119 --> 00:51:35,119
+And assignment sounds too much like you've done something conscious in it, whereas the nails just look like to be hammered, and the door looks like the two go out.
+
+591
+00:51:35,119 --> 00:51:37,760
+You don't have to assign a function to it.
+
+592
+00:51:37,760 --> 00:51:40,480
+I don't know what I would say instead of assignment there.
+
+593
+00:51:40,480 --> 00:51:41,600
+Let me think.
+
+594
+00:51:44,800 --> 00:51:49,199
+I forget the German, so I won't be helpful until I went back and looked at it.
+
+595
+00:51:49,519 --> 00:51:50,639
+So let's go on.
+
+596
+00:51:50,960 --> 00:51:54,159
+Each piece of equipment has only one function, and that's fine.
+
+597
+00:51:54,159 --> 00:51:55,519
+It fits with all the others.
+
+598
+00:51:55,519 --> 00:51:56,559
+That's fine.
+
+599
+00:52:00,880 --> 00:52:03,680
+Procreatively means socially.
+
+600
+00:52:14,079 --> 00:52:16,079
+Okay, now we're back to readiness to hand.
+
+601
+00:52:16,079 --> 00:52:24,960
+And readiness to hand, the way of the being, is the way of being of equipment when it's functioning as equipment.
+
+602
+00:52:24,960 --> 00:52:28,720
+And that is when you actually have it in hand.
+
+603
+00:52:28,719 --> 00:52:30,879
+And you're doing something with it.
+
+604
+00:52:30,880 --> 00:52:31,920
+You're handy with it.
+
+605
+00:52:31,920 --> 00:52:35,200
+You've got the skill and you're employing the skill.
+
+606
+00:52:35,199 --> 00:52:40,640
+All that is in the notion of its being ready to hand.
+
+607
+00:52:40,639 --> 00:52:42,880
+This is in the middle of 98.
+
+608
+00:52:42,880 --> 00:52:46,960
+I'm back where I was on 69.
+
+609
+00:52:49,119 --> 00:52:50,639
+Yeah, this is the crucial passage.
+
+610
+00:52:50,639 --> 00:52:55,120
+In dealing, this is about 10 lines down in the first full paragraph.
+
+611
+00:52:55,119 --> 00:52:59,920
+In dealings such as this, where something is put to use, do we have to back it up?
+
+612
+00:53:00,360 --> 00:53:02,039
+Maybe we have to read the whole paragraph.
+
+613
+00:53:02,039 --> 00:53:03,879
+Equipment can genuinely show itself.
+
+614
+00:53:03,880 --> 00:53:04,920
+Yeah, that's important.
+
+615
+00:53:04,920 --> 00:53:09,720
+We're asking now: how does equipment show itself as equipment?
+
+616
+00:53:09,719 --> 00:53:13,960
+It shows itself only in dealings cut to its own measure, hammering with a hammer.
+
+617
+00:53:13,960 --> 00:53:18,119
+But in such dealings, an entity of this kind is not grasped thematically.
+
+618
+00:53:18,119 --> 00:53:20,519
+That's the door latch story.
+
+619
+00:53:21,239 --> 00:53:24,759
+Nor is the equipment structure known as such in the using.
+
+620
+00:53:24,760 --> 00:53:27,480
+That's a little bit of a preontological story.
+
+621
+00:53:28,599 --> 00:53:32,519
+It's all preontological and reflective.
+
+622
+00:53:33,400 --> 00:53:34,360
+Let's see now.
+
+623
+00:53:34,360 --> 00:53:43,000
+The hammering does not simply have a knowledge about the hammer's character, but it has appropriated this equipment in a way which could not possibly be more suitable.
+
+624
+00:53:43,000 --> 00:53:46,039
+That is, when you're employing your skill for hammering.
+
+625
+00:53:46,039 --> 00:53:48,360
+That's what we need to be talking about.
+
+626
+00:53:49,639 --> 00:53:56,039
+In dealings such as this, where something is put to use, our concern subordinates itself to the inorder to.
+
+627
+00:53:56,039 --> 00:54:01,559
+That means you just are doing something, like going out the door.
+
+628
+00:54:01,559 --> 00:54:06,440
+What is constituted for the equipment we are employing at the time?
+
+629
+00:54:06,920 --> 00:54:13,239
+Sorry, we subordinate ourselves to the inorder to, which is constituted for the equipment.
+
+630
+00:54:13,239 --> 00:54:15,799
+That is, remember, that's how it fits in the hole.
+
+631
+00:54:15,800 --> 00:54:17,880
+That's how it bears on other stuff.
+
+632
+00:54:17,880 --> 00:54:19,239
+We are employing at the time.
+
+633
+00:54:19,239 --> 00:54:25,000
+Now comes the crucial line that used to just fascinate me, but I've gotten used to it, but I still think it's fascinating.
+
+634
+00:54:25,000 --> 00:54:38,360
+The less we just stare at the hammer thing, and the more we seize hold of it and use it, the more primordial does our relationship to it become, and the more unveiledly is it encountered as that which it is, as equipment.
+
+635
+00:54:38,360 --> 00:54:52,159
+That's this interesting phenomenon that Heidegger's got in mind: that the more you just are absorbed in using the equipment for what it's for, where it's in order to, the less you experience it at all.
+
+636
+00:54:52,719 --> 00:54:58,080
+It doesn't have any properties, those are all invisible to you.
+
+637
+00:54:58,079 --> 00:55:00,240
+It doesn't have anything.
+
+638
+00:55:00,239 --> 00:55:13,039
+I mean, the perfect use of the, when you're really using equipment, well, say driving your car, you're just or wearing your clothes or typing away at your computer, it becomes invisible.
+
+639
+00:55:13,280 --> 00:55:18,000
+That's what ergonomics is supposed to do with your interaction with equipment.
+
+640
+00:55:18,000 --> 00:55:25,360
+It's supposed to make it not something that you have to notice or pay any attention to at all, but you just take account of it.
+
+641
+00:55:25,360 --> 00:55:37,120
+The famous example that I think Merlot-Ponty and Wittgenstein used, so I don't know any lecture where Heidegger uses it, though he may probably, is a perfect example, is a blind person's cane.
+
+642
+00:55:37,599 --> 00:55:44,239
+You can picture that cane, if you hold it and feel it, it's smooth and it has a certain weight and it has a certain length.
+
+643
+00:55:44,239 --> 00:55:47,760
+Those are all properties of it as it's present at hand.
+
+644
+00:55:47,760 --> 00:55:52,080
+But it also is equipment for getting around in the world.
+
+645
+00:55:52,079 --> 00:55:58,559
+And when you take it up and use it as equipment, of course, at first it doesn't work very well.
+
+646
+00:55:58,559 --> 00:56:01,280
+All you feel is bumps in the palm of your hand.
+
+647
+00:56:01,280 --> 00:56:09,039
+But eventually, you get so you feel the world at the end of the cane, so they say, and I'm sure that that must be right.
+
+648
+00:56:09,360 --> 00:56:17,359
+And you don't feel, you don't have to figure out from the bumps in the palm of your hand when you're hitting the curve or how far away it is, or how high it is.
+
+649
+00:56:17,360 --> 00:56:18,640
+All that you get.
+
+650
+00:56:18,639 --> 00:56:24,799
+And you don't, and it isn't as if the, and this is something I'm just putting aside, it isn't something that interests Heidegger.
+
+651
+00:56:24,800 --> 00:56:31,399
+But it's not as if you interpret the bumps unconsciously, that it doesn't have, there aren't any bumps anymore.
+
+652
+00:56:31,960 --> 00:56:37,879
+Your body has just sort of taken over the cane, and your sensibility is out there at the end.
+
+653
+00:56:37,880 --> 00:56:46,920
+How the brain can do that is a story that nobody understands very well, but it's no reason, there's no reason to think that you do it by interpreting anything.
+
+654
+00:56:46,920 --> 00:56:49,079
+So, anyway, so what's the important thing?
+
+655
+00:56:49,079 --> 00:57:00,360
+That when you're using equipment, the better it's more and more ready to hand, the more and more it is transparently functioning.
+
+656
+00:57:00,360 --> 00:57:03,880
+And that's when he introduces ready to hand.
+
+657
+00:57:03,880 --> 00:57:11,559
+He says on that page, the kind of being which equipment possesses and which it manifests itself in its own right, we call readiness to hand.
+
+658
+00:57:12,280 --> 00:57:21,800
+Now, the funny way to put that is the way it manifests itself, we've just argued, is to be invisible.
+
+659
+00:57:21,800 --> 00:57:24,599
+And that's a funny kind of manifesting.
+
+660
+00:57:24,599 --> 00:57:33,959
+But the pain manifests itself when the guy is feeling the curve or when your clothes aren't bothering you.
+
+661
+00:57:33,960 --> 00:57:35,319
+But let me just read one more thing.
+
+662
+00:57:35,719 --> 00:57:42,519
+A cross on 99 from where we are on 98 is an important way to do it.
+
+663
+00:57:42,760 --> 00:57:43,880
+Say this.
+
+664
+00:57:44,519 --> 00:57:54,280
+That which in our everyday dealings we dwell, that which in our everyday dealings we proximately dwell is not the tools.
+
+665
+00:57:54,280 --> 00:57:59,239
+On the contrary, that which we concern ourselves is the task or work.
+
+666
+00:58:01,400 --> 00:58:11,000
+That which is produced at the time, that means that when the hammering is going well, I'm looking for the phrase, I can't find it.
+
+667
+00:58:11,000 --> 00:58:12,840
+I've always assumed it was here.
+
+668
+00:58:12,840 --> 00:58:14,039
+I know it's around.
+
+669
+00:58:14,039 --> 00:58:19,519
+Anyway, when it's working well, equipment withdraws, is how you're looking for this.
+
+670
+00:58:20,719 --> 00:58:21,119
+Where?
+
+671
+00:58:21,280 --> 00:58:21,920
+I can't see it.
+
+672
+00:58:21,920 --> 00:58:23,840
+That's right in front of my eyes.
+
+673
+00:58:24,159 --> 00:58:26,400
+The first full paragraph.
+
+674
+00:58:26,400 --> 00:58:27,680
+On 99.
+
+675
+00:58:31,039 --> 00:58:32,719
+Ah, the second full paragraph.
+
+676
+00:58:32,719 --> 00:58:33,279
+Aha.
+
+677
+00:58:33,280 --> 00:58:34,480
+Now let's read it and see.
+
+678
+00:58:34,639 --> 00:58:35,440
+Oh, yeah, there it is.
+
+679
+00:58:35,440 --> 00:58:36,559
+How could I not see that?
+
+680
+00:58:36,559 --> 00:58:44,960
+The readiness to hand is not grasped theoretically at all, nor is itself the sort of thing that circumspection takes approximately as a circumspective theme.
+
+681
+00:58:44,960 --> 00:58:50,960
+That is, it's not part of what you look around and see as part of the context.
+
+682
+00:58:50,960 --> 00:58:59,120
+The peculiarity of what is proximally ready to hand is that in its readiness to hand, it must, as it were, withdraw in order to be ready to hand quite authentically.
+
+683
+00:58:59,119 --> 00:59:08,880
+Okay, that's meant to be my answer to anybody who says that the hammer in a drawer has the way of being of readiness to hand.
+
+684
+00:59:09,119 --> 00:59:11,200
+It doesn't have it at all.
+
+685
+00:59:11,679 --> 00:59:15,519
+It's something you could look at, but it isn't transparent.
+
+686
+00:59:15,920 --> 00:59:17,440
+It can't withdraw.
+
+687
+00:59:17,440 --> 00:59:29,280
+It's only when you've got it in your hand and it's become transparent that the being of the equipment is fully, genuinely, authentically ready to hand.
+
+688
+00:59:29,760 --> 00:59:34,640
+Before you take your hand, let me just relate this to what we were saying earlier.
+
+689
+00:59:37,119 --> 00:59:51,519
+And you see, the funny thing is, you could have it in a drawer in a culture in which there isn't any nails and isn't any wood, and you could pick it up and you could transparently use it to pound your tortillas or something like they tried to do with the Coke bottle and the gods Must Be Crazy.
+
+690
+00:59:51,519 --> 00:59:56,079
+It would still be genuinely ready to hand, as I understand it.
+
+691
+00:59:56,400 --> 01:00:01,160
+It would withdraw, and so that you can bring, you can take these two things apart.
+
+692
+00:59:59,840 --> 01:00:06,120
+The being of equipment depends on its place in the referential hole.
+
+693
+01:00:07,400 --> 01:00:14,680
+That is, that means to be a hammer, it's got to have a place in the referential hole.
+
+694
+01:00:14,679 --> 01:00:23,480
+But the being of equipment, when you're using it as equipment, has to be withdrawn and invisible.
+
+695
+01:00:23,480 --> 01:00:27,640
+You're just making it part of your body and your activity.
+
+696
+01:00:27,639 --> 01:00:33,160
+Now, having tried to sort that out, as I never have got it before, yeah, go ahead.
+
+697
+01:00:39,559 --> 01:00:40,519
+Ah.
+
+698
+01:00:43,079 --> 01:00:44,120
+Huh.
+
+699
+01:00:51,559 --> 01:00:52,919
+That's fascinating.
+
+700
+01:00:52,920 --> 01:00:54,039
+That's interesting.
+
+701
+01:00:54,039 --> 01:01:02,360
+That should argue that, in a way, the clock, when it's functioning to tell you the time, is invisible.
+
+702
+01:01:02,360 --> 01:01:08,759
+It would be, I don't know how to do it, to answer you very well when you hear it.
+
+703
+01:01:08,760 --> 01:01:10,519
+But take this as an example.
+
+704
+01:01:10,519 --> 01:01:21,719
+Thoreau has this great example, which he doesn't use in this way, but it's an example of how the Campanile clock becomes, in a fact, transparent to its function.
+
+705
+01:01:22,039 --> 01:01:29,000
+He asks the question: Are there Roman numerals or Arabic numerals on the Campanille clock?
+
+706
+01:01:29,000 --> 01:01:30,440
+Anybody know?
+
+707
+01:01:33,320 --> 01:01:34,119
+What did I say?
+
+708
+01:01:34,119 --> 01:01:35,079
+Roman or Arabic?
+
+709
+01:01:35,079 --> 01:01:36,120
+You think they're Roman?
+
+710
+01:01:36,119 --> 01:01:38,359
+I think they're Roman too, but I'm not sure.
+
+711
+01:01:38,360 --> 01:01:40,679
+And are they tilted or are they vertical?
+
+712
+01:01:40,679 --> 01:01:42,039
+I mean, look, you don't know.
+
+713
+01:01:42,039 --> 01:01:43,559
+No, but we've seen it ages.
+
+714
+01:01:43,639 --> 01:01:45,359
+I mean, I've seen it for 30 years.
+
+715
+01:01:44,760 --> 01:01:47,360
+You've seen it for, anyway, a few years.
+
+716
+01:01:47,360 --> 01:01:48,159
+You don't know.
+
+717
+01:01:48,159 --> 01:01:49,200
+And that's why.
+
+718
+01:01:49,199 --> 01:01:49,840
+Why?
+
+719
+01:01:44,840 --> 01:01:52,160
+Because it functions to tell you the time.
+
+720
+01:01:52,480 --> 01:01:57,519
+And when it does that, you pick that up and the rest of it just is invisible.
+
+721
+01:01:57,519 --> 01:02:01,039
+If you didn't know what it was for, you'd know a lot more about it.
+
+722
+01:02:02,159 --> 01:02:07,440
+You could describe what these numerals were, probably.
+
+723
+01:02:07,440 --> 01:02:12,559
+But just because it's functioning, you don't have to see the, you don't see these properties.
+
+724
+01:02:12,559 --> 01:02:14,640
+Now, what happens when it rings?
+
+725
+01:02:14,639 --> 01:02:15,760
+I don't know.
+
+726
+01:02:15,760 --> 01:02:18,000
+It's as if you somehow don't hear the ringing.
+
+727
+01:02:18,000 --> 01:02:25,119
+The idea would be that you didn't hear the ringing, but you just came out knowing that it was whatever it was, 12 o'clock.
+
+728
+01:02:25,519 --> 01:02:26,879
+I don't know how to describe it.
+
+729
+01:02:26,880 --> 01:02:28,559
+But let me take your general point.
+
+730
+01:02:28,559 --> 01:02:39,039
+There's lots of equipment that we don't pick up and use or see, and it doesn't become invisible, but it does its job anyway.
+
+731
+01:02:39,920 --> 01:02:41,279
+All kinds of equipment.
+
+732
+01:02:41,280 --> 01:02:46,240
+I mean, the stuff that keeps the water cold in the water cooler with its thermostat and all that.
+
+733
+01:02:46,239 --> 01:02:50,880
+That's all into a big referential totality.
+
+734
+01:02:51,519 --> 01:02:53,679
+And it's functioning as equipment.
+
+735
+01:02:53,679 --> 01:02:55,119
+Whoa, another distinction.
+
+736
+01:02:55,119 --> 01:03:00,720
+You've got to distinguish between functioning as equipment and being used as equipment by somebody.
+
+737
+01:03:00,719 --> 01:03:05,920
+And Heidegger, that just shows how complicated the structure of worldhood is.
+
+738
+01:03:05,920 --> 01:03:07,519
+And he doesn't care about that one.
+
+739
+01:03:07,519 --> 01:03:16,400
+I mean, he could, but what he wants to do is understand the way of being of equipment when you are using it.
+
+740
+01:03:16,400 --> 01:03:26,559
+And he doesn't have a word, he doesn't have a concept for the way of being of equipment when it's functioning and you're not using it.
+
+741
+01:03:26,599 --> 01:03:31,159
+I don't, it's certainly not present at hand, not ready to hand, not unready to hand.
+
+742
+01:03:36,039 --> 01:03:40,760
+A while ago, one side of the right side, another sound.
+
+743
+01:03:40,760 --> 01:03:42,840
+Let me see what it is.
+
+744
+01:03:42,840 --> 01:03:43,960
+By the long one.
+
+745
+01:03:44,199 --> 01:03:44,440
+Okay.
+
+746
+01:03:49,320 --> 01:03:53,000
+Okay, but when the but when things are okay.
+
+747
+01:03:53,000 --> 01:03:58,519
+Well, except that when is the question is a hard one, though.
+
+748
+01:03:58,519 --> 01:04:02,280
+When is the refrigerator's way of being ready to hand?
+
+749
+01:04:02,280 --> 01:04:08,440
+Because for that, it has to be sort of in your hand and withdrawn.
+
+750
+01:04:08,599 --> 01:04:10,280
+I mean, like the hammer.
+
+751
+01:04:12,360 --> 01:04:12,840
+Oh, I see.
+
+752
+01:04:12,840 --> 01:04:13,400
+It's okay.
+
+753
+01:04:13,400 --> 01:04:15,639
+It's I see it's functional.
+
+754
+01:04:16,280 --> 01:04:17,320
+Uh-huh.
+
+755
+01:04:17,320 --> 01:04:18,039
+So I see.
+
+756
+01:04:18,039 --> 01:04:24,839
+So it's withdrawn when you're relying on it and it's doing its job and you aren't experiencing it.
+
+757
+01:04:24,840 --> 01:04:27,320
+That counts as its readiness to hand.
+
+758
+01:04:27,320 --> 01:04:29,240
+I think that's probably right.
+
+759
+01:04:29,239 --> 01:04:34,039
+Let me so that's because would Heidegger have any problem with that, I'm asking myself.
+
+760
+01:04:34,039 --> 01:04:36,519
+So here we got this two Handen Heiden.
+
+761
+01:04:36,519 --> 01:04:39,160
+Now you don't have to have the hand in there.
+
+762
+01:04:40,360 --> 01:04:42,119
+That's just an accident of the German.
+
+763
+01:04:42,119 --> 01:04:47,960
+And so readiness to hand really means we don't have any word for it.
+
+764
+01:04:48,840 --> 01:04:50,759
+John Hoagland has available.
+
+765
+01:04:50,760 --> 01:04:56,200
+I think that's wrong because the hammer in the drawer is available, but you're not using it.
+
+766
+01:04:57,239 --> 01:05:14,000
+Anybody got a word for the what what how this equipment is to be named when it's doing its job and it's uh uh fitted in the hole and it's uh f making something happen that you are uh depending on.
+
+767
+01:05:14,000 --> 01:05:21,360
+And yet it's not, and it's sort of withdrawn, that's what you're saying.
+
+768
+01:05:21,360 --> 01:05:24,800
+And so we just want to say it's ready to hand, period.
+
+769
+01:05:25,440 --> 01:05:27,519
+Okay, why not?
+
+770
+01:05:27,840 --> 01:05:28,799
+Okay, I'm ready.
+
+771
+01:05:28,800 --> 01:05:29,440
+I'm convinced.
+
+772
+01:05:29,440 --> 01:05:30,079
+I'm convinced.
+
+773
+01:05:30,079 --> 01:05:31,439
+We'll say it's ready to hand.
+
+774
+01:05:31,599 --> 01:05:35,119
+So the answer is there's lots of equipment around that's ready.
+
+775
+01:05:35,199 --> 01:05:36,959
+I have to revise my story.
+
+776
+01:05:36,960 --> 01:05:41,440
+Lots of equipment around that's ready to hand, even if it isn't in your hand.
+
+777
+01:05:41,760 --> 01:05:46,960
+But it does have to have the quality of withdrawing to do its job genuinely.
+
+778
+01:05:47,679 --> 01:05:52,159
+If you're noticing its properties and stuff, that's because something's not doing its job.
+
+779
+01:05:52,159 --> 01:05:53,920
+It's breaking down.
+
+780
+01:05:53,920 --> 01:05:54,480
+Yeah.
+
+781
+01:06:00,400 --> 01:06:02,960
+And in that way, I don't think that it's so much with frost.
+
+782
+01:06:02,960 --> 01:06:08,159
+But say the dual of the refrigerator, although it's something out of the refrigerator, is withdrawn.
+
+783
+01:06:08,159 --> 01:06:15,279
+So I don't think we can separate by using something as equipment that is completely withdrawn and that it's putting the raise of hand.
+
+784
+01:06:15,280 --> 01:06:28,159
+There's something that seems more, when we're talking about using something as equipment where it's withdraw, by exciting, no longer interacting with the equipment at the concert.
+
+785
+01:06:28,559 --> 01:06:29,360
+That's right.
+
+786
+01:06:29,360 --> 01:06:30,399
+Right, right.
+
+787
+01:06:35,679 --> 01:06:46,639
+Well, yes, but all I want to say to that is you can get a beer from the refrigerator in a zombie-like state while you're watching some television or thinking about things.
+
+788
+01:06:46,640 --> 01:06:50,319
+And then that's the level Heidegger's interested in.
+
+789
+01:06:50,319 --> 01:06:54,880
+When you're really already thinking about it, you're already, you could deal with it that way.
+
+790
+01:06:54,880 --> 01:07:01,159
+Then either, then it's a bunch of present-of-hand things like cold and which shelf is it on and stuff.
+
+791
+01:07:01,720 --> 01:07:02,359
+That's all right.
+
+792
+01:07:02,359 --> 01:07:15,399
+But I think Heidegger wants to say at the rock bottom of the level of relating to equipment, even refrigerators, they become invisible and you just get what you want out of them.
+
+793
+01:07:15,399 --> 01:07:19,639
+That may be, you know, again, complications we don't have to worry about, that there's some equipment.
+
+794
+01:07:19,640 --> 01:07:21,319
+Oh, Heidegger does worry about it.
+
+795
+01:07:21,319 --> 01:07:22,439
+Good old Heidegger.
+
+796
+01:07:22,439 --> 01:07:25,880
+You could say, I'll prepare you for what you're going to read next time.
+
+797
+01:07:25,880 --> 01:07:28,039
+But think of it, I won't even tell you the answer.
+
+798
+01:07:28,039 --> 01:07:36,279
+Is there any kind of equipment that in order to do the job that it's doing has to become visible and noticed?
+
+799
+01:07:36,279 --> 01:07:38,279
+I mean, certainly that won't fit the refrigerator.
+
+800
+01:07:38,279 --> 01:07:40,840
+I'm putting in the refrigerator sort of aside.
+
+801
+01:07:41,239 --> 01:07:44,359
+And he thinks there is, and he thinks it's very interesting.
+
+802
+01:07:44,359 --> 01:07:47,159
+And you're going to read about it next time, and you'll be surprised.
+
+803
+01:07:47,159 --> 01:07:49,319
+I bet most of you, I wouldn't have thought of it.
+
+804
+01:07:49,720 --> 01:07:50,039
+Yeah.
+
+805
+01:07:56,039 --> 01:08:04,759
+How would Heidegger feel about the claim that one thought might be the epitome of a withdrawal?
+
+806
+01:08:04,760 --> 01:08:05,079
+Good.
+
+807
+01:08:07,159 --> 01:08:09,719
+One thought.
+
+808
+01:08:10,039 --> 01:08:10,679
+Right.
+
+809
+01:08:10,680 --> 01:08:11,239
+Okay.
+
+810
+01:08:11,239 --> 01:08:11,720
+I see.
+
+811
+01:08:11,720 --> 01:08:14,039
+Well, I thought that crossed my mind.
+
+812
+01:08:14,039 --> 01:08:24,359
+Merleau Ponty says that the cane has become part of the blind man's body, because Merleau-Ponty thinks of the body as the sort of my coping capacity.
+
+813
+01:08:24,359 --> 01:08:32,599
+And Heidegger has two sentences in Being in Time about the body, in which he says it's a very complicated subject, and I'm not going to deal with it here.
+
+814
+01:08:32,600 --> 01:08:36,880
+And leaves the job to Merlot-Ponty, which is nice.
+
+815
+01:08:36,880 --> 01:08:38,519
+Only he didn't know he was doing that.
+
+816
+01:08:38,520 --> 01:08:46,159
+But in any case, it's we-our body is certainly not a piece of equipment.
+
+817
+01:08:44,680 --> 01:08:47,199
+I mean, we agree about that.
+
+818
+01:08:47,359 --> 01:08:53,679
+You don't use your hand like you just pick things up the way you might use a pair of pliers or something.
+
+819
+01:08:53,680 --> 01:08:58,639
+But your body does seem to be transparent when you're coping.
+
+820
+01:08:58,640 --> 01:09:11,039
+And I don't think Heidegger would mind, but if you had to have a way of being for the body, I bet Heidegger would say that when you're using it and getting around in the world, it's ready to hand.
+
+821
+01:09:11,359 --> 01:09:18,880
+And it's a way of being, and when, of course, you're being operated on for the doctor, it's just a present-at-hand piece of meat.
+
+822
+01:09:19,520 --> 01:09:21,599
+But it can show up in both those ways.
+
+823
+01:09:21,600 --> 01:09:27,759
+I don't know whether he'd get in trouble thinking that we would get in trouble thinking the body is ready to hand or not.
+
+824
+01:09:27,760 --> 01:09:31,119
+But I see lots of people who have some issues on their mind.
+
+825
+01:09:31,119 --> 01:09:32,079
+Yes.
+
+826
+01:09:37,199 --> 01:09:38,639
+Want to say that again?
+
+827
+01:09:43,199 --> 01:09:45,439
+That's big enough to have a faith handling.
+
+828
+01:09:51,359 --> 01:09:52,000
+I can't.
+
+829
+01:09:52,399 --> 01:09:53,680
+Oddly enough, I can't hear you.
+
+830
+01:09:53,680 --> 01:09:54,960
+You're talking too soft or something.
+
+831
+01:09:54,960 --> 01:09:56,399
+I just don't, or for me anyway.
+
+832
+01:09:56,399 --> 01:09:57,279
+Say it again loud.
+
+833
+01:09:57,279 --> 01:09:57,760
+I'm sure.
+
+834
+01:09:57,760 --> 01:09:58,960
+Can you hear him?
+
+835
+01:09:58,960 --> 01:10:00,559
+Everybody, no, they can't hear you.
+
+836
+01:10:00,560 --> 01:10:01,679
+So say it again.
+
+837
+01:10:04,880 --> 01:10:06,720
+Oh, you can replace one hammer with another hammer.
+
+838
+01:10:06,720 --> 01:10:08,559
+I'll repeat for the people on the podcast.
+
+839
+01:10:08,560 --> 01:10:09,199
+Okay.
+
+840
+01:10:11,760 --> 01:10:13,760
+No, you can't replace your body with another body.
+
+841
+01:10:13,760 --> 01:10:15,439
+That's a very important difference.
+
+842
+01:10:15,439 --> 01:10:16,159
+Right.
+
+843
+01:10:16,159 --> 01:10:16,639
+Okay.
+
+844
+01:10:16,800 --> 01:10:21,039
+But it could still be that the way of being is the same.
+
+845
+01:10:22,159 --> 01:10:25,920
+I don't understand we don't have enough criteria for what counts as the same way of being or not.
+
+846
+01:10:25,920 --> 01:10:33,559
+Or we don't know enough about what's the essential thing about the body and whether it turns out to be the same as the essential thing about equipment.
+
+847
+01:10:33,880 --> 01:10:40,599
+I don't want to talk about body just because it's very interesting and complicated, but since Heidegger says nothing about it, it doesn't belong in this course.
+
+848
+01:10:40,600 --> 01:10:43,639
+I promise to give Meryloponte within the next two years.
+
+849
+01:10:43,640 --> 01:10:44,519
+Yeah.
+
+850
+01:10:48,680 --> 01:10:52,599
+The mode of being an equipment when it's not in use.
+
+851
+01:10:57,479 --> 01:11:06,039
+I think that, well, now you're asking me to repeat this thing, which is so hard, and I'm still getting used to it, but I think it's helping me a lot.
+
+852
+01:11:06,600 --> 01:11:15,960
+Its mode of being in the referential totality being a hammer is what?
+
+853
+01:11:16,920 --> 01:11:17,880
+I still haven't got it.
+
+854
+01:11:18,439 --> 01:11:19,559
+Heidegger hasn't got it.
+
+855
+01:11:19,560 --> 01:11:20,760
+It's not my fault.
+
+856
+01:11:20,760 --> 01:11:26,679
+Heidegger thinks, Heidegger thinks that if you had to give it a mode of being, it would be ready to hand.
+
+857
+01:11:26,680 --> 01:11:29,079
+But why am I reluctant to say that?
+
+858
+01:11:29,079 --> 01:11:34,039
+Because it's only genuinely ready to hand when it's invisible and withdrawn and you're coping with it.
+
+859
+01:11:34,039 --> 01:11:36,039
+So it shouldn't be ready to hand.
+
+860
+01:11:36,439 --> 01:11:37,399
+That's wrong.
+
+861
+01:11:37,399 --> 01:11:43,639
+On the other hand, you can't say that when it's being a hammer, that it's present at hand, an isolated substance with properties.
+
+862
+01:11:43,640 --> 01:11:48,840
+Remember, I banged into this once already in the course of this lecture and stunned and didn't know what to say.
+
+863
+01:11:48,840 --> 01:11:50,679
+And I still don't know what to say.
+
+864
+01:11:50,680 --> 01:11:53,799
+I think Heidegger's got a big deal problem.
+
+865
+01:11:54,439 --> 01:12:03,880
+I think he's going to have to stick it into the category unready to hand, which is what happens to ready-to-hand things when they stop being invisible.
+
+866
+01:12:03,880 --> 01:12:08,679
+So a hammer that's too heavy gets to be unready to hand.
+
+867
+01:12:08,760 --> 01:12:15,439
+Unready to hand is going to have to be the sort of extra mysterious category to put this stuff in.
+
+868
+01:12:14,840 --> 01:12:21,760
+And Heidegger makes it hard because he doesn't even spend much time on ready to hand, on unready to hand.
+
+869
+01:12:21,840 --> 01:12:26,880
+Let me just show you 102 where it comes up, but it's just barely in your reading.
+
+870
+01:12:27,840 --> 01:12:28,960
+But it's important.
+
+871
+01:12:28,960 --> 01:12:32,239
+He talks at the bottom of 102.
+
+872
+01:12:32,560 --> 01:12:45,119
+When we concern ourselves with something ready to hand, we meet something unusable, not properly adapted, the tool turns out to be damaged, and we could add yours maybe just lying around.
+
+873
+01:12:45,119 --> 01:12:48,960
+In each of these cases, equipment is here ready to hand.
+
+874
+01:12:49,600 --> 01:12:59,439
+But we discover its unusability, however, not by looking at it and establishing its properties, but by the inspection, the circumspection of dealings in which we use it.
+
+875
+01:12:59,439 --> 01:13:05,599
+When its unusable unusability is thus discovered, equipment becomes conspicuous.
+
+876
+01:13:05,600 --> 01:13:10,159
+Conspicuous presents the ready-to-hand equipment in a certain unreadiness to hand.
+
+877
+01:13:10,159 --> 01:13:12,399
+Boy, is he, I swear it's him.
+
+878
+01:13:12,399 --> 01:13:14,159
+He's very confused.
+
+879
+01:13:14,159 --> 01:13:17,599
+He doesn't know how to describe this equipment.
+
+880
+01:13:17,600 --> 01:13:20,000
+And he, oh, this is going to drive you crazy.
+
+881
+01:13:20,000 --> 01:13:21,279
+It drives me crazy.
+
+882
+01:13:21,279 --> 01:13:29,439
+He thinks that unreadiness to hand, the way he's going to use it, is some kind of subcategory of the ready-to-hand.
+
+883
+01:13:29,439 --> 01:13:30,639
+That's what he's doing here.
+
+884
+01:13:30,640 --> 01:13:32,719
+That's what he does every once in a while.
+
+885
+01:13:33,039 --> 01:13:36,640
+And I'll see if I can show you at the bottom.
+
+886
+01:13:36,720 --> 01:13:42,559
+The conspicuousness presents the unready to hand in a certain, sorry, the ready to hand in a certain unreadiness to hand.
+
+887
+01:13:42,560 --> 01:13:44,880
+And let me go a little further and sort of.
+
+888
+01:13:48,079 --> 01:13:51,519
+And then the German says, the German is bad there.
+
+889
+01:13:51,520 --> 01:13:52,319
+We get all kinds of trouble.
+
+890
+01:13:52,319 --> 01:13:53,760
+Heidegger's not very clear.
+
+891
+01:13:53,760 --> 01:13:55,119
+I'm not very clear.
+
+892
+01:13:55,119 --> 01:13:56,800
+The translators got it wrong.
+
+893
+01:13:56,800 --> 01:14:18,519
+So the second sentence on 103, where he says it shows itself as an equipmental thing which looks so-and-so, the German is, and which, in its availability, which is readiness at home, it was also constantly occurrent as looking thus-and-so.
+
+894
+01:14:18,520 --> 01:14:32,679
+So, what you see, what he says is when something stops being transparent, you see that, and this is what seems so crazy, it was already looking as so-and-so at you.
+
+895
+01:14:32,680 --> 01:14:46,439
+What you want to really say, so getting it out of into the good English doesn't help any, it wasn't constantly occurrent as looking so-and-so while you were transparently using it.
+
+896
+01:14:46,760 --> 01:14:53,319
+But it was constantly there having certain properties that made it suitable for you to use it.
+
+897
+01:14:53,319 --> 01:14:58,920
+It's just that you weren't seeing it that way, it wasn't looking so-and-so.
+
+898
+01:15:00,279 --> 01:15:07,800
+But there is a kind of murky thing here that Heidegger needs to talk about when things are conspicuous.
+
+899
+01:15:07,800 --> 01:15:08,760
+Who raised the question?
+
+900
+01:15:08,760 --> 01:15:18,359
+Was it oh, yeah, but the kind of conspicuousness would be something that was lying around that wasn't functioning, but then you're asking a bigger question.
+
+901
+01:15:18,359 --> 01:15:22,119
+You're saying, but suppose it's just lying around, you aren't even trying to use it.
+
+902
+01:15:22,119 --> 01:15:27,399
+That's if you're trying to use it and it's not functioning, it lies around conspicuously, it is unready to hand.
+
+903
+01:15:27,399 --> 01:15:33,239
+But lots of stuff just lies around, like the slide of the famous slide projecting thing.
+
+904
+01:15:33,239 --> 01:15:40,279
+And I don't know what's its character, as long as there's equipment around that makes it, that it's still in.
+
+905
+01:15:41,479 --> 01:16:02,159
+Let's say it's still equipment, but it's neither, I'm not, my relation to its way of being can't be just present at hand, because it's in this holism, but its way of being can't be readiness to hand, because I'm not coping with it, and it's not withdrawing because it's doing its job.
+
+906
+01:16:04,399 --> 01:16:14,239
+It's either something we don't have a name for in Heidegger, just equipment sitting around, or if it's getting in the way in some way, then it's unready to hand.
+
+907
+01:16:14,239 --> 01:16:16,479
+Yeah, you want to follow up on that?
+
+908
+01:16:19,359 --> 01:16:19,760
+What is that?
+
+909
+01:16:20,479 --> 01:16:22,399
+Latently ready to hand.
+
+910
+01:16:24,319 --> 01:16:26,399
+Yeah, but that's just a kind of fudge.
+
+911
+01:16:26,399 --> 01:16:28,000
+I mean, I mean, that's true.
+
+912
+01:16:28,000 --> 01:16:29,840
+That describes the phenomena.
+
+913
+01:16:29,840 --> 01:16:34,799
+But its kind of being is that you could use it.
+
+914
+01:16:34,800 --> 01:16:38,800
+Its kind of being is that it could, it is equipment already.
+
+915
+01:16:38,800 --> 01:16:40,319
+Remember, we got that distinction.
+
+916
+01:16:40,319 --> 01:16:46,799
+But that, but it's kind of being is that you could, you use, you're using it.
+
+917
+01:16:46,800 --> 01:16:50,800
+This idea of the kind of being is that you could use it, well, that's okay.
+
+918
+01:16:50,800 --> 01:16:55,519
+Then we need a new name for it, because then we couldn't say it withdrew when it did that.
+
+919
+01:16:55,840 --> 01:17:01,439
+So I'll take it latently, potentially ready to hand.
+
+920
+01:17:01,439 --> 01:17:02,239
+What else can I do?
+
+921
+01:17:02,239 --> 01:17:03,599
+It's the only word I've got.
+
+922
+01:17:03,600 --> 01:17:04,960
+Okay, yeah, you back in the.
+
+923
+01:17:15,600 --> 01:17:19,039
+I can't hear you very well, but when you're actually using it, it is ready to hand.
+
+924
+01:17:19,039 --> 01:17:22,319
+It's invisible, and that makes it ready to hand.
+
+925
+01:17:26,319 --> 01:17:27,359
+Oh, I see.
+
+926
+01:17:27,359 --> 01:17:31,239
+That's just a bad thing about the translation, but it's interesting that you go in a...
+
+927
+01:17:31,239 --> 01:17:36,199
+It shouldn't, I mean, Zuhanden in German has not, it doesn't have any readiness in it.
+
+928
+01:17:36,439 --> 01:17:39,159
+It's just to hand.
+
+929
+01:17:39,800 --> 01:17:42,679
+It's important that it's not just on hand.
+
+930
+01:17:43,000 --> 01:17:47,319
+It's on hand or in hand if you're looking for prepositions.
+
+931
+01:17:47,319 --> 01:17:49,399
+But the ready doesn't do anything.
+
+932
+01:17:49,399 --> 01:17:52,600
+And neither does the hand, really, because most of the time you're using equipment.
+
+933
+01:17:52,680 --> 01:17:53,479
+You don't need your hands.
+
+934
+01:17:53,720 --> 01:17:57,800
+You can use equipment like this, for instance, that doesn't need my hands.
+
+935
+01:17:57,800 --> 01:17:58,359
+Yeah.
+
+936
+01:18:00,920 --> 01:18:01,880
+Passive?
+
+937
+01:18:02,199 --> 01:18:05,319
+Well, that's when it's lying around, conspicuous.
+
+938
+01:18:05,319 --> 01:18:07,800
+That's what he wants to call potentially ready to hand.
+
+939
+01:18:07,800 --> 01:18:09,000
+You've got too many questions.
+
+940
+01:18:09,000 --> 01:18:09,800
+The last one.
+
+941
+01:18:09,800 --> 01:18:12,039
+Well, no, I wanted to hear from him first.
+
+942
+01:18:12,039 --> 01:18:14,359
+You had your hand up, and then I'll hear from you, and then I run.
+
+943
+01:18:14,359 --> 01:18:14,760
+Yeah.
+
+944
+01:18:15,399 --> 01:18:17,800
+That sounds kind of a description.
+
+945
+01:18:19,880 --> 01:18:21,719
+He explains how he thinks it is.
+
+946
+01:18:21,720 --> 01:18:27,799
+But he doesn't really have your arguments for why, like, it is that.
+
+947
+01:18:28,439 --> 01:18:29,239
+Okay.
+
+948
+01:18:32,760 --> 01:18:38,199
+Well, because that's wonderful to say that, because we're doing phenomenology, and he's asking you what I'm asking you.
+
+949
+01:18:38,199 --> 01:18:39,960
+Check it against your experience.
+
+950
+01:18:39,960 --> 01:18:41,399
+And you're all playing the game.
+
+951
+01:18:41,399 --> 01:18:45,639
+And you're saying, yeah, but I got experience of this, which doesn't fit into that definition.
+
+952
+01:18:45,640 --> 01:18:48,119
+But I don't see any place for arguments.
+
+953
+01:18:48,119 --> 01:18:58,920
+You either can solve, if you're a phenomenologist, your everyday experience right here and now, or if you're a linguistic philosopher, you go and you try to understand how we talk about it.
+
+954
+01:18:58,920 --> 01:19:02,119
+But we don't really have arguments for this.
+
+955
+01:19:02,119 --> 01:19:03,159
+Last point.
+
+956
+01:19:05,399 --> 01:19:11,720
+I agree with you to make the hand with ready to use when you are actually using ready to handle the point of readiness.
+
+957
+01:19:11,720 --> 01:19:12,519
+There isn't my.
+
+958
+01:19:13,079 --> 01:19:13,559
+Okay.
+
+959
+01:19:13,560 --> 01:19:14,319
+Ah.
+
+960
+01:19:13,880 --> 01:19:21,039
+Oh, boy.
+
+961
+01:19:23,039 --> 01:19:23,519
+Okay.
+
+962
+01:19:24,319 --> 01:19:26,159
+So it could have, I like that.
+
+963
+01:19:26,159 --> 01:19:29,199
+It could have Stuhanden height.
+
+964
+01:19:29,199 --> 01:19:31,279
+The height is the readiness part.
+
+965
+01:19:31,279 --> 01:19:40,000
+It could have readiness to hand, but the readiness to hand is not genuinely revealed or experienced unless you pick up and transparently use it.
+
+966
+01:19:42,399 --> 01:19:43,119
+I like that.
+
+967
+01:19:43,119 --> 01:19:47,760
+Let me repeat it again because it's new to me and I want to make sure it's somewhere I can hear.
+
+968
+01:19:47,760 --> 01:19:52,559
+So if readiness to hand would be what he called potential ready to hand.
+
+969
+01:19:52,560 --> 01:19:54,239
+I think he was on the right track.
+
+970
+01:19:54,399 --> 01:19:55,759
+And you're on the right track.
+
+971
+01:19:55,760 --> 01:20:08,800
+And then readiness to hand becomes sort of activated as experienced as readiness to hand when you're transparently using it.
+
+972
+01:20:08,800 --> 01:20:12,479
+Then it is most genuinely ready to hand.
+
+973
+01:20:12,479 --> 01:20:18,000
+The readiness to hand is most genuinely ready to hand when you pick up this thing and use it.
+
+974
+01:20:18,000 --> 01:20:18,399
+Good.
+
+975
+01:20:18,399 --> 01:20:20,159
+Stop with that while we're ahead.
+
+976
+01:20:20,159 --> 01:20:20,799
+Okay.

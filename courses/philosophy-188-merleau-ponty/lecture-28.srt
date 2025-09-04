@@ -1,0 +1,3688 @@
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:04,081
+So column A is the tasking cogito.
+
+2
+00:00:04,081 --> 00:00:14,320
+B is something like the regular cogito.
+
+3
+00:00:14,640 --> 00:00:17,280
+And then there's the Cartesian cogito.
+
+4
+00:00:17,441 --> 00:00:35,280
+I now think that this found this, and in here is all the pre-linguistic, pre-reflective, motor-intentional, impersonal, engaged, and a kind of background, namely the background of the perceptual constants.
+
+5
+00:00:35,600 --> 00:00:38,720
+And in this is language.
+
+6
+00:00:38,721 --> 00:00:40,960
+And so these are the same things I had on the board before.
+
+7
+00:00:40,960 --> 00:00:43,280
+A big one here, perception I didn't.
+
+8
+00:00:43,280 --> 00:00:48,560
+And here is thought, language, reflection, representational intentionality.
+
+9
+00:00:48,561 --> 00:00:51,840
+I think I forgot the name motor intentionality over here.
+
+10
+00:00:52,160 --> 00:00:58,080
+The impersonal ones, one thinks in English or there isn't even any thinking.
+
+11
+00:00:58,081 --> 00:01:01,440
+The one organizes the world in my body schema.
+
+12
+00:01:01,441 --> 00:01:03,040
+And here's the I think.
+
+13
+00:01:03,041 --> 00:01:04,560
+This is engaged.
+
+14
+00:01:04,560 --> 00:01:06,641
+This is sort of disengaged.
+
+15
+00:01:06,641 --> 00:01:10,880
+I mean, on a background that's still always engaged.
+
+16
+00:01:10,880 --> 00:01:17,840
+And then there's the Cartesian cogito, which is supposedly self-sufficient.
+
+17
+00:01:18,160 --> 00:01:35,321
+But if you want to say that this founds this in a way that I'll try to explain, and this founds this, to say that this founds this is to say this doesn't really exist, because the Cartesian coge claims that it isn't founded on anything.
+
+18
+00:01:35,321 --> 00:01:36,921
+It's the foundation of everything.
+
+19
+00:01:37,240 --> 00:01:38,680
+So that's part of the puzzle.
+
+20
+00:01:38,840 --> 00:01:50,600
+I mean, there is something going on over here doing geometry and maybe even formal kinds of geometry and formal kinds of arithmetic.
+
+21
+00:01:50,601 --> 00:01:53,481
+And there may be a kind of certainty in that.
+
+22
+00:01:53,481 --> 00:01:55,000
+I imagine there is.
+
+23
+00:01:55,000 --> 00:02:02,201
+That what there can't be over here is something whose meaning is self-sufficient and in it.
+
+24
+00:02:02,201 --> 00:02:06,440
+It's always on the background of something else.
+
+25
+00:02:06,440 --> 00:02:17,801
+In this case, this is on the background of the sedimented institution and history of geometry, to take the geometry example.
+
+26
+00:02:17,801 --> 00:02:30,440
+You can't just do geometry in a vacuum, and you never get the whole background clear and explicit and self-justifying or by or defined.
+
+27
+00:02:30,440 --> 00:02:35,960
+So, and this, to say something is founded, it's important.
+
+28
+00:02:35,960 --> 00:02:48,120
+And it was pointed out to me that the crucial, nice passage is on 459 in here, where we should read all this.
+
+29
+00:02:50,840 --> 00:02:52,520
+About eight lines from the bottom.
+
+30
+00:02:52,520 --> 00:03:07,240
+If it were possible to lay bare and unfold all the presuppositions in what I call my reason or my idea at each moment, we should always find experiences which have not been made explicit, if it were possible, if we had to try.
+
+31
+00:03:07,240 --> 00:03:10,960
+We'd always find experiences which had not been made explicit.
+
+32
+00:03:10,601 --> 00:03:17,040
+That's the point about Descartes isn't, Cartesian thinking isn't self-sufficient.
+
+33
+00:03:17,361 --> 00:03:28,081
+Large-scale contributions from past and present, a whole sedimented history, which is not only relevant to the genesis of my thought, but which determines its significance.
+
+34
+00:03:28,081 --> 00:03:37,120
+Founding is determining the significance or the meaning, according to Lois Roll, and I'm sure that's also according to Merillo Ponte.
+
+35
+00:03:37,440 --> 00:03:49,361
+So to say that this founds this is that none of these squiggles over here would have any meaning if it weren't for our experience of, say, triangles.
+
+36
+00:03:49,361 --> 00:04:02,401
+And you wouldn't be able to carry on all these supposed logical operations except on a background which has always got more in it, taken more for granted than you could imagine.
+
+37
+00:04:03,680 --> 00:04:07,361
+Now, let's see, 458.
+
+38
+00:04:07,680 --> 00:04:15,521
+Now, I think that it was a red herring on 458 to worry about this business of what's made manifest.
+
+39
+00:04:15,840 --> 00:04:26,721
+I don't think that being made manifest is an important part of founding, though it does come in at the end of that list.
+
+40
+00:04:27,041 --> 00:04:28,801
+I don't think it's wrong.
+
+41
+00:04:28,801 --> 00:04:43,361
+What it says, what it means is that there are the capacities over here that get made manifest over here, like the infant learning language.
+
+42
+00:04:43,361 --> 00:04:45,041
+But that all sounds genetic.
+
+43
+00:04:45,041 --> 00:04:54,961
+And there is no doubt that this, we talked about this, this infant animal thing develops into this grown-up human being coming to saying.
+
+44
+00:04:55,000 --> 00:04:58,201
+And that but that's not the interesting relation, I think.
+
+45
+00:04:58,200 --> 00:05:04,761
+The founding relation is that what goes on here presupposes for its significance.
+
+46
+00:05:04,760 --> 00:05:27,080
+That is language, reflection, representational intentionality, thinking, disengagement, and so forth, all presuppose that you've got a world that's been opened up, that has stable objects in it, that has meanings in it already, and a kind of intentionality in it already, and that that is what bounds, and that's the only word for it.
+
+47
+00:05:27,080 --> 00:05:29,161
+I don't want to say it makes possible.
+
+48
+00:05:29,801 --> 00:05:46,601
+It would be better to say that it's an enabling condition if you had to say something, because Nero Ponty sometimes says that I think that this is the condition of the but he also sometimes says that this is the condition of the possibility of this, so it's hard to sort it out.
+
+49
+00:05:46,601 --> 00:06:03,240
+But I think the safest thing is to say that this gets its significance and meaning from being a development or articulation, or that's where manifestation comes in, if you want to say that, manifestation of this.
+
+50
+00:06:03,240 --> 00:06:09,080
+Only I think manifestation is somehow hard to why that would be the right word.
+
+51
+00:06:09,080 --> 00:06:12,120
+Now I think I may have said everything I want to say about this.
+
+52
+00:06:13,161 --> 00:06:14,120
+Yeah.
+
+53
+00:06:17,161 --> 00:06:18,041
+Okay.
+
+54
+00:06:18,041 --> 00:06:18,601
+Yeah.
+
+55
+00:06:18,921 --> 00:06:24,760
+I'm I'm puzzled about what's left of Steve, um, what he was there.
+
+56
+00:06:24,760 --> 00:06:32,841
+And and I just before you say what's left Steve says, I'm I'm kinda puzzled about what's supposed to go in.
+
+57
+00:06:32,921 --> 00:06:37,641
+I think well, and just to give an example, you might just talk about some of the yeah.
+
+58
+00:06:37,641 --> 00:06:45,120
+But you might think that a paradigm example is formal capacity would be the testimony of capacity.
+
+59
+00:06:41,401 --> 00:06:47,200
+But of course, we don't think that the test value.
+
+60
+00:06:47,521 --> 00:06:50,080
+No, you're mixing up analytic and formal.
+
+61
+00:06:50,080 --> 00:06:58,320
+When I say formal, I mean who's the Hilbert please the Hilbert project of making all these definitions and squiggles and drawing things and squiggles.
+
+62
+00:06:58,560 --> 00:07:04,560
+Well, but one could think of the manipulation of a calculator as I could version terms of the word.
+
+63
+00:07:04,560 --> 00:07:06,240
+It might not be the formal activity.
+
+64
+00:07:06,320 --> 00:07:07,680
+No, no, no, no, they don't look up.
+
+65
+00:07:08,320 --> 00:07:10,881
+It's an intuitive thing, a perceptual thing.
+
+66
+00:07:10,880 --> 00:07:12,561
+It's the furthest from formal.
+
+67
+00:07:12,560 --> 00:07:15,601
+I mean, test grandmasters don't really calculate at all.
+
+68
+00:07:15,760 --> 00:07:16,321
+You know that.
+
+69
+00:07:17,041 --> 00:07:19,921
+So you're tripped to human.
+
+70
+00:07:19,921 --> 00:07:30,881
+There really is that the end of all the critical assessment, all the different kinds of forms of living and activities, but this is something formal.
+
+71
+00:07:31,521 --> 00:07:31,760
+No.
+
+72
+00:07:35,041 --> 00:07:43,681
+No, no, I don't think so, because I don't think Descartes thought that there was such something formal underlying any of it.
+
+73
+00:07:43,680 --> 00:07:46,160
+Descartes was a big believer in the intuitive.
+
+74
+00:07:46,161 --> 00:07:49,280
+You know, what I think on the mathematics for example, he is intuitive.
+
+75
+00:07:49,281 --> 00:07:49,680
+Is that?
+
+76
+00:07:49,841 --> 00:07:50,240
+Yeah, I know.
+
+77
+00:07:50,481 --> 00:07:58,401
+And what's interesting is, what's complicated about this, and it would be just as well, always right about that, to just cross it out.
+
+78
+00:07:58,401 --> 00:07:59,121
+We could.
+
+79
+00:07:59,120 --> 00:08:10,001
+Except that Marilotto's him is French and he's got the big that Tartesh and Kokito is something he's got to take on and destroy.
+
+80
+00:08:10,720 --> 00:08:14,321
+But take seriously before he takes it down.
+
+81
+00:08:14,320 --> 00:08:17,761
+And I was trying to say that there, well, first till you destroy it.
+
+82
+00:08:17,761 --> 00:08:26,281
+We just we discovered by saying that there's no indubitable given, that there are no, we don't have transparent access to our feelings.
+
+83
+00:08:26,840 --> 00:08:33,241
+The togi-toe doesn't give you a grounding in the sense of certainty.
+
+84
+00:08:33,241 --> 00:08:44,281
+And then we say, and about thinking, well, all thinking is really intuitive and thereby borrows its ability to make sense of what it's thinking about from here.
+
+85
+00:08:44,281 --> 00:08:47,321
+And then if you want to say, well, is there anything over here?
+
+86
+00:08:47,320 --> 00:08:58,440
+The answer is, I think nothing that Descartes thought survives because Descartes thought this was autonomous in the grounding level.
+
+87
+00:08:58,440 --> 00:09:03,641
+And then the whole point of all this is there's nothing over here that's autonomous and grounding.
+
+88
+00:09:04,200 --> 00:09:15,881
+But I do think, and that's why we can just cross it out or read it in, there is a kind of activity of manipulating a formal calculus in geometry, for instance, and in arithmetic.
+
+89
+00:09:17,001 --> 00:09:20,601
+And if you want to talk about it, you can.
+
+90
+00:09:20,600 --> 00:09:25,000
+And if you do, you're going to have to say, though, that it's certainly not self-sufficient.
+
+91
+00:09:25,001 --> 00:09:34,281
+It's grounded on your background intuition about what it is to make a definition fully, squiggly, formally explicit.
+
+92
+00:09:34,521 --> 00:09:36,521
+And what's the reason for not putting that indeed?
+
+93
+00:09:36,521 --> 00:09:38,201
+Because it's children do it.
+
+94
+00:09:38,200 --> 00:09:39,880
+Ah, children don't do that.
+
+95
+00:09:39,881 --> 00:09:40,841
+Nobody does.
+
+96
+00:09:40,840 --> 00:09:44,601
+Nobody tries to make a map to formalize.
+
+97
+00:09:44,600 --> 00:09:46,520
+It's only AI people trying to do it.
+
+98
+00:09:46,521 --> 00:09:48,281
+It's something very special.
+
+99
+00:09:48,281 --> 00:09:53,641
+It's an attempt to really understand perception, but you helped very much with that.
+
+100
+00:09:54,840 --> 00:10:05,161
+It would not be worth putting anything over here if it weren't for the cognitivists, the real AI people that I worried about years ago, but I've forgotten because they've completely collapsed.
+
+101
+00:10:05,161 --> 00:10:10,281
+But they thought that you could make a formal thing of everything.
+
+102
+00:10:10,281 --> 00:10:11,520
+That was functionalism.
+
+103
+00:10:11,521 --> 00:10:13,041
+Fodor believed it.
+
+104
+00:10:13,921 --> 00:10:14,881
+Lots of philosophers.
+
+105
+00:10:14,960 --> 00:10:16,641
+Everybody sort of believed it.
+
+106
+00:10:11,320 --> 00:10:18,640
+I don't know where maybe Gennett still believes it.
+
+107
+00:10:18,720 --> 00:10:20,320
+You probably know better than I.
+
+108
+00:10:21,041 --> 00:10:29,441
+But insofar as anybody thinks that you could run this on a symbolic manipulated computer, that's what's really over.
+
+109
+00:10:29,440 --> 00:10:31,760
+But you can get some progress.
+
+110
+00:10:31,761 --> 00:10:35,361
+You can try, but it won't ground anything.
+
+111
+00:10:35,360 --> 00:10:38,320
+It won't do anything that the Cartesian Kogito did.
+
+112
+00:10:38,320 --> 00:10:39,520
+So why did I bring it up?
+
+113
+00:10:39,521 --> 00:10:45,921
+Well, just because I wanted to see if there was anything over there, I think it's grounded in this, which is entirely different.
+
+114
+00:10:45,921 --> 00:10:55,601
+This is an intuitive kind of thinking that is on a background, and nobody thinks you can formalize it.
+
+115
+00:10:55,600 --> 00:10:58,641
+It can't, this is definitely not computational.
+
+116
+00:10:58,801 --> 00:11:00,481
+This would be computational.
+
+117
+00:11:00,801 --> 00:11:05,921
+If it wasn't computational, but you know, it's for regards to intuition as formal objects.
+
+118
+00:11:06,481 --> 00:11:08,721
+Yeah, the intuition works for Descartes.
+
+119
+00:11:09,121 --> 00:11:10,320
+As formal objects.
+
+120
+00:11:10,320 --> 00:11:11,361
+As formal objects.
+
+121
+00:11:11,521 --> 00:11:12,481
+As formal objects.
+
+122
+00:11:13,521 --> 00:11:18,080
+So, well, for these people, too, computational stuff has primitives.
+
+123
+00:11:18,080 --> 00:11:22,081
+You couldn't get out, you couldn't do, that's the Wittgenstein tractatis.
+
+124
+00:11:22,080 --> 00:11:26,321
+You couldn't think these formal things if you didn't have an atomic world.
+
+125
+00:11:26,320 --> 00:11:28,960
+Now, Descartes's going to have some other variation on it.
+
+126
+00:11:28,960 --> 00:11:30,001
+Let's not go into it.
+
+127
+00:11:30,001 --> 00:11:33,361
+I'm just going to say, follow what you're saying.
+
+128
+00:11:33,360 --> 00:11:46,440
+So, what you're saying is that rightly understood, no aspects of human life you'll underce, the way computational institutes of pluggnitive mind isn't my these things say I'm doing but that they're under.
+
+129
+00:11:46,401 --> 00:11:48,960
+But that's not even perception for cognitive.
+
+130
+00:11:49,120 --> 00:11:50,401
+I thought it was unclear last night.
+
+131
+00:11:50,560 --> 00:11:51,121
+It was.
+
+132
+00:11:51,200 --> 00:11:52,401
+A lot was unclear last night.
+
+133
+00:11:52,881 --> 00:12:03,961
+It's much clearer to me now that I have my two columns back and a sense of what's happening is and now I think we can go on uh so I I could have you could have thought about we are bubble.
+
+134
+00:12:04,281 --> 00:12:10,680
+Okay, so I want to talk about the temporality chapter for the rest of the day and I would be happy to have help from everybody.
+
+135
+00:12:10,761 --> 00:12:19,560
+I think it's the most confusing and confused chapter of the book and that's really a tough competition to win for Biden's chapters.
+
+136
+00:12:20,360 --> 00:12:28,680
+And my my intuition is that there's something well I will get to that if if I get time at the end.
+
+137
+00:12:28,680 --> 00:12:52,440
+I do think there are two very different uh phenomena in uh in the temporality business and that Husserl is onto one of them and Haydn is onto an entirely different phenomenon and that they are totally and deeply incompatible and that Merlot-Ponty holds on to both of them on in the same paragraph sometimes and therefore it is utterly confusing.
+
+138
+00:12:53,161 --> 00:13:21,561
+But I think we should do some follow-up positive things before I try to express my negative thing and everything hinges finally on trying to do something which oddly enough in this chapter Merlot-Ponty doesn't really try to do Bulberry or if he does it becomes completely poetic and incomprehensible to me describe the phenomenon of our living in time.
+
+139
+00:13:22,041 --> 00:13:34,321
+It seems to me there's going back to that again a Husserl attempt to do it and then a lot of Merlot-Ponty weird talk, which is his attempt to do it, but I think it's not that hard to describe.
+
+140
+00:13:34,320 --> 00:13:35,841
+And so I'm going to try to do it.
+
+141
+00:13:36,080 --> 00:13:40,481
+The first, let's just try what we start from 476.
+
+142
+00:13:41,440 --> 00:13:46,960
+So he wants the first, we're going to get rid of the first paragraph.
+
+143
+00:13:46,960 --> 00:13:49,121
+That's not Merloponte.
+
+144
+00:13:49,121 --> 00:13:54,561
+And that leads to a notion of time as a pure sequence of now's.
+
+145
+00:13:54,560 --> 00:14:07,441
+And neither of these two views of temporality, the Heidegger or the Husserl one, think of time as a kind of clock sequence of pure nows.
+
+146
+00:14:07,440 --> 00:14:09,841
+So we don't have to worry about that one.
+
+147
+00:14:10,481 --> 00:14:22,080
+And once we try to understand what objective time would be, we discover, and this goes on from 477 to 479, you can't make sense of it.
+
+148
+00:14:22,080 --> 00:14:34,481
+You can't tell whether it flows from the past to the present or whether it comes from what, starts in the future and goes into the past, and so forth.
+
+149
+00:14:34,480 --> 00:14:36,481
+You've got all these puzzles.
+
+150
+00:14:36,481 --> 00:14:42,801
+You won't get out of these puzzles about objective time when you understand that time depends on us.
+
+151
+00:14:42,801 --> 00:14:49,201
+You've got to be situated someplace in time to have a past, present, and future.
+
+152
+00:14:49,200 --> 00:14:57,521
+I think that's like to say that in some way or another there has to be a now for there to be temporality.
+
+153
+00:14:57,521 --> 00:15:01,841
+Just like there has to be a here for there to be spatiality.
+
+154
+00:15:02,161 --> 00:15:08,161
+And there is no now in objective time, just as there is no here in objective space.
+
+155
+00:15:08,161 --> 00:15:12,961
+And if there is no now in objective time, then there can't be an earlier and a later than now.
+
+156
+00:15:12,960 --> 00:15:21,840
+And so all the talk about whether time comes from the past or flows to the future or vice versa is gone if there's no earlier or later.
+
+157
+00:15:22,161 --> 00:15:29,320
+So you can't have a temporality in which there isn't a now, and the only way to get a now into it is for us.
+
+158
+00:15:29,320 --> 00:15:30,841
+We've got a now.
+
+159
+00:15:30,840 --> 00:15:36,361
+But what the now is or the present is is the hardest thing in the chapter.
+
+160
+00:15:36,360 --> 00:15:51,001
+But we do bring some kind of now and some kind of presence into the otherwise non-temporal reality, if there is such a thing even, which Mirabonte, I think, thinks there isn't.
+
+161
+00:15:51,001 --> 00:15:52,361
+That's all right with me.
+
+162
+00:15:52,921 --> 00:16:01,721
+We bring it in, just like in space there wouldn't be a near and far and up and down and a right and left if it weren't for us here.
+
+163
+00:16:01,720 --> 00:16:04,761
+And we bring that with us.
+
+164
+00:16:05,481 --> 00:16:07,481
+That's how we make sense of space.
+
+165
+00:16:07,480 --> 00:16:21,401
+And I guess we used the founding talk: the lived space with a here and a now is basic and the only way of giving meaning to objective space.
+
+166
+00:16:22,200 --> 00:16:24,840
+By the way, to say this here-now, you have to listen, right?
+
+167
+00:16:24,840 --> 00:16:26,360
+I mean, remember, I said that C.I.
+
+168
+00:16:26,440 --> 00:16:30,121
+Lewis used to talk about the here-now predicament.
+
+169
+00:16:30,120 --> 00:16:33,480
+That's exactly the wrong way to think about here-now.
+
+170
+00:16:33,481 --> 00:16:45,320
+That's to think that somehow I'm kind of imprisoned in my stream of consciousness, which is a series of nows located somehow right here.
+
+171
+00:16:45,320 --> 00:16:47,400
+That's the other wrong.
+
+172
+00:16:48,281 --> 00:16:58,521
+Objective time doesn't make any sense without bringing us in, and inner time doesn't make any sense without bringing in some other notion of time.
+
+173
+00:16:58,521 --> 00:17:07,080
+Because if there was a kind of just a here now, there wouldn't be any temporality, there wouldn't be any past and future.
+
+174
+00:17:07,080 --> 00:17:29,360
+You can't just be a stream of inner states if you were you wouldn't know it you'd be like an oyster or something a stream of inner states needs to somehow not just be a bunch of inner states some inner states have to be now and other ones past and future.
+
+175
+00:17:29,360 --> 00:17:32,961
+But you can't get that if all you've got is inner states that are now.
+
+176
+00:17:32,961 --> 00:17:36,480
+Where will you get any experience of the past and the future?
+
+177
+00:17:36,481 --> 00:17:49,360
+That's his objection to what he called the psychological, trying to understand temporality, which has a past and a future in terms of a stream of inner nows.
+
+178
+00:17:49,360 --> 00:18:06,801
+And it doesn't help to do it physiologically, he says, because then you'll have some end-grained engrams in the brain, which are supposedly recording the past, but they'll just be present engrams in the brain.
+
+179
+00:18:06,801 --> 00:18:09,521
+And where does their pastness come from?
+
+180
+00:18:10,001 --> 00:18:11,201
+That's the puzzle.
+
+181
+00:18:11,201 --> 00:18:15,360
+So that always happened puzzles, which I don't think we should spend too much time on.
+
+182
+00:18:15,360 --> 00:18:16,801
+In fact, Bernard.
+
+183
+00:18:16,801 --> 00:18:21,041
+Not that they're not good puzzles, but it's important to see what his view is.
+
+184
+00:18:21,041 --> 00:18:30,240
+So it turns out that somehow temporality has got to naturally be based on motor intentionality.
+
+185
+00:18:30,241 --> 00:18:38,720
+Our experience that there is a past, a present, and a future is tied up with our way of coping with the world.
+
+186
+00:18:38,721 --> 00:18:46,160
+And it's wonderful and surprising, really, to find the house and the bath of the house coming back.
+
+187
+00:18:46,320 --> 00:18:59,960
+Finally, when we get to Merrill-Ponty's own view, which is after he's fat down all these other views of psychic traces and physiological traces in objective time, his view starts at the top of 483.
+
+188
+00:19:00,441 --> 00:19:13,801
+The very first phrase I'm going to come back to, I think this is the phrase that causes all the mischief and makes no sense, but I don't want to start explaining it yet.
+
+189
+00:19:13,801 --> 00:19:16,120
+It is, but I'm going to raise the question.
+
+190
+00:19:16,120 --> 00:19:20,360
+It is my field of presence in the widest sense.
+
+191
+00:19:20,360 --> 00:19:24,281
+This moment that I spend working in so forth.
+
+192
+00:19:25,160 --> 00:19:27,001
+That's how I make contact.
+
+193
+00:19:27,001 --> 00:19:33,801
+Well, the question is, sort of, how wide is the sense of the present?
+
+194
+00:19:34,441 --> 00:19:36,440
+And in what sense is it?
+
+195
+00:19:37,801 --> 00:19:41,160
+I think that that's very hard to figure out.
+
+196
+00:19:41,801 --> 00:19:51,640
+Here I am working at my table, as he says, and night is coming on, and I sense the time is passing.
+
+197
+00:19:51,640 --> 00:19:54,200
+What sort of experience is that?
+
+198
+00:19:54,360 --> 00:19:55,240
+Is it physique?
+
+199
+00:19:55,400 --> 00:19:57,080
+In what sense is it mine?
+
+200
+00:19:57,400 --> 00:20:02,361
+In what sense is it, and what is the widest kind of presence?
+
+201
+00:20:02,360 --> 00:20:07,400
+Well, now he starts to try to tell you things about that, which are very interesting.
+
+202
+00:20:07,721 --> 00:20:14,600
+That there is this past, and there is this my presence and my life and so forth.
+
+203
+00:20:14,600 --> 00:20:20,360
+And finally, I think it gets really interesting about 12 lines down in that paragraph.
+
+204
+00:20:22,120 --> 00:20:26,761
+Everything therefore causes me to revert to the field of presence.
+
+205
+00:20:27,160 --> 00:20:28,680
+Already keep your eye open.
+
+206
+00:20:28,681 --> 00:20:32,120
+Is it my field of presence or the field of presence?
+
+207
+00:20:32,120 --> 00:20:34,200
+What do you think about temporality?
+
+208
+00:20:34,201 --> 00:20:37,480
+Is it your field of presence or is it our field of presence?
+
+209
+00:20:38,080 --> 00:20:39,241
+It's so confusing.
+
+210
+00:20:40,281 --> 00:20:51,521
+So everything causes me to revert to the field of presence, that's what I think say, as the primary experience in which time and its dimensions make their appearance analloy with no intervening distance.
+
+211
+00:20:51,521 --> 00:20:53,120
+That's very important.
+
+212
+00:20:53,120 --> 00:20:57,521
+That means that I am directly at the past and at the future.
+
+213
+00:20:57,521 --> 00:21:03,120
+It's not something that I get at through something else.
+
+214
+00:21:03,441 --> 00:21:05,120
+And this is Heidegger.
+
+215
+00:21:06,241 --> 00:21:08,240
+When I think about the, not think about it.
+
+216
+00:21:08,560 --> 00:21:13,041
+If you remember the past, the dictionary past, you have to do it by representation.
+
+217
+00:21:13,041 --> 00:21:20,640
+But if you just turn your mind towards the Freiburg Bridge, as Heidegger says, you can be directly at the Freiburg Bridge now.
+
+218
+00:21:20,640 --> 00:21:23,920
+You could be directly at the Freiburg Bridge yesterday.
+
+219
+00:21:24,640 --> 00:21:28,560
+You have direct access to the past and the future.
+
+220
+00:21:28,560 --> 00:21:30,720
+That seems right, too, about the phenomenon.
+
+221
+00:21:30,721 --> 00:21:37,600
+It seems to me I have a direct access to having been in my office before I ran over here.
+
+222
+00:21:37,600 --> 00:21:41,440
+I don't need to get it through anything else.
+
+223
+00:21:41,761 --> 00:21:45,521
+But you can see how hard that is to believe that.
+
+224
+00:21:45,521 --> 00:22:02,320
+But it's equally hard to believe that all I've got access to is something, some kind of present, what weird sort of present, I don't know, and something that's privately mine, out of which I somehow get the shared time and a past and future time.
+
+225
+00:22:02,640 --> 00:22:08,240
+One of the clearest ways, I'm just still thinking this out, so I have to keep saying it as I think about it.
+
+226
+00:22:08,241 --> 00:22:29,001
+One of the clearest ways to see that something must be going wrong is if you realize that both Heidegger and Meryloponte, when he's getting it right, understand that there's no problem about how my world is related to the world.
+
+227
+00:22:29,001 --> 00:22:30,120
+Remember that.
+
+228
+00:22:30,120 --> 00:22:34,840
+We open on a shared world from a perspective.
+
+229
+00:22:34,840 --> 00:22:37,400
+But it's a shared world.
+
+230
+00:22:37,721 --> 00:22:39,880
+And it's a big mistake.
+
+231
+00:22:40,041 --> 00:22:42,200
+You can tell you're in reference.
+
+232
+00:22:42,201 --> 00:22:48,360
+You know, you have lost it when you start worrying about how you get from my world to the world.
+
+233
+00:22:49,001 --> 00:22:55,880
+And yet, Merloponty constantly seems to sort of box himself into my time.
+
+234
+00:22:57,481 --> 00:23:02,041
+And that's going to get him into serious trouble, I think.
+
+235
+00:23:03,320 --> 00:23:05,401
+It's just not the phenomenon.
+
+236
+00:23:06,041 --> 00:23:07,320
+I can't tell you something.
+
+237
+00:23:07,481 --> 00:23:11,640
+Look around and think of the feel time passing.
+
+238
+00:23:11,640 --> 00:23:14,680
+It's not your time or my time that's passing.
+
+239
+00:23:14,681 --> 00:23:17,080
+It's some kind of shared time that's passing.
+
+240
+00:23:17,080 --> 00:23:23,960
+And it's not passing an event that all we've got is the present, and the past and the future are gone.
+
+241
+00:23:23,961 --> 00:23:35,400
+Then there's just a kind of transformation taking place where something, where the whole thing, if he says that he's getting it right, the whole thing as a whole budgets all the time.
+
+242
+00:23:35,400 --> 00:23:51,001
+There's the constant shifting around of what is the present, where the present is just the perspective on the past and the future.
+
+243
+00:23:51,001 --> 00:23:52,920
+Or is it your perspective on it?
+
+244
+00:23:52,920 --> 00:23:54,680
+All it is so weird.
+
+245
+00:23:54,681 --> 00:23:55,001
+Yeah.
+
+246
+00:23:58,920 --> 00:23:59,481
+Yes.
+
+247
+00:23:59,481 --> 00:23:59,881
+Okay.
+
+248
+00:24:00,120 --> 00:24:01,560
+We're going to jump all over the place.
+
+249
+00:24:01,560 --> 00:24:06,200
+I can see that, but I can't resist it because I'm s still sort of so much inside it.
+
+250
+00:24:06,201 --> 00:24:09,160
+That would already determine something crucial.
+
+251
+00:24:09,481 --> 00:24:14,801
+If you ask, what is the present, and you say it's the past.
+
+252
+00:24:14,801 --> 00:24:23,120
+Now I'm giving a lecture, or now we're in the last week of the semester, or whatever, you're talking like Heidegger.
+
+253
+00:24:23,120 --> 00:24:26,080
+You're talking the way Merlot-Ponty sometimes talks.
+
+254
+00:24:26,080 --> 00:24:31,441
+And then the present turns out to be this expandable thing in the widest sense.
+
+255
+00:24:31,441 --> 00:24:36,480
+The present might be now we're in the 21st century.
+
+256
+00:24:37,360 --> 00:24:45,521
+Once you start making it relative to what you're interested in and what you're doing, the present stretches into past and future.
+
+257
+00:24:45,521 --> 00:24:46,801
+And it's also shared.
+
+258
+00:24:47,041 --> 00:24:48,881
+It's our task, it's shared.
+
+259
+00:24:48,880 --> 00:24:53,440
+So now we're having a lecture in the Heidegger course.
+
+260
+00:24:53,441 --> 00:24:55,600
+That's the present, I think.
+
+261
+00:24:55,600 --> 00:25:06,001
+But you'll find Husserl and Merlot-Ponty getting into the idea that somehow the present is the task is irrelevant.
+
+262
+00:25:06,001 --> 00:25:28,240
+Then what you've got, and he doesn't work it out very much because he shouldn't, but he buys it if he buys Husserl, that there is something like the specious present, some conscious, lived, more real moment in which things are passing out of into the past and other events are coming into out of the future.
+
+263
+00:25:28,241 --> 00:25:32,880
+But this lived present isn't a knife-edge present.
+
+264
+00:25:32,880 --> 00:25:34,080
+It's a present.
+
+265
+00:25:34,080 --> 00:25:38,560
+I think it's an incoherent notion, but it's a present according to William James and Husserl.
+
+266
+00:25:38,640 --> 00:25:45,521
+It has a little bit of an echo of something in it and a little bit of a beginning of something in it, but it's not task relevant.
+
+267
+00:25:45,241 --> 00:26:06,281
+Uh so you that's a tremendously important question, whether you're going to define the now and what's present in terms of your task, your engagement, your involvement, which you expect a a high degree of Merlot Ponty to do, or in terms of some kind of reflective inner, which is I think what Husserl does.
+
+268
+00:26:06,281 --> 00:26:11,400
+And then you've got Marilla Ponty, who I think is cracking up over it.
+
+269
+00:26:11,400 --> 00:26:11,960
+Yeah.
+
+270
+00:26:12,600 --> 00:26:13,560
+I thought you had your hand up.
+
+271
+00:26:13,721 --> 00:26:15,400
+Oh, Mitch had his hand up.
+
+272
+00:26:15,400 --> 00:26:24,921
+Well, I was wondering is if there's some sensible way of understanding my time in financial distributed space, where there's a similar problem of my space and the space.
+
+273
+00:26:25,241 --> 00:26:30,120
+Well, basically I want to get away from the idea that it's completely incoherent, that there's my time.
+
+274
+00:26:30,120 --> 00:26:43,240
+I mean, there's a sense in which when I'm you know, when you do you talk about flow a lot, I guess it's related to this idea of kind of that when you're engaged in the flow of sport that time happens Well, I think you're right.
+
+275
+00:26:43,241 --> 00:26:50,041
+See, remember I said too, I think there are really two different or something like just don't think I understand this.
+
+276
+00:26:50,041 --> 00:26:51,560
+This is just too complicated.
+
+277
+00:26:51,560 --> 00:26:59,560
+I hope somebody understands it better and writes a paper on it, but but I think there are two different aspects to temporarily or approaches to temporality.
+
+278
+00:26:59,880 --> 00:27:06,200
+If you try to describe what it's like to be fully engaged in a task, you'll get one description of temporality.
+
+279
+00:27:06,201 --> 00:27:23,240
+But we also can sit back and reflect or listen to a a familiar melody and have a kind of inner temporal experience in which the something that's coming along comes along in its full presence and then goes out into the dim past.
+
+280
+00:27:23,241 --> 00:27:24,281
+And that's true too.
+
+281
+00:27:24,281 --> 00:27:25,560
+That's what I'm trying to say to you.
+
+282
+00:27:25,560 --> 00:27:32,680
+There is a sense in which we do experience our own flow of time in our own inner sense.
+
+283
+00:27:32,681 --> 00:27:36,041
+And now it it and how can they both be right?
+
+284
+00:27:36,041 --> 00:27:38,840
+Well, now we get really hard.
+
+285
+00:27:38,840 --> 00:27:41,801
+That's no that's why I think it's so confusing.
+
+286
+00:27:42,241 --> 00:28:00,560
+I think they're both right if you realize that the engaged one is somehow again prior and founding, and that what you get when you reflect on the inner flow of time is a kind of oh what?
+
+287
+00:28:00,560 --> 00:28:01,840
+I don't know what it is.
+
+288
+00:28:01,840 --> 00:28:06,481
+It's uh let me see if I had a word for it though.
+
+289
+00:28:06,481 --> 00:28:08,801
+Well, it's derivative.
+
+290
+00:28:08,801 --> 00:28:10,560
+It's not a discovery.
+
+291
+00:28:11,120 --> 00:28:31,120
+When you find time in your inner experience and it's flow in a task-free way, what you it's something you can experience on reflection, but you couldn't think that that's the basic stuff out of which you have to constitute fair time, fair path, and so forth.
+
+292
+00:28:31,120 --> 00:28:40,481
+And the basic thing I want to say is you have to realize that when you reflect on time like that, which is I think how Isler did it, you distort it.
+
+293
+00:28:40,481 --> 00:28:42,001
+You don't discover it.
+
+294
+00:28:42,160 --> 00:28:46,320
+That would be the Heidegger, I think, in our little Funcy intuition.
+
+295
+00:28:46,320 --> 00:28:50,801
+But again, and maybe the chapter says all this, but if it does, I couldn't find it.
+
+296
+00:28:50,801 --> 00:28:53,360
+It seems to say, in fact, all sorts of other things.
+
+297
+00:28:53,360 --> 00:28:55,920
+I don't see that how you can do that.
+
+298
+00:28:58,481 --> 00:29:00,401
+You see what it does for a time.
+
+299
+00:29:00,721 --> 00:29:11,681
+When he says, when he says, when he describes Husserl's view, he doesn't explicitly by leaving it to the notion of past controls and engagement.
+
+300
+00:29:11,681 --> 00:29:12,161
+He does.
+
+301
+00:29:12,160 --> 00:29:14,481
+Yeah, well, in my case, force explains.
+
+302
+00:29:14,481 --> 00:29:15,680
+Because Husserl doesn't.
+
+303
+00:29:16,400 --> 00:29:21,840
+Well, if he does, I mean trying to best understand your 483.
+
+304
+00:29:22,160 --> 00:29:27,480
+He writes, um present it doesn't expel, this doesn't report his first vibe.
+
+305
+00:29:27,560 --> 00:29:28,441
+I see where you are.
+
+306
+00:29:26,640 --> 00:29:30,041
+Present itself in Nero Sands.
+
+307
+00:29:26,721 --> 00:29:33,161
+I'll tell you, we've got six lines from the bottom of 483.
+
+308
+00:29:33,640 --> 00:29:35,960
+I don't understand how to get indeed there.
+
+309
+00:29:36,840 --> 00:29:39,961
+Yeah, that's Merylofonte talking in his own person.
+
+310
+00:29:39,961 --> 00:29:43,560
+I do not so much perceive objects as recognizable in the binary.
+
+311
+00:29:43,560 --> 00:29:44,600
+That's Merlot Fonte.
+
+312
+00:29:44,761 --> 00:29:50,281
+I see tools, I think important tools in an admin past rather than confronted it.
+
+313
+00:29:50,281 --> 00:29:50,521
+Right.
+
+314
+00:29:50,840 --> 00:29:56,361
+And then he explicates Christo's idea as an alternative pattern.
+
+315
+00:29:56,360 --> 00:29:57,160
+Yes, he does.
+
+316
+00:29:57,160 --> 00:29:58,921
+I think that's just wrong.
+
+317
+00:29:58,920 --> 00:29:59,881
+I mean, that's wrong.
+
+318
+00:30:01,400 --> 00:30:03,640
+Maybe it's a mistake in the representation of Christo, right?
+
+319
+00:30:03,721 --> 00:30:13,240
+Yes, if that's the way he's interpreting this, then evidence that he's endorsing Christo is not evidence that very data passwords.
+
+320
+00:30:13,400 --> 00:30:13,721
+Okay.
+
+321
+00:30:13,721 --> 00:30:23,640
+And moreover, let me just say that maybe there's a way of, like, when he contrasted the task or the conception of future and past involved.
+
+322
+00:30:23,721 --> 00:30:25,320
+Yeah, there's a name for it clear at the end.
+
+323
+00:30:25,320 --> 00:30:25,560
+Yes.
+
+324
+00:30:26,041 --> 00:30:30,041
+With the miscalculation, which is the conception of future present.
+
+325
+00:30:30,521 --> 00:30:35,721
+I don't see is the evidence that Robinson was attracted to that miscalculated speech of present.
+
+326
+00:30:36,120 --> 00:30:37,721
+People say, again, I understand.
+
+327
+00:30:37,721 --> 00:30:44,521
+It's got to do with saying, every once in a while, frequently, he says, my present.
+
+328
+00:30:44,840 --> 00:30:50,600
+And then it, and it sounds sometimes like neurology can be expanded.
+
+329
+00:30:50,600 --> 00:30:56,201
+Maybe it always, okay, don't, I mean, the important thing is to keep your eye on the phenomenon.
+
+330
+00:30:56,201 --> 00:30:59,160
+And it is true that what he does is mess.
+
+331
+00:30:59,481 --> 00:31:12,320
+Not only is it complicated because I think there is a Husserl tendency in it, that he's reading Husserl in an entirely different way, I think, the lectures on inner time consciousness.
+
+332
+00:31:11,640 --> 00:31:13,521
+That's what they're called.
+
+333
+00:31:13,840 --> 00:31:20,080
+But he's doing it in a Heideggerian, he's reading Husserl in a Heideggerian way, and that's fine.
+
+334
+00:31:20,080 --> 00:31:37,120
+So now the question becomes much subtler, as Ali Reidman says: is he got it, has he making a coherent position, taking Husserl over and reading him in a Heideggerian way, or is he taking, swallowing something which will mix him up in the end?
+
+335
+00:31:37,120 --> 00:31:38,080
+I'm not sure.
+
+336
+00:31:38,080 --> 00:31:51,360
+But one thing is sure, he's trying to take Husserl into a task-oriented thing, and at the very end of the chapter, as if he suddenly remembered it, he tries to say that we live in shared time.
+
+337
+00:31:51,360 --> 00:31:54,001
+He only says it once, I think, in the whole chapter.
+
+338
+00:31:54,001 --> 00:32:02,080
+You'd think it would be one of the most obvious phenomena you would have to deal with, that my time is your time and that there's only one time and you're all in it.
+
+339
+00:32:02,080 --> 00:32:03,441
+But he doesn't.
+
+340
+00:32:03,441 --> 00:32:12,001
+And I think that's a sign that though he tried to take over Husserl into Heidegger, he didn't succeed.
+
+341
+00:32:12,001 --> 00:32:15,521
+Because if he succeeded, then there would be just one time.
+
+342
+00:32:15,681 --> 00:32:20,641
+Heidegger, it's clear that it's just one temporality we've all got.
+
+343
+00:32:20,640 --> 00:32:27,121
+It's called within kindness, where we all live together and have tasked together.
+
+344
+00:32:27,120 --> 00:32:36,560
+There is a place, just I might as well say it because of the thick and because of the shared, right at the end of the chapter, to my amazement, because I was thinking he's never going to get it.
+
+345
+00:32:36,560 --> 00:32:48,400
+At the very end of 503, that's about four eyes and the bottom that the root of all problems with transcendence is to be fought in the thickness of the pre-objective presence, which we can.
+
+346
+00:32:48,640 --> 00:32:53,200
+Is that what he's going to talk about when you're woven?
+
+347
+00:32:54,161 --> 00:32:54,560
+No?
+
+348
+00:32:54,560 --> 00:32:56,200
+Wait, he must be here somewhere though.
+
+349
+00:32:55,600 --> 00:33:01,161
+I could have sworn there's a line very near here about the interweaving.
+
+350
+00:32:56,560 --> 00:33:05,001
+Oh, yeah, there it is, about 15 lines from the bottom.
+
+351
+00:33:05,001 --> 00:33:06,921
+Well, let's read this, where it ends up.
+
+352
+00:33:06,920 --> 00:33:09,801
+It'll help us know where we're going.
+
+353
+00:33:09,801 --> 00:33:24,521
+The two temporalities are not mutually closed of our two conscious consciousness because each one knows itself only by projecting itself into the present, where they can interweave.
+
+354
+00:33:24,521 --> 00:33:26,281
+That's not my present there.
+
+355
+00:33:26,600 --> 00:33:27,721
+That's important.
+
+356
+00:33:27,721 --> 00:33:29,400
+There is a the present.
+
+357
+00:33:29,400 --> 00:33:31,401
+How does that relate to the my present?
+
+358
+00:33:31,400 --> 00:33:32,840
+Well, I wish we knew.
+
+359
+00:33:32,840 --> 00:33:43,641
+As my living present opens upon a past which I nevertheless am no longer living through, and on a future which I do not yet live.
+
+360
+00:33:43,960 --> 00:33:50,520
+Now, that sounds sort of like a living streaming feature present to me.
+
+361
+00:33:50,520 --> 00:33:56,681
+Because if you could really open on a past the way Heidegger thinks you can, you're still living through it.
+
+362
+00:33:56,681 --> 00:33:59,641
+Your past even goes ahead of you, Heidegger says.
+
+363
+00:33:59,641 --> 00:34:08,840
+You can change your past according to Heidegger and according to Nero Ponte, because that's his retroactive reinterpretation when something goes wrong.
+
+364
+00:34:08,840 --> 00:34:11,560
+Yet he sees too much in his present there.
+
+365
+00:34:11,561 --> 00:34:12,520
+But let's go on.
+
+366
+00:34:12,520 --> 00:34:22,600
+Perhaps never shall I be open, and on a future which I know not yet living, perhaps never shall, I can also open onto the temporality outside my living experience.
+
+367
+00:34:22,601 --> 00:34:23,401
+See that?
+
+368
+00:34:23,400 --> 00:34:50,801
+That doesn't make it seem shared in past relative and quarrel horizon, with the result that my world is expanded into the, when you start with my world, my hair stands on it, but my world, there's no such phrase allowable, is expanded into the dimensions of that collective history which my private existence, private, takes up and carries forward.
+
+369
+00:34:50,801 --> 00:34:54,721
+I swear he's been challenged inclusive and been possessed.
+
+370
+00:34:54,721 --> 00:35:00,640
+The solution of all problems of transcendence is to be thought in the fitness of the pre-objective present, right?
+
+371
+00:35:00,960 --> 00:35:12,801
+And the fitness of the pre-objective present includes you guys, the task I'm involved in, the future that I am already directly confronting, the past which I'm also directly confronting.
+
+372
+00:35:12,801 --> 00:35:20,481
+But he says the fitness of yah, in which we find our bodily being, our social being, and the pre-existence of the world.
+
+373
+00:35:20,480 --> 00:35:21,201
+Good.
+
+374
+00:35:21,201 --> 00:35:33,920
+So if you can get all the thes and mys, the private and the public, together, as they are in that sentence, in a coherent way, you get an A plus, and I will take over your view.
+
+375
+00:35:34,081 --> 00:35:34,961
+Okay, yeah.
+
+376
+00:35:40,161 --> 00:35:43,040
+This totally could be so other souls.
+
+377
+00:35:44,721 --> 00:35:48,320
+But it seems to be like a perfectly easy solution.
+
+378
+00:35:48,721 --> 00:35:54,080
+It was the way I was going to a shared world.
+
+379
+00:35:54,081 --> 00:35:56,000
+And Robert Honje didn't seem to take it.
+
+380
+00:35:56,000 --> 00:35:58,400
+He seems to have said very difficult words.
+
+381
+00:35:58,400 --> 00:35:59,440
+Do you think that's a solution?
+
+382
+00:36:00,000 --> 00:36:01,120
+I missed the beginning.
+
+383
+00:36:01,121 --> 00:36:03,440
+Where was this other one in the central level?
+
+384
+00:36:03,520 --> 00:36:04,560
+Oh, the other cells chapter.
+
+385
+00:36:04,561 --> 00:36:05,761
+Yes, they're not a physical Christian.
+
+386
+00:36:06,960 --> 00:36:08,320
+Okay, yes, you're right.
+
+387
+00:36:08,480 --> 00:36:09,761
+I mean, I don't get it.
+
+388
+00:36:09,761 --> 00:36:13,760
+Whenever he does that, and then I don't want to assign a chapter, that's what happens.
+
+389
+00:36:13,761 --> 00:36:18,000
+But then it always seems when he does that that he's come out.
+
+390
+00:36:18,400 --> 00:36:21,761
+I just want you to understand where I'm coming from, and then you come from wherever you want.
+
+391
+00:36:21,761 --> 00:36:23,360
+You'll have something to disagree with.
+
+392
+00:36:23,681 --> 00:36:59,961
+Whenever he talks about, like, talks like that, as if there's a big problem of other minds or a problem of a shared world, it looks to me like he's come out of the sh normal experience of our shared culturing and a shared world as we're completely engaged, which ought to be the phenomenon he's describing, to some product of some kind of reflection in which he's now got a problem about how my world is related to the world, and then he has to solve it and no solves it somehow by waving his hands a lot and lots of metaphors until we're back in a shared world again.
+
+393
+00:36:59,960 --> 00:37:01,400
+That's the best I could do with it.
+
+394
+00:37:01,400 --> 00:37:09,320
+All of it is especially at Olivia Count, because I figure that if anybody can save this evening, go ahead.
+
+395
+00:37:12,360 --> 00:37:18,600
+What he tries to discuss is the access we have to the phenomenon.
+
+396
+00:37:20,121 --> 00:37:22,921
+You don't have to consider it as obvious.
+
+397
+00:37:24,121 --> 00:37:31,480
+You sort of have to have this naive look on what happens again, which doesn't mean that you have a good the reflective perspective of what happens first.
+
+398
+00:37:31,801 --> 00:37:52,681
+Second, I think that in direct relation to this, for the truth, for the concern, there's no problem of how you can go from my time to the time, because of course my time, the the time is mine, but because what it takes from the sort is the fact that consciousness is itself the flow of time.
+
+399
+00:37:52,681 --> 00:38:01,801
+So you're not sort of watching the time passing, you're living your own life is the time as it passes you.
+
+400
+00:38:01,801 --> 00:38:04,360
+There's no possibility for you to reflect upon it.
+
+401
+00:38:04,360 --> 00:38:05,641
+It constitutes later on.
+
+402
+00:38:05,801 --> 00:38:06,600
+That's true.
+
+403
+00:38:06,601 --> 00:38:08,921
+Reflection is the wrong word.
+
+404
+00:38:08,920 --> 00:38:11,921
+But but I happen to have a new word, though.
+
+405
+00:38:11,561 --> 00:38:15,840
+It's a kind, you could have a kind of disengaged time in which you are.
+
+406
+00:38:17,281 --> 00:38:20,000
+It's what constitutes the subject.
+
+407
+00:38:22,801 --> 00:38:24,000
+I think you're right about that too.
+
+408
+00:38:24,000 --> 00:38:25,280
+Let me think about that.
+
+409
+00:38:25,601 --> 00:38:26,000
+So.
+
+410
+00:38:26,641 --> 00:38:30,640
+Distinct Moyen talks about the time as transition synthesis.
+
+411
+00:38:32,161 --> 00:38:35,920
+Yes, but this is these are the passage running on now.
+
+412
+00:38:36,161 --> 00:38:45,360
+And the thing he's putting forward and the way he's interpreting User is that he relates the three horizons of time to the fact that we're embedded in the world.
+
+413
+00:38:45,360 --> 00:38:50,721
+Because there's Uso says that you have the present and the past and the future in the consciousness.
+
+414
+00:38:50,721 --> 00:38:57,041
+And then you have perspective and perceptive or perceptual horizons in the world.
+
+415
+00:38:57,040 --> 00:38:59,840
+And so Belgon's is the same.
+
+416
+00:39:00,880 --> 00:39:06,641
+So the horizons of the world are the horizons of the actions that you might want to perform.
+
+417
+00:39:06,641 --> 00:39:08,880
+Yeah, well, I totally agree with that.
+
+418
+00:39:09,440 --> 00:39:14,801
+So this is still always your world and your time because it's what you're doing.
+
+419
+00:39:14,801 --> 00:39:20,801
+Even if it's at the same time as, say, you're listening to me this whole time, but I'm talking.
+
+420
+00:39:20,801 --> 00:39:22,081
+So my time I'm talking...
+
+421
+00:39:22,241 --> 00:39:25,120
+Suppose it's something we are doing, like having a conversation.
+
+422
+00:39:25,121 --> 00:39:26,480
+Whose time is that?
+
+423
+00:39:27,121 --> 00:39:31,121
+Well, the access I have to the conversation is from my time.
+
+424
+00:39:31,121 --> 00:39:34,400
+And yeah, as long as one doesn't sort of reify the time, it's like the house.
+
+425
+00:39:34,400 --> 00:39:40,880
+And the access they have to the house is not to something special called the front or the outshot to them.
+
+426
+00:39:43,040 --> 00:39:43,920
+You always have a perspective on it.
+
+427
+00:39:44,081 --> 00:39:46,480
+Otherwise, it wouldn't be tasked.
+
+428
+00:39:46,721 --> 00:39:51,120
+But it's always a shared house, and it's all present at once.
+
+429
+00:39:51,121 --> 00:39:51,600
+So true.
+
+430
+00:39:54,161 --> 00:39:56,680
+Okay, well, here, let me say more about this.
+
+431
+00:39:56,400 --> 00:39:58,761
+It's who the Husserl certainly wants.
+
+432
+00:39:59,081 --> 00:40:07,400
+See, there are too many things happening at once, and we probably shouldn't be worrying about Husserl for a minute, because he really does Husserl.
+
+433
+00:40:07,400 --> 00:40:15,721
+Husserl doesn't bring in the pragmatic structure of shared time.
+
+434
+00:40:15,721 --> 00:40:23,001
+And he gets out of it something like the living streaming present, which is the speech is present.
+
+435
+00:40:23,000 --> 00:40:26,840
+And Merrill-Ponty should have no faith for the speeches present.
+
+436
+00:40:26,840 --> 00:40:50,681
+And now the violin says about Husserl is he says he was pressing time from within it, but he's getting a description of time, which is the kind of description you would only get if you weren't fully engaged in it, because you feel that you experience, I don't know how long, a little speech is present that has in it all sorts of, let's look at the diagram.
+
+437
+00:40:50,681 --> 00:40:57,400
+The diagram, Merrill-Ponty turns the diagram into something that he wants to say.
+
+438
+00:40:57,480 --> 00:40:59,880
+That's fine, but do you understand the diagram?
+
+439
+00:40:59,960 --> 00:41:01,481
+Let's just go into it.
+
+440
+00:41:01,480 --> 00:41:29,961
+The diagram says that it's like boxes, it boxes in boxes, is the way I think about it, that your present experience is the experience of something that was just before that, a future experience, which contains in it already an experience before that, which is not yet come, which is the future of that future.
+
+441
+00:41:29,960 --> 00:41:36,360
+And of course, that contains within it an experience which hasn't come, which is the future of the future of that future, and so forth.
+
+442
+00:41:36,360 --> 00:41:42,000
+And then they unbox, that one of them becomes present, and then they start going into the past boxes.
+
+443
+00:41:42,161 --> 00:41:52,160
+Then there is the just present but now past, and beyond that, the just present but now past, which is further past, and beyond that, the just present and now past with further past.
+
+444
+00:41:52,161 --> 00:41:54,961
+Now, surely there's something right about that.
+
+445
+00:41:54,960 --> 00:42:07,840
+But it certainly doesn't seem to get the picture of what it is when you're involved in sort of in direct contact with the future and past in an engaged, shared, or even individual project.
+
+446
+00:42:07,840 --> 00:42:09,600
+Let me just read you.
+
+447
+00:42:09,601 --> 00:42:09,920
+What?
+
+448
+00:42:11,040 --> 00:42:12,080
+Why doesn't it get that?
+
+449
+00:42:12,480 --> 00:42:21,840
+Oh, because it's assumed that what's real is a very small bit of time, namely.
+
+450
+00:42:21,840 --> 00:42:22,880
+Now, it's not here.
+
+451
+00:42:22,880 --> 00:42:23,360
+I know you said.
+
+452
+00:42:26,641 --> 00:42:28,880
+He's got this living, screaming present, which is all.
+
+453
+00:42:34,081 --> 00:42:36,400
+Yes, yes, well, I'm not disagreeing.
+
+454
+00:42:36,880 --> 00:42:40,640
+I don't know whether we want to talk about Husserl, which I just did.
+
+455
+00:42:40,641 --> 00:42:42,880
+And now you tell me what Merrill-Ponty is saying.
+
+456
+00:42:42,880 --> 00:42:51,440
+Merrill-Ponty has completely taken over the Husserl story and made it into what is almost right.
+
+457
+00:42:51,440 --> 00:42:52,400
+That's what Elva said.
+
+458
+00:42:52,721 --> 00:43:04,001
+If you could picture the whole world as gradually things are getting clearer and more determinate, and then they're very determinate, and then they're getting more indeterminate.
+
+459
+00:43:05,281 --> 00:43:19,760
+There's no slice in there called the specious present, in which for a moment the very determinate something is there, and everything else is there only by virtue of syntheses and so forth.
+
+460
+00:43:19,761 --> 00:43:23,761
+It never in engaged experience is like that.
+
+461
+00:43:23,761 --> 00:43:26,320
+I suspect you can get yourself into an experience like that.
+
+462
+00:43:26,320 --> 00:43:27,801
+I'm not even sure you ever can.
+
+463
+00:43:27,801 --> 00:43:28,360
+I don't know.
+
+464
+00:43:26,721 --> 00:43:33,721
+The nearest you can that I can think of would be listening to a melody that you already knew.
+
+465
+00:43:34,040 --> 00:43:43,481
+When you listen to a melody that you already know, you know that the future notes are already determinate and then sort of boxed there and they'll get unboxed till you hear that note.
+
+466
+00:43:43,480 --> 00:43:48,041
+And then that note will be a note that you already heard and moved more and more boxed into the past.
+
+467
+00:43:48,040 --> 00:43:54,840
+Well, I think it's no coincidence that Husserl writes the whole of internal time consciousness analyzing a melody.
+
+468
+00:43:54,840 --> 00:43:58,281
+Not a task, not something you're engaged with.
+
+469
+00:43:58,281 --> 00:44:01,160
+And then you get this phenomenon, which Husserl describes.
+
+470
+00:44:01,161 --> 00:44:06,440
+Now, it's complicated, and that's what Alvis says, but he never says anything here about speeches present.
+
+471
+00:44:06,440 --> 00:44:09,080
+He never says anything here about melody, you marvel on T.
+
+472
+00:44:09,400 --> 00:44:19,081
+That's right, because he's taking over the Husserl story into his own story, which could be right.
+
+473
+00:44:19,641 --> 00:44:28,761
+If it was a story about how the whole world transformed itself, always in a kind of flow from past to present to future.
+
+474
+00:44:28,761 --> 00:44:37,640
+Then you'd get the same kind of box, unboxed story, but it wouldn't be unboxed into a speech's present.
+
+475
+00:44:38,121 --> 00:44:39,561
+That would be the difference.
+
+476
+00:44:39,561 --> 00:44:46,681
+It would be unboxed as just the constantly changing perspective on everything.
+
+477
+00:44:46,681 --> 00:44:50,360
+And Husserl could be turned into that.
+
+478
+00:44:50,360 --> 00:45:00,520
+Let me just read you, by the way, where he goes through this diagram in a sentence or two, the way I just wish, so you can find it for your own self.
+
+479
+00:44:59,920 --> 00:45:02,961
+Well, I thought I might.
+
+480
+00:45:03,360 --> 00:45:06,960
+It actually tells the story 484, huh?
+
+481
+00:45:07,721 --> 00:45:08,281
+Maybe.
+
+482
+00:45:09,880 --> 00:45:10,760
+When?
+
+483
+00:45:10,840 --> 00:45:13,040
+Well, 9484.
+
+484
+00:45:13,201 --> 00:45:14,000
+484.
+
+485
+00:45:14,000 --> 00:45:15,200
+I thought it was much later.
+
+486
+00:45:15,440 --> 00:45:16,641
+And I miswrote down.
+
+487
+00:45:11,561 --> 00:45:18,080
+Well, 484 is the diagram.
+
+488
+00:45:18,400 --> 00:45:22,161
+Much later, it does tell you the diagram in the way I just said.
+
+489
+00:45:22,480 --> 00:45:23,440
+Anybody know that?
+
+490
+00:45:24,561 --> 00:45:27,121
+Yes, no, much later.
+
+491
+00:45:28,400 --> 00:45:32,481
+I think I remember next week.
+
+492
+00:45:33,121 --> 00:45:34,961
+41870, maybe.
+
+493
+00:45:35,281 --> 00:45:36,960
+487?
+
+494
+00:45:37,281 --> 00:45:38,401
+Maybe.
+
+495
+00:45:38,721 --> 00:45:43,200
+No, but it doesn't matter because it just does what I said.
+
+496
+00:45:43,201 --> 00:45:44,960
+I mean, and that's what Husserl says.
+
+497
+00:45:44,960 --> 00:45:52,241
+And if you hear it a certain way, it's perfectly compatible with what Heidegger says and with phenomena and what Merrill-Ponty says.
+
+498
+00:45:52,241 --> 00:45:55,761
+So let's try to hear it that way and see how far we can get.
+
+499
+00:45:56,641 --> 00:46:02,960
+By the way, I have to stop and have a kind of moment of outrage about the translation.
+
+500
+00:46:03,281 --> 00:46:09,121
+And that is, I meant to tell you last time, it's not only a question of outrage, but an apology.
+
+501
+00:46:09,121 --> 00:46:15,921
+The translation is so totally wrong that it makes it sort of 20% harder to understand it.
+
+502
+00:46:15,920 --> 00:46:20,400
+And I intended to tell you, and then we got so involved in my diagram that I did.
+
+503
+00:46:20,400 --> 00:46:24,081
+The big mistake happens at the bottom of 483.
+
+504
+00:46:24,400 --> 00:46:26,000
+And it's hard to believe.
+
+505
+00:46:26,000 --> 00:46:28,000
+I thought it was just dyslexia.
+
+506
+00:46:28,000 --> 00:46:32,241
+The Husserl terms are not protections and retention.
+
+507
+00:46:32,241 --> 00:46:33,761
+Can you imagine?
+
+508
+00:46:33,761 --> 00:46:35,761
+And you could hardly see it.
+
+509
+00:46:35,761 --> 00:46:36,801
+It's so crazy.
+
+510
+00:46:36,801 --> 00:46:40,081
+But it's potentially.
+
+511
+00:46:40,081 --> 00:46:42,880
+That isn't in the original English translation.
+
+512
+00:46:42,880 --> 00:46:48,081
+It's a case of making it worse, but up to now they've just been little grammatical glitches making it worse.
+
+513
+00:46:48,081 --> 00:46:49,920
+This is a disaster of making it worse.
+
+514
+00:46:50,000 --> 00:46:55,680
+We actually change the translation slightly well because we've probably worked with, but they read out of the world.
+
+515
+00:46:56,681 --> 00:47:05,400
+The sentence you read on from the very, very end about the two is not quite rigid, but actually probably the older maybe.
+
+516
+00:47:05,960 --> 00:47:09,320
+Well, anyway, I'm going to, as soon as I get time, I've been too busy.
+
+517
+00:47:09,320 --> 00:47:23,241
+I'm going to call up the editor at Rutledge, and I'm going to tell him that they better fire this guy or woman, whoever this is, and they better not bring this out again until they get it fixed, or go back to the old one, which is generally that verbal.
+
+518
+00:47:23,241 --> 00:47:24,921
+But this is incredible.
+
+519
+00:47:24,920 --> 00:47:28,921
+And of course, it's not just once, where we get it made a global change.
+
+520
+00:47:28,920 --> 00:47:33,000
+It's always a protection, three lines down on the topic, 484.
+
+521
+00:47:33,320 --> 00:47:37,320
+But what's even more amazing is it isn't always a global change.
+
+522
+00:47:37,320 --> 00:47:41,001
+Fifteen lines down in 487, you've got protections.
+
+523
+00:47:41,000 --> 00:47:46,521
+So how this was done is beyond me, but I intend to get to the bottom of it and give you a report.
+
+524
+00:47:46,520 --> 00:47:51,960
+But for the time being, didn't it confuse you immensely to have protections and retentions?
+
+525
+00:47:51,960 --> 00:47:53,000
+I mean, what?
+
+526
+00:47:54,440 --> 00:47:55,240
+You just don't see it.
+
+527
+00:47:55,241 --> 00:47:59,481
+Well, if you read Ulsa, you don't see it, but they haven't, so they see it, I presume.
+
+528
+00:47:59,480 --> 00:48:00,840
+What did you think?
+
+529
+00:48:01,000 --> 00:48:02,920
+Anyway, I'm sorry.
+
+530
+00:48:03,641 --> 00:48:08,280
+And it just has to, you have to remember, I don't think there is a word protensions.
+
+531
+00:48:08,281 --> 00:48:08,600
+Is there?
+
+532
+00:48:08,601 --> 00:48:10,200
+I think us will make it up.
+
+533
+00:48:10,201 --> 00:48:17,721
+It's when we have a word retentions, and they come from what's already passed and what you're holding on to and retaining.
+
+534
+00:48:17,721 --> 00:48:24,041
+So whatever you're projecting and hasn't happened yet, ought to be a protension.
+
+535
+00:48:24,601 --> 00:48:26,281
+So we invent the word.
+
+536
+00:48:26,281 --> 00:48:28,360
+And then they undermine it.
+
+537
+00:48:29,000 --> 00:48:37,721
+Now, having said that, I was looking for the verbal version of the diagram, but I won't bother.
+
+538
+00:48:37,960 --> 00:48:51,760
+And certainly, it's important, as Olivia and Alva keep pointing out, that if you just don't know anything about Husserl and read this the way he wants to read it, you can fix it.
+
+539
+00:48:51,761 --> 00:48:56,001
+Notice the middle of 484 is a fascinating way to fix it.
+
+540
+00:48:56,320 --> 00:49:07,921
+I want to say that, and this is an issue I'm going to get to in a second, that he says in order to write about the diagram, in order to make it complete, the symmetrical perspectives of protections would have to be added.
+
+541
+00:49:07,920 --> 00:49:09,440
+Time is not aligned right now.
+
+542
+00:49:09,520 --> 00:49:10,481
+That's right.
+
+543
+00:49:10,480 --> 00:49:12,401
+And Husserl doesn't have them.
+
+544
+00:49:12,400 --> 00:49:14,641
+And he knows Husserl doesn't have them.
+
+545
+00:49:14,641 --> 00:49:18,400
+And the question is, why doesn't Husserl have the protensions?
+
+546
+00:49:18,400 --> 00:49:20,801
+And what would it do if you added them?
+
+547
+00:49:20,801 --> 00:49:23,200
+Well, I think that's really interesting.
+
+548
+00:49:23,201 --> 00:49:25,440
+And that's tied up with the house.
+
+549
+00:49:25,520 --> 00:49:29,760
+It's just as Husserl doesn't understand the backs of houses, he doesn't understand the future.
+
+550
+00:49:30,320 --> 00:49:36,481
+I think if I put it in upper colour republic, just use the transitional synthesis.
+
+551
+00:49:36,721 --> 00:49:44,400
+That's exactly the term citing Husserl that Mother Hans uses in the article, the privacy perception, when discussing the house example.
+
+552
+00:49:44,400 --> 00:50:05,201
+So he really wants us, whether or not, you know, the reading of this reading of Husserl, he really wants communications of, as it are, the analogous transitional sense that what's required to experience, I think this is related to my time, the buttons.
+
+553
+00:50:05,520 --> 00:50:16,001
+But what I would have said when you first started the challenge trying to reconcile that, he said part of it has to do with the dialectic of puzzlement.
+
+554
+00:50:16,000 --> 00:50:24,761
+So there is a a puzzle that needs to be s explained about the way in which the unseen part of the house is present half the room.
+
+555
+00:50:24,721 --> 00:50:32,040
+And so somehow, in order to indicate it is absent, you need to say something about the limitations of the perspective after room.
+
+556
+00:50:32,201 --> 00:50:45,080
+And I think that um in in the pharmacy of perception, what he what he initially says, he talks about a transitional synthesis, whereby the house of the whole is made available to one.
+
+557
+00:50:45,241 --> 00:50:47,241
+And that seems to be exactly here.
+
+558
+00:50:47,320 --> 00:50:49,721
+Well, I never see that pharmacy of perception.
+
+559
+00:50:49,721 --> 00:51:00,360
+I think it's a mistake on his part, if he does, to talk about, and he does make mistakes in that paper, the pharmacy of perception, because it's a kind of popular talk he's given.
+
+560
+00:51:01,000 --> 00:51:08,281
+The important thing, whatever words we use, the important thing is he wants to say that the back is present now.
+
+561
+00:51:08,281 --> 00:51:11,160
+Or I don't know that now is the right way to dial and complicate me.
+
+562
+00:51:11,880 --> 00:51:16,921
+When you're looking at the house from the front, the back is present.
+
+563
+00:51:16,920 --> 00:51:18,840
+The back is present now.
+
+564
+00:51:19,161 --> 00:51:20,280
+Now I want to say that.
+
+565
+00:51:20,281 --> 00:51:22,360
+When you're looking at the house from the front.
+
+566
+00:51:22,360 --> 00:51:27,561
+That's what you've got to have if you're going to do a Merlot-Ponty story about the house.
+
+567
+00:51:27,561 --> 00:51:42,120
+That means that you've got to be very careful and not think of time or objects as series of, say, reified perspectives, which somehow have to be together.
+
+568
+00:51:42,520 --> 00:51:43,880
+There's no spitting them together.
+
+569
+00:51:43,880 --> 00:51:47,401
+The house is given all at once from the front.
+
+570
+00:51:47,400 --> 00:51:52,121
+And time is given all at once from the present.
+
+571
+00:51:52,121 --> 00:52:03,481
+But the present isn't something you can sort of mark off and delineate because there is no sort of pure present.
+
+572
+00:52:03,480 --> 00:52:09,881
+There's just, there's the house from the perspective that you get when you see it from the front.
+
+573
+00:52:09,880 --> 00:52:18,320
+If you think the front is like a facade that you can sort of stitch the back onto, you're in the trouble of the girl on Telegraph Avenue again.
+
+574
+00:52:18,320 --> 00:52:33,200
+So now he rightly thinks that it's, you've got to understand the present, the way you understand the way that even the back of the house is present when you're seeing it from the front.
+
+575
+00:52:33,201 --> 00:52:35,761
+So let's read that, because I think that's very important.
+
+576
+00:52:35,761 --> 00:52:38,000
+That gives you the top of 483.
+
+577
+00:52:38,000 --> 00:52:44,240
+Remember, I said the crucial thing is that it's my field of presence in the widest end.
+
+578
+00:52:44,480 --> 00:52:50,241
+Now, I don't know about the mind, but the widest sense is what this is going to be about.
+
+579
+00:52:50,241 --> 00:53:02,320
+The widest sense is the way and the future are present to me right now in a way the back of the house is present to me right now.
+
+580
+00:53:02,320 --> 00:53:14,640
+So everything therefore causes me to revert to the field of presence as the primary experience, I like to observe there, in which time and its dimensions make their appearance unalloyed with no intervening distance.
+
+581
+00:53:14,641 --> 00:53:16,241
+That's important.
+
+582
+00:53:16,241 --> 00:53:19,201
+And with absolute self-evidence.
+
+583
+00:53:19,520 --> 00:53:22,400
+Even the back of the house is absolutely self-evident.
+
+584
+00:53:22,400 --> 00:53:25,601
+Now you might want to say, yeah, but you could turn out to be wrong about it.
+
+585
+00:53:25,601 --> 00:53:27,761
+Yeah, that's the way it goes with self-evidence.
+
+586
+00:53:27,761 --> 00:53:30,881
+And you can turn out to be wrong about the front of the house when you're in front of it.
+
+587
+00:53:30,880 --> 00:53:36,160
+Maybe it's going to turn out to be all a clever laser construction or a facade.
+
+588
+00:53:36,161 --> 00:53:42,241
+But whatever it is, the back of the house is as present as the front because the whole object is clever.
+
+589
+00:53:42,241 --> 00:53:43,521
+That's what he thinks.
+
+590
+00:53:43,520 --> 00:53:51,120
+So the benefit of the familiarity distance with absolute self-evidence, it is here that we see a future sliding into the present and on into the past.
+
+591
+00:53:51,121 --> 00:53:58,521
+I want to say, yes, the whole future of the world slides constantly into the present and on into the past.
+
+592
+00:53:56,561 --> 00:54:02,040
+Nor are there these three dimensions given to us through discrete moment.
+
+593
+00:54:02,601 --> 00:54:07,080
+That that really what we want to avoid, because it's a kind of quote.
+
+594
+00:54:07,081 --> 00:54:10,761
+I do not draw a mental picture of my day at Laysa Point with all its weight.
+
+595
+00:54:10,761 --> 00:54:12,121
+It was still there.
+
+596
+00:54:12,121 --> 00:54:16,041
+That's the the way the past is still there.
+
+597
+00:54:16,040 --> 00:54:23,080
+And and he would say you could go back and open it up by thinking of by, you know, not remembering it.
+
+598
+00:54:23,081 --> 00:54:25,881
+That would be, see, I better say this right now.
+
+599
+00:54:25,880 --> 00:54:43,721
+There's a way of relating to the past and the future that both Husserl and Merleoponte understand and is something we do, but you've got to distinguish it from whatever it is that Husserl and Merleoponte and Heideber think has to do with the way temporality is, basically.
+
+600
+00:54:43,721 --> 00:54:52,360
+That is, they're not talking about how you can remember the past and expect the future.
+
+601
+00:54:52,360 --> 00:54:54,521
+That's representational.
+
+602
+00:54:54,520 --> 00:54:58,121
+I can expect there'll be another election in four years.
+
+603
+00:54:58,121 --> 00:55:03,561
+That's perfectly fine, but I'm not at that election right now openly.
+
+604
+00:55:03,561 --> 00:55:08,600
+I have to get there only by symbolically representing it and so forth.
+
+605
+00:55:08,601 --> 00:55:17,881
+I can remember that we had a lecture on this last Tuesday in which this stuff was a big problem, and that's representational.
+
+606
+00:55:17,880 --> 00:55:26,601
+And I can I it has conditions of satisfaction and whether it really happened or not and if it didn't happen then then it does its conditions of satisfaction aren't satisfied.
+
+607
+00:55:26,601 --> 00:55:32,121
+That's different than the way and it happened and we can do that.
+
+608
+00:55:32,121 --> 00:55:37,560
+But neither, nobody in this story is trying to discuss expecting and remembering.
+
+609
+00:55:37,561 --> 00:55:45,681
+They're discussing anticipating, which is a the engaged way of getting related to the future.
+
+610
+00:55:45,681 --> 00:55:52,640
+And they're discussing, I don't know what the word is for instead of remembering, it is like a non-representational word.
+
+611
+00:55:52,641 --> 00:55:53,520
+Does anybody know?
+
+612
+00:55:53,601 --> 00:55:54,881
+Something like recollection.
+
+613
+00:55:54,880 --> 00:55:57,121
+No, that's even worse, I think.
+
+614
+00:55:57,920 --> 00:56:00,560
+Recalling, that's not so good either.
+
+615
+00:56:00,561 --> 00:56:01,360
+That's a little better.
+
+616
+00:56:01,360 --> 00:56:03,600
+You could sort of call it as if it's still there.
+
+617
+00:56:05,681 --> 00:56:06,801
+Reliving.
+
+618
+00:56:06,801 --> 00:56:08,160
+I think that's another thing.
+
+619
+00:56:08,161 --> 00:56:14,001
+That's what happens in cruise when you take meet for Madeline and you're actually there again.
+
+620
+00:56:14,641 --> 00:56:15,920
+I'll go for recalling.
+
+621
+00:56:16,320 --> 00:56:17,201
+Reckoning?
+
+622
+00:56:17,520 --> 00:56:20,801
+Reckoning is about the past.
+
+623
+00:56:21,681 --> 00:56:24,481
+Let's do recalling as opposed to remembering.
+
+624
+00:56:24,960 --> 00:56:28,401
+I mean, there's no real distinction in English, I think, but we need a distinction.
+
+625
+00:56:28,400 --> 00:56:30,801
+And this is what Husserl was trying to get at.
+
+626
+00:56:32,161 --> 00:56:33,761
+They all agree about this.
+
+627
+00:56:33,761 --> 00:56:36,400
+Protensions are anticipations.
+
+628
+00:56:36,400 --> 00:56:38,561
+They're not expectations.
+
+629
+00:56:38,561 --> 00:56:48,320
+They're not, it's a, remember, it's a, what is it, a, operative intentionality.
+
+630
+00:56:48,320 --> 00:56:55,121
+That is, it's an intentionality that doesn't have a mental representation related to something outside it.
+
+631
+00:56:55,360 --> 00:57:00,320
+So that's pro-tensions is supposed to be getting at anticipations.
+
+632
+00:57:00,320 --> 00:57:10,000
+And retensions is supposed to be getting at this something or other, which is still there in a way that you can have a direct access to it.
+
+633
+00:57:10,000 --> 00:57:14,161
+It can be present to you, even though it's past.
+
+634
+00:57:14,400 --> 00:57:15,281
+Now I can go back.
+
+635
+00:57:15,281 --> 00:57:16,320
+Let's read this again.
+
+636
+00:57:16,641 --> 00:57:19,761
+You can see no other dimensions given to discrete acts.
+
+637
+00:57:19,761 --> 00:57:22,241
+I did not form a mental picture of my day.
+
+638
+00:57:22,241 --> 00:57:28,120
+That would be remembering and expecting kind of thing.
+
+639
+00:57:26,721 --> 00:57:32,920
+It lays the claim that all its mind is still there, though I did not recall any detail of it.
+
+640
+00:57:33,561 --> 00:57:34,761
+Recall, I know.
+
+641
+00:57:35,081 --> 00:57:40,521
+I have the, that's probably chosen, at least this translator thinks that's the right word.
+
+642
+00:57:40,520 --> 00:57:42,680
+I have the intending power to do so.
+
+643
+00:57:42,681 --> 00:57:45,161
+I still have it in my hand.
+
+644
+00:57:45,161 --> 00:57:51,320
+That is what it says, that if you want to feel the unity of the book, say I still have it in my grip.
+
+645
+00:57:52,121 --> 00:57:53,480
+That doesn't change anything.
+
+646
+00:57:53,960 --> 00:57:56,201
+Have it in hand is an idiom.
+
+647
+00:57:56,201 --> 00:58:01,001
+And have it in grip is just a metaphor that Merrill-Ponty is going to use for that.
+
+648
+00:58:01,000 --> 00:58:10,360
+So that my grip, which is, you know, as usual, the crucial issue, is I've got the past in my grip and I've got the future in my grip.
+
+649
+00:58:10,360 --> 00:58:19,320
+In the same way, I do not think of the evening to come and its consequences, and yet it is there like the back of the house.
+
+650
+00:58:19,320 --> 00:58:26,281
+This is everything hinges on that house, of which I can only see the facade or like the background beneath the figure.
+
+651
+00:58:26,281 --> 00:58:30,280
+Our future is not made up exclusively of guesswork and daydreams.
+
+652
+00:58:30,281 --> 00:58:35,561
+Ahead of what I see and perceive, there is, it is true, nothing more actually visible.
+
+653
+00:58:35,561 --> 00:58:48,840
+That my world is carried forward by lines of intentionality which trace out in advance, at least the style of what is to come, although we are always on the watch, perhaps to the day of our death, for the appearance of something else.
+
+654
+00:58:48,840 --> 00:59:02,520
+That would be, you know, an explosion of the Norima, an explosion of your expectations like the stone on the path, in which it turns out you have to retroactively relate to a different task.
+
+655
+00:59:02,840 --> 00:59:11,840
+But wait, what's important here, and I don't know how important, but to me it's very important, Husserl hasn't got potentials.
+
+656
+00:59:10,360 --> 00:59:15,520
+Why he knows there are potentials, he just doesn't put them on his diagram.
+
+657
+00:59:15,681 --> 00:59:20,561
+He doesn't talk much about them, as I recall, in the internal time consciousness.
+
+658
+00:59:20,561 --> 00:59:31,441
+That's because his view of the back of the house is that it has certain features that you know for sure because every house has to have them, like a wall.
+
+659
+00:59:31,440 --> 00:59:35,521
+And it has other default features, like it has some number of windows.
+
+660
+00:59:35,520 --> 00:59:37,840
+It's indeterminate, we indeterminate the wrong thing.
+
+661
+00:59:37,840 --> 00:59:40,961
+We don't know which number of windows.
+
+662
+00:59:40,960 --> 00:59:46,880
+But it's a different kind of back for him than it is for Merrill-upon-T.
+
+663
+00:59:46,880 --> 00:59:49,520
+Because for Merrill-upon T, you notice it's the style.
+
+664
+00:59:49,520 --> 00:59:50,801
+He said that before.
+
+665
+00:59:50,801 --> 01:00:05,521
+It's something about houses in general or Georgian houses in particular, which give you an already present, indeterminate back of the house that you're coping with now already.
+
+666
+01:00:05,520 --> 01:00:17,121
+And the sense in which it's present is that you already have an indeterminate sense of what it'll be like, and you have a sense of how you could go around and get a better look at it, and you're being called to get a better look at it.
+
+667
+01:00:17,121 --> 01:00:23,281
+And the call is coming from the present, indeterminate, yet, back.
+
+668
+01:00:23,281 --> 01:00:26,560
+That's the, we've seen that picture before.
+
+669
+01:00:26,960 --> 01:00:29,200
+And the present, it's now it's gone.
+
+670
+01:00:29,201 --> 01:00:31,920
+The present itself, in the narrow sense, is not positive.
+
+671
+01:00:31,920 --> 01:00:33,920
+The paper, my pen, and so forth are there for me.
+
+672
+01:00:33,920 --> 01:00:35,360
+I did not explicitly perceive them.
+
+673
+01:00:35,360 --> 01:00:38,320
+I did not so much perceive objects as regular the environment.
+
+674
+01:00:38,320 --> 01:00:40,080
+I see support in my tool.
+
+675
+01:00:40,081 --> 01:00:43,360
+And now he goes on and he gives you the biography.
+
+676
+01:00:45,121 --> 01:00:50,961
+And I have a feeling, this is now again a paper topic, more for me than for you, I think.
+
+677
+01:00:50,960 --> 01:01:04,680
+But I have a feeling that Husserl has a problem with potentials that Merrill-upon T doesn't have because he doesn't have a notion of the style of the future or temporality of the style.
+
+678
+01:01:04,681 --> 01:01:09,320
+And therefore, I don't know how he thinks about the future.
+
+679
+01:01:10,281 --> 01:01:25,721
+Well, I don't know too much about what Husserl says, but it seems that one of the striking differences for Merlobon T that Husserl probably doesn't have is more intentionality, and so it's this kind of a bodily synthesis, and there is a sense of transition sympathy, but it seems like nuance.
+
+680
+01:01:25,880 --> 01:01:26,920
+Yes, good, good, good.
+
+681
+01:01:26,920 --> 01:01:29,080
+And the way to see where the anticipation is.
+
+682
+01:01:29,081 --> 01:01:38,681
+The way to see that is, and that's just, I wrote down here somewhere about the doorknob, of course, which is the thing that's our favorite example of that.
+
+683
+01:01:38,681 --> 01:01:51,320
+That is, the way I am already, right now, coping with the doorknob as I start to leave the room, even though the doorknob is over there, it's part of my present.
+
+684
+01:01:51,480 --> 01:01:54,041
+I'm already dealing with it now.
+
+685
+01:01:54,040 --> 01:01:58,681
+And in this big now, the doorknob is included.
+
+686
+01:01:58,681 --> 01:02:01,721
+And the same thing is how the past of the house is.
+
+687
+01:02:01,721 --> 01:02:04,120
+I'm already dealing with it now.
+
+688
+01:02:04,440 --> 01:02:10,840
+And Merrill-Ponty is saying, and he's attributing to Husserl with you, which is fine.
+
+689
+01:02:10,840 --> 01:02:11,641
+We don't care.
+
+690
+01:02:11,641 --> 01:02:14,120
+I mean, and if he Husserl helped so much the better.
+
+691
+01:02:14,121 --> 01:02:23,081
+And he's attributing the view that for Husserl, you're dealing with the past now, and you will be dealing with it for a long time.
+
+692
+01:02:23,081 --> 01:02:31,561
+And you're dealing with the future now, and you will be dealing with it until it becomes past, and then you'll be dealing with whatever that future is.
+
+693
+01:02:31,561 --> 01:02:34,281
+All this has got to be in there.
+
+694
+01:02:34,281 --> 01:02:36,120
+Now, I've seen, where am I?
+
+695
+01:02:36,601 --> 01:02:43,201
+Basic idea is a variation of Husserl 483, contrast memories and retentions.
+
+696
+01:02:44,480 --> 01:02:50,801
+Oh, yeah, this just to tell you, remember, I just made that sort of riff on the difference between a memory and a retention.
+
+697
+01:02:52,000 --> 01:03:05,601
+In the middle of 485, he says, there are certainly identifying syntheses, but only in the expressed memory and voluntary recollection of the past, that is, in the modes derived from consciousness of the past.
+
+698
+01:03:05,601 --> 01:03:09,440
+That is to say, there's a derivative representational kind.
+
+699
+01:03:09,761 --> 01:03:28,561
+Just to give you the place where he says it, so it's not representational, but like on page 486, well, here's the operative intentionality, which he attributes to Husserl and Heidegger.
+
+700
+01:03:28,561 --> 01:03:41,040
+And what the important thing is, it is a kind of motor intentionality that opens up a field, you know, is a kind of openness to everything as present.
+
+701
+01:03:41,040 --> 01:03:44,000
+That's the rich sense of presence, the wide sense of presence.
+
+702
+01:03:44,400 --> 01:03:54,880
+Remember, the way that the back of the house is present is the widest sense of present, the thought that in temporality, we want that wide sense of presence.
+
+703
+01:03:54,880 --> 01:03:59,760
+We don't want any kind of species present.
+
+704
+01:04:00,880 --> 01:04:16,801
+So in Husserl language, beneath the intentionality of the act, that's remembering, which is the fetic consciousness of an object in which an intellectual memory, for example, converts us into an idea, we must recognize an operative intentionality.
+
+705
+01:04:16,801 --> 01:04:18,801
+So he likes that.
+
+706
+01:04:18,801 --> 01:04:23,520
+When he says operative intentionality, I take it, he's equating it with motor intentionality, isn't he?
+
+707
+01:04:23,840 --> 01:04:25,440
+That's what he thinks with.
+
+708
+01:04:25,440 --> 01:04:26,241
+Or isn't he?
+
+709
+01:04:26,601 --> 01:04:32,600
+He does every once in a while, I think, try to do that, which makes the former possible.
+
+710
+01:04:32,601 --> 01:04:39,561
+That is, there's a kind of intentionality that makes remembering and expecting possible.
+
+711
+01:04:39,561 --> 01:04:43,000
+It's the kind of intentionality that's already at the doorknob.
+
+712
+01:04:43,000 --> 01:04:51,081
+It's the kind of intentionality that's got anticipation and recall built into it.
+
+713
+01:04:52,040 --> 01:04:55,000
+And which is the Heidi transcendence.
+
+714
+01:04:55,081 --> 01:05:06,441
+My present outlets itself in the direction of the immediate future and the immediate past and impinges upon them where they actually are, namely in the past and in the future themselves.
+
+715
+01:05:06,761 --> 01:05:08,281
+Boy, that's a funny thing.
+
+716
+01:05:08,281 --> 01:05:15,400
+To me, that's like a sentence that says, in the middle of one second, a host of string, you know, and a high-doe thing.
+
+717
+01:05:15,561 --> 01:05:18,200
+Why wouldn't he say the immediate future?
+
+718
+01:05:18,520 --> 01:05:24,041
+As if there was something, as if somehow talk about the house.
+
+719
+01:05:24,360 --> 01:05:37,401
+That would be like sort of emphasizing the side of the house, the front of the house, whereas what he wants to say is that the whole future is already wrapped up in this.
+
+720
+01:05:37,480 --> 01:05:39,320
+I don't know what immediate future means.
+
+721
+01:05:39,320 --> 01:05:41,960
+An immediate home is the user.
+
+722
+01:05:44,121 --> 01:05:44,760
+Yeah.
+
+723
+01:05:44,761 --> 01:05:52,281
+But I mean, if I look at it so immediate sounds so much like the future present.
+
+724
+01:05:52,281 --> 01:06:00,360
+It sounds like there's a special kind of future which will stop being immediate, whereas we all agree, and maybe he does too, that it shades off.
+
+725
+01:06:00,320 --> 01:06:03,801
+That there's no clear thing called immediate future.
+
+726
+01:06:04,040 --> 01:06:06,600
+I think it's kind of like a joke, like if there is an immediate.
+
+727
+01:06:06,840 --> 01:06:18,801
+So there is an immediate future and an immediate present, since I've got to see that as part, or there is an immediate past and immediate future, but we have to see that as part of the immediate present, in which case it just kind of employs this whole yeah, that's what you think he's doing.
+
+728
+01:06:19,121 --> 01:06:20,241
+This is the thickness of time.
+
+729
+01:06:20,880 --> 01:06:22,080
+It gives you the fitness, okay.
+
+730
+01:06:22,801 --> 01:06:23,601
+And it does.
+
+731
+01:06:24,161 --> 01:06:28,881
+Mainly and and it opens us to the past and the future themselves.
+
+732
+01:06:29,201 --> 01:06:41,761
+Well, that's true in Husserl and that's true in Heidegger because you could think that there was a species present which has just enough of an echo in the f of the past that it opens you to the immediate past.
+
+733
+01:06:42,000 --> 01:06:43,681
+I'm thinking of a melody now.
+
+734
+01:06:43,681 --> 01:06:52,081
+And just enough of a sense of the if you can have this potential in Husserl, of what's coming next, that it opens you to the immediate future.
+
+735
+01:06:52,081 --> 01:06:54,960
+And that's but he's taking it over.
+
+736
+01:06:54,960 --> 01:06:56,161
+I'll go along with Will.
+
+737
+01:06:56,161 --> 01:07:01,041
+He's taking it over so that you have to read the immediate future as the whole future.
+
+738
+01:07:01,040 --> 01:07:02,960
+And the immediate past is the whole past.
+
+739
+01:07:03,281 --> 01:07:04,880
+My present outruns itself.
+
+740
+01:07:04,880 --> 01:07:10,560
+And so it's just it's not an immediate and an immediate present wouldn't outrun itself, one way of putting it.
+
+741
+01:07:10,721 --> 01:07:11,201
+I guess.
+
+742
+01:07:11,601 --> 01:07:12,641
+That's the wrong way of thinking.
+
+743
+01:07:12,880 --> 01:07:18,241
+Yeah, it's a funny sentence, because if the present outruns itself, then there isn't an immediate future.
+
+744
+01:07:18,241 --> 01:07:18,880
+You're agreeing.
+
+745
+01:07:18,880 --> 01:07:20,081
+It's a kind of joke.
+
+746
+01:07:20,081 --> 01:07:23,280
+Well, I don't know if it's a joke or what, but it's it's a funny sentence.
+
+747
+01:07:23,281 --> 01:07:29,520
+I don't start me as a joke, it's starting as a as a bit of undigested go through, but I hope it's a joke.
+
+748
+01:07:29,520 --> 01:07:31,681
+Uh you got your hand out?
+
+749
+01:07:32,000 --> 01:07:37,281
+Um see, if it were a melody, you could see how that would make sense, you said that.
+
+750
+01:07:37,601 --> 01:07:39,441
+Okay, I'm gonna go on.
+
+751
+01:07:39,440 --> 01:07:40,801
+Struggle on.
+
+752
+01:07:40,801 --> 01:07:49,681
+Uh but okay if you're unshorty oh great, I just want to see where I am.
+
+753
+01:07:49,681 --> 01:07:51,040
+Okay, yeah.
+
+754
+01:07:52,160 --> 01:09:29,601
+Maybe I don't stay there as a very flat way to read that sense um okay just just just in the sense that um the immediate future is the part of the future which is the fire happen and the immediate path would then let this happen just as you might say in hand yeah it's just you still have it in hand it's just near um direction so that okay so the president runs itself in that direction in that direction and uh and that's all he's saying you know it's a little exciting okay i i will i look why not just say that lends itself in the direction of the whole future i mean it did that's i mean i tell what makes me nervous is it seems to suggest that there's something special called the immediate future now if as you say if the immediate future just means it's like the house right if the house is mighty deposited right then there's a sense in which uh the rear that has a person yeah but now supposing not about the white house and watching the that's also there to have and if you think about it then but it's you have to you have to travel to go to something and that's and that's uh an expected not an anticipating you're not involved with the white house unless maybe you're the president i mean i paid for an open meeting well let's say well let's say you're president let's say you're sitting in copper texas and you're thinking about the paper you best on your office um it's it's present to you in some sense but it's not immediately present.
+
+755
+01:09:29,761 --> 01:09:31,360
+You can't just look.
+
+756
+01:09:31,361 --> 01:09:33,280
+You can't just reach out and grab it.
+
+757
+01:09:33,441 --> 01:09:35,200
+Reach out and transitionally dream.
+
+758
+01:09:35,280 --> 01:09:39,601
+You have to get in your desktop and go there and che those are so it's still a little bit less immedium.
+
+759
+01:09:39,601 --> 01:09:40,721
+It's a little bit better.
+
+760
+01:09:40,880 --> 01:09:41,520
+Yeah, okay.
+
+761
+01:09:41,521 --> 01:09:42,641
+Well, that's fine.
+
+762
+01:09:41,641 --> 01:09:50,160
+And it's still in your grasp, sort of, if you know it's on your desk and you know how to get it if you send an aide to get it and so forth.
+
+763
+01:09:50,160 --> 01:09:51,681
+And you can do that.
+
+764
+01:09:51,681 --> 01:09:55,040
+But it's not in your grasp as much as the paper on your desk in front of you.
+
+765
+01:09:55,040 --> 01:09:58,641
+You have such a strong viscerality that is doing compared to it.
+
+766
+01:09:59,120 --> 01:10:05,361
+I think that's clear that we see him using motor intentionality and citing visceral as his as analysis.
+
+767
+01:10:05,521 --> 01:10:06,960
+Yes, that's what makes me so annoyed.
+
+768
+01:10:07,441 --> 01:10:09,521
+Christer has no melody of motor intentionality.
+
+769
+01:10:09,681 --> 01:10:11,200
+That's the way he does it.
+
+770
+01:10:11,361 --> 01:10:13,360
+Yes, but he's taking over visceral.
+
+771
+01:10:13,361 --> 01:10:15,360
+I don't mind him taking over visceral.
+
+772
+01:10:15,361 --> 01:10:28,721
+It's just that it makes me just worried because I think it probably makes it impossible to understand what operative intentionality really is if you think that it's the same as motor intentionality.
+
+773
+01:10:28,880 --> 01:10:40,880
+I think motor intentionality requires a bodily engaged set and listen to that melody where if that's where we have this operative intentionality doesn't.
+
+774
+01:10:40,880 --> 01:10:43,840
+So I would just like let's keep chiseral clear.
+
+775
+01:10:43,840 --> 01:10:53,280
+I think lister is right about the way time is manifest as a phenomenon, if not on reflection, at least somehow when you're not engaged in a shared task.
+
+776
+01:10:53,280 --> 01:10:55,600
+And I think we should have that.
+
+777
+01:10:55,601 --> 01:10:58,080
+I just think we shouldn't learn something together.
+
+778
+01:10:58,080 --> 01:10:58,320
+Yeah.
+
+779
+01:10:58,880 --> 01:11:00,080
+Outrunning itself.
+
+780
+01:11:00,401 --> 01:11:02,721
+You can think of the present as outrunning itself.
+
+781
+01:11:02,721 --> 01:11:09,840
+And in this moment, I have an anticipation of a certain feature and ready at hand of a certain path.
+
+782
+01:11:09,840 --> 01:11:15,920
+And in the next moment, it's always outrunning that feature and outrun this path to be a different feature in a different path.
+
+783
+01:11:15,920 --> 01:11:21,761
+But at the same time, um, there can be something in my face that outruns my anticipation of it.
+
+784
+01:11:21,761 --> 01:11:30,280
+Like I'm going to reach out and test the doorknob and notes to me it could be made of jelly or or something that I don't anticipate.
+
+785
+01:11:26,240 --> 01:11:32,280
+So enough trends are also outlined.
+
+786
+01:11:32,441 --> 01:11:35,000
+So I'm just wondering that's okay.
+
+787
+01:11:35,321 --> 01:11:38,200
+Yeah, I is there I mean, I'll go along with that.
+
+788
+01:11:38,200 --> 01:11:39,721
+I mean, is there a question in there?
+
+789
+01:11:39,721 --> 01:11:41,561
+If there is, I don't I I'll try to answer it.
+
+790
+01:11:41,641 --> 01:11:43,400
+I don't understand yet what the question is.
+
+791
+01:11:43,801 --> 01:11:56,840
+Ah well, it's already I'm already dealing with I'm agreeing with you, I think, in Melpon T anyway, I'm already dealing with the doorknob as something solid that can be turned and will get me out of the room.
+
+792
+01:11:56,840 --> 01:12:11,480
+In that sense, I'm already that the I've already outrun the any notion of something special about the the the present that I haven't that I have to wait to get to the doorknob before I could cope with it or something like that.
+
+793
+01:12:11,481 --> 01:12:24,040
+That I'm always when I'm engaged in a task in a non-reflective way, I'm always already engaged with a lot of stuff that that's not in some narrow sense present to me.
+
+794
+01:12:24,040 --> 01:12:28,840
+And it seems and that's this wide sense, and the doorknob is an example of it.
+
+795
+01:12:28,840 --> 01:12:46,280
+And that's then I think we should if if if talking about immediate past and future is talking about the way the doorknob is still present to me, is present to me before I ever turn it, and will be present to me after I've left the room, then fine.
+
+796
+01:12:47,000 --> 01:12:48,200
+That's all right.
+
+797
+01:12:48,200 --> 01:12:49,880
+I'm not sure we understand each other, though.
+
+798
+01:12:49,880 --> 01:12:51,240
+You're looking very worried.
+
+799
+01:12:51,561 --> 01:12:55,320
+Oh, there ought to be, I see, yes, there ought to be room for surprises.
+
+800
+01:12:55,321 --> 01:12:56,840
+Remember what I just read.
+
+801
+01:12:56,840 --> 01:13:04,280
+He thinks there is when he says, where did he say this, that I'm always waiting that maybe something will go completely wrong?
+
+802
+01:13:04,361 --> 01:13:05,960
+Where did I just read that?
+
+803
+01:13:05,960 --> 01:13:07,480
+You know what I mean?
+
+804
+01:13:07,761 --> 01:13:18,320
+And he said, there's always getting a grip on things, but as we get a grip on things, you also 483.
+
+805
+01:13:18,960 --> 01:13:21,840
+So I want to keep that built in for sure.
+
+806
+01:13:21,840 --> 01:13:24,320
+Whereas, oh, that something else could happen.
+
+807
+01:13:24,321 --> 01:13:25,920
+Yeah, that's for something else.
+
+808
+01:13:25,920 --> 01:13:27,200
+That's also in there.
+
+809
+01:13:27,200 --> 01:13:33,360
+Not only am I set to deal with the doorknob, I'm set to be surprised when the doorknob doesn't do what it's supposed to do.
+
+810
+01:13:33,361 --> 01:13:37,761
+That's built into the way I cope with things when I'm involved.
+
+811
+01:13:38,000 --> 01:13:41,520
+Always have to be ready for a breakdown, I think.
+
+812
+01:13:41,521 --> 01:13:43,521
+And I think that's okay.
+
+813
+01:13:43,521 --> 01:13:44,561
+Well, I have three minutes.
+
+814
+01:13:44,561 --> 01:13:47,280
+Let me see if I can make sure that we've got what everybody.
+
+815
+01:13:47,361 --> 01:13:51,360
+Oh, here's the doorknob on 489.
+
+816
+01:13:51,361 --> 01:13:53,920
+Let me see if I need to talk about that.
+
+817
+01:13:54,240 --> 01:13:55,521
+Maybe it isn't the doorknob.
+
+818
+01:13:55,521 --> 01:13:57,681
+Maybe I'm just reading the doorknob into it.
+
+819
+01:14:00,240 --> 01:14:02,801
+Well, but it's, I'm trying to interpret.
+
+820
+01:14:02,801 --> 01:14:11,120
+So this statement, the passage, middle of the page, the passage of one present to the next is not a thing which I can conceive nor I see as an onlooker.
+
+821
+01:14:11,120 --> 01:14:12,320
+I affect it.
+
+822
+01:14:12,321 --> 01:14:18,080
+I am already at the ending present as my gesture is already at its goal.
+
+823
+01:14:18,080 --> 01:14:23,040
+I am myself time at time which abides and doesn't flow.
+
+824
+01:14:23,040 --> 01:14:25,200
+And so never mind that we're getting off the cunt.
+
+825
+01:14:25,200 --> 01:14:35,040
+But that's the idea again, that I'm always, already at the door, even though I have, even though it could surprise me.
+
+826
+01:14:36,481 --> 01:14:40,160
+Pretty strange thing that that seems to be the phenomenon.
+
+827
+01:14:40,160 --> 01:14:42,000
+Okay, let's see.
+
+828
+01:14:42,000 --> 01:14:47,040
+So it looks like there could be just one big present.
+
+829
+01:14:47,040 --> 01:14:49,600
+And I think that's how you'd come out with this.
+
+830
+01:14:49,920 --> 01:14:53,440
+Yeah, that's the field of presence in the wide sense again.
+
+831
+01:14:55,040 --> 01:14:56,801
+Halfway down on 492.
+
+832
+01:14:57,721 --> 01:15:03,801
+Of that nature then, of what nature then is that waking time in which eternity takes root?
+
+833
+01:15:03,801 --> 01:15:10,840
+It is the field of presence in the wide sense with a double arising of primary past and future.
+
+834
+01:15:10,840 --> 01:15:15,880
+Interestingly enough, Albert, instead of immediate past and future there, he's got his primary past and future.
+
+835
+01:15:15,880 --> 01:15:16,761
+What's the difference?
+
+836
+01:15:16,761 --> 01:15:17,400
+I don't know.
+
+837
+01:15:17,401 --> 01:15:19,400
+Why doesn't he stick to one or the other?
+
+838
+01:15:19,401 --> 01:15:24,440
+And the infinite openness of those fields of presence that is ruled by.
+
+839
+01:15:24,441 --> 01:15:25,960
+Why the world?
+
+840
+01:15:25,960 --> 01:15:31,160
+I mean, it seems to me the whole point is that there's one constantly shifting field of presence.
+
+841
+01:15:31,801 --> 01:15:39,320
+And this is what he's attributing to Hutzworld too, in which there are these dimensions of future and past, and they're constantly shifting.
+
+842
+01:15:39,880 --> 01:15:42,761
+Why do there be that plurality of fields of presence?
+
+843
+01:15:42,761 --> 01:15:43,960
+I don't know.
+
+844
+01:15:44,200 --> 01:15:46,360
+I'm not even sure Hutzworld would have done.
+
+845
+01:15:47,321 --> 01:15:52,360
+And then we are present to the world, the middle of 492.
+
+846
+01:15:52,361 --> 01:15:54,840
+That's what you hope he would say.
+
+847
+01:15:54,840 --> 01:15:58,521
+Now, who's he talking about here at the bottom of 492?
+
+848
+01:15:58,521 --> 01:16:01,240
+I'm just telling you the things that puzzle me.
+
+849
+01:16:02,200 --> 01:16:19,801
+So a former experience, a far line in the bottom of 492, a coming experience, in order that they may appear to me, need to be born into being by a primary consciousness, which in this case is my inner perception or recollection or imagination.
+
+850
+01:16:19,801 --> 01:16:27,000
+I don't really even know what that wide term meant, but it sounds awfully inner.
+
+851
+01:16:27,240 --> 01:16:33,080
+It sounds very different than this widest field of presence in which everything is present.
+
+852
+01:16:33,040 --> 01:16:39,240
+Uh I'm okay, I'm going to quickly try to, because they're going to throw me out of here, but I don't wanna go back to it.
+
+853
+01:16:39,200 --> 01:16:45,521
+Uh so we've got 492, I don't quite know what to make of that, but we will leave it.
+
+854
+01:16:45,681 --> 01:16:53,920
+On 494, there is at the bottom of 494 an unfolded series of presence.
+
+855
+01:16:54,240 --> 01:17:00,400
+How can there be a theory of presence if the presence is just this transitional row?
+
+856
+01:17:00,401 --> 01:17:04,960
+Again, I don't even think Husserl thinks that there's a series of presence.
+
+857
+01:17:04,960 --> 01:17:07,040
+So I don't get that either.
+
+858
+01:17:09,601 --> 01:17:12,641
+And then at the middle of 495, very different.
+
+859
+01:17:12,641 --> 01:17:22,400
+We consider everything that bears a significant relationship to our concerns at the moment as part of our present, thus recognizing implicitly the time and significance of a one thing.
+
+860
+01:17:22,401 --> 01:17:26,561
+So that anything that concerns me right now is part of the present.
+
+861
+01:17:26,561 --> 01:17:30,240
+That's like Bush worrying about having left a speech on the desk.
+
+862
+01:17:30,240 --> 01:17:31,840
+That sounds right.
+
+863
+01:17:33,441 --> 01:17:37,360
+And now I think I've got to the end about shared time.
+
+864
+01:17:37,361 --> 01:17:41,521
+So we've got this funny thing at the end, which I read that time has to interweave.
+
+865
+01:17:41,840 --> 01:17:55,920
+It turns out that time does interweave, and that the thickness of time gets us in a shared social being and so forth, but it certainly seems to have come out of a hat as far as I can see with no preparation.
+
+866
+01:17:55,920 --> 01:17:57,440
+And that's it.
+
+867
+01:17:57,441 --> 01:18:00,641
+I I just tried to tell you why I worried about it.
+
+868
+01:18:00,641 --> 01:18:04,561
+If you could keep your eye, always keep your eye on the phenomena as LeMoral.
+
+869
+01:18:04,561 --> 01:18:09,600
+And if there are several different phenomena, keep your eye on the difference between the different phenomena.
+
+870
+01:18:09,601 --> 01:18:12,441
+And if you don't, it doesn's a mess.
+
+871
+01:18:12,880 --> 01:18:13,440
+I don't know.
+
+872
+01:18:13,481 --> 01:18:15,441
+But you know, I don't I don't know.
+
+873
+01:18:26,120 --> 01:18:43,801
+That's the way I was doing my message or they are not going to improve the part of the website.
+
+874
+01:21:59,240 --> 01:22:01,880
+Well, that means the 20th of June, is that right?
+
+875
+01:22:04,120 --> 01:22:05,000
+That's the last year.
+
+876
+01:22:05,160 --> 01:22:10,360
+Okay, because you don't gotta ask these people for money still because, oh, guess what?
+
+877
+01:22:10,361 --> 01:22:13,160
+I fly to Paris on the 14th after tomorrow.
+
+878
+01:22:17,080 --> 01:22:18,280
+Yeah, I'll get in a month now.
+
+879
+01:22:26,681 --> 01:22:28,360
+I think it's just that we can do it faster.
+
+880
+01:22:28,761 --> 01:22:32,360
+You sit in the typewriter because I or the computer's not dislikes.
+
+881
+01:22:34,681 --> 01:22:35,801
+I think we can do it in an hour.
+
+882
+01:22:36,441 --> 01:22:44,840
+We've already written the most elaborate cover letter from me saying how important it is and how reliable and intelligent you are.
+
+883
+01:22:45,160 --> 01:22:48,120
+But I expect you've come in for an hour or something.
+
+884
+01:22:48,120 --> 01:22:51,641
+Yeah, I'm probably going to tomorrow's Friday.
+
+885
+01:22:51,801 --> 01:22:53,400
+Actually, after Wednesday.
+
+886
+01:22:53,401 --> 01:22:55,080
+Sure, after next Wednesday.
+
+887
+01:22:55,160 --> 01:22:55,880
+That's what you want.
+
+888
+01:22:56,120 --> 01:22:56,441
+Okay.
+
+889
+01:22:56,920 --> 01:22:57,320
+Yes.
+
+890
+01:22:57,641 --> 01:22:58,681
+Then it would have to be.
+
+891
+01:22:59,000 --> 01:23:02,920
+I leave Notre Dame early on that Friday.
+
+892
+01:23:02,920 --> 01:23:08,920
+So it it could be, but I because I won't it could be Monday the ninth because I come back to Notre Dame on Sunday.
+
+893
+01:23:09,080 --> 01:23:10,040
+Monday the ninth.
+
+894
+01:23:10,280 --> 01:23:11,801
+That could be good from France.
+
+895
+01:23:12,200 --> 01:23:12,681
+Oh, whatever.
+
+896
+01:23:12,681 --> 01:23:13,240
+I'll be fine.
+
+897
+01:23:13,561 --> 01:23:16,360
+And I mean I could and we could do it at from three to four.
+
+898
+01:23:16,361 --> 01:23:17,000
+Is that a good time?
+
+899
+01:23:17,240 --> 01:23:18,360
+Okay, at three to four.
+
+900
+01:23:19,561 --> 01:23:20,920
+I have no idea that I want to tell you.
+
+901
+01:23:21,080 --> 01:23:21,400
+Okay.
+
+902
+01:23:21,401 --> 01:23:29,320
+Um in case this family doesn't want to hop out um I thought maybe the French consular would be interesting.
+
+903
+01:23:29,321 --> 01:23:33,561
+I I'm afraid I don't have a new one.
+
+904
+01:23:58,321 --> 01:24:00,960
+Okay, maybe that's a more dangerous thing.
+
+905
+01:24:57,840 --> 01:24:59,521
+It doesn't pose a problem.
+
+906
+01:25:09,920 --> 01:25:10,240
+Okay.
+
+907
+01:25:10,240 --> 01:25:16,240
+I think the problem is everybody thinks that.
+
+908
+01:25:20,481 --> 01:27:07,880
+I think the fountain in secret, how to keep it now, hey, I don't know about I mean, not the same both wall and actually I'm doing yeah.
+
+909
+01:27:07,441 --> 01:27:17,280
+And didn't we ever talked about the people crazy, but we don't do any direct mode that's a only only the motion that we always hope for motion by slow.
+
+910
+01:27:17,920 --> 01:27:30,801
+I was gonna maybe I'll get wrong like you all go to a hooker which comes in and swallows something else like that and probably swallow a lot of stuff that we don't want.
+
+911
+01:27:48,641 --> 01:28:16,880
+Well, you say regularly compute my time in the design while other people might need to I mean because we're trying to put in computer design in general to be doing the time that without being learning but you don't control the new time slow and if you have important your unique ideas and maybe my time if you don't use your own thing.
+
+912
+01:28:36,321 --> 01:28:41,920
+It's the same process and the one you can't create all the time from those sets when you go see the house.
+
+913
+01:28:42,160 --> 01:28:48,400
+The house is a nice function on the device, but it's one definition for these two things.
+
+914
+01:28:48,401 --> 01:28:53,681
+The big device on the extreme list you can do is different things when you record.
+
+915
+01:28:53,920 --> 01:28:56,801
+You have an expensive.
+
+916
+01:30:18,120 --> 01:30:23,960
+I started off this um Thursday uh twelve dollars.
+
+917
+01:30:23,960 --> 01:30:33,160
+Um and we are back uh inner country from Scotland and uh let's go forward checking up on my telephone.
+
+918
+01:30:33,240 --> 01:30:38,120
+Um uh power code reactor and probably for the rest of the day.
+
+919
+01:30:38,120 --> 01:30:40,761
+I'll be able to say it open or park the end of the day.
+
+920
+01:30:41,481 --> 01:30:44,880
+Yeah, scored and students down.
+
+921
+01:30:45,441 --> 01:30:46,481
+Yeah, it's possible to find

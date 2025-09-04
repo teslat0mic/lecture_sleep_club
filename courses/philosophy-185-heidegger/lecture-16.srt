@@ -1,0 +1,3393 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:11,920
+I don't know how obvious it is to you all, but it dawns on you that there is this constantly different, described differently described threefold structure.
+
+2
+00:00:11,921 --> 00:00:15,520
+There is the throne, falling, projecting.
+
+3
+00:00:15,521 --> 00:00:18,480
+That's the most abstract version of it.
+
+4
+00:00:18,481 --> 00:00:20,480
+And we've done the thrown.
+
+5
+00:00:20,801 --> 00:00:24,081
+And then, and we're going to do the projecting today.
+
+6
+00:00:24,081 --> 00:00:25,361
+That's understanding.
+
+7
+00:00:25,361 --> 00:00:27,521
+The throne was disposedness.
+
+8
+00:00:27,520 --> 00:00:31,200
+There's faticity, fallenness, and existence.
+
+9
+00:00:31,200 --> 00:00:34,160
+That's Dasein's structure.
+
+10
+00:00:34,160 --> 00:00:36,640
+And there is disposedness.
+
+11
+00:00:36,640 --> 00:00:38,320
+I don't know what that is exactly.
+
+12
+00:00:38,320 --> 00:00:45,760
+I think, well, Dasein experiences its structure as disposedness, falling, and understanding.
+
+13
+00:00:46,080 --> 00:00:59,361
+And that's, as Heidegger says, made concrete in mood, absorbed coping, that is dealing, and what we're going to talk about today, pressing into possibilities.
+
+14
+00:00:59,361 --> 00:01:04,241
+I think it just helps to have these various threefold things in mind.
+
+15
+00:01:04,241 --> 00:01:10,481
+And rather than write them on the board, I'll make a chart and put it on the web and hand it around.
+
+16
+00:01:11,920 --> 00:01:14,241
+But I just want you to see where we are.
+
+17
+00:01:14,241 --> 00:01:24,241
+And of course, I mean, it's no secret that these three are somehow going to correspond to the three aspects of time, past, present, and future.
+
+18
+00:01:24,241 --> 00:01:30,640
+It's no accident that there are three, and that it's those three that keep coming up and with various names.
+
+19
+00:01:30,640 --> 00:01:42,361
+And so we're now doing the future part, the projecting, which is understanding, and what he calls pressing into possibilities.
+
+20
+00:01:42,681 --> 00:01:49,081
+All that will get clearer in the course of today's talking about it.
+
+21
+00:01:49,401 --> 00:01:53,801
+So it's a big struggle to get it clearer.
+
+22
+00:01:53,801 --> 00:01:56,280
+It took me years to get it clearer.
+
+23
+00:01:56,280 --> 00:02:05,640
+And maybe I'm even, either I may still be unclear, if so tell me, or I may be wrong that I made it clear at the expense of changing the subject or something.
+
+24
+00:02:05,640 --> 00:02:09,480
+But I think I finally have got it pretty straight.
+
+25
+00:02:09,801 --> 00:02:27,721
+The reason it seems so confused, and it does, and I used to argue with my PhD students and my TAs all the time as to what understanding really is for Heidegger, is that there are two aspects of understanding, and they're tightly related.
+
+26
+00:02:27,721 --> 00:02:34,521
+And I think now that one of them, we're going to call one of them basic or primary.
+
+27
+00:02:34,520 --> 00:02:37,640
+He uses, or the translator uses those two words.
+
+28
+00:02:37,640 --> 00:02:40,121
+And when we get to them, I want to know what the German is.
+
+29
+00:02:40,121 --> 00:02:41,481
+I didn't have time to look.
+
+30
+00:02:41,481 --> 00:02:48,361
+But there's something called primary or basic understanding, and then there's something called primordial understanding.
+
+31
+00:02:48,361 --> 00:02:53,561
+And they are very different, but they're intimately related to each other.
+
+32
+00:02:53,561 --> 00:02:59,561
+And at a very, a reasonably abstract level, they have the same sort of structure.
+
+33
+00:02:59,561 --> 00:03:24,361
+If it helps any to understand this confusion, what kind of confusion, it's similar to the confusion in the chapter on the one, where intelligibility and leveling seemed to be two opposed versions of the one, but it turned out that it's a necessary feature of intelligibility, that it's got to be general and therefore leveling.
+
+34
+00:03:24,361 --> 00:03:30,080
+And of course, leveling has got to be intelligible because it's something that everybody does together.
+
+35
+00:03:30,721 --> 00:03:34,400
+But here, at least one thing is easier.
+
+36
+00:03:34,400 --> 00:03:38,320
+These two kinds of understanding are in no sense opposed to each other.
+
+37
+00:03:38,320 --> 00:03:51,840
+It isn't as if one of them's a good guy, like intelligibility, and another one's a bad guy, like leveling, and that Heidegger flips back and forth about them within a single paragraph sometimes.
+
+38
+00:03:51,840 --> 00:03:54,400
+They're two good kinds of understanding.
+
+39
+00:03:54,401 --> 00:03:56,080
+They're very different.
+
+40
+00:03:56,080 --> 00:03:58,241
+They absolutely need each other.
+
+41
+00:03:58,241 --> 00:04:02,241
+And he goes back and forth between them all the time, everywhere.
+
+42
+00:04:02,241 --> 00:04:07,040
+So you've got to keep your eye on the ball when you try to do it.
+
+43
+00:04:07,520 --> 00:04:11,760
+And it's clear that, let's start on 182.
+
+44
+00:04:14,000 --> 00:04:29,041
+Whatever understanding is, it's in some sense a unified phenomenon, and it's doing this important job of filling out the threefold structure on page 182.
+
+45
+00:04:29,041 --> 00:04:34,320
+We're now in section 31, being there is understanding.
+
+46
+00:04:34,320 --> 00:04:50,960
+And he says right off, disposedness is one of the existential structures in which the being of the there maintains itself, equiprimordial with it in constituting this being that is being in the world, really, or being the there, is understanding.
+
+47
+00:04:51,281 --> 00:04:56,080
+And these two are interrelated, but that's not what I want to talk about.
+
+48
+00:04:56,320 --> 00:04:57,760
+It'll come up a little later.
+
+49
+00:04:57,760 --> 00:05:03,121
+The state of mind always has its understanding, and understanding always has its mood.
+
+50
+00:05:03,601 --> 00:05:07,841
+Why that should be true is, well, why don't I tell you now?
+
+51
+00:05:07,840 --> 00:05:14,601
+I mean, because it's something I didn't get, didn't really say enough about with disposedness.
+
+52
+00:05:14,601 --> 00:05:19,320
+I said it, but I was half running out the door, as I recall, by the time I said it.
+
+53
+00:05:19,320 --> 00:05:22,440
+It's because of moods that things matter to us.
+
+54
+00:05:23,080 --> 00:05:25,320
+Was that obvious to you already?
+
+55
+00:05:25,320 --> 00:05:27,721
+How many understood that already?
+
+56
+00:05:27,721 --> 00:05:32,440
+Okay, well, I say it again, because that's the basic function.
+
+57
+00:05:34,121 --> 00:05:42,040
+That's what disposedness contributes, that you can't get from dealing and you can't get from understanding, whatever understanding is.
+
+58
+00:05:42,041 --> 00:06:06,041
+You don't get the fact that things either attract you or frighten you or annoy you or delight you or, and to put it more relevant to what I'm going to talk about today, and Blattner is good on this in his book, mattering has to do with why you would ever have the stand you have on your take.
+
+59
+00:06:06,041 --> 00:06:15,481
+I mean, if the kind of, if helping people matters to you, you might well finally get yourself into the understanding of your being as being a doctor.
+
+60
+00:06:15,481 --> 00:06:38,440
+And if you, as I keep saying about me, if you've gotten your credit as an older sibling of taking, of explaining things and seeing the happy results of explaining things, you might end up, and that matters to you, maybe because you get love for it or because you just feel good about it.
+
+61
+00:06:38,440 --> 00:06:46,041
+Anyway, if that matters to you, later on on your path, you may find yourself heading toward being a teacher of some sort.
+
+62
+00:06:46,041 --> 00:06:58,241
+So, and that's the sense in which the disposedness is necessary for understanding, but you haven't heard, well, you'll see that now.
+
+63
+00:06:55,320 --> 00:06:59,440
+Now, I'll put that aside.
+
+64
+00:06:59,761 --> 00:07:15,121
+You won't understand that until you understand what understanding is for Heidegger, such that mattering is equiprimordial with it, and understanding always is tied with, has its mattering, and mattering always has its understanding.
+
+65
+00:07:15,761 --> 00:07:39,761
+But that's, but it's hard to understand what understanding is for Heidegger, and that's partly because I think for years I had this sort of double vision of sometimes seeing it one way and sometimes seeing it another way, and never always fighting with each other, or the TAs, as I say, and students and so forth, as to which is the right one.
+
+66
+00:07:39,761 --> 00:07:52,001
+Then finally, I saw sort of that both of the right ones, and only very recently, maybe even today, do I have a clear understanding of how they absolutely need each other?
+
+67
+00:07:52,001 --> 00:07:58,001
+There's two sides of the same, or that, well, that's to the wrong metaphor.
+
+68
+00:08:00,401 --> 00:08:03,521
+They make each other possible, something like that.
+
+69
+00:08:03,761 --> 00:08:05,521
+The two kinds of understanding.
+
+70
+00:08:05,521 --> 00:08:15,281
+So now we just have to look at the two kinds of understanding: the, what I'm calling basic or primary kind, and the other kind, which is the primordial kind.
+
+71
+00:08:15,281 --> 00:08:18,561
+And then everything, if we're lucky, will fall into place.
+
+72
+00:08:18,561 --> 00:08:23,921
+And then on Friday, you can come to office hours and either tell me I was right or shoot it down.
+
+73
+00:08:25,200 --> 00:08:42,521
+So the bottom line is, I don't want to keep it a secret because it's hard enough to see it even when you know where you're heading, is that Dasein has to take a stand on its existence by way of dealing with things and people.
+
+74
+00:08:40,481 --> 00:08:46,440
+And the understanding is both.
+
+75
+00:08:46,761 --> 00:09:09,561
+It's that it has to take a stand on its existence, is understanding, almost upon, in English anyway, taking a stand on your existence is understanding what it is to be you, and that you can't take a stand on your existence except by dealing with things and people, and that's understanding as coping.
+
+76
+00:09:09,561 --> 00:09:15,401
+So there's the under, there's the understanding as coping is the basic kind of understanding.
+
+77
+00:09:15,720 --> 00:09:33,561
+And you have to be using lecterns and Heidegger books and blackboards and podcast microphones and so forth to deal with them skillfully in order to have a stand on your own being.
+
+78
+00:09:33,561 --> 00:09:38,521
+And that's, so it's not a surprise that they take it, that they belong together.
+
+79
+00:09:38,521 --> 00:09:44,681
+And that's what I'm so happy about that I keep repeating it in various versions.
+
+80
+00:09:45,241 --> 00:09:46,761
+Now let's see.
+
+81
+00:09:48,360 --> 00:10:07,961
+Okay, so we're going to start with the primordial level, because it's sort of the primordial level that dictates and requires the basic level in a way that the basic level doesn't require the primordial level.
+
+82
+00:10:07,960 --> 00:10:13,241
+That's why the primordial level is more primordial than the basic level, I think.
+
+83
+00:10:13,241 --> 00:10:18,681
+That is, the primordial level is the stand that Dasein takes on its being.
+
+84
+00:10:19,001 --> 00:10:23,161
+That's one, that's what he calls primordial understanding.
+
+85
+00:10:23,480 --> 00:10:32,960
+And again, I have all these things I want to say, and maybe there's a better order, but as I have them in my mind, I want to say them, and we can always, I'll come back to them.
+
+86
+00:10:33,681 --> 00:10:52,081
+I never said this before until just now, and I'm listening to myself try to say why the basic is less basic, so to speak, than the primordial, or why the primordial is the most basic one, is I see now that the basic one is going to turn out to be something we share with animals.
+
+87
+00:10:52,080 --> 00:10:57,681
+And the basic one is just basically dealing successfully.
+
+88
+00:10:57,681 --> 00:11:00,161
+That's going to count as understanding.
+
+89
+00:11:00,161 --> 00:11:10,881
+And the primordial one is our unique Daseine existence way of being, which we certainly don't in any way share with animals.
+
+90
+00:11:11,200 --> 00:11:15,840
+And that's more basic.
+
+91
+00:11:15,840 --> 00:11:18,161
+It's something like it's a richer notion.
+
+92
+00:11:18,161 --> 00:11:32,480
+I mean, it's you the basic one, it leaves out the crucial feature of the primordial one, namely that it's a mode of being of a very special sort of taking a stand on your being.
+
+93
+00:11:32,801 --> 00:11:39,681
+So now, so let's start with the more primordial one, which is going to sort of, it's going to need the basic one.
+
+94
+00:11:40,161 --> 00:11:48,161
+But you can understand the basic one as needed by the primordial one, but if you had only the basic one, you'd have no clue about the primordial one.
+
+95
+00:11:48,161 --> 00:11:52,321
+That's what I mean when I say it's a richer, it's a notion.
+
+96
+00:11:52,320 --> 00:11:55,601
+Okay, so now, let's see.
+
+97
+00:12:01,360 --> 00:12:07,440
+So at the most primordial level, we have the ultimate for the sake of which.
+
+98
+00:12:07,440 --> 00:12:10,561
+I sometimes forget to say ultimate, but let me review that too.
+
+99
+00:12:10,761 --> 00:12:17,641
+And then a feeling of reviewing to myself the things I understood recently that I should have understood long ago.
+
+100
+00:12:17,641 --> 00:12:22,841
+Remember, there are two kinds of for the sake of which which you have to st sort out here.
+
+101
+00:12:22,840 --> 00:12:44,361
+The for the sake of which which would share with animals like beavers building shelters, and the for the sake of which, which is the completely humankind, what it is to be you, which is a a certain, I think now, style that you have and use and and take over a role in in a certain in your own unique way.
+
+102
+00:12:44,681 --> 00:12:45,401
+Whatever.
+
+103
+00:12:46,521 --> 00:12:58,200
+It's the way you're going to say express what you are, but that's very bad, because it suggests that there's some deep truth about you that you're trying to express.
+
+104
+00:12:58,200 --> 00:13:05,241
+And that's kind of inner romantic view that Heidegger doesn't want.
+
+105
+00:13:05,241 --> 00:13:12,761
+So it isn't as if there's some, that you're trying to find your vocation as if it was something in you.
+
+106
+00:13:12,761 --> 00:13:15,080
+You're trying, in effect, to hear your calling.
+
+107
+00:13:15,880 --> 00:13:29,241
+You're trying to respond to what deeply attracts you and for which you're ready to do anything or extremely ready to die for it.
+
+108
+00:13:29,801 --> 00:13:32,841
+You want to be receptive to that calling.
+
+109
+00:13:34,041 --> 00:13:35,721
+That's what it is.
+
+110
+00:13:36,041 --> 00:13:38,440
+That's how you find your for the sake of.
+
+111
+00:13:39,080 --> 00:13:44,521
+Sooner or later, if you're lucky, you'll have that experience.
+
+112
+00:13:44,521 --> 00:13:47,241
+Now, now we better just read some stuff.
+
+113
+00:13:47,561 --> 00:13:49,801
+But I've been talking for a while.
+
+114
+00:13:51,080 --> 00:14:30,321
+And so I'm going to, but I want to say one more thing because the common structure between what I'm talking about now, the ultimate for the sake of which, and the basic level of dealing that makes it possible for you to have a for the sake of which, they have a common structure that's important to Heidegger and important more for those who've had Searle, but it's because it's Heidegger going after Husserl and Descartes as usual, both at the top level, that's the primordial one.
+
+115
+00:14:30,320 --> 00:14:43,921
+I think of it as the top one because it's going to sort of be the final summit of all the activity that controls and organizes and coordinates all the activity if you're a teacher or a father or whatever you are or become.
+
+116
+00:14:44,561 --> 00:14:50,561
+So there's a common structure between that and feeling.
+
+117
+00:14:50,561 --> 00:14:57,440
+And that's the interesting thing that I sort of glimmered but never really saw before.
+
+118
+00:14:57,440 --> 00:15:06,640
+And that is the anti-Cartesian point: that it isn't, and we're going to start with the primordial one, let's start with that.
+
+119
+00:15:06,640 --> 00:15:16,960
+It isn't a question of having goals, which you then represent to yourself and then set out to achieve.
+
+120
+00:15:18,080 --> 00:15:19,920
+That does happen sometimes.
+
+121
+00:15:19,920 --> 00:15:21,840
+I suppose it happens lots of times.
+
+122
+00:15:21,840 --> 00:15:27,041
+You had a goal to write the paper and for the course, and you had a representation of it.
+
+123
+00:15:27,041 --> 00:15:36,640
+That is, you pictured yourself what the success conditions would be when you finished it and handed it in, and then that organized a lot of your activity in writing it.
+
+124
+00:15:36,640 --> 00:15:38,000
+That happens.
+
+125
+00:15:38,001 --> 00:15:54,840
+But there's a more basic level that Heidegger's always interested in, remember, which is just plain coping or dealing, which you have without any fancy representation of the goal, like like I take two examples from John Dewey, who understood this.
+
+126
+00:15:54,920 --> 00:15:57,080
+So getting dressed in the morning.
+
+127
+00:15:57,080 --> 00:16:01,320
+You don't need to have the goal of getting dressed to represent the success conditions.
+
+128
+00:16:01,721 --> 00:16:04,920
+You can be half asleep and you just are able to do it.
+
+129
+00:16:04,920 --> 00:16:11,561
+And this and Dewey's example are gives our examples of getting dressed and getting on and off the streetcar.
+
+130
+00:16:11,561 --> 00:16:22,680
+But I mean, that's the kind of familiarity and transparent, ongoing, that's another Dewey phrase, dealing with things.
+
+131
+00:16:22,680 --> 00:16:29,880
+And that doesn't require the representation of a goal.
+
+132
+00:16:30,521 --> 00:16:31,481
+I jumped ahead.
+
+133
+00:16:31,481 --> 00:16:32,281
+That's too bad.
+
+134
+00:16:32,281 --> 00:16:35,481
+That's for the organization, because I talked about Searle.
+
+135
+00:16:37,320 --> 00:16:40,761
+All I said wrong was I jumped to the basic one.
+
+136
+00:16:41,160 --> 00:16:44,920
+And I was trying to talk about the primordial one.
+
+137
+00:16:45,241 --> 00:16:57,561
+And since the primordial one and the basic one have this in common, they do not, at their best, require a representation of the goal.
+
+138
+00:16:57,561 --> 00:17:11,561
+In fact, having a representation of the goal sort of makes them either impossible or at least or no, that's too extreme, because you did write your papers, hopefully, even though you had a representation of the goal.
+
+139
+00:17:11,880 --> 00:17:34,801
+It's not what's happening when you're acting in your most, I guess I'm just stuck saying basic, your most, but you could also say, remember, fluid in flow, on the familiarity, having the skill for getting around in the world, that's the bottom one.
+
+140
+00:17:34,801 --> 00:17:41,601
+And then there is this top one, as I'm thinking about it, which is the primordial one of having the goal.
+
+141
+00:17:41,600 --> 00:17:54,400
+Now I say all that because I wanted to read some things, and I'm not even sure yet, until I read them, whether they're going to turn out to be, which of these they're going to turn out to be, because they both have the structure.
+
+142
+00:17:54,400 --> 00:17:57,120
+Okay, let the bottom of 183.
+
+143
+00:17:57,120 --> 00:17:59,521
+I forget which it is, but we'll find out.
+
+144
+00:17:59,521 --> 00:18:04,880
+Understanding is the being of such, okay, uh-huh.
+
+145
+00:18:05,761 --> 00:18:10,961
+I never told you that potentiality for being is another big bother.
+
+146
+00:18:12,080 --> 00:18:16,801
+The German is simply seinkernen, and that should be translated ability to be.
+
+147
+00:18:17,120 --> 00:18:29,441
+It isn't things, it's present-at-hand things that have potentialities, like salt has the dispositional property of, or sugars that are dissolving, and so forth.
+
+148
+00:18:29,441 --> 00:18:36,640
+Talking about potentiality and actuality is fine for talking about present-at-hand things.
+
+149
+00:18:37,600 --> 00:18:45,680
+But this business of this ability to be is something that you're sort of enacting all the time.
+
+150
+00:18:45,680 --> 00:18:48,561
+It's not something that you could do.
+
+151
+00:18:48,561 --> 00:18:54,401
+If it was just a potentiality, then sometimes you'd do it and sometimes you wouldn't, but you'd always be capable of doing it.
+
+152
+00:18:54,400 --> 00:18:55,761
+It's not like that.
+
+153
+00:18:55,761 --> 00:19:00,880
+It's something like it's what you do all the time insofar as you exist.
+
+154
+00:19:00,880 --> 00:19:03,761
+And c let's call that the ability to be.
+
+155
+00:19:03,761 --> 00:19:21,480
+So understanding is the being of such an ability to be, which is never something still outstanding as not yet present at hand, which is something which is essentially ne which which is essentially never present at hand.
+
+156
+00:19:22,680 --> 00:19:23,400
+Whoa.
+
+157
+00:19:23,561 --> 00:19:24,041
+Wow.
+
+158
+00:19:24,680 --> 00:19:26,920
+Not an easy thing for a dyslexic.
+
+159
+00:19:26,920 --> 00:19:43,801
+Understanding is the being of such ability to be, which is never something still outstanding as not yet present at hand, but which as something which is essentially never present at hand, is, with the being of Dasein in the sense of existence.
+
+160
+00:19:44,521 --> 00:19:45,721
+Did I read it right?
+
+161
+00:19:45,721 --> 00:19:51,561
+It doesn't sound exactly like English, but I understand what it means.
+
+162
+00:19:51,561 --> 00:19:57,240
+So remember this now, and it won't take me long to explain it, the top of 184.
+
+163
+00:19:57,241 --> 00:20:18,600
+I mean, that's the very important Bill Blattner insight, that existential understanding, the stand you take on yourself in your activity, in your ability to be, is not some goal that you can aim at and achieve.
+
+164
+00:20:18,600 --> 00:20:21,720
+And remember the example, you can make your own.
+
+165
+00:20:21,721 --> 00:20:24,120
+I just always take myself as an example.
+
+166
+00:20:24,120 --> 00:20:26,120
+You can aim at getting tenure.
+
+167
+00:20:26,120 --> 00:20:28,281
+You can aim at teaching at Berkeley.
+
+168
+00:20:28,281 --> 00:20:30,440
+And you can either achieve them or not.
+
+169
+00:20:30,441 --> 00:20:32,600
+They are really potentialities.
+
+170
+00:20:33,160 --> 00:20:37,000
+And it's better that they become actual than if they're just possible.
+
+171
+00:20:37,001 --> 00:20:47,720
+Kant says somewhere, in the Critique of Pure Reason, I forget how many, but something like 10 actual dollars is much better than 10 possible dollars.
+
+172
+00:20:47,721 --> 00:20:52,120
+And in the world of the present at hand, that's always the case.
+
+173
+00:20:52,120 --> 00:21:00,880
+The actuality, well, not always maybe, if the actuality is a bad thing, but generally, the actuality is better than the possibility.
+
+174
+00:21:01,201 --> 00:21:04,640
+But in this case, with the professor thing, it isn't.
+
+175
+00:21:04,640 --> 00:21:08,721
+I mean, you can get to be a professor, and then you've got it, then you have it in your past.
+
+176
+00:21:08,721 --> 00:21:11,761
+It was a goal, you represented the goal, all that.
+
+177
+00:21:11,761 --> 00:21:14,880
+But what's really important is being a teacher.
+
+178
+00:21:14,880 --> 00:21:18,720
+And being a teacher is something that tells you who you are.
+
+179
+00:21:18,721 --> 00:21:25,920
+Whereas being a professor just tells you your official role and your label, and it doesn't organize all your experience.
+
+180
+00:21:25,920 --> 00:21:36,080
+It doesn't sort of prioritize whether you're being a teacher is going to trump being a father when the question is whether you're going to stay with the students or go home to your kids.
+
+181
+00:21:36,080 --> 00:21:38,320
+Those are the big deal issues.
+
+182
+00:21:38,320 --> 00:21:52,080
+And the point Heidegger makes is that where Dasein is concerned, he says, this is what I'm trying to explain, and I never understood it until Bill explained it, that potentiality, oh no, that's not even right.
+
+183
+00:21:52,400 --> 00:21:57,200
+Possibility is his word, is higher than actuality.
+
+184
+00:21:58,080 --> 00:22:07,120
+Which means that unlike dollars, where actual ones are better than possible ones, actually being a professor doesn't give your life meaning and organize it.
+
+185
+00:22:07,120 --> 00:22:09,281
+But being a teacher does.
+
+186
+00:22:09,281 --> 00:22:11,601
+But being a teacher never gets actualized.
+
+187
+00:22:11,600 --> 00:22:12,881
+Remember, that's the important point.
+
+188
+00:22:13,441 --> 00:22:18,721
+It's not something in the future which you can represent and aim at and succeed in getting.
+
+189
+00:22:19,120 --> 00:22:21,041
+It's and what is it then?
+
+190
+00:22:21,041 --> 00:22:48,840
+Well, it's what organizes all of your behavior, or all of your significant behavior, not your brushing your teeth and your hand washing, maybe, but what real all the behavior that really matters to you gets coordinated and organized and so forth by this stand you take on yourself, which is this business of being something or other.
+
+191
+00:22:48,840 --> 00:22:51,241
+And now, just one more word, and then you guys can talk.
+
+192
+00:22:51,561 --> 00:22:56,041
+You won't see what I'm talking about if I don't say, and that's primordial understanding.
+
+193
+00:22:56,041 --> 00:23:13,480
+The primordial understanding is having a sense of your ability to be, your own most ability to be, which is your primordial for the sake of which, which is organizing all your significant activity.
+
+194
+00:23:13,481 --> 00:23:16,120
+That's primordial understanding in high degree.
+
+195
+00:23:16,201 --> 00:23:20,680
+See, the use of understanding is so strange that you just have to get used to it.
+
+196
+00:23:20,680 --> 00:23:22,761
+That's not what we normally talk about.
+
+197
+00:23:22,761 --> 00:23:26,201
+You could say, I guess, that Bert Dreykus understands himself as a teacher.
+
+198
+00:23:26,201 --> 00:23:26,761
+It's not.
+
+199
+00:23:27,640 --> 00:23:34,600
+What Heidegger's doing is taking among lots of different possible meanings of understand two which he wants.
+
+200
+00:23:34,600 --> 00:23:40,761
+And one of them is whatever it means to say Bert Dreykus understands himself as a teacher, that's primordial understanding.
+
+201
+00:23:40,761 --> 00:23:41,480
+Yeah, Dave.
+
+202
+00:23:42,041 --> 00:23:51,000
+Could you express the difference between being a professor according to possibility and the things that we might talk about?
+
+203
+00:23:51,481 --> 00:23:57,320
+Could you express that by saying, well, being a professor actually means being on the way according to being a profession.
+
+204
+00:23:57,320 --> 00:24:01,880
+So that we have to know it's not yet finished project.
+
+205
+00:24:02,201 --> 00:24:04,121
+Yes, but open.
+
+206
+00:24:04,680 --> 00:24:05,640
+I don't know.
+
+207
+00:24:05,961 --> 00:24:08,281
+No, I think that's very confusing.
+
+208
+00:24:08,281 --> 00:24:15,400
+Being a professor is getting, you know, getting it, tenure or the job or whatever it is.
+
+209
+00:24:15,400 --> 00:24:19,241
+Being on the way to being a professor is being on the way to being a professor.
+
+210
+00:24:19,241 --> 00:24:25,480
+But with teaching, if you're a teacher, there isn't something like getting it, and there isn't anything like being on the way to get it.
+
+211
+00:24:34,160 --> 00:24:36,400
+Well, that's good for being a teacher.
+
+212
+00:24:36,961 --> 00:24:45,840
+But I want to cons I mean, I want to just to make the example clear: say being a professor is what you get when you sign your contract or the day you get tenure or something.
+
+213
+00:24:45,840 --> 00:24:49,360
+I mean, there is something that you can actually achieve.
+
+214
+00:24:49,360 --> 00:24:55,920
+Now, you can be on the way to it, but being on the way to it, this is what Heidegger would say, is not as good as getting there.
+
+215
+00:24:55,920 --> 00:25:03,281
+I mean, so when you get your tenure and you get your office and you are a professor, that's better than being on the way to being a professor.
+
+216
+00:25:03,281 --> 00:25:07,440
+But there's nothing better than being on the way to being a teacher because you never can get there.
+
+217
+00:25:07,441 --> 00:25:07,920
+Yeah.
+
+218
+00:25:07,920 --> 00:25:16,001
+Yeah, I just mean once you've arrived, there's a way in which you can still talk about not having to run.
+
+219
+00:25:16,320 --> 00:25:17,920
+Maybe, but I don't.
+
+220
+00:25:24,001 --> 00:25:41,840
+Okay, but you're just making it mur murky because, yes, there is that, but the important thing that Heidegger wants to stress is that's not essential, and you could one day get it worked out, and then that's something in the future which is the success conditions you can aim at, just being a perfect professor.
+
+221
+00:25:41,840 --> 00:25:47,521
+When I was away, I just can't resist saying that because I'm still blown away practically to tears.
+
+222
+00:25:47,521 --> 00:25:50,640
+I was in the course of a perfect professor.
+
+223
+00:25:50,640 --> 00:25:52,880
+He just had it all together.
+
+224
+00:25:52,880 --> 00:25:54,561
+He was also a perfect teacher.
+
+225
+00:25:54,561 --> 00:25:56,161
+But this is, he's famous.
+
+226
+00:25:56,160 --> 00:26:02,880
+He teaches a course on justice, and there are a thousand students in the course and 30 TAs.
+
+227
+00:26:02,880 --> 00:26:06,961
+And every year he has new and different paper topics.
+
+228
+00:26:07,921 --> 00:26:11,801
+Sean and I had lunch with him after we sat in on the justice course.
+
+229
+00:26:11,801 --> 00:26:14,041
+And he does it all like a discussion.
+
+230
+00:26:14,041 --> 00:26:15,561
+I mean, he's now my model.
+
+231
+00:26:15,961 --> 00:26:18,440
+I mean, Michael Sandel is his name.
+
+232
+00:26:18,441 --> 00:26:23,801
+And he's taking immense risk because he's letting the students talk.
+
+233
+00:26:23,801 --> 00:26:30,201
+He doesn't let them talk the way I do, in a certain way, what we're doing maybe even better, because he asks questions.
+
+234
+00:26:30,201 --> 00:26:31,960
+But it's like a discussion section.
+
+235
+00:26:31,961 --> 00:26:36,360
+All thousand students with TAs all through the audience with microphones.
+
+236
+00:26:37,241 --> 00:26:42,920
+And he remembers the names of all of them, not from the start, but when any of them says anything, he says, what's your name?
+
+237
+00:26:42,920 --> 00:26:47,641
+And then he integrates their question with their name into the whole discussion.
+
+238
+00:26:48,201 --> 00:26:49,241
+What's I going to say about that?
+
+239
+00:26:49,241 --> 00:26:50,281
+Just a second.
+
+240
+00:26:54,041 --> 00:26:54,361
+What?
+
+241
+00:26:54,360 --> 00:26:55,320
+The perfectness of it.
+
+242
+00:26:55,481 --> 00:27:00,441
+Yeah, but I was somewhere between something more about the perfectness.
+
+243
+00:27:00,441 --> 00:27:01,961
+Oh, yeah.
+
+244
+00:27:01,961 --> 00:27:02,521
+He doesn't.
+
+245
+00:27:02,680 --> 00:27:10,041
+He really only does it like a discussion section in the sense that he asks questions and the students answer the questions.
+
+246
+00:27:10,041 --> 00:27:16,120
+Oh, yeah, but no, no, the crucial thing is if you're really going to be good at anything, you've got to take a risk.
+
+247
+00:27:16,120 --> 00:27:19,481
+But you don't see it so much in me.
+
+248
+00:27:19,481 --> 00:27:20,681
+I'm taking a risk too.
+
+249
+00:27:20,680 --> 00:27:24,840
+I can waste your time and mine by going off on a tangent.
+
+250
+00:27:25,961 --> 00:27:37,480
+I was listening to the last time I gave this course, and I spent an hour discussing the difference between genuine and authentic something or other, which is in this chapter.
+
+251
+00:27:37,481 --> 00:27:39,160
+Don't ask me about it.
+
+252
+00:27:39,160 --> 00:27:41,080
+I think it's not important.
+
+253
+00:27:41,801 --> 00:27:47,880
+You can't even, and I regret it, and I made a fool of myself and wasted people's time.
+
+254
+00:27:47,880 --> 00:27:57,120
+But he's really taking a risk because his whole way of teaching depends on getting out of the students the distinction that he has in mind for that lecture.
+
+255
+00:27:57,201 --> 00:27:58,481
+It was a cliffhanger.
+
+256
+00:27:58,481 --> 00:28:02,561
+We didn't know, Sean and I, what it was until it finally came out.
+
+257
+00:28:02,561 --> 00:28:20,880
+But all of his examples that he kept trying, were trying to get somebody to see, he was talking about being in the army and the difference between having a volunteer army, a conscripted army, a mercenary army, or an army where you could buy your way out like in the Civil War.
+
+258
+00:28:20,880 --> 00:28:36,640
+And what he wanted them to see was that there's an issue not only of people choosing, that they could be choosing for the reason that they felt it was their opportunity, a duty to the love of their country and so forth.
+
+259
+00:28:36,640 --> 00:28:41,120
+He finally got there by getting to mercenaries and what was wrong with them.
+
+260
+00:28:41,120 --> 00:28:44,481
+And some student finally said, well, they don't have any patriotism.
+
+261
+00:28:44,481 --> 00:28:45,681
+And then he had it.
+
+262
+00:28:45,680 --> 00:28:49,041
+But it was about five minutes before the end of his hour was up.
+
+263
+00:28:49,041 --> 00:28:50,801
+And that was the whole point of the lecture.
+
+264
+00:28:50,961 --> 00:28:53,840
+I said, well, what would happen, Michael, if they just didn't say it?
+
+265
+00:28:53,840 --> 00:28:56,400
+And he said, well, that's just a risk you have to take.
+
+266
+00:28:56,400 --> 00:28:58,320
+We'll bring it back up in the blog.
+
+267
+00:28:58,320 --> 00:29:00,320
+There's a blog that goes with the course.
+
+268
+00:29:00,320 --> 00:29:01,761
+It so worked out.
+
+269
+00:29:01,761 --> 00:29:03,041
+Why am I telling you all this?
+
+270
+00:29:03,041 --> 00:29:03,440
+I don't know.
+
+271
+00:29:03,441 --> 00:29:06,080
+It's just something so important to me.
+
+272
+00:29:06,640 --> 00:29:09,680
+I just saw what it is to be a perfect teacher.
+
+273
+00:29:09,680 --> 00:29:11,201
+And he's not stopping with this.
+
+274
+00:29:11,201 --> 00:29:14,880
+I mean, he's already exploring webcasts, and he's already exploring.
+
+275
+00:29:14,961 --> 00:29:24,161
+He wants to see if he can use interactive video in his webcast, because he can't teach if he isn't constantly interacting with the students who are also taking risks.
+
+276
+00:29:24,160 --> 00:29:25,201
+Because there they are.
+
+277
+00:29:25,201 --> 00:29:35,120
+I'm amazed at how courageous they are, saying what they think the answer to the questions are with a thousand students looking at them and wondering whether they're going to make any sense.
+
+278
+00:29:35,360 --> 00:29:37,681
+But that's teaching.
+
+279
+00:29:37,680 --> 00:29:39,000
+That's wonderful.
+
+280
+00:29:38,640 --> 00:29:44,840
+And that's the skill.
+
+281
+00:29:45,640 --> 00:29:48,041
+I've just transitioned without meaning to.
+
+282
+00:29:49,721 --> 00:29:55,320
+Teaching is his primordial ultimate for the sake of which.
+
+283
+00:29:55,640 --> 00:30:04,680
+And to do it, he needs lots of equipment and lots of skill and the risk, but I won't go into that because Heidegger doesn't go into that.
+
+284
+00:30:05,241 --> 00:30:12,360
+But he needs that he is able to organize all this equipment to do it.
+
+285
+00:30:12,360 --> 00:30:16,120
+That means that that's the other kind of understanding.
+
+286
+00:30:16,120 --> 00:30:31,080
+He has to have the skill for coping with 30 TAs with microphones running around and he uses overhead projector because he has to write on the blackboard, but he can't write on the blackboard in a room for a thousand people.
+
+287
+00:30:31,080 --> 00:30:35,401
+But he's got the way of doing it by using the old technology.
+
+288
+00:30:35,400 --> 00:30:39,241
+He hates PowerPoint, I was happy to see, because he kind of has to.
+
+289
+00:30:39,561 --> 00:30:42,840
+PowerPoint puts you into sort of locked step.
+
+290
+00:30:43,080 --> 00:30:45,721
+The teacher knows already how it's going to turn out.
+
+291
+00:30:46,281 --> 00:30:50,120
+No risk at all, and no interest really, and no excitement at all.
+
+292
+00:30:50,120 --> 00:31:06,840
+Whereas he's writing down, keeping track of who said what, and he's going to finally, in the last five minutes, if he's lucky, or maybe ten if he's luckier, put it all together so that you can see the difference between, say, Locke and Rousseau, which is one of the things that was the point of that lecture.
+
+293
+00:31:06,840 --> 00:31:07,961
+Did I see a hand up?
+
+294
+00:31:07,961 --> 00:31:08,440
+Yeah.
+
+295
+00:31:14,521 --> 00:31:17,561
+Well, well, that that then then don't say it.
+
+296
+00:31:17,721 --> 00:31:20,761
+That is, I mean, that's not a Heideggerian thing.
+
+297
+00:31:21,001 --> 00:31:29,840
+If you it's the kind of teacher that that we're interested in being, you could be without being accredited, and being accredited wouldn't really make you a teacher.
+
+298
+00:31:30,160 --> 00:31:42,880
+I mean, being accredited is another thing in the future which you can achieve and which you can represent what it would be like when you get it, and you can then, so to speak, sort of rest on your laurels if you want to.
+
+299
+00:31:44,080 --> 00:31:46,640
+That's not what I'm talking about.
+
+300
+00:31:48,160 --> 00:31:53,920
+That's being a professor, or being an instructor, or being whatever you just got to, when you got to.
+
+301
+00:31:54,080 --> 00:32:01,920
+I'm talking about something which nothing like accrediting or tenure or whatever could give you.
+
+302
+00:32:01,920 --> 00:32:03,761
+It's a way of life.
+
+303
+00:32:03,760 --> 00:32:05,440
+It's what your life means.
+
+304
+00:32:06,481 --> 00:32:08,161
+What you think you are.
+
+305
+00:32:08,160 --> 00:32:11,841
+And there's this passage I'll read where Heidegger's underlining is all the time.
+
+306
+00:32:11,841 --> 00:32:15,680
+You're primordial for the sake of is what you are.
+
+307
+00:32:16,001 --> 00:32:23,361
+And to say that, well, I'm an accredited professor, that doesn't sound like a life ambition or a way or something.
+
+308
+00:32:23,361 --> 00:32:30,721
+No, but you could say, I'm a teacher, or I am sort of the village explainer, then you've got a way of life.
+
+309
+00:32:30,720 --> 00:32:31,280
+Yes.
+
+310
+00:32:51,280 --> 00:32:51,521
+Oh.
+
+311
+00:32:53,600 --> 00:32:55,600
+It's a terrible story.
+
+312
+00:33:01,921 --> 00:33:03,040
+It's a disaster.
+
+313
+00:33:03,041 --> 00:33:04,721
+What happened to you described it?
+
+314
+00:33:05,041 --> 00:33:05,520
+Okay.
+
+315
+00:33:05,521 --> 00:33:08,320
+Yes, well that's that's that's interesting.
+
+316
+00:33:08,361 --> 00:33:13,481
+I in fact, five houses down the street from where I live, there was a guy like that.
+
+317
+00:33:13,481 --> 00:33:15,001
+He was training to be an astronaut.
+
+318
+00:33:15,001 --> 00:33:16,280
+He was going to be an astronaut.
+
+319
+00:33:10,321 --> 00:33:17,080
+He understood everything.
+
+320
+00:33:17,401 --> 00:33:22,841
+He was a professor of astronomy, but he was also doing all the exercises.
+
+321
+00:33:22,841 --> 00:33:25,400
+And just before he was supposed to go, he got cancer.
+
+322
+00:33:25,401 --> 00:33:29,481
+He got cured, but then it was too late to go, and they never let him go.
+
+323
+00:33:29,481 --> 00:33:32,360
+And he was, but I know a more dramatic one.
+
+324
+00:33:32,521 --> 00:33:40,841
+A woman who took the Marilla-Ponty course, I think maybe it was three years ago, who had been training, I guess she was probably three or four years old, to be a ballet dancer.
+
+325
+00:33:40,841 --> 00:33:47,881
+And then she got somehow something like, I don't know, arthritis or something, where it was just too painful for her to do.
+
+326
+00:33:47,881 --> 00:33:58,681
+And why I'm telling you this is because both of them, at least I know about her, I'm assuming, I didn't talk to the astronaut guy about it, but I take it they would both go into grief.
+
+327
+00:33:59,001 --> 00:34:07,961
+And by grief, I mean the whole meaning of their world would collapse along with the meaning of their life, just as if somebody you love died.
+
+328
+00:34:09,080 --> 00:34:18,680
+And it would be just exactly the other side proof that this had been their defining ultimate for the sake of which.
+
+329
+00:34:18,680 --> 00:34:21,241
+And when you lose it, you lose everything.
+
+330
+00:34:21,240 --> 00:34:23,161
+Significance disappears.
+
+331
+00:34:23,160 --> 00:34:33,001
+I presume for people like that, the world is the disposingness is kind of gray, and nothing really looks like it's worth doing and really matters.
+
+332
+00:34:33,401 --> 00:34:35,401
+But it doesn't have to be the end of the world.
+
+333
+00:34:35,401 --> 00:34:40,600
+After you go through grief, you can get a new ultimate for the sake of which.
+
+334
+00:34:40,600 --> 00:34:43,880
+But you're onto a very interesting phenomenon, yeah.
+
+335
+00:34:44,120 --> 00:34:50,041
+How did you understand grief without going to the motion by the Berlin Period?
+
+336
+00:34:50,921 --> 00:34:53,080
+Ah, how can you well that's a good question.
+
+337
+00:34:53,080 --> 00:35:04,241
+How can you uh you it is a failing of a certain way of being, but it's not uh some goal that they aimed at which they didn't get.
+
+338
+00:35:04,240 --> 00:35:09,281
+It's a kind of significance that they lived in, which they have now lost.
+
+339
+00:35:09,760 --> 00:35:12,400
+It was a question it's very interesting.
+
+340
+00:35:12,640 --> 00:35:18,080
+There's a difference between failing to achieve something and world collapse.
+
+341
+00:35:18,080 --> 00:35:26,080
+World collapse is a very more ontological condition that goes with primordial for the sake of witches.
+
+342
+00:35:26,401 --> 00:35:27,521
+Anything else?
+
+343
+00:35:27,521 --> 00:35:28,561
+Good examples.
+
+344
+00:35:28,561 --> 00:35:29,120
+Yeah.
+
+345
+00:35:33,521 --> 00:35:36,080
+It's also very good as a father.
+
+346
+00:35:36,800 --> 00:35:41,761
+How do you say that I involved in silent or infamous and everything more by imaginary?
+
+347
+00:35:42,401 --> 00:35:44,320
+Yes, well, that's a very tough one.
+
+348
+00:35:44,720 --> 00:35:49,600
+How would you reconcile the primordial for the sake of which of being a teacher and being a father?
+
+349
+00:35:49,600 --> 00:35:51,041
+I've always wondered.
+
+350
+00:35:52,800 --> 00:35:56,080
+I don't feel I did it right, but I don't know what it is to do it right.
+
+351
+00:35:56,080 --> 00:36:02,561
+I mean, I sort of sacrificed being with my kids a lot of the time to teaching a lot more of the time.
+
+352
+00:36:02,561 --> 00:36:12,720
+But what would be ideal would be somehow to get them together in a more, as you say, for the sake of which that somehow brought them together.
+
+353
+00:36:12,720 --> 00:36:13,680
+In a way, I did.
+
+354
+00:36:13,680 --> 00:36:17,520
+My kids always say, well, you related to us as a teacher.
+
+355
+00:36:17,521 --> 00:36:24,480
+You always listened to us and then tried to see what we were saying and then tried to point us further in whatever direction and so forth.
+
+356
+00:36:24,800 --> 00:36:26,641
+I guess I sort of did it.
+
+357
+00:36:26,961 --> 00:36:29,280
+But anyway, it is a problem.
+
+358
+00:36:29,280 --> 00:36:33,920
+It's a problem that Heidegger just doesn't even broach because he's being so ontological.
+
+359
+00:36:33,921 --> 00:36:40,521
+But if you ask sort of the existential question, what if you have two primordial for the sake of witches?
+
+360
+00:36:40,160 --> 00:36:42,120
+How do you get, what do you do about that?
+
+361
+00:36:42,441 --> 00:36:57,721
+Then I think Heidegger has to say, well, either you rank them and you can tell when the chips are down, which one you'll sacrifice, or half of it, if you can do it, you make a more basic one that combines them.
+
+362
+00:36:57,720 --> 00:37:01,960
+But that's this is all existential, of course, but that doesn't matter.
+
+363
+00:37:01,961 --> 00:37:10,520
+I mean, it's important to help you understand the ontological, and it's something you could certainly talk about in a paper if you want to.
+
+364
+00:37:11,240 --> 00:37:13,401
+And go ahead, yeah, Curtis.
+
+365
+00:37:13,481 --> 00:37:15,961
+I just kind of touched on the fourth thing.
+
+366
+00:37:21,561 --> 00:37:23,481
+That's the structure of the world.
+
+367
+00:37:23,640 --> 00:37:27,001
+He doesn't have a sick wish to reexist.
+
+368
+00:37:27,001 --> 00:37:33,801
+And we don't want to get that muddled up with the optical notion of being a teacher and being a father.
+
+369
+00:37:34,041 --> 00:37:36,280
+The for the sake of which is a more abstract notion.
+
+370
+00:37:36,280 --> 00:37:39,641
+We live for the sake of being a teacher and a father.
+
+371
+00:37:40,280 --> 00:38:04,521
+Well, well, I don't find that very illuminating, but maybe it is because I think you better be, I mean, it's not maybe for us to discuss, but there is a real question, an existential question, maybe you're not disagreeing, of how you get together being a teacher and a father.
+
+372
+00:38:04,521 --> 00:38:11,720
+You can't just say, well, you know, you just do it, you become a teacher/slash/father, bong, there's your for the sake of which.
+
+373
+00:38:11,720 --> 00:38:14,680
+I mean, I always want to stay close to the phenomena.
+
+374
+00:38:15,001 --> 00:38:17,320
+And they're onto the phenomena.
+
+375
+00:38:17,961 --> 00:38:22,480
+What if you lose your ability to X, like be a ballet dancer?
+
+376
+00:38:22,481 --> 00:38:24,361
+Or how do you reconcile the two?
+
+377
+00:38:24,361 --> 00:38:35,281
+Those aren't Heidegger's questions, because at the level he's talking, you make it sound as if his ontological level somehow solves the problem of the existential level.
+
+378
+00:38:42,640 --> 00:38:43,840
+Not a professor, a teacher.
+
+379
+00:38:43,841 --> 00:38:44,641
+A teacher.
+
+380
+00:38:44,961 --> 00:38:46,240
+Just don't confuse yourself.
+
+381
+00:38:46,240 --> 00:38:47,120
+Yeah, okay.
+
+382
+00:38:47,120 --> 00:38:52,721
+You sent like an example with the astronaut that breaks his leg and doesn't want to go in space.
+
+383
+00:38:52,720 --> 00:38:56,720
+He's not that kind of style to be the type of person that wants to be an astronaut.
+
+384
+00:38:56,720 --> 00:38:57,921
+I'm serving bracelets.
+
+385
+00:38:57,921 --> 00:38:59,360
+He's going to be on another mission.
+
+386
+00:38:59,361 --> 00:39:00,320
+Something like that.
+
+387
+00:39:00,321 --> 00:39:07,440
+Maybe it's not going to go to space, but it's that style of his way.
+
+388
+00:39:07,441 --> 00:39:08,080
+Okay, good.
+
+389
+00:39:08,080 --> 00:39:09,521
+I think I see what you're saying now.
+
+390
+00:39:09,521 --> 00:39:10,401
+I think that's right, too.
+
+391
+00:39:11,361 --> 00:39:15,360
+Well, it's this style business is the mattering part of it, I take it.
+
+392
+00:39:15,361 --> 00:39:19,841
+What matters to him is, so to speak, stuff that has to do with faith.
+
+393
+00:39:19,841 --> 00:39:30,241
+And that's another way he could save himself from grief, would be to just switch the fact that what really matters and makes his life worth living is space things.
+
+394
+00:39:30,240 --> 00:39:32,160
+And that's what he did do.
+
+395
+00:39:32,160 --> 00:39:41,761
+He stays a kind of scientific consultant to NASA, and he's very involved in the keeping track of things on missions and stuff.
+
+396
+00:39:41,760 --> 00:39:42,880
+That's fine.
+
+397
+00:39:42,881 --> 00:39:56,401
+And what Curtis is saying is right, as long as you don't think that the primordial for the sake of which is something else more abstract than whatever it is that concretely gives meaning to your life.
+
+398
+00:39:56,720 --> 00:40:02,400
+But finally, it has to, so to speak, be some specific for the sake of which.
+
+399
+00:40:02,401 --> 00:40:08,001
+And it better not be, and this is important from previous years, Curtis and I had discussed this.
+
+400
+00:40:08,321 --> 00:40:16,360
+There is this risk, which isn't, this is a funny place to discuss it, but I think maybe we did when we talked about the for the sake of which last time.
+
+401
+00:40:16,361 --> 00:40:17,641
+I don't, I'm not sure.
+
+402
+00:40:17,640 --> 00:40:21,881
+But there are two, I think, mistaken ways to deal with it.
+
+403
+00:40:22,120 --> 00:40:34,521
+One is to think that, well, you're for the sake of which is just to be you, so to speak, which seems trivial and hard to see how that could give any kind of coherent meaning to your activities.
+
+404
+00:40:34,521 --> 00:40:38,521
+And the other one is that you just take on a role.
+
+405
+00:40:38,521 --> 00:40:46,120
+And that doesn't sound like it's enough specificity if everybody is just able to take on the same role.
+
+406
+00:40:46,120 --> 00:40:50,201
+Now, I want to make parenthetically, because it's important, a lot of people are like that.
+
+407
+00:40:50,200 --> 00:40:58,921
+They just have a ones, everybody has their primordial for the sake of which, but it could be just a general role.
+
+408
+00:40:58,921 --> 00:41:02,600
+They're sort of acting out this business or that.
+
+409
+00:41:02,760 --> 00:41:15,480
+It isn't, but if you're doing it, so to speak, authentically or right, then you've got to bring in somehow the individual uniqueness of it and the role stuff.
+
+410
+00:41:15,481 --> 00:41:20,201
+Because if you just go around being uniquely yourself, I don't think that'll do it.
+
+411
+00:41:20,200 --> 00:41:29,720
+And if you just go around filling out the role of teacher, perhaps as you've seen in movies and T V, what one does when one is a teacher, that's not going to do it.
+
+412
+00:41:29,720 --> 00:41:30,760
+So what's it got to be?
+
+413
+00:41:30,760 --> 00:41:34,760
+Well, it's got to be doing something that's got a role in the culture.
+
+414
+00:41:34,760 --> 00:41:39,400
+I mean, otherwise you'd just be crazy from your point of view and from everybody else's.
+
+415
+00:41:39,401 --> 00:41:49,161
+Doing something that has a r a role in the culture, but not in a general, vain level, standard way, but in your own unique style.
+
+416
+00:41:49,160 --> 00:41:59,120
+So that you have to put together the sort of what I call think of it again as the romantic view that there's some deep you, that you've just gotta just being you is a is all you have to do.
+
+417
+00:41:59,441 --> 00:42:03,681
+You've gotta do it through the shared pro shared roles.
+
+418
+00:42:03,680 --> 00:42:08,481
+But it's inauthentic if you just think that you're taking on a role.
+
+419
+00:42:08,481 --> 00:42:15,360
+You've got to do it with the style that represent uh that is your way of distributing your efforts and your mattering.
+
+420
+00:42:15,441 --> 00:42:17,760
+I don't know, do we don't we agree about that finally?
+
+421
+00:42:19,041 --> 00:42:20,080
+Okay, good.
+
+422
+00:42:20,240 --> 00:42:25,521
+Finally, after three or four years we we influence me, I influenced him.
+
+423
+00:42:25,521 --> 00:42:26,161
+Yeah.
+
+424
+00:42:28,720 --> 00:42:30,641
+Well, I can't hear you loud enough.
+
+425
+00:42:33,441 --> 00:43:00,641
+You're deliberately recognizing pilots and you're getting that for that and look at it and having a positive effect in the order of the society, but well, I I think that's probably an interesting question, but I don't answer it simply because we're just staying at the existential level, and now it's time to go on.
+
+426
+00:43:00,640 --> 00:43:07,201
+You are all telling me specific problems with For the Sake of Witches, and he's asking about whether you could sacrifice yours.
+
+427
+00:43:07,200 --> 00:43:20,160
+I was just reading a tale of two cities where some where somebody has that, where Sidney Carton, I guess, I haven't got to the end that I've heard, sacrifices himself and something, but he does it presumably.
+
+428
+00:43:20,401 --> 00:43:24,561
+I take it because that's his understanding of being.
+
+429
+00:43:24,881 --> 00:43:25,441
+Never mind.
+
+430
+00:43:25,441 --> 00:43:32,481
+I don't know how his understanding of being can't just require him to sacrifice his understanding of being.
+
+431
+00:43:32,481 --> 00:43:34,641
+He'd be out in nowhere.
+
+432
+00:43:34,640 --> 00:43:37,200
+So too hard.
+
+433
+00:43:37,200 --> 00:43:38,160
+Come and talk in office.
+
+434
+00:43:38,160 --> 00:43:39,720
+It's too existential.
+
+435
+00:43:39,441 --> 00:43:41,561
+Limit, let's go on.
+
+436
+00:43:41,881 --> 00:43:42,360
+Okay?
+
+437
+00:43:42,600 --> 00:43:43,960
+Where do you get it going?
+
+438
+00:43:44,441 --> 00:44:05,960
+We're about to read 183 at the bottom, which we just did, I think, which is, yes, okay, now do you hope, after all that discussion, and it's worth it, to understand something that's very interesting, and nobody except Bill Blattner, as far as I know, has ever understood it and made a fuss about it, but it's crucial.
+
+439
+00:44:05,961 --> 00:44:28,361
+Understanding is the being of such ability to be, which is never something still outstanding, that is something which you're going to achieve in the future but haven't yet, as it isn't outstanding, it's not yet present at hand, but which as something which is essentially never present at hand, is with the being of Dasein in the sense of existence.
+
+440
+00:44:28,361 --> 00:44:30,041
+You should understand that now.
+
+441
+00:44:30,041 --> 00:44:37,880
+That it is, it's what you are, and will continue to be, but it's not something that you could achieve.
+
+442
+00:44:37,881 --> 00:44:39,080
+That's what we've been saying.
+
+443
+00:44:39,080 --> 00:44:40,281
+That's what he's saying.
+
+444
+00:44:40,280 --> 00:44:41,640
+So let's go on.
+
+445
+00:44:42,361 --> 00:44:45,481
+Let's see, 184.
+
+446
+00:44:46,280 --> 00:44:48,040
+Oh, I say just go on reading.
+
+447
+00:44:48,041 --> 00:44:51,080
+Okay, Dasein is such at the top of 184.
+
+448
+00:44:51,080 --> 00:44:53,961
+The German is 144 middle.
+
+449
+00:44:53,961 --> 00:45:01,801
+Dasein is such that in every case it's understood or alternately not understood that it is to be such thus and thus.
+
+450
+00:45:01,800 --> 00:45:05,001
+As such understanding, it knows what it's capable of.
+
+451
+00:45:05,001 --> 00:45:11,321
+That is, well, then its potentiality for being is capable of doesn't make any sense.
+
+452
+00:45:11,481 --> 00:45:15,161
+It knows what it is capable of, that is, what it can be.
+
+453
+00:45:15,160 --> 00:45:17,401
+I think that's what the German said.
+
+454
+00:45:17,401 --> 00:45:22,440
+This knowing does not first arise from an imminent self-perception.
+
+455
+00:45:22,441 --> 00:45:28,640
+That's the sort of romantic thing again, that you've got, all you have to do is sort of look inside to find out what you're calling is.
+
+456
+00:45:25,401 --> 00:45:31,760
+That belongs to the being of the there, which is essentially understanding.
+
+457
+00:45:32,160 --> 00:45:38,080
+Only because Dasein, in understanding, is its there, can it go astray and fail to recognize it.
+
+458
+00:45:38,080 --> 00:45:40,880
+So I don't think I need to read any more of this, does I?
+
+459
+00:45:41,680 --> 00:45:42,481
+No, no.
+
+460
+00:45:42,481 --> 00:45:44,561
+But he's talking about inauthentic there.
+
+461
+00:45:44,561 --> 00:45:48,240
+I mean, how Dasein can sort of fall into some role, or I think.
+
+462
+00:45:48,240 --> 00:45:51,681
+But I'm not sure what he's talking about there, but we don't need it.
+
+463
+00:45:52,401 --> 00:45:59,201
+So, and now, I mean, I've just been sort of flipping back and forth like Heidegger, because they're so intimately related.
+
+464
+00:45:59,200 --> 00:46:13,921
+But mostly we've been talking about the primordial for the kind of understanding, which is, namely, having your own ultimate for the sake of which.
+
+465
+00:46:13,921 --> 00:46:26,881
+Now we're going to switch to talking about what I'm calling the basic level, and that's that you're day-to-day skillful, transparent, hoping, dealing with equipment.
+
+466
+00:46:27,280 --> 00:46:38,561
+And that's a kind of understanding that makes this other kind of understanding, namely the for the sake of, final, for the sake of which, is organizing all the time.
+
+467
+00:46:38,561 --> 00:46:43,120
+So now on 184, go down to the italics.
+
+468
+00:46:43,841 --> 00:46:57,521
+Understanding is the existential being of Dasein's own most ability to be, and it is so in such a way that this being discloses itself, it discloses in itself what its being is capable of.
+
+469
+00:46:57,521 --> 00:47:01,120
+Ah, no, I'm sorry, I just misled you.
+
+470
+00:47:01,120 --> 00:47:06,080
+That's still about the primordial for the sake of, its own most ability to be.
+
+471
+00:47:06,080 --> 00:47:10,440
+That's not your ability to open doors and lecterns.
+
+472
+00:47:10,760 --> 00:47:13,561
+So now, so what do I want next?
+
+473
+00:47:10,080 --> 00:47:15,401
+Let's try.
+
+474
+00:47:15,720 --> 00:47:18,441
+Let me not make this mistake the next time.
+
+475
+00:47:20,120 --> 00:47:23,401
+Well, that belongs with the primordial.
+
+476
+00:47:23,401 --> 00:47:25,401
+Maybe it's going to happen next.
+
+477
+00:47:25,401 --> 00:47:26,680
+Okay, now let's see.
+
+478
+00:47:26,680 --> 00:47:31,001
+I want to look ahead.
+
+479
+00:47:31,321 --> 00:47:34,040
+Yeah, he's going to, you see, this is what's so confusing.
+
+480
+00:47:34,041 --> 00:47:39,721
+He's going to, if you just keep reading, you find yourself in the coping with equipment world.
+
+481
+00:47:39,720 --> 00:47:40,440
+Let's go on.
+
+482
+00:47:40,441 --> 00:47:45,240
+As a disclosure, understanding always pertains to the whole basic state of being in the world.
+
+483
+00:47:45,240 --> 00:47:51,561
+As a potentiality for being, any being in is an ability to be in the world.
+
+484
+00:47:51,561 --> 00:48:12,201
+Not only is the world qua world disclosed as possible significance, now see, we're in the coping business, as possible significance, but when that which is within the world is itself freed, and we don't go back over that again, but you have a feel for that, I hope, this entity is freed for its own possibilities.
+
+485
+00:48:12,200 --> 00:48:15,080
+That which is ready to hand is discovered.
+
+486
+00:48:15,080 --> 00:48:17,401
+And now this is a different kind of understanding.
+
+487
+00:48:17,401 --> 00:48:18,200
+Absolutely.
+
+488
+00:48:18,200 --> 00:48:25,641
+This is that which is ready to hand is discovered as such in its serviceability, usability, its detrimentality.
+
+489
+00:48:25,640 --> 00:48:28,201
+The totality of involvements is revealed.
+
+490
+00:48:28,200 --> 00:48:47,160
+Sort of imperceptibly, we've gone from the, and no wonder it's hard to understand, the kind of understanding that comes from taking a stand on your own being to the kind of coping with the serviceable and usable and so forth that you have to do in order to take a stand.
+
+491
+00:48:47,160 --> 00:48:57,120
+We've now got to the serviceability of lecterns and books and pens and so forth, which is very different than this business we've been discussing of being a teacher.
+
+492
+00:48:57,120 --> 00:48:59,841
+And he's talking about both.
+
+493
+00:48:59,841 --> 00:49:10,881
+And the crunch, I mean, the sentence which I never paid much attention to, I now think is crucial, is the top of 185, and that's about the middle of 145.
+
+494
+00:49:10,881 --> 00:49:14,721
+With equipment, I'm really doing this, the equiprimordial bit.
+
+495
+00:49:14,720 --> 00:49:30,161
+With equiprimordial primordiality, the understanding projects Dasein's being both upon its, for the sake of which, that's the ultimate for the sake of which, and upon significance as the worldhood of its current world.
+
+496
+00:49:30,160 --> 00:49:40,641
+That's the whole referential totality, plus the roles that is that teaching equipment and teaching world.
+
+497
+00:49:40,640 --> 00:49:43,201
+All of that you've got to have if you're going to be a teacher.
+
+498
+00:49:43,200 --> 00:49:46,801
+And that's equiprimordial, these two kinds of understanding.
+
+499
+00:49:47,120 --> 00:49:52,481
+I take it really to be equiprimordial means that you can say in either way that they're each basic.
+
+500
+00:49:52,481 --> 00:49:58,801
+I mean, the primordial one is basic since it selects which of the significance structure you're going to use.
+
+501
+00:49:58,800 --> 00:50:06,881
+I'm going to use this, not baseballs and baseball bats and mitts and so forth, to take my stand on my being.
+
+502
+00:50:06,881 --> 00:50:11,361
+That's the way the primordial one organizes everything.
+
+503
+00:50:11,361 --> 00:50:14,320
+But the basic one is equiprimordial.
+
+504
+00:50:14,321 --> 00:50:25,120
+It's equally absolutely necessary because you can't just sit at home and smoke a pipe and think that you're a teacher.
+
+505
+00:50:25,120 --> 00:50:27,600
+You've got to have the equipment to do it.
+
+506
+00:50:27,600 --> 00:50:32,640
+Okay, now I've gotten close to where I want to be.
+
+507
+00:50:32,640 --> 00:50:33,280
+Let's see.
+
+508
+00:50:33,280 --> 00:50:35,600
+One, two, three.
+
+509
+00:50:48,760 --> 00:50:50,281
+Yeah, okay.
+
+510
+00:50:51,720 --> 00:50:52,840
+There's plenty more to say.
+
+511
+00:50:52,841 --> 00:51:01,880
+But this is, you see, I hope now the basic point, why it hangs together, these two kinds of understanding, and why it's hard.
+
+512
+00:51:01,881 --> 00:51:02,521
+Oh, yeah.
+
+513
+00:51:02,521 --> 00:51:14,521
+Now, I spent a lot of time already, and I don't regret it for a minute, on the kind of understanding that's involved in having, taking a stand on your being.
+
+514
+00:51:14,521 --> 00:51:20,600
+And keep remembering that kind of punt, because it's very, I mean, it helps you get a sense.
+
+515
+00:51:20,760 --> 00:51:24,041
+And remember the phrase, well, he understands himself as a teacher.
+
+516
+00:51:24,041 --> 00:51:26,041
+We've been talking about that understanding.
+
+517
+00:51:26,041 --> 00:51:33,001
+Now, there's a lot more to say about the basic understanding, which is the coping kind.
+
+518
+00:51:33,401 --> 00:51:46,521
+I'm always happy and interested because I think Heidegger is so ahead of his time and so ahead of everybody else in his understanding of this coping business that I pay careful attention.
+
+519
+00:51:46,521 --> 00:52:01,961
+And now I want to say that, and this is, it's obvious that understanding has a meaning which is going to lead you astray and cover up the phenomena that he wants you to see.
+
+520
+00:52:01,961 --> 00:52:05,881
+Because understanding is usually taken to be an intellectual sort of thing.
+
+521
+00:52:06,441 --> 00:52:10,201
+It takes thinking to understand, one would suppose.
+
+522
+00:52:10,200 --> 00:52:15,801
+You can't be understanding when you're just hitting a ball back with a slam from the net.
+
+523
+00:52:15,800 --> 00:52:19,401
+Well, in Heidegger's sense, that's understanding.
+
+524
+00:52:19,401 --> 00:52:21,801
+Understanding is know-how.
+
+525
+00:52:21,800 --> 00:52:25,441
+And it's not cognitive.
+
+526
+00:52:25,441 --> 00:52:26,400
+It's not thinking.
+
+527
+00:52:26,401 --> 00:52:28,240
+I mean, he's got other words for that.
+
+528
+00:52:25,160 --> 00:52:30,880
+You've got to get used to his vocabulary.
+
+529
+00:52:31,120 --> 00:52:40,241
+When you start paying attention and thinking and solving a problem and puzzling because things aren't going in the flowing sort of way, that's called interpretation.
+
+530
+00:52:40,240 --> 00:52:44,401
+And that's on the agenda for next Tuesday in the assignment.
+
+531
+00:52:44,401 --> 00:52:54,880
+And understanding is for Heidegger this fluid kind of coping, and he's explicit about it here way back on 385.
+
+532
+00:52:54,881 --> 00:52:56,721
+I find it where I can.
+
+533
+00:52:56,720 --> 00:53:03,041
+In Division II, all of these things we're talking about come back and they get mapped onto temporality.
+
+534
+00:53:03,041 --> 00:53:05,120
+But I don't care about that right now.
+
+535
+00:53:05,120 --> 00:53:15,600
+I just want you to see right at the top of German 336 on your 385, section A, there's just a sentence which is important.
+
+536
+00:53:15,600 --> 00:53:40,080
+With the term understanding, we have in mind a fundamental existentiale, which is neither a definite species of cognition, I'll tell you about that in a minute, distinguished, let us say, from explaining and conceiving, nor any cognition at all in the sense of grasping something thematically, which that means paying attention to something and dealing with it by thinking about it, reflecting on it, noticing it.
+
+537
+00:53:40,080 --> 00:53:45,681
+All of that is not the kind of understanding, the deep kind, the basic kind.
+
+538
+00:53:45,680 --> 00:54:07,120
+Remember always, or keep getting used to the fact that a sports person doing a brilliant move is showing understanding, that a musician doing a brilliant thing is understanding, but then you're managing just to get out the door and responding to the two go out at the appropriate time in the appropriate way is a kind of understanding.
+
+539
+00:54:07,120 --> 00:54:19,641
+That's and now, parenthetically, I have to say that he's also making a point about two species of cognition.
+
+540
+00:54:19,640 --> 00:54:24,441
+And this is only going to confuse the Germans more than it's going to confuse us.
+
+541
+00:54:24,441 --> 00:54:25,561
+But it's interesting.
+
+542
+00:54:26,120 --> 00:54:37,881
+At his time, philosophers were interested in the difference between explaining and understanding, Erklaren and Versteien in German.
+
+543
+00:54:37,881 --> 00:54:41,161
+And Versteien is the word for understanding that he's got.
+
+544
+00:54:41,160 --> 00:54:46,761
+And he wants to say, no, I'm not talking about the Ferstein half of what you guys talk about.
+
+545
+00:54:46,760 --> 00:54:59,641
+The Ferstein people, the understanding people among his contemporaries, were interested in the fact that if you do history, you have to understand what's going on in terms of what it means to the people.
+
+546
+00:54:59,640 --> 00:55:04,600
+But if you do science, then you bring things under universal laws.
+
+547
+00:55:04,600 --> 00:55:07,801
+Understanding was the social sciences.
+
+548
+00:55:07,961 --> 00:55:11,801
+It was the Geistus Wittgenstaft in German jargon.
+
+549
+00:55:11,800 --> 00:55:14,840
+And Erkleen is the Naturwissenschaft.
+
+550
+00:55:14,841 --> 00:55:16,441
+That's natural science.
+
+551
+00:55:16,441 --> 00:55:21,721
+And he's saying, but both of them are a kind of thinking.
+
+552
+00:55:22,041 --> 00:55:33,801
+There's the social science kind of thinking, which is understanding, and the natural science kind of thinking, which is bringing things under laws, scientific laws.
+
+553
+00:55:33,800 --> 00:55:35,401
+That's explaining.
+
+554
+00:55:35,401 --> 00:55:37,721
+And he's not talking about either of them.
+
+555
+00:55:37,720 --> 00:55:41,160
+He's talking about something different and more basic.
+
+556
+00:55:41,401 --> 00:55:45,321
+That's why he says it's not a species of cognition.
+
+557
+00:55:45,321 --> 00:55:52,440
+And it as as understanding versus explaining, it's not any kind of cognition at all.
+
+558
+00:55:52,441 --> 00:55:54,600
+It's not thinking at all.
+
+559
+00:55:54,921 --> 00:55:58,561
+And then now you might think, wow, that's pretty strange.
+
+560
+00:55:58,561 --> 00:56:00,001
+What could he be talking about?
+
+561
+00:56:00,001 --> 00:56:10,481
+But I hope you've been paying attention enough to know after all the time that I talked about skillful coping, that what he's talking about is skillful coping.
+
+562
+00:56:10,481 --> 00:56:17,361
+And that's what he's going to call basic understanding.
+
+563
+00:56:17,361 --> 00:56:21,201
+So on 182, we're back to that again.
+
+564
+00:56:21,200 --> 00:56:22,241
+Something there.
+
+565
+00:56:22,240 --> 00:56:22,640
+Okay.
+
+566
+00:56:22,640 --> 00:56:23,600
+Oh, it's the same thing.
+
+567
+00:56:23,841 --> 00:56:25,041
+Now it's in your reading.
+
+568
+00:56:25,041 --> 00:56:27,281
+The very middle of 182.
+
+569
+00:56:29,441 --> 00:56:32,561
+And there's we're going to find me hit the German there.
+
+570
+00:56:32,561 --> 00:56:33,600
+So I be careful.
+
+571
+00:56:33,600 --> 00:56:36,241
+We're at the top of 143.
+
+572
+00:56:36,240 --> 00:56:42,001
+And there is the primary, which I didn't have time to look up, but I think it's going to be different than primordial.
+
+573
+00:56:42,001 --> 00:56:42,961
+It better be.
+
+574
+00:56:42,961 --> 00:56:49,920
+But I want to read starting right after where we were: understanding always has its mood.
+
+575
+00:56:49,921 --> 00:56:58,321
+If we interpret understanding as a fundamental existentiale, this indicates that this phenomenon is conceived as a basic mode of Dasein's being.
+
+576
+00:56:58,640 --> 00:57:04,001
+On the other hand, understanding in the sense of one possible kind of cognizing, that's the same point again.
+
+577
+00:57:04,001 --> 00:57:05,521
+That's the social science of stuff.
+
+578
+00:57:05,680 --> 00:57:08,641
+It's going to confuse you if we don't ignore it.
+
+579
+00:57:08,640 --> 00:57:26,641
+Understanding in the sense of one possible kind of cognizing among others, as distinguished, for instance, from explaining, must, like explaining, be interpreted as an existential derivative of that primary understanding, which is what he's going to talk about, which is one of the constituents of the being of the there in general.
+
+580
+00:57:26,640 --> 00:57:28,880
+Ah, what does it say for primary?
+
+581
+00:57:30,800 --> 00:57:32,561
+The primer.
+
+582
+00:57:32,881 --> 00:57:34,400
+And what's the word for primordial?
+
+583
+00:57:34,401 --> 00:57:36,481
+That's, I used to know.
+
+584
+00:57:36,521 --> 00:57:39,521
+Well, Urspunglich, yes, a big difference.
+
+585
+00:57:39,521 --> 00:57:40,000
+Right.
+
+586
+00:57:40,001 --> 00:57:42,200
+Okay, so we've got it, and so I'm happy to see.
+
+587
+00:57:40,321 --> 00:57:47,001
+I'm going to translate primary there in my terms as basic.
+
+588
+00:57:47,640 --> 00:58:03,401
+Primary is, I think, okay too, and make clear that that's totally different than, obviously, obviously, totally different than the primordial understanding, which is supposed to be the way Dasein takes a stand on its being.
+
+589
+00:58:03,401 --> 00:58:05,721
+So we now got them sorted out.
+
+590
+00:58:05,720 --> 00:58:09,080
+That's a big step forward.
+
+591
+00:58:09,401 --> 00:58:17,881
+Now, notice, though, how confusing it is, because immediately he goes back to primordial understanding from primary.
+
+592
+00:58:17,961 --> 00:58:25,241
+Took me, you know, take 20 years of reading it and getting confused to finally see that something important is happening there.
+
+593
+00:58:25,240 --> 00:58:29,481
+We have, after all, already come up against this primordial understanding.
+
+594
+00:58:29,481 --> 00:58:36,600
+I don't know, it's so confusing because we back, well, maybe this primordial understanding in our previous investigations.
+
+595
+00:58:37,240 --> 00:58:39,881
+Is the German Urspunglich there?
+
+596
+00:58:39,881 --> 00:58:42,281
+Or did the translators mess up?
+
+597
+00:58:42,921 --> 00:58:44,440
+Geischbunglich.
+
+598
+00:58:44,441 --> 00:58:46,200
+Well, that's very confusing.
+
+599
+00:58:46,760 --> 00:59:02,600
+Now I don't know what to do, except, I mean, till I collect my wits or somebody comes and tells me, it looks like Heidegger's not making a distinction between primary understanding, which he'd better be making, because he goes right on now, he uses the word primordial.
+
+600
+00:59:02,600 --> 00:59:12,600
+We have already come up, let's read what he's going to say, come up against this primordial understanding in our previous investigations, though we didn't allow it to be included explicitly in the theme of the discussion.
+
+601
+00:59:12,600 --> 00:59:17,481
+To say that existing Dasein is it's there, is equivalent, and so forth and so forth.
+
+602
+00:59:17,481 --> 00:59:20,041
+And now he's switching back.
+
+603
+00:59:20,361 --> 00:59:23,800
+He really, it's the this primordial.
+
+604
+00:59:24,200 --> 00:59:25,521
+Let's look at the German again.
+
+605
+00:59:25,521 --> 00:59:29,281
+Is it this, is he saying this primordial or just primordial?
+
+606
+00:59:25,240 --> 00:59:31,041
+This.
+
+607
+00:59:31,600 --> 00:59:33,360
+Okay, yeah, we got a German reader here.
+
+608
+00:59:33,361 --> 00:59:35,600
+Well, so much the worse for Heidegger.
+
+609
+00:59:35,841 --> 00:59:38,481
+Are you going to say good Greek in the margin?
+
+610
+00:59:38,481 --> 00:59:41,201
+That's what you say when you find things like that.
+
+611
+00:59:41,521 --> 00:59:48,400
+Because, I mean, I can make perfectly good sense of it, provided that we understand that he's now switched to primordial.
+
+612
+00:59:48,401 --> 00:59:50,241
+It's the this that is the problem.
+
+613
+00:59:50,240 --> 01:00:09,280
+Because now he says, having done primary understanding, he's switched over, you look a little further down, where he says, to say that an existing Dasein is its there is equivalent to saying that the world is there, Dasein's being there and being in, and the latter being in, or no, or is that Dasein?
+
+614
+01:00:09,280 --> 01:00:12,961
+Dasein, I guess, is what's the latter?
+
+615
+01:00:18,001 --> 01:00:20,080
+It being there is being in.
+
+616
+01:00:20,080 --> 01:00:22,240
+Dasein's being there is being in.
+
+617
+01:00:22,240 --> 01:00:28,080
+And Daseine is likewise there as that for the sake of which Dasein is.
+
+618
+01:00:28,080 --> 01:00:30,321
+That's the ultimate for the sake of which.
+
+619
+01:00:30,321 --> 01:00:39,760
+In, and now you see we've switched without any, not only doesn't he signal it, I mean, I'm now feeling vindicated for being confused all these years.
+
+620
+01:00:39,760 --> 01:00:55,760
+Not only does he doesn't, not only, he doesn't, not only does he not tell you that he's changed the subject between paragraphs and gone off onto a discussion of explaining and stuff, which I'll talk in a minute, but he even messes up by saying that it's primordial.
+
+621
+01:00:55,760 --> 01:00:58,401
+But now look, he got to primordial.
+
+622
+01:00:58,800 --> 01:00:59,760
+Look what he says next.
+
+623
+01:00:59,760 --> 01:01:05,441
+In the for the sake of which existing being in the world is disclosed as such, and this disclosed we called understanding.
+
+624
+01:01:05,441 --> 01:01:07,040
+Yeah, primordial understanding.
+
+625
+01:01:07,041 --> 01:01:12,200
+In the understanding of the for the sake of which, the significance which is grounded therein is disclosed along with it.
+
+626
+01:01:12,200 --> 01:01:12,600
+Good.
+
+627
+01:01:10,401 --> 01:01:16,760
+Now we're back at the other kind of understanding again, the referential whole.
+
+628
+01:01:17,001 --> 01:01:21,561
+See, they are so intimately related that I don't, but I want to distinguish them.
+
+629
+01:01:21,561 --> 01:01:22,760
+I'll let you talk in just a second.
+
+630
+01:01:22,760 --> 01:01:24,201
+Let me finish the paragraph.
+
+631
+01:01:24,200 --> 01:01:28,920
+The disclosure of understanding is discloseness of the for the sake of which and of significance.
+
+632
+01:01:28,921 --> 01:01:31,881
+We're preparing for getting them together now.
+
+633
+01:01:31,881 --> 01:01:37,321
+And of significance, equiprimordially, pertains to the entirety of being in the world.
+
+634
+01:01:37,321 --> 01:01:41,080
+Significance is that on the basis of which the world is disclosed as such.
+
+635
+01:01:41,080 --> 01:01:50,120
+To say that the for the sake of which and significance are both disclosed in Dasein means that Dasein is that entity which is being in the world is an issue for it.
+
+636
+01:01:50,120 --> 01:01:51,561
+Well, you see what I mean?
+
+637
+01:01:51,561 --> 01:01:55,001
+The two things are being juggled together.
+
+638
+01:01:55,001 --> 01:01:58,201
+They belong together, but they're so different.
+
+639
+01:01:59,321 --> 01:02:00,360
+Are you following me?
+
+640
+01:02:00,361 --> 01:02:03,640
+I think so, but I have the feeling of people looking blank.
+
+641
+01:02:03,640 --> 01:02:05,240
+I mean, so I keep repeating.
+
+642
+01:02:05,240 --> 01:02:20,120
+The primordial understanding of taking a stand on your being and the everyday basic understanding of know-how are utterly different and yet intimately related.
+
+643
+01:02:20,120 --> 01:02:20,520
+Yeah.
+
+644
+01:02:27,001 --> 01:02:27,721
+That's right.
+
+645
+01:02:29,720 --> 01:02:31,001
+That's just what I said, by the way.
+
+646
+01:02:31,001 --> 01:02:31,800
+But good, I'm ready.
+
+647
+01:02:36,841 --> 01:02:38,600
+Excuse me, primordial understanding.
+
+648
+01:02:38,600 --> 01:02:39,161
+Yeah.
+
+649
+01:02:41,481 --> 01:02:41,800
+Okay.
+
+650
+01:02:41,800 --> 01:02:46,201
+No, he's really well that he's yes, they're equiprimordial.
+
+651
+01:02:46,841 --> 01:02:54,440
+One is direct Derek Dazzle and being upon the for the big witici which and the other is Jeff and Dazzler and being upon the being in the world, isn't it?
+
+652
+01:02:54,760 --> 01:02:55,321
+Yes.
+
+653
+01:02:57,521 --> 01:03:04,481
+Okay, but but there are two, but for just a second, the interesting thing is that he's sort of justified in what he's doing.
+
+654
+01:03:04,481 --> 01:03:08,801
+I mean, there are these two separate meanings of understanding, totally different.
+
+655
+01:03:08,800 --> 01:03:27,201
+One of them is something like he understands uh English or he uh I don't know understands baseball or something where it doesn't where it means that he's he knows how to do it and it doesn't have anything to do with his my for the sake of which that I understand English.
+
+656
+01:03:27,200 --> 01:03:30,721
+And there and there are these two basic things.
+
+657
+01:03:31,041 --> 01:03:32,481
+Well I guess I just tried on me.
+
+658
+01:03:32,481 --> 01:03:33,921
+He understands teaching.
+
+659
+01:03:33,921 --> 01:03:35,041
+That's fine.
+
+660
+01:03:35,041 --> 01:03:36,480
+He understands English.
+
+661
+01:03:36,481 --> 01:03:37,681
+That's fine.
+
+662
+01:03:37,921 --> 01:03:39,680
+No, no, sorry, that's that's just confusing.
+
+663
+01:03:39,680 --> 01:03:40,001
+Forget it.
+
+664
+01:03:40,001 --> 01:03:40,640
+Sorry to get it.
+
+665
+01:03:40,800 --> 01:03:43,041
+He understands himself as a teacher.
+
+666
+01:03:43,041 --> 01:03:44,080
+That's fine.
+
+667
+01:03:44,321 --> 01:03:46,001
+One use of understanding.
+
+668
+01:03:46,321 --> 01:03:48,160
+He understands how to teach.
+
+669
+01:03:48,160 --> 01:03:50,080
+He has the know-how for teaching.
+
+670
+01:03:50,080 --> 01:03:51,841
+That's a very different kind.
+
+671
+01:03:51,841 --> 01:03:53,120
+Very different kind.
+
+672
+01:03:53,120 --> 01:03:55,040
+And yet you can have one without the other.
+
+673
+01:03:55,041 --> 01:04:02,801
+You have to when you understand yourself as a teacher, you can only do it if you have the know-how to use the equipment for teachers.
+
+674
+01:04:02,800 --> 01:04:03,680
+Okay, now Dave.
+
+675
+01:04:15,521 --> 01:04:18,161
+I wish it were so, but I don't think it is.
+
+676
+01:04:18,160 --> 01:04:29,441
+Well, then it's something that they're the deep projection background possibilities which then become relevant and so forth.
+
+677
+01:04:30,401 --> 01:04:33,681
+Well, both of them have to identify at the same time.
+
+678
+01:04:33,680 --> 01:04:35,041
+You have to vary the same thing.
+
+679
+01:04:35,361 --> 01:04:37,160
+Okay, but I think that isn't right.
+
+680
+01:04:37,401 --> 01:04:41,160
+Only because it doesn't fit the phenomenon he's describing.
+
+681
+01:04:41,160 --> 01:04:44,361
+Or at least let me try to see if it fits it.
+
+682
+01:04:45,240 --> 01:04:54,361
+The crucial is the background, which is what David is suggesting, a kind of know-how?
+
+683
+01:04:54,361 --> 01:04:55,800
+Yes, it certainly is.
+
+684
+01:04:55,800 --> 01:05:00,441
+It's a kind of know-how for finding your way around in the world, and that's very right.
+
+685
+01:05:00,441 --> 01:05:05,880
+But he's using understanding in a broader way than the background know-how for finding your way around in the world.
+
+686
+01:05:05,881 --> 01:05:12,600
+As I say, it fits his story to use understanding like he understands English or and so forth.
+
+687
+01:05:12,600 --> 01:05:17,720
+Let me read quotes, and then we'll see if what David said is going to work or not.
+
+688
+01:05:18,521 --> 01:05:23,400
+I wish it would, and maybe it does, but I'm not sure until I look.
+
+689
+01:05:24,200 --> 01:05:29,080
+So in my commentary, which is now what I'm looking at, I've got quotes.
+
+690
+01:05:29,080 --> 01:05:30,520
+You don't need the commentary.
+
+691
+01:05:31,240 --> 01:05:34,921
+It's just easy for me to carry around, easier than the whole book.
+
+692
+01:05:34,921 --> 01:05:48,041
+So in the history of the concept of time, on 298, he says, in a wonderful sort of like an analytic philosopher, and remember, logic was his big field when he came into this.
+
+693
+01:05:48,041 --> 01:05:52,200
+In ordinary language, we say he understands how to handle men.
+
+694
+01:05:52,200 --> 01:05:54,521
+Oh, that's his okay, there's his example.
+
+695
+01:05:54,521 --> 01:05:59,960
+Now, see, that doesn't that's sort of background, but that seems sort of more specific.
+
+696
+01:05:59,961 --> 01:06:01,400
+He understands how to handle men.
+
+697
+01:06:01,401 --> 01:06:03,001
+He knows how to talk.
+
+698
+01:06:03,001 --> 01:06:05,961
+Understanding here means knowing how.
+
+699
+01:06:05,961 --> 01:06:07,481
+The German is kernen.
+
+700
+01:06:07,481 --> 01:06:12,120
+I don't think any German means really knowing how, but that's certainly, the best attempt.
+
+701
+01:06:12,121 --> 01:06:14,760
+And so then the translator helps him out.
+
+702
+01:06:15,000 --> 01:06:18,760
+It means knowing how, being capable of.
+
+703
+01:06:20,121 --> 01:06:31,760
+See, Kernen probably really means being capable of, and that's sort of misleading because you could be capable of murdering your best friend or something, but that didn't be a kind of know-how.
+
+704
+01:06:32,081 --> 01:06:35,521
+But anyway, that's one of the quotes.
+
+705
+01:06:35,521 --> 01:06:37,361
+And now here's the best quote.
+
+706
+01:06:37,361 --> 01:06:47,600
+If any of you ever have any doubts about what he means by understanding, and at least want to keep your eye on the phenomenon, look at Basic Problems 276.
+
+707
+01:06:47,920 --> 01:06:49,600
+I'm going to read the passage.
+
+708
+01:06:49,600 --> 01:07:02,960
+I have to tell you beforehand, I used to think it was a perfect example of what I thought understanding meant in Heidegger, until I realized that the translator had read what I thought and put it into the Heidegger.
+
+709
+01:07:02,960 --> 01:07:09,920
+So now I have to sort of warn you as I read it that it isn't quite as Dridgerian as one would have hoped.
+
+710
+01:07:09,920 --> 01:07:11,200
+So here we go.
+
+711
+01:07:11,600 --> 01:07:15,441
+In German, we say that someone can forestand something.
+
+712
+01:07:15,760 --> 01:07:26,880
+And then the translator says, and this is okay, literally stand in front of it, ahead of it, administer it, manage it, provide, preside over it.
+
+713
+01:07:26,880 --> 01:07:31,680
+This is equivalent to saying that echie ferstetsich der auf.
+
+714
+01:07:32,161 --> 01:07:38,720
+And the translator says, understands in the sense of being skilled or expert at it, has the know-how of it.
+
+715
+01:07:38,720 --> 01:07:43,040
+I mean, Heidegger doesn't say that, but that's what Tarheidi was trying to say.
+
+716
+01:07:43,600 --> 01:07:47,680
+And the translator is just putting it right into the translation.
+
+717
+01:07:48,000 --> 01:07:55,920
+The meaning of the term, I'm reading again Heidegger, the meaning of the term understanding is intended to go back to this usage in ordinary language.
+
+718
+01:07:55,920 --> 01:07:58,561
+And that's what's the usage in ordinary language?
+
+719
+01:07:58,561 --> 01:08:07,280
+The notion of understands like he understands how to handle men or he understands how to talk, which means just has the skill of it.
+
+720
+01:08:07,281 --> 01:08:37,321
+I mean, and the background is certainly made up of all the understandings of how to respond to the two go out and to the two put books on and to two light up the room so that all these particular understandings, copings, interrelated in the referential whole and given meaning as significance, add up to the background, which we and which we understand when we know our way around in the world.
+
+721
+01:08:37,321 --> 01:08:39,080
+That's not wrong.
+
+722
+01:08:39,081 --> 01:08:46,441
+It's just that he's going to use it sort of to cover specific coping know-how, all know-how.
+
+723
+01:08:46,441 --> 01:08:49,720
+That's and not just the background know-how.
+
+724
+01:08:49,720 --> 01:08:56,201
+That if I when I use this book, then I'm used, then I'm, well, understanding will confuse you there.
+
+725
+01:08:56,201 --> 01:09:03,240
+When I use my pocket calendar to make appointments, I'm understanding how to organize my life.
+
+726
+01:09:03,720 --> 01:09:06,281
+Okay, let's, that's not a very good example either.
+
+727
+01:09:06,281 --> 01:09:08,441
+But let's go back to the text.
+
+728
+01:09:08,680 --> 01:09:10,600
+So it's not cognitive.
+
+729
+01:09:10,600 --> 01:09:16,120
+Now that's where the big difference between it and Searle comes in.
+
+730
+01:09:16,121 --> 01:09:20,120
+I mean, when he says it's cognitive, that means it's not cognitive, I mean.
+
+731
+01:09:20,121 --> 01:09:21,880
+It's not cognitivist.
+
+732
+01:09:21,880 --> 01:09:35,320
+And to be cognitivist is always to think that you need a representation of the goal, of the conditions of satisfaction, and so forth, to talk Searle like, in order to be able to skillfully do whatever.
+
+733
+01:09:35,321 --> 01:09:48,040
+And he wants to say that there is a way of just doing the skillful whatever, which doesn't require thinking, representing, having in mind what it would be like to succeed in doing it.
+
+734
+01:09:48,040 --> 01:09:50,200
+It is just doing it.
+
+735
+01:09:50,521 --> 01:10:00,000
+Let me say a little more, because I care so much about all this, which is clearer in Merlot Parilla-Ponty, I think, but Heidegger got it first of anybody in the history of the West.
+
+736
+01:10:00,241 --> 01:10:08,720
+I bet they understand this in other cultures for sure, but ours, thanks to Socrates and Plato and then Descartes, we lost it.
+
+737
+01:10:09,760 --> 01:10:12,321
+So it includes now, let's see, where are we?
+
+738
+01:10:12,321 --> 01:10:14,320
+Everyday coping with equipment.
+
+739
+01:10:14,720 --> 01:10:16,000
+Have I read this yet?
+
+740
+01:10:16,000 --> 01:10:17,680
+Yeah, the primary understanding.
+
+741
+01:10:17,680 --> 01:10:18,320
+Okay.
+
+742
+01:10:19,521 --> 01:10:23,920
+And that's Heidegger talk about dealing.
+
+743
+01:10:23,920 --> 01:10:28,800
+And now, know-how, I think I did this already, but I'm just checking, 183.
+
+744
+01:10:29,121 --> 01:10:31,441
+Yeah, the managing something, being a match for it.
+
+745
+01:10:31,441 --> 01:10:35,280
+That's the nearest we get in being in time to what I'm talking about.
+
+746
+01:10:35,920 --> 01:10:46,720
+And now on 185, he's trying to get rid of the idea that you have to have a goal and even say that you can't do it very well if you're trying to have a goal.
+
+747
+01:10:46,720 --> 01:10:50,080
+And therefore, let's call it, and now comes a new thing.
+
+748
+01:10:50,561 --> 01:10:52,000
+Well, what is understanding?
+
+749
+01:10:52,000 --> 01:10:54,960
+It's projecting into the future.
+
+750
+01:10:54,960 --> 01:10:58,240
+It's projection, he says at the top of 185.
+
+751
+01:10:58,241 --> 01:11:00,481
+And let's read the bottom of 184 then.
+
+752
+01:11:00,481 --> 01:11:11,600
+Why does the understanding, whatever may be the essential dimensions of that which can be disclosed, always press, never mind forward, always press into possibilities.
+
+753
+01:11:12,640 --> 01:11:18,160
+It is because the understanding has in itself the existential structure we call projection.
+
+754
+01:11:18,161 --> 01:11:22,720
+That is, the projection doesn't mean having in mind a goal.
+
+755
+01:11:22,720 --> 01:11:37,760
+It just means, for instance, if it's hot, being drawn to open the window, even though you may be thinking about something else and your goal wasn't to get cool, even, it was just what familiarity with rooms drew you to do.
+
+756
+01:11:37,760 --> 01:11:43,401
+That's what projection and pressing into possibilities ought to mean.
+
+757
+01:11:43,720 --> 01:11:56,680
+Heidegger's not too sharp on it because it sounds at least too much like you've got to have in mind the possibilities and then press into them.
+
+758
+01:11:57,000 --> 01:12:03,960
+That's how it looks from the outside that you can see somebody pressing into the possibility of going out.
+
+759
+01:12:03,960 --> 01:12:15,720
+But the person going out is just responding skillfully to the two go out and doesn't have, and that means they haven't even, they don't even have to know there's a door there.
+
+760
+01:12:15,720 --> 01:12:17,880
+I mean, that's not part of their experience.
+
+761
+01:12:17,880 --> 01:12:20,120
+It doesn't have to be at this basic level.
+
+762
+01:12:20,121 --> 01:12:25,561
+So you say they're going out and they're using the door as a way to go out.
+
+763
+01:12:25,561 --> 01:12:31,160
+They just respond to the two go out, which draws them to go out.
+
+764
+01:12:31,161 --> 01:12:37,800
+And that being drawn to go out is what Heidegger, I think, misleadingly calls pressing into possibilities.
+
+765
+01:12:37,800 --> 01:12:40,600
+It's too, that sounds too active.
+
+766
+01:12:40,600 --> 01:12:44,361
+But what you ought to be saying is drawn into possibilities.
+
+767
+01:12:45,000 --> 01:13:05,160
+And since he doesn't say that, my way to save him is to say what he really means is that we're thrown into being drawn into possibilities, where the thrownness has sort of got the future orientation in it without any sense of you having to think about what you're doing at all.
+
+768
+01:13:05,161 --> 01:13:12,840
+At this basic level, you just have this when you're finding your way around in the world and managing things, you don't have to think at all.
+
+769
+01:13:13,161 --> 01:13:18,920
+And even pressing into possibility sounds like you see the possibility and then you say, I'll go for that one.
+
+770
+01:13:19,081 --> 01:13:23,000
+That's from your own experience, it needn't be like that.
+
+771
+01:13:23,481 --> 01:13:28,160
+Okay, I'm still trying to convince you and tell you what's going on here.
+
+772
+01:13:28,401 --> 01:13:31,760
+So there's no how, and we, what's in the commentary?
+
+773
+01:13:31,760 --> 01:13:32,720
+Did I just read it?
+
+774
+01:13:32,720 --> 01:13:34,481
+I think I just did.
+
+775
+01:13:34,960 --> 01:13:37,441
+I did, but did I look what I read?
+
+776
+01:13:38,401 --> 01:13:40,240
+I've got to go back and look.
+
+777
+01:13:43,760 --> 01:13:45,680
+Yeah, that's what I read already.
+
+778
+01:13:45,680 --> 01:13:50,880
+And now 185, that's what I read about.
+
+779
+01:13:50,880 --> 01:13:51,680
+Okay.
+
+780
+01:13:54,321 --> 01:13:58,321
+Not having a goal, not having conditions of satisfaction.
+
+781
+01:13:58,960 --> 01:14:00,561
+Did I read that?
+
+782
+01:14:02,800 --> 01:14:04,320
+185.
+
+783
+01:14:08,000 --> 01:14:15,441
+Yes, yes, of course, this is very important, 185, right here toward the top of 185, bottom of 145.
+
+784
+01:14:16,081 --> 01:14:18,561
+After that crucial line I already read.
+
+785
+01:14:18,561 --> 01:14:24,720
+The character of understanding as projection is constituted for being in the world with regard to the disposiveness and so-and-so.
+
+786
+01:14:25,680 --> 01:14:32,240
+And as throwing, Dasein, this backs up my idea that you're thrown into being drawn into.
+
+787
+01:14:32,241 --> 01:14:36,160
+As throwing Dasein is thrown into the kind of being we call projecting.
+
+788
+01:14:36,161 --> 01:14:38,160
+Projecting has nothing to do.
+
+789
+01:14:38,161 --> 01:14:41,120
+This is the, this is exactly what I'm saying.
+
+790
+01:14:41,121 --> 01:14:49,280
+Projection has nothing to do with comporting oneself towards a plan that's been thought out and in accordance with which Dasein arranges its being.
+
+791
+01:14:49,281 --> 01:15:00,720
+On the contrary, any Dasein as Dasein already projects, well, as Dasein already projected itself, and as long as it is, it is projecting.
+
+792
+01:15:00,720 --> 01:15:06,880
+As long as it is, Dasein always has understood itself and always will understand itself in terms of possibilities.
+
+793
+01:15:06,880 --> 01:15:09,040
+And then it's going on.
+
+794
+01:15:09,040 --> 01:15:11,880
+I mean, this is the, I've just been explaining this paragraph.
+
+795
+01:15:10,401 --> 01:15:12,920
+Remember, don't get lost.
+
+796
+01:15:13,241 --> 01:15:20,200
+This is all what he means by basic understanding, what the translation calls primary understanding.
+
+797
+01:15:20,201 --> 01:15:27,401
+And it's more basic than thinking about things, planning things, and so forth.
+
+798
+01:15:27,401 --> 01:15:28,200
+So let's go on.
+
+799
+01:15:28,201 --> 01:15:39,800
+Furthermore, the character of understanding as projecting is such that the understanding does not grasp thematically that upon which it projects.
+
+800
+01:15:40,121 --> 01:15:43,000
+Interestingly enough, the translators are amazing.
+
+801
+01:15:43,000 --> 01:15:45,880
+There is this word, remember, Vorau Hin.
+
+802
+01:15:45,880 --> 01:15:52,280
+And it usually means, and in the part on worldhood, it always means that on the basis of which.
+
+803
+01:15:52,281 --> 01:15:59,160
+And the translator back there always, almost always calls it towards which, which makes the passage completely unintelligible.
+
+804
+01:15:59,161 --> 01:16:06,840
+Well, now that it's finally appropriate to translate Vorau Hin towards which, he translates it upon which.
+
+805
+01:16:06,840 --> 01:16:10,040
+So that's the middle of 185.
+
+806
+01:16:10,040 --> 01:16:15,880
+The understanding does not grasp thematically that upon which it projects.
+
+807
+01:16:15,880 --> 01:16:21,080
+But there, I mean, you don't project upon something, or at least that's not the point.
+
+808
+01:16:21,081 --> 01:16:27,080
+You project some future activity, like being out of the room.
+
+809
+01:16:27,081 --> 01:16:31,720
+The understanding does not grasp that towards which it projects.
+
+810
+01:16:31,720 --> 01:16:33,960
+That is to say, possibilities.
+
+811
+01:16:33,960 --> 01:16:42,280
+Grasping and say, now, if you grasp the possibilities as something you were trying to do, you've got to get this feel.
+
+812
+01:16:42,241 --> 01:16:51,880
+There's if you're in flow, then you're doing something very, very well, and it's just one and you just can let yourself be absorbed in it.
+
+813
+01:16:51,840 --> 01:16:55,840
+And then, and then if you st if you think about it, it spoils for.
+
+814
+01:16:56,561 --> 01:17:03,280
+If you reflect on it, if you even if you just monitor it, that is, sort of keep an eye on what you're doing.
+
+815
+01:17:03,281 --> 01:17:16,800
+All those things may be important to do, but they're not as basic as a very skillful person already in a familiar room doing the net just doing the managing of everything that they can do.
+
+816
+01:17:16,800 --> 01:17:29,120
+And that's and he has to keep saying this, and if you know Searle, you can see why, because he wants to put Searle and Husserl and Descartes at the non-basic, non-primary level.
+
+817
+01:17:29,121 --> 01:17:34,640
+He doesn't want to deny that, of course, you can have goal-directed coping.
+
+818
+01:17:35,361 --> 01:17:40,000
+And so let me just, I see time is up, but I have to see just where I want to stop.
+
+819
+01:17:40,000 --> 01:17:41,280
+Then I will stop.
+
+820
+01:17:44,081 --> 01:17:45,920
+Well, I'm going to finish this paragraph.
+
+821
+01:17:45,920 --> 01:17:50,241
+Grasping it in such a manner would take away from what is projected its very character as possibility.
+
+822
+01:17:50,241 --> 01:17:53,361
+This is, remember, paying attention to it would spoil it.
+
+823
+01:17:53,361 --> 01:17:55,281
+Reduce it to the contents of the mind.
+
+824
+01:17:55,281 --> 01:18:01,920
+Whereas projection in throwing throws before itself the possibility as possibility and lets it be as such.
+
+825
+01:18:01,920 --> 01:18:04,800
+Notice now that I just have time to say this.
+
+826
+01:18:05,521 --> 01:18:06,720
+My watch is slow, isn't it?
+
+827
+01:18:06,720 --> 01:18:08,160
+It's after 12.30 already.
+
+828
+01:18:08,161 --> 01:18:09,680
+Okay, I still want one more minute.
+
+829
+01:18:09,680 --> 01:18:10,880
+There's a clock you're looking at.
+
+830
+01:18:10,960 --> 01:18:12,080
+You're seeing a clock up there.
+
+831
+01:18:12,161 --> 01:18:12,640
+No.
+
+832
+01:18:12,640 --> 01:18:16,880
+Okay, so anyway, I just want to say that the end of that sentence is important.
+
+833
+01:18:16,880 --> 01:18:23,680
+As projecting, understanding is the kind of being of Dasai in which it is its possibilities as possibilities.
+
+834
+01:18:23,680 --> 01:18:38,481
+That's to say that just as that's the structural connection between being a teacher, which is not something you're thinking about and seeing as a future success, like getting tenure.
+
+835
+01:18:38,481 --> 01:18:40,561
+Now you can see it at the most basic level.
+
+836
+01:18:41,081 --> 01:18:52,521
+Also, your everyday hands-on coping is not done by seeing possibilities which you then want to make actual.
+
+837
+01:18:52,521 --> 01:19:00,200
+It's just that the possibility just is, and again, he doesn't say it very clearly, draws you in.
+
+838
+01:19:01,640 --> 01:19:08,200
+And you get so absorbed in being drawn in that you can say that Dasein just is its possibility.
+
+839
+01:19:08,201 --> 01:19:11,401
+And that's structurally, that's the structural common thing.
+
+840
+01:19:11,401 --> 01:19:14,600
+When I'm being a teacher, I just am my possibilities.
+
+841
+01:19:14,600 --> 01:19:27,240
+When I'm coping with all the equipment for being a teacher transparently, I just am those possibilities like a mountain climber just is the mountain they're climbing, or whatever other analogies you want.
+
+842
+01:19:27,241 --> 01:19:28,840
+Okay, we'll start with that next time.
+
+843
+01:19:28,840 --> 01:19:34,040
+But go and read the interpretation part because we're going to get to that next time.

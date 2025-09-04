@@ -1,0 +1,2683 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:23,360
+So now, then I want to spend some time before we get to Descartes on something which is sort of exciting to me because I've taught this so often that I less and less find out that I've really made a mistake or put something very unclearly that can be said more clearly and get a chance to think through something new.
+
+2
+00:00:23,360 --> 00:00:42,081
+But I think I can say a lot better than I said in my lecture about something about the relation of the for the sake of which, and at the end of the chain of in order to's, there's a whole clear story to be told.
+
+3
+00:00:42,081 --> 00:00:50,880
+And Heidegger's not very clear about it, and I certainly didn't see the moment in which he sort of makes the important distinction.
+
+4
+00:00:50,881 --> 00:01:09,601
+My mistake was to treat the whole thing of I'm using the chalk in order to write on the board, in order to finally, for the sake of teaching this course, for instance, I could have said, that's one kind of for the sake of which.
+
+5
+00:01:09,601 --> 00:01:14,880
+And that for the sake of which is something I can achieve and it'll be done by the end of the semester.
+
+6
+00:01:14,881 --> 00:01:26,400
+But all of that, for the, what Heidegger calls primary for the sake of which, of my understanding myself as a teacher, I didn't distinguish the two for the sake of which is clear enough.
+
+7
+00:01:26,401 --> 00:01:35,360
+And the fact that in a certain way, the first one is kind of ontic for the sake of which, I mean, it's about particular relations.
+
+8
+00:01:35,601 --> 00:01:37,041
+I'll explain that more in a minute.
+
+9
+00:01:37,041 --> 00:01:44,961
+But then there is, I think, a difference between an ontic and an ontological for the sake of which, and they aren't even in the same dimension.
+
+10
+00:01:45,800 --> 00:01:55,641
+It isn't as if the ultimate for the sake of which is just one more step after the more relative for the sake of which.
+
+11
+00:01:55,641 --> 00:02:19,640
+It isn't somehow you teach, I teach the course in order to get you to understand Heidegger, let's say, and I do that in order to be a teacher, because getting you to understand Heidegger, or it's easier if I say teaching 25, teaching philosophy 185 and accomplishing that is something in the future which I'll do, I hope.
+
+12
+00:02:19,641 --> 00:02:27,320
+And then there's this broader thing where I'm being a teacher when I do it, and you're being a student when you do it.
+
+13
+00:02:27,320 --> 00:02:29,240
+That's not another step.
+
+14
+00:02:29,240 --> 00:02:31,721
+That's a different level of description.
+
+15
+00:02:31,721 --> 00:02:33,400
+Now, I said it there.
+
+16
+00:02:33,401 --> 00:02:35,800
+Now I'm going to read it the way I wrote it.
+
+17
+00:02:35,800 --> 00:02:49,400
+And I'm going to hand out, well, I'm going to use, I just want to tell you, I'm going to be quoting some long quotations from other places than being in time, and I'm going to hand them all out to you and put them on the website.
+
+18
+00:02:49,401 --> 00:03:03,080
+And at the same time, I'll put out, put the notes of what I'm going to about say on the website because they're new to me and they've got a whole sort of structure that I would like to emphasize.
+
+19
+00:03:03,080 --> 00:03:05,080
+Maybe you can write it in your notes in a structure.
+
+20
+00:03:05,080 --> 00:03:07,401
+Think of two columns.
+
+21
+00:03:07,401 --> 00:03:14,281
+And one of the columns, you can say referential totality, and the other one is significance.
+
+22
+00:03:14,281 --> 00:03:21,161
+I'd write all this on the board, if my writing wasn't so bad in dyslexic that it would take more time to fix it than to write it.
+
+23
+00:03:21,720 --> 00:03:25,241
+So there are two columns, referential totality and significance.
+
+24
+00:03:25,241 --> 00:03:33,201
+Now, the referential totality, just listen to this now, has two purposes, and they're both for the sake of.
+
+25
+00:03:34,481 --> 00:03:46,241
+The whole structure of inorder to leads up to the, now it goes in the referential totality column, leads up to the for the sake of some basic interest of Dasein.
+
+26
+00:03:47,200 --> 00:04:05,920
+And on the other hand, there is also the whole activity of coping with the referential totality leads up to a way that a Dasein takes a stand on its being.
+
+27
+00:04:05,920 --> 00:04:08,081
+Now I have to spell that out more.
+
+28
+00:04:08,401 --> 00:04:10,161
+So let's look now at all.
+
+29
+00:04:10,161 --> 00:04:13,681
+This is on 116 in very condensed form.
+
+30
+00:04:13,680 --> 00:04:27,441
+This all started because the TAs were sort of, I don't know, the graduate students were sort of challenging me to try to understand better and clearer the distinction between significance and referential totality, which I think Heidegger does not explain very well.
+
+31
+00:04:27,440 --> 00:04:32,481
+And I was looking afterwards this morning for some nice, clear place where he does explain it.
+
+32
+00:04:32,481 --> 00:04:40,800
+It's sort of running around on page 116, but it's never sort of nailed or hammered, let's say.
+
+33
+00:04:40,800 --> 00:04:42,241
+So here we go.
+
+34
+00:04:43,200 --> 00:04:48,881
+So there is something first in the middle roughly of 116.
+
+35
+00:04:48,881 --> 00:04:55,281
+In the German, we're on the top of 184, nor the middle of 184.
+
+36
+00:04:55,281 --> 00:04:57,361
+Sorry, not 184, 84.
+
+37
+00:04:57,360 --> 00:04:58,881
+So we're on 116.
+
+38
+00:04:59,121 --> 00:05:00,920
+And on the left-hand side.
+
+39
+00:05:00,920 --> 00:05:10,320
+With hammering, I'm just reviewing now, there is an involvement in making something fast, with making something fast.
+
+40
+00:05:10,320 --> 00:05:13,521
+There is an involvement in protection against bad weather.
+
+41
+00:05:13,680 --> 00:05:19,161
+This protection is for the sake of providing shelter for Dasein.
+
+42
+00:05:19,720 --> 00:05:23,560
+That is, for the sake of a possibility of Dasein's being.
+
+43
+00:05:23,560 --> 00:05:25,801
+That's the crucial phrase.
+
+44
+00:05:25,800 --> 00:05:30,681
+That's an umvillen in German, a for the sake of.
+
+45
+00:05:30,680 --> 00:05:44,281
+Now, at the very bottom of the page, it turns out that there's something else, the primary towards which is a for the sake of which, and the footnote says that's a vor um villain.
+
+46
+00:05:44,281 --> 00:05:47,321
+So really, there's no big deal difference in the German.
+
+47
+00:05:47,320 --> 00:05:58,281
+One of them just says the for which, or for the sake of, and the other one seems to say for the sake of which, that there's a big deal in what Heyer's trying to do.
+
+48
+00:05:58,281 --> 00:06:03,961
+So, the first one is, I'm going to call it now, put it into the column of referential totality.
+
+49
+00:06:03,960 --> 00:06:07,881
+It's the pragmatic side.
+
+50
+00:06:08,200 --> 00:06:21,801
+That means the following, that the whole structure of an order twos leads to, as I said, for the sake of a basic interest in DAS of Dasein's, which is now we know this um villain.
+
+51
+00:06:23,001 --> 00:06:28,121
+And this case, the example is, and you could put it on that column, a shelter.
+
+52
+00:06:29,721 --> 00:06:35,721
+And it's, I'd say it's pragmatic because it's not something special with Dasein.
+
+53
+00:06:35,720 --> 00:06:46,601
+As I said when I talked about it before, even beavers can do, can build shelters and have equipmental, a minimal kind of equipmental totality for doing it.
+
+54
+00:06:46,600 --> 00:06:48,521
+In that sense, I think it's ontic.
+
+55
+00:06:48,521 --> 00:06:54,841
+I mean, if beavers can do it and we can do it, it doesn't seem to have anything especially ontological about it.
+
+56
+00:06:54,840 --> 00:07:09,120
+It's just where this chain of purposes ends, satisfying some need of Dasein or some desire of Dasein, some purpose of Dasein's.
+
+57
+00:07:09,521 --> 00:07:12,401
+It's very just sensible.
+
+58
+00:07:12,401 --> 00:07:15,521
+And now comes the tricky one.
+
+59
+00:07:17,440 --> 00:07:26,561
+And that's starting about ten lines from the end of the big paragraph on the right.
+
+60
+00:07:26,560 --> 00:07:34,481
+But the totality of involvements itself goes back ultimately towards a towards which in which there is no further involvement.
+
+61
+00:07:34,481 --> 00:07:35,920
+See, that's still ambiguous.
+
+62
+00:07:35,920 --> 00:07:44,321
+There are two towards which is for which there's no further involvement, namely shelter, and now we're going to go to being a shelterer.
+
+63
+00:07:44,320 --> 00:07:48,001
+And that's both of them are, so to speak, the end of a line.
+
+64
+00:07:48,001 --> 00:07:51,680
+That's what I wasn't clear about, but they're end of two different lines, so to speak.
+
+65
+00:07:51,680 --> 00:07:53,441
+They're not all on one line.
+
+66
+00:07:53,440 --> 00:07:58,241
+So now, so we go back to a towards which in which there's no further involvement.
+
+67
+00:07:58,241 --> 00:08:00,641
+Good, that's true, all right, for both of them.
+
+68
+00:08:00,641 --> 00:08:05,760
+This towards which is not an entity with the kind of being that belongs to what is ready to hand within the world.
+
+69
+00:08:05,761 --> 00:08:06,641
+It's rather an entity.
+
+70
+00:08:06,641 --> 00:08:11,521
+And now he's going to tell you the, he's telling you this whole quote, just so you know.
+
+71
+00:08:11,521 --> 00:08:14,161
+This is not the pragmatic story.
+
+72
+00:08:14,161 --> 00:08:17,201
+Put this under significance in your column.
+
+73
+00:08:17,200 --> 00:08:19,521
+This is the existential story.
+
+74
+00:08:19,521 --> 00:08:23,121
+This is not the ontic one, but the ontological one.
+
+75
+00:08:23,121 --> 00:08:24,401
+So now let me go on.
+
+76
+00:08:25,440 --> 00:08:26,560
+It's a being.
+
+77
+00:08:27,121 --> 00:08:32,641
+It's the end of the line in this ontological sense where beavers are not qualified.
+
+78
+00:08:32,641 --> 00:08:40,081
+It is rather an entity whose being is defined as being in the world and whose state of being worldhood itself belongs.
+
+79
+00:08:40,080 --> 00:08:43,681
+This primary toward which, you can underline that.
+
+80
+00:08:43,680 --> 00:08:49,161
+I mean, that's the difference between that and the just end of the line towards which.
+
+81
+00:08:49,481 --> 00:08:57,641
+The primary towards which is not just another towards this, as something in which another involvement is possible.
+
+82
+00:08:57,641 --> 00:09:04,601
+The primary towards which is the for the sake of which, and now we've got this different German word, born villain.
+
+83
+00:09:04,920 --> 00:09:15,801
+But the for the sake of, and the butt's sort of funny, because he's not contradicting it, he's explaining it, the for the sake of always pertains to the being of Dasein.
+
+84
+00:09:15,800 --> 00:09:32,841
+Now, I never noticed, and boy is Heidegger not helping, the difference between a possibility of Dasein's being, that's like being sheltered, something Dasein needs and you can get it, and the being of Dasein.
+
+85
+00:09:32,840 --> 00:09:36,521
+That's like being a shelterer, that's an identity.
+
+86
+00:09:36,521 --> 00:09:45,241
+Heidegger's making this big distinction with these little moves, these two slightly different German words, these two slightly different formulations.
+
+87
+00:09:45,241 --> 00:09:47,321
+That's why I missed it all these years.
+
+88
+00:09:47,320 --> 00:09:58,361
+Okay, so the for the sake of what pertains to the being of Dasein, that's in the ontological column, of course, for which in its being that very being is essentially an issue.
+
+89
+00:09:58,761 --> 00:10:13,800
+We've thus indicated the interconnection of the structure of involve how the interconnection by which the structure of an involvement leads to Dasein's very being, the sole authentic for the sake of which.
+
+90
+00:10:13,800 --> 00:10:16,440
+That hasn't got to do with being authentic or inauthentic.
+
+91
+00:10:16,440 --> 00:10:18,441
+That's not this kind of moral thing.
+
+92
+00:10:18,440 --> 00:10:26,441
+That means the ultimate for the sake of which, the one that all that, without which, the whole thing wouldn't make any sense.
+
+93
+00:10:27,881 --> 00:10:30,161
+That's at the end of the line there.
+
+94
+00:10:29,641 --> 00:10:33,680
+And that gets me to talking about significance.
+
+95
+00:10:34,320 --> 00:10:44,320
+Remember, one column is referential totality, that's the ontic one, that's the pragmatic one, and that's the mere for the sake of which.
+
+96
+00:10:44,320 --> 00:10:55,920
+And then there's this other column which gets you to this ultimate, authentic, final for the sake of which, and that's in the column called significance.
+
+97
+00:10:55,920 --> 00:11:03,121
+Now we can see what the difference between the referential totality or the totality of involvements.
+
+98
+00:11:03,121 --> 00:11:06,721
+I think those are just sort of two ways of describing the same thing.
+
+99
+00:11:07,600 --> 00:11:14,881
+The referential totality is the totality of things that bear on other things, that's their involvement.
+
+100
+00:11:15,200 --> 00:11:18,561
+But there's a big difference between that and significance.
+
+101
+00:11:18,560 --> 00:11:20,080
+Think about the Bieber again.
+
+102
+00:11:20,080 --> 00:11:25,121
+I mean, that's only Bieber level connections.
+
+103
+00:11:25,121 --> 00:11:29,521
+And then there's this other level.
+
+104
+00:11:29,521 --> 00:11:33,920
+Why, sort of, ultimately, do we bother to teach?
+
+105
+00:11:33,920 --> 00:11:38,640
+Do I bother to teach Heidegger or do people bother to make shelters?
+
+106
+00:11:38,640 --> 00:11:46,560
+Beavers bother to make shelters because they're programmed to do it, maybe because they feel too cold and alone if they don't do it.
+
+107
+00:11:47,600 --> 00:11:54,001
+That's not enough to give this activity a kind of point of a different sort.
+
+108
+00:11:54,640 --> 00:12:04,320
+The point that finally connects it all up with meaning is that you do it because it's the way you take a stand on your being.
+
+109
+00:12:04,681 --> 00:12:08,320
+That's that's that's and significance, just let me say it clearly.
+
+110
+00:12:08,320 --> 00:12:26,360
+The referential totality or the totality of involvement, which is the same thing, becomes, gets described, gets one more interesting characteristic, namely if you add, so how about putting it, I'm trying to put it as clearly as I can.
+
+111
+00:12:26,921 --> 00:12:40,521
+The referential totality already has a kind of pragmatic for the sake of which, which is in a certain way why you're doing it, to teach the course, to make a shelter.
+
+112
+00:12:40,521 --> 00:12:48,281
+But then you add something totally different, why it belongs to the very being of Dasein to be doing it.
+
+113
+00:12:48,600 --> 00:12:53,880
+And that's up to Dasein, and that's the ultimate for the sake of which.
+
+114
+00:12:53,880 --> 00:12:57,001
+Now, and that gives the point to the activity.
+
+115
+00:12:57,001 --> 00:13:13,480
+And significance is the same activity in the same world of stuff described now as always having a point, namely what connects up with Dasein's understanding of itself, its identity.
+
+116
+00:13:13,481 --> 00:13:18,600
+And another way to put the point is, there are two ways you could even put it in a column.
+
+117
+00:13:18,600 --> 00:13:22,521
+People need shelter, and beavers need shelter, and so forth.
+
+118
+00:13:22,521 --> 00:13:29,720
+The people, and they need this equipmental toll to get that stuff they pragmatically need.
+
+119
+00:13:29,721 --> 00:13:33,400
+The people need to take a stand on their being.
+
+120
+00:13:33,400 --> 00:13:40,041
+And they need all that stuff to satisfy what they existentially need.
+
+121
+00:13:40,201 --> 00:13:47,480
+In Heidegger Jagan, that's what they need to exist, because existing just is taking a stand on your being.
+
+122
+00:13:47,481 --> 00:13:56,761
+Okay, now I've explained that for the first time to me, and to, I hope you all, and I feel happy about that, because I think that really gets something clear.
+
+123
+00:13:56,761 --> 00:13:57,560
+Yeah.
+
+124
+00:14:08,721 --> 00:14:12,961
+It oh, I think I understand your question.
+
+125
+00:14:12,961 --> 00:14:13,920
+I had a little trouble hearing you.
+
+126
+00:14:13,921 --> 00:14:19,120
+There's sort of background noise here, but yes, say it again louder so I can repeat.
+
+127
+00:14:28,560 --> 00:14:29,521
+I still understand it.
+
+128
+00:14:30,241 --> 00:14:35,041
+Well, let me answer you, I mean, because it seems so interestingly wrong-headed what you're asking.
+
+129
+00:14:35,041 --> 00:14:42,961
+I mean, significance is exactly what you have to add to the referential totality so that you get disclosing of the world.
+
+130
+00:14:43,201 --> 00:14:49,360
+That's important, and that's what you're sort of not saying, because I didn't say it, and it's good to make me say it.
+
+131
+00:14:49,681 --> 00:14:58,081
+It's when you finally get all that up at the ontological level that it doesn't disclose the world of beavers when they make their hutch.
+
+132
+00:14:58,080 --> 00:15:17,041
+But when human beings, all differently, but each one on their own, is doing something that is their stand on their being, that gives you this interconnected world where everything in it has a point or a significance, or not everything, a lot of stuff.
+
+133
+00:15:17,041 --> 00:15:25,680
+I mean, maybe washing your hands doesn't, or brushing your teeth, but I mean, where the where important things show up are disclosed.
+
+134
+00:15:25,921 --> 00:15:31,201
+Well, or there's a space in which things are disclosed, and significant things are discovered.
+
+135
+00:15:31,201 --> 00:15:32,320
+Remember that.
+
+136
+00:15:32,320 --> 00:15:36,400
+And now I don't know why you brought in the present at hand, but I will see if I can answer that.
+
+137
+00:15:36,400 --> 00:15:38,241
+Just a second, and then you tell me if I have.
+
+138
+00:15:38,400 --> 00:15:46,521
+Whatever is the space in which things are disclosed, various different modes of being are disclosed.
+
+139
+00:15:44,800 --> 00:15:48,281
+That's just the way it happens to work.
+
+140
+00:15:48,840 --> 00:15:58,680
+The structure of things is such that in order to have a referential hole, you've got to have two something or others.
+
+141
+00:15:58,681 --> 00:16:08,761
+You've got to have something that has a bunch of properties that make it able to be useful for something, and you have to have a use for it.
+
+142
+00:16:08,761 --> 00:16:14,440
+So there has to be this shank and blob that are hard and can be grasped and wielded around.
+
+143
+00:16:14,441 --> 00:16:21,880
+And there has to be not just hammers, but nails and wood and walls and houses.
+
+144
+00:16:21,880 --> 00:16:25,400
+And that's the ready-to-hand now.
+
+145
+00:16:25,400 --> 00:16:35,080
+So there has to be the present-at-hand stuff with its properties, which in a certain sense underlies the ready-to-hand.
+
+146
+00:16:35,080 --> 00:16:36,761
+We talked about that already.
+
+147
+00:16:36,761 --> 00:16:42,840
+And the causal properties that make possible its use.
+
+148
+00:16:43,160 --> 00:16:44,601
+And then there's the use.
+
+149
+00:16:44,600 --> 00:16:48,360
+Now, I don't, so now why do you say the things you say?
+
+150
+00:16:49,320 --> 00:16:56,440
+Because maybe.
+
+151
+00:17:06,441 --> 00:17:10,600
+Ah, well, that's not the way Heidegger uses the term.
+
+152
+00:17:10,600 --> 00:17:20,680
+I mean, there's plenty of causal holism in the way the stuff out of which hammers are made is related to the stuff out of which other things are made.
+
+153
+00:17:20,681 --> 00:17:26,041
+But try to referential is not very helpful, but maybe bearing is better.
+
+154
+00:17:26,041 --> 00:17:28,360
+Hammers have a bearing on nails.
+
+155
+00:17:28,360 --> 00:17:30,721
+There's no, that's not present at hand.
+
+156
+00:17:30,721 --> 00:17:34,800
+Science has no place for the bearing of hammers on nails.
+
+157
+00:17:34,880 --> 00:17:42,560
+That is, that doesn't affect science that if you had a culture in which everything was tied to vines, there wouldn't be anything like hammers.
+
+158
+00:17:42,560 --> 00:17:46,560
+That's all already at the meaning level.
+
+159
+00:17:46,560 --> 00:17:54,640
+I think, and you're pushing me to say something that I find sort of messes up my picture a little.
+
+160
+00:17:54,640 --> 00:18:06,080
+It looks like you only need the referential totality to have ready-to-hand and present-at-hand revealed, disclosed.
+
+161
+00:18:06,080 --> 00:18:07,920
+I can't make a case.
+
+162
+00:18:07,921 --> 00:18:12,881
+Here's a puzzle for you who are sophisticated enough on this already.
+
+163
+00:18:12,880 --> 00:18:15,121
+Most of you, I think it's too hard.
+
+164
+00:18:15,840 --> 00:18:17,521
+I think I don't know the answer.
+
+165
+00:18:17,840 --> 00:18:34,320
+Why is it that the disclosive space in which the ready-to-hand and the present at hand, in which equipment, both in its ready-to-hand and present-at-hand aspects, go up, why does that disclosive space require significance?
+
+166
+00:18:34,320 --> 00:18:38,320
+Why isn't it enough that it just be a referential whole?
+
+167
+00:18:38,320 --> 00:18:41,360
+Which is really the tough question.
+
+168
+00:18:41,681 --> 00:18:45,281
+Don't beavers also have present at hand and ready-to-hand?
+
+169
+00:18:45,281 --> 00:18:48,641
+They probably have ready-to-hand, but not present-at-hand.
+
+170
+00:18:48,961 --> 00:19:00,960
+I take it beavers don't stare at substances and study their properties, but they certainly, I think, use mud and all the stuff that whatever beavers use transparently.
+
+171
+00:19:00,961 --> 00:19:04,720
+And I think its way of being ought to be ready to hand.
+
+172
+00:19:04,721 --> 00:19:11,840
+But so now I'm really confused about something, which I try to not confuse you about, but just state as a clear question.
+
+173
+00:19:12,160 --> 00:19:34,120
+Somehow, the holism of the referential whole, the whole of involvements, which is very much the same, and significance all give you worldhood, which is the disclosure space in which anything with any kind of being gets discovered.
+
+174
+00:19:34,441 --> 00:19:45,880
+Why do we need, this is my question, this being that takes a stand on its being at the end of the line to give us worldhood.
+
+175
+00:19:45,880 --> 00:19:50,360
+We better understand that because that must be very important to Heidegger.
+
+176
+00:19:50,360 --> 00:19:56,521
+I mean, that's what does separate Dasein from beavers, and I think that must be extremely important.
+
+177
+00:19:56,521 --> 00:19:57,480
+David, can you help?
+
+178
+00:19:57,481 --> 00:19:57,720
+Yeah.
+
+179
+00:19:59,160 --> 00:20:01,881
+Well, that's been ultimately important.
+
+180
+00:20:02,041 --> 00:20:08,840
+Functionally as the conditions for any other sector, there would be no other meaning.
+
+181
+00:20:09,481 --> 00:20:13,241
+Why are you in the course lecturing and so forth?
+
+182
+00:20:13,640 --> 00:20:16,120
+Heidegger, why are we taking Heidegger and so forth?
+
+183
+00:20:16,120 --> 00:20:22,361
+Old thing comes down to become an issue for us, a question for us.
+
+184
+00:20:22,761 --> 00:20:26,920
+That's the ultimate concept in which we're sitting.
+
+185
+00:20:26,921 --> 00:20:28,920
+Well, you're you.
+
+186
+00:20:34,120 --> 00:20:37,080
+Okay, well, that's exactly what Heidegger thinks.
+
+187
+00:20:37,080 --> 00:20:39,080
+But I'm asking, I'm questioning it.
+
+188
+00:20:39,320 --> 00:20:41,640
+I mean, I want to know why Heidegger thinks that.
+
+189
+00:20:41,640 --> 00:20:48,200
+Why doesn't Heidegger just think as soon as you've got a referential whole, you've got already tables and chairs and so forth?
+
+190
+00:20:48,281 --> 00:20:51,241
+Why do I have to be here taking a stand on my being as a teacher?
+
+191
+00:20:51,241 --> 00:20:54,041
+Why can't I just be earning my salary as a professor?
+
+192
+00:20:54,041 --> 00:20:57,041
+And all this equipment will still show up for me.
+
+193
+00:20:56,761 --> 00:21:03,281
+Okay, that's the way Dasein is.
+
+194
+00:21:03,921 --> 00:21:08,161
+Okay, well, then I see why you're saying it your way.
+
+195
+00:21:08,160 --> 00:21:22,080
+So Heidegger may not have an argument that you need the referential, the significance level in order to have an organized world of equipment.
+
+196
+00:21:22,080 --> 00:21:30,640
+But in fact, we do have the significance level, and it goes into the referential hole of significance.
+
+197
+00:21:30,640 --> 00:21:38,001
+I can't help feeling that there's something deeper going on, that you can't disclose a world if you don't have that.
+
+198
+00:21:38,001 --> 00:21:43,600
+And where I can't doesn't mean you just don't disclose a world unless you're taking a stand on your own being.
+
+199
+00:21:43,600 --> 00:21:56,080
+That there's some deep connection between taking a stand on your own being and significance, and some deep connection between significance and disclosing a world that just a referential hole won't get.
+
+200
+00:21:56,721 --> 00:22:01,120
+I mean, it would be nice to see that, because I think Heidegger sees it, but I don't see it.
+
+201
+00:22:01,120 --> 00:22:02,560
+Yeah, Curtis.
+
+202
+00:22:07,041 --> 00:22:09,681
+Dasein is its world existingly, yeah.
+
+203
+00:22:11,921 --> 00:22:12,640
+Yes.
+
+204
+00:22:13,360 --> 00:22:14,320
+Yes.
+
+205
+00:22:16,560 --> 00:22:25,041
+Well, you guys are all good Heideggerians in a way, but you're stuck in the circle.
+
+206
+00:22:25,041 --> 00:22:35,201
+I mean, you just said that Dasein is the being that takes a stand on its being, and lo and behold, that's how come there's a world showing up.
+
+207
+00:22:35,600 --> 00:22:39,121
+I mean, yes, Dasein is its world existingly.
+
+208
+00:22:39,120 --> 00:22:47,640
+That means it's Dasein takes a stand on its being, and lo and behold, there's a world disclosing things.
+
+209
+00:22:50,600 --> 00:22:51,400
+Really?
+
+210
+00:22:53,160 --> 00:22:55,240
+What do you mean by Dasein is declaring?
+
+211
+00:22:57,241 --> 00:23:01,560
+Well, okay, you'll have to explain that to me later when we get to understanding.
+
+212
+00:23:01,560 --> 00:23:02,761
+I don't see it.
+
+213
+00:23:03,241 --> 00:23:06,920
+I don't see how it works.
+
+214
+00:23:07,481 --> 00:23:10,120
+And I bet something important is in there.
+
+215
+00:23:10,120 --> 00:23:13,560
+Well, come and tell me about it in office hours or wherever.
+
+216
+00:23:13,560 --> 00:23:14,360
+Yeah.
+
+217
+00:23:15,640 --> 00:23:25,800
+This may be too much of a stress, but in an effort to escape the kind of zone terminology, I find myself reminded of Williams' idea of integrity regarding all this.
+
+218
+00:23:25,800 --> 00:23:35,400
+And the idea, for example, just hold it for the second witch, that you have your project and commitments, but it's not the project and commitments themselves that matter as much as that you have them.
+
+219
+00:23:35,400 --> 00:23:40,521
+And that people become a good person by having them, that it's important to have them.
+
+220
+00:23:40,521 --> 00:23:48,041
+And this sense in which everything else must be understood in the context of that, that you just have this integrity, but segmented your character.
+
+221
+00:23:48,360 --> 00:23:51,480
+Well, that's nothing you're talking about, William James, I take it.
+
+222
+00:23:51,481 --> 00:23:52,041
+What James?
+
+223
+00:23:52,120 --> 00:23:54,761
+I mean, Williams, Bernard Williams.
+
+224
+00:23:55,481 --> 00:23:56,761
+Ah, Bernard Williams.
+
+225
+00:23:57,080 --> 00:23:58,521
+The man who was here used to be here.
+
+226
+00:23:58,521 --> 00:24:02,840
+Well, you don't know that because he died two years ago.
+
+227
+00:24:02,840 --> 00:24:05,560
+But anyway, so why do you say you said Williams?
+
+228
+00:24:05,560 --> 00:24:06,120
+Yes.
+
+229
+00:24:07,241 --> 00:24:16,200
+Just try and defend this whole thing for the sake of which from a, I guess, more personal standpoint, try and make it seem less abstract.
+
+230
+00:24:16,201 --> 00:24:24,120
+In the sense that the reason it's important, I think, is because, oh my goodness.
+
+231
+00:24:26,360 --> 00:24:39,840
+Something like it has to be this whole world of all these connections just wouldn't be there and wouldn't hang together if we weren't the kind of beings who have this kind of integrity or identity which we need to take a stand.
+
+232
+00:24:39,840 --> 00:24:41,600
+That all this stuff is here.
+
+233
+00:24:41,600 --> 00:24:44,720
+See, this is the because I can't really understand yet.
+
+234
+00:24:44,721 --> 00:24:50,400
+All of this stuff is here because we're the kind of being that needs to take a stand on its being.
+
+235
+00:24:50,400 --> 00:24:58,640
+That's the what's that's what it's Heidegger says that, and I'm sure it's right, and I'm sure there's more to say about it, but we haven't got it yet.
+
+236
+00:24:58,640 --> 00:25:17,120
+Yeah, we are very much creating a development, only virtual world possibilities.
+
+237
+00:25:17,360 --> 00:25:38,721
+But I wonder about you, actually, actually developing one going working instead of the other half as being most people all over the world or in the West, or I mean, I'm just wondering whether you're making a, which point you're making, that this is only for us because we're this kind of self-choosing culture.
+
+238
+00:25:38,721 --> 00:25:48,241
+If so, I disagree with you completely, if that's because you mistaking, and it's Heidegger's fault, choosing your stand on your being with having a stand on your being.
+
+239
+00:25:48,241 --> 00:26:01,920
+In other cultures, you grow up as the medicine man because your father was, and you're always in the chain of being medicine men, and other people grow up as workers and the mothers and weavers and whatever.
+
+240
+00:26:01,921 --> 00:26:06,640
+And they never take a stand on their being consciously, but they have it.
+
+241
+00:26:06,640 --> 00:26:11,120
+And it organizes what equipment they deal with and what it means to them.
+
+242
+00:26:12,001 --> 00:26:24,521
+And now you may be saying, also, even in our West world, lots of people don't ever face up to choosing, and again, choosing is the misleading thing, a stand on a being.
+
+243
+00:26:24,521 --> 00:26:31,400
+But if Heidegger's right, they are Dasein, and they're not being in a world, and they don't disclose unless they do it.
+
+244
+00:26:31,400 --> 00:26:39,400
+Everybody, the end of the line, is that being for which being is an issue.
+
+245
+00:26:39,400 --> 00:26:54,201
+And we are all those beings, and every culture, and so far as Heidegger's got it right about what it is to have a world, everyone, everyone that isn't a wolf child or a sort of catatonic has it.
+
+246
+00:26:54,681 --> 00:26:55,241
+Yeah.
+
+247
+00:26:56,360 --> 00:26:59,800
+They're not exclusively, it's not conscious.
+
+248
+00:26:59,800 --> 00:27:04,120
+It isn't like people think these guys are being nice and saying, How is it any different?
+
+249
+00:27:04,201 --> 00:27:06,120
+The being of the term is culture.
+
+250
+00:27:06,681 --> 00:27:08,600
+Ah, big, good question.
+
+251
+00:27:08,921 --> 00:27:11,080
+You see, podcast people, you should be here.
+
+252
+00:27:11,080 --> 00:27:12,920
+This is an interesting discussion.
+
+253
+00:27:12,921 --> 00:27:15,080
+And people are making progress.
+
+254
+00:27:15,080 --> 00:27:21,080
+Anyway, I think the answer to that is: one, we don't want to say it's unconscious.
+
+255
+00:27:21,320 --> 00:27:28,680
+That would suggest that there is some sort of explicit choice being made, only it's just not, that they just don't know it.
+
+256
+00:27:28,681 --> 00:27:30,041
+It's not like that.
+
+257
+00:27:30,041 --> 00:27:36,041
+You look at people's behavior and you interpret it as more like a therapist might.
+
+258
+00:27:36,041 --> 00:27:43,160
+But well, that only will bring back the unconscious, a good therapist, a therapist who doesn't believe in the unconscious, my kind of therapist.
+
+259
+00:27:43,160 --> 00:27:53,320
+Anyway, that kind of therapist, I would say, knows that they're interpreting the behavior of the person, and they're watching and they're seeing, for instance, let's go back to the sacrificial mother.
+
+260
+00:27:53,320 --> 00:27:54,440
+What do they see?
+
+261
+00:27:54,441 --> 00:28:05,360
+Well, they see what she does with her children and her husband and her job, and they see what choices she makes and how it's always the children causing her to do to give up other things.
+
+262
+00:28:05,681 --> 00:28:18,480
+Now that doesn't mean that she's consciously decided to be a sacrificial mother and it's sort of misleading to say unconsciously decided as if someone in the other part of her brain has decided it just wasn't something she had access to.
+
+263
+00:28:18,481 --> 00:28:30,721
+She just grows up with a style of behavior which somebody with sensitivity in that kind of training, observing it, sees that that's really her identity.
+
+264
+00:28:30,721 --> 00:28:32,640
+That's what really matters to her.
+
+265
+00:28:33,041 --> 00:29:04,160
+So and that's in that, if you keep putting it that way, you can then, because you need to, because you've got to be able to see why Heidegger thinks that everybody, even the most sort of lazy people or the most conformist people or the most primitive people in some other culture, if you observe their behavior, you'll see that there's some way that they are that something crucial is in there, something for which they will sort of give up everything else if they have to.
+
+266
+00:29:04,481 --> 00:29:05,680
+But that was helpful, yeah.
+
+267
+00:29:12,240 --> 00:29:14,881
+Ah, well, those are all good questions.
+
+268
+00:29:14,881 --> 00:29:36,161
+I think the nature of an interpretation in Heidegger fancy talk hermeneutic investigation is that you make an interpretation, you try to see if you if all the details fit in, if crucial details that are obviously important to the person don't fit in, then you've got to give up that interpretation and get a better one.
+
+269
+00:29:36,160 --> 00:29:37,681
+And that's how it works.
+
+270
+00:29:37,680 --> 00:29:40,080
+The same way it works with reading Being in Time.
+
+271
+00:29:40,080 --> 00:29:41,080
+You come up with an interpretation.
+
+272
+00:29:41,321 --> 00:29:42,481
+That's hermeneutic too.
+
+273
+00:29:42,481 --> 00:29:48,041
+Everything all intr all over the place in Heidegger, there's Herman, that's interpretation that's going on.
+
+274
+00:29:48,361 --> 00:30:07,000
+In Heidegger, you look at the text, you try to make sense of it, you say, I see this is the phenomenon he's talking about, and you describe that, and you go back and you look at the text, and that seems to make sense for a while, and then some important sentence comes along that shows you that wasn't right, and you have to try again, and you never know you've got the answer.
+
+275
+00:30:07,001 --> 00:30:09,640
+It's interesting that Heidegger is so consistent.
+
+276
+00:30:09,640 --> 00:30:15,880
+Did I read you the passage from Basic Problems where Heidegger says that he knows that he may not, he knows that he hasn't got it.
+
+277
+00:30:15,881 --> 00:30:18,441
+In some crucial way, he hasn't got it right.
+
+278
+00:30:19,001 --> 00:30:22,921
+And he knows that because it's an interpretation that he's giving.
+
+279
+00:30:22,921 --> 00:30:33,881
+An interpretation is always in a horizon, that is, a context, a background of what you're taking for granted as familiar.
+
+280
+00:30:33,881 --> 00:30:42,281
+And there's always, Heidegger thinks, a broader context in which your context, which you thought was everything, turns out not to be.
+
+281
+00:30:42,280 --> 00:30:46,681
+So your interpretation, you never come to the final interpretation.
+
+282
+00:30:46,680 --> 00:30:50,521
+Sometimes Heidegger thinks, in being basic problems, that's what he thinks.
+
+283
+00:30:51,160 --> 00:30:57,880
+In being in time, he seems to think that when you get to temporality, you really get to the ultimate interpretation.
+
+284
+00:30:57,881 --> 00:31:00,760
+I think Heidegger is deeply ambivalent about that.
+
+285
+00:31:00,760 --> 00:31:03,240
+But that's, we don't need to go into that.
+
+286
+00:31:03,240 --> 00:31:04,920
+Let's go back to the main line.
+
+287
+00:31:04,921 --> 00:31:05,481
+Yeah.
+
+288
+00:31:13,720 --> 00:31:14,440
+Good, good.
+
+289
+00:31:14,521 --> 00:31:19,080
+So a question: does disclosing a world mean disclosing it as a world?
+
+290
+00:31:19,080 --> 00:31:24,120
+That is, you realize that you're disclosing a world and that the world is what you're disclosing.
+
+291
+00:31:24,120 --> 00:31:25,400
+No, you don't have to do that.
+
+292
+00:31:26,001 --> 00:31:34,881
+Always test this against the black forest peasants who are Heidegger's favorite form of human being.
+
+293
+00:31:34,881 --> 00:31:39,841
+And presumably they haven't a clue about world disclosing.
+
+294
+00:31:39,841 --> 00:31:46,560
+That doesn't mean that there isn't a world open to them in which objects are showing up as present in hand and ready to hand.
+
+295
+00:31:47,521 --> 00:31:49,441
+And okay.
+
+296
+00:31:49,441 --> 00:31:49,840
+Yeah.
+
+297
+00:31:49,921 --> 00:31:54,641
+When you're letting, let me, before you go talking again, let's hear from Tyler back there.
+
+298
+00:31:54,961 --> 00:31:56,881
+Can you talk real loud?
+
+299
+00:32:00,240 --> 00:32:07,440
+One of them from the basic reference of all from significance.
+
+300
+00:32:07,441 --> 00:32:07,840
+Good.
+
+301
+00:32:17,921 --> 00:32:21,280
+That just seems like, so far, just words.
+
+302
+00:32:21,280 --> 00:32:24,560
+And what's the phenomena that he's asking us to look at?
+
+303
+00:32:24,881 --> 00:32:27,521
+Whoa, some big noise is coming.
+
+304
+00:32:37,441 --> 00:32:40,640
+I think being toward the world, I have trouble hearing you, but I think people should.
+
+305
+00:32:40,881 --> 00:32:45,121
+Heidegger does say being towards the world, but I think it's very misleading.
+
+306
+00:32:58,720 --> 00:33:03,360
+I can't, I mean, give me the page references because that sounds so wrong to me.
+
+307
+00:33:03,361 --> 00:33:10,480
+That there could be a being towards the world for a being that is always already in the world seems to me crazy.
+
+308
+00:33:10,481 --> 00:33:20,041
+I mean, the crucial thing about Dasein is they're never you're never outside the world, you're never related to the world, there's too much in in it, like a goldfish in water.
+
+309
+00:33:20,041 --> 00:33:22,121
+The goldfish isn't towards the water.
+
+310
+00:33:22,120 --> 00:33:28,041
+I mean, how could you be how could you be towards the world when you are the world existingly?
+
+311
+00:33:28,280 --> 00:33:30,441
+So you have to see the passages.
+
+312
+00:33:49,560 --> 00:33:56,280
+Well, that's just to say, it seems to me, what you just said seems to me right, but that seems that's to repeat the point.
+
+313
+00:33:56,280 --> 00:34:09,080
+Yes, somehow or other, there has to be something, namely, taking a stand on your being, which has to be in there, otherwise you wouldn't be being in the world.
+
+314
+00:34:09,080 --> 00:34:11,641
+In fact, this very sentence says that, doesn't it?
+
+315
+00:34:12,921 --> 00:34:22,521
+Or some sentence lately, just about the prime, for the sake of the being of Dasein Chung says, no, not that sentence.
+
+316
+00:34:22,521 --> 00:34:24,921
+But anyway, we know Dasein is being in the world.
+
+317
+00:34:24,921 --> 00:34:28,600
+And we know that being in the world requires taking a stand on your being.
+
+318
+00:34:28,600 --> 00:34:29,881
+So that's fine.
+
+319
+00:34:29,881 --> 00:34:50,761
+The question is, and we know you're always already in the world, and you're always already in the world the way that human beings are in the world, namely it's serving you as an equipment, practically, the world and the referential totality, to do something, which is your stand on your being.
+
+320
+00:34:51,401 --> 00:34:55,560
+And that's what Heidegger says.
+
+321
+00:34:55,560 --> 00:34:56,760
+That's the phenomenon.
+
+322
+00:34:56,760 --> 00:35:02,321
+I agree with that, but I don't see yet that that's that nothing I want to say denies that.
+
+323
+00:34:59,881 --> 00:35:06,560
+I just don't see, and maybe there's no need to say anything more.
+
+324
+00:35:06,720 --> 00:35:09,921
+Maybe my problem is to ask for something more.
+
+325
+00:35:09,921 --> 00:35:12,320
+Anyway, I can't handle that more.
+
+326
+00:35:13,120 --> 00:35:15,680
+So now I have one more hand up.
+
+327
+00:35:15,680 --> 00:35:17,761
+You wanted to come, well, no, you, okay.
+
+328
+00:35:17,760 --> 00:35:18,560
+Yes.
+
+329
+00:35:24,720 --> 00:35:32,001
+And I'm wondering if the women that are thinking of sacrificial mother would think of themselves in general.
+
+330
+00:35:32,321 --> 00:35:40,881
+And then we will, if you need more appropriate history, how do you validate it?
+
+331
+00:35:41,200 --> 00:35:42,001
+Wow.
+
+332
+00:35:42,001 --> 00:35:42,801
+Wow.
+
+333
+00:35:42,801 --> 00:35:50,560
+That's a good, important question, but it's a kind of, you know, it's a therapy kind of question, not really for us to think about.
+
+334
+00:35:50,560 --> 00:36:11,680
+On my website, if you want to follow it up, there's a paper called Two Alternative Conceptions of Psychotherapy, in which the one is that there's some unconscious stuff, facts, beliefs, memories that you should get out of your unconscious, and the other is the unconscious really is, is the background.
+
+335
+00:36:11,680 --> 00:36:12,881
+It's the water area.
+
+336
+00:36:13,841 --> 00:36:14,720
+And that's what you're saying.
+
+337
+00:36:14,720 --> 00:36:18,400
+I mean, the sacrificial mother, of course she doesn't know she's a sacrificial mother.
+
+338
+00:36:18,401 --> 00:36:22,721
+It's not a truth that she is sort of repressing.
+
+339
+00:36:23,841 --> 00:36:26,001
+It's so pervasive she can't see it.
+
+340
+00:36:26,001 --> 00:36:28,001
+So what can the therapist do?
+
+341
+00:36:28,001 --> 00:36:43,680
+Well, the therapist has got to gradually get her to see that what she takes as the obvious truth about reality is her interpretation, and it's getting her in trouble.
+
+342
+00:36:43,680 --> 00:36:55,160
+But that's a hard thing to do, and Tran, for instance, has got to play a role in it, because she's going to be relating to the therapist in a way that she can grab something that isn't her usual way.
+
+343
+00:36:55,160 --> 00:36:57,881
+But anyway, I don't want to go into it more, but your question is a good one.
+
+344
+00:36:58,441 --> 00:37:08,600
+The last, I mean, the sacrificial mother does not know that she's a sacrificial mother, and probably whatever I'm doing when I keep saying I'm a teacher is something that I don't really know.
+
+345
+00:37:08,760 --> 00:37:10,681
+Well, I can use this to make a point.
+
+346
+00:37:10,841 --> 00:37:20,920
+It isn't as if, and I just talk this way because it's simpler, that I've got my for the sake of which it's being a teacher, the guy building the house has got his for the sake of which it's being a shelterer.
+
+347
+00:37:20,921 --> 00:37:23,080
+You know, it's much more specific than that.
+
+348
+00:37:23,080 --> 00:37:33,240
+I'm just not any old teacher, but a teacher with a certain style, teaching at a certain stage in the history of the world, teaching in a whole academic system, teaching Heidegger.
+
+349
+00:37:33,240 --> 00:37:37,401
+I mean, it's very, very specific, my for the sake of which.
+
+350
+00:37:37,401 --> 00:37:42,681
+It's sort of my identity, and my identity isn't some very general role.
+
+351
+00:37:42,680 --> 00:37:45,401
+But you can sort of point at it that way.
+
+352
+00:37:45,401 --> 00:37:49,560
+And of course, the sacrificial mother will have her own very special way.
+
+353
+00:37:50,041 --> 00:37:59,161
+And you can think of that as an atmosphere that will color everything that I experience or she experiences or you experience.
+
+354
+00:37:59,160 --> 00:38:03,080
+And okay, now I think we should go on.
+
+355
+00:38:04,921 --> 00:38:06,920
+That's all fascinating.
+
+356
+00:38:06,921 --> 00:38:14,201
+And I knew that I had gotten into some new territory, which is what we went out to do every once in a while.
+
+357
+00:38:15,481 --> 00:38:21,241
+Now, oddly enough, I have a quote that I was going to read next.
+
+358
+00:38:22,441 --> 00:38:24,600
+We're talking about worldhood.
+
+359
+00:38:24,600 --> 00:38:30,041
+We're talking about significance, referential totality plus significance equals worldhood.
+
+360
+00:38:30,560 --> 00:38:34,961
+And worldhood is this disclosive space in which we encounter everything.
+
+361
+00:38:34,961 --> 00:38:43,281
+And it's come up sort of in passing every, and we know that worldhood is more basic than intentionality.
+
+362
+00:38:43,280 --> 00:38:46,321
+That worldhood is what makes intentionality possible.
+
+363
+00:38:46,321 --> 00:39:02,001
+It's not intentionality, that is, our beliefs and our desires and stuff that relate us as a mind to the world, or that makes the worldhood possible.
+
+364
+00:39:02,001 --> 00:39:08,481
+It's because there is this disclosure space that I can have beliefs, I can perceive things, I can desire things.
+
+365
+00:39:08,481 --> 00:39:12,881
+Well, now, I just want to add one more thing, because I just came across an amazing quote.
+
+366
+00:39:12,881 --> 00:39:15,360
+I knew it once before, but I lost it.
+
+367
+00:39:15,600 --> 00:39:17,441
+Now I find it again.
+
+368
+00:39:17,600 --> 00:39:23,760
+I just want to add that not only, this is really mind-boggling, and that's why it's interesting.
+
+369
+00:39:23,760 --> 00:39:39,441
+Now, Heidegger thinks not only does the worldhood of the world, or the phenomenon of the world, whichever, make intentionality, that is, the relation of the mind and world to the world, possible, he thinks it makes consciousness possible.
+
+370
+00:39:39,441 --> 00:39:49,841
+I say this because people constantly sort of bring in conscious and unconscious when they think about this, and that's really just not interesting to Heidegger.
+
+371
+00:39:49,841 --> 00:39:57,840
+And I say it too because those of you who are philosophy majors, and most of you are, know that consciousness is a hot subject right now.
+
+372
+00:39:57,841 --> 00:40:04,481
+There are meetings all the time all over the world and books and anthologies of people writing about consciousness.
+
+373
+00:40:04,481 --> 00:40:07,920
+I think, and they all say there's a very big problem, and it sure is.
+
+374
+00:40:07,921 --> 00:40:16,441
+I think nobody has a clue as to what it is or how to talk about it or how it's related to the brain, but Heidegger has an interesting spin on this.
+
+375
+00:40:16,760 --> 00:40:18,921
+His answer would be: well, then don't talk about it.
+
+376
+00:40:18,921 --> 00:40:19,560
+Don't worry about it.
+
+377
+00:40:14,961 --> 00:40:20,841
+It's not important anyway.
+
+378
+00:40:21,160 --> 00:40:29,401
+And I'll just read you the quote where he says that, and I'll print it on the next thing I hand out because it's in a very obscure place.
+
+379
+00:40:30,200 --> 00:40:38,760
+It's in a little book called Existentialism from Dostoevsky to Sartre, edited or put together by Walter Kaufman.
+
+380
+00:40:38,760 --> 00:40:44,440
+It's translated from something Heidegger wrote called The Way Back into the Ground of Metaphysics.
+
+381
+00:40:44,680 --> 00:40:45,640
+Don't worry about all that.
+
+382
+00:40:45,640 --> 00:40:47,640
+I put that on when I give you the quote.
+
+383
+00:40:47,640 --> 00:40:56,600
+Here's the quote: The existential nature of man is the reason why man can represent things as such and why he can be conscious of them.
+
+384
+00:40:56,600 --> 00:41:02,280
+All consciousness presupposes existence as the essence of man.
+
+385
+00:41:02,280 --> 00:41:04,200
+He's saying man instead of Dasein this time.
+
+386
+00:41:04,200 --> 00:41:05,641
+He sometimes says that.
+
+387
+00:41:05,640 --> 00:41:09,241
+So all kinds, I'll just put in Dasein better anyway, that way.
+
+388
+00:41:09,881 --> 00:41:11,720
+So let's go back to that, starting over.
+
+389
+00:41:11,720 --> 00:41:21,241
+The existential nature of Dasein is the reason why Dasein can represent beings as such and why Dasein can be conscious of them.
+
+390
+00:41:21,240 --> 00:41:25,320
+All consciousness presupposes existence as the essence of Dasein.
+
+391
+00:41:25,321 --> 00:41:27,560
+You recognize being in time.
+
+392
+00:41:27,560 --> 00:41:31,001
+Consciousness does not itself create the openness of beings.
+
+393
+00:41:31,001 --> 00:41:33,001
+That's the disclosing of the world.
+
+394
+00:41:33,001 --> 00:41:38,121
+Nor is it consciousness that makes it possible for man to stand open for beings.
+
+395
+00:41:38,120 --> 00:41:39,400
+That's the same point.
+
+396
+00:41:40,120 --> 00:41:50,121
+Whither and whence and in what free dimension could the intentionality of consciousness move if being in the world were not the essence of man in the first place.
+
+397
+00:41:50,361 --> 00:42:04,721
+So Heidegger's notion is the kind of coping, the kind of absorbed coping we do at the most basic level, where we don't even have to be conscious, already, and we do that with the referential totality of significance.
+
+398
+00:42:05,041 --> 00:42:12,480
+That basic level, which is the level of the world and of disclosing, is prior to consciousness.
+
+399
+00:42:12,481 --> 00:42:14,080
+It doesn't need consciousness.
+
+400
+00:42:14,080 --> 00:42:16,001
+That's an amazing claim.
+
+401
+00:42:16,001 --> 00:42:17,520
+I mean, I think it's right.
+
+402
+00:42:17,521 --> 00:42:20,480
+Nietzsche had a similar story to tell.
+
+403
+00:42:20,881 --> 00:42:31,921
+But it certainly seems like a sort of odd thing to spend so much time on it as if, but everybody believes it, because you're all Cartesians at heart, me too.
+
+404
+00:42:31,921 --> 00:42:36,560
+I mean, it looks like if you're not conscious, well, then there isn't any world, there isn't any referential totality.
+
+405
+00:42:36,560 --> 00:42:38,400
+How can you disclose any objects?
+
+406
+00:42:38,560 --> 00:42:42,001
+Got to be conscious, otherwise you're just in a stupor.
+
+407
+00:42:42,160 --> 00:42:43,361
+You're a zombie.
+
+408
+00:42:44,001 --> 00:42:47,761
+John Searle says, I hold, and that Heidegger holds.
+
+409
+00:42:47,760 --> 00:42:51,600
+But you're not a sleep-walking zombie.
+
+410
+00:42:51,600 --> 00:43:04,641
+You're coping very, what, with great skill and flexibility and expertise with the door and the doorknob and the chairs and the English languages you carry on a conversation.
+
+411
+00:43:04,640 --> 00:43:12,080
+And you can do it without being in any, I mean, consciousness is such a weasly word.
+
+412
+00:43:12,160 --> 00:43:15,201
+You can certainly do it without noticing what you're doing.
+
+413
+00:43:15,200 --> 00:43:22,080
+You can do it in such an absorbed way that you are just not aware of what you're doing.
+
+414
+00:43:22,080 --> 00:43:23,680
+But you do it very well anyway.
+
+415
+00:43:23,680 --> 00:43:25,600
+And then you can later reflect on it.
+
+416
+00:43:25,600 --> 00:43:30,641
+And of course, one more thing I want to say: Heidegger doesn't think that means that you're never conscious.
+
+417
+00:43:30,640 --> 00:43:42,001
+He just thinks that at the very rock bottom, most finding your way around in the world, as Dewey says, sort of getting on and off the bus and dressing yourself, you can do that without being conscious of what you're doing.
+
+418
+00:43:42,001 --> 00:43:44,721
+Anyway, so interesting quote, I think.
+
+419
+00:43:44,921 --> 00:43:49,560
+Now, let's go on to where we are, the critique of Descartes.
+
+420
+00:43:49,560 --> 00:43:54,361
+Luckily, we have another whole session, so I'm not worried.
+
+421
+00:43:54,680 --> 00:43:56,600
+But I want to read one thing.
+
+422
+00:43:56,600 --> 00:44:02,520
+Sometimes, and I'm still in a kind of getting everything located in my head in a way.
+
+423
+00:44:02,521 --> 00:44:09,080
+I mean, I know that Heidegger has a big influence on people who take this course.
+
+424
+00:44:09,080 --> 00:44:12,681
+And they say it changes their life and it changes their way of looking at things.
+
+425
+00:44:12,680 --> 00:44:19,161
+And I must say, like the sacrificial mother, I'm so inside it that I don't really understand what they're talking about.
+
+426
+00:44:19,160 --> 00:44:29,641
+So, but every once in a while, I read somebody who clearly and simply sort of says why Heidegger is so important to the West and to them and to us.
+
+427
+00:44:29,640 --> 00:44:34,440
+And this is Mark Rathol in his introduction to the How to Read Heidegger book.
+
+428
+00:44:34,441 --> 00:44:37,640
+And it fits in right here with the Cartesian chapter.
+
+429
+00:44:37,640 --> 00:44:39,560
+That's why I'm reading it now.
+
+430
+00:44:39,560 --> 00:44:41,080
+It's very simple.
+
+431
+00:44:41,080 --> 00:45:01,801
+He says, the bottom of page five: Heidegger did more than any other thinker of the 20th century to develop a coherent way of thinking and talking about human existence without reducing it to a natural scientific phenomenon on the one hand or treating it as a ghostly mind haunting the physical world on the other.
+
+432
+00:45:01,801 --> 00:45:09,240
+This has inspired artists and social scientists who have struggled to acknowledge the dignity and freedom of human existence.
+
+433
+00:45:09,240 --> 00:45:15,801
+It is the inspired scientists who have tried to keep mindful of the limits of scientific inquiry.
+
+434
+00:45:15,801 --> 00:45:25,001
+And it has challenged us all to rethink our place in history and the direction in which we as a scientific and technological culture are moving.
+
+435
+00:45:25,001 --> 00:45:31,600
+I think that's a neat summing up of why Heidegger's interesting.
+
+436
+00:45:32,321 --> 00:45:33,360
+You have to put a hand up?
+
+437
+00:45:29,961 --> 00:45:33,681
+No.
+
+438
+00:45:35,600 --> 00:45:44,721
+And it brings to focus on the question of naturalism and of cognitivism, which is what I'm going to talk about from today and the next time.
+
+439
+00:45:44,720 --> 00:45:50,961
+Naturalism is the view that we will eventually understand everything in terms of physics and chemistry.
+
+440
+00:45:50,961 --> 00:46:06,080
+And there are these people who are worrying and worrying about how we're going to understand consciousness in terms of brain activity, since consciousness seems to be this kind of first-person awareness and brain activity just seems to be neurons that bumping into each other.
+
+441
+00:46:06,720 --> 00:46:12,080
+And so naturalism is a big issue, and Heidegger's an anti-naturalist.
+
+442
+00:46:12,080 --> 00:46:14,080
+And cognitivism is a big issue.
+
+443
+00:46:14,080 --> 00:46:16,961
+That's the ghostly mind story.
+
+444
+00:46:16,961 --> 00:46:19,121
+That's John Searle kind of story.
+
+445
+00:46:19,120 --> 00:46:27,281
+There's always got to be consciousness and meaning and intentionality, which besides the brute facts of science.
+
+446
+00:46:27,280 --> 00:46:35,841
+And then you get the question: well, can you, in the end, reduce the consciousness and this intentionality to the brute facts of science?
+
+447
+00:46:35,841 --> 00:46:44,560
+Or are you going to be a dualist about it and say, well, there are these two deeply different ways of being, and you can't reduce one to the other?
+
+448
+00:46:44,560 --> 00:46:50,401
+Those are all big issues that people are writing and thinking and having meetings and teaching courses about.
+
+449
+00:46:50,401 --> 00:46:53,921
+And Heidegger's got an important, interesting view.
+
+450
+00:46:53,921 --> 00:46:58,321
+So I'm going to sum up his view in three slogans.
+
+451
+00:46:58,640 --> 00:47:10,961
+Naturalism is impossible, meaning we can't get a meaningful world from the brute facts of physics.
+
+452
+00:47:11,280 --> 00:47:20,840
+Brute facts is Searle's way of talking about it, and I think it's very helpful, Searle is an interesting character who worries about this issue.
+
+453
+00:47:21,401 --> 00:47:24,521
+So naturalism is impossible, Heidegger thinks.
+
+454
+00:47:24,521 --> 00:47:27,241
+Cartesianism is impossible.
+
+455
+00:47:27,240 --> 00:47:37,400
+Cartesianism says, well, of course, you can't expect to get the meaning and mental stuff out of physical things.
+
+456
+00:47:37,961 --> 00:47:39,480
+Why would you think so?
+
+457
+00:47:39,481 --> 00:47:45,721
+You've got to throw in, that's what I said earlier a minute ago, you've got to throw in mind, this invisible super stuff.
+
+458
+00:47:46,120 --> 00:47:54,121
+And only because there are minds in the world, as well as all this physical stuff, do we get a meaningful world?
+
+459
+00:47:54,120 --> 00:48:07,961
+Now, Heidegger thinks that kind of dualism, which is Descartes, build a meaningful whole somehow out of physics, out of the physical and the mental.
+
+460
+00:48:07,961 --> 00:48:10,201
+That's impossible.
+
+461
+00:48:10,200 --> 00:48:28,441
+And he further thinks that something like artificial intelligence or more generally cognitivism, which is a kind of funny form of Cartesianism, I'll explain when I get there, won't work.
+
+462
+00:48:28,441 --> 00:48:40,921
+That is, you can't use mental elements to make a representation of the world in the mind and then generate behavior on the basis of that.
+
+463
+00:48:41,080 --> 00:48:54,121
+Those of you who know about cognitivism and AI will recognize that that's sort of the general feature of what John Hoagland, a former student from here, calls good old-fashioned AI.
+
+464
+00:48:54,401 --> 00:49:01,521
+But the crucial issue there is whether you have to have an inner representation of the external world.
+
+465
+00:49:01,841 --> 00:49:03,840
+Okay, I'm not going to get to that today.
+
+466
+00:48:59,961 --> 00:49:06,720
+So let's start with the anti-naturalism.
+
+467
+00:49:07,361 --> 00:49:16,721
+Heidegger wants to show the contrast between his ontological understanding of the world and traditional ontology.
+
+468
+00:49:16,720 --> 00:49:26,640
+Traditional ontology starts with this root stuff, nature, and then asks, and what else do we have to add on to get our world?
+
+469
+00:49:26,640 --> 00:49:29,041
+And different people have different views about it.
+
+470
+00:49:29,041 --> 00:49:36,161
+But Heidegger is saying that whole way of asking the question is wrong.
+
+471
+00:49:36,160 --> 00:49:45,761
+What's basic is the holistic coping, which opens up the world by beings like us who are already in it.
+
+472
+00:49:45,760 --> 00:49:59,600
+And that's more basic than perceiving and thinking and looking at the present at hand.
+
+473
+00:49:59,841 --> 00:50:02,240
+But I give you some quotes to show you.
+
+474
+00:50:02,240 --> 00:50:09,041
+I mean, he's turning around a kind of naturalism that says that what's basic is the natural world and the present at hand.
+
+475
+00:50:09,041 --> 00:50:12,321
+And he's saying, no, no, that's not right.
+
+476
+00:50:12,321 --> 00:50:20,961
+Okay, he does all this very well in the fundamental, in the, what is it, the something history of time.
+
+477
+00:50:20,961 --> 00:50:30,161
+History of the concept of time, which I keep talking about because it's very, remember it's the lectures the year before being in time.
+
+478
+00:50:30,160 --> 00:50:39,600
+So at the bottom of 164, he says, letting something be seen as possible on the basis of, where are we?
+
+479
+00:50:39,600 --> 00:50:42,080
+On the basis of letting something be encountered.
+
+480
+00:50:42,080 --> 00:50:46,280
+And this is possible only on the basis of always already being involved with.
+
+481
+00:50:46,600 --> 00:50:56,201
+Only an entity which in its being has the aptitude to let another entity be encountered stands in the possibility of apprehending something of knowledge.
+
+482
+00:50:56,200 --> 00:50:59,321
+Knowing is nothing but a mode of being in the world.
+
+483
+00:50:59,321 --> 00:51:03,640
+Specifically, it's not even a primary, but a founded way of being in the world.
+
+484
+00:51:03,640 --> 00:51:05,641
+That's what I wanted to get to.
+
+485
+00:51:05,640 --> 00:51:18,201
+I mean, so the whole attitude of knowing, which is the traditional way that we're supposed to be related to nature, isn't going to be for him basic.
+
+486
+00:51:18,200 --> 00:51:22,201
+It's, or he says, but you can see why I like this.
+
+487
+00:51:22,200 --> 00:51:24,360
+Knowing is nothing but a mode of being in the world.
+
+488
+00:51:24,361 --> 00:51:28,600
+Specifically, it's not even a primary, but a founded way of being in the world.
+
+489
+00:51:28,600 --> 00:51:35,321
+A way which is always possible only on the basis of non-cognitive comportment.
+
+490
+00:51:35,321 --> 00:51:48,041
+I mean, I like that because he's saying that the whole world where we are the whole way of thinking about things as minds looking at objects only makes sense on the background.
+
+491
+00:51:48,041 --> 00:51:49,881
+It's the usual point of absorption.
+
+492
+00:51:50,680 --> 00:51:51,961
+Knowing your way around.
+
+493
+00:51:51,961 --> 00:51:53,640
+I don't know now why I read that.
+
+494
+00:51:53,640 --> 00:51:55,080
+I mean, except I like it.
+
+495
+00:51:55,080 --> 00:51:59,001
+I don't see that it helps very much for the discussion right now.
+
+496
+00:52:00,280 --> 00:52:01,800
+But here I'm going to go on where I am.
+
+497
+00:52:01,801 --> 00:52:07,320
+When saying knowledge is a founded mode, Heidegger's saying that it is not what's most basic.
+
+498
+00:52:07,321 --> 00:52:13,321
+What's most basic are the coping skills that add up to familiarity and open a world.
+
+499
+00:52:13,321 --> 00:52:22,120
+And on the basis of that, we can then have theory and we can have practice, relate to particular things.
+
+500
+00:52:22,441 --> 00:52:26,760
+And Heidegger, and Descartes is just the opposite.
+
+501
+00:52:26,760 --> 00:52:37,521
+That's why I want to get that out, because Descartes says it's on the basis of the stuff in the world that we have to do our ontology.
+
+502
+00:52:37,760 --> 00:52:53,520
+And Heidegger's talking about this on 122, page 89 at the top, in the middle of that first paragraph, the paragraph, a contrast between our analysis of worldhood and Descartes' interpretation of worldhood.
+
+503
+00:52:53,841 --> 00:53:00,961
+He says, we shall accordingly try to clarify his approach, that is, this approach, ontologically.
+
+504
+00:53:01,280 --> 00:53:03,441
+No, no, no, that's the wrong approach.
+
+505
+00:53:03,441 --> 00:53:04,001
+I'm sorry.
+
+506
+00:53:04,001 --> 00:53:07,921
+He's going to try to clarify Descartes' approach.
+
+507
+00:53:18,240 --> 00:53:20,800
+This whole paragraph is setting up how Descartes does it.
+
+508
+00:53:20,801 --> 00:53:23,681
+So maybe I should begin at the beginning of section B.
+
+509
+00:53:23,680 --> 00:53:34,801
+Only step by step, and you have to remember this is not Heidegger, can the concept of worldhood and the structures which this phenomenon embraces be firmly secured in the course of our investigation?
+
+510
+00:53:34,801 --> 00:53:39,761
+The interpretation of the world begins in the first instance with some entity within the world.
+
+511
+00:53:39,760 --> 00:53:44,000
+You can see that that can't be Heidegger, unless he was beginning with this entity.
+
+512
+00:53:44,001 --> 00:53:46,401
+But I mean, any old entity within the world.
+
+513
+00:53:46,401 --> 00:53:50,000
+So that the phenomena of the world in general no longer comes into view.
+
+514
+00:53:50,001 --> 00:53:57,841
+That is, you just pay attention to things, stuff, brute facts, and you lose track that there is a world at all.
+
+515
+00:53:57,841 --> 00:54:04,801
+You could pay attention to the universe, because the universe is just a bunch of facts, but you lose the way, the referential whole and all that.
+
+516
+00:54:04,801 --> 00:54:08,801
+So he said, so now he's going to talk about that.
+
+517
+00:54:08,801 --> 00:54:21,001
+We shall accordingly try to clarify this view, clarify this approach ontologically by considering what is perhaps the most extreme form in which it's been carried out.
+
+518
+00:54:21,321 --> 00:54:32,121
+We not only shall present briefly the basic features of Descartes' ontology of the quotes world, because Descartes doesn't really know that there's a Heidegger kind of world.
+
+519
+00:54:32,120 --> 00:54:36,201
+Remember, the quotes world is the universe, it's the totality of facts.
+
+520
+00:54:38,120 --> 00:54:51,080
+We not only shall present briefly the basic features of Descartes' ontology of the world, but shall inquire into its presuppositions and characterize these in the light of what we've hitherto achieved.
+
+521
+00:54:51,080 --> 00:54:56,761
+So he's going to sort of test Descartes against his phenomenology.
+
+522
+00:54:56,760 --> 00:55:01,961
+And he says it again on 199.
+
+523
+00:55:02,280 --> 00:55:03,400
+Again, I think well.
+
+524
+00:55:03,401 --> 00:55:06,840
+I was having a feeling, boy, oh boy, the things are good in this book.
+
+525
+00:55:06,841 --> 00:55:08,760
+And maybe I've got carried away.
+
+526
+00:55:08,760 --> 00:55:18,440
+But on 199, he says, worldhood cannot be read off from nature.
+
+527
+00:55:18,441 --> 00:55:27,080
+The environmental references in which nature is present primarily in a worldly way tell us rather the reverse.
+
+528
+00:55:27,080 --> 00:55:32,120
+Nature as a reality can only be understood on the basis of worldhood.
+
+529
+00:55:32,120 --> 00:55:33,320
+Remember, not explain.
+
+530
+00:55:33,321 --> 00:55:41,800
+Heidegger's always got in the background, a distinction between explaining things, like why this lecture and holds the papers up.
+
+531
+00:55:41,801 --> 00:55:43,481
+That's science's job.
+
+532
+00:55:43,481 --> 00:55:47,881
+And understanding things, which is understanding the significance of them.
+
+533
+00:55:47,881 --> 00:55:54,201
+So he wants to say: nature can only be understood on the basis of worldhood.
+
+534
+00:55:54,200 --> 00:56:02,560
+The entity of relationships of dependence of worldly entities among themselves do not coincide with the founding relationships in being.
+
+535
+00:56:03,200 --> 00:56:14,480
+That is, what founding relationships are relationships of what makes sense of what, whereas causal relationships explain what causes what.
+
+536
+00:56:14,801 --> 00:56:42,560
+And so, and now, another way to put what he's trying to set up here is that he wants you to see that the nature is what you've got left when intelligibility, that is, significance and everything that makes sense of our way of being, is left out.
+
+537
+00:56:42,560 --> 00:56:53,041
+Then you get this very reduced and thinned-out bunch of facts that are present at hand, with meaningless present-at-hand properties.
+
+538
+00:56:53,680 --> 00:57:10,800
+And his claim is you can't explain this world, the in order to, towards which, and obviously the for the sake of which, and significance, you can't explain that if all you've got to go on, you can't understand it or explain it.
+
+539
+00:57:10,801 --> 00:57:12,001
+Which do I mean?
+
+540
+00:57:12,001 --> 00:57:14,321
+I underly explained.
+
+541
+00:57:17,841 --> 00:57:19,921
+Well, hmm.
+
+542
+00:57:26,321 --> 00:57:39,121
+The people who want to explain all this mean they want to take these minimal facts and then add them up to somehow show that you could start with these brute facts and you end up with a world.
+
+543
+00:57:39,521 --> 00:57:43,440
+And remember now, this is not Descartes, really.
+
+544
+00:57:44,080 --> 00:57:45,641
+This is naturalism.
+
+545
+00:57:45,640 --> 00:57:49,961
+Descartes' going to say, Yeah, I know you can't do that, but you have to throw in mine.
+
+546
+00:57:49,961 --> 00:58:05,001
+But right now, he's just telling you that a lot is left out when you try to do any kind of explanation or understanding.
+
+547
+00:58:05,720 --> 00:58:13,881
+I'm not being clear because Heidegger's not doing what I'm not quite in sync with what Heidegger's doing.
+
+548
+00:58:14,200 --> 00:58:33,401
+Heidegger thinks naturalism is just the business of trying to explain everything causally, and eventually you won't need to bring in minds or functions or world or equipment or anything like that.
+
+549
+00:58:33,401 --> 00:58:36,921
+And that's the view he's going to criticize first.
+
+550
+00:58:37,240 --> 00:58:42,441
+But, oh, I'm going to, this is going to, all this is more confusing than I realized.
+
+551
+00:58:42,441 --> 00:58:45,560
+But, yeah.
+
+552
+00:58:46,841 --> 00:58:52,921
+You also have to think, Heidegger also wants to explain the theorem attitude.
+
+553
+00:58:53,881 --> 00:58:56,200
+Yes, and just what I was going to say next.
+
+554
+00:58:56,200 --> 00:58:56,840
+That's right.
+
+555
+00:58:56,841 --> 00:59:04,201
+You can have a theoretical attitude, and then you can try to explain everything.
+
+556
+00:59:04,200 --> 00:59:09,481
+And you can explain it, but you can't understand it.
+
+557
+00:59:09,481 --> 00:59:11,961
+That is, it's right.
+
+558
+00:59:11,961 --> 00:59:13,640
+Descartes, this is the way you think about it.
+
+559
+00:59:13,720 --> 00:59:22,600
+Descartes was right trying to find the basics boot stuff that would explain how there were everything.
+
+560
+00:59:22,600 --> 00:59:36,800
+I mean, how there were stars and how there was hearts pumping blood, and he found out that there were how the light rays that hit the eye were conducted by the optical fiber to the brain.
+
+561
+00:59:37,120 --> 00:59:39,841
+And he was busy explaining all sorts of things.
+
+562
+00:59:39,841 --> 00:59:41,840
+And Heidegger thinks that's good.
+
+563
+00:59:41,841 --> 00:59:43,360
+That's what David wants me to say.
+
+564
+00:59:43,361 --> 00:59:44,880
+I mean, it's all right.
+
+565
+00:59:44,881 --> 00:59:57,761
+I mean, it's important to take a theoretical attitude and give a story about the causal way all of these various bits of matter interact.
+
+566
+00:59:57,760 --> 01:00:02,320
+And Descartes, given when he was writing, did a brilliant job.
+
+567
+01:00:02,321 --> 01:00:12,560
+I want to say this because almost everybody who reads this thinks this that Heidegger is criticizing Descartes for trying to do science, modern science.
+
+568
+01:00:12,560 --> 01:00:13,921
+And he's not.
+
+569
+01:00:13,921 --> 01:00:19,520
+So I'm going to read you two places just so we can be sure that you both, that we all agree about that.
+
+570
+01:00:20,481 --> 01:00:28,800
+Science, I think Heidegger wants to say, though it can't explain all this in order to significance and stuff, because that isn't explainable.
+
+571
+01:00:28,801 --> 01:00:30,801
+That's only understandable.
+
+572
+01:00:30,801 --> 01:00:36,961
+That is, you can make it intelligible, but you can't give a causal story about it.
+
+573
+01:00:36,961 --> 01:00:42,641
+Science can give an explanation of every objective event.
+
+574
+01:00:42,640 --> 01:00:53,200
+So on 134, he says, I hope, at the end of that first section, in the middle of the page, 101, you know, the German.
+
+575
+01:00:54,001 --> 01:01:08,001
+Within certain limits, the analysis of the extensio remains independent of his, meaning Descartes, neglecting to provide an explicit interpretation for the being of extended entities.
+
+576
+01:01:08,001 --> 01:01:10,961
+That is, Heidegger's only got one understanding of being.
+
+577
+01:01:10,961 --> 01:01:13,680
+I'm surprised I didn't read it, which is substance, of course.
+
+578
+01:01:13,921 --> 01:01:15,041
+I'll read it in a second.
+
+579
+01:01:15,160 --> 01:01:17,560
+So, but Heidegger, did I say Heidegger?
+
+580
+01:01:17,560 --> 01:01:22,681
+Descartes only understands substances with their properties.
+
+581
+01:01:22,680 --> 01:01:28,120
+Extended stuff out there, that's his everything is made up of little bits of space for Descartes.
+
+582
+01:01:28,120 --> 01:01:33,001
+Extended stuff out there with its properties to form vortices and bump into each other.
+
+583
+01:01:33,640 --> 01:01:37,721
+It's not Newtonian yet, but he's doing his best.
+
+584
+01:01:37,720 --> 01:01:54,761
+And the other substance, namely the mind, with its properties, namely having ideas and desires and beliefs in it, if you've got this substance view, and you can't explain where you got it, and you can't use it to understand anything.
+
+585
+01:01:54,760 --> 01:02:19,481
+However, there is some, now I'm reading, there is some phenomenal justification for regarding the extensio as a basic characteristic of the world within quotes, even if by recourse to this, neither the spatiality of the world nor the entities we encounter in our environment nor even Dasein itself can be conceived ontologically.
+
+586
+01:02:19,481 --> 01:02:35,320
+Now, when we get to the space chapter, just so this doesn't seem very surprising, you can get near, far between all that kind of space out of Descartes.
+
+587
+01:02:35,321 --> 01:02:40,761
+But what you can't get is what?
+
+588
+01:02:43,961 --> 01:02:45,641
+Well, you can't get here.
+
+589
+01:02:45,640 --> 01:02:49,480
+There's no here in Descartes' space world.
+
+590
+01:02:49,480 --> 01:02:51,640
+It's a world seen from nowhere.
+
+591
+01:02:51,641 --> 01:02:58,041
+Whereas our space, there is a here in which things are near and far and up and down and so forth.
+
+592
+01:02:58,041 --> 01:02:59,560
+We'll get to the space chapter.
+
+593
+01:02:59,841 --> 01:03:17,440
+But what I want you to get out of it right now is when Descartes thinks about the extensio, he's got something right about space, though there's a kind of existential space, namely the kind of space that we live in, that he can't get, because he's got it right about the galaxies.
+
+594
+01:03:17,520 --> 01:03:23,680
+Of course, right, and then he doesn't have any quarks and strings, but he's got the right approach, Heidegger thinks.
+
+595
+01:03:24,001 --> 01:03:34,240
+And another place where he says it even better, when I oh, yeah, 184 of the history of the concept of time.
+
+596
+01:03:34,561 --> 01:03:59,680
+So here's how he said, I don't want to lose you, keep in the back of your mind, the criticism he's going to make of Descartes is you can't use the extensia, the bits of matter, the brute facts that you use to explain everything that happens in the objective world to explain or make any sense of what's going on in our human world.
+
+597
+01:03:59,681 --> 01:04:01,841
+I said world one the first time, I should have said universe.
+
+598
+01:04:02,160 --> 01:04:11,440
+You can use this to explain what's going on in the universe, but you can't use what Descartes' race extensive to understand what's going on in our world.
+
+599
+01:04:11,440 --> 01:04:17,360
+So here's something a lot like that on 184, bottom of the page.
+
+600
+01:04:17,360 --> 01:04:38,640
+The course of the scientific inquiry into reality shows that the original mode of encounter of an environment is always already given up in favor of the established view of the world as the reality of nature, so that we may interpret the specific phenomena of the world in terms of its theoretical knowledge of the objectivity of nature.
+
+601
+01:04:38,641 --> 01:04:39,921
+Now, he agrees.
+
+602
+01:04:39,921 --> 01:04:51,480
+We have to give up all our involvement and look at the world differently, scientifically, objectively, theoretically, but then you can explain lots and you can really talk about it.
+
+603
+01:04:52,761 --> 01:04:55,800
+There is theoretical knowledge of objective nature.
+
+604
+01:04:55,801 --> 01:04:56,600
+I'm going to read more.
+
+605
+01:04:56,601 --> 01:05:11,961
+If we consider this work of Descartes in relation to the constitution of the mathematical sciences of nature and to the elaboration of mathematical physics in particular, these considerations then naturally assume a fundamentally positive significance.
+
+606
+01:05:11,961 --> 01:05:26,921
+I wouldn't go into that if it wasn't so important to see that Heidegger, again, as I say, has nothing against science, and he has nothing against Descartes as the founder of contemporary mathematical physics.
+
+607
+01:05:26,921 --> 01:05:30,280
+And that's not his problem.
+
+608
+01:05:30,280 --> 01:05:39,961
+His problem is that Descartes can't explain our world because he's only got these two substances.
+
+609
+01:05:39,961 --> 01:05:41,400
+So, let me go on.
+
+610
+01:05:41,400 --> 01:05:50,280
+So, a lot is left out if you do that, if you give an objective description and theoretical description of the universe.
+
+611
+01:05:50,280 --> 01:06:19,801
+He says on 168 in the history of the concept of time: the more the initially experienced world is deprived of worldhood, unworlded, as we will later put it, that is, the more the initially experienced world becomes mere nature, the more we discover in it mere naturality, and that is, we discover the objectivity of physics.
+
+612
+01:06:20,120 --> 01:06:22,041
+I'm making the same point again and again.
+
+613
+01:06:22,041 --> 01:06:34,240
+Fine, you can leave out all out of stuff, and then you can have physics, but he's an anti-naturalist because he wants to say, but, and I want to read one more before somebody else reads anything.
+
+614
+01:06:34,480 --> 01:06:40,400
+The cruise, the punchline that I'm trying to set you up for here is on 94 of being in time.
+
+615
+01:06:40,721 --> 01:06:44,080
+This is the sort of anti-naturalist slogan.
+
+616
+01:06:54,641 --> 01:06:59,440
+Oh, second sentence, so 94 on 65 of the German.
+
+617
+01:06:59,440 --> 01:07:05,120
+Only in some definite mode of its own being in the world can Dasein discover entities as nature.
+
+618
+01:07:05,120 --> 01:07:12,001
+This manner of knowing them has the character of depriving the world of its worldhood in a definite way.
+
+619
+01:07:12,001 --> 01:07:13,760
+I've just been talking about that.
+
+620
+01:07:13,761 --> 01:07:25,921
+Nature, as the categorial aggregate of those structures of being which a definite entity encountered within the world may possess, can never make worldhood intelligible.
+
+621
+01:07:26,561 --> 01:07:31,760
+I said the slogan was: naturalism is impossible, and that's the statement of it.
+
+622
+01:07:31,761 --> 01:07:47,041
+You have to leave out so much of world and worldhood in order to get to the pure race extensive, the pure bits of matter, the brute facts, and you can't get back all that meaning that you left out.
+
+623
+01:07:47,041 --> 01:07:50,080
+That's Heidegger's big insight.
+
+624
+01:07:50,080 --> 01:07:51,841
+Let's see if I can say it.
+
+625
+01:07:51,921 --> 01:07:56,640
+I got one more chance to say it, then I will stop.
+
+626
+01:08:02,721 --> 01:08:14,720
+That means that we can't understand this whole of meaning, even if we can give a causal account that explains everything under the description of matter in motion.
+
+627
+01:08:14,841 --> 01:08:19,560
+I don't, I think I asked how many know Davidson's stuff, anomalous monism.
+
+628
+01:08:19,721 --> 01:08:35,400
+This is a kind of anomalous monism claim, but for those who know it, I mean, science can explain everything that you can describe as basic stuff moving around, but that doesn't enable it to describe at all.
+
+629
+01:08:36,120 --> 01:08:41,001
+That's kind of holism of energy and fields and stuff.
+
+630
+01:08:41,320 --> 01:08:49,320
+But there's no way that holism gets any grip on the holism of referential totality and significance.
+
+631
+01:08:51,561 --> 01:09:14,280
+Here's how I wrote it: the natural kinds, like electrons, can explain why some material objects are hard and others are floppy or soft, but they can't explain the class of things in the world that are hammers because that's correlated with being a hammer and it's correlated with all of our interests, and it's a different holism.
+
+632
+01:09:14,280 --> 01:09:17,320
+They just have no way of relating to each other.
+
+633
+01:09:17,320 --> 01:09:17,961
+Yeah.
+
+634
+01:09:21,160 --> 01:09:23,800
+What was that?
+
+635
+01:09:23,801 --> 01:09:29,480
+The last thing I read, but I was reading on 169 last in.
+
+636
+01:09:29,801 --> 01:09:32,280
+Oh, yeah, that's right, 169.
+
+637
+01:09:33,001 --> 01:09:37,480
+Let me see if I want to say.
+
+638
+01:09:37,480 --> 01:09:40,841
+Okay, now I've just got two minutes, but that's fine.
+
+639
+01:09:40,841 --> 01:09:41,800
+Where are we?
+
+640
+01:09:41,801 --> 01:09:49,881
+Well, that's the story very quickly: that science is fine, but naturalism is impossible.
+
+641
+01:09:49,881 --> 01:10:02,320
+That is, science is fine for explaining the universe and its physical properties, but it cannot get, it cannot understand the world and its meaning relations.
+
+642
+01:10:02,641 --> 01:10:04,480
+Now, that's the first move.
+
+643
+01:10:04,480 --> 01:10:08,400
+Remember the second move, and that's why I was confusing you and confusing me.
+
+644
+01:10:08,400 --> 01:10:10,961
+Descartes doesn't make this mistake.
+
+645
+01:10:11,200 --> 01:10:12,801
+Descartes' not a naturalist.
+
+646
+01:10:12,801 --> 01:10:18,560
+Descartes doesn't claim that the res extensa explains meaning.
+
+647
+01:10:19,041 --> 01:10:22,720
+Because there's the res cogitans, the thinking thing, the mind.
+
+648
+01:10:23,280 --> 01:10:24,881
+So now we get to dualism.
+
+649
+01:10:24,881 --> 01:10:28,240
+Okay, we're going to grant that we're not going to be naturalists.
+
+650
+01:10:28,240 --> 01:10:32,400
+You can't just say science is eventually going to explain everything.
+
+651
+01:10:32,400 --> 01:10:38,160
+You've got to say something about how all this meaning gets here.
+
+652
+01:10:38,160 --> 01:10:43,120
+And Descartes' move is to say, and it's perfectly like Husserl and like Searle.
+
+653
+01:10:43,120 --> 01:10:45,520
+I'll read you a little bit of Husserl next time.
+
+654
+01:10:45,520 --> 01:10:48,560
+That is, well, then the mind has got to put in the meaning.
+
+655
+01:10:48,561 --> 01:10:55,760
+It's another self-sufficient substance besides the bits of matter, the brute facts.
+
+656
+01:10:55,761 --> 01:11:05,120
+That self-sufficient substance is going to put function predicates on these brute facts, and then we'll get the whole world of meaning.
+
+657
+01:11:05,120 --> 01:11:06,560
+That's the second claim.
+
+658
+01:11:06,561 --> 01:11:08,640
+And that turns out to doesn't work.
+
+659
+01:11:08,641 --> 01:11:10,160
+That's impossible, too.
+
+660
+01:11:10,160 --> 01:11:13,921
+We'll start with the arguments why that's impossible next time.

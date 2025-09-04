@@ -1,0 +1,3642 @@
+
+
+
+1
+00:00:00,000 --> 00:00:15,040
+When you find two different meanings of intentionality and of representation and a constitution, and you can't tell who's speaking and things are looking pretty bad for ever understanding the book, keep your eye on the phenomenon.
+
+2
+00:00:15,040 --> 00:00:16,800
+That's what you should be doing.
+
+3
+00:00:16,800 --> 00:00:22,480
+Looking for those places, which is what I'm going to talk about today, where he actually describes something.
+
+4
+00:00:22,879 --> 00:00:30,639
+And from his point of view, and the Gestalt point of view, tells what, you know, draws all kinds of philosophical conclusions.
+
+5
+00:00:30,639 --> 00:00:37,999
+And then you'll understand why he has his own notion of intentionality and representation and constitution.
+
+6
+00:00:38,719 --> 00:00:41,519
+I don't remember whether any others in the air at that point.
+
+7
+00:00:41,519 --> 00:00:42,959
+I can't think of any.
+
+8
+00:00:42,960 --> 00:00:46,719
+But so that's the general moral.
+
+9
+00:00:47,040 --> 00:01:03,919
+Now, one thing that wasn't clear last time, which I would have gone back to, but one, it came up in an email that somebody sent me, and it happens to come up in just in a word at the very end of our reading.
+
+10
+00:01:03,919 --> 00:01:08,079
+And that is an excuse and why he would say something like that.
+
+11
+00:01:08,399 --> 00:01:33,960
+This whole issue about temporality at the end is very relevant to the weird discussion, which may seem weird to you, it seemed perfectly okay to me, about conditions of satisfaction for the two different kinds of intentionality that are involved in Merlot-Ponty and in analytic philosophers like Searle.
+
+12
+00:01:34,279 --> 00:01:45,639
+And remember, I said, I still think it's true, that the final test of intentionality has to be whether there are, and I said conditions of satisfaction.
+
+13
+00:01:45,639 --> 00:01:56,280
+That might be the wrong way to say it, because that way of talking is sort of owned by the Searle side of this, which isn't wrong.
+
+14
+00:01:56,279 --> 00:01:59,240
+I mean, beliefs have conditions of satisfaction.
+
+15
+00:01:59,239 --> 00:02:06,440
+That is, if you believe something, then the world is like that, then your belief is true and you're satisfied.
+
+16
+00:02:06,440 --> 00:02:09,560
+And if the world isn't like that, then your belief turns out not to be true.
+
+17
+00:02:09,560 --> 00:02:11,000
+And it doesn't.
+
+18
+00:02:11,000 --> 00:02:22,040
+But the way something is seen and has intentionality is it's got to imply something which could turn out to be false.
+
+19
+00:02:22,040 --> 00:02:35,319
+It can't, I mean, that's how you can tell that it's about something, that it has some kind of, I won't go on and say meaning, because again, I think that belongs to the traditional intentionality.
+
+20
+00:02:35,480 --> 00:02:39,000
+So it has some kind of sense or some kind of significance.
+
+21
+00:02:39,000 --> 00:02:41,400
+What is it to have some kind of sense or significance?
+
+22
+00:02:41,399 --> 00:02:47,639
+Well, it's to somehow imply something which could turn out not to be that way.
+
+23
+00:02:47,959 --> 00:02:59,079
+And that's why I brought in Gerbich's talk about perceptual implications and how the front of the house implies the back, looks like there's a back.
+
+24
+00:02:59,079 --> 00:03:07,399
+And in that sense, is in a weird way of putting it, going to be about the back, or implies it better, implies the back.
+
+25
+00:03:07,399 --> 00:03:31,359
+And now comes the part that gave people a hard time, I could see in this office hours and email, that that must mean that when the front looks like it's hiding the back, covering up the back, there is a back present already, then it turns out that there's no back.
+
+26
+00:03:31,359 --> 00:03:33,040
+There's a puzzle.
+
+27
+00:03:33,040 --> 00:03:34,719
+How can that be?
+
+28
+00:03:34,720 --> 00:03:47,519
+It doesn't bother people that when they believe some proposition like it's a beautiful sunny day, or let's say they believe it's a terrible rainy day, it can turn out to be false.
+
+29
+00:03:47,519 --> 00:04:14,559
+But why does it, I don't quite know, well, I sort of, why it bothers you to think, you want to think, well, either there's a front of the house and it looks the way it does because it hides the back of the house, and then how could it turn out to be false when you go around and look and discover it's a facade, or there's a front of the house and it remains open whether there's really a back.
+
+30
+00:04:14,560 --> 00:04:20,799
+And then we get all that weird talk about neutrality and ambiguity, which we were in just at the end last time.
+
+31
+00:04:20,800 --> 00:04:22,560
+That's not going to work either.
+
+32
+00:04:22,560 --> 00:04:27,519
+It isn't as if the front of the house looks like maybe there's a back and maybe there's not a back.
+
+33
+00:04:27,519 --> 00:04:29,760
+It looks like there's a back.
+
+34
+00:04:29,760 --> 00:04:38,639
+Of course, it's indeterminate and ambiguous in the way everything in perception is never finished.
+
+35
+00:04:38,639 --> 00:04:48,799
+But there's something special about the way the front of the house perceptually implies the back, and there may or there may not be a back.
+
+36
+00:04:48,800 --> 00:04:58,240
+Now, the first thing to say is when you're involved in coping with it and not standing back and thinking about it, it actually looks like there's a back there.
+
+37
+00:04:58,239 --> 00:05:04,599
+I mean, once you step back and start to think about it and reflect on it, and he's talking about that too there during the end.
+
+38
+00:05:04,599 --> 00:05:13,639
+How if you reflect, he says at the bottom 276, I don't want to read it right now, you think there's some kind of data there that needs to be interpreted.
+
+39
+00:05:13,639 --> 00:05:16,760
+That would be like the sense datum of the front of the house.
+
+40
+00:05:16,760 --> 00:05:21,880
+You can interpret it as the sense datum of the front of a house or the sense datum of a facade.
+
+41
+00:05:21,880 --> 00:05:26,120
+But that's not the way it looks if you're involved.
+
+42
+00:05:26,120 --> 00:05:33,480
+That's the way it looks if you're past and say, well, maybe there's really a back and maybe there isn't and I'm not going to take any stand on it.
+
+43
+00:05:33,479 --> 00:05:39,320
+And then there's going to be some neutral something there, but not a normal perception.
+
+44
+00:05:39,320 --> 00:05:41,240
+Okay, but I'm leading up to the problem.
+
+45
+00:05:41,479 --> 00:05:43,240
+It really you are involved.
+
+46
+00:05:43,239 --> 00:05:47,160
+It looks like there's a back, and then you go around and there isn't.
+
+47
+00:05:47,479 --> 00:05:49,800
+How are you supposed to understand that?
+
+48
+00:05:50,120 --> 00:05:53,719
+Well, that's where this temporality discussion comes in.
+
+49
+00:05:54,040 --> 00:05:56,200
+That is what he said.
+
+50
+00:05:56,200 --> 00:06:06,760
+He says, in effect, that whenever you perceive anything, you're already committed to a future way it's going to develop.
+
+51
+00:06:07,079 --> 00:06:10,599
+It has inexhaustible richness or thickness.
+
+52
+00:06:10,599 --> 00:06:13,799
+Those are his two favorite terms for it.
+
+53
+00:06:13,800 --> 00:06:19,400
+That means it already looks, let's say, like a house with a back.
+
+54
+00:06:19,719 --> 00:06:27,880
+And when you find out it isn't, then your whole temporal stream of experience gets disrupted.
+
+55
+00:06:27,880 --> 00:06:29,959
+That's what we were talking about before.
+
+56
+00:06:29,959 --> 00:06:36,760
+And I said in a hurry that your expectations explode, but I didn't explain what that meant.
+
+57
+00:06:36,760 --> 00:06:53,519
+That means that if you were set to see the back of the house, but then to make it dramatic, you go around from the front, and instead of it being a facade, or instead of being the back of a house, there's a big swimming pool there or a waterfall, something crazy.
+
+58
+00:06:47,880 --> 00:07:03,680
+Well, then all your bodily expectations, the sort of perceptual grip you had on what was going on, is undermined.
+
+59
+00:07:03,680 --> 00:07:06,480
+And for a minute, you just don't know what's going on.
+
+60
+00:07:07,120 --> 00:07:09,200
+That's when it explodes.
+
+61
+00:07:09,200 --> 00:07:17,039
+And then you get some new understanding of it, and you see that it's always been a kind of facade in front of a swimming pool.
+
+62
+00:07:17,040 --> 00:07:25,120
+And then we said, and this is important: you can't go back anymore and remember even how it was.
+
+63
+00:07:25,120 --> 00:07:31,519
+That's the sort of weird way the temporality can be retroactive or in this perceptual level.
+
+64
+00:07:31,519 --> 00:07:39,360
+I mean, it restructures your memory of the experience, if it's radical enough.
+
+65
+00:07:40,399 --> 00:07:42,000
+You can't anymore picture.
+
+66
+00:07:42,000 --> 00:07:46,719
+Remember, we did it the last time we were saying with the back of the man or the woman.
+
+67
+00:07:46,719 --> 00:07:51,280
+It's not that you see a bat which you interpret as a man or a woman.
+
+68
+00:07:51,279 --> 00:07:52,880
+That wouldn't explode.
+
+69
+00:07:52,880 --> 00:07:54,959
+That would just turn out to be wrong.
+
+70
+00:07:54,959 --> 00:07:59,279
+That would be turning it into this other kind of conditions of satisfaction.
+
+71
+00:07:59,280 --> 00:08:05,440
+Well, there's a bat, and I interpret it to be the back of a man, and therefore I expect it to be the back of a man.
+
+72
+00:08:05,440 --> 00:08:10,079
+This is all perfectly normal, non-Marilopanti intentionality.
+
+73
+00:08:10,239 --> 00:08:20,960
+So I have the belief that if I went around, I would see a face of a man, and I had the expectation, all that has propositional content, and all that to be falsified.
+
+74
+00:08:20,959 --> 00:08:27,520
+But if there was a neutral something that you experienced, then there wouldn't be any explosion, so to speak.
+
+75
+00:08:27,520 --> 00:08:29,839
+No big deal changing your perception.
+
+76
+00:08:29,839 --> 00:08:31,840
+You just change your belief.
+
+77
+00:08:31,839 --> 00:08:45,800
+Instead of seeing this back as being, having, if you went around it, the possibility of seeing a woman from the front, that interpretation would turn out to be right.
+
+78
+00:08:45,800 --> 00:08:48,200
+The other interpretation, I mean, a man.
+
+79
+00:08:48,200 --> 00:08:53,880
+Anyway, one of the interpretations would turn out to be wrong, which is always right, and vice versa.
+
+80
+00:08:53,879 --> 00:08:56,040
+And the back would go on looking the same.
+
+81
+00:08:56,040 --> 00:08:59,160
+There wouldn't be this kind of explosion.
+
+82
+00:08:59,160 --> 00:09:09,320
+Every synthesis is both, every synthesis is both exploded and rebuilt by time with one and the same process.
+
+83
+00:09:09,320 --> 00:09:11,079
+That's what I'm trying to explain.
+
+84
+00:09:11,079 --> 00:09:21,000
+So with some time, your house or your girl thing, or man thing experience, can be exploded as time passes.
+
+85
+00:09:20,999 --> 00:09:23,640
+And what is it to say rebuilt with time?
+
+86
+00:09:23,640 --> 00:09:35,079
+Well, it's to say you find you now, that's what I meant, you retroactively remember it differently and you are set to deal with it differently and it looks different.
+
+87
+00:09:35,079 --> 00:09:41,960
+Now the next thing that puzzled people was that I have to say something about, oh, I forgot this thing.
+
+88
+00:09:43,640 --> 00:09:46,520
+Just a second for this, the next coin.
+
+89
+00:09:47,560 --> 00:09:48,839
+Oh yeah, sure.
+
+90
+00:09:49,560 --> 00:10:01,720
+That it somehow bothered people to think, well then what really is there is, say, a man in the Telegraph Avenue, or what really is there is a facade.
+
+91
+00:10:01,719 --> 00:10:03,640
+And how do we know that?
+
+92
+00:10:03,640 --> 00:10:06,280
+And is that about the sort of objective world?
+
+93
+00:10:06,280 --> 00:10:10,760
+And Hansen, where are we describing the objective world about what's really there?
+
+94
+00:10:10,759 --> 00:10:12,920
+Well, that is a complete mix-up.
+
+95
+00:10:12,920 --> 00:10:16,280
+And I therefore had to come in and talk about it.
+
+96
+00:10:16,280 --> 00:10:19,840
+Of course, I could see why somebody thinks that.
+
+97
+00:10:18,040 --> 00:10:22,959
+That's in a way, so don't panic, that crypto mechanism.
+
+98
+00:10:23,200 --> 00:10:35,520
+Whatever you think is the way, whatever you're experiencing it as right now looks like the way it really is, and it looks like it's because it's a man that is causing you to have an experience of a man, and that's that.
+
+99
+00:10:35,520 --> 00:10:39,760
+But you've got to stay on the level of perception here.
+
+100
+00:10:39,759 --> 00:10:47,120
+So when it turns out that you go around and it's a man, that's just another experience.
+
+101
+00:10:47,520 --> 00:10:49,999
+Not the objective final fact.
+
+102
+00:10:50,320 --> 00:10:53,440
+So it could turn out that it wasn't a man after all.
+
+103
+00:10:53,440 --> 00:11:07,040
+It's a girl wearing a beard and a mustache to fool people, or because she has the job of acting like that one pharaoh in each of them had a beard because pharaohs were all men because we wore a beard.
+
+104
+00:11:07,359 --> 00:11:14,720
+And there's always endless possibilities of new explosions and new taking back.
+
+105
+00:11:14,719 --> 00:11:19,360
+There isn't a right answer which undermines and settles it.
+
+106
+00:11:20,959 --> 00:11:24,079
+I must have caused that, or the crypto mechanism caused that.
+
+107
+00:11:24,079 --> 00:11:32,000
+You've got to think, well, yes, the experience you dropped behind what looked like a girl and it looks like a man.
+
+108
+00:11:31,999 --> 00:11:38,320
+And the next time you go around, you may have to retroactively, that may explode and you may have to retroactively fix that.
+
+109
+00:11:38,320 --> 00:11:39,759
+And it's all temporal.
+
+110
+00:11:39,759 --> 00:11:41,760
+And you never come to the end of it.
+
+111
+00:11:41,759 --> 00:11:44,719
+And everything is retroactively changeable.
+
+112
+00:11:44,719 --> 00:11:47,360
+I mean, if it gets bad enough, you go crazy.
+
+113
+00:11:47,440 --> 00:11:48,160
+I mean, you do it.
+
+114
+00:11:48,479 --> 00:11:56,160
+Up to a certain point, lots of surprises as to what you were taken for granted in your perception turn out not to be so.
+
+115
+00:11:56,440 --> 00:11:58,640
+And uh that's it.
+
+116
+00:11:58,640 --> 00:12:01,040
+That's what I wanted to tell to say.
+
+117
+00:12:01,359 --> 00:12:12,360
+That's all meant to clearify very sensible because I could be followed for my trying to cover any comments, but that's important to understand that.
+
+118
+00:12:12,359 --> 00:12:17,240
+Uh I can tell you another version of it in a minute, but just which I just can remember.
+
+119
+00:12:17,640 --> 00:12:31,160
+Let's hear well, I mean, what I don't understand is this if your experience if you remember, if you don't remember how it was once you're experiencing the new way, then how can you, you know, how can committees ever, you know, go back to the beginning?
+
+120
+00:12:31,479 --> 00:12:37,880
+Well, I don't think I think partly your question is based on a false claim.
+
+121
+00:12:37,879 --> 00:12:41,720
+If you can't remember how it was, that's ambiguous.
+
+122
+00:12:41,719 --> 00:12:50,760
+You can certainly remember if your office was the back of a girl and you were very eager to go around and see what kind of a nice girl this might be.
+
+123
+00:12:50,759 --> 00:12:52,520
+You can remember all that.
+
+124
+00:12:52,520 --> 00:13:06,839
+What you can't and what you can't remember when you drop behind again is how the in the world you ever got fooled by this back as if it were the back of a beautiful girl because it looks perfectly evidently like the back of a man.
+
+125
+00:13:06,839 --> 00:13:09,479
+That's that you you can't picture that.
+
+126
+00:13:09,479 --> 00:13:11,160
+But you remember that you were fooled.
+
+127
+00:13:11,320 --> 00:13:11,880
+Does that help?
+
+128
+00:13:11,880 --> 00:13:14,679
+I mean it did I think that you were getting off on a bad track.
+
+129
+00:13:15,880 --> 00:13:19,320
+Okay, I guess the conditions would be nice to have a nice word for this.
+
+130
+00:13:19,320 --> 00:13:22,119
+The conditions are we're trying to figure it out.
+
+131
+00:13:22,440 --> 00:13:33,160
+What we want to know is what you call the that which can satisfy your expectations or your anticipations would be better.
+
+132
+00:13:33,640 --> 00:13:37,560
+The reason I make that distinction is expectations is propositional.
+
+133
+00:13:37,560 --> 00:13:40,839
+I expect that it's going to look like a girl.
+
+134
+00:13:40,839 --> 00:13:48,200
+That's already in the detached, reflective, traditional intentionality mode.
+
+135
+00:13:48,560 --> 00:13:53,359
+Anticipation is my whole, then there won't be any explosion, remember.
+
+136
+00:13:53,359 --> 00:13:55,119
+You just, your expectation was wrong.
+
+137
+00:13:55,119 --> 00:13:56,800
+You've got a new expectation.
+
+138
+00:13:56,800 --> 00:14:13,759
+But if it was an anticipation, which is some, if your whole body was set to focus on and see a woman and you see a man, then your expectations are, I mean, your anticipations are upset.
+
+139
+00:14:13,759 --> 00:14:17,919
+You can't, you don't, you can, you could say I anticipated, you could add it was.
+
+140
+00:14:17,920 --> 00:14:23,280
+You could just use the word anticipated as if it meant expected, but you need a distinction.
+
+141
+00:14:23,280 --> 00:14:33,360
+One of them is an intellectual thing, a propositional idea, something mental that you believe or expected.
+
+142
+00:14:33,359 --> 00:14:52,880
+And the other one is supposed to be an embodied thing, an embodied way of being, some way you were set to see, already ready, and that was being motivated, is the funny word from Merlot Ponte, by what you're seeing already.
+
+143
+00:14:52,880 --> 00:14:56,959
+So that what you're seeing already is leading you to anticipate that.
+
+144
+00:14:56,959 --> 00:15:03,120
+I mean, keep asking yourself, what would it have to be for it to be able to retroactively explode?
+
+145
+00:15:03,120 --> 00:15:11,040
+It has to be more than an interpretation, more than a belief, more than an expectation, or maybe different than, I mean, different than.
+
+146
+00:15:11,359 --> 00:15:18,880
+It has to be some way that you're already coping with the future now.
+
+147
+00:15:18,879 --> 00:15:25,280
+So that when the future turns out to be not the way you were already coping with it, there's real breakdown.
+
+148
+00:15:25,280 --> 00:15:27,840
+And now we're trying to find a word for that.
+
+149
+00:15:27,839 --> 00:15:30,560
+Conditions of improvement is wrong.
+
+150
+00:15:31,119 --> 00:15:34,040
+I use that term in a different context where it makes sense.
+
+151
+00:15:34,119 --> 00:15:35,480
+It doesn't help here.
+
+152
+00:15:35,879 --> 00:15:38,280
+Conditions of satisfaction.
+
+153
+00:15:38,599 --> 00:15:42,839
+Your perceptual implications are not what?
+
+154
+00:15:43,479 --> 00:15:44,520
+Fulfilled.
+
+155
+00:15:44,839 --> 00:15:46,839
+Fulfilled is just what I came across.
+
+156
+00:15:47,079 --> 00:15:48,599
+It's fulfilled, isn't it?
+
+157
+00:15:48,599 --> 00:15:49,239
+It's funny.
+
+158
+00:15:49,239 --> 00:15:50,920
+I came across it the minute you did it.
+
+159
+00:15:50,999 --> 00:15:52,200
+I'll be telepathic.
+
+160
+00:15:52,200 --> 00:15:52,680
+Yes.
+
+161
+00:15:52,680 --> 00:15:53,160
+Okay.
+
+162
+00:15:53,160 --> 00:15:55,959
+Yes, let's talk about conditions of fulfillment.
+
+163
+00:15:55,959 --> 00:15:57,800
+It's just another word.
+
+164
+00:15:58,040 --> 00:16:03,959
+But I'm afraid it's not going to, we're not going to have any.
+
+165
+00:16:04,599 --> 00:16:06,920
+Satisfaction is a technical term.
+
+166
+00:16:07,320 --> 00:16:19,720
+Normally, if you were to philosophy student to tell you that your belief that it's a sunny day today is satisfied, it would sound very odd to you if your belief is true.
+
+167
+00:16:19,719 --> 00:16:26,120
+Let me remind you, those of you who are, I tell you, conditions of satisfaction is a technical term.
+
+168
+00:16:26,119 --> 00:16:31,560
+It's supposed to cover your desire being, what, fulfilled maybe.
+
+169
+00:16:31,560 --> 00:16:34,359
+Your belief being true.
+
+170
+00:16:34,680 --> 00:16:43,799
+Your memory being, we need a new word for that one, accurate, and so forth.
+
+171
+00:16:43,799 --> 00:16:49,479
+All of those are species or species of conditions of satisfaction.
+
+172
+00:16:49,479 --> 00:16:54,440
+Something you, some, and your expectations, they get whatever.
+
+173
+00:16:54,759 --> 00:16:59,000
+They get fulfilled, unfortunately, but when you just don't have enough words to go around.
+
+174
+00:16:59,959 --> 00:17:02,920
+Or maybe your expectations actually get satisfied.
+
+175
+00:17:03,239 --> 00:17:04,999
+Your desires get satisfied.
+
+176
+00:17:04,999 --> 00:17:14,519
+You take some normal word and you stretch it to cover mental states which it wasn't meant to cover.
+
+177
+00:17:14,519 --> 00:17:18,959
+And you just need that because what they all have is blah, blah, blah conditions.
+
+178
+00:17:19,120 --> 00:17:26,079
+You've got to have a word in there, which means something that if it's there, it makes it correct.
+
+179
+00:17:26,080 --> 00:17:28,239
+And if it's not there, it will correct you.
+
+180
+00:17:28,319 --> 00:17:29,440
+See, you don't have any words for that.
+
+181
+00:17:29,440 --> 00:17:32,239
+Desires don't get to be correct when they get to be fulfilled.
+
+182
+00:17:32,239 --> 00:17:34,079
+They just get to be fulfilled.
+
+183
+00:17:34,080 --> 00:17:49,839
+There's this general notion that there's something that outstanding that hasn't been found out yet or happened yet, which is going to affect the truth of, or whatever.
+
+184
+00:17:50,799 --> 00:17:53,440
+Well, I don't know how anybody ever talks about this.
+
+185
+00:17:53,440 --> 00:17:54,240
+Maybe they don't.
+
+186
+00:17:54,239 --> 00:17:59,519
+I mean, everybody just talks about conditions of satisfaction as if they knew what they were talking about.
+
+187
+00:17:59,519 --> 00:18:02,319
+And there's nothing, the phenomenon is okay.
+
+188
+00:18:02,319 --> 00:18:06,319
+It's just that there is no neutral words for it.
+
+189
+00:18:06,319 --> 00:18:08,239
+You've got to make up technical terms.
+
+190
+00:18:08,239 --> 00:18:10,239
+Now we've got a new problem.
+
+191
+00:18:10,239 --> 00:18:18,559
+Here is this technical term, conditions of satisfaction, which covers memories, desires, beliefs, expectations, what else?
+
+192
+00:18:18,799 --> 00:18:19,839
+I don't know.
+
+193
+00:18:21,279 --> 00:18:22,160
+Perception.
+
+194
+00:18:23,039 --> 00:18:25,759
+Well, for Searle, yeah, oh, sure, an action.
+
+195
+00:18:26,479 --> 00:18:28,160
+Probably called perception or illusion?
+
+196
+00:18:28,640 --> 00:18:29,599
+Yeah, yeah, I'll be the idea.
+
+197
+00:18:29,680 --> 00:18:31,759
+Yeah, that's right, but we should put that in.
+
+198
+00:18:31,759 --> 00:18:39,279
+For Searle, and it's not wrong, perception itself has these kinds of conditions of satisfaction.
+
+199
+00:18:39,279 --> 00:18:58,559
+If I think I see, to take this early example, a yellow volgo outside the window, that's going to, either there is, and it turns out that my perception is veridical, that's just a version of true, or it turns out there isn't, and my perception is an illusion, it's not satisfied.
+
+200
+00:18:58,559 --> 00:19:10,359
+That the propositional content of my visual experience, that there's a yellow volume outside the window causing me to have this visual experience to talk like so, is not satisfied because there isn't one.
+
+201
+00:19:10,680 --> 00:19:13,560
+Or it is satisfied when there is one, and so forth.
+
+202
+00:19:13,959 --> 00:19:15,879
+This is just all background.
+
+203
+00:19:15,880 --> 00:19:18,599
+Now, what we want is just to find a word for this.
+
+204
+00:19:19,559 --> 00:19:28,360
+But it's not, well, I guess I'm inclined to say we just have to take over the word satisfied as a technical term and say this is another form of it.
+
+205
+00:19:28,360 --> 00:19:29,880
+I can't think of anything else to do.
+
+206
+00:19:30,200 --> 00:19:50,279
+But it's a different kind of satisfaction because all these other kinds of satisfactions, you can state as a proposition what it is that you seem to be seeing, what you believe, what you expect, what you desire, and this, you can't, you can do that too.
+
+207
+00:19:50,279 --> 00:19:53,559
+You can state the proposition, it's a lovely girl.
+
+208
+00:19:53,719 --> 00:20:02,039
+But there, you've got to keep reminding yourself that this one can explode and the other one can't.
+
+209
+00:20:02,039 --> 00:20:03,640
+And that's what I'm trying to get at.
+
+210
+00:20:03,640 --> 00:20:13,400
+You're committing the future in a way right now at this perceptual level, that you're not at this mental level.
+
+211
+00:20:13,400 --> 00:20:15,239
+Okay, does that help any, Eric?
+
+212
+00:20:17,080 --> 00:20:19,319
+It's not the importance of this feeling.
+
+213
+00:20:19,400 --> 00:20:20,040
+That's right.
+
+214
+00:20:20,360 --> 00:20:22,200
+The anticipations break down.
+
+215
+00:20:22,200 --> 00:20:23,639
+Breakdown's a good word.
+
+216
+00:20:23,640 --> 00:20:25,640
+You don't think of beliefs breaking down.
+
+217
+00:20:25,640 --> 00:20:26,519
+That helps.
+
+218
+00:20:26,519 --> 00:20:28,600
+I mean, our desire, none of these other things.
+
+219
+00:20:28,600 --> 00:20:30,040
+Desires don't break down.
+
+220
+00:20:30,039 --> 00:20:39,319
+What breaks down is your anticipation, your body set, you're already in the future, the way your hand is already at the doorknob.
+
+221
+00:20:39,319 --> 00:20:45,239
+And when that is what explodes and gets undermined, gets breakdown.
+
+222
+00:20:45,560 --> 00:20:46,119
+Yeah.
+
+223
+00:20:46,759 --> 00:20:56,559
+I think it's exactly the right way to think about it, because it seems like what distinguishes Merloponte from some of my circles is that our bodies that are anticipations get disrupted or broken disrupted.
+
+224
+00:20:56,559 --> 00:20:57,360
+That would be good.
+
+225
+00:20:57,680 --> 00:21:03,279
+Yeah, and the notions of correctness and satisfaction should be left to the level of judgment or thought.
+
+226
+00:21:03,680 --> 00:21:04,160
+That's right.
+
+227
+00:21:04,160 --> 00:21:05,200
+That's right.
+
+228
+00:21:05,200 --> 00:21:09,359
+Okay, maybe the moral of all this, yeah, comes back in the grip.
+
+229
+00:21:09,759 --> 00:21:12,959
+Ah, that would be the state you would be in.
+
+230
+00:21:13,600 --> 00:21:14,399
+I could be what you're saying.
+
+231
+00:21:17,600 --> 00:21:24,239
+Funny, I want to say, yeah, that's very exactly right, and yet it is, but I mean, it's not wrong.
+
+232
+00:21:24,479 --> 00:21:28,400
+It's exactly what Merloponte is saying, so it can't be wrong.
+
+233
+00:21:28,400 --> 00:21:34,880
+But it's saying more than is involved in just the notion of set and breakdown.
+
+234
+00:21:34,880 --> 00:21:42,559
+It's a Merlot-Pontean thesis that we're always trying to get a maximal grip and heading toward equilibrium.
+
+235
+00:21:42,559 --> 00:21:46,959
+And when we fail, then we have this breakdown, explosion.
+
+236
+00:21:46,959 --> 00:21:54,400
+But you could tell the explosion story without the equilibrium story in just this more minimal story.
+
+237
+00:21:54,400 --> 00:22:07,119
+We're already taking a stand now on something that we are, and the way we're doing things now is already affected by what is there in the future for us.
+
+238
+00:22:07,120 --> 00:22:09,999
+And when it's not there, there's a breakdown.
+
+239
+00:22:09,999 --> 00:22:18,160
+And adding equilibrium and maximal grip is not necessary for the more minimal story.
+
+240
+00:22:18,400 --> 00:22:27,279
+Cuthro, for instance, has a breakdown explosion story, and said at one point, but he never has the equilibrium.
+
+241
+00:22:27,600 --> 00:22:28,160
+Okay.
+
+242
+00:22:28,719 --> 00:22:41,800
+At one point, I was going to say one more thing about this, which I intended to say somewhere, because Husserl, Meryl Punch, he mentions, I'll jump to it, hyletic data on 248.
+
+243
+00:22:42,039 --> 00:22:44,680
+And this is relevant to Husserl and highletic data.
+
+244
+00:22:45,959 --> 00:22:48,759
+Because I wouldn't bother to explain hyletic data.
+
+245
+00:22:48,840 --> 00:22:51,160
+That just say ignore it as Husserl.
+
+246
+00:22:51,160 --> 00:22:52,040
+But we need it.
+
+247
+00:22:52,039 --> 00:22:53,639
+Uh-oh, but I think I've got the wrong.
+
+248
+00:22:54,200 --> 00:22:56,440
+Here it is, the bottom of your 248.
+
+249
+00:22:56,440 --> 00:23:00,440
+And it's all typical Husserl.
+
+250
+00:23:00,519 --> 00:23:02,039
+Oh, but I was drawing a conclusion.
+
+251
+00:23:02,039 --> 00:23:03,799
+I'm trying to say too many things at once.
+
+252
+00:23:03,799 --> 00:23:09,560
+The moral of this, I'm putting the conclusion in the middle of it now, is keep your eye on the phenomenon.
+
+253
+00:23:09,559 --> 00:23:14,599
+All that crazy struggling with the word satisfaction.
+
+254
+00:23:14,600 --> 00:23:25,239
+You don't get lost if you just remember the person on Telegraph Avenue or the house or something, and then all this talk about anticipations, explosions, and so forth.
+
+255
+00:23:25,239 --> 00:23:26,839
+You can get a grip on it.
+
+256
+00:23:26,840 --> 00:23:36,600
+So here's another one where he's talking about how I'm dealing with something, probing it with my eye, the bottom of 248, and it's beckoning.
+
+257
+00:23:38,120 --> 00:23:42,519
+There's this vague beckoning for my body to synchronize with it.
+
+258
+00:23:42,519 --> 00:23:46,440
+Now that is equilibrium talk and maximum grip talk.
+
+259
+00:23:46,440 --> 00:23:52,920
+It's trying to get us to get an optimally rich, stable grip on it.
+
+260
+00:23:52,920 --> 00:23:55,320
+It's like the masts and the trees as usual.
+
+261
+00:23:55,319 --> 00:23:56,759
+They were vaguely beckoning.
+
+262
+00:23:56,920 --> 00:23:59,239
+They were more like a storm that was threatening.
+
+263
+00:23:59,239 --> 00:24:00,359
+It's all in the metaphors.
+
+264
+00:24:00,360 --> 00:24:01,240
+There was a tension.
+
+265
+00:24:01,239 --> 00:24:02,920
+Let's try to find something like that.
+
+266
+00:24:02,920 --> 00:24:05,719
+Attention drawing me to resolve it.
+
+267
+00:24:05,719 --> 00:24:10,999
+And when I do, then my body solves it.
+
+268
+00:24:10,999 --> 00:24:12,519
+This is a color one.
+
+269
+00:24:13,719 --> 00:24:19,440
+A sort of spasm which stops as soon as we adopt the bodily attitude corresponding to blue.
+
+270
+00:24:18,039 --> 00:24:23,120
+Well, these people are mentally deranged or injured.
+
+271
+00:24:23,279 --> 00:24:26,400
+So they're sort of exaggerated forms of this.
+
+272
+00:24:26,719 --> 00:24:50,320
+You can find it in your own experience, but maybe not getting the right color, but my favorite experience, which you've all had in some version or other, is, and it's got to find, oh, and highlighted data refers to the matter that's there, that's unstructured that's calling you to find the right structure to understand it.
+
+273
+00:24:50,319 --> 00:24:57,119
+And MeroPonchi somewhere says, I don't think we've read it yet, you have to find the key to unlock the phenomena.
+
+274
+00:24:57,360 --> 00:25:00,400
+That means you have to get the body set that's in sync.
+
+275
+00:25:00,400 --> 00:25:05,840
+And he does say in this very reading, though, I couldn't turn to it, that you get this, I think I care in a minute.
+
+276
+00:25:06,319 --> 00:25:10,079
+You have to get in sync with the object that's there.
+
+277
+00:25:10,080 --> 00:25:16,080
+Of course, the object isn't there until you get in sync with it, because that's what brings out the object that's there.
+
+278
+00:25:16,080 --> 00:25:20,799
+And on the perceptual level, it's one of these circular things.
+
+279
+00:25:21,120 --> 00:25:25,119
+But let me give you the phenomenon, and I'll show you where he talks about it.
+
+280
+00:25:25,120 --> 00:25:35,519
+My version of this is when you are thinking that you're going to get some milk, and you're eating, and you're talking, and you take up something and you swallow it, and it's not milk.
+
+281
+00:25:35,519 --> 00:25:36,880
+Let's say it's wine.
+
+282
+00:25:37,200 --> 00:25:39,039
+Now, you go into shock.
+
+283
+00:25:39,039 --> 00:25:40,800
+You have this sort of in your mouth.
+
+284
+00:25:40,880 --> 00:25:45,759
+It isn't as if you suddenly realize, oh, I thought it was going to be milk, and it's wine.
+
+285
+00:25:45,759 --> 00:25:47,119
+You don't know what it is.
+
+286
+00:25:47,120 --> 00:25:49,759
+It isn't milk anymore, and it isn't wine yet.
+
+287
+00:25:49,759 --> 00:25:56,799
+And then you get the right set, you get the right body relationship, what does he put it there?
+
+288
+00:25:57,440 --> 00:26:02,840
+You get the right bodily attitude, and it tastes like wine, and then it's okay.
+
+289
+00:26:02,840 --> 00:26:06,599
+But it's completely yucky as though you get your head.
+
+290
+00:26:02,559 --> 00:26:07,799
+And then it's highlighted data.
+
+291
+00:26:08,039 --> 00:26:14,440
+It's calling, beckoning for you to get the right attitude to understand it.
+
+292
+00:26:14,440 --> 00:26:15,399
+And I'll go to that.
+
+293
+00:26:15,640 --> 00:26:22,200
+I wasn't going to explain it in this order, but I think I can find the place that he talks about this funny thing.
+
+294
+00:26:22,200 --> 00:26:28,360
+And of course, you want to say, and we're back to this again, well, it was wine all along, and you finally found out you should never have thought it was milk.
+
+295
+00:26:28,360 --> 00:26:29,400
+And that's right.
+
+296
+00:26:29,400 --> 00:26:33,959
+But it isn't wine all along from a finished objective point of view.
+
+297
+00:26:33,959 --> 00:26:41,320
+It could turn out that after a little bit of wine, it goes back into a yucky experience, and it turns out it was really water.
+
+298
+00:26:41,319 --> 00:26:47,879
+I mean, you don't want to stand outside in a detached attitude when you're describing this experience.
+
+299
+00:26:48,279 --> 00:27:03,479
+But just insofar as you think it's wine and it works for the while that it works, then it works probably for the rest of it here, the temporality that this experience is in, it's wine.
+
+300
+00:27:03,559 --> 00:27:04,840
+It turns out to be wine.
+
+301
+00:27:04,840 --> 00:27:06,360
+And you don't want to deny that.
+
+302
+00:27:06,440 --> 00:27:08,519
+Don't 278.
+
+303
+00:27:08,519 --> 00:27:13,320
+And this is just the way the perception works, about 15 lines from the bottom.
+
+304
+00:27:13,319 --> 00:27:17,479
+The act of looking is indivisibly prospective.
+
+305
+00:27:17,479 --> 00:27:18,519
+We've been going through all this.
+
+306
+00:27:18,519 --> 00:27:20,040
+This is really the phenomenon.
+
+307
+00:27:20,039 --> 00:27:30,759
+Since the object is the final stage of my process of focusing, and retrospective, since it will present itself as perceiving its own appearance, you recognize what we just said.
+
+308
+00:27:30,759 --> 00:27:35,000
+The wine presents itself as perceiving its own experience.
+
+309
+00:27:35,200 --> 00:27:38,039
+It it presents itself as it was lying all along, you idiot.
+
+310
+00:27:38,600 --> 00:27:42,039
+How did you manage to think that you're going to make it taste like milk?
+
+311
+00:27:42,039 --> 00:27:49,600
+And when you and it's inevitable that when you get that, that's what it looked like when the man on the telegram Avenue, well, it was a man all along.
+
+312
+00:27:49,840 --> 00:27:52,079
+Why in the world would you think otherwise?
+
+313
+00:27:52,080 --> 00:27:57,999
+But until you get that, you're just in this vague, unstable state.
+
+314
+00:27:57,999 --> 00:28:03,759
+And after you get that, you've retroactively decided, well, that was that all along.
+
+315
+00:28:03,759 --> 00:28:06,079
+And that's how experience works.
+
+316
+00:28:06,080 --> 00:28:08,400
+And it isn't false.
+
+317
+00:28:08,400 --> 00:28:11,840
+It's just that it's you've got to realize that it's never settled.
+
+318
+00:28:11,840 --> 00:28:13,440
+It's in this temporal screen.
+
+319
+00:28:13,440 --> 00:28:15,920
+It could be retroactively taken back.
+
+320
+00:28:16,400 --> 00:28:19,359
+It's not from nowhere that you can declare that.
+
+321
+00:28:19,360 --> 00:28:21,440
+That was a very important concern.
+
+322
+00:28:21,440 --> 00:28:24,400
+Okay, now I said everything I want to say about that.
+
+323
+00:28:24,400 --> 00:28:29,039
+I'm ready to go on to where I've been supposed to be explaining this chapter.
+
+324
+00:28:29,039 --> 00:28:32,080
+But sooner or later, I think that's all very important to say.
+
+325
+00:28:32,080 --> 00:28:38,559
+What's most important about Narofunchi is sort of always, always there, but never, hardly ever came at once.
+
+326
+00:28:38,559 --> 00:28:41,120
+And that's this whole story you just want to say.
+
+327
+00:28:41,120 --> 00:28:49,680
+This comes up every once in a while in a sentence here, an explosion there, but you never get it told the way I just told it, anywhere, I think.
+
+328
+00:28:49,680 --> 00:28:50,160
+Yeah.
+
+329
+00:28:50,160 --> 00:28:51,039
+Well, I want to ask you.
+
+330
+00:28:51,279 --> 00:29:00,959
+No, no, I will either answer or I'm just confused because for historical loss of a possibility of everything drinking, because you could either be holistic, okay, no, I don't want to talk about that.
+
+331
+00:29:01,279 --> 00:29:02,400
+I'm talking about it.
+
+332
+00:29:02,719 --> 00:29:05,999
+That's too many details will get us back too much into it.
+
+333
+00:29:05,999 --> 00:29:07,599
+Let's go on where we are.
+
+334
+00:29:08,239 --> 00:29:10,079
+I've got to see where I am.
+
+335
+00:29:10,080 --> 00:29:16,639
+Okay, we're now I'm just going to do for the rest of the time, unless somebody interrupts me again, which is fine.
+
+336
+00:29:17,039 --> 00:29:22,280
+But I want to lay out for, say, 20 minutes or so, what the chapter is about.
+
+337
+00:29:22,160 --> 00:29:27,680
+So, because today we're finishing it, and I therefore want to be sure we've finished it.
+
+338
+00:29:27,680 --> 00:29:33,799
+So, we're now in the second part of the book, part two of the book, The World is Perceived.
+
+339
+00:29:33,120 --> 00:29:37,400
+Maybe after office hours, I should make a quick parenthetical.
+
+340
+00:29:37,959 --> 00:29:42,440
+I didn't, how many of you, I can't resist this, it's so weird.
+
+341
+00:29:42,440 --> 00:29:46,440
+How many of you read the sexuality chapters and the language chapter?
+
+342
+00:29:47,160 --> 00:29:50,920
+The sexuality chapter, that's more likely that you think that might be interesting.
+
+343
+00:29:50,920 --> 00:29:52,279
+I thought it might be interesting.
+
+344
+00:29:52,600 --> 00:29:54,200
+And maybe it wasn't, or was it?
+
+345
+00:29:54,200 --> 00:29:54,680
+I don't know.
+
+346
+00:29:54,680 --> 00:29:56,680
+How many read the language chapter?
+
+347
+00:29:56,680 --> 00:30:05,719
+Okay, I'm wondering whether it's a new technique for teaching to tell people not to read chapters and out of just counter suggestiveness, they will do the assignment.
+
+348
+00:30:05,719 --> 00:30:07,560
+But I guess not quite.
+
+349
+00:30:07,719 --> 00:30:10,920
+Anyway, I owe you a quick explanation.
+
+350
+00:30:10,920 --> 00:30:15,719
+I'm not going to tell you why I found them uninteresting, because it may be my fault.
+
+351
+00:30:15,719 --> 00:30:23,239
+But one thing is sure, that this is all I want to say, is in the order of the book, there's no reason for them to be where they are.
+
+352
+00:30:23,239 --> 00:30:29,799
+They're just an interruption in the story about two things that the book is about, perception and the body.
+
+353
+00:30:29,799 --> 00:30:32,040
+I mean, it isn't just about the fire.
+
+354
+00:30:32,279 --> 00:30:40,279
+I don't know why, and it might be about the body where after all you have to have a body in order to say things and make the noises that language is.
+
+355
+00:30:40,279 --> 00:30:42,999
+But that would be sort of a sidetrack.
+
+356
+00:30:42,999 --> 00:30:49,959
+I mean, it's really about the perception of objects and how that is related to having a body.
+
+357
+00:30:49,959 --> 00:30:53,799
+That is, what it is to have a body and what it is to perceive an object.
+
+358
+00:30:53,799 --> 00:31:07,079
+And so, for no reason that I can see, except you threw the pages up in the air and they came down this way, that all of a sudden, in the middle of the synthesis of the body, comes the sexuality chapter, comes the speech chapter.
+
+359
+00:31:07,080 --> 00:31:13,799
+I'm not, I mean, I'm ready to read them if I have time, if everybody had enough people insist that I would, to see if there's anything interesting in them.
+
+360
+00:31:13,799 --> 00:31:26,239
+But I'm not going to teach them because the theory of the body and perception comes back on your page 235, and you'd never notice if you didn't watch those other chapters if they hadn't been there.
+
+361
+00:31:26,239 --> 00:31:32,319
+And I'm just going to ignore them because they don't belong, and that's part of the argument, as far as I can see.
+
+362
+00:31:32,319 --> 00:31:37,039
+Now, so we're on to the world is perceived, which is a fine thing.
+
+363
+00:31:37,039 --> 00:31:42,080
+That they're really a threefold thing: self, object, and world.
+
+364
+00:31:42,080 --> 00:31:46,319
+Newton always wants to say that whenever you're talking about any one of those, you're talking about everything.
+
+365
+00:31:47,120 --> 00:31:48,719
+That's the whole system story.
+
+366
+00:31:48,719 --> 00:31:50,080
+There's always a field.
+
+367
+00:31:50,080 --> 00:31:53,120
+There's always me being rolled in by the field.
+
+368
+00:31:53,120 --> 00:31:56,879
+There's always the object which is pulling me to get a grip on it.
+
+369
+00:31:56,880 --> 00:31:59,440
+And so here we are, back to the object.
+
+370
+00:31:59,759 --> 00:32:08,239
+And so we're going to talk about this correlative unity of the object and the lived body from 239.
+
+371
+00:32:09,039 --> 00:32:20,959
+Now I'm going to summarize what I think is important in the short little introduction to book two, where the theory, the body is a theory of perception.
+
+372
+00:32:20,959 --> 00:32:22,399
+I find that a very strange title.
+
+373
+00:32:22,400 --> 00:32:24,000
+He does say that in French, I suppose.
+
+374
+00:32:23,999 --> 00:32:25,839
+It is the kind of thing you could miss.
+
+375
+00:32:25,839 --> 00:32:31,440
+I don't see that he has a theory of the body, and I don't think he believes that can be a theory of perception.
+
+376
+00:32:31,440 --> 00:32:35,999
+I guess theory must mean something different in French than it does to me in English.
+
+377
+00:32:36,239 --> 00:32:40,000
+If you change that to the account of the body, it's already an account of perception.
+
+378
+00:32:39,999 --> 00:32:41,279
+I feel all right about it.
+
+379
+00:32:41,279 --> 00:32:43,440
+Theory is something scientists have.
+
+380
+00:32:43,440 --> 00:32:44,799
+He doesn't have a theory of the body.
+
+381
+00:32:44,799 --> 00:32:45,759
+He doesn't want a theory.
+
+382
+00:32:46,799 --> 00:32:47,519
+Is that true?
+
+383
+00:32:47,759 --> 00:32:49,520
+French theory is much more general.
+
+384
+00:32:49,920 --> 00:32:51,440
+It's like that.
+
+385
+00:32:51,440 --> 00:32:52,079
+Okay.
+
+386
+00:32:52,080 --> 00:33:05,319
+So you could think, I would change it in my head to the account of the body or to the account of perception, because it's very confusing if you're looking for a theory of the body and a theory of perception in the way that he doesn't just not have one.
+
+387
+00:33:05,479 --> 00:33:13,559
+Well, by theory, I mean an objective, detached, rule-like, or law-like description of some phenomenon.
+
+388
+00:33:13,559 --> 00:33:25,479
+That's exactly what the body schema, remember I said this last time, is just the name for the fact that we've got no theory at all about how the body does this.
+
+389
+00:33:25,799 --> 00:33:27,160
+It just does it.
+
+390
+00:33:27,400 --> 00:33:31,079
+Does this mean unify our experience?
+
+391
+00:33:31,400 --> 00:33:32,440
+And to have, yeah.
+
+392
+00:33:33,319 --> 00:33:34,200
+No, no, go ahead.
+
+393
+00:33:34,920 --> 00:33:36,039
+Well, I think that he shouldn't.
+
+394
+00:33:36,039 --> 00:33:36,760
+I mean, that's the point.
+
+395
+00:33:36,920 --> 00:33:39,080
+Well, the point is it's not objective thought, you know.
+
+396
+00:33:39,400 --> 00:33:49,479
+Right, but what if what could be what how could there be a theory of the body schema when in a certain sense there's nothing you can say about the body schema except sort of that it's what does, and then you describe the options.
+
+397
+00:33:50,200 --> 00:33:51,479
+I think wait, what you said is right.
+
+398
+00:33:52,040 --> 00:33:58,680
+It's not a theory in the sense of the traditional objective science, objective thought kind of scientific possible theory.
+
+399
+00:33:58,680 --> 00:34:00,439
+But you're just going to use the word theory.
+
+400
+00:34:00,439 --> 00:34:00,919
+Yeah, yeah.
+
+401
+00:34:01,319 --> 00:34:02,120
+Well, that's right.
+
+402
+00:34:02,120 --> 00:34:04,599
+And so I want to just say for worse, we're not disagreeing.
+
+403
+00:34:05,080 --> 00:34:06,359
+Clear your mind of it.
+
+404
+00:34:06,359 --> 00:34:07,880
+There's no theory here.
+
+405
+00:34:08,359 --> 00:34:09,879
+And that's fine.
+
+406
+00:34:09,879 --> 00:34:26,280
+A phenomenologist gets you an account or a description and has plenty to say without getting into the detached attitude of reflection and without telling you any sort of objective truth.
+
+407
+00:34:26,680 --> 00:34:26,999
+Yeah.
+
+408
+00:34:33,719 --> 00:34:41,239
+It misses the fact that there could be only one theory of dealing with the objects and perceived the end of the evening the same.
+
+409
+00:34:42,359 --> 00:34:43,479
+I see, I like that.
+
+410
+00:34:43,480 --> 00:34:52,880
+And that you could miss, if you have the objective approach, exactly, uh in which the theoretical objective approach, in which you miss the internation between the two?
+
+411
+00:34:52,879 --> 00:34:53,919
+Okay, maybe, maybe.
+
+412
+00:34:53,919 --> 00:35:00,480
+I mean, and he's just saying, maybe this that that he's denying that he that there could be a theory of the body.
+
+413
+00:35:00,480 --> 00:35:03,600
+Because when you try to describe it, you've already got a theory of perception.
+
+414
+00:35:03,600 --> 00:35:11,120
+Now, if only he gave up the the talk of the theory of perception too, because I don't think he's got that either, uh then I think you'd be fine.
+
+415
+00:35:11,120 --> 00:35:14,080
+And people think the stalt theory, don't they?
+
+416
+00:35:14,080 --> 00:35:15,120
+Or do they?
+
+417
+00:35:15,439 --> 00:35:34,160
+So, I mean, I guess w if you have an account uh which is uh I don't know explicit and intersubjectively shareable or something, you could claim you've already got a theory, particularly if you're in psychology and want to be scientific.
+
+418
+00:35:34,160 --> 00:35:41,359
+So the Nevstalt people say they've got a theory, though they've got no description.
+
+419
+00:35:41,520 --> 00:35:41,839
+That's right.
+
+420
+00:35:41,839 --> 00:35:43,439
+It's sort of organized description.
+
+421
+00:35:43,439 --> 00:35:48,080
+If theory means organized description, then he's got a theory of perception.
+
+422
+00:35:48,080 --> 00:36:00,960
+And maybe Olivier thinks, maybe the chapter title means that you couldn't have an organized account of the body except insofar as you saw it as correlative with an organized account of perception.
+
+423
+00:36:00,960 --> 00:36:03,200
+That's the best blank we can put on it.
+
+424
+00:36:03,200 --> 00:36:04,719
+What does Gibson call what he's got?
+
+425
+00:36:04,879 --> 00:36:05,439
+Theory?
+
+426
+00:36:06,319 --> 00:36:06,879
+Isn't that nice?
+
+427
+00:36:08,799 --> 00:36:09,599
+Good, good, good.
+
+428
+00:36:09,600 --> 00:36:13,439
+I mean, that I that's what that's well that's that's even doubly nice.
+
+429
+00:36:13,439 --> 00:36:18,640
+He's doing science and yet he's not gonna claim he's this fancy physics too.
+
+430
+00:36:19,040 --> 00:36:19,839
+But okay.
+
+431
+00:36:20,719 --> 00:36:21,920
+Yeah, for the better.
+
+432
+00:36:21,919 --> 00:36:26,560
+Okay, so I'm going to read you the line about the correlative now in 239.
+
+433
+00:36:27,279 --> 00:36:28,719
+I'm halfway down.
+
+434
+00:36:29,040 --> 00:36:41,000
+Every external perception is immediately synonymous with a certain perception of my body, just as every perception of my body is made explicit in the language of external perception.
+
+435
+00:36:41,000 --> 00:36:42,120
+That's metaphor, of course.
+
+436
+00:36:42,120 --> 00:36:44,120
+He doesn't mean talk about it.
+
+437
+00:36:44,120 --> 00:36:54,679
+That the language of external perception is perceptual implication, like the front of the house saying, there's a bat behind me, without actually saying anything.
+
+438
+00:36:54,680 --> 00:36:57,399
+So it's made explicit in the language of external perception.
+
+439
+00:36:57,399 --> 00:37:08,840
+If then, as we have seen to be the case, the body is not a transparent object, it is not presented to us in virtue of the law of its constitution, that would be really a theory, as the circle through the geometer.
+
+440
+00:37:08,839 --> 00:37:17,640
+If it is an expressive unity, which we can learn to know only by actively taking it up, this structure will be passed on to the visible world.
+
+441
+00:37:17,640 --> 00:37:32,040
+Well, that's about the correlation of it, but that also raises the first basic point I want to talk about, which I always think is very deep in Merloponte and very much comes up all the time, but hard to talk about.
+
+442
+00:37:32,040 --> 00:37:36,040
+And I don't know where, if anywhere, he talks about it head on.
+
+443
+00:37:36,040 --> 00:37:38,360
+But you want to ask sort of why?
+
+444
+00:37:39,000 --> 00:37:44,920
+The unity of the body, you can only get access to it by actively taking it up.
+
+445
+00:37:44,919 --> 00:37:47,719
+Why can't you just describe it?
+
+446
+00:37:48,919 --> 00:37:55,000
+And this is equivalent to saying you have to experience it.
+
+447
+00:37:55,480 --> 00:37:57,879
+There is nothing there but an experience.
+
+448
+00:37:58,600 --> 00:38:05,320
+Nothing to say about it, but to call attention to this experience.
+
+449
+00:38:05,879 --> 00:38:34,479
+And that's tied up with what she was saying about if that really has in the background the notion of equilibrium and maximum grip and the sense of attention, not paying attention, that there is a tension, C-E-N-S-I-O-N, that this pull, this vague beckoning, that all the idea that it's something you can only live and feel that he's talking about.
+
+450
+00:38:34,480 --> 00:38:45,120
+There isn't anything else to say about it, except it feels like you're moving toward getting it right and getting a better grip, or it feels like you're moving toward getting it wrong and things are getting blurry.
+
+451
+00:38:45,120 --> 00:38:47,520
+And that's why.
+
+452
+00:38:47,520 --> 00:38:49,759
+It has to be actively taken up.
+
+453
+00:38:49,759 --> 00:38:57,200
+As soon as you try to have a detached look about yourself and the object, it doesn't pull you anymore.
+
+454
+00:38:57,200 --> 00:39:00,000
+It isn't like a storm on the horizon anymore.
+
+455
+00:39:00,000 --> 00:39:04,560
+It isn't as if you feel that this direction is better and this direction is worse.
+
+456
+00:39:04,560 --> 00:39:10,319
+That's all only going to happen while you're involved actually in coping with it.
+
+457
+00:39:10,640 --> 00:39:18,799
+And then, and only then, you get the sense of the body as this kind of what he calls expressive unity.
+
+458
+00:39:18,799 --> 00:39:20,400
+Why expressive?
+
+459
+00:39:20,399 --> 00:39:26,880
+Well, because every part, again, refers in this peculiar sense to all the rest.
+
+460
+00:39:26,879 --> 00:39:31,759
+So what's going on with any part of your body has already taken account of it in the rest.
+
+461
+00:39:31,759 --> 00:39:33,759
+Your balance is taking account of it.
+
+462
+00:39:33,759 --> 00:39:37,840
+You can switch from doing something with one hand to doing something with another hand.
+
+463
+00:39:37,839 --> 00:39:41,759
+You can switch from paying attention to mainly how it looks, to how it sounds.
+
+464
+00:39:41,759 --> 00:39:57,599
+All of this, what he calls later, this intersensorial unity or the synergistic system is a unity in which how any part of it is experienced is already telling you about the rest of it.
+
+465
+00:39:57,600 --> 00:39:59,519
+It's another holism.
+
+466
+00:39:59,520 --> 00:40:02,040
+It's the same whole rhythm story.
+
+467
+00:40:02,919 --> 00:40:04,999
+Okay, so why do we have to live it?
+
+468
+00:40:01,759 --> 00:40:07,239
+Well, it's because I'm just skimming my own notes here.
+
+469
+00:40:07,560 --> 00:40:09,879
+It's always readiness to do something.
+
+470
+00:40:09,879 --> 00:40:18,280
+You've got to you don't get the if you aren't in this readiness, if you aren't deared into the world, then you don't have this experience and you're missing the whole thing.
+
+471
+00:40:19,640 --> 00:40:27,959
+So this is the normative pull that he's talking about getting a of being towards and you've got to keep your eyes open for it.
+
+472
+00:40:28,279 --> 00:40:30,840
+He says meant sometimes equilibrium.
+
+473
+00:40:30,839 --> 00:40:33,079
+He says sometimes maximum grip.
+
+474
+00:40:33,080 --> 00:40:39,479
+But here on 244, for instance, I found him saying something else, but they're all the same, about five lines down.
+
+475
+00:40:39,480 --> 00:40:50,039
+The motor significance of colors is comprehensible only if we need to be closed, only if these needs to be closed faith or indescribable qualities presented to an observing and thinking structure.
+
+476
+00:40:50,040 --> 00:40:53,159
+See, that's how you can't really understand them.
+
+477
+00:40:53,160 --> 00:41:00,440
+And if they impinge within you on a certain general setting, then would I come to grips with the world?
+
+478
+00:41:00,759 --> 00:41:02,600
+Well, come to terms with the world.
+
+479
+00:41:02,600 --> 00:41:03,560
+I read it now.
+
+480
+00:41:03,640 --> 00:41:04,919
+Come to terms with the world.
+
+481
+00:41:04,919 --> 00:41:07,080
+But it's the same as coming to grips with the world.
+
+482
+00:41:07,080 --> 00:41:09,239
+It's reaching an equilibrium again.
+
+483
+00:41:09,239 --> 00:41:14,360
+It's getting things as clear, as rich, as thick as possible.
+
+484
+00:41:14,359 --> 00:41:17,799
+And sometimes he says somewhere, I don't know what it is.
+
+485
+00:41:18,120 --> 00:41:24,120
+Having generally your expectations fulfilled as you go along.
+
+486
+00:41:24,120 --> 00:41:25,559
+That's what you're trying to do.
+
+487
+00:41:25,560 --> 00:41:28,759
+That's what it is to come to terms with the world.
+
+488
+00:41:28,759 --> 00:41:35,880
+That's what you have and that now that's that's all I want to say about that for a moment.
+
+489
+00:41:36,759 --> 00:41:41,560
+And I want to say the opposite of this view within 243.
+
+490
+00:41:42,520 --> 00:41:44,759
+Okay, this is where I think I said already.
+
+491
+00:41:44,759 --> 00:41:48,320
+Didn't I not, Merillo Plot Quantine, starting in the middle of 246?
+
+492
+00:41:48,319 --> 00:41:50,160
+Did I say that last time?
+
+493
+00:41:47,879 --> 00:41:51,519
+Think I remember?
+
+494
+00:41:51,839 --> 00:41:53,200
+Well, I better say it now.
+
+495
+00:41:53,200 --> 00:41:59,680
+Starting from the middle of 246 through the top of 248, you're not in Merillopan Q.
+
+496
+00:41:59,839 --> 00:42:00,719
+We're in thought.
+
+497
+00:42:01,279 --> 00:42:02,639
+I told you the clue.
+
+498
+00:42:02,640 --> 00:42:09,200
+You always know you're in SART as soon as you see in itself and for itself, which you see in italics at the top of 247.
+
+499
+00:42:09,200 --> 00:42:11,120
+I swear this is where we were last time.
+
+500
+00:42:11,120 --> 00:42:11,439
+Yes?
+
+501
+00:42:21,040 --> 00:42:23,120
+Well, I see your point.
+
+502
+00:42:23,439 --> 00:42:29,440
+What I guess what I'm trying to say is, that's a perfectly sensible point.
+
+503
+00:42:29,839 --> 00:42:38,239
+You could say you've got a readiness to see such and such, and then you get surprised or you don't get surprised.
+
+504
+00:42:38,239 --> 00:42:41,040
+What is it that you can't describe?
+
+505
+00:42:41,040 --> 00:42:52,800
+But suppose you just switched now, maybe we're not disagreeing, and you just became detached, then you wouldn't have any readiness anymore or any set.
+
+506
+00:42:52,799 --> 00:42:56,719
+So maybe the thing to say is not that you can't describe the body.
+
+507
+00:42:56,719 --> 00:42:58,480
+I think you're making a good point.
+
+508
+00:42:58,799 --> 00:43:04,959
+What I mean to say is you can't describe the body except from an involved active point.
+
+509
+00:43:04,960 --> 00:43:17,920
+But there isn't any readiness set, feeling attention, lowering attention and all that, if you're just being an observer of yourself and the object.
+
+510
+00:43:17,919 --> 00:43:30,879
+So it's not that there's not something to describe, but there's a special fact, and this is sort of the existential phenomenologist story, that it's a kind of phenomenology that you can only do from being involved.
+
+511
+00:43:30,879 --> 00:43:35,880
+Of course, this leads you to a very peculiar thing, how to do phenomenology while being involved.
+
+512
+00:43:35,879 --> 00:43:37,880
+He mentions it at the very end.
+
+513
+00:43:37,879 --> 00:43:42,759
+He says we need a new radical kind of reflection, but he doesn't tell you how you're going to get it.
+
+514
+00:43:42,759 --> 00:43:46,520
+At the very bottom of 280, you just raised this point.
+
+515
+00:43:46,520 --> 00:43:50,680
+As soon as you adopt a critical attitude and ask, what am I really seeing?
+
+516
+00:43:50,680 --> 00:43:52,759
+You're missing a phenomenon.
+
+517
+00:43:52,759 --> 00:43:57,560
+The task of a radical reflection, that's normal reflection.
+
+518
+00:43:57,799 --> 00:44:01,719
+There he's thinking of Witzero and Sartre in this paragraph.
+
+519
+00:44:01,719 --> 00:44:03,319
+This is sort of not him, too.
+
+520
+00:44:03,879 --> 00:44:07,719
+Well, it's sort of him and sort of not him flipping back and forth.
+
+521
+00:44:07,719 --> 00:44:11,639
+But at the bottom, he's saying where he stands.
+
+522
+00:44:11,640 --> 00:44:21,640
+He says the task of a radical reflection, the kind of aims of self-comprehension, consists paradoxically in recovering the unreflected experience of the world.
+
+523
+00:44:21,960 --> 00:44:34,520
+And sometimes he calls that existence, because that always means being in the world, being involved, actually responding to the solicitations and tensions.
+
+524
+00:44:34,520 --> 00:44:35,160
+So that's it.
+
+525
+00:44:35,560 --> 00:44:36,039
+You're right.
+
+526
+00:44:36,040 --> 00:44:37,639
+You caused me to refine it.
+
+527
+00:44:37,640 --> 00:44:38,839
+There is plenty to describe.
+
+528
+00:44:38,839 --> 00:44:40,759
+That's what our phenomenology is doing.
+
+529
+00:44:40,759 --> 00:44:44,200
+But you can't describe it from where anybody else has tried to describe it.
+
+530
+00:44:44,200 --> 00:44:53,399
+And I must say, I don't, I wouldn't, if you press me to say what in the world this particular kind of why will type stuff that is a challenge.
+
+531
+00:44:53,399 --> 00:44:55,400
+I think, well, how can you do this?
+
+532
+00:44:55,399 --> 00:45:02,999
+How can you sit around and do phenomenology and try to reflect on all this, but stay involved in it?
+
+533
+00:45:03,000 --> 00:45:03,879
+That's a puzzle.
+
+534
+00:45:04,040 --> 00:45:05,719
+I'll tell you what I think about it in a second.
+
+535
+00:45:06,640 --> 00:45:10,680
+His point is very important, I think, because Can you hear him when he talks up here?
+
+536
+00:45:10,680 --> 00:45:11,639
+Can you hear him?
+
+537
+00:45:11,640 --> 00:45:23,200
+If you talk loud, or if I think it's important, but I think because maybe you can think of, and this is why you don't like to understand the the way you breathe the the preference way.
+
+538
+00:45:18,120 --> 00:45:24,239
+Don't bring up the speech.
+
+539
+00:45:31,279 --> 00:45:37,279
+They seem to get screen here in three times and that the judgment only optionally expresses.
+
+540
+00:45:37,359 --> 00:45:38,879
+Wait, are you in the speech chapter?
+
+541
+00:45:38,879 --> 00:45:40,319
+No, I mean the introduction.
+
+542
+00:45:40,799 --> 00:45:41,439
+Only the introduction.
+
+543
+00:45:41,439 --> 00:45:43,279
+Oh, no, I don't want to talk about the introduction either.
+
+544
+00:45:43,279 --> 00:45:43,919
+I'm sorry.
+
+545
+00:45:43,919 --> 00:45:45,519
+You know, I don't like the introduction.
+
+546
+00:45:46,000 --> 00:45:48,319
+I have I mean I don't believe the introduction.
+
+547
+00:45:48,560 --> 00:45:49,759
+Then we talked about it.
+
+548
+00:45:49,759 --> 00:45:51,439
+I think the significance.
+
+549
+00:45:52,799 --> 00:45:53,839
+Not the first introduction.
+
+550
+00:45:53,839 --> 00:45:54,959
+Just one introduction.
+
+551
+00:45:54,960 --> 00:45:55,120
+Yes.
+
+552
+00:45:55,359 --> 00:45:56,160
+Oh, sorry.
+
+553
+00:45:56,160 --> 00:45:58,399
+I'm just making hands on what I just said.
+
+554
+00:45:58,560 --> 00:45:59,680
+Strike it correctly.
+
+555
+00:46:00,000 --> 00:46:02,399
+The introduction you mean to the sense experience.
+
+556
+00:46:03,120 --> 00:46:04,079
+What introduction?
+
+557
+00:46:04,160 --> 00:46:06,959
+Attention is the introduction to attention and judgment.
+
+558
+00:46:07,040 --> 00:46:08,319
+It's always not reading the preface.
+
+559
+00:46:08,480 --> 00:46:09,999
+Yeah, I told you not to read the preface.
+
+560
+00:46:10,000 --> 00:46:10,239
+Right.
+
+561
+00:46:10,319 --> 00:46:11,840
+Introduction is good stuff.
+
+562
+00:46:11,839 --> 00:46:12,640
+It's the preface.
+
+563
+00:46:12,640 --> 00:46:13,600
+Don't read the preface.
+
+564
+00:46:13,600 --> 00:46:15,440
+It will warp your mind.
+
+565
+00:46:15,439 --> 00:46:17,120
+Okay, go ahead.
+
+566
+00:46:17,439 --> 00:46:24,239
+So, I mean, what uh what you said to think is that whenever you develop the attention, you're judging the task.
+
+567
+00:46:24,640 --> 00:46:32,079
+I'm just saying that you have to conceive the judgment as a mere expression of meaning as constituted by your engagement and coding in protocols.
+
+568
+00:46:32,080 --> 00:46:40,320
+Okay, but that doesn't solve my problem, which is what attitude are you in when you're getting yourself in getting the data for this kind of judgment.
+
+569
+00:46:46,480 --> 00:46:49,840
+Well, it's probably not helpful then, but if you tell me where, I'll read it.
+
+570
+00:46:49,839 --> 00:46:53,359
+But comprehension is different, but is that the same as radical reflection?
+
+571
+00:46:53,359 --> 00:46:53,839
+Yes.
+
+572
+00:46:53,839 --> 00:46:54,399
+It is.
+
+573
+00:46:54,879 --> 00:46:56,800
+Does he think you've got it?
+
+574
+00:46:57,520 --> 00:46:58,640
+Or also got it?
+
+575
+00:46:59,399 --> 00:47:00,599
+He thinks he's got it.
+
+576
+00:47:00,879 --> 00:47:03,080
+Well, she'll say let's talk about it.
+
+577
+00:47:02,879 --> 00:47:05,080
+If it turns out to be helpful, I'll find it.
+
+578
+00:47:05,640 --> 00:47:13,880
+Everyone will have intellectual nights, but we're sure the phenomenon is difficult to distinguish itself from the testing of intellectual.
+
+579
+00:47:13,879 --> 00:47:17,800
+Okay, which is really illegal measures.
+
+580
+00:47:18,839 --> 00:47:20,439
+So the difficulty.
+
+581
+00:47:20,600 --> 00:47:22,759
+Okay, well, I want to know sort of more.
+
+582
+00:47:22,759 --> 00:47:31,959
+But all I want to say now is, and I don't have an answer to this, and if you tell me the pages of the introduction where he might be dealing with it, I'd love to see.
+
+583
+00:47:31,960 --> 00:47:35,080
+What I think he really does isn't that at all.
+
+584
+00:47:35,080 --> 00:47:55,080
+What radical, I mean, I just want to say, if you look at the book and say, well, how does he get us to see these things that he's talking about, which is always supposed to be how the world is when I'm involved coping and not reflecting on it, he's either getting us to remember it, and that's dangerous because then there's reflection.
+
+585
+00:47:55,080 --> 00:47:58,040
+And remember, reflection changes the phenomenon.
+
+586
+00:47:58,040 --> 00:48:07,399
+The famous example is Sartre's example, where he talks about I'm involved in counting some cigarettes and then I reflect on it and I think I'm counting the cigarettes.
+
+587
+00:48:07,399 --> 00:48:11,559
+But there was no I there counting the cigarettes while I was involved in doing it.
+
+588
+00:48:11,560 --> 00:48:17,719
+That's just a very streamy, clear, typical Sartre So Clear kind of example.
+
+589
+00:48:17,719 --> 00:48:27,879
+So you can't trust anything that you find in your experience on reflection and you certainly don't want to ever make the mistake of saying that it was there all along and you discovered it.
+
+590
+00:48:27,879 --> 00:48:30,040
+You know, we did that in the attention tap.
+
+591
+00:48:32,200 --> 00:48:32,999
+He doesn't have what?
+
+592
+00:48:33,560 --> 00:48:35,959
+Well, no, he thinks it's radical reflection.
+
+593
+00:48:35,960 --> 00:48:36,200
+Right.
+
+594
+00:48:36,200 --> 00:48:40,759
+Well, first one, let's think normal reflection, certainly, he's clear about that.
+
+595
+00:48:40,759 --> 00:48:42,520
+I don't think we disagree about that.
+
+596
+00:48:42,520 --> 00:48:44,999
+Changes the phenomenon and you can't trust it.
+
+597
+00:48:45,000 --> 00:48:47,519
+Let's just read that, so I'm not sure if you're making it up.
+
+598
+00:48:47,919 --> 00:48:48,560
+Good to me.
+
+599
+00:48:47,399 --> 00:48:49,999
+This is obvious in a way.
+
+600
+00:48:51,040 --> 00:49:02,799
+I mean, he sounds sort of dark, like he's making the same point as Dart, agreeing in the start, that the reflective life at the bottom of 254 differs from the unreflective in having been phenotyped.
+
+601
+00:49:02,799 --> 00:49:07,520
+And what is given is not consciousness of pure being.
+
+602
+00:49:07,520 --> 00:49:10,079
+Well, that's just a passing remark there.
+
+603
+00:49:10,080 --> 00:49:12,160
+But anyway, take my word for it.
+
+604
+00:49:12,160 --> 00:49:15,280
+And if you find anything that disagrees, I'd be surprised.
+
+605
+00:49:15,279 --> 00:49:17,839
+Normal reflection changes the experience.
+
+606
+00:49:17,839 --> 00:49:19,279
+I don't think we disagree about that.
+
+607
+00:49:19,839 --> 00:49:22,399
+That's why we need radical reflection, whatever that is.
+
+608
+00:49:25,839 --> 00:49:27,839
+One and about the time.
+
+609
+00:49:28,000 --> 00:49:33,039
+This is what was written at the end of the introduction, so I think that this is the real reflection.
+
+610
+00:49:33,439 --> 00:49:34,239
+Now, which introduction?
+
+611
+00:49:34,239 --> 00:49:35,519
+The one I think is all right.
+
+612
+00:49:35,919 --> 00:49:36,319
+Yes.
+
+613
+00:49:36,319 --> 00:49:38,239
+Okay, let me tell us where.
+
+614
+00:49:39,680 --> 00:49:40,799
+Okay, I'm at the end.
+
+615
+00:49:41,200 --> 00:49:45,439
+Reflection is really reflection only if it doesn't carry itself out of experience.
+
+616
+00:49:45,919 --> 00:49:50,640
+And those are safe as reflection unreflected, which means that you don't quit.
+
+617
+00:49:51,600 --> 00:49:53,279
+You might not get out or reflect.
+
+618
+00:49:53,600 --> 00:49:54,879
+Don't get out, okay.
+
+619
+00:49:54,879 --> 00:49:57,439
+And that's what he thinks we're doing.
+
+620
+00:49:57,439 --> 00:49:59,359
+I see what we are, by the way, 270.
+
+621
+00:49:59,359 --> 00:50:01,040
+I'm sorry, 72.
+
+622
+00:50:01,359 --> 00:50:03,280
+Let me just read it and think about it.
+
+623
+00:50:03,439 --> 00:50:05,120
+Reflection is truly reflection.
+
+624
+00:50:06,080 --> 00:50:07,600
+I don't know about that thing.
+
+625
+00:50:07,600 --> 00:50:09,680
+Boy, I'm not going to think about it now.
+
+626
+00:50:09,680 --> 00:50:12,160
+I think he's denying this.
+
+627
+00:50:12,480 --> 00:50:23,280
+True reflection knows that it's as reflection on an unreflected experience and consequently, as a change in structure of our existence.
+
+628
+00:50:23,279 --> 00:50:24,959
+So, I don't know what's going on there.
+
+629
+00:50:25,000 --> 00:50:31,680
+And if you want to find out what the structure of our existence is, why would you want to change the structure of our existence?
+
+630
+00:50:32,160 --> 00:50:43,560
+We want to know the structure of our existence when we are as much as possible, I think, in flow, definitely, totally involved in culture.
+
+631
+00:50:46,040 --> 00:50:54,919
+No, but then, but then, as you think, and you can then think about thinking, but the phenomenology of perception is mostly not about thinking, it's about coping.
+
+632
+00:50:56,600 --> 00:51:01,079
+Yes, but and when you think, oh boy, I'm not going to talk about this anymore.
+
+633
+00:51:01,080 --> 00:51:02,839
+You see, I'm good, I see you're all phasing out.
+
+634
+00:51:03,160 --> 00:51:05,319
+But you could think about it on your own.
+
+635
+00:51:05,319 --> 00:51:13,400
+The question is: you want to talk about the way things are when you're not thinking about them and reflecting on them, how you do it.
+
+636
+00:51:13,719 --> 00:51:15,719
+And I think that's a problem.
+
+637
+00:51:15,719 --> 00:51:18,839
+But I'm ready to think about it and come back and give you the report.
+
+638
+00:51:18,839 --> 00:51:19,320
+Yeah.
+
+639
+00:51:21,000 --> 00:51:22,680
+I'll talk about the language chapter.
+
+640
+00:51:23,080 --> 00:51:23,879
+I said language.
+
+641
+00:51:23,879 --> 00:51:26,759
+It goes into thinking there are mental content.
+
+642
+00:51:26,759 --> 00:51:32,600
+But what we're overlooking is that language, he says language is uncommunicative of anything other than itself.
+
+643
+00:51:32,600 --> 00:51:36,359
+And the word, the word doesn't stand for any sort of meaning.
+
+644
+00:51:36,359 --> 00:51:37,719
+The word is the meaning.
+
+645
+00:51:38,279 --> 00:51:42,519
+You can say all that, but it just means it's just more words as far as I'm concerned.
+
+646
+00:51:42,520 --> 00:51:43,239
+Wait, no.
+
+647
+00:51:43,640 --> 00:51:45,320
+The problem remains.
+
+648
+00:51:45,319 --> 00:52:06,520
+The problem remains: to what extent can you describe your absorbed coping experience when you're not reflecting and dealing with the objects in the perceptual world and not dealing with them as just objects you're standing back and looking at, but houses you're walking around and into.
+
+649
+00:52:06,520 --> 00:52:08,759
+How do you know how that looks and feels?
+
+650
+00:52:08,759 --> 00:52:09,799
+Well, you can do it.
+
+651
+00:52:11,960 --> 00:52:14,279
+Yeah, you can do it because he does it.
+
+652
+00:52:14,279 --> 00:52:22,640
+Now, how he does it, I think, is reminding you of experiences you've had, like I did with the highlighted data of the milk and the wine.
+
+653
+00:52:18,120 --> 00:52:25,040
+He does it by asking you to look at narrow quantity.
+
+654
+00:52:25,279 --> 00:52:25,999
+I still recommend.
+
+655
+00:52:26,000 --> 00:52:29,759
+How many look at the doubt Cézanne Stout, read Cézanne Stout?
+
+656
+00:52:29,759 --> 00:52:41,759
+Well, there you see him at his best doing it because he's saying, Well, I really can't see this, but I can see that Cézanne sees what it's like to perceive an object, and I'll describe how he did, how he says it.
+
+657
+00:52:41,759 --> 00:52:51,759
+He looks at all these brain-injured people and tries to see what it's like to lack a certain capacity and thereby describes the capacity.
+
+658
+00:52:52,399 --> 00:53:07,920
+He wouldn't need to go by way of Cézanne and Yellow Goldstein if he could just say, Let's describe what it's like to have a lived body in grip with and transparently coping with the world.
+
+659
+00:53:07,919 --> 00:53:18,160
+I think that's very hard to see because immediately you're crafted to reflecting on it, and then the crypto mechanism says it was determined and it was there all along.
+
+660
+00:53:18,160 --> 00:53:19,360
+This is hard.
+
+661
+00:53:19,359 --> 00:53:20,879
+Anyway, I'm not going to go into it.
+
+662
+00:53:20,879 --> 00:53:21,839
+I'll begin more.
+
+663
+00:53:21,839 --> 00:53:23,359
+I don't know why I didn't brought it up.
+
+664
+00:53:23,359 --> 00:53:24,880
+It's because I wrote it down here.
+
+665
+00:53:24,879 --> 00:53:26,639
+Well, there's so many things I want to cover.
+
+666
+00:53:26,640 --> 00:53:28,079
+Not that we can't come back to it.
+
+667
+00:53:28,080 --> 00:53:28,640
+We will.
+
+668
+00:53:28,640 --> 00:53:29,279
+He will.
+
+669
+00:53:29,279 --> 00:53:31,440
+Any issue that comes up will come back.
+
+670
+00:53:33,359 --> 00:53:35,279
+That's the story of this book.
+
+671
+00:53:35,520 --> 00:53:36,880
+And again and again.
+
+672
+00:53:37,279 --> 00:53:37,919
+Let's see now.
+
+673
+00:53:37,919 --> 00:53:38,319
+Let's see.
+
+674
+00:53:38,480 --> 00:53:42,160
+So you get the experience with Norman at Paul of getting a grip.
+
+675
+00:53:42,160 --> 00:53:43,360
+I just said that.
+
+676
+00:53:43,759 --> 00:53:44,559
+Where am I?
+
+677
+00:53:45,359 --> 00:54:02,759
+And all I was saying, one view is it's opposed to, and that got us to a certain kind of reflection, surely, it is not is what it's opposed to, and where you stand back and take a as an observer of your self in your experience.
+
+678
+00:54:02,759 --> 00:54:06,600
+And now 248.
+
+679
+00:54:02,399 --> 00:54:09,080
+Ah, well, that's what I talked about earlier.
+
+680
+00:54:09,719 --> 00:54:13,480
+That's where we fell into the intentionality issue.
+
+681
+00:54:13,480 --> 00:54:17,079
+And I'm not going to come back to it for third time.
+
+682
+00:54:17,640 --> 00:54:18,599
+That's fine.
+
+683
+00:54:18,600 --> 00:54:19,239
+Okay.
+
+684
+00:54:19,239 --> 00:54:23,719
+Now, now we're to the point of the chapter on sense experience finally.
+
+685
+00:54:24,120 --> 00:54:25,880
+What's going on here?
+
+686
+00:54:25,879 --> 00:54:39,879
+Well, he's going to try to show the role of the body, even in our experience of color, where you think that you're just a sort of eyes looking at the colored thing.
+
+687
+00:54:40,200 --> 00:54:50,280
+Even when we're not coping with things by walking around them, the body is still involved, and it's still part of a holistic system.
+
+688
+00:54:50,600 --> 00:54:55,719
+And you've got to get in the right body stance to perceive colors.
+
+689
+00:54:56,359 --> 00:54:58,359
+This is just, he has to say this.
+
+690
+00:54:58,359 --> 00:54:59,719
+I hope it's true.
+
+691
+00:55:00,919 --> 00:55:04,440
+He's got a bunch of brain-injured people for it's true.
+
+692
+00:55:04,439 --> 00:55:09,959
+And then he tries to get you to see that it's normally true.
+
+693
+00:55:09,960 --> 00:55:11,959
+Let me read it down to see where I am.
+
+694
+00:55:11,960 --> 00:55:13,320
+No, I don't need that.
+
+695
+00:55:13,640 --> 00:55:21,319
+Are there any of those who, the people on page 242 who have this disease of the cerebellum and so forth?
+
+696
+00:55:21,319 --> 00:55:25,079
+But what he's trying to show is what they're doing.
+
+697
+00:55:25,080 --> 00:55:27,320
+Now, back to 244.
+
+698
+00:55:27,319 --> 00:55:34,120
+The colors, he says, various solids are being in the world.
+
+699
+00:55:34,120 --> 00:55:36,439
+That's about 15 lining me down.
+
+700
+00:55:37,160 --> 00:55:52,400
+And that has to do with the fact, therefore, it would follow that since my body is my basic way of coping and dealing with the world, there ought to be a close correlation between what colors I see and how my body's stance or attitude is.
+
+701
+00:55:52,719 --> 00:56:01,040
+And then he has, first he has these people who are sort of weird and who get into whole different positions in order to see red or blue.
+
+702
+00:56:01,279 --> 00:56:02,560
+We're not like that.
+
+703
+00:56:02,560 --> 00:56:14,960
+Then he gets to the artists who are typical of them, which he likes, who are more density to these color things than we are, and who say things that he thinks are so, like middle, 2.4.
+
+704
+00:56:14,960 --> 00:56:17,759
+Green is commonly regarded as a restful color.
+
+705
+00:56:17,759 --> 00:56:22,960
+It encloses me within myself and brings a peaceful state, says one patient.
+
+706
+00:56:23,439 --> 00:56:25,359
+But then we get an artist.
+
+707
+00:56:25,359 --> 00:56:31,360
+They make no demands on us and they don't even join us to do anything, says Kendinski, and so forth.
+
+708
+00:56:31,359 --> 00:56:34,000
+I think he has got a case.
+
+709
+00:56:34,560 --> 00:56:37,599
+Someone said it to me, and I thought it was a nice way to put it.
+
+710
+00:56:37,919 --> 00:56:55,680
+It's not, you don't have to have problems with the cerebellums to realize that if you want to give a party, you want to have red and rosy light as a party, because people generally are in a more open frame of mind and they stand more openly and everybody just feels close to everybody.
+
+711
+00:56:55,680 --> 00:57:05,600
+Well, you certainly don't want to do it with yellow light or green light as your party, unless you're a goth or something and want to create some very special mood.
+
+712
+00:57:05,600 --> 00:57:09,039
+But even that makes the same point.
+
+713
+00:57:09,040 --> 00:57:13,519
+I mean, if you want to create a special spooky mood, you can use spooky lights.
+
+714
+00:57:13,520 --> 00:57:20,640
+And how do lights create these moods and get you to relate to other people and stand and so forth in some way?
+
+715
+00:57:20,640 --> 00:57:25,120
+Well, it's because your body is tuned to the color.
+
+716
+00:57:25,120 --> 00:57:28,000
+And that's what he wants you to realize.
+
+717
+00:57:28,000 --> 00:57:32,239
+And so he says it, and it seems light.
+
+718
+00:57:32,560 --> 00:57:34,680
+So he has painters on his side.
+
+719
+00:57:33,040 --> 00:57:39,399
+Now, 246 to 248 is not now upon TV.
+
+720
+00:57:39,560 --> 00:57:41,080
+I don't get whether I said that.
+
+721
+00:57:41,080 --> 00:57:42,680
+Oh, I just said it a minute ago.
+
+722
+00:57:42,839 --> 00:57:43,639
+Didn't I?
+
+723
+00:57:43,960 --> 00:57:44,839
+Okay, good.
+
+724
+00:57:44,839 --> 00:57:48,120
+So now, okay, I'm catching up with where I am.
+
+725
+00:57:48,120 --> 00:57:49,479
+Oh, here's a new one.
+
+726
+00:57:50,040 --> 00:57:51,479
+We've got to do this one.
+
+727
+00:57:52,120 --> 00:58:04,279
+There is the important business, which is obvious, but we haven't said it, that it isn't I that does the perceiving, but that one perceives in me, as he puts it on 250.
+
+728
+00:58:04,439 --> 00:58:26,840
+This is all part of a long discussion, which is about how we ever get so that we have in our body the correlate of how to get the right stance, so to speak, to see the color and right movement of the hand to feel the surface of something.
+
+729
+00:58:27,160 --> 00:58:28,600
+How do we do that?
+
+730
+00:58:28,600 --> 00:58:30,999
+Well, we don't do it.
+
+731
+00:58:31,000 --> 00:58:36,359
+It's something that's already done in us before we ever start.
+
+732
+00:58:36,680 --> 00:58:37,239
+It really is.
+
+733
+00:58:37,640 --> 00:58:40,520
+This is his strange way of talking about what's innate.
+
+734
+00:58:40,520 --> 00:58:43,960
+He sometimes says that there's a perceptual tradition.
+
+735
+00:58:45,000 --> 00:58:49,080
+He says that it's deja monte, that it's already built in.
+
+736
+00:58:49,080 --> 00:58:51,160
+Of course, he's got to have that view.
+
+737
+00:58:51,160 --> 00:59:06,519
+The body has already understood the basic way that you should move to get in touch with colors and the way you should move to feel objects and how you should turn your head to hear better.
+
+738
+00:59:06,520 --> 00:59:08,360
+You don't figure that out.
+
+739
+00:59:08,359 --> 00:59:12,999
+And that's, and therefore, you have the sense that the body knows it already.
+
+740
+00:59:13,000 --> 00:59:15,560
+He says it in many, many different ways.
+
+741
+00:59:17,399 --> 00:59:33,280
+At the bottom of 249, for instance, taken exactly as I see it in a moment of my individual history, and since sensation is a reconstruction, it presupposes in me sediment left behind by some previous constitution.
+
+742
+00:59:33,279 --> 00:59:45,280
+That is, it's as if my learning about these basic ways to deal with objects and colors is something that I personally figured out.
+
+743
+00:59:45,279 --> 01:00:04,719
+Now, really, and he thinks it is, he either thinks it's already innate, or it was learned when I was a baby before there was any me around, while I was just thrashing my arms and legs and finding out where my body was and how to use it, and finding out how to go.
+
+744
+01:00:04,799 --> 01:00:05,919
+But there's lots of innate.
+
+745
+01:00:05,919 --> 01:00:09,599
+I just remember saying that I don't think he would mind.
+
+746
+01:00:09,600 --> 01:00:22,160
+If you put over a baby's head a kind of laser card of the sort that they like to slap around when they're lying on their back, and their hand goes, the baby's hand goes right through it.
+
+747
+01:00:22,160 --> 01:00:24,160
+The baby gets very upset.
+
+748
+01:00:24,160 --> 01:00:30,160
+And that's because, presumably, it's got already innate wiring for that sort of thing.
+
+749
+01:00:30,160 --> 01:00:33,280
+And I don't think Merrill Punchy thinks that's wrong.
+
+750
+01:00:33,279 --> 01:00:44,959
+I think he thinks that he says at the bottom of 249, I am a sentient subject, a repository stocked with natural powers, at which I am the first to be filled with wonder.
+
+751
+01:00:45,279 --> 01:00:53,120
+Well, I think that's being stocked with natural powers is having a lot of innate things in your perceptual system, right, those innate areas.
+
+752
+01:00:55,680 --> 01:00:57,359
+Innate complex, that's right.
+
+753
+01:00:57,359 --> 01:01:01,439
+That's another, that's innate complex and already set up and so forth.
+
+754
+01:01:01,600 --> 01:01:04,919
+There's nothing wrong with that, and that's important to him.
+
+755
+01:01:02,640 --> 01:01:06,600
+And the body has that.
+
+756
+01:01:08,040 --> 01:01:11,000
+And therefore, he could be in the middle.
+
+757
+01:01:11,000 --> 01:01:19,480
+So if I wanted to remember precisely the perceptual experience, I ought to say that one perceived in me and not that I perceive it.
+
+758
+01:01:19,799 --> 01:01:30,680
+And then in the next page, in Italics on 251, between my sensation and myself, there stands always the fitness of some final acquisition.
+
+759
+01:01:30,680 --> 01:01:32,680
+That's another name for it, the innate.
+
+760
+01:01:32,680 --> 01:01:35,799
+And it prevents my experience from being clear to itself.
+
+761
+01:01:35,799 --> 01:01:42,600
+I experience a sensation as a modality of a general existence and one already destined for a physical world.
+
+762
+01:01:42,600 --> 01:01:52,039
+Yeah, that's again, that what's destined for a physical world is the fact that what I, my innate way of coping with things, fits the way works.
+
+763
+01:01:52,040 --> 01:01:53,400
+I watch them.
+
+764
+01:01:54,040 --> 01:01:57,719
+It runs through me without my being the cause of it.
+
+765
+01:01:58,359 --> 01:01:59,959
+Do I have to say more about that?
+
+766
+01:01:59,960 --> 01:02:00,439
+No.
+
+767
+01:02:01,399 --> 01:02:04,520
+So now we're going to go on to the next topic.
+
+768
+01:02:04,520 --> 01:02:07,480
+And that's a big topic that goes on for a long time.
+
+769
+01:02:07,480 --> 01:02:10,040
+The unity of the body.
+
+770
+01:02:10,040 --> 01:02:12,680
+In this time, the intersensorial unity.
+
+771
+01:02:13,319 --> 01:02:28,920
+I mean, we had already the unity of the body and that I can do something with this arm or that arm and have to stand up a certain way if I'm going to reach for something and how all the parts of my moving body adapts to whatever I'm doing.
+
+772
+01:02:28,919 --> 01:02:31,239
+But now we've got another unity story.
+
+773
+01:02:31,239 --> 01:02:33,719
+There is the intersensorial body.
+
+774
+01:02:33,719 --> 01:02:36,680
+And he's talking about that on 260 at the bottom.
+
+775
+01:02:36,680 --> 01:02:45,239
+The senses are distinct from each other and distinct from intellection insofar as each one of them brings with it a structure of being which can never be exactly transposed.
+
+776
+01:02:45,239 --> 01:02:46,599
+Now, oh, yeah, sorry.
+
+777
+01:02:46,600 --> 01:02:50,719
+He's got, he's got, he has this funny dialectic, which he doesn't explain very well.
+
+778
+01:02:51,040 --> 01:02:58,640
+He says, I think the way it goes is that if you're an intellectualist, you think, well, there's no problem about how the senses get unified.
+
+779
+01:02:58,879 --> 01:03:04,639
+There's a unified object there with a bunch of properties, and you don't have to do any unifying.
+
+780
+01:03:05,279 --> 01:03:09,200
+When you've got an object, it's already unified, its properties.
+
+781
+01:03:09,200 --> 01:03:12,320
+And then I don't know what that view is exactly.
+
+782
+01:03:12,319 --> 01:03:17,200
+But then comes the view, well, but each sense modality is different after all.
+
+783
+01:03:17,200 --> 01:03:25,680
+And then that long discussion of touch and sight and how what blind people think sight is like isn't really what sight is like.
+
+784
+01:03:25,680 --> 01:03:30,640
+And that seems to say, well, look, all the sense modalities are really radically different.
+
+785
+01:03:30,640 --> 01:03:38,640
+It's not as if there's all sort of one way of sensing things and we use it to pick up the color and the shape and the sound and stuff of objects.
+
+786
+01:03:38,640 --> 01:03:45,680
+Each way we have of picking up the sense qualities of objects is really different from each other one.
+
+787
+01:03:45,680 --> 01:03:50,320
+And that gets him back to saying, oh, yeah, but still, there's only one unified body.
+
+788
+01:03:50,319 --> 01:03:52,239
+They must all be interrelated.
+
+789
+01:03:52,239 --> 01:04:00,320
+And then comes the synesthesia story and the mescaline story and how all it turns out you can see sounds and hear colors and so forth.
+
+790
+01:04:00,319 --> 01:04:06,959
+So he really starts with what he says, I think, is an intellectualist sense that it's all unified already somehow.
+
+791
+01:04:06,960 --> 01:04:09,680
+I'm not sure, constituted, I don't know what it is.
+
+792
+01:04:09,680 --> 01:04:13,359
+Then comes this other story about how they're all different.
+
+793
+01:04:13,680 --> 01:04:18,080
+I think that's an empiricist story, that they're based on the praise of J.
+
+794
+01:04:18,080 --> 01:04:18,719
+Dumont.
+
+795
+01:04:18,439 --> 01:04:26,239
+Loans, look, it must be this touching is totally different than seeing, which is totally different than hearing, because you've got a different organ for each.
+
+796
+01:04:26,239 --> 01:04:32,239
+Then comes the surprising news, yeah, that you can hear colors and you can see sounds.
+
+797
+01:04:32,239 --> 01:04:33,879
+How many of it is the sound of the fury?
+
+798
+01:04:33,960 --> 01:04:35,080
+I mean, that's the place to go.
+
+799
+01:04:35,080 --> 01:04:37,960
+He doesn't know about the Faulkner's The Sound of the Fury.
+
+800
+01:04:37,960 --> 01:04:51,640
+That's what you, I mean, the first chapter of The Sound of the Fury, if you want to read it, is from the point of view of Benji, an idiot, who is very, very synesthetic and is smelling, the dice, and so forth.
+
+801
+01:04:51,960 --> 01:04:53,959
+I don't know how Faulkner did it.
+
+802
+01:04:53,960 --> 01:04:55,640
+Maybe Faulkner was the synesthetic.
+
+803
+01:04:55,879 --> 01:04:58,759
+Nowadays, there's a whole thing in psychology.
+
+804
+01:04:58,759 --> 01:05:03,799
+I've just been on a PhD thesis studying synesthesia.
+
+805
+01:05:03,799 --> 01:05:06,200
+You have to go out and find the subjects.
+
+806
+01:05:06,200 --> 01:05:12,360
+Some Nero Ponte talks about it as if in a certain way everybody has it.
+
+807
+01:05:12,759 --> 01:05:13,800
+We'll look at that.
+
+808
+01:05:13,799 --> 01:05:18,600
+We have a little bit of it anyway, but we can intersensorially sense things.
+
+809
+01:05:18,600 --> 01:05:26,840
+Then if you have certain brain problems or if you take mescaline, he thinks you can really get synesthesia.
+
+810
+01:05:26,839 --> 01:05:32,759
+But turns out there are lots of people who have it all the time, but they don't want to talk about it because they think they're weird.
+
+811
+01:05:32,759 --> 01:05:39,880
+But if you go out and look for subjects, you can find people who hear sounds and who hear colors and see sounds all the time.
+
+812
+01:05:39,879 --> 01:05:45,560
+And now people are studying them a lot to see what it shows about how the brain works.
+
+813
+01:05:45,560 --> 01:05:47,639
+So but anyway, that's the overall picture.
+
+814
+01:05:47,640 --> 01:05:50,039
+So I'm jumping out to where we are.
+
+815
+01:05:50,040 --> 01:05:50,999
+Let's see.
+
+816
+01:05:52,040 --> 01:05:59,800
+So there is a unity of the senses, but then there is at the bottom of 261 a threat to the unity of the senses.
+
+817
+01:05:59,799 --> 01:06:02,759
+Then comes a lot of talk about that.
+
+818
+01:06:03,960 --> 01:06:10,920
+So so there's the that that that's the middle of 262 where he's saying that it doesn't seem to be holistic.
+
+819
+01:06:10,919 --> 01:06:21,440
+Sensory experience is unstable and alien to natural perception which we receive with our whole body all at once and which opens on interactive senses like that in sensible qualities and so forth.
+
+820
+01:06:21,439 --> 01:06:25,360
+And then he's trying to say, look, that's not how it is.
+
+821
+01:06:26,319 --> 01:06:33,119
+As far as sensing is concerned, this is not a view he wants to defend, but he wants to explain.
+
+822
+01:06:33,120 --> 01:06:41,759
+As far as sensing is concerned, people think that there are radically different experiences that go with sense.
+
+823
+01:06:41,759 --> 01:06:50,079
+And even with a particular sense like color, I want to mention this because I know that Alba is here, but he knows I disagree with him about this.
+
+824
+01:06:50,080 --> 01:06:52,640
+And Sean Kelly has written a paper about this.
+
+825
+01:06:52,960 --> 01:07:03,519
+The one who wants to, on a good call, they're trying this, I'm talking not about synesthesia now.
+
+826
+01:07:03,520 --> 01:07:05,839
+It's the next issue is the bottom of 262.
+
+827
+01:07:05,839 --> 01:07:07,759
+I'll explain the issue first.
+
+828
+01:07:07,759 --> 01:07:18,880
+When you look at this wall, instead of the one back there, and you see it as having one constant color, you also see it as the illumination is different.
+
+829
+01:07:19,200 --> 01:07:26,639
+And on what we see when we do, I think we know seeing things in Maroponty, exactly.
+
+830
+01:07:26,879 --> 01:07:33,279
+The issue, and Meloponty is saying here, and Sean spells it out a lot, is that the one?
+
+831
+01:07:33,600 --> 01:07:33,999
+Okay.
+
+832
+01:07:34,399 --> 01:07:36,000
+Sean spells it out a lot.
+
+833
+01:07:36,000 --> 01:07:39,600
+Within color now, we're taking just one sense.
+
+834
+01:07:39,600 --> 01:07:46,400
+Do you have sort of separate objective colors in your experience?
+
+835
+01:07:46,399 --> 01:07:57,519
+Or is there something more fundamental, which is the interrelatedness of color experience, which isn't like having a lot of objective colors that you could distinguish.
+
+836
+01:07:58,399 --> 01:08:01,759
+So does that wall match some paint tip?
+
+837
+01:08:01,760 --> 01:08:05,319
+That wall does match some pink tip, and you can match it up to it.
+
+838
+01:08:03,040 --> 01:08:08,200
+And it's a certain off eggshell white, let's say.
+
+839
+01:08:08,519 --> 01:08:21,879
+But Meryloponty wants to say that the fact that it is that color of an eggshell white wall when the light isn't on it, that grayish color, that grayish color is no objective color.
+
+840
+01:08:21,880 --> 01:08:26,839
+That grayish color is what you see when you see eggshell light in the shade.
+
+841
+01:08:26,840 --> 01:08:30,279
+But what you see when you see that is not an objective color.
+
+842
+01:08:30,359 --> 01:08:36,359
+At the bottom of 262, I stress this because maybe we'll have to debate it with Alva sometime.
+
+843
+01:08:36,359 --> 01:08:54,279
+Right now, in Alva's book, he has a chapter on, or a section on Sean Technicality, and he says that he just doesn't agree with Sean that you couldn't find a color chip that matched the color of that wall in that shadow.
+
+844
+01:08:54,279 --> 01:08:57,960
+And Meryl-Ponty is, I mean, one is the issue what Meryloponty says.
+
+845
+01:08:57,960 --> 01:08:59,959
+Meryloponty says you can't.
+
+846
+01:08:59,960 --> 01:09:01,960
+And it's very important that you can't.
+
+847
+01:09:01,960 --> 01:09:16,519
+Because what you see when you see color is, again, a holistic thing in which the whiteness of the wall, so that eight cell yellow of the wall is just that it implies that in the shadow it'll look like that, and in the brighter light it'll look like that, and in the middle light it'll look like that.
+
+848
+01:09:16,519 --> 01:09:20,999
+There's one color, and it looks like the wall is that color.
+
+849
+01:09:21,000 --> 01:09:29,239
+And then there is this interrelation of light and color, which is not another color, but is part of the way they interact.
+
+850
+01:09:29,239 --> 01:09:32,120
+This is what he's saying at the bottom of 262.
+
+851
+01:09:32,439 --> 01:09:35,080
+And it's, let me see where to start.
+
+852
+01:09:35,399 --> 01:09:39,559
+Shall I say about 15 lines, that all the sheets of paper look equally white?
+
+853
+01:09:39,559 --> 01:09:41,960
+And then he says, well, no, some are in the shade.
+
+854
+01:09:41,960 --> 01:09:43,160
+Then he skips down.
+
+855
+01:09:43,160 --> 01:09:52,719
+But by assuming the analytic attitude, then I can isolate just the ways that the color looks in the shade.
+
+856
+01:09:53,040 --> 01:09:59,439
+And then I don't get a color chip color, but I don't get eggshell white in a shadow either.
+
+857
+01:09:59,439 --> 01:10:02,799
+I get what he says is a, what does he call it?
+
+858
+01:10:02,800 --> 01:10:08,879
+a goofy, a great deed substance thick and not definitely localized.
+
+859
+01:10:08,880 --> 01:10:24,000
+If I once more look at the general picture, that is the wall or the white or the papers on the desk, I noticed the sheets over which a shadow was thrown were at no time identical with the sheets lying in the light, nor yet were they objectively different from it.
+
+860
+01:10:24,000 --> 01:10:30,399
+The whiteness of the shaded paper does not lend itself to a precise classification within the black and white range.
+
+861
+01:10:30,399 --> 01:10:36,080
+That means there's no chip, no color chip, or in this case, no gray chip that color fine for them.
+
+862
+01:10:36,080 --> 01:10:39,759
+It appears there's no definite quality, and so forth.
+
+863
+01:10:40,000 --> 01:10:44,080
+Then and only then have I found myself before, but you can break down the field.
+
+864
+01:10:44,080 --> 01:10:44,719
+I better read more.
+
+865
+01:10:44,720 --> 01:10:50,960
+It appears no definite quality, and I have brought out the quality by fixing my eyes on a portion of the visual field.
+
+866
+01:10:50,960 --> 01:11:05,200
+That is, if you reflect, or if you get rid of the context, then you can see this other something or other, which is a qualia, though I think he thinks even that is something weird that you can't find it in a chip.
+
+867
+01:11:05,200 --> 01:11:09,200
+Then and then have I found myself before a certain qualia which absorbs my gaze.
+
+868
+01:11:09,359 --> 01:11:11,919
+Now what actually is fixing my gaze?
+
+869
+01:11:12,880 --> 01:11:13,759
+Well, let me go on.
+
+870
+01:11:13,760 --> 01:11:14,479
+I got that.
+
+871
+01:11:15,040 --> 01:11:21,519
+From the point of view of an object, it is separating the region under scrutiny from the rest of the field, the perceptual field.
+
+872
+01:11:21,519 --> 01:11:30,479
+It is interrupting the total life of the spectacle, which assigned to each visible surface a determinate coloration, taking the color into account.
+
+873
+01:11:30,479 --> 01:11:33,080
+That's the holistic diet.
+
+874
+01:11:33,160 --> 01:11:33,800
+That's what I should say.
+
+875
+01:11:32,960 --> 01:11:36,200
+Oh, look, that's the holistic thing.
+
+876
+01:11:38,599 --> 01:11:42,840
+And the idea that there is a sensible quality, that's what we did.
+
+877
+01:11:43,000 --> 01:11:50,999
+Now, I said this is the various sense modalities aren't separate, but all interact in a holistic way.
+
+878
+01:11:51,000 --> 01:11:53,319
+That's for synesthesia stories.
+
+879
+01:11:53,319 --> 01:12:06,200
+So within this particular sense modality, like perception, the particular colors are not separate, but interact in this way, that they all influence each other and the light and so forth.
+
+880
+01:12:06,599 --> 01:12:18,919
+So at the middle of 263, the sensible quality, far from being coincident with perception, is the peculiar product of an attitude of curiosity or observation, which breaks down the holism.
+
+881
+01:12:19,000 --> 01:12:27,080
+Then at the bottom of the page, the quality of the separate sensory impact occurs when I break the total structurization of my vision.
+
+882
+01:12:27,080 --> 01:12:30,599
+That is, I break up the Vishkal, you know, and then you get the elements.
+
+883
+01:12:30,599 --> 01:12:46,040
+And the elements aren't anything that you ever really experience because normal, because normally they all get emotionally they do, like that grayish, whitish, whatever, as being part of a whole bunch of colors in a field of light and so forth.
+
+884
+01:12:47,319 --> 01:12:48,999
+Okay, now we've done that.
+
+885
+01:12:49,000 --> 01:12:52,120
+Then he did, then he does the synesthesia.
+
+886
+01:12:52,120 --> 01:12:57,399
+He says, look, they all these colors are interrelated and synestheses show them.
+
+887
+01:12:57,399 --> 01:12:59,319
+I want to see how far I can get.
+
+888
+01:13:01,720 --> 01:13:02,679
+I think I can finish.
+
+889
+01:13:02,760 --> 01:13:03,639
+Let me see.
+
+890
+01:13:03,720 --> 01:13:07,959
+There's all it's about how these colors are all related in an object.
+
+891
+01:13:07,960 --> 01:13:08,840
+We talked about that.
+
+892
+01:13:08,840 --> 01:13:12,759
+That stuff to do with the woolly redness of the carpet and the flexibility.
+
+893
+01:13:13,080 --> 01:13:15,160
+That's when we're all ice sentences.
+
+894
+01:13:15,160 --> 01:13:17,479
+We can see woolly redness.
+
+895
+01:13:17,479 --> 01:13:24,160
+We can see, we can hear the way glass sounds when it breaks, when we see how it shatters, and so forth.
+
+896
+01:13:24,319 --> 01:13:26,960
+He's got a whole big story about that.
+
+897
+01:13:26,960 --> 01:13:28,160
+I'm not sure I'm convinced.
+
+898
+01:13:28,239 --> 01:13:30,239
+It's probably 267.
+
+899
+01:13:31,679 --> 01:13:40,239
+The people of the glass tells us about what it's made of, and gold looks the way it's made of, and wood looks like what it's made of, and so forth.
+
+900
+01:13:40,239 --> 01:13:42,399
+You have to check it with your own experience.
+
+901
+01:13:42,399 --> 01:13:52,399
+It doesn't, I don't think it matters whether we really have that much of interest in storial experience or not, but we certainly must have some.
+
+902
+01:13:52,720 --> 01:13:55,759
+Oh, I see there's one whole issue we haven't talked about.
+
+903
+01:13:55,760 --> 01:13:57,120
+Okay, we'll start with it next time.
+
+904
+01:13:57,120 --> 01:14:01,759
+Let me just tell you where it is, because it's so interesting what he does with it.
+
+905
+01:14:01,760 --> 01:14:10,160
+And that is he does a whole riff on binocular perception, starting at the bottom of 269.
+
+906
+01:14:12,639 --> 01:14:14,160
+Making the starts earlier.
+
+907
+01:14:15,120 --> 01:14:17,120
+Yeah, on 268.
+
+908
+01:14:17,439 --> 01:14:24,479
+It's about how, with two eyes, I come to see one object with depth.
+
+909
+01:14:24,800 --> 01:14:32,239
+And I tell you to look at it because it's all in terms of balance and synthesis and just the kind of thing we want it to be.
+
+910
+01:14:32,239 --> 01:14:36,719
+So next time I'm going to do the binocular vision part, and then we're going to go on to the step.

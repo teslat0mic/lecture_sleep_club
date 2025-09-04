@@ -1,0 +1,4673 @@
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:08,800
+And the overview of the issue for today is still whether Heidegger is a temporal idealist.
+
+2
+00:00:08,800 --> 00:00:10,639
+Or still, I guess we didn't have that yet.
+
+3
+00:00:10,640 --> 00:00:12,559
+And did we have it at the end last time?
+
+4
+00:00:12,559 --> 00:00:13,840
+I don't remember.
+
+5
+00:00:13,839 --> 00:00:14,319
+We did.
+
+6
+00:00:14,559 --> 00:00:15,200
+Okay.
+
+7
+00:00:15,520 --> 00:00:19,520
+Does temporality depend on Dasein?
+
+8
+00:00:19,520 --> 00:00:22,639
+And then does nature time depend on Dasein?
+
+9
+00:00:22,639 --> 00:00:25,039
+Yes, we got up to nature time last time.
+
+10
+00:00:25,039 --> 00:00:29,279
+So that if there were no Dasein, there'd be no nature time.
+
+11
+00:00:29,280 --> 00:00:55,279
+And Heidegger derived the characteristics of every atemporality from the fact that Dasein is a non-temporal structure, non-successive is a kind of being that has to take a stand on itself, and it has to do it by activity, by coping with things for the sake of some ultimate role that it has.
+
+12
+00:00:55,599 --> 00:01:39,000
+So we know that date we talked a lot about how datability, significance, publicness, spannedness all derive from that that the fact that not only do we have to take a stand on ourselves in our activities, but these activities have to be coordinated so that they form a sequence in which you get one thing done before the other in the right order and that they have meaning, that they are shared so that they're all in this public same time so that they can be coordinated and be, for instance, simultaneous with each other, and they are stand.
+
+13
+00:01:39,319 --> 00:01:41,719
+That was all what we talked about last time.
+
+14
+00:01:41,720 --> 00:01:46,840
+And that's all required to coordinate our tasks.
+
+15
+00:01:47,079 --> 00:02:14,199
+Now, the question is, Blattner then says that Heidegger has to derive the sequential order of our practices from the kind of being we are, namely the from, to put it shortly after this, from originary temporality.
+
+16
+00:02:14,519 --> 00:02:27,400
+That's short for being the kind of being that has to take a stand on its being and can only take a stand on its being by activities toward a role of what of.
+
+17
+00:02:27,399 --> 00:02:54,599
+So the question is: can Heidegger actually show that you can get our world-coordinated activity structure somehow, which is certainly a sequential structure, from this non-sequential structure, which is Dasein as the as temporality?
+
+18
+00:02:54,599 --> 00:03:12,079
+Then comes the issue with Blattner, which is always in the background, because he's clearly the best, but he might be, it isn't clearly wrong, but I'm going to try to say at the end, I don't think even Heidegger knows for sure what he wants to say about this issue.
+
+19
+00:03:12,079 --> 00:03:18,479
+But at least we've got to decide whether Lattner's making a convincing case or not.
+
+20
+00:03:18,479 --> 00:03:33,440
+That one, Heidegger wants to be a temporal idealist and claim that not only the intelligibility, but really the structure of all forms of temporality depends on originary.
+
+21
+00:03:33,759 --> 00:03:35,039
+Can you do that?
+
+22
+00:03:35,039 --> 00:03:38,959
+Lattner argues that Heidegger can't do it.
+
+23
+00:03:38,959 --> 00:04:19,680
+And after much discussion with people over this matter, what Heidegger can't do, according to what he has to do if he's going to carry out his idealism, is so that the way our practice has to be ordered sequentially, so that I have to type my lecture before I can come here and read my lecture, and then only then can I go home and relapse and so forth, that this sequential structure itself follows from the kind of being that we are.
+
+24
+00:04:19,680 --> 00:04:24,400
+It can't be that, as I think it is, and I'll come back to this.
+
+25
+00:04:24,399 --> 00:04:38,639
+I mean, the alternative would be: well, there's some aspect of all this world meaningful activity, which certainly depends on Dasein and wouldn't be there if there weren't any Dasein.
+
+26
+00:04:38,639 --> 00:05:13,719
+There might be something about nature and nature time that doesn't depend on Dasein and that accounts for the fact that Dasein has to lay out its practices in this sequential order in order to take both sides agree in what I'm saying that you can't make an argument from the originary temporality to the fact that our practices have to be sequentially organized.
+
+27
+00:05:13,720 --> 00:05:28,039
+And Blackner concludes from the fact that you can't make, that Heidegger can't make that argument work, that Heidegger's idealism fails, that being in time fails, that early Heidegger fails, it's a big disaster, all follows from that, according to his book.
+
+28
+00:05:28,680 --> 00:05:44,920
+That the other possibility, my side, is yes, true, you can't get the sequential ordering of our everyday practices out of the notion that we're a being taking a stand on our being by way of those practices.
+
+29
+00:05:45,560 --> 00:05:51,639
+Then I think that shows Heidegger is a realist, that there's a constraint on how we order our practices.
+
+30
+00:05:51,639 --> 00:06:21,080
+It comes from something like time, some kind of nature time, some kind of sequencing that is not dependent on us, but which is, together with the way we have to lay out world times, sorry, together with the way we take a stand on ourselves, but together with this constraint from nature, would give us the, say, the sequence of series of nows.
+
+31
+00:06:22,360 --> 00:06:26,440
+So now that's what I want to argue about.
+
+32
+00:06:26,440 --> 00:06:31,560
+And that's where Aristotle comes in, which was today's assignment.
+
+33
+00:06:31,680 --> 00:06:43,839
+So if you did what the syllabus said, you read the whole sh section on Aristotle's view of time in basic problems.
+
+34
+00:06:43,839 --> 00:06:44,960
+Is that what you did do?
+
+35
+00:06:44,959 --> 00:06:47,199
+I mean, I just want to make sure that we're cor correlated.
+
+36
+00:06:47,199 --> 00:06:47,680
+No?
+
+37
+00:06:47,680 --> 00:06:48,399
+Uh-oh.
+
+38
+00:06:48,720 --> 00:06:49,199
+Oh, yeah.
+
+39
+00:06:49,199 --> 00:06:49,919
+Oh, yeah, please.
+
+40
+00:06:49,920 --> 00:06:50,159
+Yes.
+
+41
+00:06:50,159 --> 00:06:53,359
+I have time out for this important announcement from Tyler.
+
+42
+00:06:53,839 --> 00:06:55,440
+I just didn't order the book.
+
+43
+00:06:55,440 --> 00:06:57,440
+To begin with, big mistake on my part.
+
+44
+00:07:02,880 --> 00:07:08,400
+So the pages that you but some of you must, if you've been doing the assignment, have bought the book.
+
+45
+00:07:08,399 --> 00:07:15,199
+And I suppose in the back of my mind, I thought if ever there was a book that anybody interested in Heidegger had better buy, it's this.
+
+46
+00:07:15,199 --> 00:07:31,599
+It's the most clear and worked out story of from being in time, but carried further and deeper and in more detail and more clear than the book than being in time and more historical than being in time.
+
+47
+00:07:31,600 --> 00:07:33,759
+How many have basic problems?
+
+48
+00:07:34,399 --> 00:07:36,000
+Oh, well, good.
+
+49
+00:07:36,000 --> 00:07:37,839
+I mean, I get I think that's good.
+
+50
+00:07:37,840 --> 00:07:40,080
+I don't feel at all apologetic.
+
+51
+00:07:40,079 --> 00:07:43,519
+Only that I guess I should apologize for the fact that you might have had trouble getting it.
+
+52
+00:07:43,519 --> 00:07:45,759
+How many had trouble finding it?
+
+53
+00:07:45,759 --> 00:07:47,440
+Well, that's interesting.
+
+54
+00:07:47,440 --> 00:07:48,319
+So where was it?
+
+55
+00:07:48,319 --> 00:07:49,679
+Tyler, do you understand this?
+
+56
+00:07:49,679 --> 00:07:56,079
+I mean, here are the whole 40 people, really 30 or something, who had no trouble finding it, though we didn't order it.
+
+57
+00:07:56,080 --> 00:07:57,360
+How do you explain that?
+
+58
+00:07:57,919 --> 00:07:58,240
+Really?
+
+59
+00:07:58,240 --> 00:08:02,720
+I think I would have certainly put it on a list of recommended.
+
+60
+00:08:02,720 --> 00:08:06,960
+Yeah, but now it's really in effect required because the assignments are in it.
+
+61
+00:08:06,959 --> 00:08:09,200
+Well, it all ends happily, Tyler.
+
+62
+00:08:09,439 --> 00:08:11,759
+Except you did a lot of work, it looks like that.
+
+63
+00:08:12,000 --> 00:08:12,960
+I really appreciate it.
+
+64
+00:08:12,960 --> 00:08:13,759
+We've been not turning.
+
+65
+00:08:13,919 --> 00:08:25,880
+If people want, if anybody hasn't got it or knows anybody who wants 50 crucial pages on Aristotle from basic problems, they're in Tyler's mailbox.
+
+66
+00:08:25,880 --> 00:08:26,920
+Okay.
+
+67
+00:08:27,240 --> 00:08:33,320
+Now, the role of Aristotle in this is: well, have I said anything controversial yet?
+
+68
+00:08:33,320 --> 00:08:39,240
+Because I don't want to go into Aristotle if I've already said something that you don't understand or disagree with.
+
+69
+00:08:39,240 --> 00:08:41,960
+I think I'm just summarizing where we were.
+
+70
+00:08:41,960 --> 00:08:53,800
+Okay, Aristotle on temporality may well be the clue to what to think about this idealism issue.
+
+71
+00:08:53,799 --> 00:09:00,360
+I would say it was surely the clue, except that I'm not even sure that Heidegger is sure that it is.
+
+72
+00:09:00,360 --> 00:09:03,080
+But it's certainly an important element.
+
+73
+00:09:03,399 --> 00:09:08,359
+And to explain this, I have to give credit to where credit is due.
+
+74
+00:09:08,360 --> 00:09:39,000
+I owe a lot to Derek Baker, whose honors thesis three years ago now was on, tried to show that you could at least make a case for Heidegger being a temporal realist century, which we'll explain, based on what he says about Aristotle in these 20 or 25 pages or whatever that we've read for this week.
+
+75
+00:09:39,320 --> 00:09:43,000
+So now I'm going to talk about the Aristotle.
+
+76
+00:09:43,000 --> 00:09:51,000
+Aristotle sees, according to Heidegger, that whatever time is, gets to it, depends on us.
+
+77
+00:09:51,000 --> 00:10:00,680
+That we experience time not just as a series of nows, before and after, but as nows ordered, as earlier and later.
+
+78
+00:10:00,679 --> 00:10:07,919
+And earlier and later makes reference to our experience of now and our activity.
+
+79
+00:10:08,240 --> 00:10:10,480
+So now I'm going to now take your book.
+
+80
+00:10:10,720 --> 00:10:18,560
+I just, there are certain passages, which it seems to me anyway, we have to just read carefully and think about.
+
+81
+00:10:18,559 --> 00:10:33,519
+The first is, and this distinction is the basic distinction that he's got in this Aristotle chapter about which everything turns is the distinction between before and after and earlier and later.
+
+82
+00:10:33,679 --> 00:10:44,960
+If you don't sort of hold on to that and get that and see that Aristotle's got it and that Heidegger thinks it's a good thing that Aristotle's got it, you can't understand, I think, what's going on.
+
+83
+00:10:44,960 --> 00:10:46,800
+So and what's the difference?
+
+84
+00:10:46,799 --> 00:10:51,840
+Well, earlier and later is always with respect to some now.
+
+85
+00:10:51,840 --> 00:10:57,519
+It's earlier than what's happening right now and other things will come along later.
+
+86
+00:10:57,519 --> 00:10:59,920
+Something earlier has already happened.
+
+87
+00:10:59,919 --> 00:11:03,679
+Something is happening now and something will happen later.
+
+88
+00:11:04,159 --> 00:11:23,120
+And the before and after, we're going to read the passages about that, is a much more general and formal notion, and it doesn't, and it gets defined without bringing in now, or it's intelligible without bringing in a now and an earlier and later.
+
+89
+00:11:23,120 --> 00:11:28,799
+That's what these quotes I'm now going to be reading you, I think, are saying.
+
+90
+00:11:28,799 --> 00:11:33,360
+Let's see if this is broken down yet, or whether we're still thankfully recording.
+
+91
+00:11:33,360 --> 00:11:37,680
+Okay, 242, the middle of the page.
+
+92
+00:11:37,679 --> 00:11:41,440
+The comparison which, what is that, Eleosis?
+
+93
+00:11:41,439 --> 00:11:42,080
+I forget.
+
+94
+00:11:42,080 --> 00:11:43,519
+Somebody tell me.
+
+95
+00:11:44,639 --> 00:11:45,240
+Bill is it?
+
+96
+00:11:46,120 --> 00:11:47,400
+Find the Greek.
+
+97
+00:11:46,720 --> 00:11:53,960
+So when I was reading it, I understood it because I was reading it in context, but I don't know where the context is.
+
+98
+00:11:54,519 --> 00:11:55,480
+Nobody know Greek.
+
+99
+00:11:55,480 --> 00:11:56,680
+We don't have to find it in here.
+
+100
+00:11:56,679 --> 00:11:58,120
+It's a Greek word.
+
+101
+00:11:58,120 --> 00:11:59,800
+A few lines above.
+
+102
+00:12:00,120 --> 00:12:01,240
+I don't see it yet.
+
+103
+00:12:01,240 --> 00:12:02,360
+Tell me where.
+
+104
+00:12:02,519 --> 00:12:03,480
+I still don't see it.
+
+105
+00:12:04,360 --> 00:12:05,800
+Ten lines down.
+
+106
+00:12:05,799 --> 00:12:15,000
+Another form of motion, that one, is for example, ah, aiosis, whatever that is now, will become becoming different in the sense now we find out.
+
+107
+00:12:15,000 --> 00:12:19,240
+It's becoming different in the sense that one quality changes to another.
+
+108
+00:12:19,240 --> 00:12:23,480
+Like something that was red can gradually turn green.
+
+109
+00:12:23,799 --> 00:12:25,960
+One particular color to another.
+
+110
+00:12:25,960 --> 00:12:30,200
+And here too there's an advance away from something towards something.
+
+111
+00:12:30,200 --> 00:12:36,440
+That turns out to be the formal, most general way of thinking about it.
+
+112
+00:12:36,439 --> 00:12:46,360
+And before and after turn out to be a way of thinking about comes under that notion.
+
+113
+00:12:46,360 --> 00:12:55,560
+Now you the obviously the before is it's away from the before and toward the after.
+
+114
+00:12:55,560 --> 00:12:59,240
+But in but you notice there's nothing about earlier and later.
+
+115
+00:12:59,639 --> 00:13:02,920
+We still call this structure of motion its dimension.
+
+116
+00:13:02,919 --> 00:13:11,240
+Taking the concept of dimension in a completely formal sense, this is he wants the most general notion, in which spatial character is not essential.
+
+117
+00:13:11,240 --> 00:13:15,320
+That is, you know, change is more general than change of place.
+
+118
+00:13:15,320 --> 00:13:20,200
+And he says change of color is equally comes under this notion.
+
+119
+00:13:22,600 --> 00:13:25,880
+Dimension expresses a general notion of stretch.
+
+120
+00:13:25,880 --> 00:13:34,320
+I haven't looked at the German, but I take it that this stretch is the spannedness of the of the being in time version of this.
+
+121
+00:13:35,360 --> 00:13:40,240
+Extension, in the sense of spatial dimension, represents a particular modification.
+
+122
+00:13:40,799 --> 00:13:42,400
+Well, I'm wrong about the spandedness.
+
+123
+00:13:42,399 --> 00:13:43,840
+I guess we'd have to look.
+
+124
+00:13:44,159 --> 00:13:48,080
+Nobody's got the basic problems in German in front of them, I imagine.
+
+125
+00:13:49,840 --> 00:13:56,880
+It shouldn't be spandedness, I guess, because spandedness is a temporal notion, the way Heidegger's using it in Being and Time.
+
+126
+00:13:56,880 --> 00:14:00,080
+It's one of the temporal features of the world.
+
+127
+00:14:00,080 --> 00:14:05,279
+And here, it's so general that it isn't temporal at all.
+
+128
+00:14:05,279 --> 00:14:06,720
+It's much broader.
+
+129
+00:14:06,720 --> 00:14:10,319
+It's, well, temporal, I guess it could be.
+
+130
+00:14:10,480 --> 00:14:11,840
+Well, maybe that's the point.
+
+131
+00:14:11,840 --> 00:14:13,519
+The general notion of stretch.
+
+132
+00:14:13,519 --> 00:14:17,440
+Let's try this on away from something towards something.
+
+133
+00:14:17,519 --> 00:14:18,399
+Spandedness.
+
+134
+00:14:18,399 --> 00:14:26,000
+Now, is away from something towards something spandedness, or is spandedness something that has space built into it already?
+
+135
+00:14:26,000 --> 00:14:27,360
+I don't know.
+
+136
+00:14:27,759 --> 00:14:29,360
+I'm not saying a big deal depends on it.
+
+137
+00:14:29,360 --> 00:14:45,519
+It would just be nice to have our if certainly the spandedness, but since we don't know what so anyway, there's some kind of stretch, and that is from something toward something.
+
+138
+00:14:45,519 --> 00:14:46,880
+That's all he needs.
+
+139
+00:14:46,880 --> 00:14:53,759
+So extension in the sense of spatial dimension then represents a particular modification of stretch.
+
+140
+00:14:53,759 --> 00:14:58,080
+Now that may be spandedness, that is this particular modification.
+
+141
+00:14:58,080 --> 00:15:07,040
+In the case of the determination of, and there's some more Greek, we could rid ourselves completely of the spatial idea, something that Aristotle did too.
+
+142
+00:15:07,039 --> 00:15:13,200
+A completely formal sense of stretching out is intended from something to something.
+
+143
+00:15:13,199 --> 00:15:20,679
+So Aristotle's got this very general notion in his view of time.
+
+144
+00:15:16,320 --> 00:15:22,920
+Now next go to 246.
+
+145
+00:15:23,240 --> 00:15:31,400
+There's a whole lot in here that's interesting, but it's all in about four pages that the crucial moves get made.
+
+146
+00:15:31,720 --> 00:15:45,320
+So, and this is all when he starts talking about the Proteron Historon and whether the Proteron Historon in Greek is about the earlier and the later or the before and after.
+
+147
+00:15:45,320 --> 00:15:53,880
+And Aristotle is pretty has a distinction, and Heidegger thinks he doesn't stick to it very well, but it's a very important distinction.
+
+148
+00:15:53,880 --> 00:15:59,480
+So let's start with the first full paragraph at the middle of 246.
+
+149
+00:15:59,480 --> 00:16:10,039
+In one place, Aristotle says about Proteron Histeron, a bunch of Greek things, it is first of all in place, in change, in sequence of places.
+
+150
+00:16:10,039 --> 00:16:15,800
+He's thinking of before and after here, and still wholly without any time determination.
+
+151
+00:16:15,799 --> 00:16:22,519
+See, Heidegger's getting very careful to try to separate earlier and later from before and after.
+
+152
+00:16:22,520 --> 00:16:26,120
+Everything hinges on getting that across.
+
+153
+00:16:26,919 --> 00:16:31,240
+Going on, the Aristotelian definition of time can also be formulated at first in this way.
+
+154
+00:16:31,239 --> 00:16:36,919
+Time is what is counted in connection with motion, which is experienced with respect to before and after.
+
+155
+00:16:37,239 --> 00:16:42,999
+But what is thus counted is later unveiled as a series of nows.
+
+156
+00:16:42,999 --> 00:16:48,120
+The now themselves, however, can be expressed and understood only in the horizon of earlier and later.
+
+157
+00:16:48,120 --> 00:16:51,559
+So there's all the, there are these two horizons.
+
+158
+00:16:51,560 --> 00:16:58,679
+By the way, I don't know if this is, it always seems hard for me to grasp when it says something like that, understood only in the horizon of.
+
+159
+00:16:59,399 --> 00:17:03,360
+I think you could just as well substitute in terms of earlier.
+
+160
+00:17:06,159 --> 00:17:06,880
+Is that right?
+
+161
+00:17:06,880 --> 00:17:13,840
+I don't know that in saying in the horizon of, it's not the fancy horizon that goes with the ecstasies.
+
+162
+00:17:14,239 --> 00:17:21,360
+It's much more just normal use, if there were a normal use of this sort of notion of horizon.
+
+163
+00:17:21,360 --> 00:17:29,120
+In the context of, on the basis of, the best I could do is whatever goes in there.
+
+164
+00:17:29,120 --> 00:17:41,120
+So the before and after, with respect to before and after, and in the horizon of the earlier and later do not coincide, the second is interpretation of the first.
+
+165
+00:17:41,439 --> 00:17:48,319
+Well, that's beginning to look like before and after is more basic.
+
+166
+00:17:48,320 --> 00:17:52,719
+And you could have a before and after without an earlier and later.
+
+167
+00:17:52,719 --> 00:18:01,919
+Or you can have it within an interpretation of the before and after, you can bring in an earlier and later.
+
+168
+00:18:02,239 --> 00:18:07,920
+But it's complicated because the nows seem to be sort of, I don't really understand all this.
+
+169
+00:18:08,159 --> 00:18:10,159
+That's what you're all supposed to help do.
+
+170
+00:18:10,479 --> 00:18:16,399
+The now's seem to be already somehow implicit in the before and after.
+
+171
+00:18:16,399 --> 00:18:19,360
+What this sentence boggles my mind.
+
+172
+00:18:19,360 --> 00:18:23,519
+But what is thus counted is later unveiled as the nows.
+
+173
+00:18:23,840 --> 00:18:30,719
+So here you are counting the change from before and after.
+
+174
+00:18:30,719 --> 00:18:34,719
+And you're doing it by, I guess I sort of understand it.
+
+175
+00:18:34,880 --> 00:18:45,519
+Now it's red, now it's greener, now it's even more green, now it's completely green, as it's changing from red to green.
+
+176
+00:18:45,520 --> 00:19:00,039
+And the way you count it is by selecting stopping points and saying now it's this and then now it's that and now it's that.
+
+177
+00:19:00,360 --> 00:19:24,520
+How can it be that the now is unveiled as if the now was there all along, but the earlier and later is an interpretation, the before and after, and the earlier and later, the now part, that now it's this, and then, well, is it, let's see, so before and after, you're counting before and after.
+
+178
+00:19:24,520 --> 00:19:27,399
+You won't do it without using nows, I think.
+
+179
+00:19:27,719 --> 00:19:31,159
+And nows have already got, and yeah, it's all puzzling.
+
+180
+00:19:31,639 --> 00:19:35,799
+Certainly the nows have already got an earlier and later character, haven't they?
+
+181
+00:19:36,280 --> 00:19:43,959
+They're earlier than this now and later than now, some things earlier and other later.
+
+182
+00:19:44,999 --> 00:19:48,279
+So what's more basic than you see what's bothering me?
+
+183
+00:19:48,360 --> 00:19:50,039
+Is there a before and after?
+
+184
+00:19:50,040 --> 00:20:00,279
+I would have, I just, except for this sentence, that it's unveiled, but what is thus counted as before and after is later unveiled as the nows.
+
+185
+00:20:00,280 --> 00:20:01,719
+That's what bothers me.
+
+186
+00:20:01,719 --> 00:20:04,759
+Why isn't it, say, interpreted as the now?
+
+187
+00:20:04,760 --> 00:20:08,919
+I mean, it seems to me everything is tapped into that unveiled.
+
+188
+00:20:08,919 --> 00:20:11,719
+That says, aha, the nows were there all along.
+
+189
+00:20:11,719 --> 00:20:24,839
+And what's been the argument that in order to count the before and after, they don't impose a bunch of, expose a bunch of nows that have been veiled up to then.
+
+190
+00:20:25,159 --> 00:20:27,320
+Come on, somebody's supposed to help me with this.
+
+191
+00:20:27,320 --> 00:20:28,600
+That's why you're here.
+
+192
+00:20:29,399 --> 00:20:33,360
+Fairly nothing out of court in my mind.
+
+193
+00:20:33,360 --> 00:20:34,399
+Well, I'm going on.
+
+194
+00:20:34,639 --> 00:20:35,840
+It may not make any difference.
+
+195
+00:20:30,999 --> 00:20:37,760
+Somebody's got to try, okay.
+
+196
+00:20:43,280 --> 00:20:54,320
+You're very intimidated on the veil, but because always going to voice.
+
+197
+00:20:54,639 --> 00:20:55,920
+Oh, well, that would be good.
+
+198
+00:20:55,919 --> 00:20:58,560
+I mean, I would be happy to unveil the fore and after.
+
+199
+00:20:58,560 --> 00:21:01,439
+But it looks like he's saying he was unveiling the nows, doesn't he?
+
+200
+00:21:01,439 --> 00:21:02,560
+We've got to go back and look.
+
+201
+00:21:02,560 --> 00:21:06,479
+I mean, if he didn't, that would be true then I wouldn't have any problem.
+
+202
+00:21:06,479 --> 00:21:10,880
+But it's, then I want to say the before and after doesn't have any now's.
+
+203
+00:21:10,880 --> 00:21:17,679
+It doesn't make any reference to somebody who's in the middle of this counting them.
+
+204
+00:21:17,679 --> 00:21:22,080
+And you can put in the nows and you can count them that way.
+
+205
+00:21:22,080 --> 00:21:24,559
+You can count the before and after with now's.
+
+206
+00:21:24,560 --> 00:21:27,919
+But it didn't once say they were veiled, that is covered up.
+
+207
+00:21:28,399 --> 00:21:30,639
+You seem to me to beg the question.
+
+208
+00:21:30,639 --> 00:21:39,439
+You said that there's this whole Dauseine relative now element has been there all along.
+
+209
+00:21:39,439 --> 00:21:41,279
+That's just the question.
+
+210
+00:21:41,280 --> 00:21:44,639
+Well, you see, yeah, Tyler, do you understand my problem?
+
+211
+00:21:46,320 --> 00:21:47,759
+Never before and after.
+
+212
+00:21:48,080 --> 00:21:49,600
+That's what it seems to be saying.
+
+213
+00:21:49,600 --> 00:21:52,159
+And that doesn't, we want it to say that, do we?
+
+214
+00:21:52,159 --> 00:21:53,520
+Ah, I see.
+
+215
+00:21:53,520 --> 00:21:55,040
+That's a good step, maybe.
+
+216
+00:21:55,040 --> 00:21:57,439
+Every before, and I thought, yeah, yeah.
+
+217
+00:21:57,439 --> 00:22:03,880
+Before, there must be a present before which such and such and after which such, and such.
+
+218
+00:22:03,840 --> 00:22:08,719
+And that present is what we're going to name as the nows.
+
+219
+00:22:08,719 --> 00:22:15,600
+But it's not nows yet, so to speak, but but it's what steps up the possibility of the now.
+
+220
+00:22:15,600 --> 00:22:21,320
+And so I'm saying it's the veil nows, that's not quite right, but it's close enough, the way you fit it.
+
+221
+00:22:21,560 --> 00:22:32,999
+There is in the just in counting the before and after, the condition for saying now is already involved, something like that.
+
+222
+00:22:32,999 --> 00:22:33,639
+I guess.
+
+223
+00:22:33,639 --> 00:22:33,960
+Yeah.
+
+224
+00:22:34,439 --> 00:22:36,199
+Yeah, does that make a difference?
+
+225
+00:22:36,199 --> 00:22:44,840
+Because because putting it in terms of our experience, you mean, then the now comes in from us, whereas the before and after doesn't have the nows in it.
+
+226
+00:22:46,360 --> 00:22:48,199
+That might be a good idea, too.
+
+227
+00:22:48,199 --> 00:22:50,759
+I mean, maybe we should put you entirely together.
+
+228
+00:22:50,760 --> 00:23:05,719
+I mean, so we're not counting the in counting before and after, there's already a present in which something is before and something after, and we experience that.
+
+229
+00:23:05,880 --> 00:23:07,239
+Is that what you think?
+
+230
+00:23:12,679 --> 00:23:18,039
+Okay, motion, yeah, which is experience with respect to before and after.
+
+231
+00:23:18,040 --> 00:23:20,439
+You can throw this experience in there.
+
+232
+00:23:20,439 --> 00:23:22,279
+I was going to quote that quote next.
+
+233
+00:23:22,280 --> 00:23:24,519
+Yes, that makes a big deal.
+
+234
+00:23:24,840 --> 00:23:49,399
+So all this, I mean, I'm saying the nows are unveiled is sort of unfortunate, but if you're getting it, if you're saying in the experience the nows are unveiled, not that through your experience the nows are unveiled in this stuff that would happen whether you were experiencing it or not, but that when you are counting, in your experience of counting, then the nows are already implicit.
+
+235
+00:23:50,120 --> 00:23:51,159
+They're veiled.
+
+236
+00:23:51,479 --> 00:23:52,759
+That's how you want to read it.
+
+237
+00:23:52,760 --> 00:23:53,319
+Definitely.
+
+238
+00:23:53,560 --> 00:23:55,159
+I don't know, but let's go on.
+
+239
+00:23:55,159 --> 00:24:02,399
+I mean, they're going to be sort of holistic puzzles all along the way, any one of which we can only try to deal with if we look at all the others.
+
+240
+00:24:01,719 --> 00:24:04,080
+So let me look at the others.
+
+241
+00:24:04,399 --> 00:24:05,199
+Where are we?
+
+242
+00:24:05,199 --> 00:24:11,279
+Uh the n the nows themselves, however, can be expressed and understood only in the horizon of earlier and later.
+
+243
+00:24:11,280 --> 00:24:22,799
+So when you've got this experience of counting, you can only express and understand what you're doing by bringing in earlier and later, it says.
+
+244
+00:24:23,120 --> 00:24:27,840
+The width respect to before and after in the horizon of the earlier and later do not coincide.
+
+245
+00:24:27,840 --> 00:24:30,959
+The second is an interpretation of the first in your experience.
+
+246
+00:24:31,199 --> 00:24:36,080
+Okay, that's I'm just reading the quotes that I think we have to take account of.
+
+247
+00:24:36,080 --> 00:24:37,840
+That might be it.
+
+248
+00:24:37,840 --> 00:24:38,959
+No, one more.
+
+249
+00:24:39,120 --> 00:24:40,719
+It may be the one you just read.
+
+250
+00:24:40,719 --> 00:24:41,600
+No, I don't think so.
+
+251
+00:24:41,600 --> 00:24:45,600
+But anyway, the end of the previous paragraph, 1243.
+
+252
+00:24:45,600 --> 00:24:47,840
+As counted, now we got to the nows.
+
+253
+00:24:47,840 --> 00:24:50,719
+The now's themselves count.
+
+254
+00:24:51,999 --> 00:24:53,600
+That's puzzling too.
+
+255
+00:24:54,239 --> 00:24:59,840
+I don't think that's some kind of pun, that as counted, the now nows themselves matter.
+
+256
+00:25:00,719 --> 00:25:03,039
+That isn't what it's about, I'm sure.
+
+257
+00:25:03,040 --> 00:25:06,080
+As counted, the nows themselves count.
+
+258
+00:25:06,399 --> 00:25:09,919
+When I try to understand that, I think about the clock.
+
+259
+00:25:10,479 --> 00:25:14,959
+That there is, now the hands are here, now the hands are there.
+
+260
+00:25:17,280 --> 00:25:19,439
+And so we add up the nows.
+
+261
+00:25:19,840 --> 00:25:23,760
+If anybody has a better view, the nows count the places.
+
+262
+00:25:23,760 --> 00:25:31,600
+So now it's five, now the hand is at five after, now it's at six after, now it's at seven after.
+
+263
+00:25:31,600 --> 00:25:40,319
+So the nows counted by a, now it's here, now it's there, and the now's do the counting.
+
+264
+00:25:40,320 --> 00:25:41,679
+They count the places.
+
+265
+00:25:41,679 --> 00:25:43,519
+Now it's at five, now it's at six.
+
+266
+00:25:43,919 --> 00:25:45,519
+I think that's what he's saying.
+
+267
+00:25:45,520 --> 00:25:50,679
+They count the places so far as these are traversed as the places of the motion.
+
+268
+00:25:50,999 --> 00:25:55,800
+Time as Aristemos, where what did we find out what that meant?
+
+269
+00:25:55,800 --> 00:25:59,000
+I think that must be the numbers that's counted, right?
+
+270
+00:25:58,999 --> 00:26:03,479
+Time as number is the counted that counts.
+
+271
+00:26:03,479 --> 00:26:05,719
+Did I get it right about the counted that counts?
+
+272
+00:26:05,719 --> 00:26:10,039
+Has anybody understood what I said or think they could say something clearer?
+
+273
+00:26:10,040 --> 00:26:10,520
+Okay.
+
+274
+00:26:11,560 --> 00:26:14,519
+If you can, always come and jump in and do.
+
+275
+00:26:14,520 --> 00:26:17,240
+Okay, that uh the counted that counts.
+
+276
+00:26:17,239 --> 00:26:22,279
+Aristotle's interpretation of time matches the phenomenon extremely well.
+
+277
+00:26:22,280 --> 00:26:25,080
+I think that's I put that quote in here for that.
+
+278
+00:26:25,080 --> 00:26:27,880
+He's not criticizing Aristotle.
+
+279
+00:26:27,880 --> 00:26:43,159
+He's saying Aristotle has got this, in making this distinction, Aristotle is doing a very good job of explaining both aspects of the way we understand time.
+
+280
+00:26:43,479 --> 00:26:49,239
+If he's criticizing Aristotle at all, it's because he thinks Aristotle hasn't sorted them out too well yet.
+
+281
+00:26:49,239 --> 00:26:52,199
+But I don't think he's criticizing Aristotle at all.
+
+282
+00:26:52,760 --> 00:26:54,679
+So at least not yet.
+
+283
+00:26:54,679 --> 00:26:56,519
+Maybe in a minute.
+
+284
+00:26:56,520 --> 00:27:06,919
+So on 247 at the top, primarily protoron historon means for Aristotle before and after in a sequence of places.
+
+285
+00:27:06,919 --> 00:27:09,479
+It has a non-temporal sense.
+
+286
+00:27:09,479 --> 00:27:12,759
+This is again, notice not earlier and later.
+
+287
+00:27:12,760 --> 00:27:20,600
+But the experience of before and after intrinsically presupposes in a certain way the experience of time, the earlier and later.
+
+288
+00:27:20,600 --> 00:27:23,080
+Well, we've already gone through that under that now story.
+
+289
+00:27:23,080 --> 00:27:28,319
+I think that's the same mysterious thing, that there's something implicit presupposed.
+
+290
+00:27:28,320 --> 00:27:41,520
+If you think you're just dealing with a sequence, if insofar as you're counting the sequence, you already have to experience time as earlier and later.
+
+291
+00:27:41,520 --> 00:27:44,240
+I'm taking over the experience.
+
+292
+00:27:45,600 --> 00:27:46,719
+Yeah, good.
+
+293
+00:27:46,719 --> 00:27:47,840
+Tell me things.
+
+294
+00:27:48,320 --> 00:27:58,159
+I think it's clear that I hope it becomes clearer, but I'm convinced that he thinks that before and after is more.
+
+295
+00:27:58,800 --> 00:28:01,519
+Let me not have any cards up my sleeve.
+
+296
+00:28:02,080 --> 00:28:05,840
+Everything's going to depend on this for realism-idealism issue.
+
+297
+00:28:05,840 --> 00:28:09,840
+Because no doubt, there's no earlier and later except when we're around.
+
+298
+00:28:10,239 --> 00:28:11,759
+I'm assuming that.
+
+299
+00:28:11,760 --> 00:28:23,279
+Because we're putting ourselves at some point in the story and say, like in space, like the here in space depends on us, the now in time depends on us.
+
+300
+00:28:23,280 --> 00:28:36,800
+So but they don't have to bring, we don't bring ourselves in so directly, and I'm maybe not at all, to make sense of the before and after.
+
+301
+00:28:38,399 --> 00:28:50,639
+So I want the before and after to be the realist one and say some kind of dimensional, formalish before and after would be there when we were around or not.
+
+302
+00:28:50,639 --> 00:28:55,279
+But it's only when we're there counting that there's earlier or later.
+
+303
+00:28:55,280 --> 00:29:06,079
+So I want before and after to be basic, and I'm ready now to have to amend that, to say, yeah, but the experience of before and after already has in it that a sense of an earlier and later.
+
+304
+00:29:06,080 --> 00:29:08,479
+That's what these two mysterious sentences say.
+
+305
+00:29:08,479 --> 00:29:08,880
+Yeah.
+
+306
+00:29:09,760 --> 00:29:09,999
+Yeah.
+
+307
+00:29:10,639 --> 00:29:14,239
+Non-temporal sequence in Pernstein than Martha?
+
+308
+00:29:14,560 --> 00:29:14,880
+Good.
+
+309
+00:29:14,880 --> 00:29:16,880
+Yes, that's exactly what I think it is.
+
+310
+00:29:17,239 --> 00:29:30,600
+Any any such sequence at this formal level is going to be l can be laid out in terms of a foreign after, finally just a mathematical sequence, before two is before three and uh after one.
+
+311
+00:29:30,600 --> 00:29:32,999
+There is some kind of before and after.
+
+312
+00:29:32,999 --> 00:29:42,120
+And if you're going to be a realist, you're going to have to think that there's some kind of before and after in nature that would be there whether we were there or not.
+
+313
+00:29:42,120 --> 00:29:47,719
+And that better not be, that's truly not going to be that things are earlier and later before we're around.
+
+314
+00:29:47,719 --> 00:29:48,279
+Yeah.
+
+315
+00:29:48,600 --> 00:29:52,360
+It works because there's a towards and from I see, oh ho.
+
+316
+00:29:52,360 --> 00:29:55,080
+I was wondering too when Eugene said that.
+
+317
+00:29:55,080 --> 00:29:57,319
+We we get there is a direction.
+
+318
+00:29:57,320 --> 00:30:00,999
+You're putting down the signs and you're putting down the signs.
+
+319
+00:30:00,999 --> 00:30:04,120
+You can't just put them down at random and you can't switch in the middle.
+
+320
+00:30:04,120 --> 00:30:09,159
+You've got to you're showing away from, I don't know, Terre Haute to Indianapolis where I come from.
+
+321
+00:30:09,159 --> 00:30:13,560
+You wouldn't it wouldn't work or it would still you it wouldn't.
+
+322
+00:30:13,560 --> 00:30:16,840
+I see wait allowed so we can agree in times.
+
+323
+00:30:16,840 --> 00:30:20,360
+That those are sometimes a market sequence of the road.
+
+324
+00:30:25,959 --> 00:30:27,560
+Oh, it could bring it over to nature.
+
+325
+00:30:27,560 --> 00:30:35,239
+I see that might be a problem, how the road is going from Terre Haute to Indianapolis and not from Indianapolis to Terre Haute, right?
+
+326
+00:30:35,560 --> 00:30:41,799
+Unless unless you bring in this complicated business about whether time is reversible or not.
+
+327
+00:30:42,120 --> 00:30:44,840
+I think we probably could be bubbling this phenomenological.
+
+328
+00:30:44,840 --> 00:30:47,239
+And you come here to diperam what you wanted to say.
+
+329
+00:30:47,239 --> 00:30:50,120
+Well, the before after is in the thing of the language.
+
+330
+00:30:50,439 --> 00:30:51,880
+Ah, oh, ho.
+
+331
+00:30:51,880 --> 00:30:54,919
+You can't reconcile it as an understatement.
+
+332
+00:30:54,919 --> 00:30:57,319
+That's supposed to be what makes it possible.
+
+333
+00:30:57,399 --> 00:31:04,479
+What gets him to the time-free movements of nature is that they would be before and after movements, but not earlier and later.
+
+334
+00:31:01,719 --> 00:31:06,959
+Uh that that would be the idea.
+
+335
+00:31:07,280 --> 00:31:12,399
+Uh yeah, that's and of course but there's sort of verbal thing.
+
+336
+00:31:12,399 --> 00:31:20,719
+And he does say both the before and after and the earlier and later are something like aspects of time.
+
+337
+00:31:20,719 --> 00:31:22,799
+And Aristotle sees that.
+
+338
+00:31:23,280 --> 00:31:33,600
+And I I think later he's going to when he says time-free movements of nature, he means movements in nature that you would have whether Dasein was around or not.
+
+339
+00:31:33,760 --> 00:31:35,840
+That's why I'm trying to make sense.
+
+340
+00:31:35,840 --> 00:31:47,759
+We're trying to make sense of what it would be like to have something like that, which which had some kind of order, but not the kind of order that requires us to be put in the order.
+
+341
+00:31:48,159 --> 00:31:50,880
+I think it's very important to keep thinking about space.
+
+342
+00:31:50,880 --> 00:31:58,799
+I mean, the way the here in in space, the now in time have this characteristic of absolutely depending on us.
+
+343
+00:31:58,800 --> 00:32:07,919
+There's no here out in space, and it's not clear what to do with now in time, but it's certainly not our kind of now.
+
+344
+00:32:08,560 --> 00:32:23,440
+Of course, you can have about space this abstract three-dimensional Cartesian story in which points are have a certain, but they can't be, this is all back to division one.
+
+345
+00:32:23,439 --> 00:32:32,479
+They can't be near or far from each other if that's we're going to make that relative to how it available to us near and far.
+
+346
+00:32:32,479 --> 00:32:55,959
+And uh so there's a lot of stuff in space, Cartesian, sort of non- for existence, a lot of stuff for spatiality, which is existential space, namely it's got a here, it's got places in it, it's got distances in it of a non-measured, of a kind of relative to our efforts.
+
+347
+00:32:55,959 --> 00:33:07,719
+And so with temporality, you've got some, hopefully, that we can make sense of, abstract form of sequential order.
+
+348
+00:33:07,719 --> 00:33:10,040
+You've got that whether we're around or not.
+
+349
+00:33:10,040 --> 00:33:15,080
+Just like Cartesian three-dimensional space, it's easier to imagine it's around whether we're around or not.
+
+350
+00:33:15,080 --> 00:33:16,679
+But it has no hearing.
+
+351
+00:33:17,639 --> 00:33:19,560
+Okay, you want to say something about this?
+
+352
+00:33:20,040 --> 00:33:21,080
+You look like you did.
+
+353
+00:33:21,080 --> 00:33:21,480
+No?
+
+354
+00:33:21,880 --> 00:33:22,600
+Yeah, I don't know.
+
+355
+00:33:22,600 --> 00:33:23,719
+I guess you were just your hand.
+
+356
+00:33:23,959 --> 00:33:26,759
+Well, I'm going to drop my motor right back.
+
+357
+00:33:26,760 --> 00:33:34,760
+I was not happy because also there's some jumps from before or after to earlier or later when we get to the picture somehow.
+
+358
+00:33:36,200 --> 00:33:37,959
+Some experience it differently.
+
+359
+00:33:38,519 --> 00:33:41,720
+Clarifying this as we find out, but on the basis of what?
+
+360
+00:33:41,720 --> 00:33:44,519
+Yes, I think it, but the trouble is that's very murky.
+
+361
+00:33:44,519 --> 00:33:48,120
+Because when I try to think about it, I think it's about the now.
+
+362
+00:33:48,119 --> 00:33:55,880
+I think earlier than now and later than, the way earlier and later work, and we bring in the now.
+
+363
+00:33:55,880 --> 00:34:01,559
+And the before and after as this, what is it from board?
+
+364
+00:34:01,800 --> 00:34:04,679
+I forget that formulation.
+
+365
+00:34:04,999 --> 00:34:05,960
+Where is it?
+
+366
+00:34:06,599 --> 00:34:07,639
+You know what I mean?
+
+367
+00:34:07,640 --> 00:34:09,240
+I read it earlier.
+
+368
+00:34:09,240 --> 00:34:10,360
+Oh yeah, that's right.
+
+369
+00:34:10,439 --> 00:34:13,080
+Okay, the from something to something.
+
+370
+00:34:13,559 --> 00:34:16,760
+That doesn't seem to have to have a now in it.
+
+371
+00:34:17,320 --> 00:34:46,320
+And that's how the trouble is, what haunts me constantly is to try to figure out what in the world the now is when it's not the kind of pragmatic now, which is the earlier and later, where you where it depends on uh how you know, you you get to decide how long the now is and what counts as earlier than this now and later than and whereas in somehow there's not going to be this now related to our projects.
+
+372
+00:34:46,320 --> 00:34:55,599
+Now in the world you remember this, I mean there's so many thi remember the now in world time is uh all he says relative to our projects.
+
+373
+00:34:55,599 --> 00:35:03,599
+Again, that's always comes as a surprise, but it's now we're in this class and now we're in the semester and now we're in the spring and so forth.
+
+374
+00:35:03,599 --> 00:35:06,399
+And and and now I'm trying to explain this sentence.
+
+375
+00:35:06,399 --> 00:35:08,800
+It's all relative to what we're up to.
+
+376
+00:35:08,800 --> 00:35:12,160
+And whatever the now is, it isn't.
+
+377
+00:35:12,160 --> 00:35:14,959
+Well then what is it, a nanosecond, no nanosecond?
+
+378
+00:35:14,959 --> 00:35:22,080
+I mean I just can't picture what a now is when it's not in the i in some span of activity.
+
+379
+00:35:22,079 --> 00:35:43,200
+That's and that uh that that's just related to how much sense you can make of a before and after uh without I can't make sense of a before and after without a now in nature, and I can't make which would but I think you have to, and I can't make any sense of what l let me put the problem.
+
+380
+00:35:43,200 --> 00:35:58,640
+So it looks like in science anyway, which is supposedly thinking about nature, you've got to bring in some kind of now which isn't a pragmatic kind of now that's, you know, relative to our projects.
+
+381
+00:35:58,640 --> 00:36:04,720
+But there must be some kind of now because now the universe is, I don't know, 10 billion years old.
+
+382
+00:36:04,720 --> 00:36:08,080
+And it looks like it started back at the first now.
+
+383
+00:36:08,079 --> 00:36:10,999
+And what the hell is I have no idea?
+
+384
+00:36:10,720 --> 00:36:12,119
+I think it's worth it.
+
+385
+00:36:12,800 --> 00:36:15,919
+If you think about it, I mean, I like to statement now, too.
+
+386
+00:36:16,079 --> 00:36:20,039
+You know, we're not in space, it doesn't make any difference.
+
+387
+00:36:20,519 --> 00:36:21,399
+Yeah, it doesn't make sense.
+
+388
+00:36:16,399 --> 00:36:22,999
+That's right, exactly.
+
+389
+00:36:24,039 --> 00:36:34,039
+At this point in the universe, there is at, I think we're trying to get to the same, you know, at this point in time, it's not like this point in time relative to me.
+
+390
+00:36:34,039 --> 00:36:36,999
+It's not like, you know, 1000 BC relative to the.
+
+391
+00:36:37,240 --> 00:36:43,399
+At this point in time, it's got the same, is it a pragmatic sign of point, or is it a nanosecond kind of point?
+
+392
+00:36:43,479 --> 00:36:45,079
+The same thing happens with here, of course.
+
+393
+00:36:45,880 --> 00:36:46,919
+How much is here?
+
+394
+00:36:47,640 --> 00:36:59,480
+Where the GPS has located me, or here in this classroom, or here in the university, it has the same here's the nows that normally are defined in terms of our practices.
+
+395
+00:37:00,200 --> 00:37:08,840
+And the idea of a here that doesn't make any reference to our practices and then a now that doesn't make any reference to our practices is really weird.
+
+396
+00:37:08,840 --> 00:37:11,079
+But I don't have more to say about it.
+
+397
+00:37:11,079 --> 00:37:12,520
+If anybody does, yeah.
+
+398
+00:37:12,840 --> 00:37:14,680
+Would we have to admit that?
+
+399
+00:37:14,840 --> 00:37:15,399
+Let's see.
+
+400
+00:37:17,479 --> 00:37:21,880
+No, I think that's sort of upside down, but I'll have to think a minute.
+
+401
+00:37:23,880 --> 00:37:38,840
+We would have to admit that Heidegger was a temporal idealist if the now is dependent on us and we couldn't make sense of a nature that didn't have its own intrinsic nows.
+
+402
+00:37:38,840 --> 00:37:47,800
+Then it would follow that there wouldn't be any nature if we wanted to ring because we buy the nows and the nature has to have a now in it.
+
+403
+00:37:47,800 --> 00:38:03,199
+But I want to say the other way is somehow if you could have a view of nature as such a kind of abstract ordering that didn't make any reference to any of our purposes, that would be an argument for realism if you could make sense of it.
+
+404
+00:38:03,360 --> 00:38:11,760
+That gets us to the time-free movements of nature only, where that means that our kind of temporality doesn't.
+
+405
+00:38:11,760 --> 00:38:20,320
+The movements in nature would still have a before and after, but I think, but they wouldn't connect up with our temporality, which is or the earlier and later.
+
+406
+00:38:21,280 --> 00:38:22,639
+Yeah, totally.
+
+407
+00:38:23,039 --> 00:38:36,560
+But in the before and after, who was people from now and re-established before and after, we established an urban now will be a different relationship between that now and still.
+
+408
+00:38:36,880 --> 00:38:39,519
+Ah, you've said that before, but that's always interesting.
+
+409
+00:38:39,519 --> 00:38:41,360
+That's the sun going by kind of story.
+
+410
+00:38:45,919 --> 00:38:49,679
+Yes, that's what I think too, and I think that's what Heidegger and Aristotle think.
+
+411
+00:38:49,680 --> 00:38:50,320
+Good, good.
+
+412
+00:38:50,320 --> 00:38:51,840
+But that's what I think too.
+
+413
+00:38:51,840 --> 00:38:53,759
+Yes, the whole deal.
+
+414
+00:38:53,760 --> 00:38:56,240
+Christina, what you're saying, I misunderstood you.
+
+415
+00:38:56,240 --> 00:38:59,520
+So there ought to be a kind of present at hand now.
+
+416
+00:38:59,519 --> 00:39:01,040
+That was what it would amount to.
+
+417
+00:39:01,039 --> 00:39:10,399
+Stripped of all of its significance and datability and everything that goes with world time and with earlier and later.
+
+418
+00:39:10,399 --> 00:39:23,439
+And it may have something to do with clocks, you know, that we can get there by counting the movement in such a way as I don't see still how we get there.
+
+419
+00:39:23,680 --> 00:39:25,760
+There's no now on the clock.
+
+420
+00:39:25,760 --> 00:39:32,560
+And so we've got the same kind of puzzle to say now it's five after, now it's six after.
+
+421
+00:39:32,880 --> 00:39:33,599
+I don't know.
+
+422
+00:39:33,599 --> 00:39:39,040
+But I think that's the earlier or later, or both kinds?
+
+423
+00:39:39,039 --> 00:39:39,919
+Both of them, okay?
+
+424
+00:39:42,559 --> 00:39:44,959
+I'm not sure whether it's me or Heidegger.
+
+425
+00:39:45,039 --> 00:39:51,880
+I may have p introduced this into the conversation, that I I was assuming that there is no now in nature.
+
+426
+00:39:53,240 --> 00:39:56,040
+Mostly because there's no here in nature.
+
+427
+00:39:56,039 --> 00:39:58,839
+But that may just be a false analogy.
+
+428
+00:39:58,999 --> 00:40:00,840
+It's certainly attempting.
+
+429
+00:40:00,840 --> 00:40:13,559
+But so there's y there's just a different kind of now between the world-defined, contextual, pragmatic, some kind of something in nature, which is what?
+
+430
+00:40:13,800 --> 00:40:16,039
+A different kind of now, a present at hand now.
+
+431
+00:40:16,039 --> 00:40:16,839
+It's all right.
+
+432
+00:40:17,160 --> 00:40:18,599
+There is change.
+
+433
+00:40:22,439 --> 00:40:22,999
+I like that.
+
+434
+00:40:22,999 --> 00:40:27,320
+I guess I well that's that's that's what I think.
+
+435
+00:40:27,320 --> 00:40:31,880
+So so good, but then I don't know why you need to bring in a now.
+
+436
+00:40:31,880 --> 00:40:34,919
+Yeah, you have access to pure things.
+
+437
+00:40:34,919 --> 00:40:37,560
+Why not keep a now for earlier and later?
+
+438
+00:40:39,880 --> 00:40:41,079
+Well, I got us into that.
+
+439
+00:40:41,079 --> 00:40:44,919
+I mean, partly because, I don't know, Ariel or somebody got us into this.
+
+440
+00:40:44,919 --> 00:40:48,760
+That uh that which is yes, I I'm I think you're right.
+
+441
+00:40:48,760 --> 00:40:50,439
+I I led you into this.
+
+442
+00:40:50,439 --> 00:40:56,439
+Uh but I was uh I was just saying how puzzling it is to me what a now in nature would be.
+
+443
+00:40:56,439 --> 00:41:03,320
+And now I and I think what you're saying is we shouldn't be expecting to find a now in nature.
+
+444
+00:41:05,559 --> 00:41:07,559
+Good, well that's what I want to say all along.
+
+445
+00:41:07,559 --> 00:41:08,600
+Good, okay.
+
+446
+00:41:08,599 --> 00:41:25,240
+And then uh but but then I said, but but we have to s be able to say somehow now it's X billion years since the Big Bang, as if somehow we knew what we were talking about and as if it was the same sort of clock now on a great big clock that we normally use.
+
+447
+00:41:25,240 --> 00:41:27,559
+That's why I said clocks seem to have a lot to do with this.
+
+448
+00:41:27,559 --> 00:41:35,120
+Somehow once you get to the clock nows and count them, and it looks like there those are present at hand now.
+
+449
+00:41:35,119 --> 00:41:39,279
+And it looks like maybe the universe can be treated like a big clock.
+
+450
+00:41:39,280 --> 00:41:41,439
+I d anyway, let's go on.
+
+451
+00:41:41,439 --> 00:41:44,959
+If this I I'm sorry that this is so hard.
+
+452
+00:41:44,959 --> 00:41:51,439
+And maybe it wouldn't be so hard if I understood it, but I I can only tell you what I can see here.
+
+453
+00:41:51,439 --> 00:41:54,000
+Um okay, on two hundred forty-seven.
+
+454
+00:41:53,999 --> 00:41:55,600
+I think did I read this already?
+
+455
+00:41:55,599 --> 00:42:06,399
+For Aristotle to pay for Aristotle before and after in the sequence of pla let's see, primarily, Proteronhoustrom means for Aristotle before and after in a sequence of places.
+
+456
+00:42:06,399 --> 00:42:08,720
+It has a non-temporal sense.
+
+457
+00:42:08,720 --> 00:42:18,640
+But the experience of before and after intrinsically presupposes in a certain way, as I just had read that, the experience of time, the earlier and later.
+
+458
+00:42:18,640 --> 00:42:21,600
+And there the emphasis has got to be on experience.
+
+459
+00:42:21,599 --> 00:42:26,560
+That's the famous the veil story, only it's not so misleading there.
+
+460
+00:42:26,880 --> 00:42:30,719
+It's it the presupposes is like the the veil.
+
+461
+00:42:30,720 --> 00:42:40,800
+It's if you're going to have an experience of the before and after, then you've got to already have an experience of the earlier and later.
+
+462
+00:42:40,800 --> 00:42:42,160
+Isn't that interesting?
+
+463
+00:42:42,160 --> 00:42:43,279
+The experience.
+
+464
+00:42:43,280 --> 00:42:47,600
+But in the universe, it looks like the it's the other way around.
+
+465
+00:42:47,599 --> 00:42:56,239
+That the if you're going to have the before and after, you've got to already have sorry, I didn't let's go do it again.
+
+466
+00:42:56,240 --> 00:43:06,640
+In in our experience, it looks like you can't have an experience of the before and after that doesn't presuppose already earlier and later.
+
+467
+00:43:06,640 --> 00:43:19,560
+But in the universe, it looks like, you can have, in fact, going on something which can be described in terms of before and after, but doesn't have any earlier and later.
+
+468
+00:43:16,399 --> 00:43:23,639
+So in experience, maybe the sort of dependence goes one way.
+
+469
+00:43:23,959 --> 00:43:34,439
+And if you're a realist anyway, in the universe, the experience would the phenomenon, phenomenon isn't even right, not in the sense of experience.
+
+470
+00:43:34,760 --> 00:43:44,439
+The what you are talking about would be independent and then get interpreted by God, brought into the world, so to speak.
+
+471
+00:43:44,439 --> 00:43:46,200
+It seems to think both.
+
+472
+00:43:46,200 --> 00:43:57,480
+I mean, it's not in contradiction to think that in the universe, let's just repeat it, there could be an abstract state of the universe.
+
+473
+00:43:58,760 --> 00:44:04,760
+We experience them in terms of now and earlier and later and bring them into our world time.
+
+474
+00:44:04,760 --> 00:44:25,240
+You can still say, yeah, but when we experience them, we first most basically have an earlier and later pragmatic experience, and we then, by leaving a lot out and theorizing, get to the universe once.
+
+475
+00:44:25,240 --> 00:44:26,119
+Let's try that.
+
+476
+00:44:26,119 --> 00:44:26,999
+Let me go on.
+
+477
+00:44:26,999 --> 00:44:28,279
+Let me see where we are.
+
+478
+00:44:28,680 --> 00:44:31,240
+I want to read one more thing on 247.
+
+479
+00:44:32,439 --> 00:44:35,159
+With a now back, unfortunately, but I have to read it.
+
+480
+00:44:35,160 --> 00:44:37,399
+The now, I'm going to start at the end of the top paragraph.
+
+481
+00:44:37,399 --> 00:44:41,000
+The now is the limit for what has gone by and what comes after.
+
+482
+00:44:40,999 --> 00:44:48,039
+That's something like Tyler's earlier version, that there's always going to be this borderline between them.
+
+483
+00:44:48,039 --> 00:44:48,679
+I don't know.
+
+484
+00:44:48,680 --> 00:44:49,479
+Let's go on.
+
+485
+00:44:49,479 --> 00:44:52,360
+The now which we count are themselves in time.
+
+486
+00:44:52,360 --> 00:44:54,040
+They constitute time.
+
+487
+00:44:54,039 --> 00:44:59,640
+The now is a double visage, which Aristotle has that long thing to say about.
+
+488
+00:44:59,640 --> 00:45:02,960
+Time is held together within itself by the now.
+
+489
+00:45:01,640 --> 00:45:05,679
+Time's specific continuity is rooted in the now.
+
+490
+00:45:06,720 --> 00:45:14,320
+Conjoint with respect to the now, time is divided, articulated in the no longer now and the earlier, not yet now, the later.
+
+491
+00:45:14,320 --> 00:45:21,919
+It is only with respect to the now that we conceive of the then and at the time, the later and the earlier.
+
+492
+00:45:22,160 --> 00:45:23,760
+That's all, I was assuming that.
+
+493
+00:45:23,760 --> 00:45:32,800
+We were all assuming that, remember, that in an earlier and later layout, it's always with respect to the now that these are earlier and later.
+
+494
+00:45:32,800 --> 00:45:35,360
+Okay, I have gotten to the end of that.
+
+495
+00:45:35,360 --> 00:45:39,439
+So where does Aristotle then get us?
+
+496
+00:45:39,599 --> 00:45:41,760
+Why have we gone through all this?
+
+497
+00:45:41,760 --> 00:45:47,200
+Well, it may be that Aristotle is telling us about access.
+
+498
+00:45:47,680 --> 00:45:48,639
+I would like that.
+
+499
+00:45:48,640 --> 00:46:04,319
+If Aristotle were telling us that there is some kind of before and after which we get access to by way of earlier and later, that would be interesting.
+
+500
+00:46:04,320 --> 00:46:09,760
+And I think maybe you're saying this at the bottom of 256.
+
+501
+00:46:10,079 --> 00:46:16,640
+Aristotle's definition of time is not in any respect a definition in the academic sense.
+
+502
+00:46:16,640 --> 00:46:22,560
+It characterizes time by defining how what we call time becomes accessible.
+
+503
+00:46:22,559 --> 00:46:23,679
+It is an access.
+
+504
+00:46:23,999 --> 00:46:31,680
+The type of defendum is determined by the manner of soul possible access to it.
+
+505
+00:46:31,680 --> 00:46:39,680
+But the counting perception of motion as motion is at the same time the perception of what is counted as time.
+
+506
+00:46:39,680 --> 00:46:41,760
+I'm not sure what that's all about.
+
+507
+00:46:41,760 --> 00:46:48,680
+I can see this, that this altest destination is very different than something like a condition of possibility.
+
+508
+00:46:48,999 --> 00:46:50,760
+It's the realistic one.
+
+509
+00:46:50,760 --> 00:47:05,320
+I mean, if you think that we're talking about the conditions of the possibility of temper of time, of course it's going to all turn out to depend on us and we're in Kant.
+
+510
+00:47:05,640 --> 00:47:07,880
+But that's not Aristotle.
+
+511
+00:47:07,880 --> 00:47:21,640
+Aristotle is telling us something about the structure of our experience that gives us to something actually happening in the cosmos, I presume.
+
+512
+00:47:21,720 --> 00:47:23,079
+Let's read the next paragraph.
+
+513
+00:47:23,079 --> 00:47:28,439
+What Aristotle presents as time corresponds to the common pre-scientific understanding of time.
+
+514
+00:47:28,439 --> 00:47:34,600
+By its own phenomenological content, common time points to an original time, temporality.
+
+515
+00:47:35,640 --> 00:47:39,000
+Heidegger and Aristotle, everybody can agree on that.
+
+516
+00:47:38,999 --> 00:47:45,399
+This implies, however, that Aristotle's definition of time is only the initial approach to the interpretation of time.
+
+517
+00:47:45,399 --> 00:47:53,880
+Remember, I said I think he agrees with Aristotle, but I think he somehow is not going along all, he doesn't think Aristotle's got it all right yet.
+
+518
+00:47:53,880 --> 00:48:00,360
+The characteristic traits of time, as commonly understood, must become intelligible by way of original time.
+
+519
+00:48:00,360 --> 00:48:04,919
+So that's what Heidegger contributes, that Aristotle hasn't got.
+
+520
+00:48:04,919 --> 00:48:10,680
+Aristotle just takes for granted the characteristic of world time.
+
+521
+00:48:10,999 --> 00:48:27,640
+Heidegger says he can explain how world time gets laid out by Dasein, that it, how it depends on originary temporality.
+
+522
+00:48:27,640 --> 00:48:30,919
+And Aristotle hasn't any clue about that.
+
+523
+00:48:31,680 --> 00:48:54,320
+Well, what I was writing, I don't know where my notes say this, but what I was writing about this was: it looks like what I would want to say, it looks like, is that Heidegger's got it right about world time, which Aristotle doesn't understand, and that Aristotle's got it right about nature time, which Heidegger may or may not understand.
+
+524
+00:48:54,320 --> 00:48:55,280
+I don't know.
+
+525
+00:48:55,280 --> 00:48:58,079
+Oh, but there was something behind that that I was trying to get at.
+
+526
+00:48:58,720 --> 00:49:08,399
+Aristotle's got it right about world time, it's a nature time, because he's got it, he can distinguish the before and after from the earlier and later.
+
+527
+00:49:08,720 --> 00:49:14,079
+But all he's got about the earlier and later is world time, period.
+
+528
+00:49:14,240 --> 00:49:15,680
+Now I remember what I was saying.
+
+529
+00:49:16,399 --> 00:49:29,200
+Heidegger claims he's got a story about how you can derive or make intelligible world time from Dasein's temporality.
+
+530
+00:49:29,200 --> 00:49:36,480
+And now we're back to, and Blattner says, well, Heidegger wants to do that, and he can't even do that.
+
+531
+00:49:36,479 --> 00:49:47,360
+I mean, he can't really get from our existential temporality to the structure of world time.
+
+532
+00:49:48,399 --> 00:49:56,480
+He can't explain how our that and how.
+
+533
+00:49:56,479 --> 00:50:14,640
+He can't explain that our that he can't explain how sequentiality is required in our world practices from existential temporality.
+
+534
+00:50:14,640 --> 00:50:20,439
+The only way to understand, I think, now this is me versus Bill.
+
+535
+00:50:20,439 --> 00:50:22,279
+So Bill says, I'm back to that again.
+
+536
+00:50:22,280 --> 00:50:27,000
+So Heidegger was trying to do it, and he couldn't do it, and he failed.
+
+537
+00:50:26,999 --> 00:50:29,559
+I grant, Bill, that Heidegger was trying to do it.
+
+538
+00:50:29,559 --> 00:50:31,559
+This very quote says he's trying to do it.
+
+539
+00:50:31,559 --> 00:50:37,639
+He has that Aristotle hasn't seen how you're going to make all of this intelligible in terms of originary time.
+
+540
+00:50:37,640 --> 00:50:39,800
+That's what Heidegger was going to do.
+
+541
+00:50:40,200 --> 00:50:43,080
+I agree with Bill, he fails to do it.
+
+542
+00:50:43,079 --> 00:50:45,320
+But I want to say, of course he fails to do it.
+
+543
+00:50:45,320 --> 00:50:55,240
+There's got to be some natural constraint that requires that our practices be ordered in a certain way, one thing after another.
+
+544
+00:50:55,240 --> 00:50:59,320
+You can't eat poached egg before you cook it.
+
+545
+00:50:59,320 --> 00:51:02,600
+That's not something you're going to derive from it.
+
+546
+00:51:03,240 --> 00:51:05,159
+And all kinds of stuff like that.
+
+547
+00:51:05,160 --> 00:51:21,399
+And the very fact that we're constantly having to take account of the order in which the things happen, that seems to me got something to do with this constraint that's put on us by nature.
+
+548
+00:51:21,399 --> 00:51:23,240
+Nature, something.
+
+549
+00:51:23,399 --> 00:51:25,159
+The time-free movements of nature.
+
+550
+00:51:25,160 --> 00:51:29,399
+Maybe it's very hard to know what it is, and it's very hard to know how it does it.
+
+551
+00:51:29,399 --> 00:51:34,840
+But I want to say, Heidegger, I want to say Bill is right, Heidegger can't do it.
+
+552
+00:51:35,320 --> 00:51:45,160
+That means that Heidegger's project as an idealist, insofar as he's got that project, doesn't work.
+
+553
+00:51:45,160 --> 00:51:47,160
+But now I'm going to add a new thing.
+
+554
+00:51:47,160 --> 00:51:49,479
+It's not obvious that that that Heidegger's got...
+
+555
+00:51:49,800 --> 00:51:51,320
+Let me go on and do that before.
+
+556
+00:51:51,399 --> 00:51:53,079
+Well, no I mean I I stop where I am.
+
+557
+00:51:53,079 --> 00:51:53,559
+Go ahead, James.
+
+558
+00:51:53,999 --> 00:52:10,800
+Against Phil Stein, he's going back to section forty-three, where he says, is what the term idealism says amounts to the understanding but is already that which is transcendental for every entity, then idealism affords the only correct possibility.
+
+559
+00:52:10,800 --> 00:52:29,199
+If so, Aristotle is no less but if idealism signifies tracing back to consciousness, whose full distinguishing features are that it remains and is best characterized negatively as unthing-like, then that idealism is no less naive and than the most grossly hello technicalism.
+
+560
+00:52:29,680 --> 00:52:33,439
+And there he's I mean, I think he's talking about this more general.
+
+561
+00:52:33,439 --> 00:52:40,880
+It's not just specifically about time, but it's what I think what you're saying is true, but I think it's it's misleading.
+
+562
+00:52:41,200 --> 00:52:51,999
+In the following way, it sounds like idealism is either a trivial claim that our access to stuff depends on us, isn't that the first one?
+
+563
+00:52:51,999 --> 00:52:55,119
+I mean, that what's well where Aristotle even turns out to be an idealist.
+
+564
+00:52:55,119 --> 00:52:58,079
+What's the what's the it's a very minimal kind of idealism.
+
+565
+00:52:58,479 --> 00:53:07,199
+The term idealism says amounts to the understanding that being can never be explained by entities but is already that which is okay well that's not trivial.
+
+566
+00:53:07,200 --> 00:53:08,559
+I'm glad I asked you to reread it.
+
+567
+00:53:08,559 --> 00:53:11,039
+No, that's just good basic Heidegger.
+
+568
+00:53:11,039 --> 00:53:16,880
+The disclosing of anything depends on us and that's okay.
+
+569
+00:53:16,880 --> 00:53:25,919
+And it's only idealism if it becomes empirical idealism or psychological idealism where you try to understand it in terms of our mental state.
+
+570
+00:53:27,200 --> 00:53:41,280
+And it's it's it's not just our being, our understand the way that things need become intellig intelligible that depend on us, but this but it's the what what which he's rejecting here is the stronger claim that it it's the strong form of concrete idealism.
+
+571
+00:53:41,280 --> 00:53:42,360
+It all faces.
+
+572
+00:53:41,919 --> 00:53:44,399
+Yeah, that's that's definitely not.
+
+573
+00:53:44,360 --> 00:53:59,320
+So now let me do before but having had a simpler, even sort of just asking the question, what is there about time and nature, natural time and world time that would still be there if we were around?
+
+574
+00:53:59,320 --> 00:54:05,160
+I mean, not we as mental machinery or psychological take, but if Dasein were around.
+
+575
+00:54:05,160 --> 00:54:16,840
+I mean what what he's trying to figure out or what we are trying, I'm trying to figure out, is what sort of temporality would would go away if there were no Dasein.
+
+576
+00:54:16,840 --> 00:54:23,800
+We know publicness, significance, badness, datability all goes away if there's no Dasein.
+
+577
+00:54:23,959 --> 00:54:40,840
+But the question is, is there any other kind of temporality, and that's this universe kind or natural kind or something, which doesn't go away and in fact is necessary for you to even have the kind of world time you do.
+
+578
+00:54:40,840 --> 00:54:43,640
+That's the realism version.
+
+579
+00:54:44,280 --> 00:54:48,600
+But that's just I'm just trying to say that's the what you have to keep in mind.
+
+580
+00:54:48,599 --> 00:55:18,680
+Heidegger's Heidegger is trying to say, I guess, well, I mean, no, I'm so confused because I'm not, it looks as if Heidegger wants to say, Heidegger, that he is a temporal idealist in that he thinks not only does world time he thinks the world time is totally explainable in terms of Dasein's self and activity.
+
+581
+00:55:20,360 --> 00:55:24,919
+If that's what Heidegger is trying to do, then I think Bill is right.
+
+582
+00:55:24,919 --> 00:55:33,280
+He fails to do it because, again, there's a kind of constraint on how to organize our practices, which doesn't come from art.
+
+583
+00:55:33,280 --> 00:55:42,559
+But I'm not sure that Heidegger is trying to, and if he did, if that's what Heidegger is doing, then Heidegger's trying to be a temporal idealist and failing.
+
+584
+00:55:43,280 --> 00:55:49,599
+I don't guess I'm confused about this thing.
+
+585
+00:55:49,599 --> 00:55:51,919
+Is Heidegger trying to do that?
+
+586
+00:55:52,320 --> 00:56:02,640
+To derive without residue the way world time works from some temporality?
+
+587
+00:56:03,919 --> 00:56:05,600
+You think so, I believe.
+
+588
+00:56:05,599 --> 00:56:07,760
+Originary and primordial.
+
+589
+00:56:07,760 --> 00:56:08,880
+Okay, well, how's this?
+
+590
+00:56:08,880 --> 00:56:11,120
+I mean, that's a fair question.
+
+591
+00:56:11,519 --> 00:56:26,720
+Well, the way I think about it is: well, it's primordial and originality of all the sort of temporality that we experience in the world, namely those four characteristics and what happens when there's some kind of clock and how we measure it by the clock.
+
+592
+00:56:26,720 --> 00:56:32,079
+He's got a story about how he wants a story.
+
+593
+00:56:32,399 --> 00:56:35,439
+Let's stay neutral with Bill as to whether it works or not.
+
+594
+00:56:35,439 --> 00:56:43,919
+He wants a story, I agree with you, about how all of that is intelligible on the basis of the being that takes a stand on its being.
+
+595
+00:56:43,919 --> 00:56:47,120
+That's certainly his project.
+
+596
+00:56:47,119 --> 00:56:59,199
+But without the other half of my oh, yeah, but I don't know whether we have to think that it's that for it to be primordial, it has to be accounting for nature and a constraint on that other thing.
+
+597
+00:56:59,200 --> 00:57:07,199
+Why couldn't it just be primordial of the kind of time that we understand and isn't which we live in and is intelligible to us?
+
+598
+00:57:07,200 --> 00:57:10,559
+It's based for how it understands that.
+
+599
+00:57:10,880 --> 00:57:12,760
+Nobody has understood that.
+
+600
+00:57:12,999 --> 00:57:14,399
+Even Aristotle.
+
+601
+00:57:14,720 --> 00:57:27,640
+But do you have to make it so primordial that it gobbles up nature time and all constraints on organizing our practices to make Heidegger's project is that Heidegger's project?
+
+602
+00:57:27,640 --> 00:57:46,439
+Or is it only that he's going to explain all of world time and all derivative, primitive versions of worldhuman thought time, all in terms of either power or in terms of our taking a stand on being you look?
+
+603
+00:57:46,439 --> 00:57:48,759
+Yes, but that's a different point, isn't it?
+
+604
+00:57:48,760 --> 00:57:51,399
+One, what is he trying to do?
+
+605
+00:57:51,399 --> 00:57:53,480
+Well, I think, I see.
+
+606
+00:57:56,039 --> 00:57:59,160
+He's trying to explain all the world time.
+
+607
+00:57:59,160 --> 00:58:04,360
+That would be what it was to do a primordial, define primordial temporality.
+
+608
+00:58:04,360 --> 00:58:09,240
+And he was therefore now.
+
+609
+00:58:09,240 --> 00:58:15,560
+So, and if he's trying to do it, then he failed.
+
+610
+00:58:16,200 --> 00:58:18,519
+But now I keep flipping back and forth.
+
+611
+00:58:18,519 --> 00:58:27,320
+And I'm going to read you a passage in a minute where you can see that I think Heidegger flips back and forth, but let me try to tell you this.
+
+612
+00:58:28,280 --> 00:58:49,399
+If he thought that he could explain all forms of time, including natural time, in terms of temporality, he'd be a kind of strong temporal idealist, grounding it all in Dasein.
+
+613
+00:58:49,559 --> 00:58:53,480
+I think Bill thinks that's what he's trying to do.
+
+614
+00:58:53,479 --> 00:58:55,000
+I want to say no.
+
+615
+00:58:54,999 --> 00:58:58,679
+Well, all he wants is to ground world time in Dasein.
+
+616
+00:58:58,680 --> 00:59:04,080
+But he can't even do that unless he buys into this constraint, which is natural time.
+
+617
+00:59:04,399 --> 00:59:22,000
+And then he can have his world time, but he can't have and he can still have his kind of primordiality, namely all the aspects of world time, a certain bunch of aspects of world time are all going to be dependent on there being Daseine.
+
+618
+00:59:21,999 --> 00:59:32,960
+But there's going to be this fundamental, general successiveness that is involved in all this world time that he can't explain.
+
+619
+00:59:32,959 --> 00:59:34,960
+But what's the bottom line?
+
+620
+00:59:34,959 --> 00:59:45,599
+That therefore he can't be a strong kind of temporal idealist, but he could be a kind of, I don't want to call him an idealist.
+
+621
+00:59:46,079 --> 00:59:55,280
+He's going to be, there's no word for it, a phenomenological analysis of temporality in which he does what he does, stick to the phenomenon.
+
+622
+00:59:55,280 --> 00:59:58,880
+And he doesn't want to be called either an idealist or a realist.
+
+623
+00:59:59,119 --> 01:00:01,040
+Jamie is very strong on that.
+
+624
+01:00:01,119 --> 01:00:08,639
+That is, he's not going to claim to be doing metaphysical idealism and get everything out of Dasein.
+
+625
+01:00:08,959 --> 01:00:23,999
+And he isn't going to claim to be doing a kind of metaphysical realism in which he's going to give you, he's coming closer, but to give you a story about what there is that's, yeah, I think he, no, I take it that.
+
+626
+01:00:23,999 --> 01:00:31,439
+He's not going to be doing, if Jimmy and I have been having this discussion for the last semester, I really want to make him a metaphysical realist.
+
+627
+01:00:31,439 --> 01:00:40,960
+But Jimmy kind of rightly says that Heidegger never is not sure that that's what he is or wants to be.
+
+628
+01:00:40,959 --> 01:00:44,439
+Using a sentence that I found, it's my this miracle sentence.
+
+629
+01:00:44,439 --> 01:00:45,279
+Can you quote it?
+
+630
+01:00:45,519 --> 01:00:50,199
+There's a place, I was coming to this, where well, let me get there step by step.
+
+631
+01:00:46,800 --> 01:00:51,800
+You must know the sentence I mean.
+
+632
+01:00:52,119 --> 01:00:55,320
+Okay, let me, I know how to set up that sentence.
+
+633
+01:00:55,320 --> 01:00:57,880
+But before we do, somebody else had a hand up.
+
+634
+01:00:57,880 --> 01:00:58,439
+Yeah.
+
+635
+01:00:58,760 --> 01:01:01,000
+Well, that's interesting, very interesting.
+
+636
+01:01:00,999 --> 01:01:02,600
+Who knows when you think about it?
+
+637
+01:01:02,599 --> 01:01:05,880
+Yes, he does say that primordial temporality is finite, right?
+
+638
+01:01:05,880 --> 01:01:13,639
+It's got the thrown unto death structure built into temporality.
+
+639
+01:01:14,280 --> 01:01:24,359
+And now, and he says that it's a kind of some deep cover-up and misunderstanding and fleeing to claim that time is infinite.
+
+640
+01:01:24,360 --> 01:01:27,399
+He doesn't, who thinks that, you wrote about that, didn't you?
+
+641
+01:01:27,959 --> 01:01:29,479
+Okay, and he does hold it.
+
+642
+01:01:30,119 --> 01:01:36,679
+Now, who isn't so weird, I don't think, as to think that he's proved that nature time is finite.
+
+643
+01:01:36,680 --> 01:01:37,639
+So, what does he think?
+
+644
+01:01:37,640 --> 01:01:38,840
+What does he think about nature?
+
+645
+01:01:39,079 --> 01:01:43,479
+It's infinite or might be infinite, or I think he better.
+
+646
+01:01:44,280 --> 01:01:48,919
+You're just helping me set up the fact that there's, when you get to the bottom line, he doesn't know what to think.
+
+647
+01:01:48,919 --> 01:01:51,079
+That's the amazing, amazing fact.
+
+648
+01:01:51,079 --> 01:02:01,479
+On 254, you get it first said by about Aristotle, and then you think, well, he's setting it up to answer these seemingly rhetorical questions.
+
+649
+01:02:01,479 --> 01:02:07,880
+But when you wait to see what his answer to these historical questions are, it turns out he says, I don't really know.
+
+650
+01:02:07,880 --> 01:02:09,079
+But let's get to that.
+
+651
+01:02:09,079 --> 01:02:12,120
+First, the middle of 254.
+
+652
+01:02:13,880 --> 01:02:17,519
+In the middle of that paragraph where the little number 47 is.
+
+653
+01:02:17,519 --> 01:02:19,159
+Time is what is counted.
+
+654
+01:02:19,119 --> 01:02:21,800
+If there is no soul, then there is no counting.
+
+655
+01:02:21,800 --> 01:02:22,919
+Nothing that counts.
+
+656
+01:02:22,919 --> 01:02:27,799
+And if there is nothing that counts, then there is nothing countable and nothing counted.
+
+657
+01:02:28,439 --> 01:02:31,240
+If there is no soul, then there is no time.
+
+658
+01:02:31,360 --> 01:02:56,959
+Aristotle poses this as a question, and at the same time stresses the other possibility, whether time perhaps is in itself in what it is, just a motion, sorry, is in itself in what it is, just as a motion, I'll have to try again, whether time perhaps is in itself in what it is, just as a motion can also exist without a soul.
+
+659
+01:02:56,959 --> 01:03:01,120
+I mean, that is, time just is what it is and doesn't depend on us.
+
+660
+01:03:01,439 --> 01:03:04,000
+Aristotle considers that.
+
+661
+01:03:03,999 --> 01:03:05,919
+He asks that question.
+
+662
+01:03:05,919 --> 01:03:19,280
+But he emphasizes that before and after, with the constitutive determinant, with a constitutive determination of time is in motion, and time itself is, what is that word?
+
+663
+01:03:19,280 --> 01:03:20,479
+What is counted, right?
+
+664
+01:03:20,479 --> 01:03:22,720
+Time itself is what is counted.
+
+665
+01:03:22,720 --> 01:03:25,600
+The before and after counted.
+
+666
+01:03:26,880 --> 01:03:29,519
+Aristotle is getting very confused or worried about this.
+
+667
+01:03:29,519 --> 01:03:32,159
+To be counted obviously belongs to the nature of time.
+
+668
+01:03:32,160 --> 01:03:34,880
+So if there is no counting, there is no time.
+
+669
+01:03:34,880 --> 01:03:36,399
+Or the converse.
+
+670
+01:03:36,399 --> 01:03:38,800
+Aristotle doesn't pursue this question any further.
+
+671
+01:03:38,800 --> 01:03:43,760
+He merely touches on it, which leads to the question, how time itself exists.
+
+672
+01:03:43,760 --> 01:03:52,800
+We see by the interpretation of being in time, the time is the embracing of that in which natural events occur, is, as it were, more objective.
+
+673
+01:03:52,800 --> 01:03:59,519
+And on the other hand, we also see that it exists only if the soul exists and so forth.
+
+674
+01:03:59,519 --> 01:04:01,439
+And it looks like he just doesn't.
+
+675
+01:04:01,439 --> 01:04:03,279
+He's saying, yeah, Aristotle's right.
+
+676
+01:04:03,280 --> 01:04:04,800
+This is very puzzling.
+
+677
+01:04:04,800 --> 01:04:11,039
+It looks like the time must depend on us because we're the ones who count, and even the notion of counting depends on us.
+
+678
+01:04:11,039 --> 01:04:15,040
+It's unintelligible by bringing us in.
+
+679
+01:04:15,039 --> 01:04:23,880
+And if if time is what's counted, and it's unintelligible to have counting or countableness without us, then time, all time, depends on us.
+
+680
+01:04:23,880 --> 01:04:30,600
+And yet, he wants to say, well, it looks like maybe the before and after doesn't depend on us.
+
+681
+01:04:32,840 --> 01:04:35,399
+He doesn't say that Aristotle takes one side or the other.
+
+682
+01:04:35,399 --> 01:04:39,399
+He says Aristotle just raises these questions.
+
+683
+01:04:39,399 --> 01:04:43,320
+So then you ask yourself, well, which side is Heidegger on finding?
+
+684
+01:04:43,640 --> 01:04:51,080
+Is he a metaphysical realist who says the time, some aspect of time doesn't depend on us?
+
+685
+01:04:51,079 --> 01:05:06,599
+Or is he a Dasein idealist who says that finally all intelligibility and all temporality, all the intelligibility of temporality and even all the temporality depends on us?
+
+686
+01:05:06,599 --> 01:05:08,439
+That's the idealism one.
+
+687
+01:05:08,599 --> 01:05:11,719
+And can you quote that sentence exactly that's in your thesis?
+
+688
+01:05:12,280 --> 01:05:16,679
+Nigga do I'm something like, I've been trying to figure out, I'll try, do you help me?
+
+689
+01:05:16,680 --> 01:05:27,480
+I've been trying to figure out whether temporality is an ontological metaphysical, has an ontological metaphysical significance.
+
+690
+01:05:28,200 --> 01:05:34,919
+I take that to mean whether it has, whether you could be, whether it makes one a metaphysical idealist or a metaphysical realist.
+
+691
+01:05:34,919 --> 01:05:38,760
+And then he says, man, I am unable to decide.
+
+692
+01:05:38,999 --> 01:05:39,880
+What year is that?
+
+693
+01:05:39,880 --> 01:05:41,639
+It's 35 about, isn't it?
+
+694
+01:05:42,599 --> 01:05:45,960
+So it's pretty amazing, 30 maybe.
+
+695
+01:05:45,959 --> 01:05:47,320
+That after this.
+
+696
+01:05:47,320 --> 01:06:06,320
+Yeah, so it's amazing that, but sort of gratifying that is we're beating our heads against the wall trying to figure out, one, what Heidegger believes, and two, what's right about this issue of to what what the issue to what extent time depends on us as quad Dasein.
+
+697
+01:06:07,280 --> 01:06:12,080
+For what aspects of time depend on us quad Dasein and what aspects don't.
+
+698
+01:06:12,079 --> 01:06:21,840
+While we're trying to figure out one what Heidegger thinks about it and what's true about it, it's clear that Heidegger hasn't got settled thought about it.
+
+699
+01:06:21,840 --> 01:06:24,159
+He doesn't know what's true about it.
+
+700
+01:06:24,559 --> 01:06:25,439
+We don't either.
+
+701
+01:06:25,680 --> 01:06:27,039
+Tyler, I wish you would help us.
+
+702
+01:06:27,039 --> 01:06:28,559
+You've got more thoughts on this than anybody.
+
+703
+01:06:28,559 --> 01:06:28,800
+Yeah.
+
+704
+01:06:29,039 --> 01:06:29,760
+Take a stand?
+
+705
+01:06:29,760 --> 01:06:31,280
+Oh, let's look.
+
+706
+01:06:31,280 --> 01:06:32,159
+Let's, where is it?
+
+707
+01:06:32,160 --> 01:06:33,280
+Let's read it.
+
+708
+01:06:33,280 --> 01:06:35,840
+Yeah, there's an italics here about the how.
+
+709
+01:06:36,160 --> 01:06:38,639
+Oh, way down in the middle of the page in 255.
+
+710
+01:06:38,640 --> 01:06:39,200
+Okay.
+
+711
+01:06:43,200 --> 01:06:44,480
+Oh, but we knew that.
+
+712
+01:06:44,479 --> 01:06:46,399
+Isn't that sort of obvious?
+
+713
+01:06:46,399 --> 01:06:47,759
+That, I mean, that's fine.
+
+714
+01:06:47,760 --> 01:06:50,399
+I mean, that's what that's nobody did.
+
+715
+01:06:50,399 --> 01:06:52,079
+I let me gloss that.
+
+716
+01:06:52,079 --> 01:07:03,119
+That is, nobody c doubts that world time, that's the phenomenon of time, is interconnected with the concept of world and with the structure of Dasein.
+
+717
+01:07:03,599 --> 01:07:07,519
+Isn't that just a statement about experience again?
+
+718
+01:07:07,680 --> 01:07:08,639
+I see, what is that?
+
+719
+01:07:08,640 --> 01:07:13,200
+Taken in a more original, cool, we see that in fact the phenomenon of time.
+
+720
+01:07:13,519 --> 01:07:16,719
+Well, isn't that, I mean, what what did Aristotle miss?
+
+721
+01:07:16,720 --> 01:07:48,439
+I haven't read the intervening sentences, but given what he says on about on 254, I would have thought that the the phenomenon of time in the more original sense, namely the world time, is or time in a more original sense, what more original than Aristotle saw, because it the the whole intelligibility of the temporal structure of experience in the world is that more original.
+
+722
+01:07:48,680 --> 01:08:08,600
+That's and that's what's going to be then he's going to go into the whole story about the the clock, but but not just the clocks, but about the structure of significance, datability, spannedness, and publicness, and the story about and all of that is what Aristotle supposedly meant.
+
+723
+01:08:08,919 --> 01:08:14,279
+I don't think that sentence in italics settles the things that shows that Heidegger has discovered.
+
+724
+01:08:14,760 --> 01:08:27,239
+You want to read that, that not only that this more original time is temporality, and moreover, it explains everything.
+
+725
+01:08:27,560 --> 01:08:55,319
+So let me, given that the Dasein exists, is in a world, everything extants, that the Dasein encounters is necessarily intra-worldly, contained by world, but we'll see that in fact the phenomenon of time takes in a more original, taking is interconnected with the concept of world and this was well this is tied up with who was saying yes, this is tied up with the whole notion of world and and disclosure and being.
+
+726
+01:08:55,880 --> 01:09:11,959
+If it weren't for the fact that you can get outside of the world, according to being in time, when you do the big split over, this would be really a strong idealist claim.
+
+727
+01:09:11,959 --> 01:09:20,039
+But is he going to say that time in a l in an original sense is interconnected with the concept of world?
+
+728
+01:09:20,039 --> 01:09:20,919
+That's true.
+
+729
+01:09:20,919 --> 01:09:22,840
+I mean, we're not going to get rid of that.
+
+730
+01:09:22,840 --> 01:09:38,079
+Time and the non-successive structure of Dasein, that's the most original sense, is supposed to allow us to deduce the temporal structure of the world.
+
+731
+01:09:38,959 --> 01:09:42,319
+That's what we all think Heidegger is trying to do.
+
+732
+01:09:42,959 --> 01:09:47,519
+Whether, see, I wasn't clear about this before because I have too many things on my mind.
+
+733
+01:09:47,760 --> 01:09:54,720
+And Bill says that's what he's trying to do, and he's trying to do it without, this is something came out of a discussion with Eugene.
+
+734
+01:09:54,720 --> 01:09:59,519
+And that's what he's trying to do, and he's trying to do it for everything, including even nature time.
+
+735
+01:09:59,520 --> 01:10:07,199
+But you could say, well, what he's trying to do is to find this originary sense of time, namely we are time.
+
+736
+01:10:07,520 --> 01:10:10,720
+He's going to find this temporality.
+
+737
+01:10:10,720 --> 01:10:16,559
+And he's going to show that everything that has to do with the world is tied up with it.
+
+738
+01:10:16,560 --> 01:10:33,599
+And that might seem to be total, except that we know that he thinks that the universe and the world are two different things, and that we can get out of the world into the universe if we do the kind of switchover that pure theory gives us.
+
+739
+01:10:33,600 --> 01:10:41,359
+So we shouldn't conclude from this italics, the strong Bill Blattner idealism, that even nature time is unintelligible.
+
+740
+01:10:41,359 --> 01:10:43,039
+I mean, let me just say one more sentence.
+
+741
+01:10:43,279 --> 01:10:53,439
+If this access story makes sense, if Aristotle is trying to do access theory, and it might even be intelligible.
+
+742
+01:10:53,440 --> 01:11:04,479
+I mean, why couldn't it be the case that nature time is a kind of pure before and after of some sort, the time-free movements of nature and so forth?
+
+743
+01:11:04,720 --> 01:11:14,720
+Moreover, we can gain access to that by going through the whole of world time and leaving it behind, so to speak.
+
+744
+01:11:14,840 --> 01:11:23,079
+We will we will be able to have access to that kind of whatever kind of pure time physics finally tells us is up there.
+
+745
+01:11:23,880 --> 01:11:42,359
+That's what remember that's what's on page four hundred and fourteen of Being in Time, I think it's four fourteen, where he says the he does the existential derivation of science and he says theory and science allow us to get totally deworlded.
+
+746
+01:11:42,359 --> 01:11:45,479
+That's the language of basic problems.
+
+747
+01:11:45,480 --> 01:11:52,840
+And when we're totally deworlded, then construct a theory, a cosmology, which tells us about the world.
+
+748
+01:11:55,319 --> 01:11:59,800
+If we've been able to do that, it would be access practices, not constitutive practices.
+
+749
+01:11:59,800 --> 01:12:03,479
+I mean, I'm giving you my reading of Heidegger and and Tyler's.
+
+750
+01:12:03,480 --> 01:12:05,800
+You you're looking at are you you're agreeing with me on it?
+
+751
+01:12:11,640 --> 01:12:16,199
+Yeah, but he says explicitly in here, by the way, wait just say but I don't want everybody to be confused.
+
+752
+01:12:16,199 --> 01:12:18,199
+He says there is no nature time.
+
+753
+01:12:18,199 --> 01:12:22,919
+And that's like saying there is no temporality in uh in nature.
+
+754
+01:12:23,239 --> 01:12:24,520
+He doesn't worry much about it.
+
+755
+01:12:24,520 --> 01:12:25,079
+That's right.
+
+756
+01:12:25,079 --> 01:12:30,600
+He says, well surely nature time, whatever it is, isn't temporality, and that's about that's all he has to show.
+
+757
+01:12:34,199 --> 01:12:40,359
+Like the what what do you mean less present at hand when you when you behind the hammer, when you when the hammer breaks.
+
+758
+01:12:40,359 --> 01:12:40,999
+Yep.
+
+759
+01:12:40,999 --> 01:12:41,640
+Yep.
+
+760
+01:12:41,959 --> 01:12:42,760
+Yep.
+
+761
+01:12:43,079 --> 01:12:43,880
+I like that.
+
+762
+01:12:43,880 --> 01:12:46,039
+Yeah, yeah, we're back to that kind of movement.
+
+763
+01:12:49,239 --> 01:12:50,119
+I'm happy with that.
+
+764
+01:12:50,119 --> 01:12:51,239
+I'm not pressing him for more.
+
+765
+01:12:54,680 --> 01:13:10,639
+Yeah, well I mean I wait, what do you say this quote that you probably may or may not remember from way back last semester, that the real the reality depends on us and not the real.
+
+766
+01:13:10,640 --> 01:13:12,880
+Being depends on us but not being.
+
+767
+01:13:13,199 --> 01:13:15,519
+Why not movement depends on us?
+
+768
+01:13:15,520 --> 01:13:16,959
+Uh wait, is that right?
+
+769
+01:13:16,959 --> 01:13:17,279
+I don't know.
+
+770
+01:13:17,279 --> 01:13:24,880
+That's what uh wait yes I was going to say something depends on us, we don't know how to describe it, but movement.
+
+771
+01:13:26,720 --> 01:13:29,439
+Something constrains us.
+
+772
+01:13:29,440 --> 01:13:32,720
+We don't know much what to say about it.
+
+773
+01:13:32,720 --> 01:13:34,959
+But what am I trying to say?
+
+774
+01:13:34,959 --> 01:13:35,439
+I don't know.
+
+775
+01:13:35,760 --> 01:13:38,959
+Movement, movement does d doesn't depend.
+
+776
+01:13:39,199 --> 01:13:43,840
+How do you describe what does depend on us when it's it we don't know.
+
+777
+01:13:44,079 --> 01:13:45,359
+That's is that right?
+
+778
+01:13:45,359 --> 01:13:46,319
+But okay.
+
+779
+01:13:49,520 --> 01:13:59,679
+I I like everything you say, except do we have passages which make it clear that he thinks that movement doesn't depend on us, that the before and after kind of movement is right.
+
+780
+01:14:01,279 --> 01:14:05,279
+Well I think that's that's that's what he could think.
+
+781
+01:14:06,079 --> 01:14:07,919
+Maybe that's what he does think.
+
+782
+01:14:07,919 --> 01:14:35,680
+He never I mean just to add another element in this when I think about Blattner, I always want to say to Plattner, look if you think that Heidegger was trying to just to derive the fact that our ordered in the right way so that the causality and the in the sequentiality of activity is preserved, if Heidegger's trying to show that, he certainly isn't very clear that he's trying to show that, and he certainly hasn't got any argument.
+
+783
+01:14:35,680 --> 01:14:40,319
+Blattner's got one pathetic paragraph where he says Heidegger's trying to show that.
+
+784
+01:14:40,319 --> 01:14:46,079
+And the simplest answer, if you're on my side, is, well, Heidegger wasn't trying to show that.
+
+785
+01:14:46,079 --> 01:15:03,239
+Heidegger's trying to show how world time depends on us, and it doesn't bother him that spandedness and datability have in them some kind of obsession constraint that don't depend on us.
+
+786
+01:15:03,800 --> 01:15:04,279
+Why not?
+
+787
+01:15:04,279 --> 01:15:05,880
+Oh, now Eugene is looking unhappy.
+
+788
+01:15:07,480 --> 01:15:08,199
+Did I say that?
+
+789
+01:15:08,600 --> 01:15:09,239
+I misspoke.
+
+790
+01:15:09,239 --> 01:15:10,039
+I didn't want to say that.
+
+791
+01:15:10,039 --> 01:15:14,599
+I want to say world time and I see yes, I misspoke.
+
+792
+01:15:14,600 --> 01:15:20,279
+Yes, spandedness both depends on us and on nature, is what I should have said.
+
+793
+01:15:20,279 --> 01:15:26,119
+There are these things that there wouldn't be any spandedness and there wouldn't be any datability without us.
+
+794
+01:15:26,119 --> 01:15:28,039
+In that sense, it depends on us.
+
+795
+01:15:28,039 --> 01:15:31,479
+But I didn't mean depends exclusively on us.
+
+796
+01:15:31,480 --> 01:15:38,439
+I meant that we, so to speak, lay it on to something else, and that something else doesn't depend on us.
+
+797
+01:15:38,440 --> 01:15:41,639
+That's what I think he thinks, or should think, or whatever.
+
+798
+01:15:42,039 --> 01:15:44,520
+I'd like to say part of the meaning of movie.
+
+799
+01:15:44,680 --> 01:15:45,560
+Whoa, no, I don't.
+
+800
+01:15:46,600 --> 01:15:47,399
+That's nice.
+
+801
+01:15:47,720 --> 01:15:49,560
+That doesn't make it very intelligible.
+
+802
+01:15:49,800 --> 01:15:52,039
+I mean, it's a funny kind of meaning.
+
+803
+01:15:52,760 --> 01:15:56,199
+It's, yeah, I see why you say that.
+
+804
+01:15:56,199 --> 01:16:03,959
+But usually, meaning is that in terms of which, or we don't know what terms to even use.
+
+805
+01:16:07,959 --> 01:16:23,319
+But I am saying it's true that to make our world and our practices, the order or the coordination of our practices intelligible, we've got to bring in nature.
+
+806
+01:16:23,319 --> 01:16:25,800
+And technically speaking, Eugene is right.
+
+807
+01:16:25,840 --> 01:16:41,359
+When you meaning is always that on the basis of which something or other is understood, and in this case, it would be that on the basis of which constraint on the world is understood.
+
+808
+01:16:41,359 --> 01:16:50,079
+Yeah, I guess I do want to say that, except there's something so usually meaning is the most articulated and the most intelligible and the most unified.
+
+809
+01:16:50,079 --> 01:17:04,159
+Here, and this is what's giving us all our problems, this, quote, meaning is something that's not our, we can't articulate it, it's even literally unintelligible to us when he talks about it and so forth.
+
+810
+01:17:04,159 --> 01:17:07,199
+So it's a very strange meaning.
+
+811
+01:17:07,600 --> 01:17:08,479
+You see what I mean?
+
+812
+01:17:08,480 --> 01:17:10,959
+It does the abstract function of meaning.
+
+813
+01:17:10,959 --> 01:17:21,599
+It's necessary to understand worldhood, but it doesn't have the characteristic of meaning you'd expect, namely, this is like a review.
+
+814
+01:17:21,600 --> 01:17:32,399
+When you give the meaning of care, boy, you give an articulated story which adds to our understanding of care, maps it on temporality, shows why it's at unity.
+
+815
+01:17:32,640 --> 01:17:33,840
+Big deal.
+
+816
+01:17:34,400 --> 01:17:44,480
+But here, meaning is just a very formal something or other that you have to bring in in order to understand something or other.
+
+817
+01:17:46,560 --> 01:17:53,760
+Well, I'd rather say that it's the meaning and just say that it's a very we we have very little access to that meaning.
+
+818
+01:17:53,760 --> 01:17:57,999
+We don't, given our way of dealing with things, we can't make it intelligible.
+
+819
+01:17:57,999 --> 01:17:59,599
+We don't get its unity.
+
+820
+01:17:59,600 --> 01:18:03,439
+We don't understand what a now would be out there if there was a now.
+
+821
+01:18:03,440 --> 01:18:04,079
+Yes.
+
+822
+01:18:04,400 --> 01:18:05,439
+You want to say something?
+
+823
+01:18:07,279 --> 01:18:07,680
+It's true.
+
+824
+01:18:09,680 --> 01:18:11,039
+You're saying something interesting.
+
+825
+01:18:11,039 --> 01:18:15,760
+I mean, you we tend, you just when you're inside Heidegger to be so inside Heidegger.
+
+826
+01:18:15,760 --> 01:18:20,519
+I mean the the idea that that he will he doesn't just want to assert that we depend on nature.
+
+827
+01:18:20,520 --> 01:18:22,439
+I don't think anybody doubts that.
+
+828
+01:18:22,440 --> 01:18:27,720
+He doesn't take Heidegger to come along and say that we've got bodies and that they're of our nature.
+
+829
+01:18:27,959 --> 01:18:44,919
+He wants to explain what aspects of our experience depend on us being self-interpreting beings and what aspects of our experience, if any, and that's what we're don't depend on us being self-interpreting.
+
+830
+01:18:44,919 --> 01:18:51,640
+And it isn't illuminating at that level of asking to say, yeah, well, of course we've got bodies.
+
+831
+01:18:52,039 --> 01:18:56,439
+It's like Boswell kicking a stone to refute Hume, it seems to me sort of.
+
+832
+01:18:56,840 --> 01:19:04,199
+I mean, Heidegger's not asking a common sense question and it won't do to give him a common sense answer.
+
+833
+01:19:04,199 --> 01:19:15,880
+Although, I'm not disagreeing with you completely because the fact that bodies have been ruled out of the discussion in being in time does seem a bit like it might have bad effects on the way the argument works.
+
+834
+01:19:17,239 --> 01:19:19,800
+Okay, but you think so?
+
+835
+01:19:20,520 --> 01:19:21,399
+I don't know.
+
+836
+01:19:21,400 --> 01:19:22,199
+Maybe, yeah.
+
+837
+01:19:25,800 --> 01:19:26,439
+Heidegger.
+
+838
+01:19:27,159 --> 01:19:28,760
+Ah, that's what you're leading up to.
+
+839
+01:19:28,760 --> 01:19:29,560
+Aha.
+
+840
+01:19:29,560 --> 01:19:31,880
+Temporality is the meaning of care.
+
+841
+01:19:31,880 --> 01:19:34,999
+The meaning, not part of the meaning of care.
+
+842
+01:19:36,359 --> 01:19:38,840
+It doesn't bother me, but maybe I have to.
+
+843
+01:19:39,800 --> 01:19:41,959
+No, no, I mean, it doesn't even seem a problem.
+
+844
+01:19:41,959 --> 01:19:42,840
+I must be missing it.
+
+845
+01:19:42,840 --> 01:19:46,999
+Let me just say, I mean, temporality is the meaning of care.
+
+846
+01:19:46,999 --> 01:19:56,039
+Meaning, that that tells us that it explains why it's a threefold structure, what are the threefolds in the structure, how they are unified.
+
+847
+01:19:56,039 --> 01:19:57,479
+It does all that.
+
+848
+01:19:58,199 --> 01:20:02,880
+But that doesn't mean that there isn't more to be done, that it doesn't do.
+
+849
+01:20:03,199 --> 01:20:10,399
+Is it to be the meaning of something, does that have to say, tells us everything that we need to know about?
+
+850
+01:20:10,800 --> 01:20:15,840
+Make it exhaustively intelligible or just, okay, makes it possible.
+
+851
+01:20:15,840 --> 01:20:18,479
+Okay, well, it it is what makes care possible.
+
+852
+01:20:18,480 --> 01:20:19,279
+But it's funny.
+
+853
+01:20:19,440 --> 01:20:24,479
+Well, this is all, you know, I hope we haven't lost you all, but I d I think you can follow this.
+
+854
+01:20:24,480 --> 01:20:34,319
+I mean, it's interesting because, yes, it it has to make care intelligible and possible.
+
+855
+01:20:34,319 --> 01:20:52,959
+It's the most basic thing, which is just to say that being is the being that takes a stand on its being, when it's all laid out, explains everything about the care structure and so forth, including the temporality of the care structure and the temporality of the world.
+
+856
+01:20:52,959 --> 01:20:55,519
+That's all true.
+
+857
+01:20:55,520 --> 01:20:56,880
+Now, but let's go through this again.
+
+858
+01:20:57,119 --> 01:21:01,119
+Because you said something that struck me, but I don't remember now.
+
+859
+01:21:01,119 --> 01:21:07,119
+I said, but why couldn't that just be a lot of necessary conditions, but not all, but there could be other conditions.
+
+860
+01:21:07,359 --> 01:21:14,639
+And you said, in effect, that it wouldn't count as the meaning of X unless it explained everything there was to understand about X.
+
+861
+01:21:14,640 --> 01:21:15,359
+Is that right?
+
+862
+01:21:15,919 --> 01:21:17,919
+That would be the meaning of what?
+
+863
+01:21:17,919 --> 01:21:19,599
+Everything, us, the world.
+
+864
+01:21:20,239 --> 01:21:20,880
+Okay.
+
+865
+01:21:21,199 --> 01:21:27,359
+Because, well, I'm just not sure how meaning one of the weasliest notions in being in time.
+
+866
+01:21:27,680 --> 01:21:33,760
+Meaning, certainly it has to explain the unity of it and the structure.
+
+867
+01:21:33,760 --> 01:21:39,119
+How that structure makes possible a world.
+
+868
+01:21:39,440 --> 01:21:44,559
+And now comes the does it have to explain also the the structure of the world?
+
+869
+01:21:44,440 --> 01:21:48,279
+I it is is it is it the meaning of it's the meaning of care.
+
+870
+01:21:46,400 --> 01:21:50,359
+I suppose it's the meaning of the world.
+
+871
+01:21:50,359 --> 01:21:56,599
+I mean, because that's the issue, is whether all these four characteristics of world are being explained.
+
+872
+01:21:56,600 --> 01:21:59,480
+Could it be the meaning of care and not be the meaning of the world?
+
+873
+01:21:59,480 --> 01:22:01,399
+That's what I'm really committed to.
+
+874
+01:22:01,400 --> 01:22:08,840
+It's telling us about the care everything you need to know about the care component is is if he does it, is in there.
+
+875
+01:22:08,840 --> 01:22:14,840
+And but it's not telling you anything at all about the uh constraint component.
+
+876
+01:22:14,840 --> 01:22:35,559
+But it does that doesn't keep it keep it from making a lot uh but but I see the problem because if it's true that you could only make the world intelligible by bringing in its constraints, which is what you're thinking I'm saying, and I am, then there's a big puzzle because then you I see what you're worried about.
+
+877
+01:22:35,560 --> 01:22:40,919
+Then you haven't really got the meaning of the world because you can't then we're back to the Plattner problem.
+
+878
+01:22:40,919 --> 01:22:50,119
+You can't explain that meaningful structure of the world, which he, Heidegger, lays out without bringing in the constraint.
+
+879
+01:22:50,119 --> 01:23:06,439
+And then you either have to go to idealism and say Heidegger's trying to be an idealist and failed, or go to Dreyfusism and say, Heidegger was never trying to, and now you want to tell me, but then he wasn't trying to find, then temporality wouldn't be the meaning of everything.
+
+880
+01:23:06,760 --> 01:23:12,999
+Well, I mean, the only, well, we could, but we'd have to take back the claim that temporality is the meaning, right?
+
+881
+01:23:13,319 --> 01:23:22,679
+Because it can't explain certain aspects of the world, and unless he can explain the whole intelligible structure of the world, he's failed.
+
+882
+01:23:22,680 --> 01:23:25,079
+That's big, Bill's big insight.
+
+883
+01:23:25,079 --> 01:23:30,279
+And so I want to say, I mean, he'm just trying to get used to what you're saying.
+
+884
+01:23:30,279 --> 01:23:34,239
+Every time you say it, it always strikes me as right, and then I worry about it, lose it again.
+
+885
+01:23:31,640 --> 01:23:37,840
+So I keep wanting to say, yeah, let's fix Heidegger.
+
+886
+01:23:38,079 --> 01:23:40,479
+Let's just put in the constraint.
+
+887
+01:23:40,480 --> 01:23:44,079
+But then Eugene is saying, yeah, but you have to do a lot more than that.
+
+888
+01:23:44,079 --> 01:23:49,599
+You have to put in the whole claim that temporality i explains everything.
+
+889
+01:23:49,600 --> 01:23:54,159
+It's where the explanation bucks stop according to being in time.
+
+890
+01:23:54,159 --> 01:24:02,880
+And if and that's where I end up just saying being in time is wrong in a way that is just like Bill Blattner.
+
+891
+01:24:03,199 --> 01:24:11,279
+That's a funny thing to find myself on the same side as Bill, except, yes, I can't say Heidegger is a realist.
+
+892
+01:24:11,600 --> 01:24:13,599
+I should say he could have been.
+
+893
+01:24:14,319 --> 01:24:17,439
+How come he is unsure, I wonder, what to say?
+
+894
+01:24:17,440 --> 01:24:21,760
+I guess he's unsure about whether temporality is the meaning of everything.
+
+895
+01:24:22,400 --> 01:24:29,119
+That is, whether it can be given a metaphysical, ontological basis where it explains even the galaxies and so forth.
+
+896
+01:24:29,600 --> 01:24:30,159
+Yeah.
+
+897
+01:24:30,959 --> 01:24:33,599
+And, okay.
+
+898
+01:24:33,919 --> 01:24:55,359
+So the bottom line is Bill and I end up, to my surprise, agreeing that Heidegger's project is idealism, namely to explain all intelligible aspects of us and the world and nature too in terms of temporality.
+
+899
+01:24:55,359 --> 01:24:58,639
+That's the big deal claim.
+
+900
+01:24:58,640 --> 01:25:00,720
+And he can't do it.
+
+901
+01:25:01,600 --> 01:25:06,880
+And has Bill put his finger on where he doesn't do, how he can't do it?
+
+902
+01:25:07,199 --> 01:25:08,640
+That surprises me.
+
+903
+01:25:08,640 --> 01:25:10,720
+You think the one part of it, yeah?
+
+904
+01:25:10,959 --> 01:25:19,399
+The part of it, he's put his finger on the part that you can't account for why the practices have to be sequentially ordered just out of temporality.
+
+905
+01:25:16,800 --> 01:25:22,999
+The part of it that he hasn't explained, well, it's the same thing.
+
+906
+01:25:23,159 --> 01:25:29,319
+He has, no, no, maybe there's nothing that's I mean, he should have explained that and he didn't explain that.
+
+907
+01:25:29,319 --> 01:25:30,600
+That's all I need to say.
+
+908
+01:25:30,600 --> 01:25:31,560
+And Bill, is that right?
+
+909
+01:25:31,560 --> 01:25:33,640
+You look like Yeah, well, that's right.
+
+910
+01:25:33,640 --> 01:25:37,559
+Well, explaining that's the same, I stopped because it seemed to be the same thing.
+
+911
+01:25:37,560 --> 01:25:42,359
+That is, he needs to explain why our practices have to be successive.
+
+912
+01:25:42,359 --> 01:25:46,599
+And to do that, he needs both us and nature.
+
+913
+01:25:46,600 --> 01:25:48,119
+And he doesn't want it that way.
+
+914
+01:25:48,119 --> 01:25:51,560
+He wants temporality, namely us, to be the basis of everything.
+
+915
+01:25:51,560 --> 01:25:54,679
+Is that that's what we're that's what Blattner is saying.
+
+916
+01:25:54,680 --> 01:25:57,319
+And I think he's right, that's what Heidegger is doing.
+
+917
+01:25:57,319 --> 01:26:00,840
+And then Blattner and I are saying, well, Heidegger didn't succeed.
+
+918
+01:26:00,840 --> 01:26:01,559
+I see.
+
+919
+01:26:01,560 --> 01:26:07,640
+And then Bill isn't saying anything about, and that's because there is something real out there that's a constraint he has.
+
+920
+01:26:07,640 --> 01:26:09,319
+And I'm saying there's more to the problem.
+
+921
+01:26:09,319 --> 01:26:09,800
+Yeah.
+
+922
+01:26:09,800 --> 01:26:10,439
+That's right.
+
+923
+01:26:10,440 --> 01:26:11,079
+Exactly.
+
+924
+01:26:11,079 --> 01:26:11,479
+Yes.
+
+925
+01:26:11,480 --> 01:26:11,640
+Yeah.
+
+926
+01:26:11,800 --> 01:26:19,319
+And Blattner is right that given Heidegger's ambition, it fails.
+
+927
+01:26:19,319 --> 01:26:22,840
+And I'm sort of happy with what I want to say.
+
+928
+01:26:22,840 --> 01:26:37,559
+Well, let's give up Heidegger's ambition and say this is a brilliant hermeneutic phenomenological existential account of the structure of all of our experience, provided you don't claim that it's all depends on temporality.
+
+929
+01:26:37,560 --> 01:26:38,199
+Okay.
+
+930
+01:26:38,840 --> 01:26:39,639
+Yeah.
+
+931
+01:26:39,959 --> 01:26:40,359
+Yeah.
+
+932
+01:26:40,680 --> 01:26:46,439
+But that was more the semi-evolved on a basis.
+
+933
+01:26:46,760 --> 01:26:50,039
+You would agree that there's a name, something in a real innate way.
+
+934
+01:26:50,039 --> 01:26:50,680
+Yeah, good.
+
+935
+01:26:50,680 --> 01:26:51,640
+Yeah, that's a point.
+
+936
+01:26:51,640 --> 01:27:00,520
+I mean, are you saying that's a problem and why doesn't he I mean, it's such an obvious problem and maybe the body is sort of you put it in under the guise of the hammer.
+
+937
+01:27:00,520 --> 01:27:01,880
+It comes to the same thing.
+
+938
+01:27:02,079 --> 01:27:11,119
+Because there's stuff out there which is so obviously the causal basis of what's going on and of course he's not accounting for that.
+
+939
+01:27:11,119 --> 01:27:17,279
+Why is any issue about what it's just an issue about sort of what it is to have the meaning of something and do the job?
+
+940
+01:27:17,440 --> 01:27:23,760
+Now we have to see if Eugene can help because uh well okay first you you haven't had anything to say recently.
+
+941
+01:27:23,760 --> 01:27:24,239
+Go ahead.
+
+942
+01:27:24,400 --> 01:27:33,680
+Well I I haven't had anything to say very much because I teach from the moment saying this last week, even though I feel particularly prepared to speak you, I feel complainted.
+
+943
+01:27:34,800 --> 01:27:46,480
+I mean if we let this go, and we let go of the sort of vile idea that temporality is the meaning of care, and we reduce Heiger to idealism well we reduce him and refute him.
+
+944
+01:27:46,480 --> 01:27:57,520
+So I feel as though we lose sight of what I at least thought was the most interesting of our style and ethics, and that ground is important towards understanding Dahlia.
+
+945
+01:27:57,680 --> 01:28:01,199
+Dahlphan's interference derived with the world.
+
+946
+01:28:01,199 --> 01:28:08,880
+And that one cannot deworld Dahl, keep defining grounding for Dahlpha and how positive, and thereby understand construction.
+
+947
+01:28:09,119 --> 01:28:11,519
+Deworlding is done on the background of the world.
+
+948
+01:28:11,520 --> 01:28:13,840
+It's not like anxiety, if that's any help.
+
+949
+01:28:13,840 --> 01:28:29,119
+I mean, all these scientific practices in the laboratory and all very significant and meaningful and everything, but you get access to entities whose anstructor doesn't have any relation to these objects.
+
+950
+01:28:29,760 --> 01:28:41,199
+That's that's the kind of realism I'm thinking he has to have if he's going to claim that deworlding gets us sort of science, if he wants to be if he wants to be a realist about it.
+
+951
+01:28:42,319 --> 01:28:46,559
+I think there's some people who are asking about how do we have to access these things.
+
+952
+01:28:46,560 --> 01:28:51,159
+And I wonder if then did being in time really have any point?
+
+953
+01:28:51,159 --> 01:28:55,800
+Did we end up willingly start trying to figure out how we're still asking that question at the end of the day?
+
+954
+01:28:55,959 --> 01:28:57,800
+Well, that that that's not quite fair.
+
+955
+01:28:57,800 --> 01:29:05,239
+I mean uh it's not epistemology because it's not about how minds and subjects get uh access to mind.
+
+956
+01:29:05,239 --> 01:29:07,479
+Maybe it is mind-independent objects.
+
+957
+01:29:07,480 --> 01:29:08,519
+I see what you mean.
+
+958
+01:29:08,520 --> 01:29:10,199
+Okay, touche.
+
+959
+01:29:10,199 --> 01:29:11,479
+Let me think a minute.
+
+960
+01:29:11,480 --> 01:29:25,399
+Uh I think the answer is something like uh it is epistemology, but it's okay epistemology because we're not asking about how the mind and and gets access to chairs.
+
+961
+01:29:25,400 --> 01:29:31,559
+I mean that's that was good old-fashioned Cartesian epistemology, how we could our inner representations.
+
+962
+01:29:31,560 --> 01:29:34,439
+And now we've got a very precise question.
+
+963
+01:29:34,440 --> 01:29:37,319
+How does how do we account for science?
+
+964
+01:29:37,319 --> 01:29:43,880
+How do our practices get us access to the kind of entities that are science studies?
+
+965
+01:29:43,880 --> 01:29:45,319
+That's not epistemology.
+
+966
+01:29:45,319 --> 01:29:48,199
+I don't know what that is, scientific methodology failure or something.
+
+967
+01:29:48,199 --> 01:29:49,640
+Epistemology is gone.
+
+968
+01:29:49,640 --> 01:30:06,039
+I mean that's you can't have I think epistemology depends on believing that it's all the inner content of subjects in Uberhau have to somehow get get in touch with the outer stuff and we're not going to talk about that anymore.
+
+969
+01:30:06,039 --> 01:30:08,279
+So let's put that aside anyway for the moment.
+
+970
+01:30:08,279 --> 01:30:11,800
+I want to follow up by his what's your first name I forget.
+
+971
+01:30:11,800 --> 01:30:12,359
+You.
+
+972
+01:30:12,359 --> 01:30:12,680
+Yeah.
+
+973
+01:30:13,079 --> 01:30:14,599
+Alex question.
+
+974
+01:30:14,600 --> 01:30:15,079
+Okay.
+
+975
+01:30:15,079 --> 01:30:16,519
+I think that's fascinating.
+
+976
+01:30:16,520 --> 01:30:19,239
+I mean and I have to we have to think about it a little bit.
+
+977
+01:30:19,239 --> 01:30:28,119
+Thorley Heidegger, when he says that temporality is the meaning of care, is also fully aware.
+
+978
+01:30:28,119 --> 01:30:45,359
+And if you ask him, but aren't there hammers with causal properties, m metal blobs and stuff, underlying the ready-to-hand, and that present at hand was there all along and somehow is a constraint for sure on the capacities of the equipment.
+
+979
+01:30:45,520 --> 01:30:46,559
+What would he say?
+
+980
+01:30:46,560 --> 01:30:48,720
+I mean, I just want to get the terminology straight.
+
+981
+01:30:48,720 --> 01:30:52,800
+He would have to say that isn't a question of the meaning of anything.
+
+982
+01:30:52,800 --> 01:31:07,279
+That's just some kind of fact about the world, that there are these things, the th the the stuff remember reality depends on us, but the real doesn't for Heidegger.
+
+983
+01:31:07,279 --> 01:31:10,159
+Being depends on us, but beings don't.
+
+984
+01:31:10,159 --> 01:31:19,519
+So the the beings of the ready-to-hand hammers, the causal properties of stuff, doesn't depend on us.
+
+985
+01:31:19,520 --> 01:31:27,119
+And it isn't the job of a uh fundamental ontology, I guess is the name of it.
+
+986
+01:31:27,119 --> 01:31:38,559
+It isn't the job of his fundamental ontology to explain that there is this stuff and how we get access to this stuff.
+
+987
+01:31:38,560 --> 01:31:39,999
+That's is that right?
+
+988
+01:31:39,999 --> 01:31:42,800
+I mean, uh i otherwise he you go ahead.
+
+989
+01:31:42,800 --> 01:31:44,399
+This is an interesting question anyway.
+
+990
+01:31:44,400 --> 01:31:47,439
+The interpretation of of fact.
+
+991
+01:31:48,959 --> 01:31:58,319
+So be by saying the question that is not Now I think I think that's wrong what you're saying, but if let me say it back to you and see if I've understood you.
+
+992
+01:31:58,560 --> 01:32:09,519
+You don't he you can't go and say uh somehow you there's a kind there are some kinds of interpretation which fall outside of fundamental ontology.
+
+993
+01:32:09,520 --> 01:32:15,279
+I think all interpretation is part of what he's interested in.
+
+994
+01:32:15,279 --> 01:32:24,519
+But there are some facts like yeah, is that what you're saying, like like metal is uh doesn't break uh the way ice does.
+
+995
+01:32:24,520 --> 01:32:30,439
+Those kind of facts are not interpretations and are not part of fundamental ontology.
+
+996
+01:32:30,440 --> 01:32:38,999
+And you can he can be a realist about them in in a way that he can't be a realist about uh time.
+
+997
+01:32:38,999 --> 01:33:01,079
+And that's because of with all this discussion with Eugene, that to be a realist about time is part of the project of fundamental ontology, or sorry, getting getting the right story, realist or not, idealist, whatever, getting the getting seeing the time as the ultimate horizon for making everything intelligible, that he's got to do.
+
+998
+01:33:01,079 --> 01:33:06,599
+But that he's got to account for every fact and its causal properties.
+
+999
+01:33:07,239 --> 01:33:09,079
+That's something he doesn't have to do.
+
+1000
+01:33:09,079 --> 01:33:21,800
+So it isn't as if, Heidegger, how could you in Division I know that there were bodies and hammers and not give up your fundamental ontology before you ever even got to Division II?
+
+1001
+01:33:21,800 --> 01:33:24,199
+That's because there's a di it's a different question.
+
+1002
+01:33:26,999 --> 01:33:32,119
+He never told you, never goes into what's why.
+
+1003
+01:33:32,440 --> 01:33:35,239
+Now, now back to that just a second.
+
+1004
+01:33:35,239 --> 01:33:39,880
+Oh, yes, motion that's losing track of too many things to keep track of.
+
+1005
+01:33:39,880 --> 01:33:50,599
+Now, we already said earlier that the motion, in this Aristotle's story, is something about the uh before and after.
+
+1006
+01:33:50,600 --> 01:34:10,079
+We've got to derive the before and after or somehow bring them into the temporal order, claim that they only are intelligible if you relate them to the earlier and later, and lo and behold, if you're actually counting them, you're implicitly already relating to the early and later.
+
+1007
+01:34:10,079 --> 01:34:13,760
+All the stuff I was complaining about now turns out to be on the other side.
+
+1008
+01:34:13,760 --> 01:34:21,199
+You ca you can't leave these un uh uh untaken over into the world aspects of time.
+
+1009
+01:34:21,199 --> 01:34:25,760
+How he that would be part of his project if Bill is right.
+
+1010
+01:34:25,760 --> 01:34:37,039
+You're going to have to he's going to have to explain, and he does try to explain, how all aspects of temporality are finally back to Dasein.
+
+1011
+01:34:39,119 --> 01:34:40,639
+He does think he does.
+
+1012
+01:34:40,640 --> 01:34:41,679
+Why is that?
+
+1013
+01:34:41,680 --> 01:34:47,999
+He thinks that in order to order the practices, we've got to use clocks.
+
+1014
+01:34:48,319 --> 01:34:51,279
+We bring them into the story too.
+
+1015
+01:34:51,279 --> 01:34:54,239
+Yeah, but it's so oh well, it's hard to think about this.
+
+1016
+01:34:54,239 --> 01:35:05,279
+But the motion of the clock seems always the nature is seeming to be rolling around on the periphery or the motion of the sun, and this is Tyler's interest.
+
+1017
+01:35:05,279 --> 01:35:08,800
+So what well now let's turn it over to Eugene for a second.
+
+1018
+01:35:08,800 --> 01:35:13,039
+I mean, how does the fa uh how is he supposed to handle motion?
+
+1019
+01:35:13,039 --> 01:35:21,519
+If he's doing fundamental ontology and wants to say the temporality is the meaning of everything, which is, I take it, w everything, what?
+
+1020
+01:35:21,520 --> 01:35:33,359
+Everything, period, for the time being, everything about Dasein and world, what's he going what's he supposed to be saying about the kind of motion that you measure with clocks?
+
+1021
+01:35:33,359 --> 01:35:36,399
+That's is that is that what?
+
+1022
+01:35:36,720 --> 01:35:37,840
+He's going to have a hard time.
+
+1023
+01:35:38,079 --> 01:35:40,159
+Okay, well, that was a quick answer.
+
+1024
+01:35:40,159 --> 01:35:41,999
+Uh, this is I see that.
+
+1025
+01:35:41,999 --> 01:35:43,840
+Poor guy, he's had a very hard time.
+
+1026
+01:35:43,840 --> 01:35:46,880
+Wait, uh, first, wa w war, what's your name?
+
+1027
+01:35:47,640 --> 01:35:48,199
+Devin.
+
+1028
+01:35:48,199 --> 01:35:48,600
+I'm sorry.
+
+1029
+01:35:48,600 --> 01:35:49,959
+I keep always mixing you up as somebody else.
+
+1030
+01:35:49,959 --> 01:35:51,239
+Anyway, Devin, your hand is up.
+
+1031
+01:35:52,520 --> 01:35:56,439
+Well, the actors in the realist both seems to end up.
+
+1032
+01:35:56,440 --> 01:35:58,119
+I believe you've written boarding this.
+
+1033
+01:35:58,440 --> 01:35:59,880
+The practices of science have.
+
+1034
+01:36:02,440 --> 01:36:03,640
+That's the magic page, right?
+
+1035
+01:36:11,319 --> 01:36:12,359
+Yes, yes, wait, stop.
+
+1036
+01:36:12,359 --> 01:36:12,919
+That's right.
+
+1037
+01:36:12,919 --> 01:36:20,199
+If I were teaching this, and I swear I must have said it last semester, that's already on a stage later.
+
+1038
+01:36:20,199 --> 01:36:25,720
+First you de-world, then you re-contextualize in a theory.
+
+1039
+01:36:25,720 --> 01:36:31,399
+And you've got this view that you don't just de-world and then there are electrons out there in galaxies.
+
+1040
+01:36:31,400 --> 01:36:40,359
+You de-world and then you take what you find when you de-world and you find it, you treat it as evidence for a theory, and then all the facts are theory-laden.
+
+1041
+01:36:40,359 --> 01:36:43,880
+He's a good sort of Quinian on that one.
+
+1042
+01:36:44,919 --> 01:36:54,680
+He thinks that even when you get outside and describe these electrons as their essential properties, I'm reading, this is now Dreidiger.
+
+1043
+01:36:55,239 --> 01:37:01,399
+But anyway, when you get out there and describe those things, you describe them always in a theory and there are no bare facts.
+
+1044
+01:37:01,720 --> 01:37:02,760
+Yeah, yeah, right.
+
+1045
+01:37:02,999 --> 01:37:17,880
+Well, we've escaped interpretation in the scientific present at hand, and that's why he says, remember, that science shows us what the intelligible, I'm sorry, is science explains the unintelligible.
+
+1046
+01:37:17,880 --> 01:37:21,159
+That is, and that's exactly why there is no interpretation.
+
+1047
+01:37:21,159 --> 01:37:26,519
+Understanding, he's making this contrast, which is common and done in Germany at the time.
+
+1048
+01:37:26,520 --> 01:37:36,880
+The understanding, which is in the social sciences and the human sciences, makes society and people and anthropology and history intelligible.
+
+1049
+01:37:31,079 --> 01:37:40,559
+Natural science makes them unintelligible.
+
+1050
+01:37:40,560 --> 01:37:45,279
+It breaks it away from all human meaning and all interpretation.
+
+1051
+01:37:45,440 --> 01:37:53,519
+Well, interpretation means drawing out the implicit meaning of this activity that we're in and so forth.
+
+1052
+01:37:53,520 --> 01:37:54,560
+But I don't want to go back.
+
+1053
+01:37:54,560 --> 01:37:56,319
+Debbie, we can do it in office hours.
+
+1054
+01:37:56,319 --> 01:38:01,599
+I mean, this is going to be a tremendous relapse if we go back into this.
+
+1055
+01:38:01,919 --> 01:38:03,039
+Somebody had a hand up.
+
+1056
+01:38:03,039 --> 01:38:03,279
+You.
+
+1057
+01:38:03,919 --> 01:38:05,520
+Movements are present at hand, too.
+
+1058
+01:38:05,760 --> 01:38:16,479
+All that present at hand means is not tied into the referential totality of equipment, but as it being a substance with properties.
+
+1059
+01:38:16,880 --> 01:38:21,119
+So mostly it's like hammers and metal and not even hammers.
+
+1060
+01:38:21,119 --> 01:38:23,919
+Iron and stuff are present at hand.
+
+1061
+01:38:25,039 --> 01:38:31,679
+Something like the pure present at hand, which is more extreme than substances with properties, is what you get when you deworld.
+
+1062
+01:38:31,680 --> 01:38:44,239
+And most of them is going to turn out to be purely present at hand, that it doesn't connect up with our purposes and for the sake of.
+
+1063
+01:38:44,560 --> 01:38:45,279
+Okay.
+
+1064
+01:38:45,600 --> 01:38:47,439
+Well, geez, precisely.
+
+1065
+01:38:47,760 --> 01:38:48,480
+There's still time.
+
+1066
+01:38:48,480 --> 01:38:49,199
+Yeah, time.
+
+1067
+01:38:49,680 --> 01:38:54,959
+Well, let's see if we're taping it anyway, so I get nervous when I, because I think this is interesting stuff.
+
+1068
+01:38:54,959 --> 01:38:56,959
+I'm just curious, is it really working?
+
+1069
+01:38:56,959 --> 01:38:57,840
+Yeah, it's working.
+
+1070
+01:38:57,840 --> 01:38:58,399
+Go ahead.
+
+1071
+01:39:04,159 --> 01:39:05,199
+Is that why?
+
+1072
+01:39:05,919 --> 01:39:08,560
+That seems like too small a problem.
+
+1073
+01:39:08,560 --> 01:39:09,119
+Is that what you're saying?
+
+1074
+01:39:12,319 --> 01:39:14,239
+If you don't believe that, you.
+
+1075
+01:39:15,840 --> 01:39:16,880
+By now, I'm beginning to see.
+
+1076
+01:40:01,720 --> 01:40:07,720
+Well, it's you are what you really are doing is disagreeing with Plattner on death, uh which I think is a good place to disagree.
+
+1077
+01:40:07,720 --> 01:40:09,720
+He's got weird views about Heidegger on death.
+
+1078
+01:40:12,680 --> 01:40:17,720
+Okay, let me repeat this because nobody's going to hear this on the podcast and wonder well how we got into this.
+
+1079
+01:40:17,720 --> 01:40:33,959
+Uh so uh Tyner is claiming that Bill's c form of non-sequential uh structure, which is a Bill, he makes a big deal about primordial time isn't sequential.
+
+1080
+01:40:33,959 --> 01:40:41,880
+And there it's got to be right, because Heidegger keeps saying that too, but you're saying the the way Bill reads it is not the right way to read it.
+
+1081
+01:40:41,880 --> 01:41:01,279
+That to say that it's not sequential is to say that it's finite and its death is somehow permeates all of its uh uh activity, just like it's thrownness and guilt permeates all of its activity, and they are all uh in all the temporal dimensions.
+
+1082
+01:41:01,279 --> 01:41:08,479
+And that's the thing in which even authentic Dasein is not sequential.
+
+1083
+01:41:08,480 --> 01:41:12,959
+And primordial Dasein is just another name for authentic, it looks like.
+
+1084
+01:41:13,440 --> 01:41:14,959
+The experience.
+
+1085
+01:41:14,959 --> 01:41:18,559
+Funny, you're doing, I used to do this myself at some stage.
+
+1086
+01:41:18,560 --> 01:41:20,239
+You're doing a kind of authentic.
+
+1087
+01:41:20,319 --> 01:41:37,359
+When Heidegger says for a primordial, when he says temporality is primordial and authentic, so Bill is saying it's a structure, and it's a structure in which each element of the structure refers to all the others, and there is no sequential.
+
+1088
+01:41:37,359 --> 01:41:45,519
+You're really saying authentic temporality is an experience or is a way of being, and that's not sequential either.
+
+1089
+01:41:45,520 --> 01:41:56,639
+And Heidegger seems to be thinking somehow both, that authentic temporality is the way you live if you've got this kind of structural structure.
+
+1090
+01:41:56,640 --> 01:42:02,639
+And you're not disagreeing, you're just coming in one stage later, I think he would say.
+
+1091
+01:42:04,560 --> 01:42:12,399
+But the question would be whether you could get any more out of what you've been saying than he gets out of his primordial structure story.
+
+1092
+01:42:12,400 --> 01:42:16,319
+How are you going to explain why the practices have to be sequentially ordered?
+
+1093
+01:42:17,680 --> 01:42:18,559
+Yeah.
+
+1094
+01:42:20,079 --> 01:42:26,159
+Which one are you arguing for now, that the sequence is built right into the authentic way of living?
+
+1095
+01:42:26,159 --> 01:42:30,239
+You know, I think sequentiality is built into authentic and inauthentic.
+
+1096
+01:42:35,199 --> 01:42:37,359
+Well, I I just don't know what to say about that.
+
+1097
+01:42:37,359 --> 01:42:41,999
+I mean, I would are there quotes from Heidegger that suggest that that's what he thinks?
+
+1098
+01:42:42,720 --> 01:42:44,599
+It's not the kind of quote I would notice.
+
+1099
+01:42:46,520 --> 01:42:47,640
+Of being in time.
+
+1100
+01:42:47,959 --> 01:42:48,760
+Oh yeah, yeah?
+
+1101
+01:42:50,760 --> 01:42:52,119
+I remember that passage now.
+
+1102
+01:42:46,640 --> 01:42:53,640
+And that is a strong argument.
+
+1103
+01:42:53,880 --> 01:42:56,919
+That's where he that's the fin and the finite is part of that too.
+
+1104
+01:42:56,919 --> 01:42:57,560
+It's finite.
+
+1105
+01:42:57,560 --> 01:43:02,439
+Where are you going to get that if you don't bring in your way of understanding death?
+
+1106
+01:43:02,440 --> 01:43:04,039
+Uh yes.
+
+1107
+01:43:08,279 --> 01:43:10,439
+A kind of sequentiality finite time.
+
+1108
+01:43:10,520 --> 01:43:17,720
+I thought there was you don't agree with Will that that that primordial temporality is non-successive, non-sequential?
+
+1109
+01:43:18,039 --> 01:43:21,720
+You, but in the experiential way, not in the bill way, not in a structural way.
+
+1110
+01:43:24,440 --> 01:43:29,400
+So you all not think that weird movement on the basis of obese actual speeches.
+
+1111
+01:43:29,720 --> 01:43:34,519
+And Heidegger does see you're on your side, a side which I don't want to be on.
+
+1112
+01:43:34,520 --> 01:43:46,600
+Heidegger talks about every once in a while our allotted time, or a few times he talks about that, as if there really was this sort of sequence of of I don't know, moments or something, and we've got a certain number of them.
+
+1113
+01:43:46,600 --> 01:43:49,159
+Is that followed too with the with the body story?
+
+1114
+01:43:50,520 --> 01:43:53,239
+Something like human beings trying to object to that.
+
+1115
+01:43:53,400 --> 01:43:54,760
+Does he have a story about that?
+
+1116
+01:43:57,159 --> 01:44:00,999
+He says talk louder so either I can repeat it or they can hear it.
+
+1117
+01:44:04,999 --> 01:44:06,760
+Why does that say anything like that?
+
+1118
+01:44:11,400 --> 01:44:12,760
+Does he ask that?
+
+1119
+01:44:13,079 --> 01:44:20,119
+I remember he says we've m I always been struck in the last paragraph he says we haven't said a thing about consciousness in this whole 400 pages.
+
+1120
+01:44:20,119 --> 01:44:22,519
+We ought to mention it and do something about it.
+
+1121
+01:44:22,520 --> 01:44:26,119
+I thought that was pretty funny, but uh uh and nice.
+
+1122
+01:44:26,119 --> 01:44:28,919
+But I don't know about this thing about what you're saying.
+
+1123
+01:44:28,999 --> 01:44:33,599
+Can't just I mean we we we going back into this other place we can sink into.
+
+1124
+01:44:34,560 --> 01:44:36,640
+You don't distinguish deaths from demise.
+
+1125
+01:44:36,640 --> 01:44:38,159
+I can't understand how you do.
+
+1126
+01:44:38,159 --> 01:44:42,399
+I mean, it's some event in the future which is going to happen someday.
+
+1127
+01:44:42,720 --> 01:44:43,600
+It's not an event.
+
+1128
+01:44:43,600 --> 01:44:48,159
+Well, just because you're not going to be conscious when it happens, that doesn't seem very important.
+
+1129
+01:44:49,039 --> 01:44:55,520
+It's an event in the future which is coextensive with an event in which Dasein loses consciousness, is what you're thinking.
+
+1130
+01:44:55,600 --> 01:44:59,039
+I mean, you can't, that is a not very what?
+
+1131
+01:44:59,359 --> 01:44:59,919
+What's that?
+
+1132
+01:45:01,600 --> 01:45:09,599
+Yeah, there's no there's an event in the future of sequential time at which Dasein will no longer be.
+
+1133
+01:45:09,600 --> 01:45:14,640
+And that's not demise because Dasein isn't around to experience it.
+
+1134
+01:45:14,640 --> 01:45:20,720
+But it's still, you, it's putting your death off into the future in a way which Heidegger, I thought, considered inauthentic.
+
+1135
+01:45:20,720 --> 01:45:25,600
+Well, it isn't going to happen now, that event coextensive with the moment when I'm not going to be, but it's going to happen.
+
+1136
+01:45:25,600 --> 01:45:27,359
+So that's why I don't buy a death.
+
+1137
+01:45:27,359 --> 01:45:29,039
+But we could we couldn't go back over it.
+
+1138
+01:45:29,039 --> 01:45:32,800
+I mean, but anybody who's writing a paper on it should find it interesting.
+
+1139
+01:45:33,760 --> 01:45:40,159
+Because let's just repeat, because for him, primordial temporality is a structure.
+
+1140
+01:45:40,720 --> 01:45:45,519
+The structure is all the elements are in no way s lined up successively.
+
+1141
+01:45:45,520 --> 01:45:45,840
+Right.
+
+1142
+01:45:46,079 --> 01:45:46,880
+Yes.
+
+1143
+01:45:46,880 --> 01:45:48,880
+When Heidegger drives.
+
+1144
+01:45:49,440 --> 01:45:51,359
+You could have it using your own argument.
+
+1145
+01:45:51,359 --> 01:45:52,079
+You can't have it.
+
+1146
+01:45:53,279 --> 01:46:05,680
+Well, I my argument I just sort of gave, because you if you've got to do it in terms of the ultimate structure of Dasein, which is throwing falling, projectines, as he keeps saying.
+
+1147
+01:46:05,680 --> 01:46:08,399
+He doesn't say getting born and dying.
+
+1148
+01:46:08,560 --> 01:46:09,760
+That's too ontic.
+
+1149
+01:46:09,760 --> 01:46:10,880
+That's too temporal.
+
+1150
+01:46:10,880 --> 01:46:12,559
+You get born at a certain moment.
+
+1151
+01:46:12,560 --> 01:46:16,999
+And you may not mean there around when you die, but you're certainly sort of there when you're born.
+
+1152
+01:46:16,159 --> 01:46:21,880
+Or maybe you're not, but it's there's a moment coextensive with whether you're there or not when you're born.
+
+1153
+01:46:23,159 --> 01:46:37,079
+And this is and he thinks, and I agree with him, that's not capturing throwing and falling projecting at this abstract structural level that he thinks Heidegger wants to do it.
+
+1154
+01:46:37,079 --> 01:46:40,359
+But all these are all sort of amazing unsettled issues.
+
+1155
+01:46:40,359 --> 01:46:47,399
+I think everybody's looking pretty exhausted and we've covered all the obsessions and all and and new material too.
+
+1156
+01:46:47,400 --> 01:46:49,159
+So I think we should stop.
+
+1157
+01:46:49,640 --> 01:46:54,119
+But and notice, I'll make a little fi final oration.
+
+1158
+01:46:55,239 --> 01:46:58,679
+I have a little thing and maybe I would I wonder if we covered this later.
+
+1159
+01:46:59,239 --> 01:47:01,319
+If not I can bring with it next bring it next time.
+
+1160
+01:47:01,319 --> 01:47:08,840
+But I want to say this, that remember now we're going to leave all this murky stuff behind, though it's a good thing we spent a long time on it today.
+
+1161
+01:47:08,840 --> 01:47:14,439
+We're going to the pure ontology, which is probably very hard and abstract in a new way.
+
+1162
+01:47:14,440 --> 01:47:28,919
+For next time we're going to talk about temporalitate, this higher order form of some temporal something or other, which is supposed to explain the unity of all these no kinds of temporal something or others that we've ta talked about.
+
+1163
+01:47:28,919 --> 01:47:30,520
+That's the ast that's right, isn't it?
+
+1164
+01:47:30,520 --> 01:47:32,279
+The next kind is temporalitate.
+
+1165
+01:47:32,279 --> 01:47:33,720
+Okay, so prepare yourself.
+
+1166
+01:47:33,800 --> 01:47:37,720
+Don't expect this somehow that to go right on from where we are.
+
+1167
+01:47:37,720 --> 01:47:41,239
+It's a kind of radical different issue from where we are.

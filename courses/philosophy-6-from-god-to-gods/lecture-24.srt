@@ -1,0 +1,3215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:05,200
+If not, one last round into Dante here.
+
+2
+00:00:05,920 --> 00:00:09,200
+Lots of interesting things are still happening.
+
+3
+00:00:09,200 --> 00:00:17,999
+But first, before I do that, I have to repent and correct the mistakes I made last time, of which there were, I think, several.
+
+4
+00:00:17,999 --> 00:00:19,920
+I think four, in fact.
+
+5
+00:00:20,239 --> 00:00:22,079
+And I felt bad after last time.
+
+6
+00:00:22,079 --> 00:00:27,439
+I had so many things on my mind and so many different pages that I didn't give a good coherent lecture.
+
+7
+00:00:27,439 --> 00:00:30,480
+And then I said things that were false besides.
+
+8
+00:00:30,480 --> 00:00:39,999
+So, one, there's the question about universe versus the creation in the very opening lines of the Paradiso.
+
+9
+00:00:39,999 --> 00:00:45,760
+And I said I would look it in Italian with confidence that it would say creation, but it doesn't.
+
+10
+00:00:45,760 --> 00:00:47,600
+It says universo.
+
+11
+00:00:47,920 --> 00:00:54,160
+This is on page 24 of Canto 1 of the Paradiso, which you've got.
+
+12
+00:00:54,160 --> 00:00:55,600
+Okay, what then?
+
+13
+00:00:56,239 --> 00:00:58,960
+The funny thing happened, nothing like podcasting.
+
+14
+00:00:59,280 --> 00:01:13,519
+A student named Joe Temple, Toza Temple, somewhere on the East Coast, began immediately, the next day, researching the universe and trying to figure out why it said universe instead of creation.
+
+15
+00:01:13,520 --> 00:01:27,759
+And I was looking in the Oxford OED, the Oxford English Dictionary, and we were all coming to the same conclusion that the universe has been around way, way back into Roman Latin times.
+
+16
+00:01:27,760 --> 00:01:39,400
+It doesn't really mean any particular view like the cosmos, which we know it's going to turn it's eternal, and you know, lots of things about the Greek view of the cosmos.
+
+17
+00:01:37,520 --> 00:01:43,799
+And we know a lot about the creation, that's what we've been, maybe more than we'd like to know.
+
+18
+00:01:44,119 --> 00:01:58,679
+But Dante, and we know that we talk about the universe, and when we do, we mean a unified physical something or other that has no human meaning whatsoever.
+
+19
+00:01:58,679 --> 00:02:04,999
+And we don't even know whether it has a beginning and a big bang or whether it goes on eternally like the cosmos.
+
+20
+00:02:04,999 --> 00:02:09,720
+But whenever Dante says universe, he means the whole thing.
+
+21
+00:02:10,520 --> 00:02:13,399
+It isn't a stand on which kind of whole thing.
+
+22
+00:02:13,879 --> 00:02:18,199
+The word universe means the unified whole.
+
+23
+00:02:18,520 --> 00:02:26,600
+So, in a way, it would have been okay to translate it the creation, though it isn't the word Dante uses.
+
+24
+00:02:26,600 --> 00:02:32,999
+But when he thinks of the unified whole, he thinks of the creation.
+
+25
+00:02:32,999 --> 00:02:37,080
+And it's a universe because it's unified.
+
+26
+00:02:37,079 --> 00:02:48,119
+And he certainly thinks it's very unified on page 363, very near the end of the whole thing, which you have.
+
+27
+00:02:49,400 --> 00:03:00,999
+We hear when Dante, now we're in Canto 33 and looking at line 84 in the Paradiso.
+
+28
+00:03:00,999 --> 00:03:11,799
+I saw within its depths how it, that is, God, conceives all things in a single volume bound by love, of which the universe is the scattered leaves.
+
+29
+00:03:11,799 --> 00:03:13,640
+It's all this single volume.
+
+30
+00:03:13,640 --> 00:03:20,600
+Naturally, it's all one thing, unified thing, because it's been created by one unified God.
+
+31
+00:03:20,600 --> 00:03:25,760
+I mean, if the Greek gods were creating things, the pantheon wouldn't create a unified thing at all.
+
+32
+00:03:25,759 --> 00:03:29,199
+They'd create a whole bunch of different worlds, each God creating their own.
+
+33
+00:03:29,679 --> 00:03:33,519
+Since there's one God creating all this, it's got to be unified.
+
+34
+00:03:33,520 --> 00:03:37,280
+And on 364, there's more about that.
+
+35
+00:03:38,160 --> 00:03:40,480
+I don't think I'll talk about that yet, 364.
+
+36
+00:03:40,480 --> 00:03:42,319
+That is more relevant in a minute.
+
+37
+00:03:42,879 --> 00:03:44,879
+So, okay, so much for the universe.
+
+38
+00:03:44,879 --> 00:03:56,079
+It turns out that it's okay to say universe and it's okay to say creation, and Dante says both, and they both mean the same thing when whichever one Dante says, it doesn't, nothing is at stake in distinguishing them.
+
+39
+00:03:56,079 --> 00:04:11,840
+So, the next thing I said was: I didn't know whether Dante has a body when he's in paradise floating up or speeding up toward the Emchorean, toward God, like as I say, like a rocket off the top of purgatory.
+
+40
+00:04:11,840 --> 00:04:13,840
+But I'm convinced he does have a body.
+
+41
+00:04:13,840 --> 00:04:15,760
+There is no way that Dante could exist.
+
+42
+00:04:15,760 --> 00:04:17,840
+He'd be dead if he didn't have a body.
+
+43
+00:04:17,840 --> 00:04:19,920
+And now I ask you to help me find something.
+
+44
+00:04:19,920 --> 00:04:21,120
+Keep your eyes open.
+
+45
+00:04:21,119 --> 00:04:24,960
+Somewhere, I spent about 45 minutes and I couldn't find it.
+
+46
+00:04:24,959 --> 00:04:36,960
+Somewhere in the Paradiso, the souls that come to visit him on one of the spheres are surprised that he has his body because of their, of course, they're all dead and they don't.
+
+47
+00:04:36,959 --> 00:04:51,040
+And I would just like to have that, but I know he keeps his body, and I know that the people in these various spheres never saw any embodied person going up through these spheres before.
+
+48
+00:04:51,040 --> 00:04:52,560
+You look worried, is that?
+
+49
+00:04:52,559 --> 00:04:55,520
+Okay, so if and I, but I couldn't find it.
+
+50
+00:04:55,520 --> 00:05:00,720
+Now comes a big deal issue, a really interesting big deal issue.
+
+51
+00:05:01,040 --> 00:05:04,080
+So it's Beatrice on free Will.
+
+52
+00:05:05,360 --> 00:05:11,719
+After I said that Beatrice never talks, well, let's go the other way.
+
+53
+00:05:07,760 --> 00:05:14,280
+Marco Lombardo in the purgatory.
+
+54
+00:05:14,920 --> 00:05:18,440
+Now, it's so hard to keep all these things in your hands.
+
+55
+00:05:18,439 --> 00:05:33,400
+Okay, when Dante talks to Marco Lombardo, it doesn't matter who he is, on 173, in the purgatory, Panto 16, there is this interesting story going on.
+
+56
+00:05:33,400 --> 00:05:50,200
+First, it's important to know, and I've read it once before, but I think it's so important, that every creature is created by God, ready to return to God because that creature needs the kind of fulfillment that that kind of creature can get only finally from God.
+
+57
+00:05:50,199 --> 00:05:55,400
+I've said that a million times, but that's what happens when you get a created universe.
+
+58
+00:05:55,799 --> 00:05:59,480
+But I want to read for reasons that we'll get to in a minute, starting on 85.
+
+59
+00:05:59,479 --> 00:06:15,799
+From the hand of God, whose love shines like a ray upon it, even before birth, comes forth a simple soul, which, like a child at play, cries, laughs, in ignorance of every measure, but the glad impulse of its joyous maker turns eagerly to all that gives it pleasure.
+
+60
+00:06:15,799 --> 00:06:19,799
+So there's this happy baby that is sort of getting a kick out of everything.
+
+61
+00:06:19,799 --> 00:06:29,320
+It tastes small pleasures first, and it clings, deceived, and seeks no others unless someone curb it, guide its love to higher things.
+
+62
+00:06:29,319 --> 00:06:36,040
+So its parents and the church and the state, particularly the church, guides it to higher things.
+
+63
+00:06:36,040 --> 00:06:37,960
+Now that's all fine.
+
+64
+00:06:38,280 --> 00:06:47,960
+And on the next page, we're told how Rome, the church, the sword, and the crook, worked together to do this.
+
+65
+00:06:47,959 --> 00:06:51,880
+But that's not what I want to talk about now.
+
+66
+00:06:52,120 --> 00:06:56,080
+What he says on 190.
+
+67
+00:06:52,679 --> 00:06:57,920
+So much for that.
+
+68
+00:06:58,240 --> 00:07:00,400
+Why do I even quote that?
+
+69
+00:07:00,400 --> 00:07:12,080
+Well, because free will, I want to point out, is this capacity we've got to turn aside from just going after what everything is.
+
+70
+00:07:12,079 --> 00:07:14,720
+So back on 173.
+
+71
+00:07:15,040 --> 00:07:25,040
+So free will, in capital F and W, the third canto, though it be strange in battles with the heavens, can conquer all if it is well sustained.
+
+72
+00:07:25,040 --> 00:07:28,640
+So we've got free will, and we're not determined.
+
+73
+00:07:28,640 --> 00:07:34,480
+The heavens are the astrology idea that somehow what star you're born under determines you.
+
+74
+00:07:34,479 --> 00:07:36,799
+And Dante thinks, no, you've got free will.
+
+75
+00:07:36,799 --> 00:07:37,920
+You're not determined.
+
+76
+00:07:37,920 --> 00:07:45,040
+It would be by the DNA now or whatever the natural order now is, that you're free.
+
+77
+00:07:45,040 --> 00:07:45,999
+He's clear about that.
+
+78
+00:07:46,000 --> 00:08:00,080
+You're free subjects of a more immense nature and power, which grants your intellect, and therefore men today turn, if therefore, men today turn from God's laws, the fault is in yourselves to seek and so forth, and the cause.
+
+79
+00:08:00,079 --> 00:08:09,520
+You can't blame it on astrology or bad luck in your family or your environment or your DNA.
+
+80
+00:08:09,520 --> 00:08:11,760
+Now, but then what is free will?
+
+81
+00:08:11,760 --> 00:08:13,199
+Now comes the interesting question.
+
+82
+00:08:13,199 --> 00:08:14,559
+That hasn't really told you.
+
+83
+00:08:14,559 --> 00:08:16,880
+It just says you've got free will.
+
+84
+00:08:16,880 --> 00:08:18,239
+What does it do?
+
+85
+00:08:19,040 --> 00:08:21,200
+And now comes the weird part.
+
+86
+00:08:21,360 --> 00:08:27,200
+This is where I said something wrong, but we have to follow it.
+
+87
+00:08:27,199 --> 00:08:33,280
+So it looks like we're going to find out about free will later.
+
+88
+00:08:33,280 --> 00:08:36,400
+And it's going to be Beatrice that's going to tell us.
+
+89
+00:08:36,400 --> 00:08:38,520
+And we start on 189 now.
+
+90
+00:08:39,000 --> 00:08:48,760
+And that's where we're told in the 63 that one of the jobs of free will is to guard the threshold of consent.
+
+91
+00:08:48,760 --> 00:08:51,400
+That is, don't just run after everything.
+
+92
+00:08:51,880 --> 00:08:58,520
+Learn to get your desires in correspondence with how much satisfaction you can get.
+
+93
+00:08:58,520 --> 00:09:00,520
+And now comes the puzzling thing.
+
+94
+00:09:00,920 --> 00:09:03,000
+On the top of 190.
+
+95
+00:09:03,000 --> 00:09:10,199
+Or to put it this way, all love, let us say, that burns in you springs from necessity, but you still have the power to check its sway.
+
+96
+00:09:10,520 --> 00:09:30,200
+That could be, and it seems to be, the Virgil-like comment that you have the power to rein in your love, to curb your love, to get it dimmed down so that you don't expect more from things and other people than they can give you.
+
+97
+00:09:30,199 --> 00:09:33,319
+And that seems to be the wrong view.
+
+98
+00:09:33,319 --> 00:09:38,600
+I'm not going to read again how the moon comes out, the stars come out, Dante goes to sleep.
+
+99
+00:09:38,599 --> 00:09:47,959
+I found a place, by the way, I won't bother to read it to you, where Beatrice explains something clearly to Dante, and instead of falling asleep, he gets wide awake and all excited.
+
+100
+00:09:47,959 --> 00:10:02,520
+It confirms my impression that if Virgil were telling him the true story here, that free will is there to check how much, to hold in your love, and not, or your desire, Virgil would say, then Virgil's getting it all wrong.
+
+101
+00:10:02,520 --> 00:10:05,239
+But that's not what I'm going to talk about now, because I've talked about that.
+
+102
+00:10:05,239 --> 00:10:06,840
+It's the next paragraph.
+
+103
+00:10:06,839 --> 00:10:08,360
+Well, 73.
+
+104
+00:10:08,360 --> 00:10:17,000
+These noble powers, the powers to check your love, to hold it in, to curb it, will comprehend.
+
+105
+00:10:17,000 --> 00:10:21,080
+These noble powers, Beatrice will comprehend as free will.
+
+106
+00:10:21,079 --> 00:10:25,200
+Keep that term in mind if she should speak of it as you ascend.
+
+107
+00:10:22,760 --> 00:10:27,839
+Well, that's a weird, weird thing.
+
+108
+00:10:28,160 --> 00:10:38,400
+I can't tell whether Dante's being very shrewd or very stupid or just absent-minded, but I said, and this is another one of my mistakes, you learn, it's wonderful to make mistakes.
+
+109
+00:10:38,400 --> 00:10:45,840
+I've learned something about will, I mean, it's a world, and I've learned something about bodies in paradise, but I don't know where to find it.
+
+110
+00:10:45,839 --> 00:10:49,760
+And now I learned something about what happens with Beatrice.
+
+111
+00:10:49,760 --> 00:10:54,880
+I said that Beatrice never talks about free will in the Paradiso.
+
+112
+00:10:54,880 --> 00:11:08,799
+And that's okay, because Virgil is getting it all wrong at this point, and it's not going to be something that Beatrice is going to want to explain further Virgil's understanding of free will.
+
+113
+00:11:08,799 --> 00:11:12,320
+But maybe Beatrice has her own understanding of free will.
+
+114
+00:11:12,319 --> 00:11:14,799
+Well, I said no.
+
+115
+00:11:15,120 --> 00:11:17,440
+And then, isn't here is he?
+
+116
+00:11:17,439 --> 00:11:19,199
+I wanted to, this was mainly for Ben.
+
+117
+00:11:19,199 --> 00:11:38,480
+Ben came up and said, Ben is one of the TAs, but if I'd only looked at the footnote to this, to line 75, I would find out that Beatrice discusses free will in the sphere of the moon, Paradise 5, 19, following.
+
+118
+00:11:38,479 --> 00:11:41,360
+And therefore, I was wrong.
+
+119
+00:11:41,679 --> 00:11:44,079
+Well, in a funny way, I wasn't wrong.
+
+120
+00:11:44,079 --> 00:11:45,920
+And you learn something interesting.
+
+121
+00:11:46,799 --> 00:11:48,879
+I don't even know quite what to make of it.
+
+122
+00:11:48,880 --> 00:11:51,920
+But you go there where Beatrice is going to discuss free will.
+
+123
+00:11:51,920 --> 00:11:52,880
+Let's go there.
+
+124
+00:11:52,880 --> 00:11:57,839
+So we go to Canto, we go to Paradiso, Canto 5.
+
+125
+00:11:57,840 --> 00:11:58,959
+Oh, you don't have it, I think.
+
+126
+00:11:58,959 --> 00:12:02,000
+No, you don't have it, because it turns out not to be important.
+
+127
+00:12:02,000 --> 00:12:04,959
+Because Beatrice doesn't explain free will.
+
+128
+00:12:05,280 --> 00:12:06,719
+She already gets it wrong again.
+
+129
+00:12:06,719 --> 00:12:10,439
+She already is, you know, a sort of guaranteed loser.
+
+130
+00:12:07,760 --> 00:12:12,920
+I hope he isn't listening to the podcast.
+
+131
+00:12:13,240 --> 00:12:22,680
+But in any case, this time you look to see Beatrice discussing free will, which is what he said in his footnote, she's going to do.
+
+132
+00:12:22,679 --> 00:12:24,600
+Well, she mentions free will.
+
+133
+00:12:24,599 --> 00:12:29,880
+I mean, it's not a mistake exactly, but she doesn't explain it or discuss it at all.
+
+134
+00:12:29,880 --> 00:12:31,320
+I will read what happens.
+
+135
+00:12:31,319 --> 00:12:41,560
+She says they're discussing how you, to what extent somebody who's made a vow can give up the vow.
+
+136
+00:12:41,880 --> 00:12:43,160
+And it's complicated.
+
+137
+00:12:43,160 --> 00:12:45,799
+After all, you make a vow to God and so forth.
+
+138
+00:12:45,799 --> 00:12:48,600
+You can't just drop it.
+
+139
+00:12:48,599 --> 00:12:58,920
+And what she says is, you're free to make the vow and under certain circumstances to give it up.
+
+140
+00:12:58,920 --> 00:13:01,480
+The only important line is 22.
+
+141
+00:13:01,799 --> 00:13:07,000
+The gift by him most prized is the freedom he bestowed upon the will.
+
+142
+00:13:07,479 --> 00:13:08,200
+Sorry, that's God.
+
+143
+00:13:08,199 --> 00:13:09,319
+Let's start a little earlier.
+
+144
+00:13:09,319 --> 00:13:14,839
+Of all creation, bounty realized, of all, well, start again.
+
+145
+00:13:14,840 --> 00:13:30,679
+Of all creations, bounty realized, that is of all the great things in creation, God's gift, the gift in which mankind is most like him, the gift by him most prized, what would you expect?
+
+146
+00:13:30,679 --> 00:13:32,519
+Would you expect love?
+
+147
+00:13:32,519 --> 00:13:36,839
+But what he is the freedom he bestows upon the will.
+
+148
+00:13:37,160 --> 00:13:41,079
+Now that's amazing and confusing, and I don't know what to make of it.
+
+149
+00:13:41,400 --> 00:13:42,520
+I'll tell you what I think.
+
+150
+00:13:43,719 --> 00:13:45,400
+I don't think it matters.
+
+151
+00:13:46,120 --> 00:13:53,759
+But nobody, and not Beatrice of all people, should be saying that the most important thing that God gave people was free will.
+
+152
+00:13:53,759 --> 00:14:11,519
+The most important thing God gave people was the ability to love and to, and I'll jump ahead of the story, to lose their will, for their will to become one with the sun and the other stars, the last line of the poem, which I read to you last time, and I'll come back to it.
+
+153
+00:14:11,759 --> 00:14:17,199
+If free will was so important, why didn't God, in the end, sort of take it away?
+
+154
+00:14:18,320 --> 00:14:29,279
+So free will can at best be your ability to swerve toward things that are good, but also swerve away from things that are bad.
+
+155
+00:14:29,279 --> 00:14:34,559
+And free will can be your ability to make vows and under certain conditions break them.
+
+156
+00:14:34,560 --> 00:14:42,560
+But Beatrice isn't explaining here, as she already says she does, or even discussing here free will.
+
+157
+00:14:42,560 --> 00:14:48,959
+She's just announcing that free will is the best thing that God ever gave us.
+
+158
+00:14:48,959 --> 00:14:56,239
+And that, period, and that therefore you can make and break bows, which is what she is discussing.
+
+159
+00:14:56,239 --> 00:14:58,239
+Now, I don't know what to make of all that.
+
+160
+00:14:58,239 --> 00:15:08,320
+I mean, I think I just can't understand why God would say, if you read Descartes, you'd be even more amazed.
+
+161
+00:15:08,320 --> 00:15:17,760
+Descartes says, and he's got, he should say, because he's an autonomy guy, the first autonomy guy, that the most important thing we've got is free will.
+
+162
+00:15:17,759 --> 00:15:20,799
+Our free will is infinite like God's.
+
+163
+00:15:20,800 --> 00:15:24,479
+Okay, from Descartes, but it's not a Dante idea.
+
+164
+00:15:24,479 --> 00:15:25,839
+It doesn't belong in here.
+
+165
+00:15:25,840 --> 00:15:29,120
+It's as if it's floated in from the Enlightenment.
+
+166
+00:15:29,360 --> 00:15:30,400
+Yeah, Dave.
+
+167
+00:15:30,640 --> 00:15:33,759
+Does he say that free will is the most important?
+
+168
+00:15:33,759 --> 00:15:36,559
+And how does he, does he say you justify it in any way?
+
+169
+00:15:36,560 --> 00:15:37,959
+Isn't that amazing?
+
+170
+00:15:37,519 --> 00:15:39,000
+Where did they get it?
+
+171
+00:15:39,160 --> 00:15:40,279
+I can't imagine.
+
+172
+00:15:40,279 --> 00:15:42,119
+You don't, I suppose, maybe Aristotle.
+
+173
+00:15:42,120 --> 00:15:45,079
+I mean, I can't picture Aristotle making a big deal.
+
+174
+00:15:45,080 --> 00:15:46,599
+You think Aristotle?
+
+175
+00:15:47,479 --> 00:16:02,199
+Anyway, it's true that Beatrice mentions free will in the Paradiso, just like Marco Lombardo said, or whoever it is, said she would.
+
+176
+00:16:02,519 --> 00:16:06,999
+But it's not true that she says anything interesting about it, except that it's important.
+
+177
+00:16:07,640 --> 00:16:17,959
+And then she says nothing more about it in the whole of the Paradiso, although we're told it's the most important thing that God gave people and that He prizes it more than anything else.
+
+178
+00:16:17,959 --> 00:16:23,799
+You think we hear a little about what it is and how it functions and why it's so important and blah, blah, blah.
+
+179
+00:16:23,800 --> 00:16:25,240
+Well, I don't know.
+
+180
+00:16:25,239 --> 00:16:29,959
+I learned something, but I must say what I learned is not very coherent.
+
+181
+00:16:30,920 --> 00:16:32,120
+So there it is.
+
+182
+00:16:32,120 --> 00:16:34,040
+That's all I have to say about that.
+
+183
+00:16:35,400 --> 00:16:36,920
+I'll put it this way.
+
+184
+00:16:37,479 --> 00:16:42,120
+In God's creation, instinct is automatically drawn toward God.
+
+185
+00:16:42,120 --> 00:16:44,519
+We hear that way back on 28.
+
+186
+00:16:44,519 --> 00:16:45,799
+I don't know if I should read it.
+
+187
+00:16:45,800 --> 00:16:47,479
+I'll go back and see.
+
+188
+00:16:48,679 --> 00:16:49,559
+Well, that's right.
+
+189
+00:16:49,560 --> 00:16:51,799
+That's when they start going toward God.
+
+190
+00:16:51,800 --> 00:16:58,599
+And now it's to a place foretold: we are soaring, driven by that bow whose every arrow finds a mark of gold.
+
+191
+00:16:58,600 --> 00:17:06,679
+That's this instinct in which the creature moves toward God, and it retains the power to turn aside.
+
+192
+00:17:06,679 --> 00:17:08,439
+That's free will.
+
+193
+00:17:08,439 --> 00:17:14,439
+Free will gets in the way of just going directly to God.
+
+194
+00:17:14,439 --> 00:17:21,160
+So, and so I don't understand why free will is so important.
+
+195
+00:17:21,160 --> 00:17:22,439
+Let me see if I have anything more to say.
+
+196
+00:17:22,439 --> 00:17:24,160
+I'll just worrying on.
+
+197
+00:17:26,320 --> 00:17:47,999
+Well I'd I want to stress that what Dante should be saying in Beatrice is that we should let ourselves be open to the attractiveness of God and we should love God through everything and we should finally get to the supreme being, God Himself, who is the ultimately totally fulfilling object.
+
+198
+00:17:47,999 --> 00:17:51,120
+There's nothing important about free will in all that.
+
+199
+00:17:51,120 --> 00:17:59,039
+The only people who take free will seriously, I think, in Dante, in spite of this remark of Beatrice's, are the people who.
+
+200
+00:17:59,120 --> 00:18:02,959
+Who are the people who are autonomous and exert their free will?
+
+201
+00:18:03,199 --> 00:18:04,640
+Big puzzle.
+
+202
+00:18:04,959 --> 00:18:06,400
+Somebody must know.
+
+203
+00:18:06,400 --> 00:18:06,800
+What?
+
+204
+00:18:07,120 --> 00:18:08,959
+Yeah, the people inside the wall of this.
+
+205
+00:18:08,959 --> 00:18:09,920
+Is that what you said?
+
+206
+00:18:09,920 --> 00:18:10,479
+Good.
+
+207
+00:18:10,479 --> 00:18:21,840
+Yes, the people who have built a wall to keep God out and who have freely substituted other unnatural goods for the good that God has around.
+
+208
+00:18:21,840 --> 00:18:23,119
+It's a hopeless task.
+
+209
+00:18:23,120 --> 00:18:28,719
+It's a hopeless job because the more they do it, the less movement they've got until they get frozen into ice.
+
+210
+00:18:28,719 --> 00:18:30,400
+You can't get away with that.
+
+211
+00:18:30,400 --> 00:18:32,239
+Free will is a bad thing.
+
+212
+00:18:32,239 --> 00:18:37,359
+It gets in the way of opening yourself to God's love.
+
+213
+00:18:37,360 --> 00:18:41,039
+And in the end, you've just got to give your will over to God.
+
+214
+00:18:41,519 --> 00:18:47,519
+The important thing is autonomy is not a positive value for Dante.
+
+215
+00:18:47,840 --> 00:18:53,039
+And how a bit of Descartes and Kant crept into Aristotle and St.
+
+216
+00:18:53,120 --> 00:18:54,880
+Thomas and Dante is beyond me.
+
+217
+00:18:54,880 --> 00:18:55,359
+Yeah.
+
+218
+00:18:55,360 --> 00:18:57,439
+But I don't think it would have to be Descartes.
+
+219
+00:18:57,439 --> 00:19:01,439
+I think it's it's really the tuning your thoughts in proper end.
+
+220
+00:19:01,439 --> 00:19:10,439
+If that you didn't have that kind of freedom inferno and all that would make no badness, that doesn't have to be found based for merit or where you involved.
+
+221
+00:19:07,759 --> 00:19:11,320
+Yeah.
+
+222
+00:19:13,640 --> 00:19:16,120
+Well, sort of.
+
+223
+00:19:16,120 --> 00:19:22,519
+I mean, so there's I mean, we have to make up a story about free will, really, because Dante just fluffs it.
+
+224
+00:19:22,519 --> 00:19:28,439
+But I mean, there seems to be the two three functions for for free will.
+
+225
+00:19:28,439 --> 00:19:29,880
+One is bad.
+
+226
+00:19:29,880 --> 00:19:37,239
+You you become autonomous, you reject God, you set yourself up as independent and you live in the in sin city.
+
+227
+00:19:37,560 --> 00:19:50,759
+Then there is the fact that you could use your free will to deviate from the attractiveness of things and love things more than you should or less than you should.
+
+228
+00:19:50,759 --> 00:19:55,079
+And then there's the possibility that you can use your free will to fix that.
+
+229
+00:19:55,080 --> 00:19:58,360
+And when you do, you get back to where you started, so to speak.
+
+230
+00:19:58,360 --> 00:20:04,600
+If you were so totally innocent and pure, you would just go after everything in the appropriate way and you wouldn't need your will.
+
+231
+00:20:04,600 --> 00:20:06,439
+And that's finally where you end up.
+
+232
+00:20:06,439 --> 00:20:14,039
+So but free will sort of is a bad thing which is it is also able to correct, something like that.
+
+233
+00:20:14,039 --> 00:20:18,199
+But as the great and why, you know, that's nice.
+
+234
+00:20:18,199 --> 00:20:28,199
+Then why that should be the main thing in a philosophy that has made love and agape and so forth its main virtue is bizarre.
+
+235
+00:20:28,199 --> 00:20:30,679
+But I think Davis casts some light on it.
+
+236
+00:20:30,679 --> 00:20:42,359
+For Aristotle, whom you haven't read, who is as secular as you can get, who doesn't have any sense of divine love and sacred well, not well, not a tiny bit, maybe, but not very much.
+
+237
+00:20:42,519 --> 00:20:49,640
+For Aristotle, you you could imagine that perhaps free will is the highest thing he can he can think we've got.
+
+238
+00:20:49,640 --> 00:20:50,599
+I don't even believe it.
+
+239
+00:20:50,600 --> 00:20:53,359
+I think Aristotle thought intellect was the highest thing.
+
+240
+00:20:53,679 --> 00:20:54,640
+It's beyond me.
+
+241
+00:20:54,640 --> 00:20:56,160
+I give up on free will.
+
+242
+00:20:52,759 --> 00:20:57,439
+So I'm going on.
+
+243
+00:20:58,320 --> 00:21:07,199
+So, and I know, so the last thing is: people have been telling me, well, I've been saying, this is all my mistakes, which don't turn out to be mistakes.
+
+244
+00:21:07,199 --> 00:21:08,160
+Yeah, yeah.
+
+245
+00:21:11,840 --> 00:21:12,959
+Yeah, I think he has his body.
+
+246
+00:21:13,199 --> 00:21:15,039
+Was that the place where it happened?
+
+247
+00:21:15,679 --> 00:21:17,279
+That he's got his body?
+
+248
+00:21:17,279 --> 00:21:17,760
+Where?
+
+249
+00:21:17,759 --> 00:21:18,479
+Where?
+
+250
+00:21:18,959 --> 00:21:20,479
+Well, let's go look at it.
+
+251
+00:21:20,800 --> 00:21:24,480
+I guess I missed it because I thought it was later, and I started looking later.
+
+252
+00:21:24,479 --> 00:21:27,519
+In the first tanto, tell me more.
+
+253
+00:21:27,519 --> 00:21:29,279
+99.
+
+254
+00:21:29,279 --> 00:21:32,400
+First tanto, am I in the pair in the paradiso?
+
+255
+00:21:32,400 --> 00:21:34,160
+I don't see it yet.
+
+256
+00:21:34,880 --> 00:21:37,600
+Siniba, line 100.
+
+257
+00:21:37,600 --> 00:21:39,519
+Aha, how can I rise?
+
+258
+00:21:39,519 --> 00:21:44,400
+Okay, now, in my gross body, through such airy substance.
+
+259
+00:21:44,719 --> 00:21:47,520
+And then she explains it to him.
+
+260
+00:21:47,519 --> 00:21:49,679
+Yeah, that's the line I was looking for.
+
+261
+00:21:49,679 --> 00:21:56,319
+Although there is another place still that goes with this, which is not this one, but also the souls are surprised.
+
+262
+00:21:56,320 --> 00:21:57,840
+You haven't read that in your reading.
+
+263
+00:21:58,160 --> 00:22:06,319
+When they come down and find him, the embodied person sitting there on the sphere of the sun, for instance, it has never happened before or since.
+
+264
+00:22:06,320 --> 00:22:10,640
+Okay, now, finally, I went around saying, and this is now more interesting.
+
+265
+00:22:10,880 --> 00:22:12,959
+I just wanted to clear these other things up.
+
+266
+00:22:12,959 --> 00:22:22,239
+Here, that Jesus is never talked about in the Paradiso, where you'd expect to find him.
+
+267
+00:22:22,239 --> 00:22:28,319
+And so, as I was looking through it, I was looking and looking for mention of Jesus.
+
+268
+00:22:28,320 --> 00:22:42,439
+Well, to begin with, oddly enough, and for reasons I don't know, Jesus is never mentioned, the word Jesus, that there is the Son, that is S-O-N, mentioned, and that is, and several times.
+
+269
+00:22:37,759 --> 00:22:45,160
+And now comes the interesting thing.
+
+270
+00:22:45,479 --> 00:22:49,880
+What is Jesus' big achievement that he should be mentioned for?
+
+271
+00:22:50,199 --> 00:23:05,400
+Well, you might think, you know, if Beatrice is like Jesus, and if we were Protestants, we should think Jesus is immensely lovable, adorable, and Jesus loves us, and that that's very, very important.
+
+272
+00:23:05,719 --> 00:23:14,199
+But the only thing about Jesus that Dante pays attention to, this is all news to me, and I'm surprised and puzzled.
+
+273
+00:23:14,199 --> 00:23:24,039
+It's sort of loose end in Dante, is there is another function of Jesus we haven't talked about at all because it doesn't have anything to do with Beatrice.
+
+274
+00:23:24,360 --> 00:23:33,160
+And that is that in the crucifixion, Jesus suffered for all man's sins.
+
+275
+00:23:33,160 --> 00:23:35,479
+The vicarious suffering.
+
+276
+00:23:35,479 --> 00:23:52,280
+So there's a whole story which I don't need to go into where Jesus is, where Adam sinned, everybody's guilty, somebody has to suffer, all mankind has been suffering, but God sends Jesus, his Son, and He does the suffering for everybody.
+
+277
+00:23:52,279 --> 00:23:58,920
+I think it is the most incomprehensible and uninteresting part of Christianity, but that's neither here.
+
+278
+00:23:59,080 --> 00:24:02,600
+So does Dostoevsky, I think, but that's neither here nor there.
+
+279
+00:24:02,840 --> 00:24:05,319
+He works hard to make sense of it.
+
+280
+00:24:05,320 --> 00:24:11,160
+Anyway, but this is what's happening on page 87 of the parody.
+
+281
+00:24:11,160 --> 00:24:15,479
+So Jesus gets mentioned, but not as Jesus.
+
+282
+00:24:15,800 --> 00:24:22,920
+Thus it was up to God in his own way to give man back his whole life and perfection.
+
+283
+00:24:23,679 --> 00:24:35,600
+And then skipping down to line 115, for God in giving himself that man might be able to raise himself gave even more than if he had forgiven him in mercy.
+
+284
+00:24:35,600 --> 00:24:40,959
+See, we're talking about forgiving all of our sins because Adam sinned, we're all sinful.
+
+285
+00:24:40,959 --> 00:24:44,800
+These are weird things that I don't think Dante cares about.
+
+286
+00:24:44,800 --> 00:24:46,160
+They get tossed off.
+
+287
+00:24:46,640 --> 00:24:51,279
+But anyway, God could have just said, okay, I'm merciful.
+
+288
+00:24:51,279 --> 00:24:52,560
+I'm going to forgive everybody.
+
+289
+00:24:52,560 --> 00:24:55,679
+Never mind that Adam did this thing and we're all sinful.
+
+290
+00:24:56,080 --> 00:25:12,160
+But even better than that, Dante says, all other means would have been short of the perfect justice, but that God's own Son, capital S, Jesus, but not called Jesus, humbled himself to take on mortal clay.
+
+291
+00:25:12,160 --> 00:25:16,880
+So Jesus takes on a body that's already interesting.
+
+292
+00:25:16,880 --> 00:25:24,319
+A body which, because Dante is getting so platonic here, doesn't seem to be a good thing to have.
+
+293
+00:25:24,320 --> 00:25:30,239
+Although, remember, Dante says in another place, you'll be better when you get your body back than you are now.
+
+294
+00:25:30,239 --> 00:25:34,880
+Well, you think if that's the trait, then why shouldn't Jesus take on this body?
+
+295
+00:25:35,439 --> 00:25:38,719
+Why is it so bad to take on mortal clay?
+
+296
+00:25:38,719 --> 00:25:50,479
+But that's, and the answers, I mean, there's no answer to that, but why he does it, why he takes it on, I just want to tell you, is because he makes up for our sinfulness.
+
+297
+00:25:50,479 --> 00:25:52,960
+This is way off on 165.
+
+298
+00:25:52,959 --> 00:25:58,239
+Again, you don't need to know this, but I have to talk about where Jesus is in here.
+
+299
+00:25:58,239 --> 00:26:01,040
+He talks about he has a vision of Christ.
+
+300
+00:26:01,039 --> 00:26:03,999
+Now he's calling Jesus Christ.
+
+301
+00:26:04,039 --> 00:26:14,359
+And that whoever takes his cross and follows Christ will pardon me that I leave here unsaid what he sees at the great dawn from Christ.
+
+302
+00:26:14,360 --> 00:26:15,319
+Period.
+
+303
+00:26:15,320 --> 00:26:16,199
+That's it.
+
+304
+00:26:16,199 --> 00:26:21,080
+That's Jesus in all of the Paradiso story, except for one other place.
+
+305
+00:26:21,080 --> 00:26:22,519
+Maybe you got it or something.
+
+306
+00:26:22,519 --> 00:26:23,640
+Oh, maybe that's what I mean.
+
+307
+00:26:23,719 --> 00:26:24,920
+Oh, no, I don't know that one.
+
+308
+00:26:24,920 --> 00:26:25,640
+We have to find it.
+
+309
+00:26:25,640 --> 00:26:26,360
+31.
+
+310
+00:26:26,360 --> 00:26:30,920
+Let me just wait to make sure that I've got my references here.
+
+311
+00:26:31,479 --> 00:26:33,560
+Well, okay, I just want to say, finish.
+
+312
+00:26:33,560 --> 00:26:35,239
+Oh, maybe you've got the same one I have.
+
+313
+00:26:35,239 --> 00:26:37,319
+I have page 354.
+
+314
+00:26:37,320 --> 00:26:38,599
+Is that right?
+
+315
+00:26:38,920 --> 00:26:39,960
+Oh, you've got another one.
+
+316
+00:26:39,959 --> 00:26:41,239
+346.
+
+317
+00:26:41,560 --> 00:26:43,079
+346?
+
+318
+00:26:44,039 --> 00:26:45,239
+342.
+
+319
+00:26:45,560 --> 00:26:46,199
+Okay.
+
+320
+00:26:46,759 --> 00:26:48,120
+What lines?
+
+321
+00:26:49,080 --> 00:26:50,360
+107.
+
+322
+00:26:50,360 --> 00:26:51,320
+Aha, yeah.
+
+323
+00:26:51,320 --> 00:26:52,600
+Oh, Jesus even.
+
+324
+00:26:52,600 --> 00:26:53,480
+Look at that.
+
+325
+00:26:53,640 --> 00:27:04,040
+Says to himself, as long as it is, my Lord Jesus Christ, true God, and is this then the likeness of thy living flesh portrayed?
+
+326
+00:27:04,039 --> 00:27:05,239
+What is going on?
+
+327
+00:27:05,239 --> 00:27:10,359
+So did I gaze in the living love of him who in this world?
+
+328
+00:27:11,239 --> 00:27:12,439
+Well, I don't know what's happening.
+
+329
+00:27:12,439 --> 00:27:14,039
+We have to look and see.
+
+330
+00:27:14,039 --> 00:27:15,719
+Do you know what's happening?
+
+331
+00:27:16,360 --> 00:27:18,679
+Okay, then we have to all look and see.
+
+332
+00:27:18,679 --> 00:27:20,679
+Well, that's a new problem for me to learn.
+
+333
+00:27:20,679 --> 00:27:21,479
+I don't know.
+
+334
+00:27:21,479 --> 00:27:23,640
+I don't understand what's going on.
+
+335
+00:27:24,679 --> 00:27:32,759
+See, the reason I'm so puzzled, I mean, he could just be seeing Jesus throned and crowned, as he's talking about.
+
+336
+00:27:33,479 --> 00:27:34,920
+The queen is resonant.
+
+337
+00:27:35,400 --> 00:27:36,759
+No, the queen is.
+
+338
+00:27:36,999 --> 00:27:39,079
+Well, no, no, the queen is thrown and crowned.
+
+339
+00:27:39,080 --> 00:27:41,559
+He's just making an analogy.
+
+340
+00:27:44,279 --> 00:27:45,639
+Any help from Chiardi?
+
+341
+00:27:45,640 --> 00:27:47,959
+That is asking a lot, but we better look.
+
+342
+00:27:47,959 --> 00:27:48,999
+108.
+
+343
+00:27:49,320 --> 00:27:52,920
+I wonder if this is the vision that..
+
+344
+00:27:52,920 --> 00:27:54,640
+Bernard had.
+
+345
+00:27:54,959 --> 00:28:01,039
+He was rewarded for his holiness being permitted a vision of heaven's blessedness while he was yet on earth.
+
+346
+00:28:01,039 --> 00:28:02,400
+Is that what it's about?
+
+347
+00:28:02,400 --> 00:28:03,679
+No, that's later.
+
+348
+00:28:03,679 --> 00:28:06,479
+No, Chardi doesn't have a thing to say about it.
+
+349
+00:28:06,719 --> 00:28:08,880
+Well, all I can say is a new puzzle.
+
+350
+00:28:08,880 --> 00:28:10,160
+We'll learn some.
+
+351
+00:28:10,160 --> 00:28:11,199
+But it doesn't change.
+
+352
+00:28:11,199 --> 00:28:21,120
+It won't change anything important because it turns out that Jesus doesn't play any special role.
+
+353
+00:28:22,719 --> 00:28:28,239
+Not God being made flesh, not loving us, not us loving Jesus.
+
+354
+00:28:28,719 --> 00:28:33,359
+And Jesus is finally really completely disembodied.
+
+355
+00:28:33,360 --> 00:28:40,719
+The last mention of Jesus is sort of trivial and pathetic, it seems to me, on 365.
+
+356
+00:28:40,719 --> 00:28:52,640
+Given that that's very under the poem now, given you got a kind of abstract God that doesn't have any body, but is this pure radiance in three circles?
+
+357
+00:28:52,640 --> 00:29:00,559
+If you look into that pure radiance, Dante says, you can see a man's image.
+
+358
+00:29:01,600 --> 00:29:04,239
+This is the very top of 365.
+
+359
+00:29:04,560 --> 00:29:10,640
+And he says, seemed in itself of its own coloration to be painted with a man's image.
+
+360
+00:29:10,640 --> 00:29:15,519
+I fixed my eyes on that alone in rapturous contemplation.
+
+361
+00:29:15,519 --> 00:29:26,319
+So Jesus turns out finally to be in the Paradiso story without a body and pretty much without a job, it seems to me.
+
+362
+00:29:26,320 --> 00:29:29,120
+And that's inevitable, I want to say.
+
+363
+00:29:29,120 --> 00:29:44,920
+If you start trying to think about Christianity in Greek categories, you're going to end up with an Aristotelian God that has no place for becoming a body and no personality and not the sort of being you could really pray to.
+
+364
+00:29:44,920 --> 00:29:52,920
+Dante does pray, but he prays to Beatrice, which is because Beatrice takes on all the interesting functions of Jesus.
+
+365
+00:29:52,920 --> 00:29:55,079
+Beatrice has a body.
+
+366
+00:29:55,080 --> 00:29:57,079
+Beatrice loves Dante.
+
+367
+00:29:57,080 --> 00:29:58,679
+Dante loves Beatrice.
+
+368
+00:29:58,679 --> 00:30:01,400
+Dante can pray to Beatrice and so forth.
+
+369
+00:30:01,400 --> 00:30:06,920
+She's doing all the jobs of Jesus.
+
+370
+00:30:06,920 --> 00:30:09,559
+And Jesus is left with sort of no jobs.
+
+371
+00:30:09,560 --> 00:30:12,599
+And that's it for that.
+
+372
+00:30:14,199 --> 00:30:15,800
+So, okay.
+
+373
+00:30:16,439 --> 00:30:25,719
+Now comes the general ending of the poem, where you see, I think, the total breakdown of the whole attempt.
+
+374
+00:30:25,720 --> 00:30:27,640
+I mean, this is really fascinating.
+
+375
+00:30:27,639 --> 00:30:33,880
+I mean, there is this huge medieval synthesis, this amazing achievement of finding Aristotle and St.
+
+376
+00:30:33,959 --> 00:30:39,800
+Thomas trans and putting Aristotle together with Christianity, and that's called the medieval synthesis.
+
+377
+00:30:39,800 --> 00:30:46,280
+And the question is: what sort of view does it give us of God and of us and their relation?
+
+378
+00:30:46,280 --> 00:30:47,959
+Does it make any sense?
+
+379
+00:30:47,959 --> 00:30:52,439
+And it seems to me it just breaks down completely.
+
+380
+00:30:53,400 --> 00:30:56,679
+And so I don't really understand.
+
+381
+00:30:56,680 --> 00:31:01,160
+And maybe people will send me iPod messages.
+
+382
+00:31:01,159 --> 00:31:12,679
+I mean, how do people still believe this medieval synthesis, this mapping of Christianity on Aristotle that St.
+
+383
+00:31:12,680 --> 00:31:13,879
+Thomas brought about?
+
+384
+00:31:13,880 --> 00:31:22,559
+Because Dante, it seems to me, sort of thinking it through and feeling it through, ends up with the breakdown of everything.
+
+385
+00:31:22,559 --> 00:31:24,959
+But now let me see if I can show you this.
+
+386
+00:31:22,360 --> 00:31:26,400
+I don't have to convince you of that.
+
+387
+00:31:28,320 --> 00:31:30,559
+I'm not saying that Christianity breaks down.
+
+388
+00:31:30,559 --> 00:31:35,120
+I'm saying the attempt to put Christianity in Greek terms breaks down.
+
+389
+00:31:35,119 --> 00:31:39,120
+So much the better for Christianity once you stop trying to do that.
+
+390
+00:31:39,119 --> 00:31:43,600
+Okay, so here we go at the end of the poem.
+
+391
+00:31:43,599 --> 00:31:53,360
+So God has created this best of all possible worlds in which everything is harmonized and everybody is going to be happy.
+
+392
+00:31:54,320 --> 00:31:57,519
+This is in Canto 8, line 100.
+
+393
+00:31:57,519 --> 00:32:03,999
+Not only does that perfect mind provide for the diversities of every nature, but for their good and harmony besides.
+
+394
+00:32:03,999 --> 00:32:05,519
+I mean, that's all over the place.
+
+395
+00:32:05,519 --> 00:32:09,359
+I mean, that's what you get from a good, perfect creator God.
+
+396
+00:32:09,360 --> 00:32:15,679
+You get a world in which everything is harmonized and all and taken care of.
+
+397
+00:32:16,159 --> 00:32:23,519
+And therefore, all you have to do is get in the right relation to God, and you'll be taken care of.
+
+398
+00:32:23,519 --> 00:32:29,600
+And now it's in your own reading, in Canto 30, line 39.
+
+399
+00:32:30,800 --> 00:32:41,439
+She says, or Dante says, light of the intellect, which is love unending, love of the true good, which is holy bliss, bliss beyond bliss, all joys transcending.
+
+400
+00:32:41,519 --> 00:32:47,040
+I mean, that's what it is to contemplate God, according to Dante.
+
+401
+00:32:47,680 --> 00:32:52,719
+And I'm already sort of worried about that, that you don't hear anything about love in there.
+
+402
+00:32:52,720 --> 00:32:54,640
+It seems too intellectual.
+
+403
+00:32:54,639 --> 00:33:00,559
+But again, that's already what happens when you put philosophy into it.
+
+404
+00:33:00,559 --> 00:33:04,640
+It turns in, that's the Aristotle problem.
+
+405
+00:33:04,639 --> 00:33:06,239
+But that's not the real problem.
+
+406
+00:33:06,240 --> 00:33:08,760
+There's a big, much, much bigger problem.
+
+407
+00:33:07,760 --> 00:33:14,760
+And that starts to become clear on 364.
+
+408
+00:33:15,880 --> 00:33:19,560
+That's Canto 33, line 100.
+
+409
+00:33:19,559 --> 00:33:23,880
+So experiencing that radiance, he's now looking straight into God.
+
+410
+00:33:23,880 --> 00:33:29,160
+The spirit is so indrawn, it is impossible even to think of ever turning from it.
+
+411
+00:33:29,159 --> 00:33:41,720
+For the good, which is the will's ultimate object, that's God's, they set us up that way, is all subsumed in it, being removed, all is defective, which in it is perfect.
+
+412
+00:33:41,720 --> 00:33:46,199
+Well, in other words, looking into God, all your desires are fulfilled.
+
+413
+00:33:46,200 --> 00:33:49,000
+You wouldn't want to look anyplace else.
+
+414
+00:33:49,320 --> 00:33:52,280
+Now, that's when things begin to break down.
+
+415
+00:33:52,280 --> 00:34:00,520
+Remember that Dante was, at the beginning of the divine comedy, a very committed person.
+
+416
+00:34:00,519 --> 00:34:04,200
+He had at least two total commitments.
+
+417
+00:34:04,200 --> 00:34:14,439
+One of them was to Beatrice, that he's writing this whole poem for, who's his lady, gives his whole life meaning, for whom he would die, the whole chivalric story.
+
+418
+00:34:14,439 --> 00:34:18,840
+And the other, which you see a lot less of, is his political commitments.
+
+419
+00:34:18,840 --> 00:34:33,320
+That we did see this, that Dante created this place outside of the limbo that isn't even in the tradition to put the uncommitted people, the people that Giardi calls opportunists, but who aren't opportunists.
+
+420
+00:34:33,400 --> 00:34:34,520
+They're uncommitted.
+
+421
+00:34:34,519 --> 00:34:44,599
+And we see him again getting very upset about the slothful in purgatory and uh in in in uh inferno.
+
+422
+00:34:44,599 --> 00:35:15,520
+Dante is a totally activist, political, committed, to the point of being exiled person now so it's incredible but but inevitable that if god is so totally satisfied ask yourself how is politics going to look and how is Beatrice going to look from the point of view of Dante who's now seeing it all from Paradise's perspective.
+
+423
+00:35:15,519 --> 00:35:23,840
+Well first I gave out to you the handout that has on it page 250 and 251 of the parody.
+
+424
+00:35:23,840 --> 00:35:27,119
+So I gave it out last time because I thought I was going to get there last time.
+
+425
+00:35:27,119 --> 00:35:41,680
+That it's just a few cantos, but it's so touching and it's so important that all of his political commitments vanish from where he, from looking down from paradise.
+
+426
+00:35:42,159 --> 00:35:57,280
+So on page 250, line 132, my eyes went back through the seven spheres below and I saw this globe, that's us, the earth, so small, so lost in space, I had to smile with such a starry show.
+
+427
+00:35:57,280 --> 00:36:01,040
+Who thinks it is the least pebble in the skies?
+
+428
+00:36:01,039 --> 00:36:09,840
+I must one who, certain who thinks, as someone who thinks it is the least pebble in the skies, I must approve anybody who thinks that.
+
+429
+00:36:09,840 --> 00:36:13,920
+Only the mind that turns to other things may truly be called wise.
+
+430
+00:36:13,920 --> 00:36:18,479
+Anybody who cares about anything earthly isn't wise.
+
+431
+00:36:18,479 --> 00:36:37,359
+And then again at the very end, line 150, and turning there with the eternal twins, that forget those are two stark constellations, I saw, and here's the crucial line, the dusty little threshing floor that makes us ravenous for our mad sins and so forth.
+
+432
+00:36:37,360 --> 00:36:46,600
+That is, that he sees the earth as a dusty little threshing floor where people get committed to things.
+
+433
+00:36:46,920 --> 00:36:51,880
+And that now turns out to be not wise.
+
+434
+00:36:51,880 --> 00:37:08,360
+And he sees what a terrible mistake it is to care about anything earthly when you've got, remember, you've got to keep in mind an experience coming up in the order of the book of a God that is so radiant, so fulfilling that you couldn't turn away from him.
+
+435
+00:37:08,360 --> 00:37:11,319
+So how in the world could you care about politics?
+
+436
+00:37:11,639 --> 00:37:19,319
+Or, and now it gets even more interesting, yeah, now it gets even more interesting, of course, because this is something you know about.
+
+437
+00:37:19,320 --> 00:37:21,000
+You don't know about politics.
+
+438
+00:37:20,999 --> 00:37:24,840
+We didn't have time for that, and it isn't really interesting anyway.
+
+439
+00:37:24,840 --> 00:37:30,840
+But what you, but the other thing, what else does he have to give up by this story?
+
+440
+00:37:30,840 --> 00:37:32,760
+You ought to be able to figure that out.
+
+441
+00:37:33,400 --> 00:37:34,999
+He's committed to politics.
+
+442
+00:37:34,999 --> 00:37:36,840
+What else is he committed to?
+
+443
+00:37:36,840 --> 00:37:38,040
+Beatrice.
+
+444
+00:37:38,039 --> 00:37:39,639
+He has to give up Beatrice.
+
+445
+00:37:39,639 --> 00:37:42,760
+That's where the thing begins to break down completely.
+
+446
+00:37:42,760 --> 00:37:50,920
+This greatest poem that he's writing to this greatest person who is the Jesus figure for him now leaves him.
+
+447
+00:37:50,920 --> 00:37:51,959
+And he's happy.
+
+448
+00:37:51,959 --> 00:37:53,320
+He doesn't mind at all.
+
+449
+00:37:53,320 --> 00:38:10,200
+So there was once upon a time he embodied Beatrice whose legs, whose mouth, whose eyes, and then anyway, after she dies, whose soul was supposed to be totally ravishing, sensually and intellectually and spiritually and everything.
+
+450
+00:38:10,200 --> 00:38:15,560
+And what, of course, once he sees God, he doesn't need her anymore.
+
+451
+00:38:16,360 --> 00:38:26,800
+On page 340, when he's after looking into the divine radiance, he turns, or where's he looking at?
+
+452
+00:38:22,840 --> 00:38:38,799
+So, well, he's looking, I don't know, not at the absolutely looking at God, because he wouldn't be able to turn away, but he turns, having looked at some aspect of God, and what does he see?
+
+453
+00:38:38,800 --> 00:38:40,800
+Beatrice is gone.
+
+454
+00:38:41,439 --> 00:38:45,679
+And he sees instead Saint Bernard.
+
+455
+00:38:45,680 --> 00:38:50,400
+But at the bottom of 340, which you have 31, she, where is she?
+
+456
+00:38:50,400 --> 00:38:52,560
+I cried in sudden dread.
+
+457
+00:38:52,559 --> 00:38:59,920
+And he says, Saint, to lead you to the goal of all your wish, Beatrice called me from my place, and so forth.
+
+458
+00:38:59,920 --> 00:39:01,039
+So what do you get there?
+
+459
+00:39:01,039 --> 00:39:03,840
+Beatrice is the way and not the truth.
+
+460
+00:39:03,840 --> 00:39:15,360
+Beatrice's job was to lead Dante to the point where he could have a vision of God so overwhelming that he wouldn't even care about Beatrice.
+
+461
+00:39:15,920 --> 00:39:24,240
+That's what she was supposed to do, and that's what she did, and he thanks her for it on page 341.
+
+462
+00:39:24,240 --> 00:39:27,920
+And it's like what one would normally thank Jesus for.
+
+463
+00:39:28,079 --> 00:39:38,319
+Middle of it, line 79: O lady in whom my hope shall ever soar, and who for my salvation suffered even to set your feet upon hell's broken floor, and so forth and so on.
+
+464
+00:39:38,320 --> 00:39:43,360
+You have led me, and now line 85, that's the path, that's the way.
+
+465
+00:39:43,360 --> 00:39:52,880
+You have led me from my bondage and set me free by all those roads, all those loving means that lay within your power and charity.
+
+466
+00:39:52,880 --> 00:39:54,080
+And that's it.
+
+467
+00:39:55,200 --> 00:39:58,080
+She's set him up to look at God.
+
+468
+00:39:58,079 --> 00:40:01,600
+And now what happens when they look at her and when he looks at her?
+
+469
+00:40:01,599 --> 00:40:06,719
+Well, first, she gives him one last look on 341, the bottom of the page.
+
+470
+00:40:06,720 --> 00:40:07,920
+Such was my prayer.
+
+471
+00:40:08,119 --> 00:40:13,160
+And she, far up a mountain, as it appeared to me, looked down and smiled.
+
+472
+00:40:13,159 --> 00:40:16,120
+Then she turned back to the eternal fountain.
+
+473
+00:40:16,119 --> 00:40:21,239
+And if you're reading carefully, you understand that she's never going to turn away from it again.
+
+474
+00:40:21,240 --> 00:40:23,239
+She only had to turn away from it to help.
+
+475
+00:40:23,240 --> 00:40:26,280
+Dante, where's that quote I read you already?
+
+476
+00:40:26,280 --> 00:40:31,800
+Once you've seen God, it is so fulfilling, you can never turn away from it again.
+
+477
+00:40:33,079 --> 00:40:35,560
+I don't know where it is.
+
+478
+00:40:36,119 --> 00:40:37,080
+Here it is.
+
+479
+00:40:37,880 --> 00:40:39,959
+The top of 364.
+
+480
+00:40:39,959 --> 00:40:45,959
+Experiencing that radiance, the spirit is so indrawn it is impossible even to think of ever turning from it.
+
+481
+00:40:45,959 --> 00:40:48,120
+So he's going to look at the radiance.
+
+482
+00:40:48,119 --> 00:40:53,640
+Now, Beatrice gives him one look, and that's it.
+
+483
+00:40:53,639 --> 00:40:55,959
+Then she goes back to her place in the rose.
+
+484
+00:40:55,959 --> 00:40:57,640
+Now you look at this.
+
+485
+00:40:58,280 --> 00:41:08,359
+So just, I had to get this and hand it out to you so you could see that Dante sees, where do you see Beatrice?
+
+486
+00:41:08,360 --> 00:41:09,800
+You see her there?
+
+487
+00:41:10,439 --> 00:41:14,520
+Up on the left, three notches down.
+
+488
+00:41:15,079 --> 00:41:20,680
+I drew a little circle around it, but not in this copy, so because you have to find her yourself.
+
+489
+00:41:20,680 --> 00:41:26,040
+So I don't know quite where Dante is standing outside of this whole thing, I guess.
+
+490
+00:41:26,039 --> 00:41:36,280
+And he is seeing Beatrice way off in the distance, giving him one last look and then turning toward God, the center of this.
+
+491
+00:41:36,280 --> 00:41:37,559
+And that's the end.
+
+492
+00:41:37,559 --> 00:41:40,520
+She doesn't see Dante anymore.
+
+493
+00:41:40,519 --> 00:41:49,000
+And presumably, when Dante gets pulled into it, he doesn't see Beatrice anymore either.
+
+494
+00:41:49,959 --> 00:41:51,880
+I don't know if I have evidence for that.
+
+495
+00:41:51,880 --> 00:41:52,800
+Let's see.
+
+496
+00:41:53,119 --> 00:41:56,319
+It follows, I permanent things, but I would like to see it.
+
+497
+00:41:52,200 --> 00:41:58,959
+Oh, of course I, of course, it follows, and I'll see it in a minute.
+
+498
+00:41:59,280 --> 00:42:11,120
+So there's no place in God's creation anymore once you've seen God for anything else being significant or important to you.
+
+499
+00:42:11,119 --> 00:42:19,360
+Because God is so significant and so important and so satisfies every desire that you wouldn't ever turn away.
+
+500
+00:42:19,360 --> 00:42:23,600
+And finally, that's what happens to Dante.
+
+501
+00:42:24,400 --> 00:42:31,360
+He gets zapped up into this eternal contemplation of God.
+
+502
+00:42:31,360 --> 00:42:45,119
+And so he never's going to see Beatrice again on 365 at the very bottom, the last lines of the poem, which is supposed to be a comedy that seems to me very sad.
+
+503
+00:42:45,119 --> 00:42:59,840
+142, here my powers rest from their high fantasy, but already I could feel my being turned, instinct and intellect balanced equally, as in a wheel whose motion nothing jars by the love that moves the sun and the other stars.
+
+504
+00:42:59,840 --> 00:43:02,320
+That is, what's happened to Dante?
+
+505
+00:43:02,320 --> 00:43:27,439
+Well, he's finally been led by Beatrice, who was disembodied, to a God who also has no body, and they all have nothing to do with the world, which is that mortal play, and no place for love and devotion to any particular person or particular thing.
+
+506
+00:43:27,439 --> 00:43:35,920
+All there is is a total radiance with the faint glimmer of a human face.
+
+507
+00:43:36,479 --> 00:43:38,520
+And that's what he's going to see now.
+
+508
+00:43:38,519 --> 00:43:41,319
+If he were dead, that's what he was going to see for eternity.
+
+509
+00:43:41,320 --> 00:43:44,520
+But he's got his special case where he's going to have to go back to the world.
+
+510
+00:43:44,519 --> 00:43:52,200
+It's very interesting to ask yourself: what is his view going to be of politics and what is his memory of Beatrice going to be once he's seen that?
+
+511
+00:43:52,200 --> 00:43:54,760
+I think he has to think that they're all trivial.
+
+512
+00:43:55,639 --> 00:43:57,319
+How could they not be trivial?
+
+513
+00:43:57,880 --> 00:44:01,400
+And once you've seen what it's like to merge with God.
+
+514
+00:44:01,800 --> 00:44:06,999
+And that's the happy ending of the comedy, of what they later called the divine comedy.
+
+515
+00:44:06,999 --> 00:44:09,400
+Dante is wiped out.
+
+516
+00:44:09,400 --> 00:44:14,439
+He doesn't have a will anymore, a personality anymore, an identity anymore.
+
+517
+00:44:14,439 --> 00:44:18,200
+He's just become, he doesn't have free will, that's sure.
+
+518
+00:44:18,200 --> 00:44:24,920
+He's just become part of the general movement of the universe.
+
+519
+00:44:24,920 --> 00:44:26,920
+He's merged with God.
+
+520
+00:44:26,920 --> 00:44:35,239
+And now, that's now that I want to say, that's the breakdown of the medieval synthesis.
+
+521
+00:44:35,800 --> 00:44:36,840
+Unless St.
+
+522
+00:44:36,840 --> 00:44:52,679
+Thomas could do it better, which I don't know enough to be able to have an opinion of, Dante, who's pretty smart, I think, and does it very well, as best he can, ends up in something which seems to me a kind of nihilism.
+
+523
+00:44:52,680 --> 00:44:54,760
+I have to explain now what I mean.
+
+524
+00:44:55,559 --> 00:44:58,039
+There's something which is really Christian nihilism.
+
+525
+00:44:58,039 --> 00:45:00,599
+Kierkegaard, a kind of despair.
+
+526
+00:45:00,599 --> 00:45:02,840
+But it's already here in God.
+
+527
+00:45:02,840 --> 00:45:04,279
+And U2 writes about it.
+
+528
+00:45:04,680 --> 00:45:05,880
+The music of U2.
+
+529
+00:45:05,880 --> 00:45:07,479
+I should have brought in a quote.
+
+530
+00:45:07,800 --> 00:45:09,640
+How many of you listen to U2?
+
+531
+00:45:09,639 --> 00:45:21,600
+Oh, I'll bring in a quote next time where they talk about how somebody took, they talk about how the girl looked into the sun and forgot them.
+
+532
+00:45:21,320 --> 00:45:25,679
+And that's the same experience.
+
+533
+00:45:25,999 --> 00:45:34,160
+So anyway, Dante's got this experience in which if you push it to the limit, which he does, all meaning gets leveled.
+
+534
+00:45:34,159 --> 00:45:36,560
+It isn't that all meaning goes away.
+
+535
+00:45:36,559 --> 00:45:40,080
+That would be modern nihilism, not Christian nihilism.
+
+536
+00:45:40,079 --> 00:45:46,959
+But what happens is there's nothing any more meaningful than anything else.
+
+537
+00:45:46,959 --> 00:45:52,719
+Everything is equally meaningful, which in a certain sense makes everything equally unmeaningful.
+
+538
+00:45:53,280 --> 00:46:02,560
+What you want is things that stand out as special, like Beatrice or the Guelphs or the Ghibellines in the politics of Florence.
+
+539
+00:46:02,559 --> 00:46:06,879
+And all that gets leveled by God.
+
+540
+00:46:07,280 --> 00:46:15,839
+Everything finite, historical, political, embodied, even Jesus doesn't matter anymore.
+
+541
+00:46:17,439 --> 00:46:22,800
+And that's what happens with a super monotheism.
+
+542
+00:46:23,599 --> 00:46:25,519
+I just put it here, finally summing it up.
+
+543
+00:46:25,519 --> 00:46:31,200
+In this kind of monotheism, no creature has any special meaning.
+
+544
+00:46:31,840 --> 00:46:35,920
+So either all, I mean, all the creatures are just equally meaningless.
+
+545
+00:46:35,920 --> 00:46:36,399
+Yeah.
+
+546
+00:46:36,959 --> 00:46:37,439
+What?
+
+547
+00:46:45,360 --> 00:46:46,159
+That's true.
+
+548
+00:46:53,119 --> 00:46:58,080
+Okay, I I I think they're right, but I think I could turn it around and say something like this.
+
+549
+00:46:58,079 --> 00:47:02,160
+I mean, you can have this mystical vision in your life.
+
+550
+00:47:02,159 --> 00:47:06,959
+And if you do, and it is the highest thing you can have, and the sooner you have it, the better.
+
+551
+00:47:06,959 --> 00:47:24,279
+And if you add all that, at least it's true that the the most sort of fulfilled and worthy person would be living in the world in this strange way that I picture Dante living in the world after his mystical vision.
+
+552
+00:47:24,280 --> 00:47:28,840
+And if your story would work if it was half work, I think.
+
+553
+00:47:28,840 --> 00:47:31,159
+I like it that you're you're trying for him.
+
+554
+00:47:31,959 --> 00:47:40,200
+Your theory would half work if you couldn't have this vision that totally satisfied you and you couldn't turn away from it in this life.
+
+555
+00:47:40,200 --> 00:47:41,320
+That would be the first move.
+
+556
+00:47:41,320 --> 00:47:50,840
+Then at least in this life, things would be meaningful for you and there would be more important meaning and less important meaning and things that are really tremendously meaningful.
+
+557
+00:47:51,320 --> 00:47:52,039
+That's good.
+
+558
+00:47:52,039 --> 00:47:55,639
+But I think Dante thinks you can have this experience in this life.
+
+559
+00:47:55,639 --> 00:47:56,759
+I think that's what St.
+
+560
+00:47:56,760 --> 00:47:58,039
+Bernard is supposed to have had.
+
+561
+00:47:58,039 --> 00:48:00,680
+It makes him the guide at the end.
+
+562
+00:48:00,680 --> 00:48:01,559
+But let's do it.
+
+563
+00:48:01,720 --> 00:48:04,439
+Let's suppose you can't have this vision.
+
+564
+00:48:04,439 --> 00:48:09,479
+Then it follows, as you say, that things in your world would be relevant.
+
+565
+00:48:09,479 --> 00:48:11,959
+Some would be more important than others.
+
+566
+00:48:11,959 --> 00:48:13,160
+That's fine.
+
+567
+00:48:13,159 --> 00:48:20,200
+But then you get the peculiar f result that in the afterlife, things are less meaningful.
+
+568
+00:48:21,079 --> 00:48:24,519
+You get a meaningful life, but then you get a nihilistic afterlife.
+
+569
+00:48:24,760 --> 00:48:27,479
+It's a peculiar phenomenon.
+
+570
+00:48:27,479 --> 00:48:30,760
+Because in the afterlife, there isn't anymore.
+
+571
+00:48:31,479 --> 00:48:35,239
+Dante can't even look at Beatrice anymore and so forth.
+
+572
+00:48:35,240 --> 00:48:42,519
+None of the old meaningful things are preserved, which is a funny view of the afterlife, because you you're supposed to get in the afterlife the the truth.
+
+573
+00:48:42,479 --> 00:48:45,320
+Aha ha, what a wonderful move I'm about to make.
+
+574
+00:48:45,320 --> 00:48:47,319
+But I'm pleased with it.
+
+575
+00:48:47,320 --> 00:49:12,080
+I mean, i if it's true that Dante reveals the the truth of whatever existence you had by the eternal significance of it, and you get it in the afterlife, the bad people get the true awfulness of their lives forever, and the good people get the true bliss of their lives forever, then what you get, the truth of it all, is still this kind of nihilism.
+
+576
+00:49:12,079 --> 00:49:13,599
+That is, you don't like that.
+
+577
+00:49:13,599 --> 00:49:15,680
+I mean, how can you avoid that?
+
+578
+00:49:17,999 --> 00:49:18,559
+That's nice.
+
+579
+00:49:20,159 --> 00:49:22,160
+Do you get enjoyment anymore?
+
+580
+00:49:22,479 --> 00:49:26,079
+I'm sure that all those.
+
+581
+00:49:26,320 --> 00:49:27,360
+Aha.
+
+582
+00:49:27,680 --> 00:49:28,320
+Okay.
+
+583
+00:49:28,639 --> 00:49:39,199
+I'm so glad I handed out page 250 and 251 because he says that all the politics in Florence, all the life on earth he now sees as meaningless.
+
+584
+00:49:39,200 --> 00:49:50,479
+It's as if you're a racing car driver, looking back at all the stress and strain and risk of his life and so forth, now sees that that was all trivial.
+
+585
+00:49:51,119 --> 00:49:53,599
+And maybe that's the way to put the mistake.
+
+586
+00:49:54,479 --> 00:49:55,920
+Okay, he shouldn't say that.
+
+587
+00:49:55,920 --> 00:49:57,760
+I mean, you're doing okay.
+
+588
+00:49:57,760 --> 00:50:02,319
+But something in the system, I'm not sure I understand really what it is.
+
+589
+00:50:02,320 --> 00:50:16,720
+I guess that namely, simply that this monotheistic creator God, after all, must be completely satisfying that makes everything retroactively trivial once you see that.
+
+590
+00:50:18,479 --> 00:50:19,360
+I see what you're saying.
+
+591
+00:50:19,360 --> 00:50:20,640
+You see what I'm saying?
+
+592
+00:50:20,639 --> 00:50:24,719
+Okay, so, but you pushed me, fine, I'm happy.
+
+593
+00:50:24,720 --> 00:50:30,959
+I mean, you pushed me to make as clear a case as I can for what I call medieval nihilism.
+
+594
+00:50:31,280 --> 00:50:34,880
+It's, I mean, it's the everything-leveled view.
+
+595
+00:50:35,119 --> 00:50:37,679
+Nietzsche calls it monotonotheism.
+
+596
+00:50:38,280 --> 00:50:45,319
+And Kierkegaard talks about leveling, but it is certainly an amazing phenomenon.
+
+597
+00:50:45,320 --> 00:50:48,439
+Let me just catch up with after that good discussion.
+
+598
+00:50:49,240 --> 00:50:56,680
+So once you get direct access to the Creator, then everything else doesn't matter anymore.
+
+599
+00:50:56,680 --> 00:51:06,760
+And that makes medieval monolithic monotheism essentially a kind of leveling nihilism.
+
+600
+00:51:07,079 --> 00:51:08,840
+And I've just been saying that.
+
+601
+00:51:08,840 --> 00:51:17,720
+So that is human beings, history, politics become, you see the truth of them, and you see that they are and always were trivial.
+
+602
+00:51:18,360 --> 00:51:20,839
+That's what I'm claiming anyway.
+
+603
+00:51:20,840 --> 00:51:22,040
+Now let's see.
+
+604
+00:51:23,959 --> 00:51:28,439
+So God as supreme being and creator has swallowed up everything.
+
+605
+00:51:28,760 --> 00:51:37,640
+And I think that's what happens if you put Christianity in Greek Aristotelian Platonic terms.
+
+606
+00:51:39,079 --> 00:51:43,320
+And now, good, I have 15 more minutes.
+
+607
+00:51:43,559 --> 00:51:45,479
+So anybody can say anything if they want.
+
+608
+00:51:45,479 --> 00:51:51,320
+And then I want to make a kind of transition jump a thousand years to Dante Melville.
+
+609
+00:51:51,320 --> 00:51:53,159
+Is it a thousand years, 1,300?
+
+610
+00:51:53,880 --> 00:51:54,760
+Not quite.
+
+611
+00:51:56,039 --> 00:51:57,640
+700 years, right?
+
+612
+00:51:57,639 --> 00:51:58,920
+500 years.
+
+613
+00:51:58,920 --> 00:52:04,840
+Okay, anyway, Barry did a good job of speaking for the other side.
+
+614
+00:52:04,840 --> 00:52:14,039
+And I think you could maybe reformulate Dante so that he came out on the other side, but there is a version of Christianity that does seem to level everything.
+
+615
+00:52:14,039 --> 00:52:15,239
+Now, I don't know what St.
+
+616
+00:52:15,240 --> 00:52:20,199
+Thomas did, but I do know that he said that everything he'd written was straw, right?
+
+617
+00:52:20,200 --> 00:52:21,079
+That's a famous line.
+
+618
+00:52:21,079 --> 00:52:21,880
+Now, why would St.
+
+619
+00:52:21,880 --> 00:52:28,079
+Thomas, having written this amazing synthesis, which transformed or formed the Middle Ages?
+
+620
+00:52:28,079 --> 00:52:37,360
+I mean, he was a big deal reconfigurer, putting these two totally different traditions together and creating the medieval world.
+
+621
+00:52:37,920 --> 00:52:45,839
+He can declare on his deathbed, presumably because he had a mystical vision, right, that it was all straw.
+
+622
+00:52:45,840 --> 00:52:47,999
+And that's the same phenomenon.
+
+623
+00:52:47,999 --> 00:52:51,999
+I think it's very consistent of him and Dante to have done it.
+
+624
+00:52:51,999 --> 00:53:03,200
+Okay, so now I'm switching to how we got to monotheism, to nihilistic monotheism, and what we can do to get out of it.
+
+625
+00:53:03,439 --> 00:53:11,920
+So I'm just heading toward Moby Dick, and how Moby Dick has got to be the answer to this problem.
+
+626
+00:53:12,400 --> 00:53:14,400
+But I've got to get there bit by bit.
+
+627
+00:53:14,400 --> 00:53:24,639
+So I'm going to run through the history, I'm going to run through the course, take a running start, and then sort of leap over these 500 years between Dante and Melville.
+
+628
+00:53:24,639 --> 00:53:48,639
+So I'm just reminding you that in Homer, there was a plurality of gods and a plurality of worlds and a plurality of meanings, different things grabbing different people at different times and different things grabbing the same people at different times, like Helen from erotic runaway lover to a perfect wife, peerless among women, giving the perfect dinner party.
+
+629
+00:53:48,639 --> 00:53:54,400
+I mean, different things at different times is the essence of Homer, and they all can be meaningful.
+
+630
+00:53:55,119 --> 00:53:57,360
+But there's a steady drift in our culture.
+
+631
+00:53:57,360 --> 00:54:00,799
+That's what this course is about: from gods to God and back.
+
+632
+00:54:00,800 --> 00:54:04,080
+We just got to God, I mean, absolute God.
+
+633
+00:54:04,079 --> 00:54:16,200
+And so there are some steps that you go from totally plural worlds like in Homer to there being only two important worlds, the Furies and Apollo, in Aeschylus.
+
+634
+00:54:16,200 --> 00:54:27,959
+And indeed, in Aeschylus, you're already, the tendency is somehow to get them to cooperate, not to get them to sort of assimilate each other, but at least to get them to understand and cooperate.
+
+635
+00:54:28,920 --> 00:54:35,959
+What looked like a conflict between worlds turns out to be able to be sort of stable.
+
+636
+00:54:35,959 --> 00:54:38,920
+It only lasts, if it turns out, 50 years.
+
+637
+00:54:39,240 --> 00:54:51,400
+But then you go further, and you get in Virgil a kind of unity that's supposed to be take up the history of Rome and project the history of Rome all unified around Augustus.
+
+638
+00:54:51,400 --> 00:54:53,800
+And it's supposed to last a thousand years.
+
+639
+00:54:53,800 --> 00:54:56,680
+It didn't, but it lasted an awfully long time.
+
+640
+00:54:57,639 --> 00:55:09,320
+And then finally you get Dante, who thinks that there is one total unified created creation.
+
+641
+00:55:09,880 --> 00:55:15,400
+It determines everything, and it has this leveling effect.
+
+642
+00:55:16,999 --> 00:55:23,639
+And now to put it another way, just to save the parallel thing, for Homer, there wasn't just a plurality of worlds, of course.
+
+643
+00:55:23,639 --> 00:55:25,400
+There was a plurality of gods.
+
+644
+00:55:25,400 --> 00:55:27,880
+I'm just running through it again.
+
+645
+00:55:27,880 --> 00:55:58,240
+Now in Aeschylus, what's interesting to me about Aeschylus isn't, if you remember this, that there are two different divine forces, the Apollonians and the Furies, but there's some god in the background, where Aeschylus says this important thing, something I know not what is behind it all, something behind it all about which he can't say anything.
+
+646
+00:55:58,559 --> 00:56:09,680
+And that's interesting, because that made him able to see that psychology was not what was important.
+
+647
+00:56:09,680 --> 00:56:13,200
+Individuals and their desires weren't important.
+
+648
+00:56:13,200 --> 00:56:37,920
+But what was important was this understanding of being, as Heidegger would call it, in the background practices, which made it possible for people to experience gods like Apollo and gods like the Furies and experience themselves as the patriotic Athenians who were able to hold them all together.
+
+649
+00:56:37,920 --> 00:56:43,679
+He recognized that is Aeschylus that in some sense, by the way, if you don't get all this, don't worry.
+
+650
+00:56:43,680 --> 00:56:50,719
+This is sort of high-level, abstract, really upper-division course for ontology.
+
+651
+00:56:50,720 --> 00:56:55,680
+But I just want to sort of tell it to you, and then you can, you don't feel you need to know it for your papers.
+
+652
+00:56:55,680 --> 00:57:03,040
+The cultural background, but then you see that there is some cultural background more basic than the desires of the individual.
+
+653
+00:57:03,039 --> 00:57:04,880
+But then what happens?
+
+654
+00:57:05,200 --> 00:57:09,120
+Well, what Aeschylus saw gets lost.
+
+655
+00:57:09,439 --> 00:57:23,680
+And so you get in Virgil all about psychological desires of individuals, Aeneas and Ido, and how Aeneas has to do his duty, and Dido has this fatal love for Aeneas, and so forth and so forth.
+
+656
+00:57:23,680 --> 00:57:32,720
+The background that the Greeks saw, the Romans forgot, got hidden, got covered up.
+
+657
+00:57:32,720 --> 00:57:41,959
+All that Virgil saw was the importance of the emperor, and he was the governor of men and produced a political, stable political world order.
+
+658
+00:57:42,280 --> 00:57:59,160
+The background is still there because it's the background of the way people act and think which makes it possible for there being to be a world in which you could think that Augustus could govern it and that that would be all that was going on.
+
+659
+00:57:59,159 --> 00:58:07,240
+And you wouldn't see the shared understanding in the way people behave that was making that go on.
+
+660
+00:58:08,439 --> 00:58:10,199
+But that's how it is.
+
+661
+00:58:10,200 --> 00:58:13,479
+Desires and psychology become central.
+
+662
+00:58:13,800 --> 00:58:19,560
+And then in Dante, the background gets hidden even more.
+
+663
+00:58:19,559 --> 00:58:42,599
+The background which gives, that is this cultural understanding that gives everything its meaning and determines what it makes sense to do, and this is the crucial move, gets replaced by something, namely the supreme being, that has this job of giving everything its meaning, of determining what is intelligible, of determining what it makes sense to do.
+
+664
+00:58:42,599 --> 00:58:45,320
+All that gets put on God the Creator.
+
+665
+00:58:46,119 --> 00:58:48,840
+Heidegger called Heidegger has a word for that.
+
+666
+00:58:49,240 --> 00:58:53,319
+And that's what the Course is, you know, from, I keep saying from gods to God and back.
+
+667
+00:58:53,320 --> 00:58:57,800
+We have now arrived at what Heidegger calls onto theology.
+
+668
+00:58:57,800 --> 00:58:59,560
+Onto theology.
+
+669
+00:58:59,559 --> 00:59:10,840
+Heidegger made up this term, and that means a being is God.
+
+670
+00:59:11,159 --> 00:59:13,239
+That's the Supreme Being.
+
+671
+00:59:14,200 --> 00:59:17,160
+God as Supreme.
+
+672
+00:59:17,479 --> 00:59:19,479
+I don't know how to spell Supreme, but that's all right.
+
+673
+00:59:19,479 --> 00:59:20,039
+You couldn't read.
+
+674
+00:59:20,119 --> 00:59:20,840
+I can't.
+
+675
+00:59:21,159 --> 00:59:22,199
+Let's try again.
+
+676
+00:59:22,240 --> 00:59:26,479
+S-U-P-R-E-M, Supreme Being.
+
+677
+00:59:27,119 --> 00:59:34,080
+So now, the question becomes: how to get out of onto theology.
+
+678
+00:59:34,400 --> 00:59:58,640
+We're stuck in this, and we could be stuck in this view that there has to be, that everything is all given its meaning by this super being, which means in effect that everything loses its meaning, and means that the way the meaning is sustained by people and their culture and their commitments and their works of art has all been covered up.
+
+679
+00:59:59,519 --> 01:00:04,959
+And so the understanding of ontology has gone underground.
+
+680
+01:00:05,280 --> 01:00:12,879
+The background practices that govern everything, make sense of everything, make it that we believe in a creator.
+
+681
+01:00:12,880 --> 01:00:23,920
+They believe in a creator God, which is the ultimate source of meaning, and they don't see that that's just another understanding of being, another stage of the culture.
+
+682
+01:00:23,920 --> 01:00:24,719
+They're in it.
+
+683
+01:00:24,720 --> 01:00:26,080
+They think that's it.
+
+684
+01:00:26,079 --> 01:00:27,360
+We've got this supreme being.
+
+685
+01:00:27,360 --> 01:00:29,120
+It's always, it's eternal.
+
+686
+01:00:29,519 --> 01:00:31,520
+And we don't have to do anything.
+
+687
+01:00:32,079 --> 01:00:34,160
+We just contemplate it.
+
+688
+01:00:34,159 --> 01:00:36,800
+And that's where we are now.
+
+689
+01:00:37,999 --> 01:00:44,160
+People don't understand anymore that it's up to them to give the world meaning in some sense.
+
+690
+01:00:44,159 --> 01:00:50,000
+And they don't understand that it's fragile, that it's wonderful, that anything makes sense at all.
+
+691
+01:00:49,999 --> 01:00:53,680
+All that's now hidden, that the Greeks understood.
+
+692
+01:00:53,680 --> 01:00:59,439
+There's no place anymore for things welling up to talk again like the understandings of being.
+
+693
+01:00:59,439 --> 01:01:06,800
+There's no place for people thinking of their job as poesis, of bringing things out into their own and nourishing them.
+
+694
+01:01:06,800 --> 01:01:13,240
+They don't even think of themselves as producers that produce and impose order like the Romans.
+
+695
+01:01:07,439 --> 01:01:19,240
+They think of themselves as vessels that will be to be fulfilled.
+
+696
+01:01:19,240 --> 01:01:21,400
+And they are all fulfilled.
+
+697
+01:01:21,720 --> 01:01:28,360
+That is, these vessels are filled when they are looking at this divine radiance period.
+
+698
+01:01:28,360 --> 01:01:31,320
+Now, okay, I still got five minutes.
+
+699
+01:01:31,320 --> 01:01:32,039
+That's great.
+
+700
+01:01:32,039 --> 01:01:36,840
+Because now, having, there are several stages after that.
+
+701
+01:01:37,159 --> 01:01:50,119
+I mean, we don't, the culture didn't just go bang from the understanding of being, the onto theological understanding of being, and everything being creatures, to Moby Dick onto Melville.
+
+702
+01:01:50,119 --> 01:01:51,959
+So what happened in between?
+
+703
+01:01:51,959 --> 01:02:05,560
+Well, what happened was, instead of God being the supreme being, Descartes flipped things around and said, each of us is the source of meaning.
+
+704
+01:02:05,559 --> 01:02:06,679
+We are subjects.
+
+705
+01:02:06,680 --> 01:02:08,200
+I said that before.
+
+706
+01:02:08,200 --> 01:02:11,719
+You're used to being subjects, and everything is objects.
+
+707
+01:02:12,519 --> 01:02:14,920
+That's a whole new understanding of being.
+
+708
+01:02:15,240 --> 01:02:22,679
+We put the, or Descartes put, well, with a little help from Luther, and Pascal, let me fill you in a bit.
+
+709
+01:02:22,680 --> 01:02:36,359
+So Luther comes along and turns against the church, makes Jesus the center thing, says that every man is a Pope, that you don't need the church, that each individual can relate directly to Jesus.
+
+710
+01:02:36,360 --> 01:02:37,880
+I think this is looking worried.
+
+711
+01:02:38,360 --> 01:02:41,720
+My Protestantism is not all that it might be.
+
+712
+01:02:42,680 --> 01:02:50,359
+And Pascal comes along, I feel more at home with Pascal, is saying that God, our God, is a hidden God.
+
+713
+01:02:50,360 --> 01:02:52,199
+It's a very important move.
+
+714
+01:02:52,200 --> 01:02:55,760
+You can't stand in God's radiance anymore.
+
+715
+01:02:56,079 --> 01:03:05,840
+I mean, I think Luther, I don't know what Luther said, but Luther should have said, following the Gospel of John in one of his ways, that when you've seen Jesus, you've seen the Father.
+
+716
+01:03:05,840 --> 01:03:21,119
+That stops this sort of radiance that blasts you out of everything finite and meaningful and embodied and so forth, because Jesus is finite and meaning embodied, and that's the object of adoration, and then everything is all right.
+
+717
+01:03:22,800 --> 01:03:23,439
+What's that?
+
+718
+01:03:24,400 --> 01:03:24,880
+He does.
+
+719
+01:03:24,880 --> 01:03:25,679
+Luther says that.
+
+720
+01:03:25,680 --> 01:03:27,119
+We've got to read Luther in this course.
+
+721
+01:03:27,119 --> 01:03:28,880
+He's going to be an important figure.
+
+722
+01:03:28,880 --> 01:03:40,319
+And Pascal is terrific, saying that it's just Greek and wrong to think that being in the presence of God with all this radiance is what Christianity is about.
+
+723
+01:03:40,320 --> 01:03:48,880
+Christianity, Pascal says, thinks that you never get directly related to a God that is overwhelming and fully present.
+
+724
+01:03:48,880 --> 01:03:51,120
+That's exactly what it doesn't say.
+
+725
+01:03:51,119 --> 01:03:59,840
+And again, it says in a way that when you can relate to Jesus, that kind of onto theology isn't available to you.
+
+726
+01:03:59,840 --> 01:04:01,920
+So now let me see quickly where we are.
+
+727
+01:04:01,920 --> 01:04:06,959
+So we get, and then Kant takes this, we are all givers of meaning.
+
+728
+01:04:07,439 --> 01:04:12,400
+So we've done, so you go from Luther to Pascal to Descartes.
+
+729
+01:04:12,400 --> 01:04:13,679
+No, sorry, it doesn't go that way.
+
+730
+01:04:13,680 --> 01:04:17,600
+From Luther to Descartes to Pascal.
+
+731
+01:04:17,599 --> 01:04:33,519
+And then Kant, who puts it all together and says what we are up to, we Enlightenment people, we who have the modern understanding of being to talk the Heidegger jargon, I got, is that autonomy is the highest thing.
+
+732
+01:04:33,520 --> 01:04:35,039
+That's maturity.
+
+733
+01:04:35,039 --> 01:04:42,840
+That's giving them giving a meaning to your own life, giving yourself your identity, giving your world whatever meaning you choose to give it.
+
+734
+01:04:43,079 --> 01:04:48,279
+It's not quite like that in Kant yet because you've got to do it within the bounds of reason.
+
+735
+01:04:48,279 --> 01:04:53,880
+But in general, Kant makes autonomy the main thing.
+
+736
+01:04:53,880 --> 01:05:01,159
+And at that point, and he says maturity and autonomy in the Enlightenment means you don't obey the Pope.
+
+737
+01:05:01,159 --> 01:05:05,239
+See, Luther's in the background, you don't obey the king, you don't have to.
+
+738
+01:05:05,239 --> 01:05:07,159
+You freely choose what to do.
+
+739
+01:05:07,159 --> 01:05:11,880
+You can choose to obey the Pope, you can choose to obey the king, but it's up to you.
+
+740
+01:05:11,880 --> 01:05:19,319
+And now, what happened to the understanding of being in the background making all this possible?
+
+741
+01:05:19,319 --> 01:05:21,880
+Well, it is utterly forgotten by that.
+
+742
+01:05:21,880 --> 01:05:25,959
+There's just subjects giving meaning to objects.
+
+743
+01:05:25,959 --> 01:05:30,599
+And in Kant, becoming completely autonomous.
+
+744
+01:05:30,600 --> 01:05:34,119
+And it's become mysterious.
+
+745
+01:05:34,440 --> 01:05:36,920
+The understanding of being is still there.
+
+746
+01:05:36,920 --> 01:05:38,519
+It's mysterious.
+
+747
+01:05:38,520 --> 01:05:40,199
+It's hidden.
+
+748
+01:05:40,199 --> 01:05:42,840
+It's not a super being like God.
+
+749
+01:05:43,159 --> 01:05:47,159
+It cannot ever be present and understood.
+
+750
+01:05:47,560 --> 01:05:49,479
+Scales got that right.
+
+751
+01:05:49,480 --> 01:05:59,880
+So, how are you going to portray this background in such a way that, and now comes the fast move.
+
+752
+01:05:59,880 --> 01:06:19,559
+I mean, Melville thinks that not only does, I mean, now I put these words in his mouth, he doesn't think about this, but he would agree with me, I think, that of course medieval supreme being, onto theology, makes everything meaningless.
+
+753
+01:06:19,560 --> 01:06:37,760
+But he also would think that the autonomous subject, giving itself meaning and trying to get control and dominate the world, is getting rid of the sacred and the holy and whatever gives meaning to human life.
+
+754
+01:06:37,760 --> 01:06:46,800
+See, Meilbilt, on my reading, is going to be a return to something like Homeric polytheism.
+
+755
+01:06:46,800 --> 01:06:48,239
+And he knows that.
+
+756
+01:06:48,239 --> 01:07:05,199
+And he knows that there's going to have to be something that is very, very important that can never be controlled and understood and grasped and dominated or whatever.
+
+757
+01:07:05,199 --> 01:07:07,439
+I mean, I haven't explained that yet.
+
+758
+01:07:08,159 --> 01:07:09,999
+We have to start reading the book to see that.
+
+759
+01:07:09,999 --> 01:07:10,959
+So let me see if I've got.
+
+760
+01:07:11,039 --> 01:07:13,199
+So Meldil is an artist.
+
+761
+01:07:13,680 --> 01:07:15,920
+He's way ahead of his time.
+
+762
+01:07:15,920 --> 01:07:28,719
+He understands that all forms of monotheism, whether it's God as Supreme Being or the subject, the Kantian autonomous subject as Supreme Being, is nihilism.
+
+763
+01:07:28,720 --> 01:07:32,719
+And he's going to try to help us out of that.
+
+764
+01:07:32,720 --> 01:07:55,840
+He's writing in 1850, and his targets in being in time are Christianity, onto theology, and technology, which he thinks is a new sort of form of organizing everything and forgetting the understanding of being and leveling all meaning.
+
+765
+01:07:56,079 --> 01:08:03,680
+All I was going to get clear to you when you read it, but I want to just get to one more point just in time.
+
+766
+01:08:03,680 --> 01:08:04,719
+Let's see.
+
+767
+01:08:04,720 --> 01:08:10,039
+So, the technology, he sees that man is taking over the planet.
+
+768
+01:08:10,039 --> 01:08:11,559
+He talks, you keep your eye open.
+
+769
+01:08:07,359 --> 01:08:13,159
+He talks about that friggin earth.
+
+770
+01:08:13,480 --> 01:08:18,439
+I think he's the first person to think of the earth as an object in space.
+
+771
+01:08:18,440 --> 01:08:24,199
+And he thinks that that's the wrong way to think about the earth.
+
+772
+01:08:24,199 --> 01:08:28,359
+I mean, not that science doesn't think it's that way, but he doesn't think.
+
+773
+01:08:29,079 --> 01:08:30,920
+He doesn't feel it that way.
+
+774
+01:08:31,239 --> 01:08:38,199
+In that way, he's very close to sort of modern, recent ecological.
+
+775
+01:08:38,520 --> 01:08:58,519
+He's close to everything that is just happening now, which is what's fascinating about him, because he wrote in 1850, I mean, 100 years ago, he understood the problem that we have now, which is in some sense a problem of nihilism, that nothing is sacred, nothing is holy, nothing has really great significance.
+
+776
+01:08:58,520 --> 01:09:03,719
+And he understood somehow that onto theology was the cause of it.
+
+777
+01:09:03,720 --> 01:09:07,639
+And he wanted to save the sacred and the holy.
+
+778
+01:09:07,959 --> 01:09:10,439
+And this is my final slogan.
+
+779
+01:09:10,920 --> 01:09:11,880
+It's just up.
+
+780
+01:09:11,880 --> 01:09:23,959
+I mean, if you had a slogan for Moby Dick, you should remember that Melville thinks it's possible to love the holy and detest religion as onto theology.
+
+781
+01:09:23,959 --> 01:09:27,719
+Christianity and Protestantism from his point of view.
+
+782
+01:09:27,720 --> 01:09:33,639
+In fact, if you're going to love the holy, you have to resist the onto theological.
+
+783
+01:09:34,279 --> 01:09:41,399
+And just to get a slogan, the onto theology is the biggest enemy of whatever the sacred and the holy is.
+
+784
+01:09:41,399 --> 01:09:43,239
+We don't, I haven't told you yet.
+
+785
+01:09:43,239 --> 01:09:47,079
+But whatever the sacred and holy is, it's something we can't master.
+
+786
+01:09:47,079 --> 01:09:52,880
+Okay, now you're ready to start reading Moby Dick and seeing some of this happening.
+
+787
+01:09:52,880 --> 01:09:55,920
+And of course, this is all very abstract.
+
+788
+01:09:52,520 --> 01:09:58,239
+But when you see it, that's the great thing of a novel.
+
+789
+01:09:58,480 --> 01:10:01,840
+When you read it in Moby Dick, you'll understand it.
+
+790
+01:10:01,999 --> 01:10:03,599
+You'll see that it's a work of art.

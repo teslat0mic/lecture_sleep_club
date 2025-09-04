@@ -1,0 +1,2779 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:06,320
+Okay, so in light of all that, I'll just go ahead and get started with number two there: traditional realism.
+
+2
+00:00:06,320 --> 00:00:12,320
+So, the traditional realist picture of the world is, I can kind of just draw it as a picture.
+
+3
+00:00:12,320 --> 00:00:19,359
+We can take this to be the world in itself, you know, WII, and this is the world for us.
+
+4
+00:00:20,000 --> 00:00:33,919
+And this just corresponds to the general subject-object distinction, whereas all this is the objective world, and this is the subjective or intersubjective.
+
+5
+00:00:33,920 --> 00:00:43,799
+So, this is the world in itself, and the kind of a traditional common sense understanding is that this is what natural science does.
+
+6
+00:00:43,800 --> 00:00:45,880
+This is what's really out there.
+
+7
+00:00:46,200 --> 00:00:57,880
+This is what you see through science, which has the view from nowhere, or you could say the God's eye view, the way in which a lot of people traditionally talked about the world in itself.
+
+8
+00:00:57,880 --> 00:01:03,000
+And then the world for us, well, that's how we, you know, that's our experience of things.
+
+9
+00:01:03,000 --> 00:01:09,959
+And in the world for us, that's where you, where some people, well, where a lot of people will say, that's where colors are.
+
+10
+00:01:10,920 --> 00:01:15,560
+And more importantly, you know, moral and ethical values are just part of the world for us.
+
+11
+00:01:15,880 --> 00:01:21,960
+So, you know, right and wrong aren't in the world in itself, that is in that world of natural science studies.
+
+12
+00:01:21,959 --> 00:01:24,120
+It's just in the world for us.
+
+13
+00:01:24,120 --> 00:01:33,800
+So in the traditional realist setup, you have the problem of how the world in itself relates to the world for us.
+
+14
+00:01:34,120 --> 00:01:43,399
+And so here's where you generate, among other things, the problem of appearance and reality and the problem of the external world and stuff like that.
+
+15
+00:01:43,399 --> 00:01:53,559
+For our purposes, though, I just want to emphasize this kind of this division between the objective and the subjective and the idea of a world in itself or a world for us.
+
+16
+00:01:53,880 --> 00:02:01,879
+So the natural way of understanding Malo-Ponte's prejudice of the world is that he's going to tell us, well, there is no world in itself.
+
+17
+00:02:01,880 --> 00:02:03,159
+That's the prejudice of the world.
+
+18
+00:02:03,160 --> 00:02:05,320
+They believe that there is a world in itself.
+
+19
+00:02:05,320 --> 00:02:12,359
+Now, if there is no world in itself, it kind of makes us wonder, you know, how are we to understand this?
+
+20
+00:02:12,359 --> 00:02:16,360
+Because this only makes sense in contrast to the world in itself.
+
+21
+00:02:16,359 --> 00:02:22,880
+So moving on to the Gestalt psychologist, you know, they basically held this traditional picture that I've been describing.
+
+22
+00:02:22,040 --> 00:02:28,640
+And Merlot Ponte explicitly criticizes the Gestalt psychologist for being naturalists.
+
+23
+00:02:29,280 --> 00:02:40,560
+Now, I think the, I'm going to go through one of the important insights in depth of Gestalt psychology, and that's the understanding of a demand character.
+
+24
+00:02:40,879 --> 00:02:42,560
+I'll get to that there.
+
+25
+00:02:44,079 --> 00:02:55,680
+But for now, you know, I'll just reiterate some of the basic things we get from the Gestalt psychologist, the understanding that there's a figure ground perception, and we perceive figures on grounds.
+
+26
+00:02:55,680 --> 00:03:09,360
+And when it comes to understanding behavior, the Gestalt psychologist wanted to emphasize that we need to see the structure or the forms, the holistic nature of behavior.
+
+27
+00:03:09,680 --> 00:03:16,479
+So the Lopon T really discusses this in the structure of behavior.
+
+28
+00:03:16,479 --> 00:03:20,400
+So I actually haven't said this yet, but it's worth emphasizing.
+
+29
+00:03:20,400 --> 00:03:30,320
+In preparation for this, I really have to reread half of Merlot's The Structure of Behavior, because that's where that's where he really treats all of this stuff.
+
+30
+00:03:30,320 --> 00:03:36,480
+So you're kind of at a disadvantage in reading the phenomenology, because you haven't read the structure of behavior.
+
+31
+00:03:36,479 --> 00:03:43,040
+That said, if you think the phenomenology is hard to read, this is much easier, really a pain in the neck to read.
+
+32
+00:03:43,599 --> 00:03:45,279
+And it's written in a very different style.
+
+33
+00:03:45,440 --> 00:03:49,839
+It's more scientific, but it's still very difficult.
+
+34
+00:03:49,839 --> 00:03:59,679
+What's interesting and important about this book is that it ends with precisely the question we care about at the beginning of the phenomenology of perception.
+
+35
+00:03:59,680 --> 00:04:07,200
+So the very last section of this book is called something like, you know, is there not a truth of naturalism?
+
+36
+00:04:07,640 --> 00:04:15,320
+And so I was reading all this to see if I could find some justification from Merlot-Ponte of why he rejects the prejudice of the world.
+
+37
+00:04:15,320 --> 00:04:18,760
+Because it seems very often to start the phenomenology that way.
+
+38
+00:04:19,079 --> 00:04:23,079
+It seems like, if anything, that should be something he tries to prove.
+
+39
+00:04:23,400 --> 00:04:29,960
+So in reading this, he doesn't actually articulate the prejudice of the world in this book.
+
+40
+00:04:29,959 --> 00:04:37,560
+But I do think that in this book we'll find support for his rejection of the prejudice of the world.
+
+41
+00:04:37,879 --> 00:04:47,400
+And so that's partly what was motivating my whole attempt to penetrate into Merlot-Ponte's relation to the Geschalt psychology.
+
+42
+00:04:47,400 --> 00:04:48,040
+Excuse me, Ben?
+
+43
+00:04:48,519 --> 00:04:56,120
+Where in the phenomenology of perception does he say that he rejects the prejudice of the world?
+
+44
+00:04:57,239 --> 00:05:01,800
+The first time he mentions it is around, it's in the first chapter.
+
+45
+00:05:01,800 --> 00:05:07,640
+And so he called it the prejudice of determinate being, and then it comes up again and again.
+
+46
+00:05:07,640 --> 00:05:10,839
+At one point, he calls it a prejudice of the world.
+
+47
+00:05:11,160 --> 00:05:18,440
+And other times he calls it the prejudice of an objective world in itself.
+
+48
+00:05:18,759 --> 00:05:26,360
+But yeah, but the very first time he mentions it is really four pages or so into it.
+
+49
+00:05:26,359 --> 00:05:29,560
+Actually, page six on this, Prejudice about the world.
+
+50
+00:05:29,880 --> 00:05:30,520
+Page six.
+
+51
+00:05:31,640 --> 00:05:32,360
+Oh, yeah.
+
+52
+00:05:32,680 --> 00:05:33,800
+Well, it's about three or four.
+
+53
+00:05:33,959 --> 00:05:37,320
+It's a little bit before the picture of the Mueller liar illusion.
+
+54
+00:05:37,320 --> 00:05:46,600
+So what's peculiar is that the prejudice, rejecting the prejudice of the world is such a radical, fundamental, essential element to Merlot-Ponty's metaphysics.
+
+55
+00:05:46,599 --> 00:05:49,880
+And it's how he's probably starting off the phenomenology.
+
+56
+00:05:50,200 --> 00:05:57,360
+So, you know, with respect to the Geschalt psychology, Merlot-Ponty criticizes them for having the prejudice of the world.
+
+57
+00:05:58,079 --> 00:05:59,280
+Is something on your mind?
+
+58
+00:05:59,280 --> 00:06:05,920
+Well, what he says here, he doesn't seem to be saying that there's sending a world to the world.
+
+59
+00:06:06,800 --> 00:06:18,560
+Because he seems to be rejecting certain assumptions that the experience of the world is determinant in ways that you think the world is determined.
+
+60
+00:06:21,359 --> 00:06:25,359
+But that's different from saying there is no world in itself.
+
+61
+00:06:25,920 --> 00:06:27,999
+Well, yeah, he says that elsewhere.
+
+62
+00:06:28,320 --> 00:06:30,079
+About specifically there is no...
+
+63
+00:06:30,079 --> 00:06:42,240
+So he has all of these idealistic kind of claims of how we can't conceive of a world without a subject and stuff like that.
+
+64
+00:06:42,239 --> 00:06:46,159
+So I mean, I'm not saying that right here on this page he's going to spell it out.
+
+65
+00:06:46,160 --> 00:06:48,880
+I think part of the problem of the book is that he doesn't spell it out.
+
+66
+00:06:48,880 --> 00:06:54,160
+But it's kind of a recurring theme throughout the book.
+
+67
+00:06:54,160 --> 00:07:04,000
+So I mean, just looking through, I see on page 45 here he says, he started off from a world in itself, which acted upon our eyes so as to cause it blah, blah, blah.
+
+68
+00:07:03,999 --> 00:07:08,880
+And so, I mean, all of this, I kind of have it all marked up in my book whenever he mentions it.
+
+69
+00:07:08,879 --> 00:07:11,440
+So, I mean, I can just kind of flip through it.
+
+70
+00:07:11,440 --> 00:07:24,000
+But it's whatever he talks about, the belief that there is a determinant world, or a world understood as part of five parts.
+
+71
+00:07:23,999 --> 00:07:32,320
+So that, you know, again, I mean, I guess, you know, for my students in the section, I've been pointing these passages out left and right.
+
+72
+00:07:32,320 --> 00:07:36,079
+But it's just something that comes up throughout the book.
+
+73
+00:07:36,759 --> 00:07:50,920
+But I do understand your kind of, I do see what you're getting at on how on that page six, he doesn't put together the entire sense that I'm giving to the prejudice of the world.
+
+74
+00:07:50,920 --> 00:07:54,280
+So moving on to what the Geschalt psychologists are saying.
+
+75
+00:07:54,920 --> 00:08:10,680
+The Geschalt psychologists thought that you could build up a meaningful perceived world of forms and structures from the meaningless forms and structures of the objective world of science, you know, that is the world in itself.
+
+76
+00:08:10,680 --> 00:08:25,560
+The interesting problem in studying behavior, as Merlot Pine C concentrates on the structure of behavior, is that the structure, is that the scientific understanding of behavior must recognize the forms and structures that exist for the behaving animal.
+
+77
+00:08:25,560 --> 00:08:35,160
+So this was the main contribution of the Geschalt psychologist as far as Merlot-Pine C can tell in the structure of behavior.
+
+78
+00:08:35,160 --> 00:08:52,520
+The Geschal psychologists showed how we can build up an understanding of animals, of animal behavior, by supposing that they're just, that behavior is just a bunch of isolated reflexes, you know, that kind of linear causality which we addressed earlier in the course.
+
+79
+00:08:52,839 --> 00:09:09,160
+So you need to understand the animal as responding to the forms and the structures of its situation, as opposed to just atomic parts of its environment understood as a kind of physical, as a combination of physical stimuli.
+
+80
+00:09:09,160 --> 00:09:20,600
+So the Geschalt psychologists wanted to show not just that there are forms and structures for the behaving animals, but that all reality operates with forms and structures rather than atomic units.
+
+81
+00:09:20,599 --> 00:09:25,360
+So this is the metaphysical side of Gestalt psychology that's important to see.
+
+82
+00:09:26,320 --> 00:09:30,800
+Gestalt psychology presupposes an entire naturalistic metaphysic.
+
+83
+00:09:31,440 --> 00:09:36,160
+And in doing so, they want to give us a different understanding of the natural sciences.
+
+84
+00:09:36,160 --> 00:09:51,040
+So the Gestalt psychologists don't think that ordinary behavior, that to understand the science of ordinary behavior, that you can suppose that there are atomic units as opposed to structures, forms, and situations.
+
+85
+00:09:51,359 --> 00:10:00,960
+But what they did, which was so unique, was to go beyond that in suggesting that the physical world is also not atomic.
+
+86
+00:10:00,959 --> 00:10:05,839
+In other words, the world of physics also has structure and form.
+
+87
+00:10:06,160 --> 00:10:25,520
+So that's why one of the examples that comes up again and again in the phenomenology is the example of a soap bubble or an oil drop, where the soap bubble we need to understand as kind of a tendency to form the shape of a bubble as a way of solving the problem of maximum and minimum.
+
+88
+00:10:25,519 --> 00:10:35,200
+So inside the bubble, the air is trying to maximize its volume, whereas the bubble itself is trying to stick together.
+
+89
+00:10:35,519 --> 00:10:39,759
+And so even physics we should understand as having structures and forms.
+
+90
+00:10:39,759 --> 00:10:41,119
+So far so good.
+
+91
+00:10:41,120 --> 00:10:45,200
+What's the Gestalt psychologist's mistake according to Verlopins here?
+
+92
+00:10:45,519 --> 00:10:58,959
+Well, what the Gestalt psychologists got wrong, according to Verlo-Pointee, is that they suppose that the forms and structures of behavior operated in a merely causal way without explaining the meaning of those forms.
+
+93
+00:10:58,959 --> 00:11:08,920
+So that's the big difference between the structure that goes into the equilibrium of a soap bubble and the structure that goes into the kind of equilibrium manifested in an animal's behavior.
+
+94
+00:11:09,479 --> 00:11:18,519
+The Gestalt psychologists recognized the meaningfulness of the forms and structures of behavior, but they thought that they were somehow in the organism's mind.
+
+95
+00:11:18,519 --> 00:11:24,360
+So the Gestalt psychologists don't really write that way, so it's kind of deceptive.
+
+96
+00:11:24,360 --> 00:11:31,400
+And it's actually very confusing to read this book if you don't know the Gestalt psychology jargon.
+
+97
+00:11:32,360 --> 00:11:41,799
+But the problem is: if what's really out there are meaningless forms, how do the forms and structures of behavior get their meaning?
+
+98
+00:11:42,759 --> 00:12:02,119
+So by restricting their understanding of behavior to the kind of causal interaction of forms, the Gestalt psychologists kind of recognize that there is meaning to these forms, but it's not clear how their metaphysics can account for where the meaningfulness of these forms comes from.
+
+99
+00:12:02,120 --> 00:12:06,119
+In other words, where the meaningfulness of the objects in the world comes from.
+
+100
+00:12:06,759 --> 00:12:17,879
+So despite the Gestalt psychologists' opposition to crude atomism, they didn't go far enough in seeing that you can get meaningful forms of behavior from the meaningless forms of physics.
+
+101
+00:12:17,880 --> 00:12:26,920
+Instead, according to Merleau-Ponty, it should recognize that the perceived world itself is already meaningful and doesn't merely seem to be meaningful.
+
+102
+00:12:26,920 --> 00:12:31,479
+And it's not that we subjectively endow meaning to meaningless forms.
+
+103
+00:12:32,120 --> 00:12:43,239
+So the clear support for this I found is actually in The Primacy of Perception, page 23, at least 23 in my newer volume.
+
+104
+00:12:43,239 --> 00:12:46,200
+So here's his criticism of the Gestalt psychologist.
+
+105
+00:12:46,200 --> 00:12:56,239
+The very psychologists who have described the perceived world as I did above, the Gestalt psychologists, have never drawn the philosophical conclusion of their description.
+
+106
+00:12:56,239 --> 00:13:02,479
+In that respect, they remain within the classical framework, and by that I mean this kind of naturalism.
+
+107
+00:13:02,479 --> 00:13:16,479
+Ultimately, they consider the structures of the perceived world as the simple result of certain physical and physiological processes which take place in the nervous system and completely determine the Gestalten and the experience of the Gestalten.
+
+108
+00:13:16,799 --> 00:13:22,559
+The organism and consciousness itself are only functions of external physical variables.
+
+109
+00:13:22,559 --> 00:13:31,759
+Ultimately, the real world, according to the Gestalt psychologist, is the physical world as science conceives it, and it engenders our consciousness itself.
+
+110
+00:13:31,759 --> 00:13:36,799
+So that shows the main general flaw of Gestalt psychology's metaphysics.
+
+111
+00:13:36,799 --> 00:13:39,039
+So what's Merleau-Ponty's alternative?
+
+112
+00:13:39,039 --> 00:13:56,400
+Well, like the Gestalt psychologist, he believes that there are forms and structures out there which make sense of the science of behavior, and that one of the consequences of doing the science of behavior is that the scientist is forced to recognize the meaningfulness of the forms in the situation.
+
+113
+00:13:56,400 --> 00:14:09,039
+So this is kind of the first time when doing objective science that you're forced to bring into your understanding of what you're trying to understand the meaningfulness of the world.
+
+114
+00:14:09,999 --> 00:14:16,639
+I suspect that Merleau-Ponty is against naturalism because he thinks all naturalisms are reductionist.
+
+115
+00:14:16,640 --> 00:14:28,079
+And Merleau-Ponty thinks that it's impossible to reduce the indeterminate, meaningful forms of behavior to the determinate but meaningless forms of physics.
+
+116
+00:14:28,400 --> 00:14:45,799
+So I'm not sure if Merlot Ponty has any good arguments against reductionism, but I think he also believes that if you can't get a scientific reduction to meaningless forms, and I think you just think that's an in principle truth, then there can't be an objective determinate world in itself.
+
+117
+00:14:46,120 --> 00:14:52,359
+So this might partly clarify sometimes when Merleau-Ponty refers to actions being magical.
+
+118
+00:14:52,360 --> 00:15:02,999
+I mean, it just kind of hit me how when he says that these actions are magical, I mean, we kind of give, you know, the natural thing to say is, well, that just means our current science can't understand it.
+
+119
+00:15:02,999 --> 00:15:12,359
+But Merleau-Ponty might be making the more radical claim that the whole way in which we're thinking of the scientific world can't, in principle, understand it.
+
+120
+00:15:12,360 --> 00:15:14,519
+And so that would be a different claim.
+
+121
+00:15:16,039 --> 00:15:18,279
+You know, maybe he's just being dramatic when he says that.
+
+122
+00:15:18,279 --> 00:15:21,319
+So, I mean, we would have to look at those passages.
+
+123
+00:15:21,319 --> 00:15:31,079
+But the important thing I want to get at is that in reading this, there is this sense in which he's against reductionism.
+
+124
+00:15:31,080 --> 00:15:53,479
+And in trying to make sense of why Merleau-Ponty is rejecting the prejudice of the world, I've just kind of come to the conclusion or I've been kind of thinking of how Merlot-Ponty's belief in the irreducibility of the perceived world might be motivating what will ultimately be, I think, a bad argument for rejecting the prejudice of the world.
+
+125
+00:15:53,479 --> 00:16:02,599
+So I'm kind of in a tough spot because I want to give as reasonable a justification for Merleau-Ponty in his rejection of the prejudice of the world.
+
+126
+00:16:02,600 --> 00:16:13,080
+The bottom line is I don't think you can come up with a sound argument that shows that the prejudice of the world is false because I think something like the prejudice of the world is true.
+
+127
+00:16:13,479 --> 00:16:16,680
+So it's kind of, you know, if you're interpreting Merleau-Ponty, you're kind of in a bind.
+
+128
+00:16:16,920 --> 00:16:22,200
+You either believe him all the way or you have to find out why he would say these kinds of kookie things.
+
+129
+00:16:22,400 --> 00:16:22,719
+Yeah?
+
+130
+00:16:23,200 --> 00:16:32,719
+When you say that the prejudice of the world means that physical determinants objective world doesn't exist well here.
+
+131
+00:16:33,039 --> 00:16:53,999
+Well, I guess maybe the alternative, which maybe you would agree with, you need to say that Lilopoxi's claim that the physical determinant objective world is just the for the perceived predetermined world is maybe priority because people like scientists, traditional scientists, they're just presupposing this.
+
+132
+00:16:54,319 --> 00:16:57,359
+Well, he really thinks just claiming that it doesn't just have an existence.
+
+133
+00:16:58,559 --> 00:17:04,479
+Yeah, so he has, there are a couple places where he says something like how it's inconceivable.
+
+134
+00:17:04,479 --> 00:17:07,119
+How an objective, we haven't really gotten to those passages yet.
+
+135
+00:17:07,120 --> 00:17:08,799
+They're later on in the book.
+
+136
+00:17:10,080 --> 00:17:25,999
+But it's along the lines of how a God's idea is inconceivable sometimes will say in that given the truth of the phenomenology of perception, we can't conceive of an objective world in itself.
+
+137
+00:17:25,999 --> 00:17:28,559
+So I mean this is going to get supported later on.
+
+138
+00:17:28,559 --> 00:17:31,839
+But it's something to be on the lookout for in reading the text.
+
+139
+00:17:31,840 --> 00:17:37,680
+And in reading guys like Willopon Zion Heider, you're going to have all kinds of different interpretations running left and right.
+
+140
+00:17:37,680 --> 00:17:46,240
+So if you think he's saying something else somewhere, then, you know, at least in the course of, you know, in the course of the course, that's something worth mentioning.
+
+141
+00:17:46,239 --> 00:17:49,999
+But for now, I just want to kind of outline the picture I'm going to take.
+
+142
+00:17:50,400 --> 00:17:51,200
+It is mainly the.
+
+143
+00:17:51,360 --> 00:17:55,039
+Yeah, but he's not saying that there's not something that exists.
+
+144
+00:17:55,039 --> 00:18:03,039
+The question is how, and so there is, there is a, and so he's going to give us what I call, I guess, a constructivist understanding of science.
+
+145
+00:18:03,039 --> 00:18:13,239
+So scientists are really doing something, but we just need to understand what they're doing in a different way from understanding it as giving us a God's eye view of reality in itself.
+
+146
+00:18:13,559 --> 00:18:16,359
+But yeah, hopefully these issues will get clarified as you get around here.
+
+147
+00:18:16,519 --> 00:18:19,479
+I mean, this is the crux of the problem.
+
+148
+00:18:19,799 --> 00:18:22,119
+So yeah, actually, I was going to mention this point.
+
+149
+00:18:23,719 --> 00:18:26,760
+So there's still the constructed objective world of science.
+
+150
+00:18:27,080 --> 00:18:30,119
+So Millo-Ponty talks about an objective world.
+
+151
+00:18:30,120 --> 00:18:33,400
+In science studies, a quote-unquote objective world.
+
+152
+00:18:33,400 --> 00:18:36,680
+But it's not an objective world in itself.
+
+153
+00:18:36,999 --> 00:18:38,600
+I mean, that's a subtle point.
+
+154
+00:18:38,600 --> 00:18:43,079
+But you have to keep a lookout on the distinctions he's making.
+
+155
+00:18:43,080 --> 00:18:52,359
+And so the important thing is that this objective world of science isn't going to be able to explain for us the meaningful behaviors in the perceived world.
+
+156
+00:18:52,680 --> 00:18:58,999
+So Lilloponte suggests something like this at the very end of chapter one of the book.
+
+157
+00:18:59,319 --> 00:19:04,599
+But instead of reading that, there's another passage also in chapter one which I want to point out.
+
+158
+00:19:04,600 --> 00:19:08,599
+So in this volume, you can borrow mine actually for the lecture.
+
+159
+00:19:08,759 --> 00:19:09,399
+Actually, I haven't.
+
+160
+00:19:10,600 --> 00:19:14,359
+Okay, so this is page 12 of this edition.
+
+161
+00:19:14,360 --> 00:19:16,359
+It's in the middle of the page.
+
+162
+00:19:16,360 --> 00:19:20,039
+So again, I want to understand all these big metaphysical issues.
+
+163
+00:19:21,479 --> 00:19:22,119
+You can borrow mine.
+
+164
+00:19:23,080 --> 00:19:23,959
+I like my old.
+
+165
+00:19:23,959 --> 00:19:24,680
+Yeah, old.
+
+166
+00:19:26,039 --> 00:19:28,279
+I didn't know I used to put my old copy.
+
+167
+00:19:28,759 --> 00:19:30,920
+Here's my old phenomenal.
+
+168
+00:19:31,239 --> 00:19:32,599
+More colorful.
+
+169
+00:19:32,920 --> 00:19:47,639
+So in the middle of the page, page 12, he writes, if we return to the objective investigations themselves, we first of all discover that the conditions external to the sensory field do not govern it part for part.
+
+170
+00:19:47,799 --> 00:19:54,239
+And I think that's part of the prejudice of the world, that there is a universe that exists part for part in itself, determinate.
+
+171
+00:19:54,880 --> 00:20:02,400
+And that they exert an effect only to the extent of making possible a basic pattern, which is what Gestalt psychology makes clear.
+
+172
+00:20:02,400 --> 00:20:07,519
+So here he's kind of recognizing the insights of the Gestalt psychologist.
+
+173
+00:20:07,519 --> 00:20:13,680
+But now he's going to turn the tables against the Gestalt psychologist, you know, right in the next sentence.
+
+174
+00:20:13,680 --> 00:20:22,799
+Then we see that within the organism, the structure depends on variables such as the biological meaning of the situation, which are no longer physical variables.
+
+175
+00:20:22,799 --> 00:20:26,079
+And that's where the Gestalt psychologists are confused.
+
+176
+00:20:26,400 --> 00:20:36,639
+With the result that the whole eludes the well-known instruments of physico-mathematical analysis and opens the way to another type of intelligibility.
+
+177
+00:20:36,640 --> 00:20:43,200
+And here he has a footnote referring to the structure of behavior, which is what we would expect in light of what I've been saying.
+
+178
+00:20:43,200 --> 00:20:57,200
+If we now turn back, as is done here, and I think here refers to the phenomenology, towards perceptual experience, we notice that science succeeds in constructing only a semblance of subjectivity.
+
+179
+00:20:57,200 --> 00:21:03,119
+It introduces sensations which are things, just where experience shows that there are meaningful patterns.
+
+180
+00:21:03,120 --> 00:21:09,279
+It forces the phenomenal universe into categories, which make sense only in the universe of science.
+
+181
+00:21:09,920 --> 00:21:14,959
+He continues a couple lines down from that on the next page.
+
+182
+00:21:15,279 --> 00:21:28,319
+The theory of sensation, which builds up all knowledge out of determinate qualities, offers us objects purged of all ambiguity, pure and absolute, the ideal rather than the real things of knowledge.
+
+183
+00:21:29,120 --> 00:21:40,999
+So another part of his criticism against the prejudice of the world might be that if the world were determinate, meaningless in its self-stuff, we'd end up with a determinate, unambiguous perceptual experience.
+
+184
+00:21:40,999 --> 00:21:45,160
+Now, I hope that's not what he's saying, because that's just so obviously weak.
+
+185
+00:21:45,160 --> 00:21:47,719
+In a way, it's kind of begging the question.
+
+186
+00:21:48,200 --> 00:21:50,759
+So I'm not sure if that's what he's saying or not.
+
+187
+00:21:50,759 --> 00:22:04,279
+I do think he's saying that at the very least, if you're going to do the science of perception, you need to recognize perception as having a kind of you need to understand the organism is kind of exploring.
+
+188
+00:22:04,279 --> 00:22:15,799
+And that's why in the next chapter or two chapters later, he talks about attention, the primary and secondary acts of attention, creating or constituting the figure.
+
+189
+00:22:16,440 --> 00:22:20,359
+Again, the problem with that is we can understand that in different ways.
+
+190
+00:22:20,680 --> 00:22:23,239
+But moving on.
+
+191
+00:22:23,239 --> 00:22:35,959
+Okay, so what I find interesting here is that I agree with Merleau-Pincey that the Gestalt psychologists need to realize the metaphysical consequences of their own research, which should get them out of their kind of naturalism.
+
+192
+00:22:35,959 --> 00:22:39,479
+The problem is I don't think Merleau-Ponty's alternative works.
+
+193
+00:22:39,799 --> 00:22:50,920
+So what I'm going to be suggesting is not a prejudice of the world the way Merlot-Pincey calls it, but there is a kind of prejudice of the world which we need to get clear on.
+
+194
+00:22:50,920 --> 00:22:56,840
+So now I'm going to move on to so that's really, I think, the murkiest and most unclear part of my lecture.
+
+195
+00:22:56,840 --> 00:23:03,079
+So and I think it's just the result that Merlot-Poncey is just not clear on why he believes in the prejudice of the world.
+
+196
+00:23:03,080 --> 00:23:08,440
+It's just an incredibly fast move to throw this at the reader at the very beginning of this book.
+
+197
+00:23:08,440 --> 00:23:15,400
+And I think part of the dirty work and part of his motivation for believing the prejudice of the world is what he says in here.
+
+198
+00:23:15,719 --> 00:23:18,200
+But that's just a kind of conjecture.
+
+199
+00:23:18,200 --> 00:23:22,200
+Okay, so now I'm moving to part three of my lecture, the richness of the Thing.
+
+200
+00:23:22,319 --> 00:23:31,519
+So now I'm going to actually read what I think is the most important thing, well, the most striking thing I learned in studying Geschal psychology as an undergrad.
+
+201
+00:23:32,080 --> 00:23:34,879
+Kafka says this in the Principles of Gestalt Psychology.
+
+202
+00:23:34,880 --> 00:23:36,320
+So I'm quoting Kafka.
+
+203
+00:23:36,640 --> 00:23:40,959
+Kafka is actually a very good writer, unlike Merlot Ponty.
+
+204
+00:23:41,279 --> 00:23:53,759
+So Kafka says on page seven of the Principles of Geschal Psychology: In the pre-scientific stage, man behaves in a situation as the situation tells him to behave.
+
+205
+00:23:54,080 --> 00:23:59,200
+The primitive man, each thing says what it is and what he ought to do with it.
+
+206
+00:23:59,200 --> 00:24:07,119
+The fruit says, eat me, water says, drink me, thunder says, fear me, and woman says, love me.
+
+207
+00:24:07,440 --> 00:24:10,959
+So, you know, they don't call him primitive man for nothing.
+
+208
+00:24:10,959 --> 00:24:14,320
+But, you know, what he means there is the pre-scientific man.
+
+209
+00:24:14,319 --> 00:24:16,239
+So hopefully we're not like that anymore.
+
+210
+00:24:16,239 --> 00:24:19,119
+But you never know.
+
+211
+00:24:19,120 --> 00:24:25,600
+So anyway, the important point is that the Gestalt psychologists really paid attention to the richness of our experience of things in the world.
+
+212
+00:24:25,600 --> 00:24:28,959
+And this is what draws Merleau-Ponty to the Gestalt psychologist.
+
+213
+00:24:29,279 --> 00:24:39,519
+It's an important feature of the way things appear to us that they seem to call out to us, or as Kafka says, they demand or invite us to do things with them.
+
+214
+00:24:39,839 --> 00:24:48,559
+The problem is that when we take a step back and think about things, especially the way scientists do, we overlook the way things ordinarily appear to us.
+
+215
+00:24:48,880 --> 00:24:50,160
+So, so far, so good.
+
+216
+00:24:50,160 --> 00:24:53,999
+This sounds like Millot Ponty's idea of solicitations.
+
+217
+00:24:54,600 --> 00:24:59,200
+Rillo Ponte also thinks that, you know, doorknobs call out to us to be turned.
+
+218
+00:24:59,200 --> 00:25:06,839
+And I'm always thinking of how my niece and nephew, whenever they go into an elevator, they're pushing all the buttons.
+
+219
+00:25:06,479 --> 00:25:10,920
+I mean, kids must have affordances left and right.
+
+220
+00:25:10,999 --> 00:25:14,520
+So when you stick a kid in an elevator, they fight to see who can push the button.
+
+221
+00:25:14,519 --> 00:25:17,320
+And so everything with a button just stands out for kids.
+
+222
+00:25:17,719 --> 00:25:20,120
+It's like calling them, push me, push me.
+
+223
+00:25:20,440 --> 00:25:28,119
+And so this is kind of the concept of a demand character gets at.
+
+224
+00:25:28,120 --> 00:25:36,519
+But there's a big difference between Rerlot-Ponty's solicitations and the Gestalt psychologist's understanding of the demand character of objects.
+
+225
+00:25:36,519 --> 00:25:46,519
+For the Gestalt psychologist, the real objective mailbox out in the objective world does not invite us or demand us or solicit us to do anything.
+
+226
+00:25:46,519 --> 00:25:49,400
+Only the subjective mailbox does this.
+
+227
+00:25:49,400 --> 00:25:52,920
+Now, those aren't the exact terms that Kafka is going to use.
+
+228
+00:25:53,160 --> 00:26:03,400
+And his actual terminology is very deceptive, and I had to really reread it carefully to confirm my suspicions, which I'm really getting this from J.J.
+
+229
+00:26:03,400 --> 00:26:06,680
+Gibson, who sees this problem in the Gestalt Psychologist.
+
+230
+00:26:06,759 --> 00:26:10,999
+But I'll talk about Gibson in this context later.
+
+231
+00:26:11,959 --> 00:26:17,560
+So the example Kafka uses is a mailbox.
+
+232
+00:26:17,559 --> 00:26:24,920
+I mean, he has different examples, but one of them is a mailbox which invites us to drop the mail in it.
+
+233
+00:26:24,920 --> 00:26:31,079
+But of course, it only kind of invites us to drop mail in it when we have mail that we need to drop off.
+
+234
+00:26:31,719 --> 00:26:41,400
+So that's part of his, you know, the kind of common sense understanding that the mailbox doesn't really call out to us to mail letters.
+
+235
+00:26:41,400 --> 00:26:47,319
+We're just kind of, that's just our contribution to the experience.
+
+236
+00:26:47,319 --> 00:26:52,640
+So, Merleau Ponty, of course, thinks that the mailbox really does solicit us.
+
+237
+00:26:52,640 --> 00:26:56,160
+It's the real mailbox, the most real mailbox that there is.
+
+238
+00:26:51,719 --> 00:26:58,319
+That's the one that is soliciting us.
+
+239
+00:26:58,959 --> 00:27:03,119
+So, now I'm going to go to what Merlot Ponzi calls the in-itself for us.
+
+240
+00:27:03,120 --> 00:27:07,119
+As is apparent, Merleau-Ponty thinks the mailbox does solicit us.
+
+241
+00:27:07,120 --> 00:27:12,479
+And he doesn't think that there is a world in itself, so there is no mailbox in itself.
+
+242
+00:27:12,799 --> 00:27:23,519
+We can talk about the mailbox the way an actual scientist would, but that would involve objective thought, which constructs the objects of science from the perceptible world.
+
+243
+00:27:23,840 --> 00:27:30,079
+Bines doesn't talk about the way things are in themselves, according to Merlot Ponzi, even if they think they do.
+
+244
+00:27:30,719 --> 00:27:33,040
+Remember, that would be the prejudice of the world.
+
+245
+00:27:33,040 --> 00:27:35,920
+But Merleau-Pine T has a slight problem here.
+
+246
+00:27:35,919 --> 00:27:40,880
+All things in the perceived world appear to us as if they were things in themselves.
+
+247
+00:27:40,879 --> 00:27:45,519
+Moreover, these things are the most real things around, given Merleupon Z's ontology.
+
+248
+00:27:45,520 --> 00:27:48,160
+I mean, the mailbox is as real as it gets.
+
+249
+00:27:48,160 --> 00:27:54,080
+So, we might suppose that Merleau-Ponty would simply say that the mailbox in itself solicits us.
+
+250
+00:27:54,080 --> 00:28:05,840
+But that's not how he understands the richness of the thing, because he recognizes that our bodily existence in the world gives a certain kind of human character to all the perceived world.
+
+251
+00:28:06,160 --> 00:28:10,719
+We mesh with the world, as I put it, and the things in the world mesh with us.
+
+252
+00:28:10,719 --> 00:28:13,680
+We're kind of stuck together.
+
+253
+00:28:14,000 --> 00:28:23,200
+So, Merlot Ponzi makes a deliberately paradoxical claim about the thing, that a thing in the perceived world is a thing in itself for us.
+
+254
+00:28:23,200 --> 00:28:34,959
+So, the first time I read this a couple years ago, I remember scratching my head, like it was nobody's business, and I actually wrote a paper for Professor Dreyfus on some of this idealism-realism issue, and I got it all wrong, I think.
+
+255
+00:28:34,960 --> 00:28:38,920
+Well, I got it half right, half wrong, but hopefully, I think I've got it right now.
+
+256
+00:28:36,960 --> 00:28:41,800
+And it's just very confusing and puzzling.
+
+257
+00:28:42,120 --> 00:28:50,759
+But I think the centerpiece, at least to my interpretation of Roloffine, is to make a heck of a whole lot of a big deal out of this in-itself for us.
+
+258
+00:28:50,919 --> 00:28:51,879
+What the paradox is?
+
+259
+00:28:52,040 --> 00:28:54,759
+Oh, yeah, I'm going to quote the actual text, I think.
+
+260
+00:28:55,399 --> 00:28:56,360
+Yeah, here it is.
+
+261
+00:28:56,359 --> 00:28:57,080
+I'm going to read it now.
+
+262
+00:28:57,080 --> 00:29:01,160
+It's on page 82 of, well, if my copy.
+
+263
+00:29:01,399 --> 00:29:02,360
+71.
+
+264
+00:29:02,680 --> 00:29:07,719
+So yeah, we've actually already read this part of the text, I think, for last week's reading.
+
+265
+00:29:07,719 --> 00:29:17,079
+So it's the last paragraph of part one, the very last paragraph of the first chapter of part one, sorry, called experience and objective thought.
+
+266
+00:29:17,399 --> 00:29:18,999
+We must discover the origin.
+
+267
+00:29:19,000 --> 00:29:21,080
+That's how the line begins.
+
+268
+00:29:21,399 --> 00:29:26,759
+We must discover the origin of the objects at the very center of our experience.
+
+269
+00:29:26,759 --> 00:29:35,000
+We must describe the emergence of being, and we must understand how, paradoxically, there is for us an in itself.
+
+270
+00:29:35,000 --> 00:29:50,040
+So, you know, in light of my metaphysical interpretation of what's going on here, I think Werlochan He is trying hard to get rid of this entire dichotomy of a world in itself and a world for us.
+
+271
+00:29:50,680 --> 00:29:57,799
+So, part of his getting rid of this dichotomy is to say that there is this prejudice of the world.
+
+272
+00:29:57,799 --> 00:30:02,200
+There is no determinate world of parts for parts outside of parts in itself.
+
+273
+00:30:02,200 --> 00:30:04,279
+And so, then we're wondering, well, what does he believe?
+
+274
+00:30:04,279 --> 00:30:06,920
+Does he believe that everything is the world for us?
+
+275
+00:30:07,239 --> 00:30:09,399
+Well, there's a name for people who believe that.
+
+276
+00:30:09,399 --> 00:30:11,000
+It's called idealism.
+
+277
+00:30:11,000 --> 00:30:17,320
+Now, what makes Kant's idealism different is that Kant really does believe that it's a thing in itself.
+
+278
+00:30:17,319 --> 00:30:23,200
+And he does believe that everything that we perceive is part of the will for us, is part of empirical reality.
+
+279
+00:30:23,200 --> 00:30:26,560
+So for Kant, but Kant goes, well, Kant goes a whole nine yards.
+
+280
+00:30:22,120 --> 00:30:27,680
+You really have to respect Kant.
+
+281
+00:30:28,000 --> 00:30:33,359
+Because Kant's going to say, well, even space and time are in the world for us.
+
+282
+00:30:34,000 --> 00:30:36,880
+And what scientists are doing is right here.
+
+283
+00:30:36,879 --> 00:30:40,239
+Scientists are not making claims about the thing in itself.
+
+284
+00:30:40,239 --> 00:30:45,440
+So, you know, Kant has a very powerful metaphysics, you know, transcendental idealism.
+
+285
+00:30:45,439 --> 00:30:49,200
+The problem is his understanding of the thing in itself seems incoherent.
+
+286
+00:30:49,200 --> 00:30:53,440
+I mean, one way of thinking of it is, well, the thing in itself is what God would see.
+
+287
+00:30:53,759 --> 00:31:02,560
+So human understanding is stuck with the categories and forms of intuition, and that's the kind of world we have access to.
+
+288
+00:31:03,839 --> 00:31:16,959
+But we can also, there's also the world apart from our, at least we can, I mean, it's kind of incoherent almost, we can conceive of a world beyond the limitations of our possibilities for conceptual.
+
+289
+00:31:17,200 --> 00:31:26,480
+So the way Henry Allison puts it is, I guess other people, we can understand the thing in itself as the world from the God's eye view.
+
+290
+00:31:26,480 --> 00:31:32,960
+But in this case, the thing in itself as the world from the God's eye view is not the world of science.
+
+291
+00:31:32,960 --> 00:31:34,960
+Science is still here.
+
+292
+00:31:35,919 --> 00:31:46,239
+So in light of this historical problem, I'm trying to make sense of Merlot-Panzi's talk about the in-itself for us.
+
+293
+00:31:46,560 --> 00:31:51,439
+So now, you know, we'll have a concrete example from Berlot-Panzi.
+
+294
+00:31:51,439 --> 00:31:59,520
+So whereas, it's kind of funny, you know, Heidegger's big example of solicitations and stuff like that is the ready-to-hand hammer.
+
+295
+00:31:59,520 --> 00:32:02,000
+And Kafka's example is a mailbox.
+
+296
+00:32:02,000 --> 00:32:06,079
+Berlot-Panzi's big example, which he kind of uses in his other books, is an ashtray.
+
+297
+00:32:06,080 --> 00:32:13,319
+I mean, I'm just, you know, I don't even want to know what he's smoking, but it's, he talks about it again and again, it's the ashtray.
+
+298
+00:32:07,040 --> 00:32:14,759
+Sorry, you have a question?
+
+299
+00:32:15,080 --> 00:32:17,079
+No, I haven't said what I really think he is.
+
+300
+00:32:17,080 --> 00:32:23,160
+I think he is a kind of transcendental idealist, but I haven't left that out and I haven't supported that at all.
+
+301
+00:32:23,160 --> 00:32:24,359
+But that could be.
+
+302
+00:32:24,600 --> 00:32:31,239
+Well, with Kant, it's kind of problematic in that there's a sense of being too objective looks.
+
+303
+00:32:31,239 --> 00:32:35,239
+But to put it this way, what I actually think will come out later.
+
+304
+00:32:35,640 --> 00:32:44,200
+And so far as he's like Kant in that I think he's a kind of transcendental idealist, then perhaps there is a sense in which we could say Berlopanji is an empirical realist.
+
+305
+00:32:44,200 --> 00:32:46,439
+I mean, if that's what you would be getting at.
+
+306
+00:32:46,759 --> 00:32:49,640
+But I'll get to that later.
+
+307
+00:32:49,960 --> 00:32:53,880
+So here's the passage where Berlopanji talked about the ashtray.
+
+308
+00:32:54,200 --> 00:32:59,320
+It's on 372 in my book.
+
+309
+00:32:59,640 --> 00:33:00,759
+319.
+
+310
+00:33:02,359 --> 00:33:03,079
+319.
+
+311
+00:33:03,080 --> 00:33:05,160
+319 in the other book.
+
+312
+00:33:05,799 --> 00:33:09,320
+So it starts with a form of behavior.
+
+313
+00:33:09,960 --> 00:33:14,520
+It's the sentence before, the sentence with the a priori in italics, I think.
+
+314
+00:33:15,719 --> 00:33:20,440
+A form of behavior outlines a certain manner of treating the world.
+
+315
+00:33:20,439 --> 00:33:30,200
+In the same way, in the interactions of things, each one is characterized by a kind of a priori, to which it remains faithful in all its encounters with the outside world.
+
+316
+00:33:30,200 --> 00:33:35,160
+The significance of a thing inhabits a thing as the soul inhabits a body.
+
+317
+00:33:35,160 --> 00:33:37,400
+It is not behind appearances.
+
+318
+00:33:37,399 --> 00:33:51,000
+The significance of the ashtray, at least its total and individual significance, as it is given in perception, is not a certain idea of an ashtray, which coordinates its sensory aspects and is accessible to the understanding alone.
+
+319
+00:33:51,000 --> 00:33:55,360
+It animates the ashtray and is self-evidently embodied in it.
+
+320
+00:33:56,239 --> 00:34:00,480
+You know, that makes me want to light up right now and start using ashtrays.
+
+321
+00:34:00,480 --> 00:34:02,800
+But he goes on.
+
+322
+00:34:03,120 --> 00:34:12,160
+So given what he says about the ashtray and the thing in itself for us, we want to get to the bottom of his metaphysics and figure out whether he's an idealist or realist or whatever.
+
+323
+00:34:12,160 --> 00:34:18,400
+So the next passage where he mentions the thing in itself for us, he sounds pretty idealistic to me.
+
+324
+00:34:18,399 --> 00:34:28,640
+So it's a few pages after the one I just quoted on page 375 in the paragraph beginning, however, we have not yet exhausted the meaning of the thing.
+
+325
+00:34:29,439 --> 00:34:45,440
+So 375 in my book, he writes, one cannot, as we have said, conceive any perceived thing without someone to perceive it.
+
+326
+00:34:45,759 --> 00:34:56,000
+But the fact remains that the thing presents itself to the person who perceives it as a thing in itself, and thus poses the genuine problem of a thing in itself for us.
+
+327
+00:34:56,000 --> 00:35:00,719
+Now, we've already seen how Malo-Ponty is not a realist in the sense of a traditional naturalist.
+
+328
+00:35:00,719 --> 00:35:12,800
+He's also not a Barclayan idealist, because he thinks objects that are perceivable exist and that they have a fullness to their presence which includes their hidden sides, so to speak.
+
+329
+00:35:12,799 --> 00:35:17,680
+But it's still an open question if he's a kind of transcendental idealist.
+
+330
+00:35:17,680 --> 00:35:25,360
+And I'm wondering if, like Kant, Malo-Ponty has in his metaphysics, the understanding of a non-human reality.
+
+331
+00:35:25,680 --> 00:35:31,759
+And I think, you know, and by that I mean a non-human reality that would correspond to Kant's idea of a thing in a dark world.
+
+332
+00:35:32,000 --> 00:35:32,560
+Yeah?
+
+333
+00:35:35,759 --> 00:35:43,399
+Well, I just think that we have to conceive of things that aren't perceptible, that we can't perceive, and so like atoms and quarks.
+
+334
+00:35:43,560 --> 00:35:47,239
+But we're claiming he's an idealist and the objective world does not exist.
+
+335
+00:35:47,239 --> 00:35:48,439
+So you're saying that.
+
+336
+00:35:48,600 --> 00:35:51,719
+Again, it's not, I'm not saying that the objective world doesn't exist.
+
+337
+00:35:51,719 --> 00:35:55,160
+I'm saying the objective world in itself.
+
+338
+00:35:55,160 --> 00:35:58,600
+For him, it's not that it doesn't exist, it's that it's inconceivable.
+
+339
+00:35:58,600 --> 00:35:59,640
+So that's his point.
+
+340
+00:35:59,640 --> 00:36:00,999
+So I don't agree with his point.
+
+341
+00:36:01,000 --> 00:36:04,120
+So the objective world thing itself does have to be conventional.
+
+342
+00:36:04,439 --> 00:36:07,239
+I haven't told you my view yet because it's neither of the options presented.
+
+343
+00:36:07,480 --> 00:36:08,839
+Sorry, do you have a question back there?
+
+344
+00:36:09,080 --> 00:36:16,920
+We can share when we do what Milo Pante is doing, it may make it problematic to apply categories by realism idealism.
+
+345
+00:36:16,919 --> 00:36:19,080
+Is there something really funny about it?
+
+346
+00:36:19,080 --> 00:36:23,799
+Being like, well, if we figure out whether Milo Pante is an idealist, then we'll understand the challenge.
+
+347
+00:36:23,960 --> 00:36:24,359
+Yeah, yeah, yeah.
+
+348
+00:36:24,839 --> 00:36:25,560
+Yeah, yeah.
+
+349
+00:36:25,560 --> 00:36:29,080
+I mean, it's kind of a chicken egg, but I can easily go the other way, too.
+
+350
+00:36:29,480 --> 00:36:38,279
+So, I mean, the point is, to support what I'm saying, I want to look at the text and try to show how he himself is working within these categories.
+
+351
+00:36:38,279 --> 00:36:41,640
+So we know that he is rejecting this.
+
+352
+00:36:43,080 --> 00:36:48,759
+And so if he's rejecting that, you know, what possible views are left up in the air?
+
+353
+00:36:48,759 --> 00:36:50,519
+Well, that's exactly what I'm saying.
+
+354
+00:36:51,160 --> 00:36:57,799
+I mean, you might have a view that in challenging, you know, we set out that idealism idealism or whatever.
+
+355
+00:36:58,040 --> 00:36:58,519
+Yeah.
+
+356
+00:37:00,520 --> 00:37:04,920
+So to support what you're saying, actually, this is explicitly how he argues.
+
+357
+00:37:04,919 --> 00:37:13,799
+So Milo-Ponte thinks that he's come up with a radical new ontology, which is beyond idealism and beyond realism.
+
+358
+00:37:13,799 --> 00:37:19,000
+So, there's a specific, actually, there are two specific passages I can think of off the top of my head where he says this.
+
+359
+00:37:19,319 --> 00:37:32,640
+Even though he says that, my point is, despite his intentions to achieve this view beyond idealism and realism, I think given what he actually said and what he actually believes, he's stuck.
+
+360
+00:37:33,279 --> 00:37:37,120
+He's still stuck in this view in an incoherent way.
+
+361
+00:37:37,680 --> 00:37:41,599
+So, yes.
+
+362
+00:37:41,600 --> 00:37:45,360
+And not only you could, but you can because he's got it on the page.
+
+363
+00:37:45,359 --> 00:37:46,799
+So, I'll get to this later.
+
+364
+00:37:46,799 --> 00:37:55,759
+The way in which he thinks he's beyond idealism and realism is his idea of being in the world, which he's just hijacking from Heidegger.
+
+365
+00:37:55,759 --> 00:38:02,719
+This is very confusing because he actually doesn't have the same understanding of the world as Heidegger.
+
+366
+00:38:03,040 --> 00:38:10,160
+And so, part of my confusion in reading this text is I want to just kind of bring in Heidegger and fuse him with Lillopon T.
+
+367
+00:38:10,239 --> 00:38:12,000
+That's the natural thing to do.
+
+368
+00:38:12,000 --> 00:38:13,360
+That doesn't work.
+
+369
+00:38:13,359 --> 00:38:24,959
+I think ultimately, Heidegger has a much more coherent understanding of the world than Le Loopon T, an understanding of the world which makes sense of finance.
+
+370
+00:38:24,960 --> 00:38:27,280
+But also, it goes beyond this.
+
+371
+00:38:27,600 --> 00:38:29,839
+So, again, that's this alternative that I want to get at.
+
+372
+00:38:29,919 --> 00:38:30,719
+Judgings?
+
+373
+00:38:30,960 --> 00:38:33,039
+I just want to be clear about what you're doing with this passage.
+
+374
+00:38:33,040 --> 00:38:39,759
+It says one cannot, as we have said, conceive any perceived thing, perceived thing, without someone to perceive it.
+
+375
+00:38:39,759 --> 00:38:41,600
+It doesn't say we can't conceive anything.
+
+376
+00:38:41,839 --> 00:38:42,239
+Yeah, yeah.
+
+377
+00:38:42,239 --> 00:38:46,640
+I was just responding to his suggestion, which doesn't really have to do with that package before.
+
+378
+00:38:46,960 --> 00:38:48,399
+Well, okay, well, what do you want to make out of that?
+
+379
+00:38:49,359 --> 00:38:57,279
+So, I thought you were reading this as saying one cannot conceive anything without someone to perceive it.
+
+380
+00:38:57,359 --> 00:38:58,159
+But he doesn't say that.
+
+381
+00:38:58,160 --> 00:39:00,000
+Yeah, he doesn't say that there.
+
+382
+00:39:00,640 --> 00:39:01,719
+But you're right.
+
+383
+00:39:01,719 --> 00:39:02,879
+Is that what you think, the passage?
+
+384
+00:39:03,120 --> 00:39:03,520
+No.
+
+385
+00:39:04,160 --> 00:39:06,319
+So, moving on to Lillopine C and Khan.
+
+386
+00:39:06,319 --> 00:39:14,200
+So, I was just responding to that guy's question before, which was on a, which was on the problem of whether it is an objective world in itself and what I think.
+
+387
+00:39:14,359 --> 00:39:17,559
+And so it was kind of a this is happening again and again.
+
+388
+00:39:17,560 --> 00:39:21,799
+I mean, I want to distinguish my interpretation of Merleau-Ponty from what I actually think.
+
+389
+00:39:21,799 --> 00:39:26,280
+And so I was asking, I was answering the question for what I actually think.
+
+390
+00:39:26,279 --> 00:39:26,920
+Okay.
+
+391
+00:39:26,919 --> 00:39:29,560
+So moving on to Merleopine C and Kant.
+
+392
+00:39:29,560 --> 00:39:39,239
+Okay, so I'm wondering if, like Kant, Malo-Ponte has in his metaphysics the understanding of a non-human reality, some kind of analog to Kant's thing in itself.
+
+393
+00:39:39,879 --> 00:39:44,520
+So far, it seems that all of perceptible reality is the world for us.
+
+394
+00:39:44,520 --> 00:39:49,239
+And, you know, Merleponty calls this the in-itself for us.
+
+395
+00:39:49,239 --> 00:39:51,320
+But it's still a for us.
+
+396
+00:39:51,319 --> 00:39:58,040
+So is it really still inconceivable to imagine a non-human world which is not for us, but just in itself?
+
+397
+00:39:58,040 --> 00:40:02,120
+Even if it's not the supposedly determinate world of science.
+
+398
+00:40:02,120 --> 00:40:07,159
+So couldn't there be an indeterminate world in itself?
+
+399
+00:40:08,120 --> 00:40:14,919
+So I think this is what Maloponty's philosophy commits him to in spite of his desire to admit it.
+
+400
+00:40:15,239 --> 00:40:27,560
+So I'm more than happy to admit that he's not going to, you know, he's trying to resist this kind of interpretation, but then he says things like he does on page 375.
+
+401
+00:40:27,560 --> 00:40:31,719
+So now I'm going to the bottom of the page that we were just on.
+
+402
+00:40:31,719 --> 00:40:36,040
+Ordinarily, I don't know what page is that in that.
+
+403
+00:40:36,279 --> 00:40:46,839
+Ordinarily, we do not notice this because our perception in the context of our everyday concerns alights on things 322.
+
+404
+00:40:48,439 --> 00:40:50,840
+So the sentence beginning ordinarily.
+
+405
+00:40:50,839 --> 00:41:09,839
+So ordinarily, we do not notice this because our perception in the context of our everyday concerns alights on things sufficiently attentively to discover in them their familiar presence, but not sufficiently to disclose the non-human element which lies hidden in them.
+
+406
+00:41:10,160 --> 00:41:12,560
+Well, I'm wondering what in the world this could be.
+
+407
+00:41:12,560 --> 00:41:15,520
+You know, whatever it is, it's not the world for us.
+
+408
+00:41:15,520 --> 00:41:22,960
+It's this non-human element, and he has the prejudice of the world, so you would think it's not the world in itself.
+
+409
+00:41:22,960 --> 00:41:30,079
+Now, I think it's clear it's not the world in itself understood as a determinate world in itself.
+
+410
+00:41:30,399 --> 00:41:39,120
+But I think, kind of like Kant, he's got this understanding of perhaps an indeterminate world in itself.
+
+411
+00:41:39,120 --> 00:41:50,640
+I mean, how do you make sense of us constituting figures or creating things on an indeterminate horizon if there isn't something there to begin with?
+
+412
+00:41:50,640 --> 00:41:55,920
+So I think it's still an open question whether there's an indeterminate something or other out there.
+
+413
+00:41:56,239 --> 00:42:01,039
+And that indeterminate something or other out there is not what science studies.
+
+414
+00:42:01,359 --> 00:42:03,359
+It's just this kind of mystery X.
+
+415
+00:42:03,359 --> 00:42:05,120
+And so, I mean, that's just a possible interpretation.
+
+416
+00:42:05,120 --> 00:42:09,039
+Now, I'm actually very cautious in saying that.
+
+417
+00:42:09,040 --> 00:42:12,960
+And I think it is possible that he's saying, he could be saying something else.
+
+418
+00:42:12,960 --> 00:42:26,880
+But the main thing I want to emphasize is that whatever he's saying, insofar as it has, insofar as what he's saying is a rejection of the prejudice of the world, it's going to run into some serious problem.
+
+419
+00:42:26,879 --> 00:42:39,400
+I mean, I'm assuming you would think that too, assuming you disagree with his understanding of the possibility of the existence of an objective determinate world in itself.
+
+420
+00:42:39,719 --> 00:42:48,280
+Okay, so now I'm going to actually get to want to talk about the alternative understanding of the world.
+
+421
+00:42:48,279 --> 00:42:51,959
+And I think the clearest way of expressing that is J.J.
+
+422
+00:42:51,960 --> 00:42:53,319
+Gibson's own thoughts.
+
+423
+00:42:53,319 --> 00:42:54,200
+So I think J.J.
+
+424
+00:42:54,200 --> 00:43:01,080
+Gibson actually succeeds in getting beyond this kind of what I call world dualism.
+
+425
+00:43:01,080 --> 00:43:03,479
+The distinction between a world in itself and a world for us.
+
+426
+00:43:03,480 --> 00:43:04,759
+So any questions before I go on?
+
+427
+00:43:04,759 --> 00:43:05,560
+Yeah, for Ken.
+
+428
+00:43:06,919 --> 00:43:10,439
+He himself, I mean, I'll talk to you himself or not.
+
+429
+00:43:11,080 --> 00:43:27,880
+Just to clarify things, are you talking about his notion of that, you know, where things eventually progress toward our seeing it as a determinant object and we've taken it as something that's yeah, like this piece of talk is a thing in itself for us.
+
+430
+00:43:27,879 --> 00:43:32,920
+Part of the richness of the talk is that it still solicits me to ride on the board.
+
+431
+00:43:32,919 --> 00:43:41,239
+And so we can only understand the talk as being what it is insofar as we understand it as fitting in our kind of human world.
+
+432
+00:43:41,239 --> 00:43:43,719
+And this is as real as real gets.
+
+433
+00:43:44,040 --> 00:43:45,319
+I don't know if that answers your question.
+
+434
+00:43:46,439 --> 00:43:49,719
+Or do you think that's where there's this progression on the terminal?
+
+435
+00:43:52,120 --> 00:43:53,560
+Is that what you're trying to capture?
+
+436
+00:43:53,799 --> 00:43:56,680
+No, I think he's just trying to capture that.
+
+437
+00:43:56,680 --> 00:44:01,799
+Well, I feel like I will just repeat myself, that the this is as real as things get.
+
+438
+00:44:01,799 --> 00:44:08,680
+So in that thing, it's in itself and not in my mind or for us.
+
+439
+00:44:08,759 --> 00:44:19,319
+On the other hand, it's for us in that part of it being what it is is met in the world we live in, the kind of human world.
+
+440
+00:44:19,319 --> 00:44:24,719
+Now, if you talked about the answer, you speaker about the physical world, the ethical world in the human world is.
+
+441
+00:44:22,040 --> 00:44:24,959
+Yeah, yeah.
+
+442
+00:44:25,600 --> 00:44:28,160
+So, did you say for us being okay?
+
+443
+00:44:29,439 --> 00:44:30,239
+Yeah, good question.
+
+444
+00:44:30,239 --> 00:44:32,640
+We'll get to that here with quick use.
+
+445
+00:44:32,960 --> 00:44:52,480
+Ultimately, I think Melopon T's view, not Gibson's, or mine, Loopon T's view is that we need to understand that when we understand like Freeman's rabbits hopping around, we're understanding it for the rabbit, you know, the relation of the character of the carrot to the rabbit who's hungry.
+
+446
+00:44:52,480 --> 00:44:57,680
+But in doing that, we are perceiving that event.
+
+447
+00:44:57,680 --> 00:45:02,000
+And so that's, so there's a tricky sense in which that's still part of the world.
+
+448
+00:45:02,000 --> 00:45:08,640
+Yeah, okay, but when the rabbit smells a carrot, and you speak about the care for the rabbit.
+
+449
+00:45:08,640 --> 00:45:09,360
+Yes.
+
+450
+00:45:09,680 --> 00:45:15,439
+All of that is happening just the way we're talking about it now in our human terms.
+
+451
+00:45:15,759 --> 00:45:16,400
+Yeah.
+
+452
+00:45:16,399 --> 00:45:23,519
+But at least we're, but that's still an important break from the kind of reflex theory or, you know.
+
+453
+00:45:25,200 --> 00:45:34,399
+So I guess what you're all okay, so now I'm just going to go ahead and present this alternative understanding of the world, which I think is what J.J.
+
+454
+00:45:34,399 --> 00:45:35,200
+Gibson has.
+
+455
+00:45:35,200 --> 00:45:36,479
+So what's interesting about J.J.
+
+456
+00:45:36,480 --> 00:45:52,480
+Gibson is that even though it's tempting to read him as being, and he is very similar to Lelofine T and Heidegger, I think LeLopine T is a heck of a lot closer to Heidegger and much more different to Lerlofine T.
+
+457
+00:45:53,120 --> 00:45:57,039
+So the big concept in J.J.
+
+458
+00:45:57,040 --> 00:46:01,200
+Gibson that I'll talk about is the management of an affordance.
+
+459
+00:46:01,520 --> 00:46:10,280
+An affordance is basically like a solicitation, like the ashtray, and the demand character of the mailbox.
+
+460
+00:46:11,080 --> 00:46:14,120
+The real difference here is a metaphysical one.
+
+461
+00:46:14,120 --> 00:46:14,999
+For J.J.
+
+462
+00:46:15,000 --> 00:46:22,359
+Gibson, the affordance is a real feature of the object.
+
+463
+00:46:22,359 --> 00:46:24,759
+It's not something that depends on us.
+
+464
+00:46:25,080 --> 00:46:32,120
+So, you know, Milo-Ponte wants to tag on this for us at the end of his understanding of a thing.
+
+465
+00:46:32,680 --> 00:46:33,160
+J.J.
+
+466
+00:46:33,160 --> 00:46:47,239
+Gibson is going to have, well, at the same time, more radical, but I think it's a more down-to-earth understanding of the metaphysics of solicitations, demand characters, affordances.
+
+467
+00:46:47,239 --> 00:46:52,999
+So a classic example of an affordance, I mean, other than aspirations and stuff like that, would be a chair.
+
+468
+00:46:53,000 --> 00:46:56,999
+So the chair has the property of being sit-onable.
+
+469
+00:46:57,239 --> 00:46:58,120
+Right.
+
+470
+00:46:58,120 --> 00:47:00,040
+Yes, it is important.
+
+471
+00:47:01,319 --> 00:47:09,559
+And so the, and just like the, you know, things show up as being eatable, you know, you're eatable to a tiger.
+
+472
+00:47:10,439 --> 00:47:19,400
+And so that just shows that we need to distinguish between the eatable items for tigers and the eatable items for people and the sit-onable items for people.
+
+473
+00:47:19,399 --> 00:47:27,799
+And also you have a problem of, you know, people with age with disabilities who don't think we're people right there for us.
+
+474
+00:47:28,120 --> 00:47:32,520
+It's not for us because it's a feature of the object.
+
+475
+00:47:32,839 --> 00:47:39,719
+A feature of the object which does relate to us, but it doesn't actually depend on our, I guess you could say, factively being there.
+
+476
+00:47:39,719 --> 00:47:44,279
+So let me quote what Gibson says to see if it clarifies it, because if this is the right question.
+
+477
+00:47:44,600 --> 00:47:50,519
+So this is actually for, if you're interested, pages 138 to 139 of J.J.
+
+478
+00:47:50,520 --> 00:47:53,840
+Gibson's ecological approach to visual perception.
+
+479
+00:47:53,839 --> 00:47:54,799
+138.
+
+480
+00:47:52,120 --> 00:47:58,160
+And there he actually explicitly disagrees with Kafka.
+
+481
+00:47:58,319 --> 00:48:03,120
+So it's very interesting how he just kind of repeats what I was saying.
+
+482
+00:48:03,439 --> 00:48:10,159
+The concept of affordance is derived from these concepts of valence, invitation, and demand, but with a crucial difference.
+
+483
+00:48:10,160 --> 00:48:16,239
+So here's the difference between at least Rolo-Pinski and, I'm sorry, Gibson and the Gestalt psychologist.
+
+484
+00:48:16,239 --> 00:48:21,920
+The affordance of something does not change as the need of the observer changes.
+
+485
+00:48:22,239 --> 00:48:29,600
+The observer may or may not perceive or attend to the affordance according to his needs.
+
+486
+00:48:29,600 --> 00:48:34,719
+But the affordance, being invariant, is always there to be perceived.
+
+487
+00:48:34,719 --> 00:48:38,239
+An affordance is not bestowed upon an object.
+
+488
+00:48:38,239 --> 00:48:41,519
+That's the exact word that Kafka used instantly, bestowed.
+
+489
+00:48:41,839 --> 00:48:46,160
+Yeah, an affordance is not bestowed upon an object by a need of an observer.
+
+490
+00:48:46,160 --> 00:48:54,160
+And his act of perceiving it, the object offers what it does because it is what it is.
+
+491
+00:48:54,160 --> 00:48:59,120
+I mean, that's a deep metaphysical point he's making about what the object is.
+
+492
+00:48:59,120 --> 00:49:03,120
+Not what it is in itself, not what it is for us.
+
+493
+00:49:03,120 --> 00:49:05,280
+Just part of the richness of what it is.
+
+494
+00:49:05,279 --> 00:49:08,719
+This sucker here affords writing on the board.
+
+495
+00:49:08,719 --> 00:49:12,719
+Now, it could be Martians come down who did not invent the chalk.
+
+496
+00:49:13,040 --> 00:49:20,639
+We don't know anything about our chalk practices, but suppose they write with stuff, and they just kind of figure out this is something that you can write with.
+
+497
+00:49:20,640 --> 00:49:21,359
+It's true.
+
+498
+00:49:21,359 --> 00:49:26,559
+It's a fact about this piece of chalk, that it's right-withable, you could say.
+
+499
+00:49:26,879 --> 00:49:34,800
+Now, there are some things like food, which perhaps there's only one kind of animal which can eat a certain kind of food.
+
+500
+00:49:34,799 --> 00:49:37,200
+But the metaphysical point is this is a feature of the object.
+
+501
+00:49:38,600 --> 00:49:54,919
+And again, all I want to highlight for now, you know, isn't whether you believe this or not, but how this is a different way of understanding the phenomenology of perception with a metaphysics which is consistent with the phenomenology, but distinct from the metaphysics that J.J.
+
+502
+00:49:54,919 --> 00:49:56,280
+Gibson has.
+
+503
+00:49:56,279 --> 00:50:01,239
+So this is really the main thing that I want to say, kind of the take-home message.
+
+504
+00:50:01,879 --> 00:50:05,400
+Don't confuse the metaphysics of this book with the phenomenology.
+
+505
+00:50:05,399 --> 00:50:11,960
+Don't feel like you have to buy into the metaphysics if you also buy into the phenomenology.
+
+506
+00:50:11,960 --> 00:50:21,399
+All I'm saying is that the phenomenology of this book is consistent with a radically different kind of metaphysics from the one Merlopine T explicitly gives us.
+
+507
+00:50:21,399 --> 00:50:30,360
+And I think that metaphysics is along the lines of what Gibson, Heidegger, and on my reading McDowell says, although the McDowell case is tricky when it comes to perception.
+
+508
+00:50:30,680 --> 00:50:46,600
+But the basic point of an affordance we can clarify with an anthrax for the chair affords sitting, but when I'm walking past the chair to get out of the room, the chair presents itself as an obstacle.
+
+509
+00:50:47,480 --> 00:50:53,960
+Now in that case, I don't have access to the chair, I don't have access to the chair's sit-on ability.
+
+510
+00:50:54,279 --> 00:51:00,520
+But just because I don't have access to the chair's sit-on ability doesn't mean that the chair is not sit-onable.
+
+511
+00:51:00,520 --> 00:51:05,880
+It doesn't mean that the sit-on ability of the chair just is in my mind.
+
+512
+00:51:06,200 --> 00:51:12,920
+I mean, that's not, you know, it's not, we're not forced to the conclusion that the sit-on ability of the chair is subjective.
+
+513
+00:51:13,560 --> 00:51:19,719
+Now, I think there's a there are a lot of natural objections to race to raise to this view.
+
+514
+00:51:19,719 --> 00:51:23,439
+And I think there are all kinds of responses that can be made to these objections.
+
+515
+00:51:23,759 --> 00:51:35,120
+But rather than getting into the nitty-gritty back and forth objections and arguments on that, I just want to emphasize that this is just a different way of understanding the phenomenology of perception.
+
+516
+00:51:35,120 --> 00:51:41,680
+A different way of understanding the phenomenology of perception that has a different underlying metaphysics.
+
+517
+00:51:41,680 --> 00:51:50,880
+So now the actually before getting to being in the world, I need to clarify this understanding of reality that Gibson has.
+
+518
+00:51:50,879 --> 00:51:57,999
+I don't know what probably increases the number of questions that you have, but I think I just want to present it as an alternative.
+
+519
+00:51:58,640 --> 00:52:00,160
+It's original.
+
+520
+00:52:00,799 --> 00:52:13,120
+So instead of having these three verticals of the world in itself and the world for us, Gibson makes the distinction between the environment and what he calls the physical world.
+
+521
+00:52:13,120 --> 00:52:16,959
+So while thinking of how I could draw Gibson, here's how I draw it.
+
+522
+00:52:17,279 --> 00:52:21,759
+If we take this to be, so Gibson has a level to description story.
+
+523
+00:52:22,399 --> 00:52:30,080
+Kind of the late 20th century philosophy, a lot of people have different understandings of levels of description, so it shouldn't be all that new to you.
+
+524
+00:52:30,640 --> 00:52:35,120
+The way Gibson understands it is that there are all kinds of different levels of description.
+
+525
+00:52:35,120 --> 00:52:37,520
+This is how he begins his book.
+
+526
+00:52:38,399 --> 00:52:46,719
+So we can take this to be the level the level of descript the level of description of physics.
+
+527
+00:52:47,040 --> 00:52:50,640
+And this would be the level of description of chemistry.
+
+528
+00:52:50,640 --> 00:52:53,360
+And this is the level of description of biology.
+
+529
+00:52:53,359 --> 00:53:01,759
+This up here is a whole new level of description that Gibson thinks he discovered and calls this the ecological level.
+
+530
+00:53:01,759 --> 00:53:07,200
+So that's why this book is called the Ecological Approach to Visual Perception.
+
+531
+00:53:07,719 --> 00:53:20,520
+The ecological, so just as the level of description of physics contains certain physical particles like atoms and quarks, the chemical level description contains molecules, I guess.
+
+532
+00:53:20,759 --> 00:53:25,480
+The biological level description contains stuff like I guess cells or whatever.
+
+533
+00:53:25,480 --> 00:53:35,320
+The ecological level description contains drinkable water, walk on a little sidewalk, sit on a little chairs, and all that.
+
+534
+00:53:35,560 --> 00:53:44,040
+Now here, what's important to distinguish, which was motivating Professor Gregis' question, is that we need to distinguish between the different animals.
+
+535
+00:53:44,040 --> 00:53:47,880
+Because what's edible for humans is inedible for other animals.
+
+536
+00:53:48,200 --> 00:54:04,359
+So even though there is a kind of referentiality or relationality to the very concept of an affordance, we're not denying that there is this relationality to affordances.
+
+537
+00:54:04,359 --> 00:54:06,280
+I mean, that's the essence of the concept.
+
+538
+00:54:06,279 --> 00:54:13,719
+The point is, the referentiality of an affordance is not to be understood as being objective or subjective.
+
+539
+00:54:13,719 --> 00:54:19,479
+And when it comes to describing the different animals, yes, I think each animal has what J.J.
+
+540
+00:54:19,480 --> 00:54:22,440
+Gibson calls an environment.
+
+541
+00:54:23,080 --> 00:54:37,239
+So since, you know, to use a little confused terms, just as we mesh with the perceived world, you know, we mesh with the chalk, and the chalk, as we experience the chalk, meshes with us, J.J.
+
+542
+00:54:37,239 --> 00:54:43,320
+Gibson's going to call that the mutuality between an organism and an environment.
+
+543
+00:54:43,319 --> 00:54:47,400
+This is actually explicitly how he begins chapter one of his book.
+
+544
+00:54:47,399 --> 00:54:55,759
+And it's great that he does that because I think what he's doing is articulating high-gger's understanding of the kind of cosmological mutuality.
+
+545
+00:54:55,919 --> 00:55:05,360
+And so that's really just another way of saying we're not to understand ourselves as being subject as opposed to objects and the traditional subject topic distinction.
+
+546
+00:55:05,359 --> 00:55:07,999
+We're just supposed to understand ourselves as being moral.
+
+547
+00:55:08,000 --> 00:55:12,719
+And we should understand animals as being in an animal environment.
+
+548
+00:55:12,719 --> 00:55:29,040
+So to take the classic example of a bat, we need to describe, if we want to understand the bat, we need to describe the kinds of things in the bat environment which attracts and repulse bats.
+
+549
+00:55:29,359 --> 00:55:35,360
+The kinds of objects and properties to which the bat has access.
+
+550
+00:55:35,359 --> 00:55:37,759
+You know, given its sonar and whatnot.
+
+551
+00:55:38,080 --> 00:55:41,359
+So if you want to know what's it like to be a bat, I think if you're J.J.
+
+552
+00:55:41,359 --> 00:55:45,359
+Gibson, your answer to that question is, you know, look at what attracts and repels bats.
+
+553
+00:55:45,359 --> 00:55:49,440
+Look at the things that show up to bats as edible.
+
+554
+00:55:49,439 --> 00:55:50,400
+Show up.
+
+555
+00:55:50,719 --> 00:55:54,000
+Show up that the bat has access to.
+
+556
+00:55:54,399 --> 00:55:55,999
+Perspective access to.
+
+557
+00:55:56,000 --> 00:55:56,319
+Yeah?
+
+558
+00:55:56,560 --> 00:55:59,279
+Is this a multiple individual life is congruent?
+
+559
+00:55:59,279 --> 00:56:09,839
+Because an individual details all the algorithms itself to the people are taller and shorter than others.
+
+560
+00:56:09,839 --> 00:56:15,280
+So I mean, you know, for what it's worth, a basketball group is not dunk onable.
+
+561
+00:56:15,279 --> 00:56:22,799
+Like, you know, well, when I'm kind of trading and driving the lane on a fast break, I don't think maybe now would be a good time to dunk.
+
+562
+00:56:22,799 --> 00:56:25,679
+You know, it doesn't, the basketball group doesn't show up that way.
+
+563
+00:56:25,919 --> 00:56:32,320
+It doesn't afford dunking, you know, given people from my perspective and stuff.
+
+564
+00:56:32,319 --> 00:56:52,439
+And so that's also an important part of understanding the understanding of an affordance in that we need to think of it in terms of possible perceivers, you know, possible organisms, as if they were standing here with, you know, as tall as I am with my physical capabilities in that room.
+
+565
+00:56:52,439 --> 00:56:56,920
+But it's still not in my mind subjective.
+
+566
+00:56:56,919 --> 00:57:01,879
+And it's still not objective in the sense that it's not a part of the world of physics.
+
+567
+00:57:01,879 --> 00:57:05,560
+Like, you're not going to find affordances with your microscopes.
+
+568
+00:57:06,040 --> 00:57:11,239
+You're doing the research in the wrong library if you think you're going to find an affordance there, there, or there.
+
+569
+00:57:11,879 --> 00:57:21,560
+So the metaphysical problem is there's a general bias in philosophy and science that if something doesn't exist at this level, then it just doesn't exist.
+
+570
+00:57:21,560 --> 00:57:23,319
+I mean, some people have gone that route.
+
+571
+00:57:23,319 --> 00:57:26,920
+So if you can't find colors here, there are no colors.
+
+572
+00:57:27,560 --> 00:57:35,480
+Now, of course, there are sophisticated philosophers and scientists who will try to make room for colors being here, like a dispositional account and stuff.
+
+573
+00:57:35,480 --> 00:57:40,439
+But this is just a genuine alternative that I want to present.
+
+574
+00:57:43,000 --> 00:57:43,960
+Ah, good.
+
+575
+00:57:43,960 --> 00:57:44,599
+Good.
+
+576
+00:57:45,239 --> 00:58:00,200
+Well, what's very interesting about that question is what looks like a serious objection to the very idea of being in the world is the way in which Malofine C himself introduces the idea of being in the world of the phantasm.
+
+577
+00:58:00,520 --> 00:58:14,040
+So I do think that phantom wings, illusions, dreams, sinus studied experiences are all the most serious problems, the most serious objections for making sense of this alternative I'm presenting.
+
+578
+00:58:14,520 --> 00:58:25,519
+One question is: even if you can't handle these objections all that great, are the alternatives like that, in other words, who can give you a really good account of phantom limbs and stuff?
+
+579
+00:58:25,839 --> 00:58:33,200
+But if those people can give you a good account of phantom limbs, kind of the catch-winning view, then they give you a good account of other stuff, like ordinary reflections.
+
+580
+00:58:33,200 --> 00:58:38,879
+So I do think these are the biggest things that were a problem for you.
+
+581
+00:58:38,960 --> 00:58:39,439
+Phantom limbs.
+
+582
+00:58:41,919 --> 00:58:42,960
+Okay, good, yeah.
+
+583
+00:58:43,600 --> 00:58:44,640
+Yeah, thanks, Jay.
+
+584
+00:58:44,879 --> 00:58:54,160
+So phantom limbs would be a problem for this view, and illusions and hallucinations, because this view is basically a form of direct realism.
+
+585
+00:58:55,120 --> 00:59:04,239
+And the normal way of explaining illusions and hallucinations is to say that, well, the phantom limb is just in your mind.
+
+586
+00:59:04,879 --> 00:59:11,440
+Because obviously there is no limb there, but you're still experiencing the pain in your phantom limb.
+
+587
+00:59:11,439 --> 00:59:15,680
+So, you know, the natural question asked is, well, where's the pain if it's not in your mind?
+
+588
+00:59:15,919 --> 00:59:17,920
+Not in your mind and it's not in the world.
+
+589
+00:59:17,919 --> 00:59:27,920
+So when Taylor Carmen came here last year to talk about Holo Pine C, I raised my hand because he mentioned phantom limbs and I said, where's the pain of my phantom limb?
+
+590
+00:59:27,919 --> 00:59:31,039
+And it's kind of not very nice of me to ask because I know he can't answer it.
+
+591
+00:59:31,040 --> 00:59:32,479
+So I just wanted to see what he would say.
+
+592
+00:59:32,799 --> 00:59:35,920
+I think he just gave an honest answer, which is that I don't really know.
+
+593
+00:59:35,919 --> 00:59:46,960
+But I think, well, in light of this, I'm kind of curious to reread what Model Pine C says about being in the world in Phantom Limbs.
+
+594
+00:59:46,960 --> 00:59:56,480
+But I do think that this is a serious problem, hallucinations and illusions and phantom limbs for this direct realist view.
+
+595
+00:59:56,799 --> 01:00:01,279
+But I also think the the alternatives, I mean, there are problems for all the alternative metaphysical views.
+
+596
+01:00:01,279 --> 01:00:04,160
+And I would rather be saddled with these problems than the alternatives.
+
+597
+01:00:04,160 --> 01:00:06,839
+But I mean, what I think doesn't really matter.
+
+598
+01:00:06,719 --> 01:00:09,960
+This is an important objection.
+
+599
+01:00:10,600 --> 01:00:10,999
+Yeah?
+
+600
+01:00:11,560 --> 01:00:21,560
+Getting back to affordances, talk affordance writability, regardless of whether I'm a human being or what is the basketball food.
+
+601
+01:00:22,040 --> 01:00:26,680
+Well, the question amounts to: well, what is dunkability?
+
+602
+01:00:26,680 --> 01:00:28,840
+You know, what is the importance of dunkability?
+
+603
+01:00:28,839 --> 01:00:35,719
+What else goes into a basketball group being dunk onable?
+
+604
+01:00:36,040 --> 01:00:39,320
+And I think just the concept of an affordance is very rich.
+
+605
+01:00:39,319 --> 01:00:56,759
+And you have to get into, well, in the case of it really being a slay-and-dunk and not just a physical action, in other words, for it to be a slam dunk as being worth two points in a game of basketball, you need to bring in something like, well, what's real called collective intentionality.
+
+606
+01:00:56,759 --> 01:00:59,879
+And you need to get into, well, you don't need that.
+
+607
+01:00:59,879 --> 01:01:02,759
+You just need to get into institutions and premises.
+
+608
+01:01:02,759 --> 01:01:11,239
+So what I haven't mentioned yet, which is worth emphasizing, is that there is a sense in which we're distinct from the animals.
+
+609
+01:01:11,239 --> 01:01:14,999
+And there's a sense in which the world we live in is a rich cultural world.
+
+610
+01:01:15,000 --> 01:01:17,640
+We have history and tradition and language.
+
+611
+01:01:17,640 --> 01:01:31,559
+And so in that sense, you've got more, as Heidegger understands, Heidegger's going to understand all this stuff for animals to be Boomfeld environment or surrounding world.
+
+612
+01:01:31,879 --> 01:01:36,999
+And then Heidegger's going to understand all of this to be the present at the end.
+
+613
+01:01:37,000 --> 01:01:41,559
+And so I mean, while I'm here, I mean, so this is my understanding of Heidegger.
+
+614
+01:01:41,559 --> 01:01:50,439
+And what's important is that this understanding of Heidegger succeeds at getting beyond the world-in-itself, world-for-us dichotomy.
+
+615
+01:01:50,439 --> 01:01:57,120
+And the way it avoids that world-in-itself, world-for-us dichotomy is by having those kind of levels of description.
+
+616
+01:01:57,760 --> 01:02:16,960
+But I guess ultimately, the problem of an affordance of predemponability, I mean, I just think if you read the way Gibson describes affordances, yes, you do have to take into account my particular body, but really, really just the possible particular bodies that could possibly dunk a bathroom.
+
+617
+01:02:17,040 --> 01:02:19,120
+Say, why don't you take into account group?
+
+618
+01:02:19,519 --> 01:02:29,919
+I do take into account my particular need to write or not write insofar as that is an essential part of my having access to the affordance.
+
+619
+01:02:30,239 --> 01:02:35,519
+But just because I don't always have access to an affordance doesn't mean that the affordance isn't already there.
+
+620
+01:02:35,519 --> 01:02:42,319
+So, I mean, that's the main difference between Gibson's understanding of it and somebody like, I guess, Dave Morobox here.
+
+621
+01:02:42,960 --> 01:02:48,799
+And this is puzzling, and I sympathize and I encourage people to object with everything I've said in the last 10 minutes.
+
+622
+01:02:48,800 --> 01:02:53,359
+And I'm just trying to go back to contrasting this with the geostalpus.
+
+623
+01:02:53,359 --> 01:03:02,719
+So, an apple for Gibson that doesn't say eat me, it says if it still looks edible, even when I'm not hungry.
+
+624
+01:03:02,720 --> 01:03:03,359
+That's the difference.
+
+625
+01:03:03,599 --> 01:03:04,319
+Ah, exactly.
+
+626
+01:03:04,800 --> 01:03:10,880
+I think, well, using the metaphor, you can't just simply say that the apples have eaten me, you just don't always hear it.
+
+627
+01:03:11,200 --> 01:03:12,319
+Oh, okay.
+
+628
+01:03:13,840 --> 01:03:15,759
+Or rather, around you, you hear it but ignore it.
+
+629
+01:03:15,760 --> 01:03:17,279
+I mean, I guess there are different ways of thinking of it.
+
+630
+01:03:17,840 --> 01:03:25,679
+It looks like it looks atedible, but if you're hungry, you're attuned to that and have access for that.
+
+631
+01:03:25,679 --> 01:03:26,160
+Yeah.
+
+632
+01:03:27,120 --> 01:03:29,040
+And it doesn't even look edible again.
+
+633
+01:03:29,040 --> 01:03:29,359
+I don't know.
+
+634
+01:03:30,080 --> 01:03:31,599
+I mean, it is why would you look?
+
+635
+01:03:31,599 --> 01:03:34,559
+Well, I could walk by the garbage came here and it might be a happy apple.
+
+636
+01:03:34,639 --> 01:03:38,679
+Technically, if I were a starving person, you know, I'd be looking.
+
+637
+01:03:38,679 --> 01:03:39,960
+So I'm just walking off the roof.
+
+638
+01:03:37,040 --> 01:03:43,399
+So okay, I'll satisfy that person.
+
+639
+01:03:46,279 --> 01:03:47,639
+Everything can be affordable.
+
+640
+01:03:48,359 --> 01:03:53,479
+The Martian I came down, you may not have to write with anything.
+
+641
+01:03:54,279 --> 01:03:55,720
+What is write with the whole thing?
+
+642
+01:03:55,880 --> 01:03:57,800
+Right, you may not even have a concept of writing.
+
+643
+01:03:57,880 --> 01:04:00,439
+You may never need to write anything to this point.
+
+644
+01:04:00,920 --> 01:04:04,279
+And yet you're still seeming to say that the chalk don't have its green.
+
+645
+01:04:04,599 --> 01:04:05,719
+It still affords writing, yeah.
+
+646
+01:04:05,720 --> 01:04:07,000
+It's just still afforded writing.
+
+647
+01:04:07,000 --> 01:04:10,519
+And so it seems that everything can afford anything.
+
+648
+01:04:10,599 --> 01:04:11,319
+Depends upon the.
+
+649
+01:04:11,559 --> 01:04:13,319
+Well, not anything can afford anything.
+
+650
+01:04:13,319 --> 01:04:17,000
+But what you're suggesting is what I freely admit, the world is rich.
+
+651
+01:04:17,000 --> 01:04:19,799
+Well, what about the Martian likes to be metal?
+
+652
+01:04:19,800 --> 01:04:21,800
+You know, so it comes down and eats the biochemistry.
+
+653
+01:04:21,960 --> 01:04:29,959
+Yes, that's just part of the peculiarity of the eatability or edibleness of metal.
+
+654
+01:04:30,279 --> 01:04:35,959
+So what I like about the way you're thinking is this is exactly how I want to criticize Thomas Nagel.
+
+655
+01:04:35,960 --> 01:04:42,599
+Nagel is very interesting because he recognizes that there's something fundamentally problematic with the subject-object distinction.
+
+656
+01:04:42,599 --> 01:04:52,040
+But his solution isn't to get rid of it, but to say that the subject-object distinction is a difference in degree, and that we have to think of it as tendencies or directions of our knowledge.
+
+657
+01:04:52,040 --> 01:05:07,559
+And the way he argues for it is with Martians and stuff like that, and you know, what does it like to be a bat on the one hand, but you need to understand the what does it like to be a bat argument in light of what Nagel says about Martian scientists trying to understand us.
+
+658
+01:05:07,559 --> 01:05:30,639
+So, whereas if we take here into account the different kinds of organisms and levels of description for the different species and stuff, and include Martians, Thomas Nagel's subjectivity, objectivity story is going to be kind of this directional way, where it depends on your point of view.
+
+659
+01:05:30,639 --> 01:05:42,879
+So, his book is The View from Nowhere, where The View from Nowhere is kind of the rock-bottom asymptotic view that we get in doing natural science like physics.
+
+660
+01:05:43,200 --> 01:05:49,599
+And so, what I really think is a very fruitful way to think of this in contrast to it.
+
+661
+01:05:49,599 --> 01:05:55,679
+Because, I mean, why not just, my response to Nabel is why not just get rid of the subject-object distinction itself?
+
+662
+01:05:55,679 --> 01:05:57,759
+I mean, he wants to turn it into a matter of degree.
+
+663
+01:05:57,920 --> 01:06:05,040
+So, I mean, my way of thinking of it is really, we're either stuck with world in itself or for us, and one of its variations.
+
+664
+01:06:05,359 --> 01:06:07,839
+Or we just have to get rid of the whole thing.
+
+665
+01:06:07,840 --> 01:06:13,120
+Now, it would be nice if Milo Fine C were saying, but I don't think he is.
+
+666
+01:06:13,120 --> 01:06:19,439
+I think despite his intentions, he's still stuck in a kind of perverted rejection.
+
+667
+01:06:20,160 --> 01:06:23,040
+In rejecting the world in itself, he's still kind of hungry.
+
+668
+01:06:23,200 --> 01:06:28,639
+But that said, you will read at least two passages where he says that he's going beyond idealism and realism.
+
+669
+01:06:28,639 --> 01:06:31,120
+He is the barker that is being in the world.
+
+670
+01:06:31,120 --> 01:06:33,519
+And I don't think he's succeeding at them.
+
+671
+01:06:36,319 --> 01:06:42,479
+We make sure that we hold up this thing that Niggy belongs to the point of the left there.
+
+672
+01:06:43,200 --> 01:06:43,679
+That's mine.
+
+673
+01:06:45,519 --> 01:06:46,160
+Oh, good.
+
+674
+01:06:48,000 --> 01:06:53,920
+And you understand this brief is going to give a gender perception.
+
+675
+01:06:54,000 --> 01:06:55,599
+You know which one is where they all have.
+
+676
+01:06:55,760 --> 01:06:57,679
+Somebody tell me what room where I should do.
+
+677
+01:06:58,479 --> 01:06:59,759
+Well, let me uh write this down.
+
+678
+01:07:02,040 --> 01:07:03,160
+When and where when and where?
+
+679
+01:07:05,639 --> 01:07:09,080
+Oh, I think it's 11 in one night.
+
+680
+01:07:10,359 --> 01:07:10,920
+Tomorrow?
+
+681
+01:07:12,040 --> 01:07:15,239
+I don't know if you had a chance to read McDowell's two sorts of natural requirements.
+
+682
+01:07:15,239 --> 01:07:20,519
+But there he explicitly talks about this this getting beyond the in-itself or at the function.

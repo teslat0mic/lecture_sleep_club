@@ -1,0 +1,3272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:06,560
+Now, what I hope to do is finish talking about discourse today and begin talking about falling.
+
+2
+00:00:06,881 --> 00:00:11,521
+And then that leaves us one lecture behind still.
+
+3
+00:00:12,160 --> 00:00:15,761
+So I hope to finish falling on Tuesday.
+
+4
+00:00:15,761 --> 00:00:18,641
+So read the falling part.
+
+5
+00:00:18,641 --> 00:00:23,920
+And remember, there's this part to skip, which I will just put back on the board.
+
+6
+00:00:23,920 --> 00:00:34,161
+So for next week, oh, no, for next, well, you've already supposedly read for this time already up to where we are.
+
+7
+00:00:34,160 --> 00:00:38,400
+So I want you to continue to go because we're going to get to this.
+
+8
+00:00:38,720 --> 00:00:39,840
+Well, no, I know.
+
+9
+00:00:40,801 --> 00:00:44,800
+I hope to get to starting this Thursday, that's what I'm trying to say.
+
+10
+00:00:44,801 --> 00:01:08,760
+The next Thursday, we're going to get 224 to 241, and we're going to skip the anxiety part, which is 228 to 235, and 241 to 244.
+
+11
+00:01:11,641 --> 00:01:14,280
+Okay, that's, can you see that?
+
+12
+00:01:14,600 --> 00:01:16,041
+I'm sort of in the way of it.
+
+13
+00:01:16,680 --> 00:01:20,440
+So that, now, let's go back to where we were.
+
+14
+00:01:20,440 --> 00:01:24,440
+We're finishing talk, the discourse part.
+
+15
+00:01:24,440 --> 00:01:35,000
+And I keep trying to tell myself and tell you, because I really find it such a crazy thing to get a grip on just this terminology.
+
+16
+00:01:35,000 --> 00:01:37,321
+Why is he calling this the talk?
+
+17
+00:01:37,321 --> 00:01:45,160
+And when he is calling it talk, then there's several different kinds of something or other that falls under talk.
+
+18
+00:01:45,160 --> 00:01:48,601
+Some of it involves words, and sometimes it doesn't, and so forth.
+
+19
+00:01:48,600 --> 00:01:50,920
+So let me try to sort it out again.
+
+20
+00:01:51,240 --> 00:01:59,560
+I think there is something, and this may not be right, but I've got to keep trying, and then you can come to office hours and tell me why it's wrong, and then we'll all learn something.
+
+21
+00:01:59,561 --> 00:02:17,240
+But there is, Heidegger has a kind of methodological idea, which is not very good, that when he wants to call the condition of the possibility of something primordial something.
+
+22
+00:02:17,240 --> 00:02:19,641
+You'll see the main ones when you get to truth.
+
+23
+00:02:19,641 --> 00:02:25,480
+He's got a notion of primordial truth that makes ordinary correspondence truth possible.
+
+24
+00:02:25,881 --> 00:02:32,600
+When you get to time, he's got a notion of temporality that's supposed to make ordinary time possible.
+
+25
+00:02:32,600 --> 00:02:40,761
+And when he does talk about it under temporality, he says you can name the more powerful thing by what it makes possible.
+
+26
+00:02:40,881 --> 00:02:42,521
+And that's in Latin, he says that.
+
+27
+00:02:42,521 --> 00:02:47,160
+That must be somewhere, some philosopher has said it.
+
+28
+00:02:47,160 --> 00:02:56,720
+So I think maybe we can say that he's got a notion of primordial talk, and that's not words and people speaking.
+
+29
+00:02:57,040 --> 00:03:26,480
+That's, remember we got there last time, that's the fact that the referential totality is articulated, that has joints, and therefore, because of that primordial structure of articulated articulated structure, that makes possible talking when words, because you can name the joints.
+
+30
+00:03:26,480 --> 00:03:28,480
+So maybe that's what he's up to.
+
+31
+00:03:28,480 --> 00:03:36,400
+We know that ordinary talk is founded on what we might want to call primordial talk on 204.
+
+32
+00:03:36,400 --> 00:03:40,721
+And maybe that would help just sort out these two.
+
+33
+00:03:40,720 --> 00:03:44,320
+There's no doubt that he's got two different things here.
+
+34
+00:03:50,641 --> 00:04:03,761
+So he says on 204, the second paragraph, as an existential state in which Dasein is disclosed, this course is constitutive of Dasein's existence.
+
+35
+00:04:04,400 --> 00:04:06,721
+I guess I've got to read that.
+
+36
+00:04:06,961 --> 00:04:17,440
+The Dasein is disclosed as a disclosure of the referential totality of significance and all these joints.
+
+37
+00:04:17,441 --> 00:04:22,800
+It doesn't fit the text too well, but that seems to be what I'm going to believes, that's what he thinks.
+
+38
+00:04:22,761 --> 00:04:26,720
+Discourse is constitutive for Dasein's existence.
+
+39
+00:04:26,720 --> 00:04:33,720
+But that doesn't mean talking yet, because he says hearing and keeping silent are possibilities belonging to discursive speech.
+
+40
+00:04:33,441 --> 00:04:36,681
+That's, I think, talking words.
+
+41
+00:04:37,001 --> 00:04:45,720
+In these phenomena, the constitutive functions of discourse for the existentiality of existence becomes entirely plain for the first time.
+
+42
+00:04:46,040 --> 00:05:00,921
+Well, that seems to me something like the claim that this articulation of the joints becomes changed into speaking articulation.
+
+43
+00:05:00,920 --> 00:05:17,400
+And speaking articulation makes that, makes Dasein's job as an articulator, both of the referential totality with its joints, its nodes or whatever, and of the being that can name them.
+
+44
+00:05:17,400 --> 00:05:19,641
+That's how I'm going to think about it anyway.
+
+45
+00:05:19,641 --> 00:05:40,600
+I'm going to say primordial ontological talk carves up the world into affordances or whatever, joints, whatever, like doors and windows and lecterns, has solicitations to do this or to do that.
+
+46
+00:05:41,160 --> 00:05:45,400
+And we can then name them and talk about them.
+
+47
+00:05:46,840 --> 00:06:04,361
+So another way, now to just talk about the phenomena, another way to put it, which I can understand better, because it's always better to have a phenomenon, as we develop skills, we can disclose all kinds of distinctions, which we don't have at first.
+
+48
+00:06:04,360 --> 00:06:14,121
+Remember this, that, and these distinctions that we get as we require skills show up in the world as things looking different.
+
+49
+00:06:15,520 --> 00:06:27,280
+I mean, the usual example is the Merleau-Ponty example, a city looks more and more full of distinctions like turn right for the bakery and turn left for the laundry and so forth as you get to know it.
+
+50
+00:06:27,600 --> 00:06:35,921
+A better example here would be imagine that a surgeon has a skill for cutting in many, many different ways.
+
+51
+00:06:35,921 --> 00:06:42,001
+Many more than we've got names for, or that anybody's got names for.
+
+52
+00:06:43,041 --> 00:06:53,041
+But as he acquires more and more skill, he articulates the domain of cuttable bodies more into more and more distinctions.
+
+53
+00:06:53,041 --> 00:06:55,040
+And they're not ineffable.
+
+54
+00:06:55,281 --> 00:07:02,001
+Heidegger doesn't think that there's anything of these distinctions and nodes that you can't name.
+
+55
+00:07:02,000 --> 00:07:08,641
+So if the surgeon wants to teach how to make a new kind of operation, he can name the way he cuts.
+
+56
+00:07:09,360 --> 00:07:15,921
+And then he articulates the discriminations, which is my new word here for articulations.
+
+57
+00:07:15,921 --> 00:07:16,961
+It's the same thing.
+
+58
+00:07:16,961 --> 00:07:22,641
+He articulates the discriminations that he can make of various kinds of cutting.
+
+59
+00:07:22,640 --> 00:07:33,600
+There is something, just to get clear where I stand, and I'm sure Heidegger too, there is something that can't be put into words, which is in a certain way ineffable.
+
+60
+00:07:33,600 --> 00:07:35,681
+And that's the skill itself.
+
+61
+00:07:35,681 --> 00:07:48,961
+That you can't program the skill the surgeon exercises when he looks at the tissue and can see that this is cuttable that way and this should be cut that way and so forth.
+
+62
+00:07:48,961 --> 00:07:53,681
+He sees all these distinctions that his experience has given him.
+
+63
+00:07:53,681 --> 00:07:56,001
+His experience has given him skills.
+
+64
+00:07:56,000 --> 00:08:02,881
+His skills show up in the in the in the world as distinct-looking, different tissue in the body.
+
+65
+00:08:02,880 --> 00:08:07,240
+And those different distinct tissues in the body show up.
+
+66
+00:08:07,561 --> 00:08:09,001
+Oh, that reminds me, that's a funny story.
+
+67
+00:08:09,000 --> 00:08:11,720
+I tell you a story to make this clear.
+
+68
+00:08:11,961 --> 00:08:16,281
+My brother and I, two funny stories.
+
+69
+00:08:16,281 --> 00:08:16,840
+Okay.
+
+70
+00:08:17,480 --> 00:08:25,721
+Both from our days when we worked for the Air Force doing the phenomenology of skills.
+
+71
+00:08:25,720 --> 00:08:28,281
+There were two amazing moments.
+
+72
+00:08:28,281 --> 00:08:33,241
+One was, there was, and it was sort of like Dr.
+
+73
+00:08:33,240 --> 00:08:48,840
+Strangelove or something, there was a famous, I guess, lieutenant colonel or some rather high character who had been the best tank commander in Vietnam and had won all the medals and so forth.
+
+74
+00:08:48,840 --> 00:08:57,481
+And he was getting old, and he was convinced that if they got an expert system that could do what he did, then they could install it in the tanks.
+
+75
+00:08:57,480 --> 00:09:08,281
+And after he died, he would still be fighting all the battles and winning all the battles because his expertise, his skill, would have been captured in this expert system in the tank.
+
+76
+00:09:08,280 --> 00:09:13,721
+And my brother and I were trying to tell him, no, I'm afraid we're sorry you can't do that.
+
+77
+00:09:14,041 --> 00:09:17,081
+And he said, oh, it's easy, let me explain.
+
+78
+00:09:17,240 --> 00:09:20,360
+And he lived up on a sort of mountain with walls around him.
+
+79
+00:09:20,360 --> 00:09:22,840
+And he said, come out here, I'll show you.
+
+80
+00:09:22,840 --> 00:09:28,840
+When you're on a hill like that, you should, that's the kind of hill you should put the tank on.
+
+81
+00:09:28,840 --> 00:09:32,040
+And we looked and it was completely flat as far as we could see.
+
+82
+00:09:32,041 --> 00:09:33,721
+There wasn't any hill at all.
+
+83
+00:09:33,720 --> 00:09:42,361
+But I'm sure if we'd had enough experience of years of time, he obviously could discriminate levels that we couldn't even see.
+
+84
+00:09:42,921 --> 00:09:47,481
+And we told him, we're sorry, we can't capture that in an expert system.
+
+85
+00:09:47,720 --> 00:09:49,921
+He was very unhappy about that.
+
+86
+00:09:49,321 --> 00:09:50,880
+And that was the end.
+
+87
+00:09:49,561 --> 00:09:52,721
+That was all we had to do with him.
+
+88
+00:09:53,681 --> 00:10:06,720
+Which is just as well, because he was really sort of like what's the name of Lieutenant in Apocalypse Now, Pildore, is that his name?
+
+89
+00:10:06,720 --> 00:10:08,720
+Who loves the smell of napalm in the morning?
+
+90
+00:10:08,720 --> 00:10:09,680
+I think that's this guy.
+
+91
+00:10:09,681 --> 00:10:10,480
+Yes, yes.
+
+92
+00:10:10,720 --> 00:10:14,321
+When we were told to talk to him, we said, and don't talk politics with him.
+
+93
+00:10:15,120 --> 00:10:18,000
+His politics is to the right of Attila the Hun.
+
+94
+00:10:18,000 --> 00:10:21,840
+And so we got out of there as quickly as we could.
+
+95
+00:10:23,120 --> 00:10:36,880
+But I remember now, as I was telling you this, another one, maybe I told you this already, about where some, where the fact that you can't capture the skills in words was dramatically shown to my brother.
+
+96
+00:10:36,880 --> 00:10:38,721
+I wasn't there on this occasion.
+
+97
+00:10:40,161 --> 00:10:57,921
+Another tank thing, we were involved with the tanks, and that there was a what do you call it, a battle, a mock battle, in which my brother was in one of the tanks, and the tank leader got the tank up on a hill that everybody could actually see.
+
+98
+00:10:57,921 --> 00:11:03,201
+And he had a beautiful view of the whole battlefield, and he could shoot at any tank he wanted of the enemy.
+
+99
+00:11:03,201 --> 00:11:06,561
+And bong, of course, his tank was shot out from under him.
+
+100
+00:11:06,561 --> 00:11:12,721
+And there was an old sergeant who'd had lots of experience.
+
+101
+00:11:12,720 --> 00:11:16,801
+And the lieutenant turned to him and said, What happened?
+
+102
+00:11:16,801 --> 00:11:22,961
+And he said, Well, you put the tank where you could see everything, but of course, everybody could see you.
+
+103
+00:11:22,961 --> 00:11:25,680
+And he said, Well, what should I have done?
+
+104
+00:11:25,681 --> 00:11:27,921
+How can I recognize where I should put it?
+
+105
+00:11:27,921 --> 00:11:29,840
+And you haven't heard the story?
+
+106
+00:11:29,840 --> 00:11:33,441
+And then the sergeant said, I can't give you no fucking formula.
+
+107
+00:11:33,441 --> 00:11:35,321
+You'll know when you see one.
+
+108
+00:11:34,801 --> 00:11:40,760
+And that's the part of it that can't be put into words.
+
+109
+00:11:41,081 --> 00:11:45,001
+And okay, now back to where we were.
+
+110
+00:11:45,640 --> 00:11:47,241
+So, where are we?
+
+111
+00:11:47,240 --> 00:11:47,641
+Let's see.
+
+112
+00:11:47,961 --> 00:11:48,681
+Okay, yeah.
+
+113
+00:11:49,880 --> 00:11:56,601
+And so now, why call the capacity to see these distinctions talk?
+
+114
+00:11:56,600 --> 00:12:02,600
+Well, as I say, you could only call it talk since it hasn't got words by thinking of it as primordial talk.
+
+115
+00:12:02,600 --> 00:12:09,001
+It's what makes talk possible is that there are these discriminations that people are able to make.
+
+116
+00:12:09,000 --> 00:12:19,641
+And that takes you back to page 56, which is another clue of a different sort, but important too.
+
+117
+00:12:19,961 --> 00:12:29,641
+The second paragraph on 56, when fully concrete, discoursing, letting something be seen, that's the more basic kind.
+
+118
+00:12:29,641 --> 00:12:32,921
+That's just pointing things out at their joints.
+
+119
+00:12:32,921 --> 00:12:34,281
+I guess there's three things.
+
+120
+00:12:34,281 --> 00:12:36,361
+Oh, dear, I thought I only had two.
+
+121
+00:12:36,360 --> 00:12:39,801
+There's the referential totality is articulated.
+
+122
+00:12:39,801 --> 00:12:41,321
+It has joints.
+
+123
+00:12:41,321 --> 00:12:44,680
+You can articulate it by pointing out the joints.
+
+124
+00:12:44,681 --> 00:12:47,001
+We don't have to use words.
+
+125
+00:12:48,921 --> 00:12:53,401
+You can just watch what the surgeon does.
+
+126
+00:12:53,401 --> 00:12:56,360
+Or you can, oh, and I remember another story.
+
+127
+00:12:57,000 --> 00:12:57,880
+This is a very short one.
+
+128
+00:12:57,880 --> 00:13:02,520
+There's a famous Danish auto-mechanic, apparently.
+
+129
+00:13:03,000 --> 00:13:14,840
+I was working for the Danish skilled people at that point, who apparently doesn't say any word ever to his assistants as he, and they watch him, they're apprentices, and they watch him work on cars.
+
+130
+00:13:14,840 --> 00:13:21,840
+And after they've spent enough years watching him work on cars, they're the best auto-methanics too in Denmark.
+
+131
+00:13:22,161 --> 00:13:32,001
+And I presume that's because he could point out, and what does this say, let them see the important distinctions in, say, motors and carburetors and stuff.
+
+132
+00:13:32,000 --> 00:13:35,361
+But he doesn't have to proclaim it into words.
+
+133
+00:13:35,360 --> 00:13:40,401
+But it can be put into words.
+
+134
+00:13:42,000 --> 00:13:47,360
+And I wonder, Adam, I need help with the Greek.
+
+135
+00:13:47,360 --> 00:13:52,881
+I was going to ask you before, but I just got back from a trip in time to get here.
+
+136
+00:13:52,880 --> 00:13:55,681
+So tell me what this says.
+
+137
+00:13:59,201 --> 00:14:03,441
+Okay, logos is one, which means he talks.
+
+138
+00:14:03,840 --> 00:14:04,641
+Aha.
+
+139
+00:14:04,640 --> 00:14:05,120
+Okay.
+
+140
+00:14:05,441 --> 00:14:06,561
+Voiced, yeah.
+
+141
+00:14:06,561 --> 00:14:19,761
+And phone meta fantasias is, well, he says utterance or something voiced that has, that is with an appearance or something sighted.
+
+142
+00:14:20,161 --> 00:14:21,361
+Let something be seen.
+
+143
+00:14:21,760 --> 00:14:22,321
+Okay, that's.
+
+144
+00:14:26,000 --> 00:14:28,480
+Very, very, well, but he makes, it's his story.
+
+145
+00:14:29,121 --> 00:14:33,681
+That the logos then, it becomes concrete.
+
+146
+00:14:33,681 --> 00:14:36,081
+That's the part I really want in speech.
+
+147
+00:14:36,080 --> 00:14:40,720
+I just wanted to make sure that I didn't disagree with what was happening in the Greek.
+
+148
+00:14:40,720 --> 00:14:43,441
+And notice the concrete talk.
+
+149
+00:14:43,760 --> 00:14:50,800
+Doesn't that remind you of how the Finnlichkeit, that is, disposedness, becomes concrete in moods?
+
+150
+00:14:50,800 --> 00:15:06,921
+So there always is this more abstract capacity, which is receptivity when it's disposedness, which gets its kind of best paradigm, fullest expression as something or other.
+
+151
+00:15:07,240 --> 00:15:17,640
+So disposedness, receptivity gets its best, fullest sort of paradigm expression in moods, though we talked about how there could be other things than moods.
+
+152
+00:15:18,441 --> 00:15:20,280
+Somebody gave me good ones in office hours.
+
+153
+00:15:20,280 --> 00:15:21,720
+Anybody remember?
+
+154
+00:15:21,720 --> 00:15:28,520
+Didn't we have sort of emotions, but other things too, than even emotions?
+
+155
+00:15:28,520 --> 00:15:32,681
+Anyway, you can imagine, I said love would be one of them.
+
+156
+00:15:32,681 --> 00:15:36,280
+Love isn't a mood, but it's part of receptivity.
+
+157
+00:15:36,280 --> 00:15:41,880
+And I'm sure there are lots of affects, maybe we should call them, which aren't moods.
+
+158
+00:15:41,881 --> 00:15:45,401
+And so the broad category takes into account all sorts of stuff.
+
+159
+00:15:45,401 --> 00:15:50,121
+But then it becomes concrete or manifest at its best in something.
+
+160
+00:15:50,441 --> 00:16:00,201
+So this capacity we've got for pointing out the joints becomes concrete or manifest or works at its best when we name them.
+
+161
+00:16:00,201 --> 00:16:02,040
+And that seems all right.
+
+162
+00:16:02,040 --> 00:16:04,921
+I'm just trying to get these two layers sorted out.
+
+163
+00:16:05,480 --> 00:16:08,760
+Now let's see if I want to say anything more.
+
+164
+00:16:12,921 --> 00:16:15,161
+So I just said it again in my notes.
+
+165
+00:16:15,161 --> 00:16:18,760
+I think I shouldn't say things over and over too often or they turn too much.
+
+166
+00:16:18,760 --> 00:16:20,441
+So let me skip this for a minute.
+
+167
+00:16:25,560 --> 00:16:44,681
+So I just want to say it's at each case you ought to be able to find a primordial ontological structural capacity which makes ontic everyday s something or other, is realized in or concrete in everyday something or other.
+
+168
+00:16:44,681 --> 00:16:57,441
+And whether it's truth or discourse or what was the other one, temporality, and there are others too, the Heidegger's always got these two levels.
+
+169
+00:16:58,161 --> 00:17:04,961
+I think maybe understanding is this a primordial capacity to press into possibilities.
+
+170
+00:17:05,201 --> 00:17:06,240
+And there's only one.
+
+171
+00:17:06,240 --> 00:17:09,681
+This I haven't ever said that I think Eugene pointed out to me.
+
+172
+00:17:09,921 --> 00:17:22,560
+Remember I had two notions of understanding, primary, which was pressing into possibilities just everyday coping, and primordial, which was understanding taking a stand on your being.
+
+173
+00:17:22,881 --> 00:17:25,760
+But I think that's I was convinced that's wrong now.
+
+174
+00:17:25,760 --> 00:17:28,000
+It's all pressing into possibilities.
+
+175
+00:17:28,000 --> 00:17:41,040
+But there's a whole spectrum of pressing into possibilities from the most basic, going out to go out, and to the most complicated, taking a stand by giving yourself an identity.
+
+176
+00:17:41,040 --> 00:17:50,480
+And those would be two ways that primordial understanding as pressing into possibilities, which is very general, becomes concrete.
+
+177
+00:17:50,641 --> 00:17:53,281
+And I don't know which is the paradigm.
+
+178
+00:17:53,681 --> 00:17:57,840
+One of them, you could think of them either one as the paradigm.
+
+179
+00:17:58,080 --> 00:18:02,080
+And the primary Heidegger means that's the really the most basic one.
+
+180
+00:18:02,080 --> 00:18:07,520
+And the other one is the taking a stand, which is, and he calls it primordial.
+
+181
+00:18:07,520 --> 00:18:15,120
+And I guess, if you had to think about it, the taking a stand is what makes you gives your coping a point.
+
+182
+00:18:15,121 --> 00:18:29,280
+And it's it that kind of understanding, namely sort of who you are and what you're up to, is the paradigm most most developed, most concrete, I'm just guessing, kind of understanding.
+
+183
+00:18:29,280 --> 00:18:30,720
+But and I keep trying to get that.
+
+184
+00:18:30,881 --> 00:18:37,641
+Whenever I get this finally figured out, I give you a chart which is all settled, but it isn't settled in my head yet.
+
+185
+00:18:39,560 --> 00:18:50,201
+And so now, primordial articulation becomes concrete in talk, which points out articulations to now comes a new move to other people.
+
+186
+00:18:50,201 --> 00:18:53,640
+What's the special feature of words?
+
+187
+00:18:53,641 --> 00:19:13,720
+Well, again, with the Danish auto mechanic, you could get along without them, but they do help a lot to make the distinctions shared, that enable people to learn to share the things that you distinguish and care about.
+
+188
+00:19:13,720 --> 00:19:18,520
+And so speech has this special role.
+
+189
+00:19:18,841 --> 00:19:21,480
+I don't think he thinks that it has to do this.
+
+190
+00:19:21,480 --> 00:19:24,841
+I mean, that would be nice if he did, but I think he's right.
+
+191
+00:19:24,841 --> 00:19:28,520
+The phenomena doesn't say that you have to use words.
+
+192
+00:19:28,520 --> 00:19:29,801
+I get you can get a lot.
+
+193
+00:19:29,961 --> 00:19:37,240
+How far you could get without words is an interesting question, because animals get a long way without any words at all.
+
+194
+00:19:37,240 --> 00:19:42,920
+And children before the age of two have lots of discriminations and can point out things and so forth.
+
+195
+00:19:42,921 --> 00:19:52,360
+But certainly, the way public intelligibility works is that there has to be finally a shared language.
+
+196
+00:19:52,361 --> 00:20:00,040
+And that's what he's saying on 205, where he says, where he talks about communication in the middle of the page.
+
+197
+00:20:04,520 --> 00:20:09,400
+The second line in the middle paragraph, page 162 in the journal.
+
+198
+00:20:09,480 --> 00:20:13,880
+Communication, in which one makes assertions, giving information, for examples.
+
+199
+00:20:13,881 --> 00:20:18,441
+A special case of the communication which is grasped in principle existentially.
+
+200
+00:20:18,441 --> 00:20:29,840
+So it's part of the existential structure of articulation or discourse that it works for communication.
+
+201
+00:20:29,841 --> 00:20:36,560
+In this more general kind of communication, the articulation of being with one another understandingly is constituted.
+
+202
+00:20:36,560 --> 00:20:46,880
+That is, you can't get very far, he thinks, and I'm sure it's right, socially having a shared understanding and a shared world if you weren't able to talk.
+
+203
+00:20:46,881 --> 00:20:57,360
+Through it, that is, talk, a co-state of mind, that is, co-disposedness, gets shared, and so does the understanding of being with.
+
+204
+00:20:57,681 --> 00:21:18,240
+And it's important that you can get a shared understanding beyond just that you understand something like the flower story from Sesame Street, where only without the flowers in the brain, I can point out a flower and you can see the flower.
+
+205
+00:21:18,240 --> 00:21:20,400
+That's the first level.
+
+206
+00:21:20,401 --> 00:21:25,681
+But it's important also that we're able to share that it's shared.
+
+207
+00:21:25,681 --> 00:21:27,441
+Charles Taylor has written about this.
+
+208
+00:21:27,441 --> 00:21:37,040
+You have to think about, say, a party in which there's a joyful mood, and you're feeling joyful, and I'm feeling joyful, and everybody in the party is feeling joyful.
+
+209
+00:21:37,040 --> 00:21:44,961
+But it's another whole level when everybody in the party realizes that everybody in the party shares that mood of being joyful.
+
+210
+00:21:45,280 --> 00:22:14,441
+And that's really, I think, where you've got to bring in language, is that there's a world in which there are symbols which could be works of art, could be poems, could be speeches like the Gettysburg Address, where people all share what it is that they all share, what their community believes and so forth.
+
+211
+00:22:14,441 --> 00:22:17,401
+And I think that's what he's talking about at the end of that paragraph.
+
+212
+00:22:17,401 --> 00:22:22,841
+Communication is never anything like conveying an experience from one interior to another.
+
+213
+00:22:22,841 --> 00:22:25,800
+You know, that's the Sesame Street version.
+
+214
+00:22:25,800 --> 00:22:27,000
+That's the wrong version.
+
+215
+00:22:27,080 --> 00:22:35,400
+The Ezein with is essentially manifest in a co-state of mind, a co-understanding, and discourse being with becomes explicitly shared.
+
+216
+00:22:35,401 --> 00:22:37,720
+That's the highest thing you can do with it.
+
+217
+00:22:37,720 --> 00:22:39,641
+That is to say, it is already shared.
+
+218
+00:22:39,641 --> 00:22:43,320
+See, everybody's a party, and the party's already joyful.
+
+219
+00:22:43,320 --> 00:22:47,720
+But it is unshared as something that has not been taken hold of and appropriated.
+
+220
+00:22:47,720 --> 00:22:51,480
+That is, it can be just in fact shared.
+
+221
+00:22:51,480 --> 00:22:56,600
+Or, thanks to language, you can all recognize and agree that you share it.
+
+222
+00:22:56,921 --> 00:23:14,601
+Somebody who's a big baseball fan, I'm not, so I can't tell you the phenomenon firsthand, but he says there's this special thrill when somebody does something really terrific and everybody stands up, and it's part of the thrill that everybody knows that everybody else is being thrilled in exactly the same way at the same time.
+
+223
+00:23:14,681 --> 00:23:16,840
+That's the shared that it's shared.
+
+224
+00:23:17,161 --> 00:23:20,600
+And there, you don't do it with language.
+
+225
+00:23:20,601 --> 00:23:28,921
+But the general job of language is to help people communicate that what's going on is shared.
+
+226
+00:23:28,921 --> 00:23:31,080
+That's what I think about that.
+
+227
+00:23:31,800 --> 00:23:38,681
+And now it becomes, that's all that is sort of okay, but not very, I mean, I don't know.
+
+228
+00:23:38,681 --> 00:23:45,480
+I think it's, you've gotta see, if you spell it out like Taylor does about the importance of sharing that it's shared and how it works.
+
+229
+00:23:45,480 --> 00:23:50,480
+I think there's probably deep things in here, but it doesn't connect up any much with anything else.
+
+230
+00:23:50,800 --> 00:23:58,480
+And it isn't anything really surprising or important about language in the end, I'm afraid, that he's saying.
+
+231
+00:23:58,480 --> 00:24:04,240
+Now, I wouldn't dare say that about Heidegger if it wasn't that Heidegger himself says it about Heidegger.
+
+232
+00:24:04,240 --> 00:24:09,120
+There's something sort of unsatisfactory about the language thing.
+
+233
+00:24:09,121 --> 00:24:15,760
+And I've probably been showing it by my sort of struggle to talk about it.
+
+234
+00:24:16,240 --> 00:24:28,401
+But he says it explicitly on 206 that he hasn't done the job of really understanding the being of language.
+
+235
+00:24:28,560 --> 00:24:33,761
+He says at the end of the first full paragraph, down a ways on page 163.
+
+236
+00:24:33,760 --> 00:24:37,921
+On 206, he says, we would, where will I start?
+
+237
+00:24:37,921 --> 00:24:46,001
+Even if one were to put the various fragmentary definitions of language together, nothing would be achieved in the way of a full, adequate definition of language.
+
+238
+00:24:46,000 --> 00:24:59,121
+We would still have to do what is decisive here, to work out in advance the ontologico-existential whole of the structure of discourse on the basis of the analytic of Dasein.
+
+239
+00:24:59,121 --> 00:25:07,121
+See, that's what you think he was sort of doing, but he hasn't, but he isn't doing it very clearly or very well, and he knows he isn't.
+
+240
+00:25:07,121 --> 00:25:12,400
+He doesn't even, and this is interesting, understand the being of language, he says.
+
+241
+00:25:13,201 --> 00:25:39,240
+That means that in all the stuff I've been talking about, articulating, which is important, all right, for which language is certainly important, all right, he doesn't ask himself whether language is an instrument ready, is some kind of instrument ready to hand for pointing out shared things, or is language a present-at-hand entity, a bunch of words and grammatical rules for putting them together?
+
+242
+00:25:39,560 --> 00:25:46,121
+Or does language have some third kind of being, which is more like the being of Dasein?
+
+243
+00:25:46,121 --> 00:25:50,681
+He says this on, he asks this on 209, but he doesn't answer it.
+
+244
+00:26:00,121 --> 00:26:05,000
+So the bottom of 209, the last paragraph, when 166 is German.
+
+245
+00:26:05,000 --> 00:26:10,760
+In the last resort, philosophical research must resolve to ask what kind of being goes with language in general.
+
+246
+00:26:10,760 --> 00:26:16,520
+Is it a kind of equipment ready to hand, or has it got Dasein's kind of being, or neither of these?
+
+247
+00:26:17,080 --> 00:26:27,641
+And the interesting thing is that in the end, it looks in being in time mostly the way I've explained it, and I think I was following it.
+
+248
+00:26:27,641 --> 00:26:39,240
+It looks like an instrument for articulating the joints and pointing out the joints and pointing out the shared, pointing out that we share in seeing things.
+
+249
+00:26:39,240 --> 00:26:50,201
+And yet, when Heidegger, and that's probably what the view in here is, but Heidegger knows that he's not satisfied with that, that there's lots about language he hasn't captured.
+
+250
+00:26:50,201 --> 00:26:50,840
+Yeah.
+
+251
+00:26:52,121 --> 00:26:56,280
+Even though we have a developer, it does need sense to be developed.
+
+252
+00:26:56,280 --> 00:27:01,640
+I mean, he said at one point, he presupposes out of everything so far, and they sort of subtract it.
+
+253
+00:27:02,520 --> 00:27:03,240
+That's right.
+
+254
+00:27:03,240 --> 00:27:06,360
+But he doesn't develop it.
+
+255
+00:27:07,961 --> 00:27:13,160
+If being in the world is being within a referential hole, reference is already something.
+
+256
+00:27:14,441 --> 00:27:15,000
+Ah.
+
+257
+00:27:15,641 --> 00:27:16,201
+No.
+
+258
+00:27:16,201 --> 00:27:22,640
+Yes and no, but I mean, that's just a kind of pun.
+
+259
+00:27:22,641 --> 00:27:23,201
+Wait a minute.
+
+260
+00:27:19,240 --> 00:27:26,641
+I mean, the referential whole isn't really reference.
+
+261
+00:27:26,881 --> 00:27:34,320
+I mean, it's, you know, it's the way the lectern refers to the table.
+
+262
+00:27:34,320 --> 00:27:40,161
+It's not a linguistic kind of reference, and that's already the referential totalities.
+
+263
+00:27:42,961 --> 00:27:45,600
+It's not really language either.
+
+264
+00:27:47,201 --> 00:27:49,281
+Okay, but reference really is, though.
+
+265
+00:27:49,601 --> 00:27:57,360
+I mean, the referential whole isn't about linguistic reference, and he doesn't have any other kind of reference.
+
+266
+00:27:57,361 --> 00:27:58,480
+I mean, I mean, I'm not.
+
+267
+00:27:58,720 --> 00:28:08,641
+Why should he need to language?
+
+268
+00:28:08,641 --> 00:28:10,161
+That's what I don't understand.
+
+269
+00:28:10,161 --> 00:28:12,240
+Are you saying he should tell us that?
+
+270
+00:28:12,240 --> 00:28:16,081
+But it's so sub-linguistic the way tables relate to you.
+
+271
+00:28:19,201 --> 00:28:19,681
+No.
+
+272
+00:28:19,681 --> 00:28:20,480
+Okay, he does.
+
+273
+00:28:20,480 --> 00:28:23,520
+He does, but I see.
+
+274
+00:28:23,520 --> 00:28:24,480
+Well, he good.
+
+275
+00:28:24,720 --> 00:28:25,601
+But he doesn't.
+
+276
+00:28:25,601 --> 00:28:26,480
+I agree with you.
+
+277
+00:28:26,480 --> 00:28:31,040
+But the funny thing about that is he never does, and I think it's impossible.
+
+278
+00:28:31,040 --> 00:28:32,561
+I mean, it's rock bottom.
+
+279
+00:28:32,560 --> 00:28:45,040
+But what you're saying is, how can we, how is he going to tell us, what does he have to tell us about the phenomenon of way the lectern refers to the table and the table refers to the floor and so forth?
+
+280
+00:28:45,040 --> 00:28:46,560
+What more can he say?
+
+281
+00:28:46,560 --> 00:28:47,760
+Well, he could say a little.
+
+282
+00:28:47,760 --> 00:28:49,120
+It's all familiar.
+
+283
+00:28:49,121 --> 00:28:51,121
+And you have to have familiarity.
+
+284
+00:28:51,121 --> 00:28:52,881
+They don't just sit around referring.
+
+285
+00:28:52,881 --> 00:29:02,800
+It's only when you understand how they all deal function with each other that you understand the referential totality.
+
+286
+00:29:02,800 --> 00:29:04,080
+That's fine.
+
+287
+00:29:04,080 --> 00:29:04,881
+But what more can he do?
+
+288
+00:29:05,961 --> 00:29:08,921
+If you know Curtis what more, you can say, I'd love to hear you.
+
+289
+00:29:10,921 --> 00:29:12,840
+He says he doesn't want to deal with negatives.
+
+290
+00:29:12,841 --> 00:29:14,280
+He postpones that discussion.
+
+291
+00:29:14,280 --> 00:29:18,120
+He doesn't want to talk about the longest status.
+
+292
+00:29:18,121 --> 00:29:20,600
+Because he doesn't know what to say.
+
+293
+00:29:26,280 --> 00:29:26,921
+That's right.
+
+294
+00:29:26,921 --> 00:29:28,361
+He knows dimly.
+
+295
+00:29:28,760 --> 00:29:30,121
+This is not so mysterious.
+
+296
+00:29:30,121 --> 00:29:38,760
+I can finish what I know dimly that there's something more and something important about language which he doesn't know what to say yet.
+
+297
+00:29:38,760 --> 00:29:51,640
+And now I can tell you, and that's why I'm telling you this, that he kept a copy of Being in Time in his ski hut in the Black Forest where he went to write his stuff.
+
+298
+00:29:51,641 --> 00:29:54,360
+And there are marginal notes, a lot of them in it.
+
+299
+00:29:54,361 --> 00:29:55,480
+Did I ever mention that?
+
+300
+00:29:55,800 --> 00:29:57,560
+If I didn't, I think I may have.
+
+301
+00:29:58,201 --> 00:30:03,480
+I think I remember myself saying in the Jones-Stanbaugh translation, the marginal notes are translated.
+
+302
+00:30:03,480 --> 00:30:17,000
+And for that very reason, I got a copy of the Jones-Stanbaugh translation and put it in Howison Library in case you want to look at whatever marginal notes he might have written about whatever paragraphs you might want to write about.
+
+303
+00:30:17,000 --> 00:30:25,161
+But there's a very, and he seldom, I only know two places where he says in the marginal notes he was wrong.
+
+304
+00:30:25,161 --> 00:30:27,240
+And one of them is about language.
+
+305
+00:30:27,240 --> 00:30:31,080
+And so I'm going to read you what he says at the top of 121.
+
+306
+00:30:34,280 --> 00:30:43,560
+He's talking about this crucial story about articulation that I already talked about.
+
+307
+00:30:43,560 --> 00:30:46,921
+And I read this passage last time, I think, the top of 121.
+
+308
+00:30:47,240 --> 00:30:51,441
+In the German, it's woo, the very bottom of 87.
+
+309
+00:30:51,441 --> 00:30:55,761
+And he says, remember in the second paragraph, or the first full paragraph.
+
+310
+00:30:55,760 --> 00:31:08,560
+But in significance itself, with which Dasein is always familiar, there works an ontological condition which makes it possible for Dasein as something which understands and interprets to disclose such things as signification.
+
+311
+00:31:08,560 --> 00:31:12,401
+Upon these, in turn, is founded the being of words and of language.
+
+312
+00:31:12,401 --> 00:31:14,560
+That's the whole story I've been telling you.
+
+313
+00:31:14,881 --> 00:31:17,201
+That's the story he tells it here.
+
+314
+00:31:17,201 --> 00:31:19,921
+But he writes in the margin, not true.
+
+315
+00:31:19,921 --> 00:31:23,441
+Language is not tiered, layered.
+
+316
+00:31:23,441 --> 00:31:28,161
+Rather, language is the primordial essence of the truth of the there.
+
+317
+00:31:28,160 --> 00:31:29,841
+Now, that's pretty mysterious.
+
+318
+00:31:29,841 --> 00:31:36,320
+But what he wants to say is: language really discloses the clearing.
+
+319
+00:31:36,321 --> 00:31:44,161
+That it thanks to language, the world shows up, I think, as having a certain style.
+
+320
+00:31:44,160 --> 00:31:46,561
+Maybe, and yeah.
+
+321
+00:31:47,600 --> 00:31:48,721
+Oh, yeah, okay.
+
+322
+00:31:49,361 --> 00:31:52,401
+I don't remember how Joan Stanbaugh translates it, but I translate it.
+
+323
+00:31:52,401 --> 00:31:55,441
+Language, he certainly says not true.
+
+324
+00:31:55,441 --> 00:32:00,161
+Then he says, language is not layered or tiered.
+
+325
+00:32:00,160 --> 00:32:13,921
+You get the picture, the tiered layer, the tiered story, the layer story, is, well, there are these referential totalities at the bottom, and they have, it has nodes, and on top of those nodes, you add words.
+
+326
+00:32:13,921 --> 00:32:15,840
+That's the wrong thing.
+
+327
+00:32:15,841 --> 00:32:18,480
+He says it's not tiered.
+
+328
+00:32:18,480 --> 00:32:24,160
+It is the primordial essence of the truth of the there.
+
+329
+00:32:24,721 --> 00:32:26,880
+That's pretty, I mean, weird talk.
+
+330
+00:32:27,841 --> 00:32:30,241
+Yes, that's later, Heidegger.
+
+331
+00:32:30,241 --> 00:32:30,801
+Exactly.
+
+332
+00:32:30,801 --> 00:32:33,680
+That's Later Heidegger going back and writing in the margin.
+
+333
+00:32:34,000 --> 00:32:59,000
+And this is why he sensed he hadn't got it right in being in time, because there's a more basic function of language, which is really later, he's going to say, the poetic function, where language can name new distinctions and make people notice them and share them and bring them, so to speak, into the clearing, into disclosive space.
+
+334
+00:32:59,000 --> 00:33:02,200
+And he thinks that's the main function of language.
+
+335
+00:33:02,200 --> 00:33:10,681
+It's language when it's already dead, when it's just got normal words like nails and doors referring to nails and doors.
+
+336
+00:33:10,680 --> 00:33:27,721
+It's when something new, my example, it is a bit dated now, but when I was teaching here in the 70s, the people in Marin were known for having their hot tubs and their marijuana and their certain Marin lifestyle.
+
+337
+00:33:27,721 --> 00:33:35,720
+I remember once the visitors from Marin calling up the person at their house to start warming up their hot tub because they were on the way home and so forth.
+
+338
+00:33:35,721 --> 00:33:40,361
+But I mean, what I want to say about that is somebody called that laid-bent.
+
+339
+00:33:40,361 --> 00:33:45,321
+And that became, obviously, a way of talking about that lifestyle.
+
+340
+00:33:45,321 --> 00:33:53,241
+And that helped, presumably, the people in Marin understand what they were doing and get more equipment for doing it.
+
+341
+00:33:53,241 --> 00:33:57,080
+And all of this is the poetic use of language.
+
+342
+00:33:57,080 --> 00:34:02,841
+There wasn't a node called laid back, which some poet just dumped a word on.
+
+343
+00:34:03,640 --> 00:34:07,560
+It shows up that way, thanks to having a new name for it.
+
+344
+00:34:07,640 --> 00:34:11,961
+Heidegger's thought, we go to the fountain through the word fountain.
+
+345
+00:34:11,961 --> 00:34:14,520
+I don't know what he has in mind with that.
+
+346
+00:34:14,520 --> 00:34:36,401
+My example, another example I made up besides the Marin one, is that instead of the fountain, if he said to me, we go through to the woods through the word woods, I'd sort of say, yeah, I see that, because we've got all these different words and we approach it differently as a wilderness, as a grove, as a copse, as a forest, as a woods.
+
+347
+00:34:36,640 --> 00:34:47,520
+They're just a bunch of trees, but depending on what discriminations poets writing about them have given, we will see them differently.
+
+348
+00:34:47,520 --> 00:34:54,080
+And they're not, again, just nodes on the referential hole in which words are bopped there.
+
+349
+00:34:54,080 --> 00:34:57,601
+They're meant to constantly poets are making new distinctions.
+
+350
+00:34:58,160 --> 00:34:59,440
+I saw another hand.
+
+351
+00:34:59,441 --> 00:34:59,920
+No?
+
+352
+00:34:59,921 --> 00:35:01,520
+Okay, I think I'm done with that.
+
+353
+00:35:01,680 --> 00:35:10,640
+That's as far as that isn't even going to be next semester because he doesn't get any clearer about the way language functions until way later.
+
+354
+00:35:10,640 --> 00:35:16,161
+And in the later Heidegger, he writes a lot about language and a lot about poetry.
+
+355
+00:35:16,801 --> 00:35:20,800
+There's some place in here he writes a sentence about poetry, which is sort of pathetic.
+
+356
+00:35:20,801 --> 00:35:22,000
+I don't think I can open to it.
+
+357
+00:35:22,000 --> 00:35:23,040
+Maybe you can remember.
+
+358
+00:35:23,040 --> 00:35:29,201
+I think it's in the Disposiness chapter where he tells you that poets write about their feelings.
+
+359
+00:35:29,200 --> 00:35:34,880
+And that's just not very Heideggerian, and it's a pretty simple-minded view of poetry.
+
+360
+00:35:34,881 --> 00:35:42,401
+That goes with his not understanding this other thing about language, which he knows he's missing, but doesn't know what it is.
+
+361
+00:35:42,401 --> 00:35:45,040
+Okay, that's time to finish language.
+
+362
+00:35:45,040 --> 00:35:46,880
+I was supposed to finish it about a week ago.
+
+363
+00:35:46,881 --> 00:35:49,201
+We're going on to fallenness.
+
+364
+00:35:49,520 --> 00:35:54,801
+And falling is no, I don't want to do falling yet.
+
+365
+00:35:55,040 --> 00:35:56,801
+That's wait a minute.
+
+366
+00:35:56,801 --> 00:35:58,801
+I don't think I do, just a second.
+
+367
+00:36:01,040 --> 00:36:06,281
+No, falling for, I may get there yet, but I prefer, we've got to do things in the order they are here.
+
+368
+00:36:04,721 --> 00:36:09,400
+And the order back to way of where we are, where are we?
+
+369
+00:36:09,721 --> 00:36:19,561
+On to yeah, here we are, 210.
+
+370
+00:36:19,881 --> 00:36:29,801
+The next thing after the talk about language and discourse and logos and all that we've been doing is to talk about a whole section on falling.
+
+371
+00:36:29,801 --> 00:36:36,680
+And I'm going to start with it next time because this little introductory piece doesn't mean anything by itself on 210.
+
+372
+00:36:36,680 --> 00:36:39,800
+But falling is a big, but I will tell you this much.
+
+373
+00:36:39,801 --> 00:36:42,520
+How many have been reading the falling part already?
+
+374
+00:36:42,520 --> 00:36:47,321
+It's hard because, and I'll get, but I said this once, but I have to keep saying it.
+
+375
+00:36:47,321 --> 00:37:01,561
+I think falling has at least these two different meanings, which is mean being absorbed in the world and in coping, and then something bad that you do with it, where you cover up what's going on.
+
+376
+00:37:01,560 --> 00:37:03,160
+And I'll talk about that next time.
+
+377
+00:37:03,160 --> 00:37:16,200
+But before we get there, we've got these sort of existentialist kind of outbursts where he talks about idle talk, and he talks about curiosity, he talks about ambiguity.
+
+378
+00:37:16,361 --> 00:37:18,520
+That's when I want to talk about them now.
+
+379
+00:37:21,401 --> 00:37:31,961
+Those sections would be interesting for paper topics only because they've got in them the same kind of confusion that you get in that's part of the one.
+
+380
+00:37:31,961 --> 00:37:48,520
+There's something positive about the way discourse works, which is not idle talk, but is, which means the German is in Javeda means gossip or chatter.
+
+381
+00:37:48,520 --> 00:37:56,801
+And the latest word for it, I don't know if you follow this big success of the book by a professor at Princeton named Harry Frankfurt on bullshit.
+
+382
+00:37:56,801 --> 00:37:58,321
+Do you know that you must have heard about it?
+
+383
+00:37:58,321 --> 00:37:59,601
+It was a big hit.
+
+384
+00:37:59,600 --> 00:38:03,200
+It's strange that to me, the philosophy book.
+
+385
+00:38:03,200 --> 00:38:10,961
+Well, I think that what Harry Frankfurt calls bullshit is exactly what Heidegger calls idle talk.
+
+386
+00:38:11,600 --> 00:38:22,721
+For instance, he says a kind of thing that Harry Frankfurt says, that the person engaged in this isn't trying to lie or deceive you, he says on 213.
+
+387
+00:38:22,721 --> 00:38:27,840
+It's that bullshit is not false statements.
+
+388
+00:38:28,401 --> 00:38:40,480
+It's some way of talking that isn't functioning to disclose anything.
+
+389
+00:38:40,480 --> 00:38:43,921
+It's functioning more to cover up everything.
+
+390
+00:38:43,921 --> 00:38:45,921
+I think it'd be an interesting paper topic.
+
+391
+00:38:46,241 --> 00:38:52,961
+But if your TA, if you're interested and your TA doesn't like it, I'll consider it.
+
+392
+00:38:53,281 --> 00:38:58,401
+I would like to compare Harry Frankfurt on bullshit to Heidegger on idle talk.
+
+393
+00:38:58,401 --> 00:39:00,000
+I think it would be very illuminating.
+
+394
+00:39:00,000 --> 00:39:00,480
+I don't know.
+
+395
+00:39:00,480 --> 00:39:01,681
+Do you think they're the same?
+
+396
+00:39:01,680 --> 00:39:03,120
+I think they're probably the same.
+
+397
+00:39:03,120 --> 00:39:11,280
+But you'd learn a lot because Frankfurt's very interesting and smart and a real phenomenologist, though he is considered an analytic philosopher.
+
+398
+00:39:11,281 --> 00:39:15,520
+He's going to describe the phenomena, and Heidegger's going to do it here.
+
+399
+00:39:15,520 --> 00:39:19,360
+And one more reference, because it's a whole interesting subject.
+
+400
+00:39:21,040 --> 00:39:26,640
+Harry Frankfurt's probably never read Kierkegaard, but Kierkegaard's got a category in his.
+
+401
+00:39:27,281 --> 00:39:37,881
+Kierkegaard wrote something called The Present Age, in which he talked about all the things that's wrong with contemporary 1850 Denmark, which is still wrong with us.
+
+402
+00:39:34,881 --> 00:39:41,160
+And he has a category he calls talkativeness.
+
+403
+00:39:41,480 --> 00:39:43,080
+I don't know what the Danish is.
+
+404
+00:39:43,560 --> 00:39:50,201
+And I think Heidegger gets this thing about idle talk from Kierkegaard on talkativeness.
+
+405
+00:39:50,200 --> 00:39:52,361
+But then you get a new problem.
+
+406
+00:39:52,361 --> 00:40:00,440
+That is, Kierkegaard's clear that he's talking about some negative bad thing that people do.
+
+407
+00:40:00,761 --> 00:40:06,280
+The trouble is that Heidegger's got two things mixed up in here, just like he does in the one.
+
+408
+00:40:06,281 --> 00:40:12,600
+There's a sense in which, well, let me back up and make it because I jumped something.
+
+409
+00:40:12,600 --> 00:40:20,761
+What idle talk in Kierkegaard and in Heidegger?
+
+410
+00:40:20,761 --> 00:40:22,440
+No, that's not the way to do it.
+
+411
+00:40:22,680 --> 00:40:33,161
+Idle talk in Heidegger is how you use language to talk about what you don't know anything about, that you're just passing the word along.
+
+412
+00:40:34,841 --> 00:40:48,121
+And you pretend to sort of know all sorts of stuff, and you talk about it as if you knew, and you maybe even fool yourself into thinking you know what you're talking about, that you really are out, you aren't relating to the phenomena.
+
+413
+00:40:48,441 --> 00:40:51,720
+And that's negative, for sure.
+
+414
+00:40:51,721 --> 00:40:55,561
+And that's, I think, what Kierkegaard means by talkativeness.
+
+415
+00:40:55,560 --> 00:41:00,201
+And I don't know whether it's what Frankfurt means by bullshit, but one should find out.
+
+416
+00:41:00,200 --> 00:41:18,201
+But there is also a sense in which it's an important positive aspect of intelligibility, that we use language outside the situations in which we definitely know what we're talking about and can actually see it and point it out.
+
+417
+00:41:18,600 --> 00:41:26,160
+And so that blessing the word along is not always a negative sort of phenomenon.
+
+418
+00:41:26,241 --> 00:41:33,281
+If we couldn't talk about anything except what we were sort of nose-to-nose with in the situation, we'd be in bad shape.
+
+419
+00:41:33,281 --> 00:41:37,600
+And I think he's got these two notions mixed up together.
+
+420
+00:41:37,600 --> 00:41:52,160
+So that idle talk derived seems to cover gossip and chatter, and it also seems to cover saying whatever you say when you haven't got the sort of full right to say it.
+
+421
+00:41:52,160 --> 00:41:55,680
+It's either something you haven't studied or it's something that you haven't done.
+
+422
+00:41:56,160 --> 00:42:10,000
+I think I've used the example, but I'll use it again, of if you take your car in to be fixed because it's making a sputtering kind of noise, and your car mechanic says, ah, yes, when you pick it up, the carburetor was dirty.
+
+423
+00:42:10,000 --> 00:42:17,921
+And you go home and your partner asks you, well, what was wrong with the car, and you say the carburetor was dirty.
+
+424
+00:42:17,921 --> 00:42:22,480
+Well, that's idle talk because you have no clue what carburetors are, I'm assuming.
+
+425
+00:42:22,480 --> 00:42:25,441
+And you're just passing the word along.
+
+426
+00:42:25,441 --> 00:42:26,961
+But that's a necessary thing.
+
+427
+00:42:26,961 --> 00:42:29,761
+What if you would just refuse to answer the question?
+
+428
+00:42:29,761 --> 00:42:32,320
+Because you don't have any first-hand knowledge.
+
+429
+00:42:32,321 --> 00:42:33,361
+That would be silly.
+
+430
+00:42:33,361 --> 00:42:34,721
+I mean, it tells something.
+
+431
+00:42:35,200 --> 00:42:41,680
+And a lot of what we know or what we talk about, we don't fully understand.
+
+432
+00:42:42,160 --> 00:42:44,640
+Philosophers are sort of annoying in that respect.
+
+433
+00:42:44,640 --> 00:42:55,601
+At least I annoy my wife, and I notice, I mean, I know that other people's husbands or wives that aren't philosophers get upset if you keep asking people, sort of, and how do you know that?
+
+434
+00:42:55,600 --> 00:42:56,560
+And did you hear that?
+
+435
+00:42:56,560 --> 00:42:57,840
+And did you hear that on the radio?
+
+436
+00:42:57,841 --> 00:43:00,080
+But how do you know you should believe the guy on the radio?
+
+437
+00:43:00,560 --> 00:43:02,560
+Or where did you read it?
+
+438
+00:43:02,560 --> 00:43:04,320
+Or more questions about it.
+
+439
+00:43:05,080 --> 00:43:21,881
+I think it's a perfectly sensible thing to want to find out as much, find out whether the person telling you something, how much the person that's telling you something is really understands of what they're telling you, but you've got to put up with it.
+
+440
+00:43:21,881 --> 00:43:22,841
+Yeah.
+
+441
+00:43:25,080 --> 00:43:26,200
+Okay, I marked it.
+
+442
+00:43:27,721 --> 00:43:29,320
+I'll go back to my notes.
+
+443
+00:43:29,560 --> 00:43:30,680
+Let's go back to my notes.
+
+444
+00:43:30,680 --> 00:43:31,480
+Let's see.
+
+445
+00:43:35,321 --> 00:43:37,720
+Well, to begin with, but this is not it yet.
+
+446
+00:43:37,721 --> 00:43:39,080
+I'm just taking a slight detour.
+
+447
+00:43:39,080 --> 00:43:47,560
+It's important that the top of 2.11, right before he introduces idle talk, he wants to say that he's talking purely ontologically.
+
+448
+00:43:47,881 --> 00:43:52,280
+He's not making a moralizing critique of everyday Dasein and so forth.
+
+449
+00:43:52,281 --> 00:43:58,360
+Now, that's already an interesting sort of clue because I think that's ambivalent too.
+
+450
+00:43:58,361 --> 00:44:06,040
+I think sometimes he is really describing some structure, and it's not anything that you should blame anybody for.
+
+451
+00:44:06,040 --> 00:44:09,000
+Maybe the carburetor, my example, is like that.
+
+452
+00:44:09,000 --> 00:44:17,160
+But it also, but there is sometimes it looks to me like he is saying sort of that this is a bad way to use language and a bad way to be.
+
+453
+00:44:17,160 --> 00:44:19,080
+So the problem is still around.
+
+454
+00:44:19,080 --> 00:44:21,240
+I haven't answered your question.
+
+455
+00:44:21,560 --> 00:44:23,801
+So let's go on.
+
+456
+00:44:23,801 --> 00:44:32,360
+So on 2.11, again, I don't think this is going to settle it, but he says that it's a positive phenomenon.
+
+457
+00:44:32,361 --> 00:44:34,201
+We have to understand what that means.
+
+458
+00:44:34,200 --> 00:44:39,161
+The expression idle talk is not used here in a disparaging signification.
+
+459
+00:44:39,160 --> 00:44:46,681
+Terminologically, it signifies a positive phenomenon which constitutes the kind of being of everyday Dasein's understanding and interpreting.
+
+460
+00:44:47,961 --> 00:45:03,921
+That makes it look like it's covers a lot of what everybody has to do all the time, namely talk about stuff that they don't really deeply, primordially understand.
+
+461
+00:45:04,241 --> 00:45:04,881
+Let me go on.
+
+462
+00:45:05,281 --> 00:45:07,040
+Even then, I haven't answered Curtis.
+
+463
+00:45:07,361 --> 00:45:08,401
+Understand that.
+
+464
+00:45:08,401 --> 00:45:10,881
+So I have other quotes which make it look.
+
+465
+00:45:11,200 --> 00:45:28,321
+Remember, I'm trying to argue that Heidegger sees that passing the word along, talking about what you don't really know much about, is something that is necessary if we're going to get around in the world.
+
+466
+00:45:28,321 --> 00:45:34,480
+Let's skip down to about 10 lines below where it says 168 in the margin on 211.
+
+467
+00:45:34,480 --> 00:45:37,921
+The understanding, which has been, let's say, where are we now?
+
+468
+00:45:37,921 --> 00:45:39,520
+Primordium.
+
+469
+00:45:39,841 --> 00:45:42,480
+Let's begin in the middle, right above the 168.
+
+470
+00:45:42,560 --> 00:45:54,561
+Proximately and within certain limits, Dasein is constantly delivered over to this interpretiveness, which controls and distributes the possibilities of average understanding and of the average disposedness.
+
+471
+00:45:54,560 --> 00:46:08,401
+The way things have been expressed or spoken out is such that in the totality of the context of significance into which it's been articulated, it preserves an understanding of the disposed world and therewith equiprimordial understanding of Dasein being with and so forth.
+
+472
+00:46:08,401 --> 00:46:11,201
+Now, that doesn't sound bad.
+
+473
+00:46:11,200 --> 00:46:28,801
+The understanding which has thus already been deposited in the way things have been expressed pertains just as much to any traditional discoveredness of entities which may have been reached as it does to one's current understanding of being, and to whatever possibilities and horizons for fresh interpretation and conceptual articulation may be available.
+
+474
+00:46:28,801 --> 00:46:32,320
+Now, all that looks like a perfectly sensible, yeah, what do you think?
+
+475
+00:46:32,321 --> 00:46:40,441
+I mean, it doesn't sound yet like a negative covering up.
+
+476
+00:46:40,761 --> 00:46:45,561
+Yes, and that's, and it sounds like he's just sort of laying out the positive side there.
+
+477
+00:46:45,560 --> 00:46:47,800
+And he's at the very bottom of the page.
+
+478
+00:46:47,801 --> 00:46:52,601
+He says that it leads to, it makes communication possible.
+
+479
+00:46:52,600 --> 00:46:59,640
+And I think that doesn't sound like he's saying that there's anything wrong with it.
+
+480
+00:46:59,640 --> 00:47:04,201
+I mean, it's necessary for everyday communication and intelligibility.
+
+481
+00:47:08,921 --> 00:47:11,081
+Okay, that's a good way to put it.
+
+482
+00:47:11,080 --> 00:47:21,240
+Now, but there is, but let's, I want to go on a little bit more there because I'm trying to sort out as I talk about these three: the positive and the negative.
+
+483
+00:47:21,241 --> 00:47:24,520
+They all have, remember, keep them in remembering the one.
+
+484
+00:47:25,160 --> 00:47:43,000
+The one, the norms, are necessary for conforming and for intelligibility, but they also lead to being conformist and covering up by just always looking at what one sees and what one does.
+
+485
+00:47:43,000 --> 00:47:46,441
+It can be a bad influence.
+
+486
+00:47:46,441 --> 00:47:49,321
+So I think you're going to get the same thing always.
+
+487
+00:47:49,721 --> 00:47:54,921
+And that's obviously some important structural fact going on here.
+
+488
+00:47:55,560 --> 00:47:59,480
+And this is average intelligibility, Geveda.
+
+489
+00:47:59,480 --> 00:48:08,520
+I mean, you see already, don't you feel a kind of tension between gossip and bullshit on the one hand and average everyday intelligibility on the other?
+
+490
+00:48:08,520 --> 00:48:10,600
+I mean, do they sound like the same thing?
+
+491
+00:48:10,600 --> 00:48:11,721
+I don't think so.
+
+492
+00:48:11,721 --> 00:48:26,720
+And yet, Heidegger just weaving them together in a way that gets you the Kierkegaardian sort of denunciation of them, but preserves also a kind of Heideggerian sense of everydayness.
+
+493
+00:48:27,281 --> 00:48:28,961
+Okay, two hands here and then here.
+
+494
+00:48:28,961 --> 00:48:29,601
+Yeah.
+
+495
+00:48:33,680 --> 00:48:35,120
+We haven't really talked about it yet.
+
+496
+00:48:35,120 --> 00:48:36,080
+Go ahead.
+
+497
+00:48:45,361 --> 00:48:49,280
+The point isn't to like uncover a deep truth or being something.
+
+498
+00:48:49,281 --> 00:48:55,201
+It's like wanting to talk to someone as like a social thing, like enjoy the conversation.
+
+499
+00:48:55,921 --> 00:49:00,401
+That it's not like that it's covering up in some sense.
+
+500
+00:49:00,401 --> 00:49:03,201
+It seems like not much of a criticism.
+
+501
+00:49:03,520 --> 00:49:06,321
+Okay, well, good, good.
+
+502
+00:49:06,321 --> 00:49:11,600
+I think, I mean, I think the word gossip is important here and bullshit.
+
+503
+00:49:11,600 --> 00:49:32,561
+There's something that he doesn't, that he's trying to get at on the negative side, which is covering up, not just not going deep into things, but actually sort of talking about, I think, what you have no understanding of and no business talking about and no involvement and no interest.
+
+504
+00:49:32,560 --> 00:49:35,520
+I mean, it's not like having a conversation with a friend.
+
+505
+00:49:35,520 --> 00:49:37,281
+Gossip isn't, I don't think.
+
+506
+00:49:37,441 --> 00:49:42,161
+And it certainly isn't like having a conversation with the grocer when you're buying the groceries.
+
+507
+00:49:42,160 --> 00:49:58,081
+There's something really pejorative about that very, the notion of people just you get the feeling of people talking without trying to communicate anything.
+
+508
+00:49:58,801 --> 00:50:00,401
+That's the negative kind.
+
+509
+00:50:00,401 --> 00:50:02,560
+I'll find your passages that sound like that.
+
+510
+00:50:02,560 --> 00:50:03,361
+But I agree with you.
+
+511
+00:50:03,361 --> 00:50:09,720
+I mean, I'm agreeing with you that lots of the time talking is not gossiping.
+
+512
+00:50:09,721 --> 00:50:11,000
+It's not Gereda.
+
+513
+00:50:04,721 --> 00:50:11,961
+It's Reda.
+
+514
+00:50:12,040 --> 00:50:12,841
+It's talk.
+
+515
+00:50:12,921 --> 00:50:13,480
+You get it.
+
+516
+00:50:13,480 --> 00:50:15,401
+The German, there are two just German words.
+
+517
+00:50:15,401 --> 00:50:22,761
+There's this German word talk, which is what you do with your friends when you have conversations and what you do with the grocer and the car mechanic.
+
+518
+00:50:22,761 --> 00:50:29,000
+And then there's this special word grede, which is this bad thing, which he keeps telling you how bad it is.
+
+519
+00:50:29,000 --> 00:50:31,401
+I haven't read those passages yet, but I will.
+
+520
+00:50:31,881 --> 00:50:34,921
+He keeps telling you, of course, I'm not making any moral judgment.
+
+521
+00:50:34,921 --> 00:50:36,200
+I'm not really saying it's bad.
+
+522
+00:50:36,361 --> 00:50:39,000
+The whole thing is really makes me dizzy.
+
+523
+00:50:39,000 --> 00:50:39,801
+Yeah.
+
+524
+00:50:44,520 --> 00:50:48,921
+You have to understand how the doctor was positive and negative.
+
+525
+00:50:48,921 --> 00:50:52,441
+I didn't understand how it is that the doctor gets this checker.
+
+526
+00:50:52,441 --> 00:50:55,961
+And I think what I'm pointing to is the authentic being offensive speaker.
+
+527
+00:50:55,961 --> 00:50:59,080
+So with respect to idle talk, I wanted to give two examples.
+
+528
+00:51:04,200 --> 00:51:05,720
+And there's an example called idle talk.
+
+529
+00:51:06,200 --> 00:51:07,961
+But we said like chatting the rave on.
+
+530
+00:51:07,961 --> 00:51:15,480
+I remember like canceled Poland one time like language is long-range perception, right?
+
+531
+00:51:15,480 --> 00:51:21,000
+And in that sense, like when I tell you like when I was like changing the room and I'm like, yeah, it's raining outside.
+
+532
+00:51:21,000 --> 00:51:22,441
+That was like an idle thought.
+
+533
+00:51:22,441 --> 00:51:24,280
+But it wasn't anything.
+
+534
+00:51:24,281 --> 00:51:34,441
+Like the way I understood raining and outside, all of the experience I gave you with my idle talks was chatting with along about the world was entirely from the doctor's mind.
+
+535
+00:51:35,480 --> 00:51:40,441
+I was like, that phrase, the government, the doctor's mind.
+
+536
+00:51:40,520 --> 00:51:46,560
+So, wait, I agree with Doctor's point is that it's a negative aspect of the non-flunded.
+
+537
+00:51:46,560 --> 00:51:52,560
+If that it inexplicable aspects, it's publicly interpreted a lot of the world always for you.
+
+538
+00:51:49,801 --> 00:51:56,640
+And so then, and so and we accept it, yeah, like the world, we covered up a lot.
+
+539
+00:51:56,881 --> 00:51:58,480
+We have a lot of things.
+
+540
+00:51:58,640 --> 00:52:02,081
+Well, wait, but I suppose, but I'm not happy with this.
+
+541
+00:52:02,801 --> 00:52:04,800
+But you helped me understand something, I think.
+
+542
+00:52:04,801 --> 00:52:07,280
+So let me try to take over what you said.
+
+543
+00:52:09,281 --> 00:52:11,281
+Well, let me take the half first.
+
+544
+00:52:11,281 --> 00:52:16,081
+I mean, I think, I mean, if you take the example, you come in and you say, it's raining.
+
+545
+00:52:16,080 --> 00:52:19,441
+I mean, I think I can sort of make a distinction.
+
+546
+00:52:19,441 --> 00:52:27,280
+If you say that to people who are actually here and involved and have to go out in it when I finish my lecture and so forth, that's not idle talk.
+
+547
+00:52:27,281 --> 00:52:29,121
+That's communicating something.
+
+548
+00:52:29,120 --> 00:52:34,961
+If you come in and you say, it's raining like cats and dogs in New York, I just heard it on the news.
+
+549
+00:52:34,961 --> 00:52:36,240
+That's talkativeness.
+
+550
+00:52:36,241 --> 00:52:36,961
+Who cares?
+
+551
+00:52:36,961 --> 00:52:50,321
+It's just not our concern that there are people going around all the time telling you all the things they just read in the morning New York Times or something, even though it doesn't have anything to do with what your life is and what serious.
+
+552
+00:52:50,321 --> 00:52:52,000
+That's idle talk, I think.
+
+553
+00:52:52,000 --> 00:53:02,721
+That's just talk for the sake of, I mean, maybe there's a sort of social use for it, but it certainly isn't there because it directly connects with your concerns.
+
+554
+00:53:02,721 --> 00:53:03,840
+I mean, you help me.
+
+555
+00:53:03,841 --> 00:53:19,201
+Maybe that's the essence of the gossip story and the bullshit story, that you're being told things, not that are false or are true, but are things that it's none of your business to know and you shouldn't be caring about.
+
+556
+00:53:19,200 --> 00:53:27,281
+I mean, gossips go around talking about other people's private relationships and so forth, and they're none of your business.
+
+557
+00:53:27,520 --> 00:53:30,080
+If that's true, then it isn't going to be quite like bullshit.
+
+558
+00:53:30,080 --> 00:53:31,840
+There's a whole interesting world here.
+
+559
+00:53:31,841 --> 00:53:33,761
+But take your second plan.
+
+560
+00:53:45,881 --> 00:53:52,520
+I always want to go like whenever I talk about whether it's a negative, it's positive phenomena, at least in this case, but where is it coming from?
+
+561
+00:53:52,520 --> 00:53:53,321
+Where did it fall?
+
+562
+00:53:53,801 --> 00:53:57,240
+And like, a lot of times the bond does not come on, right?
+
+563
+00:53:57,961 --> 00:54:11,720
+So, like, what so what's another what's like the top example is they've like Martin Luther when he like uh started waiting like what it was to be biased with doing like your checks rather than wanting the church to be like free of cause and revolution.
+
+564
+00:54:11,801 --> 00:54:13,561
+That was like talk.
+
+565
+00:54:13,560 --> 00:54:16,681
+Uh that was why it was positive.
+
+566
+00:54:16,680 --> 00:54:30,441
+Uh I want to say it wasn't because like he was like what he was doing with his work there was his talk is like an unbounded sort of like yeah well that's okay yeah that's too that's too positive.
+
+567
+00:54:30,441 --> 00:54:39,401
+I mean surely nobody doubts yeah nobody doubts that poetic prophetic revolutionary kind of talk is positive.
+
+568
+00:54:39,401 --> 00:54:41,160
+The question is this middle kind of thing.
+
+569
+00:54:41,480 --> 00:54:43,000
+That's why your first example is interesting.
+
+570
+00:54:43,881 --> 00:54:46,681
+What kind of thing is coming in and saying it's raining?
+
+571
+00:54:46,680 --> 00:54:55,000
+And that's not like Martin Luther for sure, but that's not like it's raining in New York or even more raining in China.
+
+572
+00:54:57,241 --> 00:55:10,480
+It's not, yeah, we're not trying to understand what we did, but the question is, where did our sense of what Martin Luther did from his positivity, but some of the steel that will be like, and why is that positivity?
+
+573
+00:55:13,680 --> 00:55:14,560
+Well, I don't know.
+
+574
+00:55:14,560 --> 00:55:20,961
+I mean, wait, wait, but I think everything you say makes me think of things that you're not quite saying, but maybe you're getting there.
+
+575
+00:55:21,281 --> 00:55:42,080
+I mean, if you repeat what Martin Luther said, just sort of because you happen to have heard or read that Martin Luther said that, and that it makes no difference in your life or the life of the person you're talking to, or it doesn't reveal anything about Protestantism or anything, it's just a report, then I think that's idle talk.
+
+576
+00:55:42,080 --> 00:55:43,841
+That's just talkativeness.
+
+577
+00:55:43,841 --> 00:55:58,081
+But if you say the same things that Martin, the same thing Martin Luther said about works and faith and so forth in such a way that it impinges on the people's lives and illuminates them, that's positive, all right.
+
+578
+00:55:58,560 --> 00:56:00,240
+But now, there's so many people want to talk.
+
+579
+00:56:00,241 --> 00:56:02,240
+You were next, and then David was next.
+
+580
+00:56:03,921 --> 00:56:14,241
+Well, I guess I give a clear example of talking about the Greek culture and Aristotle's claim that your objects fall faster.
+
+581
+00:56:14,401 --> 00:56:17,921
+Then everybody now is starting to talk about this idea that many things fall faster.
+
+582
+00:56:17,921 --> 00:56:19,200
+They have no business talking about it.
+
+583
+00:56:19,281 --> 00:56:21,200
+They don't bother and study this report.
+
+584
+00:56:21,200 --> 00:56:25,841
+But everybody's Greek study understood that heavy objects fall faster.
+
+585
+00:56:25,841 --> 00:56:32,801
+And this is a clear example of negative and positive aspect because, well, the negative aspect, it was a lot.
+
+586
+00:56:33,200 --> 00:56:42,881
+If I look into it, positive aspect is that this Greek culture, I mean, maybe it was communicating one of the aspects of the culture.
+
+587
+00:56:42,881 --> 00:56:47,921
+I mean, it's I'm not, I just can't, I'm not kidding.
+
+588
+00:56:48,000 --> 00:56:49,040
+I mean, I don't know what to say.
+
+589
+00:56:49,040 --> 00:56:51,441
+It's not just not the right kind of example, I think.
+
+590
+00:56:54,961 --> 00:56:55,841
+Yes, well, that's right.
+
+591
+00:56:55,841 --> 00:57:00,241
+But that's what, that's right, but we that's not really covering up the way you said it.
+
+592
+00:57:00,241 --> 00:57:00,801
+Okay.
+
+593
+00:57:00,801 --> 00:57:07,880
+But right, but but you do make me think about something, which is second, though, which I lose when I try to think of it.
+
+594
+00:57:13,640 --> 00:57:19,081
+Yeah, I mean, I mean, I don't think that the main point is whether what you say is false or not.
+
+595
+00:57:19,080 --> 00:57:33,000
+If somebody came in and said Flevian light objects fall at the same speed and even gave you the formula that Newton's got for it, it would be just plain talkativeness if it came in out of nowhere.
+
+596
+00:57:33,000 --> 00:57:34,360
+This is a Kierkegaard example.
+
+597
+00:57:34,361 --> 00:57:50,520
+Kierkegaard has this character who's insane but escapes from the insane asylum and goes around and tells everybody the earth is round, that nobody's asking, and it doesn't fit into the conversation, but it's an objective truth.
+
+598
+00:57:50,520 --> 00:57:53,880
+And so it's not a question of whether what you say is true or not.
+
+599
+00:57:53,881 --> 00:57:56,600
+It's whether what you say is relevant or not.
+
+600
+00:57:56,600 --> 00:58:00,041
+I'm getting more and more convinced that that's the way to go.
+
+601
+00:58:00,921 --> 00:58:02,841
+But yeah, go ahead.
+
+602
+00:58:11,560 --> 00:58:17,480
+I mean, this is too much talking about ideas and theories and not enough about the real world.
+
+603
+00:58:17,480 --> 00:58:18,200
+I agree.
+
+604
+00:58:18,200 --> 00:58:22,520
+I mean, people don't gossip about whether objects fall at the same speed or not.
+
+605
+00:58:23,160 --> 00:58:25,081
+That's part of what she's saying.
+
+606
+00:58:25,480 --> 00:58:26,200
+Yeah, Dave.
+
+607
+00:58:28,600 --> 00:58:34,360
+During the impeachment, when Clinton was impeached, like suddenly everybody became an expert in constitutional law.
+
+608
+00:58:37,480 --> 00:58:39,640
+Yeah, yeah, and the talk shows.
+
+609
+00:58:42,680 --> 00:58:46,280
+The talk shows are good places for careda.
+
+610
+00:58:46,281 --> 00:58:48,041
+Everybody's got an opinion.
+
+611
+00:58:48,040 --> 00:58:56,080
+It isn't an opinion that is not relevant to anything they know or anything they care that should be, you know, that concerns them and so forth.
+
+612
+00:58:56,401 --> 00:59:00,081
+And that's what he's, I think, that's what he calls uprooted.
+
+613
+00:59:00,080 --> 00:59:07,040
+Whatever it is, we're trying to understand what it is to pass the word along and where your conversation has become uprooted.
+
+614
+00:59:07,040 --> 00:59:11,040
+Let me, before anybody says no, no, no more for a minute, we need some quotes.
+
+615
+00:59:11,040 --> 00:59:18,961
+We're drifting off into making up Heidegger instead of reading Heidegger, which is good fun, but we've got to go back to reading it.
+
+616
+00:59:20,241 --> 00:59:21,601
+So let's see now.
+
+617
+00:59:21,600 --> 00:59:25,601
+I'm on 212 still, looking at crucial quotes.
+
+618
+00:59:25,600 --> 00:59:35,441
+So we're talking about understanding things only superficially and so forth.
+
+619
+00:59:36,321 --> 00:59:39,680
+I don't think I didn't read that first paragraph yet, did I on 212?
+
+620
+00:59:39,680 --> 00:59:40,480
+Let's read it.
+
+621
+00:59:40,480 --> 00:59:45,041
+In a language which is spoken when one expresses oneself, there lies an average intelligibility.
+
+622
+00:59:45,040 --> 00:59:47,921
+Now, this is our problem into what to do with that.
+
+623
+00:59:48,560 --> 00:59:49,680
+We're going to try to understand.
+
+624
+00:59:49,680 --> 01:00:01,441
+And in accordance with this intelligibility, the discourse which is communicated can be understood to a considerable extent, even if the hearer doesn't bring himself into such a kind of being towards what the discourse is about as to have a primordial understanding of it.
+
+625
+01:00:02,000 --> 01:00:07,520
+To have a primordial understanding of it, you've got to really be there in the presence of the phenomenon.
+
+626
+01:00:07,841 --> 01:00:11,360
+We do not so much understand the entities that are talked about.
+
+627
+01:00:11,361 --> 01:00:14,080
+We already are listening only to what is said in the talk as such.
+
+628
+01:00:14,080 --> 01:00:19,520
+What is said in the talk gets understood, but what the talk is about is understood only proximally and superficially.
+
+629
+01:00:19,520 --> 01:00:22,480
+That's the carburetor example, perfectly.
+
+630
+01:00:22,480 --> 01:00:28,800
+Now, that's one kind of Gareda, but not, that's not gossip.
+
+631
+01:00:28,801 --> 01:00:34,681
+That's just you have to talk about stuff that you don't have direct knowledge of.
+
+632
+01:00:35,241 --> 01:00:40,601
+He says we have the same thing in view because it is in the same averageness, so we have a common understanding.
+
+633
+01:00:34,160 --> 01:00:41,640
+And that's fine.
+
+634
+01:00:44,200 --> 01:00:51,800
+And now, I'm looking at my quotes, and now comes passing the word along and gossiping.
+
+635
+01:00:51,801 --> 01:00:54,121
+So let's go down a little further.
+
+636
+01:00:56,281 --> 01:01:03,081
+And skipping to the middle of the page, middle of the paragraph, middle of everything, a sentence.
+
+637
+01:01:03,080 --> 01:01:15,800
+And because this discoursing has lost its primary relationship of being toward the entity talked about, or else never achieved such a relationship, it does not communicate in such a way as to let the entity be appropriated in a primordial manner.
+
+638
+01:01:15,801 --> 01:01:20,841
+It communicates rather by following the route of gossiping and passing the word along.
+
+639
+01:01:20,841 --> 01:01:27,320
+And then it goes in wider circles, and people understand it less and less, and there's no grounds anymore.
+
+640
+01:01:27,321 --> 01:01:31,961
+People are just repeating it till it gets aggravated to complete groundlessness.
+
+641
+01:01:31,961 --> 01:01:33,641
+And that's certainly negative.
+
+642
+01:01:34,281 --> 01:01:38,840
+And indeed, the idle talk is not confined to vocal gossip that spreads.
+
+643
+01:01:38,841 --> 01:01:46,681
+Okay, there's scribbling, which is now maybe blogging, where people are passing their opinions around.
+
+644
+01:01:46,680 --> 01:01:49,721
+He doesn't have to be talking to people.
+
+645
+01:01:50,520 --> 01:01:56,200
+And then it's not based so much on hearsay as superficial reading.
+
+646
+01:01:56,200 --> 01:01:58,841
+He says, I'm just trying to read stuff that will give us a clue.
+
+647
+01:01:58,841 --> 01:02:05,881
+The average understanding will never be able to decide what has been drawn from primal sources with a struggle and how much is just gossip.
+
+648
+01:02:05,881 --> 01:02:10,281
+That is, you know, just words, talk, but nothing behind it.
+
+649
+01:02:10,281 --> 01:02:14,041
+The average understanding will not want any such distinction.
+
+650
+01:02:14,040 --> 01:02:16,920
+It does not need it because, of course, it understands everything.
+
+651
+01:02:16,921 --> 01:02:19,640
+Well, that's now that's okay for a while.
+
+652
+01:02:20,080 --> 01:02:42,720
+Let me because we've so and now there's all this negative talk then on 213, and that's more of what I guess I just have to read this because we've gotten so deep into trying to understand what's negative about it.
+
+653
+01:02:42,721 --> 01:02:48,480
+The top of 213, the groundlessness of idle talk is no obstacle that it's becoming public.
+
+654
+01:02:48,640 --> 01:02:53,761
+Idle talk is the possibility of understanding everything without previously making the thing one's own.
+
+655
+01:02:54,160 --> 01:02:54,880
+It's funny.
+
+656
+01:02:54,881 --> 01:03:06,801
+More and more as I read it, I think it fits the carburetor's case, but it doesn't fit the case that I think is really interesting, which is the relevance test, whether what you're talking about is anything you or who you're talking to should care about.
+
+657
+01:03:06,961 --> 01:03:08,480
+So see if that ever comes up.
+
+658
+01:03:08,480 --> 01:03:10,801
+If this were done, idle talk would found her and so forth.
+
+659
+01:03:10,801 --> 01:03:15,361
+Idle talk, I mean idle talk is something which anyone can rake up.
+
+660
+01:03:15,361 --> 01:03:23,681
+It not only releases one from the task of genuine understanding, but develops an undifferentiated kind of intelligibility for which nothing is closed off.
+
+661
+01:03:23,680 --> 01:03:31,040
+Well, yeah, that doesn't strike me as particularly it's negative.
+
+662
+01:03:31,040 --> 01:03:36,160
+I mean, it certainly isn't giving any positive contribution, but it doesn't seem to be right on for negative.
+
+663
+01:03:36,160 --> 01:03:37,280
+So let's try once more.
+
+664
+01:03:37,281 --> 01:03:45,921
+Discourse, which belongs to the essential state of Dasein's being, it has a share in constituting Dasein's disclosures, has the possibility of becoming idle talk.
+
+665
+01:03:45,921 --> 01:03:54,480
+And when it does, it serves not so much to keep being in the world open for us in an articulated understanding as to close it off and cover up the entities within the world.
+
+666
+01:03:54,480 --> 01:03:57,520
+To do this need not, one need not aim to deceive.
+
+667
+01:03:57,520 --> 01:03:58,801
+It's not lying.
+
+668
+01:03:59,120 --> 01:04:00,240
+That's not the point.
+
+669
+01:04:00,241 --> 01:04:04,961
+Idle talk does not have the kind of being which belongs to consciously passing off something.
+
+670
+01:04:05,080 --> 01:04:14,201
+The fact that something has been said groundlessly and gets passed along in further retelling amounts to perverting the act of disclosing into an act of closing off.
+
+671
+01:04:14,200 --> 01:04:19,401
+For what is said is always understood approximately as saying something, that is, and uncovering something.
+
+672
+01:04:19,401 --> 01:04:27,641
+So by very nature, idle talk closes off, since to go back to the ground to what is talked about is something which it leaves undone.
+
+673
+01:04:27,961 --> 01:04:29,640
+Well, what do you think?
+
+674
+01:04:29,640 --> 01:04:32,120
+I mean, okay, go ahead.
+
+675
+01:04:33,881 --> 01:04:39,080
+Aristotle example you gave a really great reply, I think, but what I think.
+
+676
+01:04:39,401 --> 01:04:48,120
+I think you would have been saying that negative aspect of the way of dealing with saying heavy objects fall faster.
+
+677
+01:04:50,040 --> 01:04:57,480
+Maybe like that's like, I mean, why do you want to privilege your special way of fall faster?
+
+678
+01:04:57,881 --> 01:04:59,801
+But this is, yeah, but so it's wrong.
+
+679
+01:04:59,961 --> 01:05:02,280
+And it's being wrong is not what's important.
+
+680
+01:05:05,480 --> 01:05:09,640
+Like Aristotle's present, heavy objects fall faster because it's a good description of their world.
+
+681
+01:05:11,560 --> 01:05:18,760
+I think the negativity in that doesn't why is that that like they have a tendency to like cover up worlds?
+
+682
+01:05:18,761 --> 01:05:24,760
+That's a big cover up world comes from when we go in for something like concept and one from the day.
+
+683
+01:05:24,921 --> 01:05:43,400
+The negativity that expressed here is something like what Aristotle's good description is when the Greeks started repeating and understanding their world with afraid heavy objects falling faster, they were no longer enough enough.
+
+684
+01:05:43,400 --> 01:05:44,761
+I've heard enough about heavy objects.
+
+685
+01:05:45,000 --> 01:05:48,841
+Whoever back there said we're not talking about scientific stuff was right.
+
+686
+01:05:48,841 --> 01:05:49,400
+We're not.
+
+687
+01:05:49,400 --> 01:05:52,881
+And it's neither of is a if it's a bad example, it's a bad example.
+
+688
+01:05:52,881 --> 01:05:54,480
+Now, I don't want to hear about it anymore.
+
+689
+01:05:54,481 --> 01:05:55,760
+Oh, go ahead.
+
+690
+01:06:11,440 --> 01:06:13,921
+There isn't a relation between Dasman and Eideltoff.
+
+691
+01:06:13,921 --> 01:06:15,680
+Yes, is that what you're saying?
+
+692
+01:06:17,280 --> 01:06:18,320
+Well, I'll tell you something.
+
+693
+01:06:18,400 --> 01:06:20,080
+Well, there isn't much of a relation.
+
+694
+01:06:20,080 --> 01:06:20,881
+I'll try to explain.
+
+695
+01:06:20,961 --> 01:06:43,200
+As best I can see, they're similar, but not in an interesting way, really, because what's clear about Dasman is you can make a distinction between conforming, which everybody has to do in their pronunciation and everything, and being a conformist, let me doing what you do for the sake of the one, for looking good, for doing what's respectable, and so forth.
+
+696
+01:06:43,200 --> 01:06:45,040
+That's a nice, clear distinction.
+
+697
+01:06:45,040 --> 01:06:56,881
+I wish I could get the same grip here, because you can say clearly about Dasman that if people didn't conform, there wouldn't be any intelligibility, and conforming is a completely positive thing.
+
+698
+01:06:56,881 --> 01:07:12,801
+And you can say, on the other hand, if everybody only did what one did, there'd never be anything interesting or original, or people taking responsibility, or doing what's appropriate in their unique situation, and that would be bad news.
+
+699
+01:07:12,801 --> 01:07:31,200
+And so you can clearly say conformism is conformity, that is, doing things the way following the norms of the culture is good, and running your life by asking what are the norms and just doing them in your way of dealing with yourself and people and so forth.
+
+700
+01:07:31,200 --> 01:07:32,400
+That's just bad.
+
+701
+01:07:32,400 --> 01:07:38,200
+Now, I'm looking for something parallel to that, and you're right to want it, but I haven't seen it yet.
+
+702
+01:07:38,521 --> 01:07:45,961
+I mean, I want to find a way in which idle talk is something that's really necessary and important, and we couldn't have intelligibility without it.
+
+703
+01:07:45,961 --> 01:07:48,360
+Roughly, I think that's supposed to be.
+
+704
+01:07:48,360 --> 01:07:52,120
+We have to talk about things that we haven't got a primordial understanding of.
+
+705
+01:07:52,120 --> 01:07:53,560
+We've never actually seen them.
+
+706
+01:07:53,561 --> 01:08:01,160
+We can't, and we have just been told secondhand about them from the newspapers and the radio and talk shows and so forth.
+
+707
+01:08:03,481 --> 01:08:04,681
+No, I went too far.
+
+708
+01:08:04,681 --> 01:08:06,120
+Talk shows are not part of it.
+
+709
+01:08:06,120 --> 01:08:06,841
+They're bad.
+
+710
+01:08:07,080 --> 01:08:16,440
+So, no, but you've got to talk about things that you haven't got first-hand experience of because you just, there's a lot in the world that you haven't, and that's important for intelligibility.
+
+711
+01:08:16,440 --> 01:08:20,760
+It goes beyond the concrete context that you are in.
+
+712
+01:08:20,761 --> 01:08:24,760
+But then comes, and I don't know another word for it, what's the bad thing?
+
+713
+01:08:24,761 --> 01:08:28,680
+Well, the bad thing isn't very clear to me yet.
+
+714
+01:08:28,681 --> 01:08:35,560
+It seems to be talking about, oh, sorry, I really think there are three, but I was going to sum that up, but I better start.
+
+715
+01:08:35,561 --> 01:08:42,921
+I mean, I think there's a neutral thing, which is talking about stuff that you don't have a first-hand experience of, but we need to talk about.
+
+716
+01:08:42,921 --> 01:08:45,160
+Like, well, what was wrong with the car?
+
+717
+01:08:45,641 --> 01:08:58,120
+And there's a lot that we talk about that we don't have a primordial understanding of, but our conversation and our ability to organize and to coordinate our activities would break down without it.
+
+718
+01:08:58,120 --> 01:08:59,801
+Maybe that's the crucial thing.
+
+719
+01:08:59,801 --> 01:09:02,200
+That's the neutral kind of talk.
+
+720
+01:09:02,521 --> 01:09:04,200
+I don't want to call it idle talk.
+
+721
+01:09:04,200 --> 01:09:14,921
+And then there is really idle talk, which I think isn't just talking about what you don't really know about primordially, because you've got to do wrong.
+
+722
+01:09:15,240 --> 01:09:19,560
+It's talking about what you don't know about primordially and is none of your business.
+
+723
+01:09:20,080 --> 01:09:35,600
+Then you really gotta a negative sort of thing that has no use in the way people live and coordinate their activity and just gives them the opportunity to pretend to know things and to just to gossip, period.
+
+724
+01:09:35,601 --> 01:09:41,921
+So I think there's a, I think we're getting there to a positive, neutral, and negative story.
+
+725
+01:09:42,240 --> 01:09:44,000
+Yeah, Melissa.
+
+726
+01:09:45,921 --> 01:09:48,000
+Wait, talk loud if you can.
+
+727
+01:09:54,320 --> 01:09:59,440
+You don't care whether there is anyone who's going to get too fast enough on you.
+
+728
+01:09:59,521 --> 01:10:01,761
+I'll talk into the explanation you can give you.
+
+729
+01:10:02,000 --> 01:10:02,881
+Okay.
+
+730
+01:10:04,160 --> 01:10:05,120
+Okay.
+
+731
+01:10:05,440 --> 01:10:06,000
+Okay.
+
+732
+01:10:06,000 --> 01:10:06,961
+I guess that's.
+
+733
+01:10:07,601 --> 01:10:09,200
+I'll repeat it because you couldn't hear it.
+
+734
+01:10:09,200 --> 01:10:20,640
+Frankfurt says that when you're bullshitting, you're trying to say things that impress some other, some person with how much you know or how much understanding you have of something in which you don't really have any understanding of at all.
+
+735
+01:10:20,801 --> 01:10:25,520
+And you're not really even trying to convey that understanding.
+
+736
+01:10:26,160 --> 01:10:28,400
+And it doesn't matter to you whether it's true or false.
+
+737
+01:10:28,400 --> 01:10:36,640
+You're just trying to, if it's just trying to impress people, then it's not a much, then it's not like Heidegger's view, I think.
+
+738
+01:10:37,761 --> 01:10:41,120
+I think you could add to Frankfurt, you just want to keep the conversation going.
+
+739
+01:10:41,601 --> 01:10:42,961
+Or is that not bullshit yet?
+
+740
+01:10:42,961 --> 01:10:44,560
+That's just friendliness or something.
+
+741
+01:10:44,561 --> 01:10:45,520
+Talkativeness.
+
+742
+01:10:48,400 --> 01:10:49,040
+Yeah.
+
+743
+01:10:50,320 --> 01:10:50,881
+Yeah.
+
+744
+01:11:01,440 --> 01:11:08,360
+It's it's a it's a it's I think you have to add that to what the negative list.
+
+745
+01:11:08,360 --> 01:11:22,360
+I mean, I want to what I don't understand yet, and I don't want to spend, well, I can't spend much more time on it, uh, but what I would like to have, and you can come and think about it maybe and come and talk to me in office hours, is some I can think of the positive side as pretty clear.
+
+746
+01:11:22,360 --> 01:11:30,760
+You've got to talk about stuff that you don't have a primordial understanding of to coordinate your activity and make a shared intelligibility.
+
+747
+01:11:30,761 --> 01:11:37,400
+Uh and I can think of uh is that the neutral one or the positive one?
+
+748
+01:11:37,400 --> 01:11:38,280
+That's the positive one.
+
+749
+01:11:38,280 --> 01:11:39,720
+What was the neutral?
+
+750
+01:11:42,360 --> 01:11:45,560
+Have I come squished the two together?
+
+751
+01:11:45,561 --> 01:11:48,520
+I guess maybe the positive one is what I got it.
+
+752
+01:11:48,521 --> 01:11:50,120
+I just squished the two together.
+
+753
+01:11:50,120 --> 01:11:57,640
+Positive would be when you talk about the situation that you were in and you had a primordial understanding and you were pointing it out.
+
+754
+01:11:57,641 --> 01:11:59,640
+That would be just plain radar.
+
+755
+01:11:59,641 --> 01:12:09,961
+Then there would be this kind of neutral talk where if we're coordinating things and conveying some information, you talk about stuff you don't really know much about.
+
+756
+01:12:09,961 --> 01:12:13,400
+And then comes the one I haven't got a clear grip in.
+
+757
+01:12:14,360 --> 01:12:15,400
+This idle talk.
+
+758
+01:12:15,400 --> 01:12:16,600
+Is it gossip?
+
+759
+01:12:16,841 --> 01:12:19,720
+That means talking about what's none of your business.
+
+760
+01:12:19,721 --> 01:12:32,120
+Or is it bullshit, meaning showing off by making all kinds of complicated, snowing people with complicated talk which you don't really have any understanding of and you don't care and it isn't a question of true or false but just looking good.
+
+761
+01:12:32,120 --> 01:12:34,440
+That could be another kind of it.
+
+762
+01:12:35,080 --> 01:12:47,881
+And another kind is when you are talking about no, maybe that's enough for the negative kind.
+
+763
+01:12:47,881 --> 01:12:50,080
+Wait, well, there's somebody before you.
+
+764
+01:12:50,080 --> 01:12:51,040
+Yes, you, yeah.
+
+765
+01:12:51,681 --> 01:12:52,320
+Yeah.
+
+766
+01:12:49,641 --> 01:12:56,240
+I met the guy behind you with fun, you and then him.
+
+767
+01:12:56,240 --> 01:12:58,080
+Okay, go ahead.
+
+768
+01:12:58,400 --> 01:12:58,961
+Yeah?
+
+769
+01:12:59,280 --> 01:13:01,680
+Martin didn't have his thoughts.
+
+770
+01:13:03,841 --> 01:13:07,440
+Generally, as Martin should.
+
+771
+01:13:07,761 --> 01:13:11,200
+Income strength isn't almost hidden as how orange looks.
+
+772
+01:13:12,801 --> 01:13:15,040
+Well, that good.
+
+773
+01:13:17,120 --> 01:13:23,280
+That's why you have to keep, I mean, there's another thing of just making conversation.
+
+774
+01:13:23,280 --> 01:13:33,520
+And surely I don't, I can't believe, I'm not sure, but maybe Heidegger and Kierkegaard aren't against if you're, you know, sitting next to somebody at a dinner making conversation about things.
+
+775
+01:13:33,761 --> 01:13:35,120
+But that's not gossip.
+
+776
+01:13:35,120 --> 01:13:38,640
+I mean, I think that it's okay.
+
+777
+01:13:38,881 --> 01:13:51,520
+I would call that the neutral thing, where you are talking, you're not covering stuff up, you're not showing off, you're not doing, you're talking about what's none of your business, and you're not pretending that you know something you don't know.
+
+778
+01:13:52,961 --> 01:14:01,760
+The neutral thing is you're using language to be sociable, to get some shared activity done or some kind of coordinated activity.
+
+779
+01:14:01,761 --> 01:14:02,961
+That sounds okay.
+
+780
+01:14:02,961 --> 01:14:04,801
+But now I want to hear from you.
+
+781
+01:14:04,801 --> 01:14:05,200
+Yeah.
+
+782
+01:14:09,681 --> 01:14:10,560
+That's right.
+
+783
+01:14:10,561 --> 01:14:11,040
+Okay.
+
+784
+01:14:13,921 --> 01:14:19,200
+Oh, I mean, Don, you're orange one to talk.
+
+785
+01:14:19,200 --> 01:14:20,320
+Heidegger.
+
+786
+01:14:21,521 --> 01:14:31,200
+Do you know these things about this person and not only talk about followers, but you don't have a silence 'cause he says there can't be a meaningful silence unless you actually have something.
+
+787
+01:14:31,521 --> 01:14:32,080
+That's right.
+
+788
+01:14:33,601 --> 01:14:36,200
+Maybe there's something I sort of sympathize here.
+
+789
+01:14:34,801 --> 01:14:40,200
+What you're saying now maybe is that that that they they don't like small talk.
+
+790
+01:14:40,521 --> 01:14:45,080
+They don't like talk just for the sake of filling the the the the vacuum.
+
+791
+01:14:45,080 --> 01:14:50,600
+They'd rather you either keep silent or you talk about what's important to you and the other person.
+
+792
+01:14:50,601 --> 01:14:52,360
+I think that makes sense.
+
+793
+01:14:52,360 --> 01:15:05,640
+One other thing though is she mentioned something that earlier time you announced in conversation is that communication in terms of thoughts only are important to engagement in the sentence.
+
+794
+01:15:05,641 --> 01:15:10,921
+So not only might you be pricing friends, but it might be sending all kinds of examples.
+
+795
+01:15:10,921 --> 01:15:19,720
+And idle talk can be just a way of communities of serving membership in communities that would be otherwise influenced.
+
+796
+01:15:19,801 --> 01:15:21,320
+Do you have any five violence?
+
+797
+01:15:21,320 --> 01:15:30,200
+Do you speak something to your neighbor or do you want to yeah, I I see what you're saying.
+
+798
+01:15:30,521 --> 01:15:36,360
+I'm afraid I think that's sort of off the chart in the only in the sense that Heidegger just doesn't think about it.
+
+799
+01:15:36,360 --> 01:15:39,400
+I I don't think he would call that the RADA.
+
+800
+01:15:39,400 --> 01:15:46,600
+I think, I mean, because I don't think it's sort of that doesn't have the effect of covering anything up.
+
+801
+01:15:46,601 --> 01:15:51,801
+Or it's it's got a kind of community effect.
+
+802
+01:15:51,801 --> 01:15:53,801
+Boys, those are weird things.
+
+803
+01:15:53,801 --> 01:15:55,560
+I didn't think there was so much in this.
+
+804
+01:15:55,561 --> 01:15:59,720
+Okay, I I couldn't you get the last word because time is up.
+
+805
+01:16:09,160 --> 01:16:13,480
+Understanding everything without previously making the things it's on.
+
+806
+01:16:13,481 --> 01:16:22,480
+Which seemed like he's kind of saying idle thought is what fates is public understanding everything without really authentic.
+
+807
+01:16:22,481 --> 01:16:24,801
+Well, it sounds like it sounds like bluffing.
+
+808
+01:16:24,801 --> 01:16:31,761
+It sounds like close to bullshit, where you don't, where you use idle talk to be able to seem to understand everything, but not really.
+
+809
+01:16:53,761 --> 01:16:55,360
+Okay, we have to stop.
+
+810
+01:16:55,360 --> 01:17:00,721
+I mean, that if you feel like telling me more, please come to office hours and tell me about it.
+
+811
+01:17:00,721 --> 01:17:05,921
+Because I think now that we've gotten this far, it would be nice to get some crisp conclusion out of it.

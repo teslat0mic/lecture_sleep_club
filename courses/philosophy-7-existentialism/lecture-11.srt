@@ -1,0 +1,3026 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+00:00:00,000 --> 00:00:27,040
+But the only way I know to plunge into it after years of trying to unscramble it and teach it, so that now I think I understand it pretty well, is to put it back in the framework of the Greeks versus the Judeo-Christians, because not only do they have a big different view about epistemology and metaphysics and ethics, but they have a totally different view of the self.
+
+2
+00:00:27,040 --> 00:00:35,521
+And that's, and I don't think anybody before Kierkegaard ever fully saw this big difference.
+
+3
+00:00:35,521 --> 00:00:46,240
+As you'll see when I talk about it, Pascal sort of saw it, because Pascal was a genius who sort of saw everything about existential things way before anybody else.
+
+4
+00:00:46,240 --> 00:00:47,521
+But here we go.
+
+5
+00:00:47,521 --> 00:00:54,041
+So the Greek view, the self, and you don't have anything about that on your pages yet.
+
+6
+00:00:54,201 --> 00:00:59,000
+I'm giving you the background for looking at these pages.
+
+7
+00:00:59,641 --> 00:01:11,640
+So on the Greek view, particularly in Plato, human beings were an unstable combination of body and soul.
+
+8
+00:01:11,641 --> 00:01:24,521
+And the body part was in time, and the soul part was merged with the ideas, these abstract whatever's that people are still worrying about trying to decide what they were.
+
+9
+00:01:24,521 --> 00:01:33,881
+But something or other outside of time, something eternal, that the eternal part of the self could contemplate and merge with.
+
+10
+00:01:34,521 --> 00:01:50,201
+And the basic idea in Plato, particularly, is that you're an unstable combination of these two, the body and the soul.
+
+11
+00:01:50,201 --> 00:02:11,321
+And in order to make that unstable combination stable and livable, and to lead a harmonious life instead of a life sort of struggling back and forth between the body and the soul, you need to find out which part is really essentially you and get rid of the other part.
+
+12
+00:02:11,480 --> 00:02:31,401
+Of course, they don't come sort of labeled like one of them, namely contemplating eternal, say, mathematical and philosophical things is what's really you, and your body is just getting in the way, or that your body is really you, and this kind of contemplation just gets in the way.
+
+13
+00:02:31,401 --> 00:02:48,560
+It's up to you to take a stand on yourself as one or the other, and to then minimize and repress or whatever, get rid of or declare unessential the other part.
+
+14
+00:02:48,560 --> 00:03:14,160
+So, for Plato, when you realize you have an eternal soul, then, and you will learn to emphasize the kind of contemplation you do with the soul, and you will, to talk like Plato or Socrates, Socrates saying, that the philosopher, Socrates quoting Plato as saying, the philosopher should die to their body.
+
+15
+00:03:14,641 --> 00:03:32,321
+That means that not only philosophers, but mathematicians and nowadays, the kind of programmer that I talked about who would like to be rid of his body so that he could sort of program that which was the important thing to do and the best part of himself all the time, not get hungry and so forth.
+
+16
+00:03:32,321 --> 00:03:37,281
+So Plato says, die to your body, do philosophy.
+
+17
+00:03:37,920 --> 00:03:39,521
+But there are other people.
+
+18
+00:03:39,521 --> 00:03:45,920
+I just pick a Roman philosopher, Lucretius, who I write on the board if I knew how to spell it.
+
+19
+00:03:46,480 --> 00:03:49,920
+I think I know how to spell it, but my computer says I don't.
+
+20
+00:03:49,920 --> 00:03:53,600
+So it's probably right.
+
+21
+00:03:54,881 --> 00:04:02,321
+I think it's L-U-C-R-E-E-I-U-S.
+
+22
+00:04:02,321 --> 00:04:03,680
+Is that what you guys think?
+
+23
+00:04:03,920 --> 00:04:06,081
+So much the worse for my computer then.
+
+24
+00:04:06,081 --> 00:04:06,641
+Okay.
+
+25
+00:04:06,961 --> 00:04:16,480
+So Lucretius, a Roman, I take it, okay, thought that we were just made up of atoms, which jiggled around.
+
+26
+00:04:16,480 --> 00:04:18,401
+He was way ahead of his time.
+
+27
+00:04:18,401 --> 00:04:30,680
+And he thought that what we ought to do was try to get the atoms we're made up to jiggle around in the most pleasant and unupsetting and most coherent way.
+
+28
+00:04:30,680 --> 00:04:44,920
+And the only thing that keeps us from being able to do that is all these religious superstitions and these mathematical people like Plato who tell you that the body isn't important and that you should contemplate these eternal things.
+
+29
+00:04:44,920 --> 00:04:47,401
+Lucretius thought just the opposite.
+
+30
+00:04:47,401 --> 00:05:14,360
+You should identify yourself with these natural needs and with your body and ignore the bother that comes from these religious and philosophical superstitions that there's something more important or that you are more than just this material object that could be in a certain way sort of optimized if only it didn't have these wild ideas that come from somewhere else.
+
+31
+00:05:14,360 --> 00:05:37,321
+So, and once you realize you are either an eternal soul and play down the body, or vice versa, that you're a body that ignores these souly things, then this instability is overcome, these two pulls on you, and you can live a happy life.
+
+32
+00:05:37,320 --> 00:05:44,521
+But that, in other words, you have to relate yourself to yourself in a negative way.
+
+33
+00:05:44,521 --> 00:06:07,521
+That is, not that you have to think about whether you're a body or a soul, but you either have to behave in such a way that have to, that is, if you want to have a peaceful, harmonious life and not be yanked back and forth all the time, you have to either repress, deny, and negate one aspect or the other, the body or the soul.
+
+34
+00:06:08,881 --> 00:06:11,761
+That's the roughly Greek idea.
+
+35
+00:06:12,080 --> 00:06:13,201
+I'm calling it Greek.
+
+36
+00:06:13,200 --> 00:06:15,841
+It's really mostly Plato.
+
+37
+00:06:17,680 --> 00:06:29,521
+And so if you do it right, life is a voyage from confusion to clarity, from conflict between these two aspects to harmony.
+
+38
+00:06:29,521 --> 00:06:32,561
+And the soul is potentially harmonious.
+
+39
+00:06:33,680 --> 00:06:41,121
+All it has to do is realize its true nature and get rid of the other half, the inessential part, whichever way you go.
+
+40
+00:06:42,401 --> 00:06:55,441
+If you satisfy your essential needs and get rid of what are these confusing and superficial dreams or desires, then you experience peace and fulfillment.
+
+41
+00:06:55,440 --> 00:06:57,441
+That's the promise.
+
+42
+00:06:57,440 --> 00:07:04,801
+And that worked well for lots and lots of people, presumably in antiquity, in Greece and in Rome.
+
+43
+00:07:04,800 --> 00:07:06,801
+But you should be used to this now.
+
+44
+00:07:06,800 --> 00:07:12,001
+There's another perspective, obviously, that thinks that is all wrong.
+
+45
+00:07:12,241 --> 00:07:18,160
+There's, of course, the Judeo-Christian existentialist perspective.
+
+46
+00:07:18,481 --> 00:07:24,081
+That is, they say, but the body and the soul are equally essential.
+
+47
+00:07:24,401 --> 00:07:27,601
+That's why, for instance, God has to get a body.
+
+48
+00:07:27,601 --> 00:07:32,481
+And when he becomes incarnate, literally embodied in Jesus.
+
+49
+00:07:33,680 --> 00:07:42,401
+The Hebrews don't have this choice between sitting back and contemplating or getting sort of bodily involved.
+
+50
+00:07:42,881 --> 00:07:46,001
+They are totally involved all the time.
+
+51
+00:07:46,721 --> 00:07:51,881
+But they're doing it and they are still related to God some way.
+
+52
+00:07:48,881 --> 00:07:56,200
+But it's much more harder to spell out what's going on.
+
+53
+00:07:57,241 --> 00:08:05,401
+Clearly, you need both, a soul and a body, and not just as two extra two pieces, which are both important.
+
+54
+00:08:05,401 --> 00:08:09,961
+They are integrated in such a way that you couldn't have one without the other.
+
+55
+00:08:09,960 --> 00:08:21,561
+They're so integrated that in Dante, he has a problem about what about these souls who die before the time when they, for one thing, everybody will get their body back at the final day of judgment.
+
+56
+00:08:21,560 --> 00:08:22,521
+How else?
+
+57
+00:08:22,521 --> 00:08:25,561
+Because they really aren't complete without their body.
+
+58
+00:08:25,560 --> 00:08:43,801
+But in the meantime, God gives them a kind of loner body, which they have in paradise and hell, waiting for the day when they'll get their real bodies back, when they will finally be complete and the people in hell will suffer more, and the people in paradise will be happier because they'll be whole.
+
+59
+00:08:45,001 --> 00:08:49,081
+But they don't fit together, these two aspects.
+
+60
+00:08:49,080 --> 00:08:50,361
+Think of the aspects.
+
+61
+00:08:50,361 --> 00:09:01,160
+One way to think about them is one side of the self is busy acting in the world and another side of the self is reflecting and contemplating.
+
+62
+00:09:01,160 --> 00:09:05,241
+These are both important things the self can do.
+
+63
+00:09:05,241 --> 00:09:08,761
+But if you, when you're trying to do one, the other one gets in the way.
+
+64
+00:09:08,761 --> 00:09:12,440
+If you try to contemplate, then you better get out of your active involvement.
+
+65
+00:09:12,440 --> 00:09:16,681
+And if you try to be actively involved, you better not contemplate.
+
+66
+00:09:16,680 --> 00:09:18,840
+I think this is a big problem in Aristotle.
+
+67
+00:09:18,840 --> 00:09:20,360
+How many of that 25A?
+
+68
+00:09:20,680 --> 00:09:22,040
+No, not very many.
+
+69
+00:09:22,040 --> 00:09:25,881
+I mean, Aristotle seems to say that the highest life is contemplation.
+
+70
+00:09:25,881 --> 00:09:29,801
+And then he also seems to say that the highest life is political involvement.
+
+71
+00:09:29,800 --> 00:09:38,241
+And then people for 2,000 years, as far as I could tell, have been trying to write the articles and books trying to get these two together.
+
+72
+00:09:38,560 --> 00:09:44,961
+But I think they don't go together very well in the antique world.
+
+73
+00:09:44,960 --> 00:09:53,441
+And so Pascal sees this and sees that we are in the Judeo-Christian tradition, or at least he is.
+
+74
+00:09:53,440 --> 00:09:58,401
+And in that tradition, he says, what a monster then is man.
+
+75
+00:09:58,721 --> 00:10:00,001
+What a chaos.
+
+76
+00:10:00,001 --> 00:10:01,761
+What a contradiction.
+
+77
+00:10:01,761 --> 00:10:07,681
+Judge of all things, imbecile worm of the earth, the pride and refuse of the universe.
+
+78
+00:10:08,960 --> 00:10:10,320
+That's pretty dramatic.
+
+79
+00:10:10,320 --> 00:10:14,560
+And it isn't exactly mappable onto what I've been saying.
+
+80
+00:10:14,800 --> 00:10:26,881
+But the important thing is, Pascal is saying that we are a contradiction, which is not at all like a combination in which you can just take either the soul or the body side.
+
+81
+00:10:26,881 --> 00:10:33,201
+It's like we're a contradiction because we have to do justice to both sides.
+
+82
+00:10:33,200 --> 00:10:36,080
+We are essentially body and essentially soul.
+
+83
+00:10:36,080 --> 00:10:39,920
+You can't just decide which one you really are and dump the other.
+
+84
+00:10:39,920 --> 00:10:54,241
+And so Pascal thinks the highest thing people can do isn't to overcome the contradiction by getting rid of half, but you live in such a way as to fully express the tension in the contradiction.
+
+85
+00:10:54,241 --> 00:11:04,961
+You can begin to see already, as usual, that Pascal is on to sort of anguish is going to turn out to be the sort of test of whether you are really a full human being.
+
+86
+00:11:04,960 --> 00:11:14,081
+He says, we do not display greatness by going to one extreme, but in touching both at once and filling all the intervening space.
+
+87
+00:11:14,401 --> 00:11:48,601
+So instead of trying to purify the self of one half or the other to find peace and happiness, which was the Greek way, Pascal thinks that avoids the tension, the contradiction, the living stretched out between these extremes, constantly sort of alive to what looks like the impossibility of living fully, expressing both these contradictory things.
+
+88
+00:11:48,601 --> 00:11:55,241
+So Pascal thinks it's a kind of cop-out to try to purify yourself of one or the other half.
+
+89
+00:11:55,241 --> 00:11:58,601
+Purifying is repressing or denying.
+
+90
+00:11:58,601 --> 00:12:07,401
+Now you'll see, all of this is not just interesting because it helps explain Kierkegaard, as you'll see in a minute, but I'm pointing ahead to the brothers.
+
+91
+00:12:07,401 --> 00:12:14,920
+The brothers, Dostoevsky has an exactly identical view of the self that Kierkegaard has, though I don't think he got it from Kierkegaard.
+
+92
+00:12:14,920 --> 00:12:19,001
+I think they both got it from Pascal and did their own thing on it.
+
+93
+00:12:19,001 --> 00:12:31,001
+But there is one of the brothers who is trying to purify himself to make himself perfectly goal and get rid of the sensual, as he calls it.
+
+94
+00:12:31,001 --> 00:12:35,961
+And Pascal thinks that doing that is very dangerous.
+
+95
+00:12:35,960 --> 00:12:40,601
+He says man is neither simply angel or simply brute.
+
+96
+00:12:40,600 --> 00:12:45,321
+And the unfortunate thing is that he would act the angel act.
+
+97
+00:12:45,320 --> 00:12:48,681
+That is, if you're trying to be perfect, you're dangerous.
+
+98
+00:12:48,680 --> 00:12:53,881
+Keep your eye on the brothers, and ask yourself which one that's about.
+
+99
+00:12:54,201 --> 00:13:03,241
+And so the goal of Pascal isn't happiness and peace, which you get by getting rid of one outside or the other.
+
+100
+00:13:03,241 --> 00:13:06,241
+It's this kind of aliveness.
+
+101
+00:13:06,481 --> 00:13:11,121
+Fulfillment is not a Greekish idea.
+
+102
+00:13:11,121 --> 00:13:19,601
+It's not, the Judeo-Christian idea is not some kind of fulfillment where you just finally arrive at happiness.
+
+103
+00:13:19,601 --> 00:13:28,641
+The bliss has to go with anguish for Kierkegaard and for Pascal, and for Pascal and for Kierkegaard, let's put it that way.
+
+104
+00:13:31,680 --> 00:13:33,361
+And so what do you do?
+
+105
+00:13:33,361 --> 00:13:35,121
+Well, you've got a big problem.
+
+106
+00:13:35,121 --> 00:13:49,521
+He thinks that you oscillate back and forth between pride in the part that's the contemplative soul part, and despair at being this lowly animal.
+
+107
+00:13:49,521 --> 00:13:51,761
+Remember, the pride and refuse of the universe.
+
+108
+00:13:51,761 --> 00:13:59,920
+So you're proud of being the pride of the universe and you're humiliated at being the refuse of the universe, and that's despair.
+
+109
+00:13:59,920 --> 00:14:01,361
+Now, what do you do about it?
+
+110
+00:14:01,361 --> 00:14:04,081
+Well, here's where Pascal didn't have much to say.
+
+111
+00:14:04,080 --> 00:14:05,840
+And this is where Kierkegaard takes over.
+
+112
+00:14:05,840 --> 00:14:21,120
+Pascal says, well, Jesus had the extremist reasons to be proud, since he was God, and to be humble, since he was a lowly person who was washing the feet of Mary Magdalene.
+
+113
+00:14:21,120 --> 00:14:28,400
+And he managed to live in these extremes without pride and without humiliation.
+
+114
+00:14:28,400 --> 00:14:31,920
+And all we have to do is imitate him.
+
+115
+00:14:31,920 --> 00:14:34,081
+Well, that's not very helpful, it seems to me.
+
+116
+00:14:34,080 --> 00:14:40,960
+And I've read all of the Pascal that's relevant, and I don't see any more clues as to what we're supposed to do in there.
+
+117
+00:14:41,241 --> 00:14:44,641
+Then, so the question is: well, what do you do when you imitate him?
+
+118
+00:14:44,640 --> 00:14:45,840
+How does he do it?
+
+119
+00:14:45,840 --> 00:15:03,160
+Get the two contradictory aspects together in a way that doesn't lead to conflict and bouncing back and forth between pride and humiliation and doesn't lead to despair, but get the two aspects of the self together in a way that they reinforce each other.
+
+120
+00:15:03,161 --> 00:15:07,481
+And so that you have more of one, the more of one, the more of the other.
+
+121
+00:15:07,481 --> 00:15:09,241
+That's what you need.
+
+122
+00:15:09,241 --> 00:15:13,880
+That's what Kierkegaard's going to tell you now how to get.
+
+123
+00:15:14,201 --> 00:15:15,720
+So that was a preamble.
+
+124
+00:15:16,040 --> 00:15:19,241
+If you want to say, this is a good time to do it.
+
+125
+00:15:19,241 --> 00:15:28,521
+Because from now on, we're going to read line by line this complicated story, which is a summary of everything we said about Kierkegaard.
+
+126
+00:15:28,840 --> 00:15:35,880
+A summary in the most condensed and abstract form you could possibly imagine.
+
+127
+00:15:35,880 --> 00:15:37,321
+But anyway, so far so good.
+
+128
+00:15:37,320 --> 00:15:38,360
+I don't expect any.
+
+129
+00:15:38,441 --> 00:15:40,440
+There's nothing to disagree about yet.
+
+130
+00:15:40,441 --> 00:15:41,001
+Okay?
+
+131
+00:15:41,320 --> 00:15:58,440
+And so now we turn to this clear and condensed, and I admit, incomprehensible writing on despair, which is, and the subject of this is, what is the self?
+
+132
+00:15:58,761 --> 00:16:04,681
+And just an aside, which I think is funny, I mean, this is as you, how many have tried to read it?
+
+133
+00:16:04,681 --> 00:16:09,960
+I presume, since I gave it out, that you couldn't resist your curiosity and try to read it.
+
+134
+00:16:09,961 --> 00:16:12,521
+And I don't know what kind of reaction you had.
+
+135
+00:16:12,521 --> 00:16:16,840
+I think when I first read it, I just thought my head would fall off or something.
+
+136
+00:16:16,840 --> 00:16:18,521
+I couldn't understand a thing.
+
+137
+00:16:18,521 --> 00:16:20,840
+But at least I never thought it was a joke.
+
+138
+00:16:21,641 --> 00:16:32,521
+Some amazingly arrogant critics and writers of Kierkegaard, who think they're on his side, so to speak, explain this passage by saying, well, no wonder you can't understand it.
+
+139
+00:16:32,521 --> 00:16:33,720
+It's not meant to be understood.
+
+140
+00:16:33,721 --> 00:16:34,281
+It's a joke.
+
+141
+00:16:34,560 --> 00:16:36,400
+It's a parody of Hegel.
+
+142
+00:16:36,400 --> 00:16:38,001
+Boy, is that wrong.
+
+143
+00:16:38,001 --> 00:16:44,241
+And unbelievable on the part of an interpreter to think that if you can't understand it, it must be a joke.
+
+144
+00:16:44,640 --> 00:16:55,681
+It happens to be, and it's important to tell you, in this book of Kierkegaard's called Sickness Unto Death, which is a book about the self and despair, which is written by a pseudonym.
+
+145
+00:16:55,681 --> 00:16:59,200
+Remember, Kierkegaard's always writing them under other people's names.
+
+146
+00:16:59,201 --> 00:17:03,521
+The pseudonym is the name for the person who is a better Christian than Kierkegaard.
+
+147
+00:17:03,521 --> 00:17:15,120
+I told you, there are two books by Kierkegaard in which he tells you what he really, what he thinks the right, really true Christian way of life is.
+
+148
+00:17:15,120 --> 00:17:18,400
+And this passage appears in that book.
+
+149
+00:17:18,400 --> 00:17:21,281
+And that was no joking matter, that book.
+
+150
+00:17:21,281 --> 00:17:26,001
+And it certainly wasn't going to suddenly break off and start parodying Hegel.
+
+151
+00:17:26,001 --> 00:17:26,960
+So here we go.
+
+152
+00:17:26,961 --> 00:17:28,961
+And he is very influenced by Hegel.
+
+153
+00:17:29,201 --> 00:17:30,640
+He uses Hegel's language.
+
+154
+00:17:30,640 --> 00:17:35,360
+We saw immediate and mediation and higher immediacy and so forth.
+
+155
+00:17:35,360 --> 00:17:45,921
+Well, this is Kierkegaard taking over and transforming Hegel, because Hegel was a philosopher and didn't get it right, according to Kierkegaard.
+
+156
+00:17:45,921 --> 00:17:48,320
+Okay, so let's read the first paragraph.
+
+157
+00:17:48,640 --> 00:17:50,560
+The human being is spirit.
+
+158
+00:17:50,560 --> 00:17:52,160
+But what is spirit?
+
+159
+00:17:52,161 --> 00:17:53,601
+Spirit is the self.
+
+160
+00:17:53,600 --> 00:17:55,281
+But what is the self?
+
+161
+00:17:55,281 --> 00:18:02,160
+The self is a relation which relates itself to itself, or that in the relation which is its relating to itself.
+
+162
+00:18:02,721 --> 00:18:03,601
+This is getting good.
+
+163
+00:18:03,600 --> 00:18:07,680
+The self is not the relation, but the relation's relation to itself.
+
+164
+00:18:08,481 --> 00:18:10,880
+That's already a pretty hard point.
+
+165
+00:18:11,920 --> 00:18:18,560
+What that says is what a human being is, is the stand that they take on themselves.
+
+166
+00:18:19,880 --> 00:18:26,840
+We just heard the Greeks' way of relating to themselves was either to deny the soul part or deny the body part.
+
+167
+00:18:26,840 --> 00:18:29,241
+There are other ways of relating to the self.
+
+168
+00:18:29,241 --> 00:18:36,281
+Pascal thought you could get it together somehow by relating to the God-man in the right way.
+
+169
+00:18:36,281 --> 00:18:50,201
+In any case, what it is to be a self isn't just to be a set of factors, to talk in his language, but it's the way these set of factors take a stand on being, this set of factors.
+
+170
+00:18:50,201 --> 00:18:53,241
+That's what that's going on and on about, relating itself to itself.
+
+171
+00:18:53,241 --> 00:18:58,840
+It turns out to be very important for all existentialist understandings.
+
+172
+00:18:59,721 --> 00:19:08,281
+Heidegger, the other important existentialist I teach, says that human beings are the being whose being is an issue for them.
+
+173
+00:19:08,281 --> 00:19:13,640
+That's Heidegger just taking over Kierkegaard and saying it in other terms.
+
+174
+00:19:13,640 --> 00:19:16,521
+So let's go on, because there's lots to be filled in yet.
+
+175
+00:19:16,521 --> 00:19:25,080
+A human being is a synthesis of the infinite and the finite, of the temporal and eternal, of freedom and necessity, in short, a synthesis.
+
+176
+00:19:25,080 --> 00:19:26,521
+Well, that's important.
+
+177
+00:19:26,521 --> 00:19:30,120
+A synthesis, not a combination.
+
+178
+00:19:30,120 --> 00:19:32,680
+A combination is what the Greeks have.
+
+179
+00:19:32,681 --> 00:19:43,640
+The body there, sort of stuck with, well, the soul is to put it this way, stuck with a body, or the body having all these crazy superstitions and kind of stuck with a soul.
+
+180
+00:19:43,640 --> 00:19:45,241
+But you can take them apart.
+
+181
+00:19:45,241 --> 00:19:47,080
+They're just a combination.
+
+182
+00:19:47,080 --> 00:19:52,840
+But a synthesis, the way Kierkegaard's using it is, is the two parts require each other.
+
+183
+00:19:52,880 --> 00:19:55,241
+That you can't have one without the other.
+
+184
+00:19:55,481 --> 00:19:57,321
+That's what it is to be a human being.
+
+185
+00:19:57,320 --> 00:19:59,320
+It's to be this combination.
+
+186
+00:19:59,880 --> 00:20:02,040
+Well, a combination is just the wrong word.
+
+187
+00:20:02,040 --> 00:20:15,600
+It's to be this synthesis, this totally integrated somehow, but contradictory to something or other that has to take a stand on itself being that way.
+
+188
+00:20:15,600 --> 00:20:19,360
+Okay, so by the way, let me just correct Kierkegaard here for a minute.
+
+189
+00:20:19,360 --> 00:20:21,040
+I've always annoyed.
+
+190
+00:20:21,360 --> 00:20:27,040
+This is the way he wrote it, but if he were writing it in, if I were reading his paper, I would correct it at this point.
+
+191
+00:20:27,040 --> 00:20:32,080
+A human being is a synthesis of the infinite and the finite, of the temporal and eternal.
+
+192
+00:20:32,080 --> 00:20:34,720
+Do you find something confusing about that?
+
+193
+00:20:34,721 --> 00:20:38,400
+You recognize sort of what parallelism is when you're writing?
+
+194
+00:20:38,400 --> 00:20:42,400
+He should say of the infinite and the finite, of the eternal and the temporal.
+
+195
+00:20:42,400 --> 00:20:44,640
+He should lay them out all the same way.
+
+196
+00:20:44,640 --> 00:20:45,840
+You can correct it.
+
+197
+00:20:45,840 --> 00:20:47,761
+You can do better than Kierkegaard on that.
+
+198
+00:20:47,761 --> 00:20:52,961
+So it's a synthesis of the infinite and the finite, of the eternal and the temporal, of freedom and necessity.
+
+199
+00:20:52,961 --> 00:20:56,481
+There he's back in the parallel again.
+
+200
+00:20:56,481 --> 00:20:58,160
+In short, a synthesis.
+
+201
+00:20:58,161 --> 00:21:00,640
+Now get ready for the next mind-blowing thing.
+
+202
+00:21:00,640 --> 00:21:03,360
+A synthesis is a relation between two terms.
+
+203
+00:21:03,360 --> 00:21:06,640
+Looked at in this way, the human being is not yet a self.
+
+204
+00:21:06,640 --> 00:21:07,360
+Good grief.
+
+205
+00:21:07,360 --> 00:21:15,761
+We've just spent a whole paragraph presumably defining the self, and now that it looks like we finished this paragraph, turns out we haven't defined the self.
+
+206
+00:21:15,761 --> 00:21:19,040
+What we've done, look at the diagram on the back.
+
+207
+00:21:19,360 --> 00:21:23,920
+What we've gotten so far is R1 in the diagram.
+
+208
+00:21:23,921 --> 00:21:37,680
+That is, this human being, which is a synthesis, though it doesn't know what to do with it yet, of, and then I've got the finite, temporal, necessary, and the infinite, eternal, possible.
+
+209
+00:21:38,001 --> 00:21:43,440
+And you can see at the bottom of that picture that the soul and the body are in there.
+
+210
+00:21:43,441 --> 00:21:46,241
+They're sort of the Greek version.
+
+211
+00:21:46,241 --> 00:21:56,840
+But Heidegger never, sorry, Kierkegaard never will say soul and body, because it seems too much like you can take them apart, that when the body dies, the soul goes on, and so forth.
+
+212
+00:21:57,320 --> 00:22:11,160
+But he's got his own names for the aspect of the body, that's the important thing, namely finite, temporal, and necessary, and the aspect of the soul, which is the important thing.
+
+213
+00:22:11,161 --> 00:22:17,560
+Only these two sets of factors, as he calls them, have to be together.
+
+214
+00:22:17,560 --> 00:22:20,200
+You can't define them apart from each other.
+
+215
+00:22:20,201 --> 00:22:21,961
+He's going to explain.
+
+216
+00:22:22,600 --> 00:22:24,521
+Now, so far, first paragraph.
+
+217
+00:22:24,521 --> 00:22:26,200
+Any problems yet?
+
+218
+00:22:28,040 --> 00:22:29,160
+It gets worse.
+
+219
+00:22:29,161 --> 00:22:30,120
+You will see.
+
+220
+00:22:30,120 --> 00:22:31,800
+Okay, here we go.
+
+221
+00:22:32,120 --> 00:22:35,160
+In fact, it's the next paragraph, which to me is the hardest.
+
+222
+00:22:35,880 --> 00:22:42,920
+I don't really quite understand why he says what he says the way he's saying it here, but I know what he's saying.
+
+223
+00:22:42,921 --> 00:22:43,800
+So I'll read it.
+
+224
+00:22:43,800 --> 00:22:49,880
+In a relation between two things, the relation is the third term in the form of a negative unity.
+
+225
+00:22:49,880 --> 00:22:53,720
+And the two relate to the relation and in the relation to that relation.
+
+226
+00:22:53,721 --> 00:23:00,521
+This is what it is from the point of view of soul or soul and body to be in relation.
+
+227
+00:23:00,521 --> 00:23:06,761
+If, on the other hand, the relation relates itself to itself, then this relation is the positive third term, and this is the self.
+
+228
+00:23:07,161 --> 00:23:08,600
+That really is everything.
+
+229
+00:23:08,600 --> 00:23:10,281
+That's the whole story.
+
+230
+00:23:11,161 --> 00:23:13,560
+But what in the world is going on there?
+
+231
+00:23:13,560 --> 00:23:15,161
+Well, I've told you that story.
+
+232
+00:23:15,161 --> 00:23:21,320
+I think maybe some of you, having heard what I just said earlier, could figure this out.
+
+233
+00:23:21,320 --> 00:23:26,920
+What is the negative relation of the self relating to itself?
+
+234
+00:23:30,120 --> 00:23:32,040
+I bet somebody understands.
+
+235
+00:23:32,681 --> 00:23:38,560
+Have we talked about a negative relation of the self relating to itself when we talked about the Greeks?
+
+236
+00:23:41,521 --> 00:23:42,721
+Makes me a little worried.
+
+237
+00:23:42,721 --> 00:23:43,360
+Yeah.
+
+238
+00:23:45,921 --> 00:23:46,720
+That's half of it.
+
+239
+00:23:46,721 --> 00:23:48,560
+But why would you call that a negative relation?
+
+240
+00:23:48,560 --> 00:23:51,360
+That's only the thing you haven't quite got it to help him.
+
+241
+00:23:51,360 --> 00:23:52,321
+What's the negative?
+
+242
+00:23:52,320 --> 00:23:53,200
+Yeah.
+
+243
+00:23:54,800 --> 00:23:55,681
+That's it.
+
+244
+00:23:55,681 --> 00:24:00,800
+It's a relation in which you define yourself by repressing half of yourself.
+
+245
+00:24:00,800 --> 00:24:04,641
+That's a way of relating to yourself, which is a negative relation.
+
+246
+00:24:04,640 --> 00:24:06,640
+That was the first clue I got.
+
+247
+00:24:06,640 --> 00:24:15,521
+Notice that in all this abstract talk, the only example he gives is that is what, from the point of view of soul, for soul and body to be in relation.
+
+248
+00:24:15,521 --> 00:24:18,481
+That was my clue once upon a time.
+
+249
+00:24:18,481 --> 00:24:24,001
+And that relation is, could be any of these things.
+
+250
+00:24:24,001 --> 00:24:33,600
+But he gives you one of the ways it could be, this relation could work, is that you deny half of the combination, and that's what he's talking about.
+
+251
+00:24:33,600 --> 00:24:42,001
+Then if, on the other hand, the relation relates itself, relates to itself, then this whole self, you could write in there.
+
+252
+00:24:42,001 --> 00:24:42,800
+That would help.
+
+253
+00:24:42,800 --> 00:24:52,640
+If, on the other hand, the relation relates to its whole self instead of just repressing, then this relation is the positive term, and this is the self.
+
+254
+00:24:52,640 --> 00:24:54,001
+Okay, what's that look like?
+
+255
+00:24:54,001 --> 00:24:58,320
+Go back over here, and you'll see that's R2.
+
+256
+00:24:58,640 --> 00:25:03,840
+R2 is supposed to be the relation relating itself to itself.
+
+257
+00:25:03,840 --> 00:25:06,481
+That's what I write, try to put this circle around.
+
+258
+00:25:06,481 --> 00:25:10,241
+I'm sure this can be improved upon, but this is the best I can do.
+
+259
+00:25:10,961 --> 00:25:18,080
+So now we've got R1 is just there is this set of factors which is a synthesis.
+
+260
+00:25:18,080 --> 00:25:25,321
+R2 is the set of factors takes a stand on itself and tries to deal with itself being a synthesis.
+
+261
+00:25:25,640 --> 00:25:31,720
+And now it can do it, it turns out, in a negative form or a positive form.
+
+262
+00:25:31,721 --> 00:25:33,960
+Now we have to talk about that.
+
+263
+00:25:36,201 --> 00:25:42,440
+And that's really in the italics at the top of the description.
+
+264
+00:25:42,441 --> 00:25:44,201
+Because there you're going to hear about the forms.
+
+265
+00:25:44,201 --> 00:25:48,920
+Despair is a sickness of the spirit, of the self, and can have three forms.
+
+266
+00:25:48,921 --> 00:25:53,160
+Being unconscious in the despair of having a self.
+
+267
+00:25:53,161 --> 00:25:54,360
+That's R1.
+
+268
+00:25:54,681 --> 00:26:11,080
+That means that the person in R1 doesn't even know they've got a problem, doesn't know they have to take a stand on themselves, and doesn't know that this is very hard to do because it's hard to the two sides don't seem to fit together.
+
+269
+00:26:11,080 --> 00:26:23,481
+You will find somebody, as you begin to read the Brothers Karamatsov, ask yourself, who is in the unconscious of the despair of having a self.
+
+270
+00:26:23,481 --> 00:26:37,481
+And you can make yourself unconscious of it by drinking or running around with lots of women or watching TV all the time or being absorbed in computer games.
+
+271
+00:26:42,201 --> 00:26:45,320
+My son is of the final, of that last sort.
+
+272
+00:26:46,360 --> 00:26:47,800
+I know it well.
+
+273
+00:26:47,800 --> 00:26:50,920
+Anyway, so what was I going to say about it?
+
+274
+00:26:51,001 --> 00:26:58,360
+Oh, yeah, for Pascal, remember the two examples I mentioned were distracting yourself by playing tennis.
+
+275
+00:26:58,521 --> 00:27:03,481
+Little does he know how much nicer that is than sitting alone at home and playing computer games.
+
+276
+00:27:03,481 --> 00:27:08,481
+But anyway, and the other one was sitting at home alone doing geometry.
+
+277
+00:27:08,961 --> 00:27:11,521
+That's his little jibe at Descartes, as I said.
+
+278
+00:27:11,521 --> 00:27:28,481
+I mean, that's another way to try to forget the problem that you're supposed to take an active stand on yourself and go out and do something is sit alone in a warm room with no passions, Descartes says, and do philosophy or do mathematics.
+
+279
+00:27:28,481 --> 00:27:32,961
+And those are all ways of not facing up.
+
+280
+00:27:33,761 --> 00:27:37,680
+Those are always to make yourself unconscious of the problem.
+
+281
+00:27:39,040 --> 00:27:45,680
+Try to forget what a difficult thing it is to be a human being and what you're called to do and how hard it is to do it.
+
+282
+00:27:45,681 --> 00:27:50,880
+Okay, now, but let's go on with the top italics.
+
+283
+00:27:50,880 --> 00:27:54,721
+There's being unconscious in the despair of having a self.
+
+284
+00:27:54,721 --> 00:27:57,761
+This is all put in the weirdest, awkward form.
+
+285
+00:27:57,761 --> 00:28:06,720
+That really means, I would say, being unconscious of having a self and being sort of in despair.
+
+286
+00:28:06,721 --> 00:28:10,320
+Because you're not really in despair because you don't even know you've got a problem.
+
+287
+00:28:10,320 --> 00:28:18,001
+Then comes one that's clearer: not wanting, even this one isn't too clear, not wanting in despair to be oneself.
+
+288
+00:28:18,320 --> 00:28:30,640
+That is, if you rewrite it, something like being in despair by not wanting to be oneself, or being in despair at not wanting.
+
+289
+00:28:30,800 --> 00:28:37,681
+I can see that it's hard to do, and it's a challenge, given five words to put them in the right order to describe this.
+
+290
+00:28:37,681 --> 00:28:44,961
+But what's going on there is: well, let me ask you: do you recognize it in this cryptic form?
+
+291
+00:28:44,961 --> 00:28:48,320
+Not wanting in despair to be oneself?
+
+292
+00:28:48,320 --> 00:28:49,161
+Try now.
+
+293
+00:28:49,161 --> 00:28:51,241
+Does that sound familiar?
+
+294
+00:28:48,961 --> 00:28:53,080
+It's really in code, yeah.
+
+295
+00:29:01,241 --> 00:29:02,121
+That's great.
+
+296
+00:29:02,120 --> 00:29:02,680
+You got it.
+
+297
+00:29:02,840 --> 00:29:06,361
+I feel happy that the message is getting across.
+
+298
+00:29:06,360 --> 00:29:19,320
+Yeah, that's another version of the negative R2: not wanting to be oneself, and you're going to be in despair because you give up trying to get the whole self together.
+
+299
+00:29:19,320 --> 00:29:24,761
+So that's going to be which one of the brothers is in that condition?
+
+300
+00:29:24,761 --> 00:29:27,400
+That's the same brother who's trying to be perfect.
+
+301
+00:29:27,721 --> 00:29:29,560
+And then we have to see.
+
+302
+00:29:29,560 --> 00:29:32,761
+And wanting in despair to be oneself.
+
+303
+00:29:32,761 --> 00:29:42,120
+Well, that means trying with all your might to get the two sides together and not being able to do it.
+
+304
+00:29:42,120 --> 00:29:47,241
+Because nobody on their own can get the two sets of factors together.
+
+305
+00:29:47,560 --> 00:29:56,120
+But there's one of the brothers who is trying with all his might to get the two factors together and is in despair because he sees that he can't do it.
+
+306
+00:29:56,441 --> 00:30:01,241
+Okay, now we can go back, I think, to where we are.
+
+307
+00:30:01,560 --> 00:30:02,440
+Well, maybe not.
+
+308
+00:30:02,441 --> 00:30:04,120
+Let me make sure here.
+
+309
+00:30:05,400 --> 00:30:07,400
+So we've done R1.
+
+310
+00:30:07,721 --> 00:30:14,600
+We've done the fact that the self is a combination.
+
+311
+00:30:14,921 --> 00:30:16,920
+Have one without the other.
+
+312
+00:30:44,880 --> 00:30:50,160
+I'm just reading what I said to me crooked because it's so dense I don't want to leave anything out.
+
+313
+00:30:59,441 --> 00:31:15,120
+Another way to put it is what I was saying when you can't you why you can't get them together the factors is that they are contradictory or at least if you don't get the right relation to them they're contradictory so that you can't just say I'm gonna just put them together.
+
+314
+00:31:15,121 --> 00:31:18,721
+There isn't any direct way for you to put them together.
+
+315
+00:31:18,721 --> 00:31:20,640
+That's what I'm gonna get to in a minute.
+
+316
+00:31:23,761 --> 00:31:38,080
+You can't I wrote here express your bodily finite needs and capacities at the same fully at the same time fully expressing all your intellectual needs and spiritual religious needs and capacities.
+
+317
+00:31:38,480 --> 00:31:43,521
+Or to put it another way you can't be fully involved and fully detached at the same time.
+
+318
+00:31:43,840 --> 00:31:48,161
+In fact the more you express one the less you're able to express the other.
+
+319
+00:31:48,161 --> 00:31:58,561
+If you try to fulfill both you can try to fulfill both completely but that struggle won't work and that and you'll realize you're in despair.
+
+320
+00:31:58,561 --> 00:32:04,881
+So all of the cases we discussed so far are this in despair.
+
+321
+00:32:07,761 --> 00:32:11,361
+Now comes the, let's see where we are.
+
+322
+00:32:11,360 --> 00:32:23,561
+So such a relation which relates to itself, it relates to itself, that is a self, itself or been established by something else.
+
+323
+00:32:24,761 --> 00:32:33,240
+Now, it's interesting what that says that this is not so important, but I'll just say it.
+
+324
+00:32:33,241 --> 00:32:41,961
+Kierkegaard thinks it's important that you can't get this together by yourself because it shows that something else must have made you.
+
+325
+00:32:41,960 --> 00:32:50,921
+Because if you had made yourself, you ought to be able to, so to speak, make yourself in a way that works better or make yourself strong enough to fix it or something.
+
+326
+00:32:50,920 --> 00:32:59,081
+There's something going on about being a self which isn't in the power of the self.
+
+327
+00:32:59,081 --> 00:33:02,681
+Something about the self which comes from outside the self, he says.
+
+328
+00:33:03,081 --> 00:33:08,601
+You can see that from the despair of trying to get it together on your own.
+
+329
+00:33:09,880 --> 00:33:18,040
+Then comes if the relation which relates to itself has been constituted by another, then of course the relation is the third term.
+
+330
+00:33:18,041 --> 00:33:25,641
+But then this relation, the third term, is a relation which relates in turn to that which has established the whole relation.
+
+331
+00:33:26,440 --> 00:33:28,361
+Do you recognize that?
+
+332
+00:33:28,360 --> 00:33:32,840
+What he's talking about there in this very, very abstract way?
+
+333
+00:33:33,161 --> 00:33:46,040
+A kind of relation which relates itself to another and thereby establishes the whole relation and makes it work?
+
+334
+00:33:46,681 --> 00:33:47,641
+Yeah.
+
+335
+00:33:49,480 --> 00:33:50,681
+Exactly.
+
+336
+00:33:50,681 --> 00:33:53,881
+That's code for unconditional commitment.
+
+337
+00:33:53,880 --> 00:34:00,201
+The self relates itself to itself by relating to, as he puts it, something else.
+
+338
+00:34:00,241 --> 00:34:01,240
+We'll in a minute.
+
+339
+00:34:01,721 --> 00:34:04,320
+He's very, very abstract about it.
+
+340
+00:34:03,960 --> 00:34:10,721
+But if you look on the picture, that's R3, which is the unconditional commitment.
+
+341
+00:34:11,041 --> 00:34:15,921
+And now we go back and read more of this.
+
+342
+00:34:17,761 --> 00:34:19,601
+I'm going to go on with it.
+
+343
+00:34:21,041 --> 00:34:26,641
+But I think I'll skip to the bottom line just because you got it so close to right now.
+
+344
+00:34:26,641 --> 00:34:33,361
+This then is the formula which describes the state of the self when despair is completely eradicated.
+
+345
+00:34:33,360 --> 00:34:40,800
+In relating to itself and wanting to be itself, the self is grounded transparently in the power that constituted it.
+
+346
+00:34:40,800 --> 00:34:42,560
+No, it's too early to say that.
+
+347
+00:34:42,561 --> 00:34:44,640
+That won't make any sense to you at all.
+
+348
+00:34:45,601 --> 00:34:48,000
+But so let's get there step by step.
+
+349
+00:34:48,000 --> 00:34:49,520
+He was right to put it at the end.
+
+350
+00:34:49,520 --> 00:34:52,800
+Okay, such a derived, we've got to read this big paragraph in the meantime.
+
+351
+00:34:52,800 --> 00:34:59,681
+Such a derived constituted relation is the self, a relation which relates to itself and in relating to itself relates to another.
+
+352
+00:34:59,681 --> 00:35:00,800
+That's fine.
+
+353
+00:35:00,800 --> 00:35:03,120
+You now know what that is.
+
+354
+00:35:03,440 --> 00:35:07,680
+That is why there can be two forms of despair, authentic despair.
+
+355
+00:35:07,681 --> 00:35:14,561
+If the human self were self-established, there would only be a question of one form, not wanting to be itself, wanting to be rid of itself.
+
+356
+00:35:14,561 --> 00:35:17,201
+That's repressing the self.
+
+357
+00:35:17,201 --> 00:35:18,641
+That's the Greek version.
+
+358
+00:35:18,641 --> 00:35:24,161
+There could be no question of wanting in despair to be oneself.
+
+359
+00:35:24,161 --> 00:35:31,601
+That is, you could be, if you did it, I've said this already, if you were self-made, you could fix it.
+
+360
+00:35:32,480 --> 00:35:47,760
+This latter formula is the expression of the relation's self's total dependence, the expression of the fact that the self can't not by itself arrive at or remain in equilibrium, but only in relating to itself by relating to that which has established the whole relation.
+
+361
+00:35:47,761 --> 00:35:49,281
+Well, I do have to talk about it.
+
+362
+00:35:49,561 --> 00:36:03,961
+I take it that what established the whole relation, he doesn't say created, he says constituted, he says established, and I don't understand where he says, but somewhere he says, and you have to relate to something.
+
+363
+00:36:04,281 --> 00:36:05,560
+And I was, oh, yeah, here it is.
+
+364
+00:36:05,561 --> 00:36:10,121
+Like, you know, he's very, you know, where is it?
+
+365
+00:36:14,360 --> 00:36:22,520
+Because the something is important to me because relating to that means it could be a cause, it could, it could be any defining relation.
+
+366
+00:36:22,520 --> 00:36:24,921
+It doesn't mean a particular person.
+
+367
+00:36:24,920 --> 00:36:26,200
+Where is he?
+
+368
+00:36:26,520 --> 00:36:28,041
+Do you see that?
+
+369
+00:36:28,041 --> 00:36:28,681
+Did I make it?
+
+370
+00:36:28,761 --> 00:36:29,560
+I'm sure.
+
+371
+00:36:29,800 --> 00:36:37,881
+I wonder if it's something that dropped out of the translation, the one we're reading, because I used to read it in a different translation.
+
+372
+00:36:39,800 --> 00:36:43,400
+Well, I don't see it right now.
+
+373
+00:36:43,400 --> 00:36:45,641
+I'll go back and tell you next time.
+
+374
+00:36:45,641 --> 00:36:50,520
+But he does say that you could be related to something outside the self.
+
+375
+00:36:50,520 --> 00:36:56,600
+That's nice, because you don't want him to say it has to be Dante relating to Beatrice.
+
+376
+00:36:56,601 --> 00:37:00,201
+It could be Martin Luther King relating to his cause.
+
+377
+00:37:00,201 --> 00:37:07,240
+We've already seen that unconditional commitments can be anything outside the self.
+
+378
+00:37:07,561 --> 00:37:10,920
+Indeed, so far, I'm in the middle of that big paragraph now.
+
+379
+00:37:10,920 --> 00:37:19,161
+Indeed, so far from it's being simply the case that the second form of despair, wanting in despair to be oneself, amounts to a special form on its own, all despair.
+
+380
+00:37:19,161 --> 00:37:20,520
+Oh, yeah, never mind that.
+
+381
+00:37:20,520 --> 00:37:21,600
+I'm going to skip that for a while.
+
+382
+00:37:21,761 --> 00:37:23,161
+Just a second.
+
+383
+00:37:24,121 --> 00:37:25,961
+Yeah, none of that.
+
+384
+00:37:31,721 --> 00:37:34,281
+Get it to the last sentence, I guess we can read.
+
+385
+00:37:34,400 --> 00:37:42,960
+The imbalance in despair is not a simple imbalance, but an imbalance in a relation that relates to itself and which is constituted by another.
+
+386
+00:37:43,281 --> 00:37:44,561
+That's what I want.
+
+387
+00:37:44,880 --> 00:37:46,000
+I knew it was somewhere.
+
+388
+00:37:46,000 --> 00:37:50,481
+Constituted by another is very, very abstract.
+
+389
+00:37:50,480 --> 00:38:12,001
+It means not created, and it doesn't mean it has to be another person, but any kind of other outside the self can, if the conditions are right, constitute you as a self, constitute this human being as a self.
+
+390
+00:38:12,000 --> 00:38:15,840
+It's easiest to see with something like Beatrice and Dante.
+
+391
+00:38:15,840 --> 00:38:21,840
+So Beatrice is the other, so the something, what was it, the another.
+
+392
+00:38:22,161 --> 00:38:27,041
+And Dante has an unconditional commitment to Beatrice.
+
+393
+00:38:27,041 --> 00:38:29,600
+But Dante doesn't create himself as a self.
+
+394
+00:38:29,601 --> 00:38:42,641
+It's Beatrice, who is the Savior, who gives him, who pulls him by her beauty in his story, to have an unconditional commitment for her.
+
+395
+00:38:42,960 --> 00:38:47,121
+And thereby, Beatrice gives Dante his identity.
+
+396
+00:38:47,761 --> 00:38:53,281
+He becomes the great love poet of all times, the love poet of Beatrice.
+
+397
+00:38:53,920 --> 00:38:58,721
+So Martin Luther King gets called by the injustices to the black people.
+
+398
+00:38:58,721 --> 00:39:14,000
+He responds to that call, that vocation, and that constitutes him, gives him an identity as the prophet bringing justice now to his people.
+
+399
+00:39:14,320 --> 00:39:33,241
+So this is just an abstract way of saying the defining commitment is what makes, what creates you as an individual and gives you an identity with the same thing.
+
+400
+00:39:33,880 --> 00:39:37,401
+And he wants to say it in this very abstract way.
+
+401
+00:39:37,400 --> 00:39:51,160
+Because this another could be Jesus too, turning Saul into Paul and giving him the identity of having to run around all of his melon world telling people about what isn't called Christianity yet.
+
+402
+00:39:51,161 --> 00:39:56,601
+I don't know what it was called in those days, this strange new thing that just happened, and so forth.
+
+403
+00:39:56,601 --> 00:39:59,241
+Okay, so it's constituted by another.
+
+404
+00:39:59,241 --> 00:40:04,761
+So the lack of balance in that for-it-self relationship reflects itself.
+
+405
+00:40:04,761 --> 00:40:06,040
+Now we don't need that.
+
+406
+00:40:06,041 --> 00:40:07,241
+No, never mind.
+
+407
+00:40:07,561 --> 00:40:10,840
+Infinite elimination is the power of the.
+
+408
+00:40:10,840 --> 00:40:25,241
+I think that means you have infinite passion for whatever it is, this other outside of you, that gives you, by pulling on you, by calling you, this new identity.
+
+409
+00:40:25,880 --> 00:40:27,880
+Okay, now we're ready to read the last sentence.
+
+410
+00:40:29,081 --> 00:40:34,761
+This then is the formula which describes the state of the self when despair is completely eradicated.
+
+411
+00:40:34,761 --> 00:40:43,081
+In relating to itself and wanting to be itself, the self is grounded transparently in the power that constituted it.
+
+412
+00:40:43,081 --> 00:40:46,200
+Well, grounded transparently, I need to explain now.
+
+413
+00:40:46,201 --> 00:40:53,161
+That's Kierkegaard jargon for everything this person does shows that.
+
+414
+00:40:54,761 --> 00:41:04,561
+It's, if I put it here, grounded transparently, he acts in such a way that what gives you your identity shows through in everything you do.
+
+415
+00:41:04,121 --> 00:41:09,121
+I tried to write it in such a way as you could see why you could call it transparently grounded.
+
+416
+00:41:09,440 --> 00:41:15,040
+Everything you do manifests that you are the lover of Beatrice, or at least everything you do that's important.
+
+417
+00:41:15,041 --> 00:41:19,521
+I'm not sure you have to buy your groceries under the description lover of Beatrice.
+
+418
+00:41:19,520 --> 00:41:25,361
+But everything you do that matters manifests your defining commitment.
+
+419
+00:41:25,360 --> 00:41:28,001
+It shines through everything you do.
+
+420
+00:41:28,000 --> 00:41:33,521
+That's what it is to say that you're grounded transparently in it.
+
+421
+00:41:33,520 --> 00:41:36,161
+Dante's grounded transparently in Beatrice.
+
+422
+00:41:36,161 --> 00:41:40,721
+Martin Luther King is grounded transparently in the, was it a movement?
+
+423
+00:41:40,721 --> 00:41:42,000
+What was it called?
+
+424
+00:41:43,281 --> 00:41:44,800
+The civil rights movement.
+
+425
+00:41:44,800 --> 00:41:45,360
+Right.
+
+426
+00:41:45,360 --> 00:41:46,800
+Yes, exactly.
+
+427
+00:41:46,800 --> 00:41:57,521
+And so there, and now, what I think is amazing, but it only dawned on me, I think, last year, is look at power there.
+
+428
+00:41:57,520 --> 00:41:59,361
+It's lower case.
+
+429
+00:41:59,360 --> 00:42:01,520
+That's how abstract he wants to be.
+
+430
+00:42:02,320 --> 00:42:11,921
+I mean, it isn't going to be necessarily the God-man with a capital P power, or certainly not God, the Father, the Supreme Being with a capital P.
+
+431
+00:42:11,920 --> 00:42:13,520
+It could be Beatrice.
+
+432
+00:42:15,520 --> 00:42:17,040
+Could be a dog.
+
+433
+00:42:17,041 --> 00:42:18,641
+Did I tell you about that?
+
+434
+00:42:18,641 --> 00:42:20,880
+I think maybe it's the time to tell you.
+
+435
+00:42:20,880 --> 00:42:21,921
+I didn't mention that.
+
+436
+00:42:21,920 --> 00:42:32,881
+There actually, a fellow graduate student of mine long ago named Alice Kohler wrote a book that became very famous bestseller in the 70s called An Unknown Woman.
+
+437
+00:42:32,880 --> 00:42:40,800
+And it's really about her and how she found herself and became authentic when she had been such a total mess before.
+
+438
+00:42:41,121 --> 00:42:46,400
+But the part of it that I want to tell you about, which interests me a lot, only a Kierkegaardian could appreciate it.
+
+439
+00:42:46,400 --> 00:42:47,840
+And she doesn't know any Kierkegaard.
+
+440
+00:42:47,840 --> 00:42:49,281
+She was an analytic philosopher.
+
+441
+00:42:49,800 --> 00:42:58,361
+She, after botching every relationship, she finally goes off to Nantucket alone for the winter to sort of sort out her life.
+
+442
+00:42:58,360 --> 00:43:06,521
+And she finally realizes in despair that her life is just such a mess that it's never going to work, and that what she needs to do is commit suicide.
+
+443
+00:43:06,520 --> 00:43:12,120
+Unfortunately, she's had with her a dog to protect her alone all winter in Nantucket.
+
+444
+00:43:12,121 --> 00:43:14,520
+The dog mysteriously named Logos.
+
+445
+00:43:14,520 --> 00:43:15,400
+This is all true.
+
+446
+00:43:15,400 --> 00:43:17,561
+Logos is the name for the Godman.
+
+447
+00:43:17,561 --> 00:43:27,720
+Anyway, the dog turns out she can't commit suicide because the dog is so important, and who will take care of the dog in lonely Nantucket if she kills herself?
+
+448
+00:43:27,721 --> 00:43:29,001
+So she doesn't.
+
+449
+00:43:29,000 --> 00:43:33,080
+She comes back and writes a book about the whole thing, and that wouldn't be enough.
+
+450
+00:43:33,081 --> 00:43:39,481
+But she becomes an animal rights person, she becomes a vegetarian, she becomes an anti-vivisectionist.
+
+451
+00:43:39,480 --> 00:43:44,041
+Everything in her life that she's committed to now turns around this dog.
+
+452
+00:43:44,041 --> 00:43:49,081
+And then she wrote a second book, which didn't work so well about the death of the dog.
+
+453
+00:43:52,121 --> 00:43:54,840
+I don't know whether she became a knight of resignation or not.
+
+454
+00:43:55,880 --> 00:44:06,761
+She devoted her life to suing the veterinarian for malpractice, which shows, I think, that she never became quite sane, which I've always suspected.
+
+455
+00:44:08,920 --> 00:44:22,201
+But it is an amazing Kierkegaardian example of the fact that there's this power and there's this another, and there it gets her together.
+
+456
+00:44:22,201 --> 00:44:24,761
+And so, where was I?
+
+457
+00:44:24,761 --> 00:44:26,840
+Okay, yes, and power is lowercase.
+
+458
+00:44:26,840 --> 00:44:31,721
+It's got to cover everything from the God-man to Logos the dog.
+
+459
+00:44:31,960 --> 00:44:38,081
+And it's because Kierkegaard is talking about the structure that he's discovered and is presenting.
+
+460
+00:44:38,081 --> 00:44:50,400
+So, now you look at the picture and you see everything I've just been saying, the factors, the fact that you see now why R1 is just being a human being.
+
+461
+00:44:50,400 --> 00:44:53,601
+It doesn't have a relation to itself, so it's not spirit.
+
+462
+00:44:53,601 --> 00:44:58,881
+You see that R2 is spirit, all right, because it's trying to get its act together, but it's in despair.
+
+463
+00:44:58,880 --> 00:45:10,081
+And you see that R3 is spirit happy in bliss and anguish, having transparently related to the power that posited it.
+
+464
+00:45:10,081 --> 00:45:13,521
+And that's all I need to say about that.
+
+465
+00:45:13,520 --> 00:45:19,281
+I put on this page, and I just want to call your attention to it, also from sickness unto death.
+
+466
+00:45:19,281 --> 00:45:24,961
+You may want to know, well, if power is a small P, could power also be God?
+
+467
+00:45:24,960 --> 00:45:26,641
+And the answer is no.
+
+468
+00:45:26,960 --> 00:45:33,680
+It can be the God-man, but Kierkegaard hasn't any place in his story for the Supreme Being, remember?
+
+469
+00:45:33,681 --> 00:45:39,761
+But I just wanted you to see that he says this in this book, which according to him is the real truth.
+
+470
+00:45:39,761 --> 00:45:44,401
+He says, God is that all things are possible, and that all things are possible is God.
+
+471
+00:45:44,400 --> 00:46:02,800
+That means God sort of stands outside this diagram and makes it possible if you have faith in him, which isn't even a hymn, if you have faith that all things are possible, you are able to make a defining commitment and stick in it without resignation or backing out of it.
+
+472
+00:46:02,800 --> 00:46:07,521
+So, God is playing a fundamental role making this whole thing happen.
+
+473
+00:46:07,520 --> 00:46:18,401
+But God is the field of faith, a faith that makes you able to, remember this is my slogan, you can do things you can't understand.
+
+474
+00:46:19,721 --> 00:46:33,320
+And God is that which makes it possible for you to do things you can't understand, and that's what you have to do to be able to do this necessary but contradictory thing.
+
+475
+00:46:33,641 --> 00:46:41,960
+Now I'm going to stop and see if you've got anything to say about that, because you can see now, I hope, how lots of things come together, though there's still two missing pieces.
+
+476
+00:46:41,960 --> 00:46:44,600
+But I will try to add in a bit.
+
+477
+00:46:44,761 --> 00:46:47,161
+Does anybody want to say anything about this?
+
+478
+00:46:47,480 --> 00:46:50,521
+I take it you're all blown away with how clear it is.
+
+479
+00:46:50,520 --> 00:46:52,920
+Totally elegant and condensed.
+
+480
+00:46:53,081 --> 00:46:54,281
+You wish you wrote it.
+
+481
+00:46:54,281 --> 00:46:57,400
+Okay, well, let's go on then.
+
+482
+00:46:58,360 --> 00:47:05,800
+The next thing is to talk about is how the factors reinforce each other in a defining relation.
+
+483
+00:47:05,800 --> 00:47:07,481
+I mean, I haven't told you.
+
+484
+00:47:07,480 --> 00:47:18,441
+Somebody could have been a good straight person if you had raised your hand and said, yeah, but how does the unconditional commitment get together the contradictory factors?
+
+485
+00:47:18,440 --> 00:47:21,000
+That's obviously the next question to ask.
+
+486
+00:47:21,320 --> 00:47:26,041
+And of course, the answer is all over the place in fear and trembling.
+
+487
+00:47:26,041 --> 00:47:30,201
+And all we have to do is pull the answer out of there.
+
+488
+00:47:30,681 --> 00:47:34,681
+How do you get the factors together when you've got an unconditional commitment?
+
+489
+00:47:34,681 --> 00:47:41,800
+Well, you see how each factor gets defined so as to support the other one.
+
+490
+00:47:42,440 --> 00:47:46,840
+And that's, but now, how do you do that?
+
+491
+00:47:46,840 --> 00:47:52,201
+Well, the easy one is time and eternity, the temporal and the eternal.
+
+492
+00:47:52,201 --> 00:47:56,441
+That I take it you already understand pretty well.
+
+493
+00:47:56,440 --> 00:48:21,200
+That the whole story, that the temporal is just a series of moments going along and can be constantly reinterpreted, but there's an instant, and in that instant you get your identity forever, and your past was leading up to it all along, and that's eternity and time.
+
+494
+00:48:21,201 --> 00:48:23,281
+That's the forever part.
+
+495
+00:48:26,480 --> 00:48:28,881
+And this is the temporal part.
+
+496
+00:48:32,721 --> 00:48:44,721
+So when Kierkegaard says eternity is only possible in time, remember I read you that, or I didn't, that isn't quite accurately what he said.
+
+497
+00:48:44,721 --> 00:48:48,481
+He says, only in time do I become eternal, same thing.
+
+498
+00:48:48,800 --> 00:48:50,241
+Only in time do I become eternal.
+
+499
+00:48:50,241 --> 00:48:56,640
+That is, only in time can I have an instant which then gives me an experience of the forever in my life.
+
+500
+00:48:56,641 --> 00:48:59,920
+You'll see that he doesn't ever say the fore say forever.
+
+501
+00:48:59,920 --> 00:49:01,761
+He always says the eternal.
+
+502
+00:49:01,761 --> 00:49:04,320
+The person who says forever is Dostoevsky.
+
+503
+00:49:04,800 --> 00:49:10,720
+In the brothers, you'll hear lots and lots about the forever, particularly by the end of the book.
+
+504
+00:49:10,721 --> 00:49:15,281
+And that's Dostoevsky's name for the eternal.
+
+505
+00:49:15,601 --> 00:49:31,040
+So I get the factors together, but only if I define them, not by contemplating them, because if you try to contemplate them, I'll tell you that, just so you can see.
+
+506
+00:49:31,041 --> 00:49:36,721
+If you're Greek, see, well, this is very important to realize that the factors are very abstract.
+
+507
+00:49:36,721 --> 00:49:44,800
+And how you relate yourself to yourself determines how you understand the factors.
+
+508
+00:49:44,800 --> 00:49:49,281
+And that determines whether they can be put together or not, or whether they're contradictory.
+
+509
+00:49:49,960 --> 00:50:21,320
+So if you're Greek and think that contemplating is the ultimate, Plato and Aristotle in one of his more philosophical frames of mind, then you think that the finite is particular things, oh sorry, the temporal is the day by day, and the eternal is something outside of time, like mathematical relations, definitions, whatever, and then you can't get them together.
+
+510
+00:50:21,320 --> 00:50:36,601
+There's no way to get together the part of you that contemplates mathematics and writes programs and so forth with the part of you that lives day to day in relation to particular events one after another.
+
+511
+00:50:36,601 --> 00:50:46,041
+So that if you take this contemplative stance of the way to relate yourself to yourself, you won't be able to get the two together.
+
+512
+00:50:46,041 --> 00:51:03,881
+But if you take an involved stance, this is the existentialist point coming around, then you can have total involvement in an unconditional commitment, and that does enable you to get what looked like a contradiction together.
+
+513
+00:51:03,880 --> 00:51:12,761
+Of course, you could only do it because even contradictions are possible thanks to the that all things are possible.
+
+514
+00:51:12,761 --> 00:51:18,681
+And you can only do it because I have a second thing I wanted to say.
+
+515
+00:51:24,041 --> 00:51:34,281
+Well, because you understand that somehow involvement is more important than detachment, which is the basic existentialist argument against the whole philosophical tradition.
+
+516
+00:51:36,000 --> 00:51:37,360
+But that wasn't what I was going to say.
+
+517
+00:51:37,360 --> 00:51:41,840
+I was going to say, you can do it because even the impossible is possible.
+
+518
+00:51:41,840 --> 00:51:44,240
+And you're always in anguish when you do it.
+
+519
+00:51:45,440 --> 00:51:47,361
+You're alive to the tension.
+
+520
+00:51:48,320 --> 00:51:51,920
+You're realizing that you can do it, but you can't understand it.
+
+521
+00:51:52,241 --> 00:51:53,761
+But you can do it.
+
+522
+00:51:53,761 --> 00:52:02,001
+And that's now you can and it's a defining commitment that got you together, got the factors of temporal and eternal together.
+
+523
+00:52:02,000 --> 00:52:05,600
+Now, the next one is h much harder.
+
+524
+00:52:06,161 --> 00:52:08,241
+If you don't understand it, that's all right.
+
+525
+00:52:08,241 --> 00:52:11,840
+But how do you get the finite and infinite together?
+
+526
+00:52:11,840 --> 00:52:22,561
+Well, so far we've really said that if you get an identity, that's the first one, you get the temporal and eternal together, because you're forever the lover of Mary or whatever.
+
+527
+00:52:23,281 --> 00:52:27,840
+The lad loves the princess or Dante loves Beatrice forever.
+
+528
+00:52:27,840 --> 00:52:29,361
+They get their identity.
+
+529
+00:52:29,681 --> 00:52:33,521
+The infinite and the finite have to do with getting a world.
+
+530
+00:52:33,520 --> 00:52:35,600
+And that's harder to understand.
+
+531
+00:52:36,241 --> 00:52:39,921
+Finite describes things in the world.
+
+532
+00:52:40,561 --> 00:52:47,520
+And what infinite describes, and this is something I don't know where Kierkegaard says it, but he should say it.
+
+533
+00:52:47,520 --> 00:52:49,441
+I'm pretty sure it's what he means.
+
+534
+00:52:50,000 --> 00:52:53,601
+Why does he talk about the infinite when you get a defining commitment?
+
+535
+00:52:53,601 --> 00:52:58,161
+I've said this, but every once in a while, and I'm sure it doesn't really register.
+
+536
+00:52:59,520 --> 00:53:12,641
+When you get a defining commitment, it isn't just that everything that you come across that's important to you gets its importance from your relation to, say, Mary or the princess or whatever.
+
+537
+00:53:12,641 --> 00:53:24,361
+But you know that anything that ever could have importance for you, anything that could, so to speak, come into your world, come into your life, will be understood in terms of this relationship.
+
+538
+00:53:24,681 --> 00:53:38,041
+So you know something about the infinite, namely that that is not just all the particular finite things that happen to be around, but every possible finite thing that could ever be.
+
+539
+00:53:38,041 --> 00:53:46,121
+Indefinitely many are already defined in terms of their importance, get their importance by this relation.
+
+540
+00:53:46,121 --> 00:53:53,001
+That's a very complicated way to say that when you've got this relation, it defines, so to speak, the limits of your world.
+
+541
+00:53:53,641 --> 00:53:55,881
+And that's the infinite part of it.
+
+542
+00:53:56,201 --> 00:54:03,320
+So now you then that's how what satisfies your need for the finite and for the infinite.
+
+543
+00:54:03,320 --> 00:54:08,840
+Or if you like a slogan that does that sort of says it, but in a way that doesn't explain it.
+
+544
+00:54:08,840 --> 00:54:17,241
+If you have an infinite passion, infinite passion, for something finite, you get the infinite and the finite together.
+
+545
+00:54:17,241 --> 00:54:19,560
+I'm only trying to tell you what an infinite passion is.
+
+546
+00:54:19,561 --> 00:54:23,161
+It isn't sort of getting all hot and sweaty and panting or anything.
+
+547
+00:54:24,520 --> 00:54:27,641
+It's what defines the limits of your world.
+
+548
+00:54:27,641 --> 00:54:35,401
+If you have a passion that defines everything that comes into your world, you can only have that for something specific in your world.
+
+549
+00:54:35,721 --> 00:54:37,561
+The person you love, for instance.
+
+550
+00:54:37,561 --> 00:54:40,040
+So that you get the finite and infinite together.
+
+551
+00:54:40,041 --> 00:54:41,881
+That's pretty amazing.
+
+552
+00:54:41,880 --> 00:54:45,080
+And Fairfield Gaard is surely thinking that.
+
+553
+00:54:45,081 --> 00:54:51,721
+I wish I could quote you a quote where he says it, but I except for the phrase infinite passion, I can't really tell you.
+
+554
+00:54:51,721 --> 00:54:58,681
+But Ada Slov my slogan is: an infinite passion for something finite gives you a world.
+
+555
+00:54:58,681 --> 00:55:01,401
+Gives you your world, I should say.
+
+556
+00:55:02,681 --> 00:55:04,561
+Everybody has to have their own.
+
+557
+00:55:03,000 --> 00:55:07,441
+It's like everybody has to have their own identity.
+
+558
+00:55:04,121 --> 00:55:07,600
+Okay.
+
+559
+00:55:09,201 --> 00:55:12,081
+Now, the last one is easy again.
+
+560
+00:55:12,081 --> 00:55:16,001
+And that is facticity and freedom.
+
+561
+00:55:16,241 --> 00:55:19,761
+Facticity is my word, Heidegger's word for this.
+
+562
+00:55:21,761 --> 00:55:24,480
+Essity and possibility.
+
+563
+00:55:24,800 --> 00:55:29,761
+Heidegger's got facticity and freedom, which I think is easier to understand.
+
+564
+00:55:29,761 --> 00:55:37,201
+But what the issue is, is that once you get this identity and get this world, let's stick to the identity.
+
+565
+00:55:37,201 --> 00:55:39,201
+That's the main one we talk about.
+
+566
+00:55:39,201 --> 00:55:42,641
+An identity is like a definition.
+
+567
+00:55:42,641 --> 00:55:44,080
+It's necessary.
+
+568
+00:55:44,081 --> 00:55:47,440
+I mean, it's necessary that 2 plus 2 equals 4.
+
+569
+00:55:47,440 --> 00:55:51,281
+It just isn't an accident, or that a triangle has 180 degrees.
+
+570
+00:55:51,281 --> 00:55:54,320
+It's eternally true, but that's not what I want to stress now.
+
+571
+00:55:54,320 --> 00:55:59,520
+I want to stress now it's not up for grabs, and in a certain sense, you can't change it.
+
+572
+00:55:59,920 --> 00:56:15,121
+And since this is your defining commitment, it defines who you are in the way that the 180 degrees with a three-sided closed figure defines a triangle, and it has to have 180 degrees.
+
+573
+00:56:15,121 --> 00:56:23,440
+There's something very fixed and necessary in the defining part of a defining relation.
+
+574
+00:56:23,761 --> 00:56:46,241
+But of course, it's not defining the way numbers are or definitions of in or normal definitions are, because you're still free, even though you're defined and necessarily fixed, you know, and that's the necessary part, with your identity.
+
+575
+00:56:46,241 --> 00:56:51,081
+You are still free in lots of ways to deal with that identity.
+
+576
+00:56:51,081 --> 00:56:52,281
+We've seen them.
+
+577
+00:56:48,800 --> 00:57:04,681
+For instance, the crucial one, you are free to live in it with the sword hanging over the head of the beloved, or you're free to make the movement of resignation and make it safe.
+
+578
+00:57:04,681 --> 00:57:09,320
+Of course, you're free to do it, but you'll be in despair, but you can do it.
+
+579
+00:57:09,641 --> 00:57:13,481
+I made a list of all the things you're still free to do.
+
+580
+00:57:15,721 --> 00:57:18,041
+What's possible for you?
+
+581
+00:57:18,041 --> 00:57:24,601
+Well, you can, where do I have my list?
+
+582
+00:57:26,520 --> 00:57:28,921
+Oh, you could become an I resignation.
+
+583
+00:57:28,920 --> 00:57:32,761
+You could forget the whole thing, go back to lower immediacy.
+
+584
+00:57:32,761 --> 00:57:36,360
+Remember, that's like the guy at the end of 1984.
+
+585
+00:57:36,761 --> 00:57:38,361
+Or maybe that's not like that.
+
+586
+00:57:39,000 --> 00:57:40,761
+He betrays the woman he loves.
+
+587
+00:57:40,761 --> 00:57:41,961
+You can do that too.
+
+588
+00:57:41,960 --> 00:57:56,760
+Maybe that's, according to Han in the third man, if we assume that Holly has got a kind of defining relation for Harry as his best friend, and who he sort of thinks of himself as Harry's friend, we can push this a little.
+
+589
+00:57:57,081 --> 00:58:00,041
+And it's Harry that makes the world interesting.
+
+590
+00:58:00,041 --> 00:58:10,121
+Holly will drop everything to go to when Harry calls and will do anything to help him and so forth.
+
+591
+00:58:10,121 --> 00:58:20,281
+Well, in the end, Holly, who's got freedom, who's got possibility, betrays Harry because he thinks the ethical is higher.
+
+592
+00:58:20,681 --> 00:58:28,601
+So you've got freedom to betray the commitment, and you've even got freedom, and this is a hard one, of course, to change it.
+
+593
+00:58:28,601 --> 00:58:54,081
+That is, to change its status so that you go through grief and you change the commitment to this person was the most important person in my life, is still defining me, but defining me in a way that he's become part of me or she's become part of me such that I'm open to another person who will sort of add to the definition of me.
+
+594
+00:58:54,081 --> 00:58:55,680
+That's all your possibility.
+
+595
+00:58:55,681 --> 00:58:56,961
+That's your freedom.
+
+596
+00:58:56,960 --> 00:59:03,681
+All of this in the realm of this defining limit that's fixed about you once you've got an unconditional commitment.
+
+597
+00:59:03,681 --> 00:59:04,960
+So that's the third one.
+
+598
+00:59:04,960 --> 00:59:07,921
+That's how you get that together.
+
+599
+00:59:07,920 --> 00:59:14,721
+Now, let me read, because I sort of made that up without reading what I'm saying, and it may have done something wrong.
+
+600
+00:59:26,480 --> 00:59:38,881
+So another way to talk about possibility is that even though the central concern in my life is fixed for good, I'm free to relate to myself and relate to it in all sorts of ways.
+
+601
+00:59:38,880 --> 00:59:41,281
+Then I was telling you the way.
+
+602
+00:59:42,880 --> 00:59:48,481
+And that's another way to remember to say it's not a compulsion that this kind of commitment.
+
+603
+00:59:48,480 --> 00:59:50,561
+There's lots of freedom in it.
+
+604
+00:59:50,561 --> 00:59:58,800
+You've got to be able to free to give it up, even though if you do, you'll be in despair.
+
+605
+01:00:00,641 --> 01:00:01,281
+Okay.
+
+606
+01:00:01,601 --> 01:00:04,961
+So now I finished the story of this piece of it.
+
+607
+01:00:04,960 --> 01:00:08,160
+That is, now we understand not just that.
+
+608
+01:00:08,161 --> 01:00:26,520
+The self is out of despair if and only if it relates to itself by relating to another and expresses transparently in what it does, that this other is the power that constituted it, that whole mouthful.
+
+609
+01:00:26,761 --> 01:00:31,401
+We've seen that if you do that, you can get the factors together.
+
+610
+01:00:31,721 --> 01:00:38,601
+But doing it requires doing having anguish and doing something which if you were rational, you wouldn't do.
+
+611
+01:00:39,000 --> 01:00:43,721
+But we're not going to go back over that to be clear from fear and trembling.
+
+612
+01:00:43,721 --> 01:00:47,640
+Okay, now maybe somebody wants to say something.
+
+613
+01:00:47,960 --> 01:00:48,680
+Do they?
+
+614
+01:00:48,681 --> 01:00:49,641
+Anybody?
+
+615
+01:00:49,641 --> 01:00:50,200
+Yeah.
+
+616
+01:00:55,320 --> 01:00:57,640
+That's the MIT formula, as I call it.
+
+617
+01:00:57,641 --> 01:00:58,201
+Remember?
+
+618
+01:00:58,601 --> 01:01:02,281
+I have to keep writing that around because that's sort of hard to get used to.
+
+619
+01:01:02,281 --> 01:01:07,961
+But we've got X defining commitment to Y.
+
+620
+01:01:08,281 --> 01:01:10,201
+Then you can go and do it.
+
+621
+01:01:10,201 --> 01:01:15,641
+You can do resignation, which is X defining commitment to the idea of Y.
+
+622
+01:01:15,641 --> 01:01:31,320
+But you can also do this paradoxical thing of going through grief, which is paradoxical already, because in grief you both think that you'll always have a defining commitment and that you could never have again because this is who you are and you just lost the thing that's most defining of who you are.
+
+623
+01:01:31,320 --> 01:01:37,000
+You take Y over, you interiorize Y, and you're open to Z.
+
+624
+01:01:37,480 --> 01:01:39,160
+That's the story.
+
+625
+01:01:39,800 --> 01:01:45,320
+Now, Kierkegaard, and you're right to question it always, because Kierkegaard has no clue about that.
+
+626
+01:01:45,320 --> 01:01:47,320
+He just doesn't understand grief.
+
+627
+01:01:47,320 --> 01:02:02,281
+And all he remember, I'm building this whole story on one phrase in Kierkegaard, namely that Abraham believed in the absurd, in the paradoxical, and he had faith, and he knew that he could get a new Isaac.
+
+628
+01:02:02,281 --> 01:02:03,960
+And you say, well, how can he get a new Isaac?
+
+629
+01:02:04,081 --> 01:02:05,281
+This is the defining one.
+
+630
+01:02:05,281 --> 01:02:06,080
+This is the only one.
+
+631
+01:02:06,081 --> 01:02:16,721
+Are you going to just drop Isaac and say, well, let's just go off with who's Isaac's brother that gets sent off because he's not really Sarah's son?
+
+632
+01:02:19,920 --> 01:02:20,560
+Ishmael.
+
+633
+01:02:20,561 --> 01:02:21,360
+Is that what somebody said?
+
+634
+01:02:21,360 --> 01:02:22,721
+It's Ishmael, I believe.
+
+635
+01:02:22,721 --> 01:02:25,761
+So Abraham could say, well, I'll just adopt Ishmael.
+
+636
+01:02:26,000 --> 01:02:28,800
+After all, he's really my natural child and so forth.
+
+637
+01:02:28,800 --> 01:02:31,121
+That's not what it is to get a new Isaac.
+
+638
+01:02:31,121 --> 01:02:42,001
+And to get a new Isaac is a paradoxical something, Kierkegaard knows, but he doesn't know what sort of suffering and anguish makes it possible, though he sort of knows it's some kind of suffering.
+
+639
+01:02:42,000 --> 01:02:45,361
+And remember, Isaac is also the ethical, just to review.
+
+640
+01:02:45,360 --> 01:03:00,961
+And somehow, even though you're doing this loathsome, impossible thing, and you're in anguish, you somehow do it with the sense that even though you couldn't make any sense of how, you will always have the ethical on your side.
+
+641
+01:03:00,960 --> 01:03:03,680
+And again, Kierkegaard has no story about that.
+
+642
+01:03:03,681 --> 01:03:10,320
+He knows that there's lots of anguish and suffering and that it's experienced as impossible and that you can do it, but you can't understand it.
+
+643
+01:03:10,320 --> 01:03:13,360
+And I'm putting in the phenomenon.
+
+644
+01:03:13,360 --> 01:03:14,961
+At least I believe I am.
+
+645
+01:03:15,281 --> 01:03:18,721
+And I don't have a good sense of how suffering changes the ethical.
+
+646
+01:03:18,721 --> 01:03:21,121
+I just know it better do that.
+
+647
+01:03:21,681 --> 01:03:30,960
+And yeah, I mean, I don't know any play or book or anything else that does have a sense of it, though I'm sure there must be.
+
+648
+01:03:30,960 --> 01:03:33,761
+If anybody knows, come and tell me.
+
+649
+01:03:34,081 --> 01:03:35,520
+Did I see a hand up over here?
+
+650
+01:03:35,520 --> 01:03:35,920
+Yeah.
+
+651
+01:03:42,360 --> 01:03:44,040
+I might have to give it.
+
+652
+01:03:45,761 --> 01:03:52,601
+I want to say that's what you're free to do, and you never need to do it, but you're free to do it, and that's your freedom.
+
+653
+01:03:49,121 --> 01:03:54,040
+And I see what you're asking.
+
+654
+01:03:54,281 --> 01:03:56,360
+How are you normally expressing your freedom?
+
+655
+01:03:56,360 --> 01:03:56,920
+Oh, you're good.
+
+656
+01:03:57,081 --> 01:03:58,201
+Very good question.
+
+657
+01:03:58,201 --> 01:04:03,480
+Because you might say to me, well, yeah, but you've got to be, remember, you've got to, that's terrific.
+
+658
+01:04:03,480 --> 01:04:05,081
+I think I know what you're thinking.
+
+659
+01:04:05,081 --> 01:04:09,880
+You've got to be able to fully be expressing both sets of factors all the time.
+
+660
+01:04:09,880 --> 01:04:11,001
+That's what you're thinking.
+
+661
+01:04:11,000 --> 01:04:19,401
+And I've told you how you can express the finite and infinite all the time, and the temporal and eternal all the time, but I've sort of told you the necessary is there all the time.
+
+662
+01:04:19,400 --> 01:04:21,800
+And sometimes you can do this possible thing.
+
+663
+01:04:21,800 --> 01:04:22,920
+And that's not enough.
+
+664
+01:04:22,920 --> 01:04:25,800
+You ought to be in the possible all the time.
+
+665
+01:04:25,800 --> 01:04:26,521
+Good.
+
+666
+01:04:26,520 --> 01:04:27,800
+I think you are.
+
+667
+01:04:27,800 --> 01:04:40,921
+I think what the answer is something like: all the time, you are free to give this relation whatever expression it seems to require in that situation that comes along.
+
+668
+01:04:40,920 --> 01:04:45,800
+And that's going to turn out to be lots of different ways of having to decide.
+
+669
+01:04:45,800 --> 01:04:58,840
+Like, I could see if my vocation is teaching, then I'm free constantly and have to decide whether to stay and talk to students into the night or to go home and see my wife and children.
+
+670
+01:04:58,840 --> 01:05:00,601
+It's a big problem.
+
+671
+01:05:00,601 --> 01:05:03,641
+And I'm free to do it.
+
+672
+01:05:03,641 --> 01:05:08,920
+And that's the kind of freedom that from day to day you have to have.
+
+673
+01:05:09,000 --> 01:05:11,080
+Oh, anything else?
+
+674
+01:05:11,081 --> 01:05:13,880
+You see, the good questions come out if you just wait.
+
+675
+01:05:13,880 --> 01:05:14,281
+Yeah.
+
+676
+01:05:24,520 --> 01:05:25,560
+You can't.
+
+677
+01:05:25,560 --> 01:05:26,520
+That's good.
+
+678
+01:05:26,841 --> 01:05:33,241
+I mean, that's, I have to keep saying this over and over because Kierkegaard is such a peculiar Christian.
+
+679
+01:05:33,241 --> 01:05:35,600
+You can't have an increase in passion for God.
+
+680
+01:05:35,600 --> 01:05:37,840
+That's what you're discovering, and that's great.
+
+681
+01:05:37,841 --> 01:05:48,640
+Because God would be infinite and eternal and so forth, and it wouldn't do for expressing the finite and temporal side of your life.
+
+682
+01:05:48,640 --> 01:05:57,440
+That's why love of God, remember, he says in fear and trembling that he's in despair, that is DeSilentio, who's a knight of resignation.
+
+683
+01:05:57,440 --> 01:06:06,960
+And he says, love of God is my favorite thing, and it makes me blissful, and I can do it all the time, and it doesn't keep him out of despair at all.
+
+684
+01:06:06,961 --> 01:06:20,081
+So, love of God, it turns out to be a good thing, spiritual, a step in the right direction, but it is not the con, that's not another.
+
+685
+01:06:20,081 --> 01:06:22,480
+God isn't another, God isn't a supreme being.
+
+686
+01:06:22,480 --> 01:06:23,680
+Let's turn it the other way.
+
+687
+01:06:23,680 --> 01:06:27,440
+If God is that all things are possible, you can't love that.
+
+688
+01:06:27,440 --> 01:06:30,161
+That's just a kind of atmosphere or something.
+
+689
+01:06:30,161 --> 01:06:35,121
+So, there's no way to love the God that Kierkegaard is talking about.
+
+690
+01:06:35,121 --> 01:06:40,800
+But, and this is very important, God did become man, and you can love the God-man.
+
+691
+01:06:40,801 --> 01:06:48,640
+Kierkegaard is very clear about distinguishing Jesus as the God-man from God the Supreme Being.
+
+692
+01:06:48,640 --> 01:06:59,520
+And he says, I keep repeating this: once God has become man, then you can't have any relation to God anymore except by relating to the God-man.
+
+693
+01:06:59,841 --> 01:07:02,081
+Kierkegaard is an extreme Protestant.
+
+694
+01:07:02,081 --> 01:07:08,560
+I mean, this is sort of the logic of Protestantism carried out to the farthest.
+
+695
+01:07:08,560 --> 01:07:18,320
+And you'll see Dostoevsky, who's a total genius, invents Kierkegaard and pushes this to its absolute extreme in the brothers.
+
+696
+01:07:18,320 --> 01:07:20,440
+But, anyways, is that help?
+
+697
+01:07:19,201 --> 01:07:22,040
+Okay, next.
+
+698
+01:07:25,560 --> 01:07:30,600
+Okay, well, I'm ready to go on, but at least to pose a problem.
+
+699
+01:07:31,161 --> 01:07:33,081
+I don't think I have time to answer it today.
+
+700
+01:07:33,161 --> 01:07:33,640
+That's fine.
+
+701
+01:07:34,201 --> 01:07:36,840
+Good thing for you to think about till Thursday.
+
+702
+01:07:37,161 --> 01:07:48,281
+So Kierkegaard says that anybody who's not managed to get the self together by an unconditional commitment to another is in despair.
+
+703
+01:07:48,841 --> 01:07:57,720
+If you're reading this as just a philosopher contemplating the book and thinking about it, this shouldn't make a big difference to you.
+
+704
+01:07:57,720 --> 01:08:08,281
+But if you're trying to take this book seriously as a kind of existential statement that's supposed to speak directly to your life, then that must be rather upsetting.
+
+705
+01:08:08,281 --> 01:08:16,920
+Because anyone here who hasn't got an unconditional commitment, and I suspect there's most of us, must be in despair.
+
+706
+01:08:16,921 --> 01:08:19,001
+And that, are you going to buy that?
+
+707
+01:08:19,001 --> 01:08:26,840
+Are you going to let Kierkegaard tell you, all through here, 200 people, that you're all in despair and that he knows it, even though he hasn't ever met any of you?
+
+708
+01:08:26,841 --> 01:08:29,480
+This is outrageous, it seems to me.
+
+709
+01:08:29,480 --> 01:08:44,040
+And you want to say, this is, and each one of them wants to say in their own terms, unless they've actually gone through despair and got out of it by having an unconditional commitment, that they are, you see, you could be in the unconscious kind of despair.
+
+710
+01:08:44,041 --> 01:08:52,600
+I think children are in it, but also game players who can go on for until they're old, still in it.
+
+711
+01:08:52,600 --> 01:08:55,800
+And so, but so what do you want to say?
+
+712
+01:08:55,801 --> 01:08:58,440
+You want to say, this is ridiculous, Kierkegaard.
+
+713
+01:08:58,440 --> 01:08:59,800
+I'm not in despair.
+
+714
+01:09:00,201 --> 01:09:01,840
+I'm a happy pagan.
+
+715
+01:09:01,841 --> 01:09:09,201
+Or I'm a robot maker like what's the guy whose name I keep forgetting who wrote Mine Children.
+
+716
+01:09:09,520 --> 01:09:18,241
+Moravec, who says, Well, I'm as long as I can write programs and I don't care what happens to my body, but I'm happy.
+
+717
+01:09:18,241 --> 01:09:20,080
+He's a platonist.
+
+718
+01:09:20,881 --> 01:09:25,041
+Or you may think you're satisfying some sense of the finite and infinite.
+
+719
+01:09:25,281 --> 01:09:29,600
+At least you're fulfilling all your capacities and everything is working for you.
+
+720
+01:09:31,201 --> 01:09:35,201
+So if you think that, how in the world is Kierkegaard going to convince you?
+
+721
+01:09:35,201 --> 01:09:40,480
+Well, you think you're having a great time, that you're in fact in despair right now.
+
+722
+01:09:41,281 --> 01:09:43,920
+Why does he have a right to say that to you?
+
+723
+01:09:43,921 --> 01:09:46,400
+You shouldn't let him get away with it.
+
+724
+01:09:46,400 --> 01:09:51,360
+Well, this gets you onto page two of the handout.
+
+725
+01:09:51,360 --> 01:09:55,121
+And I'll read it, but I won't try to tell you what it means.
+
+726
+01:09:55,121 --> 01:09:56,400
+You think about it.
+
+727
+01:09:56,400 --> 01:10:07,040
+He says, the common view overlooks the fact that when compared with illness, despair differs dialectically from what one usually calls sickness, because it is sickness of the spirit.
+
+728
+01:10:07,041 --> 01:10:12,960
+And this dialectic aspect, properly understood, brings further thousands under the category of despair.
+
+729
+01:10:12,961 --> 01:10:14,400
+Millions, really.
+
+730
+01:10:15,440 --> 01:10:17,920
+And this whole room, presumably.
+
+731
+01:10:17,921 --> 01:10:30,960
+If at any time a physician is convinced that so-and-so is in good health, and then later that person becomes ill, then the physician may well be right about his having been well at the time, but now being sick.
+
+732
+01:10:30,961 --> 01:10:33,040
+Not so with despair.
+
+733
+01:10:33,041 --> 01:10:37,760
+Once despair appears, what is apparent is that the person was in despair.
+
+734
+01:10:37,760 --> 01:10:44,960
+In fact, it's never possible at any time to decide anything about a person who's not saved through having been in despair.
+
+735
+01:10:44,961 --> 01:10:45,281
+What?
+
+736
+01:10:45,281 --> 01:10:46,161
+Is that the end of this?
+
+737
+01:10:46,320 --> 01:10:48,800
+In fact, it's never possible to decide anything.
+
+738
+01:10:48,921 --> 01:10:50,201
+I guess you have to answer that.
+
+739
+01:10:50,201 --> 01:10:54,360
+To decide anything about a person who's not saved through having been in despair.
+
+740
+01:10:54,360 --> 01:10:56,360
+That means you just can't tell.
+
+741
+01:11:02,360 --> 01:11:03,800
+Don't worry about that sentence.
+
+742
+01:11:03,801 --> 01:11:05,161
+I don't like that sentence.
+
+743
+01:11:05,161 --> 01:11:09,400
+I think I could make up a story that would make it all right, but it would be more trouble than it was worth.
+
+744
+01:11:09,720 --> 01:11:16,520
+For when whatever causes a person to despair occurs, it is immediately evident that he's been in despair his whole life.
+
+745
+01:11:16,520 --> 01:11:23,560
+When someone gets a fever, on the other hand, it cannot possibly be said that now it's evident that he had a fever all his life.
+
+746
+01:11:23,560 --> 01:11:31,720
+But despair is a characteristic of the spirit, is related to the eternal, and therefore has something of the eternal in its dialectic.
+
+747
+01:11:31,720 --> 01:11:35,080
+Are you anybody here now convinced that they're in despair?
+
+748
+01:11:35,081 --> 01:11:37,800
+Having heard this amazing passage?
+
+749
+01:11:37,801 --> 01:11:45,560
+Okay, well, it's too late to try to convince you right now, but I'll think about it, read it again, decide if it convinces you in despair.
+
+750
+01:11:45,560 --> 01:11:47,880
+We'll talk about it more next time.
