@@ -10,7 +10,7 @@ A comprehensive collection of philosophy lecture transcriptions, made accessible
 | Philosophy 188: Merleau-Ponty | Hubert Dreyfus | 31 | ✅ Complete |
 | Philosophy 6: From God to Gods | Hubert Dreyfus | 30 | ✅ Complete |
 | Philosophy 7: Existentialism | Hubert Dreyfus | 52 | ✅ Complete |
-| Basic Problems of Phenomenology | Hubert Dreyfus | 9 | ✅ Complete |
+| Basic Problems of Phenomenology | Hubert Dreyfus | 10 | In Progress (1 missing) |
 
 ## 🤝 Contributing
 
