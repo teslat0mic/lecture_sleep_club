@@ -1,0 +1,81 @@
+name: PR Quality Checks
+
+on:
+  pull_request:
+    branches: [ main ]
+    types: [opened, synchronize, reopened]
+
+jobs:
+  validate-srt:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pysrt chardet
+        
+    - name: Validate SRT files
+      run: |
+        # Find all modified SRT files
+        MODIFIED_SRT=$(git diff --name-only HEAD~1 | grep '\.srt$' || true)
+        
+        if [ -n "$MODIFIED_SRT" ]; then
+          echo "Validating SRT files: $MODIFIED_SRT"
+          
+          # Create simple validation script
+          cat > validate_srt.py << 'EOF'
+import sys
+import re
+from pathlib import Path
+
+def validate_srt(file_path):
+    """Basic SRT validation"""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Check for basic SRT structure
+        lines = content.strip().split('\n')
+        if not lines:
+            return False, "Empty file"
+            
+        # Look for timestamp pattern
+        timestamp_pattern = r'\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}'
+        if not re.search(timestamp_pattern, content):
+            return False, "No valid timestamps found"
+            
+        return True, "Valid SRT format"
+        
+    except Exception as e:
+        return False, f"Error reading file: {e}"
+
+if __name__ == "__main__":
+    file_path = sys.argv[1]
+    valid, message = validate_srt(file_path)
+    
+    if valid:
+        print(f"✅ {file_path}: {message}")
+        sys.exit(0)
+    else:
+        print(f"❌ {file_path}: {message}")
+        sys.exit(1)
+EOF
+
+          # Validate each modified SRT file
+          for srt_file in $MODIFIED_SRT; do
+            if [ -f "$srt_file" ]; then
+              python validate_srt.py "$srt_file"
+            fi
+          done
+        else
+          echo "No SRT files modified in this PR"
+        fi

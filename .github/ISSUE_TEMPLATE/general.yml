@@ -1,0 +1,19 @@
+name: "💡 General Issue"
+description: "Bug reports, feature requests, or general feedback"
+title: "[TYPE]: [Brief Description]"
+labels: ["question"]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "What issue or suggestion do you have?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional Context"
+      description: "Any additional information that might help"

@@ -1,0 +1,75 @@
+name: "🎯 Transcription Correction"
+description: "Report and suggest fixes for transcription errors"
+title: "Fix: [Course] Lecture XX - [Brief Description]"
+labels: ["correction", "transcription", "help-wanted"]
+
+body:
+  - type: dropdown
+    id: course
+    attributes:
+      label: "📚 Course"
+      description: "Which course contains the transcription error?"
+      options:
+        - "Philosophy 185: Heidegger"
+        - "Philosophy 188: Merleau-Ponty"
+        - "Philosophy 6: From God to Gods"
+        - "Philosophy 7: Existentialism"
+        - "Basic Problems of Phenomenology"
+        - "Philosophy 7: Part 2"
+    validations:
+      required: true
+
+  - type: input
+    id: lecture
+    attributes:
+      label: "📖 Lecture Number"
+      description: "Which lecture number? (e.g., 01, 02, 15)"
+      placeholder: "01"
+    validations:
+      required: true
+
+  - type: input
+    id: timestamp
+    attributes:
+      label: "⏰ Timestamp (HH:MM:SS)"
+      description: "Exact timestamp where the error occurs"
+      placeholder: "00:05:23"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_text
+    attributes:
+      label: "❌ Current (Incorrect) Text"
+      description: "What does the transcription currently say?"
+      placeholder: "The phenomenlogical reduction involves..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: corrected_text
+    attributes:
+      label: "✅ Suggested Correction"
+      description: "What should it say instead?"
+      placeholder: "The phenomenological reduction involves..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "📝 Additional Context"
+      description: "Any additional details about this correction"
+      placeholder: "This appears to be a recurring term in the lecture. I verified by listening to the audio multiple times at this timestamp."
+
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: "🔍 Verification Checklist"
+      description: "Please confirm you've verified this correction:"
+      options:
+        - label: "I listened to the audio at the specified timestamp"
+          required: true
+        - label: "The correction accurately reflects what was said"
+          required: true
+        - label: "I checked for similar errors elsewhere in the transcript"
